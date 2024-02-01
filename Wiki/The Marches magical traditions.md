@@ -1,0 +1,43 @@
+---
+revision_id: 84250
+revision_date: 2021-08-12T17:29:25Z
+categories:
+- Magic
+- The Marches
+- Archetype
+aliases:
+- The_Marches_magical_traditions
+---
+
+
+Despite their apparent focus on the mundane, the Marches has a strong tradition of spellcasting and ritual magics. Their ritual magic in particular is used to great effect to help ensure excellent harvests and to prepare yeoman soldiers for war. A great deal of Marcher magic comes from concepts of ownership of land; of harnessing the symbolic power in the wheel of the seasons; and of the connection between the human body (flesh, sweat, breath) and the physical world (soil, water, wind). 
+
+Spellcasting is often seen as a practical discipline. A doctor is as likely to know a charm to [[heal]] as to rely solely on [[Surgical skills#Apothecary|herbs and potions]]; a respected blacksmith may use a magical word to [[mend]] a damaged pot - or weapon. The magic they wield is steeped in tradition; the methods they use have been handed down from one magician to another for centuries. This means that both the village healer and the powerful ritualist alike are wielding magic tried and tested by the generations that have gone before them.
+
+A great deal of magical power rests in the hands of the [[Landskeeper|landskeepers]], politically powerful magicians who safeguard the customs of the Marches and see to its magical wellbeing. They are steeped in tradition, and tend to be given a wary respect by the folk of the Marches. By contrast, the [[#Mummers|Mummers]] practice a rough and ready form of magic that is often seen as suspect, unreliable or downright dangerous - but does not prevent them being in demand for the kind of magical workings that may be seen as beneath the notice of the "stuffy" landskeepers. Both groups look down on ''hedge wizards'' - magicians at the beck and call of a steward.
+
+## Mummers
+Some Marcher magicians practice [[dramaturgy]], and join together in bands of ''mummers''. They tend to maintain an itinerant existence combining the practice of ritual magic with entertainment. Traveling from place to place freely, they attend fairs, markets and other regular gatherings performing plays and feats of skill. They are often greeted with a little suspicion - compared by some uncharitable souls to the [[mountebank|mountebanks]] of the League. Some [[Market town|market towns]] observe local ordinances that ban mummers from spending the night in their environs.
+
+Mummers pride themselves on working magic through improvisation, without scripts but with a strong intuitive feel for the stories they create and the roles they use to work their magic. The [[Dramaturgy#The_Personae|personae]] are usually presented with a single key prop rather than a mask or sumptuous costume, while the [[Dramaturgy#The_Thrones|thrones]] are generally established by narration rather than through expensive - and unwieldy - scenery. Almost all groups of mummers include [[Dramaturgy#The_Fool|the fool]] as a major character, weaving narration and commentary through the performance as the personae act out the events  they describe - the fool is also responsible for encouraging audience participation and attracting patrons prepared to pay a few coins for the magic or entertainment the mummers provide. In contrast to League dramaturgists, the fool is often the only member of the band who wears a mask.
+
+Their plays are often rough and full of broad humour, but no less effective at providing entertainment or instruction for all that. It is quite common for bands of mummers to have a broad mastery of ritual lores rather than to focus in any one lore - many pride themselves on mastering the four rituals that allow a [[farm]] to be [[enchantment|enchanted]] through the year. They use the opportunity of seasonal fairs to stage grand performances that enchant all the farms in the vicinity usually for a suitable donation from the yeomen who own those farms.
+
+The tradition clearly has roots in the [[Dawn|Dawnish]] traditions of the [[Dawn magical traditions#Guisers|guisers]].
+
+## Spirit Animals
+One form of magic practiced in the Marches is a type of [[totem magic]]. It has partially fallen out of favour, but some Marcher magicians draw on symbollic [[Totem magic#Spirit Animals|spirit animals]] (and in some cases plants) to work their magic. The practice is quite old, and many modern Marcher magicians look on it as being a little primitive or simplistic.
+
+## Sorcery and the Threshers
+Someone who is suspected of using magic in ways that violate Marcher traditions faces shunning or worse. The [[Declaration#Declaration_of_Sorcery|Declaration of Sorcery]] used by the [[Imperial Conclave]] was originally a Marcher idea. The [[Landskeeper|landskeepers]] could judge fellow magicians accused of misusing their magic, declaring them to be sorcerers and punishing them for their misdeeds. 
+
+There is a common belief in the Marches that all magic should be done publicly. Only sorcery is done in private - "dark minds find dark places to do dark deeds" so the saying goes. That is not to say that every magical ritual requires an audience, but the more effort the practitioners make to keep people from seeing what they are doing, the more suspect their magic must be.
+
+Some Marchers dedicate themselves to tracking down, exposing and destroying sorcerers wherever they may operate. They are called Threshers and they watch for things that are ''wrong''. Every farmer knows about separating wheat from chaff, and the Threshers look to separate human wheat from human chaff. They seek out those who are using magic or old lore against the interest of the people. Where crimes are being committed they work with the [[Marches Military Concerns#Beaters|beaters]] and landskeepers to capture the sorcerer and hand them over to Imperial justice. If the sorcerer has not broken any Imperial laws then the [[Marches Culture and Customs#Rough Music|rough music]] is their punishment, or [[Marches Culture and Customs#Shunning|shunning]] if they persist. It falls to the Thresher to convince the folk of the Marches that these punishments are merited, and in many cases to oversee their performance.
+
+Several Threshers expand their interests to include the rest of the Empire, looking for villains outside the borders of the Marches whose wickedness threatens - or may eventually threaten - the innocent folk of their Nation. These Threshers have an interests in groups such as the circle of sinister sorcerers called the [[Volodny]], or the most powerful barbarian shamans, who threaten the Marches by dint of the threat they present to the entire Empire.
+
+
+
+
+

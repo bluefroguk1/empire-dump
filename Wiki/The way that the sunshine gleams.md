@@ -1,0 +1,79 @@
+---
+revision_id: 100378
+revision_date: 2023-05-05T15:26:12Z
+categories:
+- Winds of Fortune
+- 382YE Autumn
+- Recent History
+aliases:
+- The_way_that_the_sunshine_gleams
+---
+
+
+Myfanwy of Teeth Striding hit the outer gates of the Canterspire Civil Service hub at the same comfortable jog she'd employed all the way from Therunin. With a barked "Commodus!" she tossed her spear to one of the sentinels on the gate, who nodded her past.
+
+Six fine statues flanked the perfectly-kept grey granite stairs: six rearing horses, two of them winged and two others horned, dressed with barding rich with astronomantic symbolism. Green-veined marble clad every straight surface. The domes were whitewashed Pharos concrete, stronger than any like them, and glowed faintly with the light of the Day regio in the central courtyard. To most, now, a glance upward would be breathtaking.
+
+Myfanwy didn't glance up. She had a job to do, and even on the best days, this place reminded her of Terun hubris. On a day like today, that irony stung like a Therunin bee.
+
+She took the stairs two at a time. Up, in, right, toss a couple of letters to reception, and up and round to the second floor. Offices. Listen for the sound of an argument - there.
+
+Civil servants, current and former, shared the space with sentinels of northern spires and representatives from almost every striding and steading of Therunin. Maps were laid out, alongside great lists, some of them... worryingly ancient-looking. Worrying, since the Urizeni were crossing items off them with charcoal sticks.
+
+"Hands," a Highborn in black commanded. While she washed, a quiet Sentinel briefed her on the basics of the plan to evacuate Canterspire, its books and its people. This was a desperate endeavour, and a lot would get left behind. The effort now was to identify that which was irreplaceable, and try to get it north in carts...
+
+And then Gordion went quiet, and everyone else with him. Myfanwy dropped the dark towel from her face to find the entire space glowing with an unnatural light. Some within were trying to look out of the windows, down to the Regio below, but that light made them recoil. She felt her skin drying, crackling, scorched like sunburn; she felt brittle, like old, delicate paper.
+
+A voice shone out of that light. It was little louder than a whisper, but a whisper next to her ears. The thick glass in the windows hummed in sympathy. "The Great Library offers its assistance," the voice said, "The Authorities of Phaleron wish to speak with those Urizeni who breathe the bright air of the Day sun."
+
+Myfanwy blinked back tears as the too-bright radiance faded. Her skin flushed red, and she rubbed her face with her hands, shivering uncomfortably at the feeling of the blood rushing back into it. She rushed to look out of the window down to the courtyard below.
+
+Where a dark-eyed herald stood, a fraction of a smile on its delicate features.
+
+## Overview
+One year ago, the [[eternal]] [[Phaleron]] sent an emissary to [[Scholars_and_mandarins#The_Celestial_Library|arrange a meeting]] with certain magicians of the Empire - all those who had mastered [[The Celestial Library]]. During the meeting, the eternal spoke of an attack against its archives by persons unknown, and of a spreading blight that was destroying knowledge. With a heavy heart - inasmuch as the Celestial Library can be said to have a heart - Phaleron closed its doors to the Empire. And not only the Empire - there seems to have been minimal contact since between mortals across the known world and the eternal library of the Day realm while it set its halls in order.
+
+Now, however, it seems that whatever problems have beset it have been dealt with. It has sent an emissary - a tall, pale herald with a serious manner and long sea-green robes - to speak to the Civil Servants associated with the Conclave. Other heralds have visited talented masters of [[Day magic]] in various parts of the Empire, bringing greetings and apologies from the ''Archives of Silence''. All bear a similar message; the library is about to open its doors once again.
+## A Renewed Purpose
+For untold centuries, Phaleron has existed purely to contain knowledge. It has jealously guarded the information it contained, voraciously seeking to encompass everything written down in pursuit of some idea of perfection. Over the last year, it has been forced to reconsider its attitudes. The attempt to invade and corrupt its alabaster halls has forced it to address its reasons for gathering knowledge.
+
+It is still in the process of evaluating its purpose, but the emissaries say that the direction is changing. Rather than merely seeking to contain information, to hoard it, it wishes to ''protect'' it and ''increase'' it - and accepts that sometimes the way to protect it is to ''share'' it. The possession and preservation of knowledge cannot be an end in itself; it must be gathered to a purpose, or else it might as well merely be a pawn of [[Whisper Gallery|dark forces]]. Yet at the same time, when one shares knowledge with another, one must acknowledge responsibility for how they use that knowledge. To use a crude example, if a sword master trains someone to fight with peerless skill then the master is to a degree responsible for every death the apprentice causes. The teacher must accept some responsibility for the actions of the pupil.
+
+This realisation is apparently prompting a transformation in Phaleron - or perhaps a transfiguration. It is not clear where it will end, but for now the main impact is that it has resolved to be less grasping in its quest for knowledge - and to evaluate the truth of the information it contains rather than simply taking everything at face value.
+
+## A New Archives
+* The ritual known as The Celestial Library is no longer useful.
+* Phaleron will provide a new ritual to replace it, one that places the library less at risk of attack.
+The cause of Phaleron's problems was an attack launched by multiple parties over the course of a year or so. The heralds still will not speak of the precise details, but it appears that several books were sent to the library from different parts of the world - including the Empire - that contained hidden charms intended to leech knowledge from the library in some fashion. These charms were poorly designed, and instead of subtly gathering knowledge they began to destroy it along with halls and chambers of the Coral Library. The corruption has now been contained, and excised, and Phaleron is taking steps to ensure it does not happen again.
+
+The ritual [[The Celestial Library]] is to blame for the recent crisis. Phaleron cannot refuse to receive the books sent with the ritual; it will continue to function as it always has. However, he warns every Imperial magician that such books as are sent with the Celestial Library will not be used to expand the sum of knowledge it contains but rather will be sealed in a specific inaccessible chamber and periodically destroyed.
+
+Instead, working with mortals who share Phaleron's love of books, it has devised a new ritual called ''Gift of Knowledge''. This new ritual is of the same magnitude as Celestial Library but its function is different. It sends a book or set of scrolls to the library where they are copied. Copying the contents uses a specific process which requires five ingots of weltsilver to complete - the ingots must also be included with the book or scrolls. The knowledge provided in this way is literally copied by mandarins into new tomes - the library will no longer simply collect books on its shelves. Instead, every word that becomes part of Phaleron will be examined and considered in relation to all other words by the servants of the library to evaluate the truth it contains. Once the copying is complete - even the longest tome will take only an hour - the book will be returned to the one who sent it along with a single vial of [[Vis#Prismatic Ink|prismatic ink]] in thanks for the gift of knowledge provided.
+
+Furthermore, if a book is considered particularly fine, especially if it contains new verifiable information that either is not already included in the library, or that confirms such information, then the eternal may dispatch an additional token of its appreciation. Likewise, if the text is mundane, pedestrian, or someone is clearly attempting to trick Phaleron by sending the same thing again and again... well the Library may be slow to anger but its wrath is no less potent for it.
+
+Phaleron's representative has prepared a scroll detailing the new ritual which will be delivered to Gancius della Notte di Sarvos, the [[Archmage]] of Day, at the start of the Autumn Equinox to do with as they see fit. The Celestial Library is happy for the ritual to be made part of Imperial Lore, if the Conclave wishes. Further the ''Illuminated Repository'' believes that the ritual is close enough to the [[The Celestial Library|original ritual]] that anyone who had mastered that now defunct ritual will easily be able to master the minor changes the ''Gift of Knowledge'' entails and replace their former mastery with this new version if they have access to the scroll or it is added to Imperial Lore.
+
+## A Chosen Emissary
+When it closed its doors, Phaleron withdrew its support from the ''Custodian of the Casinean Library''. Following the period of evaluation and the change of focus in its mission, Phaleron regretfully says that it will not restore that position. It still wishes to serve as a patron and supporter of the [[Anvil#The_Anvil_Library|Anvil Library]] but for now it seeks to create something with a wider remit - and in doing so requests the aid of the Conclave. Specifically it would like them to intervene with the Imperial Senate, and help it to create a formal [[Imperial title]] which will serve as an emissary to the Empire.
+
+Similar to the recent suggestion of [[Adamant]], Phaleron has a specific new title in mind. It proposes the Senate create the ''Emissary of Phaleron'' with the following powers and responsibilities:
+* The title will be appointed by a Declaration of Candidacy in the Conclave. 
+* The emissary will be responsible for aiding the scholars and librarians of the Empire, aiding the responsible spread of knowledge, and supporting not only the Anvil Library but other centres of knowledge on Phaleron's behalf. Phaleron may ask them to act as its representative if there is some specific task it wishes to see fulfilled, but for the rest of the time it will trust them to pursue these duties as they think best.
+* The Emissary of Phaleron of the title will receive specific regalia from Phaleron which will aid it to serve as an emissary of the Celestial Library. The item will be a magical [[Magic Items#Talismans|focus]], refreshed each year, that allows the wearer to employ ingots of [[Materials#Weltsilver|weltsilver]] in place of crystal mana when performing either [[Skein of Years]] or Gift of Knowledge. Unlike similar items, each ingot of weltsilver will count as a single crystal of mana in the hands of the bearer.
+* Finally, the Emissary will be entrusted with a single scroll each season that may be used in conjunction with the [[operate portal]] cantrip to request information from Phaleron. The emissary must indicate a single topic they desire information about, use the operate portal spell at a suitable regio, and then during the next summit the emissary will receive an excerpt from one of the verified sources contained within Phaleron relating to that topic. It is likely to be a few paragraphs at most, but it will relate as closely to the matter requested as possible.
+* Phaleron will honour the obligation to provide both focus and information as long as the Conclave does not declare [[Amity and enmity#Enmity|enmity]] with it, and as long as the Empire does not abandon its commitment to the responsible spread of knowledge.
+
+Phaleron is keen to point out this decision does not reflect any kind of unhappiness with the former Custodian, just a desire to do things through the existing Imperial channels. It would welcome a member of the Anvil Library staff as emissary, assuming they were successful in a declaration of candidacy.
+
+## A Light Against the Dark
+Phaleron further offers a boon to the Empire intended specifically for the Anvil Library. It is aware that [[Whisper Gallery|dark forces]] seek to extinguish the light of the Library. It would grieve Phaleron if this were to occur. With that in mind it offers a boon, should the Conclave wish to accept it.
+The Conclave agrees that the Anvil Library is a beacon of light, and must be preserved. We ask the Archives of Phaleron to enfold the library, to protect it, its contents, and its staff from the attentions of those eternals who would harm them.
+If the Imperial conclave passes this Declaration of Concord, then Phaleron will extend its power to the Anvil Library. As long as Phaleron does not have enmity, any herald that enters the library will be unable to wield any magical power within its walls without the express permission of the Head Librarian (currently believed to be Birdie of the [[Highguard groups#The_Hostelry_of_the_Winter_Sun|Hostelry of the Winter Sun]]. Furthermore, no herald whose masters are actively hostile to the library - specifically those of the Whisper Gallery - will not be able to enter the library under any circumstances. Finally, all books and scrolls inside the library will be protected from fire, water, and magical damage of any sort while they are under its roof. 
+
+The Celestial Library cautions that it is powerless to prevent the mortal agents of dark powers from harming the library or its custodians; but it is the responsibility of mortals to protect themselves from other mortals.
+
+## A New Hope
+Many of the spires of Morrow have fallen to the Druj, as did those of [[Zenith]] before them. Phaleron is deeply grieved that it has been too preoccupied with its own matters to aid the people of Urizen against their invaders. The destruction of the [[Morrow#The_Halls_of_Knowledge_.28ruined.29|Halls of Knowledge]], and the death or enslavement of so many talented scholars over the last year, have moved it as close to wrath as the library ever gets. 
+
+Disturbed at the loss wrought by the orcs across Urizen, it has chosen to take action. During the Autumn Equinox one of its most trusted heralds - Lioc, the [[Phaleron#The_Chief_Attendants|attendant]] who sees to matters of the Empire - will attend Anvil with an offer of protection. They intend to speak with the magicians of Urizen early on the Friday evening of the Autumn Equinox. Lioc bears with him a potent arcane projection, created by Phaleron, intended to grant a place of sanctuary for the people of Morrow and Zenith, and a refuge for their books and libraries against the malice of the Druj.

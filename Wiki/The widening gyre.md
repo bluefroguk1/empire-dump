@@ -1,0 +1,63 @@
+---
+revision_id: 86445
+revision_date: 2022-02-01T21:25:54Z
+categories:
+- Winds of Fortune
+- 380YE Winter
+- Recent History
+aliases:
+- The_widening_gyre
+---
+
+
+"It's not enough. Barely 500 of us - it's not enough."
+
+He said it with such force that the incessant arguments that had been raging in the hall finally stopped. It didn't matter - they weren't going to agree on where to attack tonight anyway. But everyone was talking about where - nobody was seeing the bigger picture. "It's not enough." he said again - more definitely this time.
+
+Young Siward - who had rescued from the burned-out ruins of his mother's hall and raised as one of his own started at him in surprise. "We can do it Thane. If we take them by surprise, then we can have the main body on the run before they know what's happened. Once we're past the keep there are three mines within a day's march that we can loot and then be back here before they know who has hit them. We're not afraid!"
+
+He chuckled and shook his head. Siward was still young but if he lived through a few more winters, he'd give him the banner to carry. That one would walk into Sydanjaa before his Courage failed him.
+
+"It's not our courage that is short Siw. The plan is sound. We'll kill many and return as heroes, I don't doubt it. But it's not enough. We've been sat on our arses here at the Keep gathering what strength we can and doing what? We need more. Something that reminds everyone why Skarsind was part of Wintermark back when the Three Tears was more than just a symbol."
+
+"We don't have the numbers for a bigger raid - it would mean... a final fight... but... better to go down fighting?" Siward looked up at his thane, ready to hear the command that would lead him and everyone else in the hall to their deaths.
+
+"Aye better for sure. But better still to triumph. A year ago they sat in my hall, eat at my table and spoke of friendship. Let's send the word out... Dogri Thulebane is heading north. Let's see how many friends we really have."
+
+
+## Overview
+Dogri Thulebane, the rebellious [[Wintermark]] Thane, has refused to accept the will of the [[Imperial Senate]] and resides still at [[Skarsind#Crow's Keep|Crows Keep]] in [[Skarsind]]. His forces, small though they are, have moved to secure the region and, for all practical purposes, the region is no longer under control of the [[Imperial Orcs]]. It is still Imperial, Dogri has been very careful on that point, but it's not part of the regions controlled by the Imperial Orcs.
+
+This impasse has continued for the best part of a year and the situation had begun to seem normal, but now a problem has occurred. [[Lantern's light|Thule traders]] coming down from the north attempted to move through Crows Ridge. They were met by armed Wintermarkers who ordered them to turn back. Somehow a fight broke out and one of the Wintermarkers and all of the [[Thule]] were killed.
+
+As news of the death spread, an Imperial Orc magistrate and several militia members went to Crows Reach to try to investigate the deaths. They were refused entrance by Dogri's warriors but they stood their ground until the Thulebane himself appeared. He told them that nobody from Crows Keep would be handed over - that they would not stand down for any force short of a Wintermark army.
+
+Since then he appears to have decided he may as well hang for a sheep as a lamb. Rumours are flying that he is gathering warriors for a raid... Maybe it's just a rumour - maybe it's just a bluff. But if he is intending to raid then it's a sure bet where he will be going. The Thulebane didn't get his name playing cards.
+
+## Significance
+The Empire has a well-established [[Accept_Thule_peace_treaty|peace treaty]] with the Thule. The treaty makes clear that any raid will not break the treaty - but the raiding party would need to pay reparations. Any significant raid by Imperial citizens - even criminals - might not break the peace treaty, but it would certainly land the Empire with a hefty bill. Unless the Thule decide to be uncharacteristically generous, the bigger the raid... the more weregild they will demand.
+
+### Supporting the Thulebane
+Dogri Thulebane is planning a raid into Thule lands. Enough people know where he lives and that he is planning something that those who command military units could choose to lend their support to him if they wish. It's clear that he is planning something significant; the more support he receives the bigger the impact will be. Given this state of affairs, it is certain that he will attempt to make contact with those Wintermarkers who share his grievance. Only by gathering support from others will his actions have a significant impact. Any character with a [[military unit]] will be able to submit orders for their unit to support Dogri after the summit ends.
+
+The raid is covert; Dogri will be ordering everyone in the raid to cover their faces and their shields so even those who attend the raid will not know who has taken part. The only way anyone is going to get caught supporting Dogri Thulebane is if they are stupid enough to tell people what they've done. Of course, Dogri will know who has supported him, but the Thane is notoriously loyal to his supporters. It's impossible to imagine him sharing the information with anyone.
+
+Of course with the Guerdon currently at [[Increase_the_Imperial_Guerdon_III|record levels]], those captains who have their eye on a monetary prize are going to have to think very hard if they want to support a raid that will not provide any return of any kind. The loot from this raid will be claimed by Dogri - and the distribution will be down to him. Dogri is known to be a citizen of his word - only by making contact with Dogri's people and agreeing on terms can a captain ensure that they and their soldiers will be paid. 
+
+### Preventing the Raid
+There is one definitive way that the Empire could prevent this raid from happening. If an [[Imperial army]] attacked Crows Ridge, they could quickly seize control of the area making it impossible for Dogri to launch this raid or any other. Although it is not legal for the Senate to declare war on their own citizens, now that Dogri is refusing to cooperate with Imperial law and potentially concealing one or more murderers, then the army could be sent there to occupy the area and arrest the Thulebane.
+
+The Imperial armies are well trained and highly disciplined; there is no doubt that a general could order their force into the area and the only fighting that would take place would be between Dogri and his supporters and the Imperial soldiers. If any army moves to restore full Imperial control of Skarsind - then the raid would be aborted and no future raids would be possible. The Thane does not have the military strength to repel a concerted attack, but it is certain that there would be some losses if he chooses to fight - as he says he will. Collateral damage would be minimal, but there would be severe consequences of Dogri and his supporters, should they choose to fight. The position of the Thulebane is well defended and hard to approach, so any Imperial army would also take some casualties in any ensuing fracas.
+
+There is one way that fighting could be averted. Dogri has sworn that he will only submit to the authority of a Wintermark general. If a Wintermark army went to Crows Ridge, then Dogri could be arrested. The raid would be prevented and there would be no loss of life - but it needs someone to persuade a Wintermark general to accept the dubious honour of ordering their troops to seize an old Wintermark war hero from Britta's day.
+
+### Supporting the Thule
+The Thule have likely got wind of the impending raid already but the border between the Empire is long with many possible targets. Unless they know where Dogri is going to attack, then any attempt by them to move troops to counter the raid will be futile.
+
+But if there was some way to find out where Dogri Thulebane was planning to attack - and someone passed that information to the Thule, then they could take decisive steps to counter the rebellious thane. The Thule would be certain to place sufficient troops to rebuff the attack - and if Dogri was unaware of the betrayal then he and his supporters would be walking into a trap. The Thule would wipe them out and that would be the end of him.
+
+Such an outcome would guarantee no further problems with Dogri Thulebane and allow the Imperial Orcs to resume full control of Skarsind. Crucially it would be a significant gesture of goodwill towards the Dragons which would further solidify the current peace treaty. 
+
+But if Dogri were sold out to the Thule, it would be impossible for them to claim that the Empire had broken faith with them. The Dragons are known to be powerful users of magic and the hearth magic of oaths is a terrible thing - especially in the north. If the Empire hand Dogri to the Thule in this way then it will guarantee peace on the Northern border for the next year at the very least, short of a full-on Imperial invasion. The thaw in relations with the Thule would also provide new opportunities for trade with Otkodov - both in rare materials and rituals.
+
+One final alternative is that the Senate could pass a motion to hand Crows Ridge to the Thule. They are unlikely to look such a gift horse in the mouth. If the region were part of Thule territory - they could move their forces to deal decisively with Dogri Thulebane. They could stop the raid taking place, preventing the Senate being landed with the reparations and ensuring that no Imperial soldier had to soil their hands dealing with the Thane themselves.

@@ -1,0 +1,149 @@
+---
+revision_id: 105421
+revision_date: 2023-09-04T11:06:04Z
+categories:
+- Winds of Fortune
+- 385YE Autumn
+- Recent History
+aliases:
+- A_wisdom_of_questions
+---
+
+
+The old man held the blade up to the light to examine it. Taking his time, he ran his eye down the edge trying to find any hint of light reflected from it. Satisfied that there was none he carefully sheathed the deadly weapon and finally placed the whet stone back in his pouch. "I'll go once the morning light arrives" he announced.
+
+"You can't leave - there's a storm brewing." Minias responded. "You have to wait until it's passed."
+
+The man inclined his head in grateful acknowledgement of his hosts offer but then a wry smile crossed his lips. "I can't take that risk. If people knew I tarried here - that could put your spire in danger."
+
+Minias snorted in derision. "Oh you're right - my mistake. Bring strength against weakness and victory is yours - but not if it puts your friends in danger. I'd forgotten that last part of the treachings."
+
+He smiled even as she spoke, her mockery doing nothing to hide her concern. "Your are my weakness Minias, you are like a daughter to me. How could I pass through the Labyrinth if I knew I had brought harm to you and yours?" 
+
+"If you love a thing" she began but he cut her off. "Enough. I know the teachings Minias. And still I will be gone by the morning."
+
+She scowled at him, clearly not prepared to drop the argument. "I still can't believe those unvirtuous fools tried to damn you."
+
+The swordsman checked the blade was not sticking before looking up with that familiar grin. "They were inspired. What more could a teacher possibly want? It's a testament to their virtue that they tried to damn me. The fact they failed is a reflection of their weakness."
+
+Minias rolled her eyes. "Right, yes of course, because you getting excommunicated is a teachable moment is it?"
+
+Severus laughed again. "Minias, they found it in their hearts to persecute an old man they've never met and never spoken to. They despise me because I hold different views to them. They see me as a threat simply because I have found another Way. Their actions are the very embodiment of the ideals of involate perfection. They are doing ''exactly'' what we preach. They tried to strike me down for the crime of being different. That is what Sulemaine taught us to do."
+
+"They're ignorant fools - if they just knew you like we do." she implored him.
+
+"Then it is their very good fortune that they do not." The old man smiled indulgently at his former pupil even as he rebuked her. "Knowledge is the font of mercy. We cannot hate the familiar. Imagine if the Paragon of Blades had truly known the false prophets she challenged - known their their lives, their families, their hopes and fears. Imagine if she had known them the way you know me. Could you strike me down?" He paused for a moment to allow her to consider this troubling idea. "We learn our enemies limits but only so that we can exploit their weakness. We stand apart so that the enemy does not become familiar to us. Only then can we find the strength to strike without mercy."
+
+Minias shook her head, unconvinced by the scholar's arguments. "Well they failed, we can be grateful for that much at least."
+
+"Failure is the death of greatness..." the old man whispered.
+
+
+
+## Overview
+The [[sword scholar|sword scholars]] have continued to make waves in Urizen and the wider Empire since they [[Return_of_the_sword_scholars|reconciled with the nation in 381YE]]. Their work has often brought them into conflict with the [[Imperial Synod]], most notably when they pushed for people to openly question the [[mandate|mandates]] enacted by the various assemblies. The influence of the Synod was weakened for a while as a result, and the effects still linger in [[Varushka]] and [[Urizen]]. The sword scholar ideal - that people should think for themselves, question everything, and reject the moral instructions of others - means that most Urizen citizens now pay little attention to a mandate unless it has received the backing of the [[Judgement#Greater_Majority|greater majority]] of the Assembly that passed it. Despite these challenges, sword scholars have been invited to [[The_troubled_words#Finding_Yourself|teach in Holberg]] and [[385YE_Summer_Solstice_Synod_judgements#Judgement_188|most recently]] in [[Astolat#Laroc|Laroc]] in [[Astolat]].
+
+Throughout this time, questions have been repeatedly raised about [[Sulemaine]] the controversial founder of the sword scholars. She is an iconoclastic figure in Urizen's history, who dismissed the [[Paragons and exemplars|paragons]] and argued that religion was a great evil. She was also notably contemptuous of mercy, pity, and fairness, which she argued were moral baggage that paralysed the soul. She practiced what she preached, and when [[Highguard|Highborn]] missionaries tried to spread the Way to Urizen, she would challenge any she could find, forcing them to debate her in public. Her status is contentious because in most of these stories, the tale ends with Sulemaine executing her rival after finding their arguments unconvincing.
+
+Most sword scholars who visit [[Anvil]] seem to favour the part of Sulemaine's legacy that focuses on challenging authority through public debate rather than a duel to the death. However the Urizen Assembly has not been shy about proclaiming Sulemaine to be the ''"perfect epitome of the Urizeni spirit"'' and Herminius of the House of the Wanderer announced their intention to [[consecration|consecrate]] her final resting place as an [[Inspirational_location|inspirational tomb]]. The reaction to that has brought renewed interest in the life of the woman who is arguably Urizen's most controversial figure, and raised questions about who should inspire the modern sword scholar movement.
+
+## The Problem with People
+
+* The Urizen Assembly has called on sword scholars to no longer venerate Sulemaine
+At the most recent summit, Herminius submitted a [[statement of principle]] to the Urizen Assembly calling on all virtuous sword scholars to no longer venerate the actions of Sulemaine. It passed with a greater majority, with only a single priest choosing to vote against. It clearly represents the settled view of the priests who attend Anvil - that sword scholars should find a way to move beyond Sulemaine's legacy.
+
+Doing so would provide a number of clear benefits. Sulemaine's actions were controversial even in her own time. Her cause divided Urizen, ultimately pitting [[sentinel|sentinels]] against sword scholars in open warfare. While she was clearly an inspiration to those who met her - and her constant drive to question things seems to embody the teachings of [[Wisdom]] - some of her views are anathema to modern sensibilities.
+
+At least they are among those who attend Anvil; disciples like [[The_deepest_cut#Interred_With_Their_Bones|Severus of the Blinding Sun]] still preach a message that sounds an awful lot like the [[Malign_spiritual_presences#Hatred|malign spiritual force of Hatred]] which he claims is based on Sulemaine's teachings. Sulemaine's contempt for religion and the Highborn teaching on Virtue are difficult to reconcile with an acceptance of the Way, Imperial law, and the Imperial Synod, but that is no problem for those who reject all of these things.
+
+It is impossible to enshrine Sulemaine's legacy without drawing people's focus to her combative views. It is possible for individual sword scholars to choose to find inspiration in the parts of Sulemaine's legacy that are compatible with life in the Empire, but they can't control how others see her. Treating her like a paragon or exemplar - by consecrating her tomb with [[Liao#True Liao|true liao]] - inherently invites people to study every part of her life and be inspired by those parts that reverberate with them. Those sword scholars who want to reform the Synod, to decentralise and weaken its power will draw inspiration from such a site. But so will those sword scholars who want to destroy the Synod, to tear down an institution they hate and see as the source of moral corruption within Urizen.
+
+Abandoning Sulemaine - separating the woman from the teachings - would make it possible for the sword scholars who attend Anvil to control the message they spread. They could concentrate on spreading those teachings they find inspiring and putting aside the actions and teachings that cannot be reconciled with an active political life in the modern Empire. Refuseniks like Severus would ''never'' accept such a move, but while the breach might be painful, it could be for the better. It seems likely that the sword scholar movement can be more effective if it isn't contaminated by constant association with moral recidivists who preach a message of blind hatred.
+
+It would however not be without price. If you love a thing, you must be prepared to destroy it.
+
+## A Clean Cut
+* The Assembly's message has created an opportunity for sword scholars to move on from Sulemaine's legacy - if they wish to
+* This statement is in stark contrast to previous statements by the Assembly, endorsing it will damage the authority of the Assembly for a year
+* Enacting the mandate would remove the liao and votes received by the Arbiter of the Four Winds
+If the Urizen Assembly decides they wish to press forward with this new approach, they can pass the following mandate:
+
+{{Mandate|mandate=Failure is the death of greatness. We send {named priest} with 75 doses of liao to encourage sword scholars throughout Urizen to separate the woman from the teachings and no longer venerate the actions of Sulemaine. Let us find new questions to ask.|assembly=Urizen National Assembly}}
+
+Known Sword Scholars
+Alios
+Ares
+Aspar
+Aurum of the Nightingale Temple
+Calgacus Apulian
+Captain Cyrus
+Cato Hypation
+Clytemnestra of the House of the Wanderer
+Darius i Idoya
+Elagabala
+Eudoxia "Zero" of the Temple of the Wanderer
+Faber ærarius
+Hastatus of the Risen Sun
+Herminius of the House of the Wanderer
+Kosmas o Voskos
+Manuel
+Ourania Neofoti
+Sophus
+Talaos Lazcaris
+Valens Leos
+Velarion of the Golden Cascade
+
+If this mandate is enacted by a sword scholar then it will cause a schism within the sword scholars, irreversibly sundering the movement. Legally the Urizen Assembly can authorise any priest to spread this mandate, but in this case, the mandate will ''only'' have an effect if the named priest is a known [[sword scholar]] (that is a character who was recorded as a sword scholar on the database at the last event).  If anyone who isn't a known sword scholar attempts to spread the mandate, at best they will be ignored by most sword scholars - at worst they are likely to be physically attacked.
+
+Those scholars who seek to reform the Synod or are otherwise reconciled with life as an Imperial citizen will embrace this mandate. Grateful for a chance to move on from the distasteful elements of Sulemaine's legacy, they can pursue the teachings without having to constantly answer for her actions or the actions of extremists like Severus of the Blinding Sun. There will be a great deal of work for them to do - it is one thing to disavow Sulemaine, but what does that actually entail? Sulemaine did not consider herself to be a sword scholar - those who were drawn to her teachings created that identity for themselves - rather she considered herself to be [[questor]]. Someone must answer the question of what remains when Sulemaine is gone.
+
+Not everyone will accept the decision to reject Sulemaine. There are many sword scholars who were only reconciled with mainstream Urizen society because they believed that the Urizen Assembly accepted Sulemaine as an inspirational figure, someone whose life and accomplishments could legitimately shape the nation. An itinerant priest like Severus won't care one iota if [[385YE_Summer_Solstice_Synod_judgements#Judgement_87|the General Assembly excommunicates him]] - he doesn't recognise their moral authority in any way. But he - and those like him - will not tolerate the rest of Urizen calling on them to abandon their veneration of Sulemaine. They would sooner split from Urizen than abandon the figure that is central to their beliefs.
+
+The [[Arbiter_of_the_Four_Winds#Temple_of_the_Four_Winds|Temple of the Four Winds]] will be shattered by the split. The congregation that gathers at the temple will depart, and while the building remains intact for now, it will no longer provide liao or votes. Those sword scholars who are not willing to put Sulemaine aside will withdraw from Urizen society, or at least gather in secret. The split will not be violent, at least not initially. But Sulemaine's legacy is one of murderous opposition to those whose views you do not agree with - nobody should assume that the Sulemainists will remain peaceful in perpetuity...
+
+The split will fundamentally weaken the sword scholars, but it should ensure that in future their pronouncements are less incendiary and less iconoclastic. The actions of the sword scholars have dominated the Urizen Assembly in the years since they re-joined the nation. There is no reason to imagine that well connected scholars like Aspar, Aurum, or Elagabala will see their influence diminish, no reason why the House of the Wanderer should not continue to lead Synod decisions. But in future their statements will lead to less controversy - for better or for worse there will be fewer [[opportunity|opportunities]] for extreme responses.
+
+The sword scholars are not the only ones who will suffer if they take this path. In Autumn 383YE, the Urizen Assembly [[383YE_Autumn_Equinox_Synod_judgements#Judgement_100|enacted a mandate]] submitted by Aurum of the Nightingale Temple stating that ''"The Paragon of Blades is the perfect epitome of the Urizeni spirit - pure calculating reason unhindered by emotion or pity."'' Barely two years later, they have passed a statement of principle that appears to completely repudiate their former position. It is hard reconcile the idea that Sulemaine is the perfect epitome of the Urizeni spirit with the statement that people should not venerate her. Of course the Assembly can change their mind - but doing so fundamentally weakens their moral authority. If the mandate is enacted then ''all'' Urizen congregations will suffer - they will receive 2 fewer votes and 1 fewer liao for the next year. After that, the effects will be gone - assuming the Assembly does not have reason to change their mind again of course...
+
+## Over The River
+
+* The Highborn Assembly has taken a keen interest in Urizen's embrace of Sulemaine
+
+The "Paragon of Blades" is not a well known figure in Highguard, but those who are familiar with her legacy do not think well of her. The histories compiled by [[Highguard_history#Archivists|the archivists]] tend to focus heavily on the lives of those that Sulemaine murdered, recounting their [[Ambition]], [[Pride]] and [[Courage]] in attempting to spread word of the Virtues across Urizen and the world. Those she slew are seen as martyrs; exemplary figures whose commitment to their own virtue and the virtue of others saw them pay the ultimate price. Sulemaine is portrayed as a brutal, callous woman who used her unquestionable skill with the sword to slaughter those whose arguments she could not refute. Highborn histories talk about their ultimate triumph in overcoming Sulemaine's creed in the same terms they use to describe victories over the [[Druj]].
+
+As a result, the news that Urizen are contemplating using true liao to consecrate a shrine to the woman who mercilessly killed Highborn priests, and sought to prevent them spreading the Virtues, is not well received. While Hazelelponi's mandate claims that Urizen no longer views Sulemaine's enemies as their enemies, it still invites Highguard to stand witness to their decision to consecrate her tomb with true liao - an accolade usually reserved for the greatest paragons and exemplars in the Empire's history. The Civil Service anticipated that Hazelelponi's mandate would cause a strongly negative response. Creating an inspirational tomb to sanctify the memory of someone who murdered scores of [[wayfarer|wayfarers]] would have outraged congregations across Highguard.
+
+Fortunately that outcome never comes to pass. Even more than the decision not to consecrate Sulemaine's tomb, the statement of principle by the Assembly calling on sword scholars  to no longer venerate the actions of the Paragon of Blades underpins Hazelelponi's demand that the Highborn stand witness to Urizen's decision. The two nation's assemblies have experienced fractious relations in recent times - when the Highborn Assembly were exploring ways to work more closely with the Assemblies of the other nations of the Empire, the Urizen Assembly [[Pieces_missing_everywhere#Trust_Your_Instincts|contemplated rejecting any possibility of cooperation]]. In the end however, calmer heads prevailed and instead the Assembly elected to embrace the opportunity to [[385YE_Spring_Equinox_Synod_judgements#Judgement_76|share their wisdom with the Highborn Assembly]].
+
+There is a tangible sense of relief that Urizen have elected to step back from the precipice. Had the nation chosen to go ahead with the plan to laud Sulemaine's legacy as an inspiration it could have created an irreconcilable breach with their neighbours. Many are content that in the end it didn't happen - a testament to the enduring Wisdom of the Urizen. Others however are concerned that this ever got so close - that the Empire came to the brink of consecrating the tomb of a despised figure like Sulemaine as if they were an actual paragon. How could that happen with so little oversight from the Synod? They point out that the [[recognition]] of an exemplar or paragon requires the approval of a virtue assembly and then approval by the General Assembly. Why should a true consecration be any different?
+
+After consultation with the constitutional court, they put forward the following proposal to change Imperial Law.
+
+To create a judgement of writ of consecration, by which the Imperial Synod may authorise the use of Imperial liao to consecrate an inspirational memorial or tomb to a paragon, exemplar or other inspirational figure. A writ of consecration shall require approval by the greater majority of the relevant Virtue assembly, whereupon the Tribune of the Synod will raise the same judgement for approval by the lesser majority of the General Assembly. The use of Imperial liao to consecrate a tomb or other memorial to an individual, conducted without this approval, will constitute a grave breach of Imperial law.
+
+This change to Imperial law would not require a constitutional vote.
+
+In their view, such a change to the law would ensure that a situation like this cannot arise again. While it seems likely that the Wisdom Assembly might well endorse the consecration - and it is entirely possible that the General Assembly would approve it, it couldn't happen without much greater awareness by the entire Synod. Crucially it would give every priest of the Empire an opportunity to decide collectively whether this approach was truly virtuous.
+
+## Towards the Dawn
+
+* Ser Dindrane de Cantharos of the Cathedral of Laroc in Astolat, has invited the House of the Wanderer to teach at the Cathedral
+* The Dawnish Assembly could chose to embrace the lessons contained within the sword scholar ideology
+* Doing so would lead to people questioning the mandates of the Assembly and the leadership of the noble houses
+Cato has informed the Urizen Assembly he and Clytemnestra plan to take up the invitation of Ser Dindrane de Cantharos to teach at the [[Dean_of_Laroc_Cathedral|Cathedral of Laroc in Astolat]]. This is not the first time that sword scholars have been invited to share their teachings with others - there are sword scholars teaching at the [[Master_of_Defence_of_the_Scholars_of_the_Sword_Academy|Scholars of the Sword Academy]] in [[Holberg]]. Despite its name the cathedral, is more akin to a chapel in size and grandeur, so the impact of the visit of the two sword scholars is expected to be relatively minor. It does however represent an excellent opportunity for congregants to challenge and learn from each other.
+
+However the Dawnish Assembly could choose to embrace the opportunity presented by the visiting scholars, encouraging troubadours and other priests to take advantage of this opportunity.
+
+{{Mandate|mandate=Test what you learn; only fools accept hearsay as truth. We send {named priest} with 50 doses of liao to urge the faithful to visit Laroc to share in the lessons imparted there. Nothing is more virtuous than success!|assembly=Dawn National Assembly}}
+
+If this mandate is enacted, it will encourage the virtuous in Dawn to take inspiration from the approach of the sword scholars. Inspired by their example, people will be motivated to actively challenge any mandate that the Assembly passes. They will demand that those who try to sway others first defend their own ideals, forcing them to justify their actions with reason and logic, and effectively opposing the mandate at every turn. As a result mandates passed by the Imperial Synod will only affect Dawn if passed with a greater majority.
+
+Sword scholar ideology encourages everyone to think for themselves. Such idealism can come with a heavy price; it certainly invites people to challenge the status quo which can be deeply disruptive. Such disruption would have far-reaching effects in a highly-stratified nation like Dawn, where the [[Yeofolk of Dawn|yeofolk]] are accustomed to following the leadership of the [[noble house|noble houses]]. Nowhere is this more true than the Dawnish [[Imperial army|armies]], where knights and witches lead large numbers of yeofolk in a quest for glory. A philosophy of individualism may benefit the soul as Sulemaine claimed, but it would also threaten the discipline of the Dawnish armies. Ultimately all of Dawn could be turned upside down if the Assembly chooses to encourage Dawnish folk to embrace these teachings.
+
+There would be no immediate effects - Laroc Cathedral is too small to exert such influence over the nation in the short term. But if this mandate is enacted, then over time the decision to embrace sword scholar teachings will begin to have deeper ramifications for all of Dawn.
+## Further Reading
+* [[Sword scholar]]
+* [[Sulemaine]]
+* [[Schools_and_sawmills#School_of_Hard_Knocks|Schools and sawmills]] - 385YE Autumn wind of fortune talking about the impact of the Academy of the Sword in the League
+* [[The deepest cut]] - 385YE Summer wind of fortune about the consecration of a tomb for Sulemaine
+* [[The troubled words]] - 385YE Spring wind of fortune about the sword scholars in Holberg

@@ -1,0 +1,314 @@
+---
+revision_id: 106639
+revision_date: 2023-12-29T18:02:44Z
+categories:
+- Recent History
+- 384YE Autumn
+- Military Council
+aliases:
+- The_darkest_road
+---
+
+  
+
+
+## Moon in the West
+The Sentinel Gate opened during the Summer Equinox, allowing the heroes of the Empire to travel to Zenith - to Clypion - and take part in a vital manoeuvre against the Druj forces occupying the territory. A large Druj force, overextended, had become trapped in a salient - overconfident they had pushed too far into the Imperial lines which threatened to close behind them. With the aid of the [[eternal]] [[Zakalwe]], they were able to execute Kavor Eyepeel, and prevent four of his tepel escaping the collapse of the salient with vital potions and herb. Their action threw the Druj onto the back foot, devastating their forces in Iteri, and shifting the balance of power in the western territory.
+
+In the wake of the victory over the Druj, amid the relentless heat of the [[Every_time_it_rains#The_Great_Drought_of_384YE|great drought]], three Imperial armies - [[Eastern Sky]], [[Seventh Wave]], and [[Fist of the Mountains]] - withdraw from Zenith. They leave behind the [[Citadel Guard]], the [[Granite Pillar]], and the [[Towerjacks]]. In their place come the [[Valiant Pegasus]] - returning to fight in Zenith after a brief sojourn to Bastion to resupply. While the Towerjacks engage the remaining Druj forces in Iteri, the Citadel Guard begin to weave a thaumic web to entrap their enemy. Insight granted by [[Day magic]] provides the soldiers of both the Citadel Guard and the Towerjacks the ability to enact their disparate strategies with [[Clarity of the Master Strategist|consumate clarity]], able to predict and respond to the movement of ally and enemy alike with supernatural prescience. At the same time, the Granite Pillar and the Valiant Pegasus fight zealously to inspire their fellows. They press the Druj both east and west with their irresistible fervour for victory. 
+Sentinels of Urizen, sword scholars, the heroes of the Empire have killed Druj commanders and we are continuing our campaign. The Druj are bickering amongst themselves. Let us capitalise on our victories and cause further confusion for the Druj. The liberation of Iteri is at hand. Make me proud.
+My glorious sky. My guiding constellations. You were the starry lights that led the fight in Zenith last season. I ask you again to fight for the Urizeni people - Our People, Our Imperials - And push those Druj scum into extermination. For Virtue, for freedom - For Glory!
+The Axe, the Barrens was a victory and now as we promised we march on to Zenith to take the land back. As our forces take Clypion we cut off their escape in Lustri trapping them so we may crush them together.
+
+For the first time since the campaign began, the forces striving to drive the Druj out of Zenith are able to operate from a safe refuge. With the victory over Kavor Eyepeel, Imperial forces were able to employ the power of the Citadel Guard to raise a [[Frozen Citadel of Cathan Canae|citadel of gleaming ice and midnight-black stone]] in Clypion, providing valuable protection against the malice of the orcs. The Druj have raised their own magical defences of course - infesting the forest of [[Zenith#Lustri|Lustri]] with [[Night magic]], and taking advantage of the corruption they have spread in [[Zenith#Proceris|Proceris]] to raise a twisted fortress of [[Spring magic]] over the former farmlands of Urizen.
+
+There is other magic at work in Zenith as well - refreshing Spring magic infuses every precious mouthful of water with life-giving grace. The [[Ritual_theory#The_Law_of_Dominion|Law of Dominion]] recognises that Zenith is Druj territory, so the great tempest raging across the Empire does not touch the mountains and marshes of eastern Urizen. There is no rain to break the tyranny of the sun, nothing to offer relief from the baking heat. Even nightfall does little to lessen the oppressive, feverish temperature. Those in heavy armour, those forced to fight beneath the relentless flaming eye in the sky are left exhausted - grateful for the reinvigorating, soothing freshness of a mouthful of pure water infused with the power of Spring. At least the heat affects the Druj warriors - used to fighting in the dank shade of the marsh and the forest - at least as much as it does Imperial heroes.
+
+Shortly after the Spring Equinox, the people of Urizen - especially those in Zenith, especially those who are at their lowest ebb - hear a song in their dreams. When they awaken they remember a lone voice singing in the darkness, and a single star high in the sky above a dark road. They recount a feeling of isolation and loneliness that slowly gives way to an awareness of a great sea of people, reaching out to them, filling them with hope. Those who experience the dream cannot help but describe it to their friends on awakening - some even attempt to recapture the music of the song. In some cases they dream of the song and the star only once. Others hear it every night when they sleep, and awaken refreshed. It strengthens the resolve of the Urizen people, especially those fighting alongside the Citadel Guard. There is no doubt among the magically savvy Urizeni that this is the result of some enchantment or other - some historically minded [[stargazer|stargazers]] have heard of a ritual called ''The Invocation of the Loquacious Birds'' which asks [[Lashonar]] to deliver a heart-felt message to those in need - but that does nothing to diminish the powerful uplifting effect of the vision. The number of people who abandon hope and accept the [[Kaela#The_Gift_of_Kaela|Gift of Kaela]] diminishes dramatically in the wake of the vision. 
+
+At the same time their sleeping hours are filled with song, a more practical symbol of Imperial citizens' support for Urizen begins to flow into Urizen. Every congregation in the Empire has sent a little of their precious liao to the armies fighting in Zenith; a trickle at first that slowly grows into a great river. It comes down past the Three Watchers - a bounty of hundreds of doses. Thousands even. Raised by [[mandate]] of the [[General Assembly]], it is intended for use by the soldiers fighting the orcs of the Mallum, to [[anointing|anoint]] them with the [[To_ride_the_earth#An_Inspiring_March|spiritual strength]] they need to resist the power of the [[Druj miasma]]. Every [[congregation]] in the Empire has contributed, and the effect is electrifying. Guided by the inspiration of the Highborn armies, the liao ensures that the soldiers of the Empire who battle in Zenith this season will do so unassailable by the grim power of despair that the Druj weave through their conquered lands.
+
+Yet for all that, the Imperial forces remaining in Zenith are greatly outnumbered - nearly three to one - and only the fact that the Druj armies have shifted from the offensive to the defensive prevents them being overwhelmed.
+
+Siblings, Sisters and Brothers of the Granite Pillar, for two seasons you have answered my clarion call to Virtuous Crusade in Zenith. For two seasons you have fought against the crushing effects of the Druj Miasma in order to show the Empire Your commitment to the Salvation of the People of Urizen, I could not be prouder. Two things you must remember. The first is that the one thing the Druj fear is virtue. The second is that virtue is contagious. Your loyalty and courage have inspired priests across the empire, and synod has moved to send enough liao to the battlefront to ensure every soldier fighting in Zenith will be anointed, As we march once at the head of virtuous crusade, know that you will no longer be hindered by the effects of the miasma. None of the Empire's strategists imagined such a moment possible. But I say to you, that is because they do not understand the full power of virtue. This is the time of Miracles. It is our duty to show the world through our actions. For Urizen! For the Empire! For all those who are yet to find the Way! Addendum: Behold the ambition you have inspired. Look to the North, while we keep the Druj eyes upon us. They shall not escape the burning light of virtue.
+This solstice my beloved wife fell in battle with the Druj. I take inspiration from her life and the love we shared. Let us take this Fire of Ambition to the liberation of Zenith bound as we are by the common cause within our Empire. We will take the forests of Lustri No Matter the Cost and separate the Druj defilers in Zenith from their home territories.
+## Darkened Skies
+The Druj forces seem less unified than they have in previous seasons of the campaign. It seems the death of Kavor Eyepeel might have disrupted their strategy a little. The magicians who lead the Tainted Basilisk, for example, busy themselves with looting the shattered spires and magical wellsprings of Zenith rather than focusing on fighting the Empire. They seem more concerned with accumulating the magical wealth of the Urizen than in actually fighting them. Elsewhere, there are reports of orcs under the banner of the winged serpent actively avoiding engagement with soldiers of the Valiant Pegasus, withdrawing as soon as they are spotted, preferring to skulk and sneak around the edges of the campaign, observing and stalking the Imperial soldiers.
+
+The main core of the Druj force, however, are focused on the defence of their remaining lands in Zenith. The orcs quickly concede control of Iteri to the Towerjacks. There are several vicious engagements in the western part of the territory but it is clear that with the vital region of Clypion dominated by the Empire any serious orc force in the west is fighting to delay the inevitable. Yet they refuse to give an inch in Proceris - in the ruined marshlands where once the Golden Cascade watered the largest expanse of farms in the nation of Urizen. The solid defensive strategy of the main force of orcs is supported by hit-and-run tactics employed by some of their warriors, and by the consummate herb lore for which the Druj are famous (or infamous). Apothecaries and physics under the banner of the crimson lizard work tirelessly to support the Druj warriors with healing arts and narcotic potions designed to keep them on their feet even when they are too tired to fight. Uncharacteristically, it seems that the Druj are more concerned with keeping the eastern regions of Zenith than they are with slaughtering or terrorizing the Imperial armies.
+
+Not that the Druj need to do too much in the latter regard - there are still a great many ''tormented souls'' in Zenith - former Imperial champions twisted with madness and dark arts until their spirits are filled with murderous rage and their bodies infused with unliving might. They continue to take every opportunity to terrorize their former allies, leading packs of lesser unliving horrors and Druj alike to strike at the heart of the enemy. Even with the inspiration of the Highborn armies, it is a brave warband that can stand against the coming of these terrors. The whisper of their presence in an area is enough to send a shiver up the spine of even the most seasoned campaigner. 
+
+The tormented souls are at least familiar. Alongside some of the Druj warbands fight even darker things. [[Out_of_the_realm#The_Setting_Suns_of_Couros|As she promised]], the grim legions of [[Kaela]] have been dispatched to aid the orcs of the Mallum, Nearly a thousand unkillable warriors are scattered among the Druj armies, and they take every opportunity to face down the soldiers of Highguard. Their implacable, barely resistible force, is one of the few things that can cause the righteous zeal of the Highborn to falter. They sap the strength and the will from those they face and while they clearly take no particular pleasure in slaughter, they do not hesitate to cut down anyone who comes within reach of their swords.
+
+Complicating the battle is Proceris is the fact that the Druj have tainted the waters with corruption. There are many stories of horrible fist-sized carnivorous octopus creatures that are equally at home on land and underwater, emerging from brackish pools to leap on Imperial soldiers in small swarms, biting with venomous beaks that tear through leather armour like tissue paper. There are a few stories of larger versions of the same beasts - they appear to be the main spawn of the Druj's magical working during the Spring Equinox and it remains to be seen just how big they are going to get.
+
+It seems as if the season is going to be inconclusive - the Empire will reclaim Iteri but the territory as a whole will remain in Druj hands.
+
+Then everything changes.
+
+Unconquered of the Seventh Wave! We continue our crusading storm in Zenith. Using our speed and knowledge of the terrain we are to move around the outside of Zenith, through Mournwold, Therunin and join up with the other Imperial armies entering Lustri. Strike with speed, harry their lives, make the Druj feel the terror they inflict on us. Death to the Druj.
+Once more we work to liberate the people of Zenith. We will make a steady conquest through Iteri. Draw strength from the virtues and fight through the Miasma. Steel guard our bodies, virtue guard our souls.
+The Valiant Pegasus will drive into Zenith in a crusading storm to stand with Urizen we act an unmovable steel wall, against which the Highguard armies, backed by dawn, will crush the vile wickedness and bring death to the Druj.
+## Northern Sunrise
+From out of the north, a massive force of Imperial troops smash their way into the shrouded forest of Lustri.  The Eastern Sky and the Seventh Wave, far from abandoning Zenith, have circled round through the mountains of Morrow to unite with the Golden Axe and the Hounds of Glory, fresh from their victory in the Barrens. The Hounds are reinforced by eleven thousand soldiers led by [[military unit|independent captains]], [[Bound by Common Cause|united by Autumn magic]] and honed into a devastating weapon to wield against the Druj. All are warded against the will-sapping power of the Druj miasma.
+
+The Golden Axe lead the conquest of Lustri - their steel fist smashing against the defenders of the mysterious forest with little regard for the magical defences that shroud the woodlands. [[Army_qualities#Driven|Driven]] by the urge to conquer, they lead the way in battle, an irresistible advance across the land they have marked for conquest, driving their enemies before them. The normal problems caused by having to maintain supply lines do not apply to them - what they do not carry with them they take from the land they conquer. The Eastern Sky match their fervour in an overwhelming assault that drives the Mallum orcs before them, and crashes through the subtle webs of Night magic erected to mislead and misdirect attackers. At the heart of the northern force, the Seventh Wave provides the same inspirational support the other two Highborn armies are providing in the west.
+
+Yet all of this pales a little next to the sheer battle-madness of the Hounds of Glory. Every soldier in the Dawnish army seems committed to the eternal quest for glory. The need to prove that they are the greatest heroes of the Empire driving them to acts of reckless majesty that are unmatched in recent history. Their unwavering Ambition, Courage, and Pride in the face of any danger means that they are prepared to take any chance to achieve glory - and achieve it they do. Bound by gossamer chains of [[Autumn magic]], the warbands who fight alongside them find it hard to resist this overwhelming passion - even the most dour Marcher and introspecting League bravo find themselves responding to the fire of Dawn. The Highborn and Urizen warriors in particular find themselves enveloped in, and exalted by, the glorious might of the Hounds of Glory. They will stop at nothing to destroy the Druj - to capture Lustri and close the jaws of a trap around the neck of the Druj.
+
+For the orcs of the Mallum, in their hubris, have left themselves vulnerable. If the forests of Lustri fall to the Empire, their armies will be unable to escape Zenith. The Empire will control the passage to the Sarangrave, and they will have to fight their way through the host of the Empire that stands between them and the Mallum, with another host of Imperial troops to their rear seeking to destroy them. Hammer and anvil does not begin to describe their situation - they are held in the jaws of destruction and they know it.
+
+The Druj turn all their attention to resisting the Imperial armies - every trick at their disposal, every drop of Night and Spring magic, every potion, every cruel stratagem is aimed at preventing the Empire from taking Lustri away from them. If they can keep even a little of the territory in their own hands, they will be able to fight free and escape the noose that threatens to strangle them all.
+
+As the Autumn Equinox draws near, it looks as if they are going to be successful. Even with the armies at their back, even with the great host arrayed against them, it looks as if the Druj will hold on to the forests of Lustri. It seems the Night magic they have woven through the forest will allow them to keep their foothold there, to keep the door ajar, through which they can escape Zenith.
+
+And then the door slams shut.
+
+The Hounds of Glory ''will not fail''. Though the price is steep, though it costs the lives of hundreds of knights and yeomen, they refuse to accept any possible outcome other than total victory as they drive the last of the orcs out of the woodlands, and claim the region.
+
+## Stars in the Sky
+The Empire holds Clypion and Iteri. Thanks to the sacrifice of the Hounds of Glory, they also hold Lustri. Zenith is an Imperial territory again, for the first time in too many years. The Druj armies are contained - for the moment at least - in Proceris and Occursion. They can still escape through the Imperial cordon into Sarangrave, but doing so will cost them and cost them ''badly'' - if they try to move through they will be easy prey for the host arrayed against them.
+
+Worse, as the jaws of one trap close around them the gentle threads, translucent steel bindings of Autumn magic, settle around their armies. The Citadel Guard have thrown up the [[Highest_discipline#Technique_of_the_Coiling_Chain|Glass Labyrinth]] in Zenith again - their mastery of the [[highest discipline]] renewed at the Summer Solstice. Even if the Druj ''can'' escape Zenith they will be unable to travel far. If they are desperate enough, they may be able to push through to Sarangrave (or perhaps Therunin but attempting ''that'' would be tantamount to suicide) but no further.
+
+White wings carry us to the heights
+The bright blue sky is the jewel of our hearts
+My words writes the world clear
+Hear me Zenith and raise your voice free
+Even on the darkest night
+Even in the blackest black
+The starts still shine and they do not shine alone.
+The banners bear symbols of mountains and sky
+Marching across Empire wide to fight.
+Urizen is not alone.
+The spiders have shaken the web
+With poison and spite.
+But they are the spiteful ones only.
+The web still holds standing strong
+With all our courage.
+Painting dreams
+To save Urizen's heart
+You are not alone in the dark
+The Empire fights with you
+Even on the darkest night the stars still shine
+Intimate touch for intimate trust
+Reach out your hand and we shall grasp it.
+Reach to your sheath
+Find the Empire as your blade
+Ten nations of the Empire stand 
+As the sun on your back
+You are the best of us
+
+Yet for all that, the war is Zenith is far from over. The Empire has taken the territory, but their strategy has been founded on conquest not slaughter. The Druj armies are still hale, and none of them are close to collapse. The miasma still hangs over the territory, the Druj can probably still raise their corrupt fortress in Proceris (through the auspices of the Tainted Basilisk if nothing else). No, the Druj may have suffered a crushing setback but they are barely down, and certainly not out. Plus, of course, the armies in Zenith are by no means ''all'' the armies of the Mallum orcs. Nobody knows for sure how many other forces the Druj may have ready to come to the rescue of those in Zenith.
+
+## Game Information
+Zenith is once again an Imperial territory, and can be assigned to an Imperial nation during the coming season. There are no Bourse resources in Zenith - indeed there are precious few resources of any kind standing in the territory after several years being ravaged by the Druj. The Imperial hold on the territory is also fragile - if they lose control of even a single region they lose control of Zenith. The armies being anointed against the miasma were a major influence on the Empire being able to capture two regions this downtime
+
+The Imperial forces in Zenith are split north and west - there is no connecting region - so for purposes of the downtime campaign calculations they are treated as separate forces.
+
+The Druj armies are trapped - in a similar way to which the [[381YE_Summer_Solstice_winds_of_war#Game_Information_:_Hordalant_and_Liathaven|Black Thorns were trapped in Liathaven]]. They cannot easily move out of Zenith unless they attack [[Spiral]]. If they attempt to leave Zenith then each Druj army that does so will suffer devastating losses.
+## Participation
+Any Urizen character can choose to have experienced the dream of "''the Darkest Road''": a star above a dark road, a lone voice singing, and a sense of being surrounded and supported by friends. No two people who have had the dream agree on the tune, or the nature of the voice, and there is some disagreement about the exact words.
+
+Regardless, if you have had the dream you may choose to experience a lingering [[roleplaying effect]]: ''no matter how dark things seem, you have hope for the future and draw strength from the idea that you are not alone''. While experiencing this roleplaying effect, during the Autumn Equinox you may respond to any roleplaying effect that would make you afraid or cause you to despair by stating out loud your refusal to give in to darkness and instead experiencing a burst of inspiring hopefulness. This ''will'' allow you to resist the negative effects of any [[Druj miasma]] you encounter during the event. The [[insight]] ceremony will indicate that this is a spontaneous [[Aura#Personal_Aura|personal aura]] that can be removed or replaced in the same way as any other such personal aura.
+
+This effect will have faded by the end of the Autumn Equinox.
+
+## Last Light of the Sun (Battle)
+* Seven Druj armies are trapped in Zenith, to escape they must break through the Imperial lines
+* The generals of the Druj armies are all heading to the ''Glade of Night Enshrouding'' in Occursion, a powerful night regio
+* A major conjunction has been identified that leads directly to the location
+
+The Druj forces have been caught by the Imperial armies operating in Zenith. The orcs are fully aware of the predicament they are in, and are frantically attempting to extricate themselves. A total of seven armies are trapped in Proceris and Occursion, unable to leave the territory without committing to an invasion of Grendel-held Spiral, or forcing through Lustri to Sarangrave at a potentially devastating cost to their strength.
+
+To escape, the generals are gathering beneath the peak of the Tower of the Fall in an area called the ''Glade of Night Enshrouding''. Ghulai ritualists from the Tainted Basilisk are there to enchant all the armies with a powerful night ritual. Given that their armies are making preparations to flee the territory it is clear they are planning to place a powerful night enchantment on their generals to aid them as their armies attempt to slip through Imperial lines back to [[the Mallum]].
+
+A major conjunction on the final day of the Autumn Equinox provides an opportunity for Imperial heroes to reach the regio and the Druj ritualists there. No other major conjunctions have been detected, this is the only opportunity for the Military Council to take on the Sunday.
+
+### Key Objective
+* Prevent as many as possible of the Druj armies from being enchanted by the Tainted Basilisk
+* Each army that is enchanted will suffer one-quarter of the normal casualties for attempting to flee through Imperial lines
+
+The Druj are amassing the majority of the Tainted Basilisk's night ritualists and a great supply of mana, magical paraphernalia, and potions to aid their work. Given the presence of all the generals, they are clearly going to cast a powerful night enchantment on each of the seven Druj armies. The Night realm is generally dissonant with destruction, strength and discipline, but it excels at obfuscation. The Druj are planning to enchant their armies with night magic to allow them to flee through the Imperial lines.
+
+Attempting to break out of the trap they are in will be costly. The more force the Empire commits to holding their lines, the more Druj will be slaughtered as they attempt to flee. But a powerful night enchantment will provide invaluable assistance to the Druj - the Imperial prognosticators expect that each army that is enchanted will suffer three-quarter fewer casualties as they flee. 
+
+There is only one regio in the area, and a powerful night enchantment like this is certain to take ten minutes to cast. The Druj need to perform seven rituals, so the quicker the Empire can seize the regio and the longer they can hold it, the fewer rituals the Druj will be able to perform.
+
+### Battlefied Opportunities
+### Curse the Druj Generals
+* Killing the Druj generals will achieve nothing, but this is a perfect opportunity to capture one or more generals and use them to curse their armies
+
+There are seven Druj generals in the area, each of whom will need to come to the regio to have their army enchanted by the Tainted Basilisk ritualists. Killing these generals will achieve nothing, they will be quickly replaced by their ambitious subordinates. However, if one or more of the generals can be captured, they could be used to target a powerful curse at the army they command. Such curses are exceptionally difficult to remove and cannot be broken by simply appointing a new general.
+
+### Eliminate the Ritualists
+* Killing the Tainted Basilisk's ritualists will remove their ability to use the army to target rituals in a territory in the coming seasons
+The Tainted Basilisk is one of two [[Army_qualities#Magic|magical armies]] that the Druj possess. It includes a large number of ghulai, skilled ritualists trained at the college of magic in the Sarangrave. The presence of this army has allowed the Druj to perform a number of important rituals in Zenith which have affected the course of the campaign here. If more than half the ritualists on the field are killed, then the Tainted Basilisk will lose the magic quality for the next two seasons. If more than ninety percent of the ritualists on the field are killed, then the army will lose the magical quality for a year.
+
+### Battlefield Situation
+* The entire battlefield is affected by the oppressive Druj miasma
+* The miasma [[Calls#WEAKNESS|weakens]] anyone exposed to it who does not have the ability to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] it
+
+Currently, the entire battlefield, and all of Occursion, is under the effect of the [[Druj miasma]] a pall of a potent fear that the Druj inflict on those territories they conquer. Any hero entering the area will need to be protect themselves from the clawing dread or succumb to a weakening terror that creeps into their mind.
+
+The primary effect of the miasma is that it [[Calls#WEAKNESS|weakens]] anyone exposed to it who does not have the ability to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] it. The easiest method to overcome the miasma is to receive an [[anointing]], but particularly [[Heroic_skills#Hero|heroic]] individuals, or those in possession of certain [[enchantment|enchantments]] or [[magic items]] may also be able to counteract the effect. In particular, those of the [[changeling]] [[lineage]] are able to fight the effects of the miasma, but at the expense of becoming ''extremely'' angry - which can cause problems all its own.
+
+### Linked Conjunctions
+* There are a number of linked conjunctions available before the battle in Occursion
+* Success on these skirmishes provides an opportunity to remove key dangers from the battlefield
+* There is a chance to remove the Druj miasma from the battlefield at Occursion
+
+Imperial prognosticators have identified [[#The_Fodder_Gathered_There|a series of conjunctions]] linked to this major event in Occursion. These all provide opportunities to stymie orc forces in the territory, sap their strength and limit the risks involved in this battle. If the skirmishes are successful then key threats will not be present on the battlefield. In particular, if the [[#Field of Celestial Mist (Conjunction)|miasma pillar in Occursion]] is destroyed then there will be no miasma on the battlefield.
+
+## The Fodder Gathered There
+* Six large conjunctions have been identified in Zenith
+
+The campaign in Zenith has been heavily influenced by two significant mandates this season. The first was one [[384YE_Summer_Solstice_Synod_judgements#Judgement_5|enacted by Aurum of the Nightingale Temple]], urging every citizen in the Empire to pledge their support to join the Highborn virtuous crusade to retake Zenith. A tidal wave of liao has flooded into the territory, allowing thousands of soldiers to be anointed, infusing them with the Virtue needed to oppose the Druj.
+
+
+
+
+
+
+The second mandate was [[384YE_Summer_Solstice_Synod_judgements#Judgement_106|enacted by Raewyn Eternal]] urging the Assembly of Loyalty to do everything within their power to support the efforts of Aurum and the priests with them. Guided by the Assembly, some have travelled to Zenith, to place their services in support of the Imperial forces there. There they have gone above and beyond venturing into the darkest parts of Zenith to observe the Druj and bring back crucial intelligence on their plans.
+
+As a result of Aurum's mandate, most of the Empire's forces have been able to resist the Druj miasma, allowing them to move and fight without becoming overcome by the fear and despair the pervasive aura creates. This has allowed the Empire's armies to outmanoeuvre the Druj, encircling and trapping them in Zenith. Raewyn's mandate has complemented this approach recruiting scores of determined priests who have risked everything to bring back invaluable intelligence on the location of miasma pillars as well as other Druj threats.
+
+Taken together the effects of the two mandates have triggered a unique sequence of large conjunctions scattered across the territory. In total, the civil service have identified six large conjunctions in the territory this summit, all of which offer opportunities to thwart or hinder some of the Druj tactics, including a range of chances to destroy the miasma pillars, defeat some of the tortured souls the Druj employ, and disrupt their use of poisons, marshlings and other monsters.
+
+
+Druj Miasma
+* All encounters in Zenith are currently affected by Druj miasma
+* The miasma [[Calls#WEAKNESS|weakens]] anyone exposed to it who does not have the ability to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] it
+
+The miasma [[Calls#WEAKNESS|weakens]] anyone exposed to it who does not have the ability to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] it. The easiest method to overcome the miasma is to receive an [[anointing]], but particularly [[Heroic_skills#Hero|heroic]] individuals, or those in possession of certain [[enchantment|enchantments]] or [[magic items]] may also be able to counteract the effect. In particular, those of the [[changeling]] [[lineage]] are able to fight the effects of the miasma, but at the expense of becoming ''extremely'' angry - which can cause problems all its own.
+
+### Pillars of Despair
+* The Druj miasma is anchored in place by pillars of white granite spread across the territory
+* Imperial heroes gating to Zenith will encounter the miasma
+* Destroying four or more pillars will remove the miasma on the territory for the coming season
+* Destroying the pillar at the Field of Celestial Mist will remove the miasma from the battle
+
+When Zenith fell, the ghulai and buruk tepel were quick to erect a series of stone obelisks in many areas across the territory. Placed in key locations, once activated through unknown practices of the ghulai, these pillars anchored a [[Druj miasma|foul and oppressive miasma]] across all of the regions, weakening the spirits of any who remained or ventured there through the Sentinel Gate. The pall has a powerful defensive effect inhibiting the advance of Imperial armies, slowing the reconquest of Zenith.
+{| class="wikitable" align="right" style="width:400px"
+|-
+! Location !! Number
+|-
+| Spire of Twisting Shadows, Lustri || 1
+|-
+| Plantation of Tall Ferns, Proceris || 3
+|-
+| Field of Celestial Mist, Occursion || 1
+|-
+| Pallasian Steps, Iteri || 2
+|}
+
+Thanks to the efforts of the Assembly of Loyalty, the civil service has been able to identify the locations of most of the ''principle'' miasma pillars in Zenith. Whilst there are a number of lone and isolated pillars across the territory, the table shows the main nexus points that anchor the network in place. Some of the large conjunctions available to the Empire are to these very locations, presenting a chance to destroy them and weaken or break the miasma.
+
+If four or more of the pillars across Zenith are destroyed this equinox, then the entire miasma would begin to collapse. It would take time for the pall to clear, but the entire territory would be free of the miasma's grip within the space of a week. Should the lone pillar present at the ''Field of Celestial Mist'' be destroyed, then the blanket of dread across Occursion would begin to dissipate, and the major conjunction to the ''Glade of Night Enshrouding'' on the Sunday would no longer be fought under a miasma.
+
+### Tortured souls
+* Scores of tortured souls have been released across Zenith to terrorize soldiers and civilians alike
+* Imperial heroes taking any conjunction to Zenith should be prepared to encounter these creatures
+* Dealing with the souls in Occursion will halve the numbers of these monsters present on the battle
+
+The Druj specialise in the use of fear and terror tactics to demoralise their enemies. First encountered during the invasion of Reikos, their eastern orcs deployed [[Druj_lore#Tortured_souls|twisted creatures]] that had been created from the tormented souls of those they had captured during the campaign. Again with the invasion of Zenith, they used their mastery of herbs, magic and tortured to terrorise the still living with the grim visages of those they knew in life.
+
+The monsters are drawn to battles and skirmishes, seeking opportunities to prey on the unwary, so Imperial heroes taking any conjunction to Zenith should be prepared for an encounter with one or more tortured souls. Sightings of the fallen citizens have been confirmed at the ''Tower of the Fall'', Occursion; the ''Spire of Twisting Shadow'', Lustri; and the ''Rift in the Veil'', Lustri; but there is ever the chance they might be encountered in other locations. Both the High Exorcist and the Master of the School of Exorcism are well placed to aid and advise citizens preparing to venture forth in this way. If all the tortured souls in Occursion can be dealt with then it will halve the numbers of these monsters present on the battle on Sunday.
+
+Anyone coming into close proximity of the smoke can choose to be the target of the [[Calls#Venom| VENOM call]]. Moving away from the smoke is the best way to avoid becoming venomed. Whilst the smoke is likely to dissipate quickly and swirl about, we hope that players will take the call in the spirit of the game, rather than ignore the smoke near them.
+
+We will make use of pyrotechnics developed for paintball and milsim events. These are non-toxic smokes, but have fine soot particulates. We will take every precaution to avoid direct exposure to dense smoke, but this can be difficult in the thick of combat. Players should be sensible and move away from the smoke if it is likely to be an issue.
+
+We will purchase them from Enola Gaye; full product details and data sheets can be found on their website - https://store.enolagaye.com/p/wire-pull-smoke-grenade-wp40/
+
+
+### Billowing Poison
+* The Druj employ crude censers that emit clouds of poisonous smoke that VENOM any hero who inhales it
+* Killing the Druj tepel, Mus Arval will reduce the supplies of these vapours available to the Druj on the battle
+
+From the inception of the Zenith campaign the Druj have deployed an unusual weapon of war against Imperial forces. Servants of the buruk tepel have been sent into battle carrying crude censers, that when lit emit a thick noxious smoke. The billowing clouds carry a potent poison that [[Calls#VENOM|envenoms]] those who inhale it. Troubling to any single individual, the method of delivery means that the Druj are able to threaten foes in a similar manner to [[Fetid_Breath_of_Teeming_Plague|powerful spring rituals]] without the recourse for expending crystal mana or risking their skilled ghulai near the front lines.
+
+### Marshlings
+* The Druj are skilled at employing marshlings on the battlefield to threaten their enemies
+* Destroying the marshlings at the Plantation of Tall Ferns will mean one less monster to deal with on the battle
+A [[marshwalker| marshling]] is a semi-humanoid creature that appears to be made entirely of plant material. They are fearsome foes that can pose a terrible threat when roused to violence. They are found throughout Druj lands, and the barbarians are skilled at employing them in battle herding them towards their enemies.
+
+A number of Druj groups have been spotted shepherding marshlings towards the ''Glade of Night Enshrouding''. If the Empire can destroy the marshlings at the Plantation of Tall Ferns before they reach Occursion then there will be half the number encountered on the battle.
+
+## The Tower of the Fall (Conjunction)
+* The Druj are preparing poisons and other potions at an encampment near the Tower of the Fall in Occursion
+* Looting the poisons and other supplies will reduce the presence of these poisons on the battle
+* There are at least two tortured souls in the area, destroying them will prevent them being present on the battle
+* The civil service request that the ''Medical Officer of the Pegasus Respite'' arrange for the supplies to be intercepted and dealt with
+
+With their supply lines cut, the Druj forces in Zenith are heavily dependent on their ability to forage for herbs to produce the potions and poisons they use on in battle. The Imperial war scouts have identified a small fortified encampment in the woods near the Tower of the Fall in Occursion that the Druj are using as a base to collect herbs and process them. There is a conjunction to the area, creating an opportunity for Imperial heroes to assault the camp, kill the Druj and take the supplies.
+
+There will be stiff resistance from the defenders, anyone taking the conjunction will face a large quantity of poisons and all manner of dastardly potions that the Druj have concocted. In light of this the civil service have request that the [[Medical Officer of the Pegasus Respite]] take responsibility for the expedition. They should be able to ensure the heroes have what they need to deal with any poisons they encounter, and to review any supplies that are recovered to see what materials can be used by the Empire. If the Empire can overrun the stockade and capture any supplies, this will reduce the number of poisons available to the Druj in the battle at the ''Glade of Night Enshrouding''.
+
+The scouts have also indicated that at least two and possibly more tortured souls are present here. Heroes attempting the skirmish should consult with the [[High Exorcist]] or the [[Master of the School of Exorcism]] to ensure that they have made the right preparations to deal with these monsters. If they can be destroyed then they will not be able to support the Druj forces in the battle.
+
+## The Pallasian Steps (Conjunction)
+* The Empire has found a lone miasma pillar near the Pallasian Steps in Iteri
+* If the Empire can destroy four of these crucial pillars then the miasma will dissipate and have no effect this downtime
+* There are at least three tortured souls in the area
+* Thomas di Holberg has offered the ''Captain of the Sea Wolves'' 5 crowns if he can make the appropriate arrangements for the pillar and the souls to be dealt with
+
+Although Thomas di Holberg is now a respectable member of the priesthood, he started life as a street urchin committing pretty crime on the streets of Holberg. As he grew up he became a notorious bravo and graduated from petty crime to serious crime. There were rumours he worked with the Vyig at one time, but the Druj attacks on the city were the making of him. Thomas turned away from his wicked ways and swore to start over. Determined to fight for his city he was first to Holberg walls whenever the Druj attacked. After the orcs were sent packing, he settled down, taking over a small dilapidated shrine and preaching the lessons of Bolstering Bill. There he worked with the criminal underclass trying to help them find honest employment and a new life serving the city.
+
+When the call went out from the Assembly, Thomas hung up a sign on his shrine and headed straight for Zenith. His neighbours told him he was mad, and he told them that Loyalty is deeds and words, and that Holberg owed the Empire for helping to save the city from the Druj. Nobody had much use for an ageing bravo in Zenith, but Thomas didn't let that stop him. Inspired by an anointing from the priests enacting the mandate he devoted his time to spying on the Druj, searching for the miasma pillars and for any other way to stop them.
+
+Now he's returned with important information - he's been able to locate a lone miasma pillar in Iteri which is helping to sustain the miasma over the territory. If the Empire can destroy four of these crucial pillars then the Imperial armies won't face the miasma in the coming season. Since the pillar stands alone, it's an ideal target - it will be possible to destroy this one without needing to coordinate efforts to take down multiple pillars at once. Thomas has an old friend who was in the Sea Wolves once, although given Thomas' shady past he might prefer not to divulge that information. Either way, Thomas has offered to pay the Captain of the [[The League groups#The_Sea_Wolves|Sea Wolves]] 5 crowns if they will make the appropriate arrangements to deal with the pillar and the other threats in the area.
+
+Obviously five crowns isn't enough to hire a band of mercenaries, but Thomas is hoping that other ''Loyal'' citizens of Holberg will dip into their pursue and sweeten the pot. After-all, the Empire came to the aid of Holberg when it was trouble, so it's a fair reckoning for people to find a few spare coins to help an ally now they're in trouble with the Druj.
+
+As a final warning though - in addition to the miasma pillar, there are significant Druj forces in the area as well as at least three tortured souls. Heroes attempting the skirmish should consult with the [[High Exorcist]] or the [[Master of the School of Exorcism]] to ensure that they have made the right preparations to deal with these monsters. Fortunately these monsters are too far from the battlefield in Occursion, so there is no pressing need to destroy them if they can be avoided.
+
+## Rift in the Veil (Conjunction)
+* The Endless Stalker, a terrible servant of Agramant, has started attacking the Hounds of Glory near the Rift in the Veil in Lustri
+* There are at least five tortured souls in the area, destroying them will prevent them being present on the battle
+* The civil service request that the ''Knight Protector of Winter'' arrange for the monster to be driven back to the Winter realm
+
+In recent weeks there have been a series of attacks against the campfires of the Hounds of Glory and the dozens of military units that fought alongside the army this season. At first people put it down to lone Druj assassins, but the hideous decapitation of the questing knight Peter De Rabo. As the assaults continue and become more gruesome, the watches are bolstered with extra sentries and the fires piled high with wood but nothing seems to prevent the monster slipping in to kill both yeofolk and noble alike. Scouts and knights who survive encounters with the monster appear to fall under a terrible curse.
+
+Just before the equinox a young and somewhat bookish winter mage, Frumence the Retainer of House Vonsesse, tells of a chance encounter with a giant beast and a solid account of what it is. It appears that the Druj have somehow released a creature loyal to [[Agramant|Blood on the Snow]] to lend them aid in their hour of need. The terrible eternal, always eager to spread bloodshed and death has sent forth the Endless Stalker, a fearsome legend said to walk the Dreamscape of the Endless Hunt in the Winter Realm. Described as a massive horned horror, possessed of vicious claws and a taste for flesh it now runs amok among the military units camped with the Hounds of Glory, slaking its thirst and devourer any it comes across.
+
+Should this violent terror be left unchecked, it will run amok picking off stragglers from any Imperial army unlucky enough to remain in Zenith this season. The creature will inflict 200 casualties in the coming season, spread across the Imperial armies in Zenith. Befitting the expected duties of the title and threat posed by the monster, the civil service have asked that Morrigan Mortér, the current [[Knight-protector|Knight-protector of Winter]] arrange for a party of Imperial heroes to deal with the monster in the Rift in the Veil.
+
+The scouts have spotted five tortured souls in this area, all moving towards the ''Glade of Night Enshrouding'' for the battle. They are likely to be a significant threat and advice should be taken from the [[High Exorcist]] or the [[Master of the School of Exorcism]] to ensure that they have made the right preparations to deal with these monsters. Any tortured souls destroyed here will be be one less facing off against the Empire in the battle.
+
+## Spire of Twisting Shadow (Conjunction)
+* There is a conjunction to a pair of linked miasma pillars found near the Spire of Twisting Shadow in Lustri
+* If the Empire can destroy four of these pillars then the miasma will dissipate and have no effect this downtime
+* The civil service request that ''Raewyn Eternal'' arrange for these pillars to be destroyed
+
+Raewyn Eternal's efforts have been crucial in allowing the Empire to identify the most important [[Druj_miasma#Miasma_Pillars|miasma pillars]] in Zenith. Some of the pillars are free standing, but in Lustri, the two pillars are linked - they must both be destroyed simultaneously, no easy feat.
+
+As a result, the civil service have asked the priest to take responsibility for arranging a group to go and target the pillars. Whoever is sent will need to have sufficient skills and resources to destroy both pillars simultaneously. If the Empire can destroy four of these crucial pillars then the Imperial armies won't face the miasma in the coming season.
+
+## Plantation of Tall Ferns (Conjunction)
+* There is a conjunction to a set of three linked miasma pillars in the Plantation of Tall Ferns in Proceris
+* If the Empire can destroy four of these pillars then the miasma will dissipate and have no effect this downtime
+* There are a number of marshlings here, if they are destroyed there will be fewer of them to face on the battle
+* The civil service request that ''Aurum of Nightingale Temple'' arrange for these pillars to be destroyed
+
+The mandate enacted by Aurum of Nightingale Temple has been pivotal in turning the tide of the war in the Empire's favour, by allowing them to resist the corrosive impact of the miasma. It has also made it possible for the Empire to identify the most important [[Druj_miasma#Miasma_Pillars|miasma pillars]] in Zenith. Some of the pillars are free standing, but sadly in Proceris, there are three crucial pillars, all of which are linked together. The Empire has never succeeded in destroying three pillars simultaneously, but triumph here would make a huge difference. If the Empire can destroy four of these crucial pillars then the Imperial armies won't face the miama in the coming season.
+
+In light of the lead Aurum has shown on the issue, the civil service have asked the priest to take responsibility for arranging a group to go and target the pillars. Whoever is sent will need to have sufficient skills and resources to destroy all three pillars simultaneously.
+
+A number of marshlings have been sighted approaching the ''Glade of Night Enshrouding'' in Occursion where they will likely be used in defence of the Tainted Basilisk's ritualists gathering there. One of those marshlings is here, at the Plantation of Tall Ferns. Successfully destroying the creature will reduce the threat they pose in Occursion, reducing the number encountered by Imperial forces on the Sunday battle.
+
+## Field of Celestial Mist (Conjunction)
+* There is a conjunction to a single miasma pillars in the Field of Celestial Mist in Ocursion
+* If this pillar is destroyed, there will be no miasma on the battle
+* If the Empire can destroy four of these pillars then the miasma will dissipate and have no effect this downtime
+* Mus Arval a skilled Druj tepel who commands a unit of censer bearers is protecting is present here
+* The civil service request that ''Warmage'' arrange for the pillar to be destroyed
+
+There is only a single miasma pillar in Occursion, but it may be the most important one. While four need to be destroyed to remove the miasma from the territory in the coming campaign season, it is this pillar which is anchoring the miasma in Occursion. That means that if the Empire can destroy this pillar, then they will not have to face the miasma on the battle.
+
+The pillars are not the only target here. Mus Arval, a skilled Druj tepel who commands a unit of censer bearers has been sighted here on route to the ''Glade of Night Enshrouding''. In addition to the skills and resources needed to destroy one of the pillars, the group will need protection against the airborne poisons, as well as the regular venoms employed by the Druj. Mus Arval's warriors are equipped with censers that release vile green fumes that VENOM any hero unfortunate enough to breathe them in. Given this danger, the civil service have asked the Warmage to arrange a group to try to kill Mus Arval and destroy the pillar. If Mus and his censer bearers are slain then he will not be present to face the Empire in the battle.
+
+## Further Reading
+* [[Into tired shadow]] - A Wind of Fortune detailing the results of the Crusading Storm in Zenith, and a lingering threat to the Urizen people

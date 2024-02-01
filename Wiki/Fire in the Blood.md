@@ -1,0 +1,61 @@
+---
+revision_id: 89991
+revision_date: 2022-05-11T21:01:06Z
+categories:
+- Spring Ritual
+- Rituals
+aliases:
+- Fire_in_the_Blood
+---
+
+## Rules
+
+### Performing the Ritual
+  The target character, who must have the [[Magical skills#Realm Lore|Spring lore]] skill. 
+
+The ritual requires an opaque container such as a wooden box into which the target places one of their hands at the completion of the ritual. They experience agonising pain as if their blood is on fire, and if they do not immediately remove their hand they are subject to the [[Calls#VENOM|venom]] condition. If the target removes their hand, the enchantment fails but the crystal mana used in the performance of the ritual is still expended.
+
+
+
+### Effects
+When the ritual is complete, after the target is subject to [[Calls#VENOM|VENOM]], they gain an [[enchantment]] that grants them one additional effective rank of [[Magical skills#Ritual Lores|Spring lore]] for purposes of performing rituals, subject to the [[Realm_Lore#Gaining_additional_ranks|normal rules for effective skill]]. 
+
+They gain two effective ranks (total) to the appropriate ritual lore if they are contributing to the performance of any ritual that creates venom. The ritual does not need to be part of Spring lore, but the normal rules for effective skill still apply. 
+
+They also experience a roleplaying effect: You find it difficult to control your temper. When you feel frustrated, it is easy and satisfying to lash out physically at the source of that frustration. When you feel threatened, you feel an urge to immediately either attack or flee from the source of the threat.
+
+If the target is a [[briar]], the roleplaying effect is especially pronounced. A briar may also choose to temporarily add to or increase physical trappings of their lineage. These changes are temporary and do not last more than a few hours after the enchantment ends. 
+
+For the duration of the [[enchantment]] the target may experience bouts of fever, nausea and dizziness at dramatically appropriate moments. While the enchantment persists, the venom caused by this ritual cannot be cured by the [[purify]] spell, potions such as [[Apothecary_Potions#Bloodharrow_Philtre|Bloodharrow Philtre]], or even rituals such as [[Ascetic Star of Atun]], and will not fade naturally. The venom can can only be removed through treatment by a [[Surgical skills#Physick|physick]] using a dram of [[Imperial Roseweald]] and following the rules for treating a [[Combat#Traumatic_Wounds|traumatic wound]]. 
+
+The [[enchantment]] ends ''immediately'' if the venom is removed. Once the duration of the enchantment has expired (or the enchantment is removed or supplanted), the venom can be purified normally.  
+
+
+
+### Additional Targets
+This ritual can affect additional characters from the same [[Groups#Covens|coven]]. Each additional character increases the magnitude by 15. Additional characters must be present throughout, and must each place their hands into the same opaque container.
+
+### Venomous Rituals
+For purposes of the additional bonus, rituals currently in Imperial lore that create venom include: [[Fetid Breath of Teeming Plague]], [[Fire in the Blood]], [[Curse of Gangrenous Flesh]], [[Unending Cascade of Blood's Fire]], [[Touch of Vile Humours]], [[Pallid Flesh of the Dead King]], [[The Grave's Treacherous Edge]], [[Rivers Run Red]], and [[Mountain Remembers Its Youth]]. It does not apply its bonus to rituals intended to grant additional spell knowledge - even if one of the spells chosen is the [[venom]] spell. For example, it will not apply to castings of [[Shared Mastery of the Magician's Guild]], or [[Illuminate the Higher Mind]].
+
+## Description
+This ritual creates a pact between the target and the [[eternal]] [[Arhallogen]]. Some ritualists believe it is the Spider King itself who poisons the targets, others believe that it is some subject creature or simply a magical effect similar to an extremely potent [[venom]] spell. While the agonising symptoms of the venom quickly fade, it does not actually leave the target's system. Some targets discover a puffy, discoloured mark on the hand they placed in the opaque container that does not recede until the [[enchantment]] ends - sometimes this mark may take a vaguely threatening form. In very rare cases, the ritual can be fatal to those of a weak constitution; the agony of the initial sting does not fade but instead continues to intensify until they are driven mad with pain and either kill themselves or die of heart failure. (''OOC Note: This is an entirely voluntary outcome for the spell, and will not be mandated by a referee.'')
+
+While enchanted, the magician finds themselves strengthened - they are able to master Spring magic more effectively than normal. Some magicians using this enchantment speak of a euphoria that comes over them as they work their magic, as if their every nerve were alive and resonating with the power they are wielding. There are a few stories of magicians coming to crave this experience, almost as if it were a powerful narcotic. Such magicians experience an urge to perform more and more Spring magic so that they can experience the satisfaction that comes from wielding the power of this enchantment. It is perhaps unsurprising that several [[Highguard|Highborn]] [[magister|magisters]] over the years have expressed deep concern about the effect this ritual may have on the weak willed or those already prone to foolish excess.
+
+The magician gains further prowess when working magic designed to create or spread magical venom. While most such rituals are part of [[Spring magic]], the enchantment provides its benefits regardless of the realm involved. Several potent magical effects created with [[Winter magic]], for example, can also be worked with greater confidence by a magician under this enchantment.
+
+Although it is the only one currently in [[Formulaic ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]], this ritual is not the only source of magical power drawn from the eternals of the Spring realm. A similar ritual called ''Spores of Madness and Wisdom'' is said to be used by isolated [[Bregasland]] [[merrow]], by [[Coven#Covens|covens]] of [[mystic|mystics]] in [[Kallavesa]], and by several [[Sarvos|Sarvosan]] [[The League lineage and species attitudes|Reckoner guilds]]. The ritual draws on the power of [[Llofir]], and is said to only be performed in pitch darkness. It is believed to be both more powerful and more dangerous, with practitioners risking madness and death if they employ its potent narcotic magic too often.
+
+Likewise, [[Yaw'nagrah]] is believed to have aided some magicians in [[Varushka]] and among the [[Navarr]] to codify a ritual that is referred to in several texts as ''Communion with the Green Mother''. In 323YE a dangerous cult of [[Religious_crime#Idolatry|idolators]] in [[Karov]] were believed to be making liberal use of this ritual to help them unleash twisted curses on their enemies, and on those who opposed their political ambitions. The [[Warden|Warden Fellowship]] known as the ''Hounds of Malimorzi'' worked with a band of [[the Marches|Marcher]] [[The_Marches_magical_traditions#Sorcery_and_the_Threshers|Threshers]] to bring down the dangerous cult, and their account described the ritual as involving a [[Religious_Crimes#Blasphemy|blasphemous]] ceremony of worship for the fecund eternal. As a result of the investigation, an attempt to have Yaw'Nagrah subject to a [[Amity and enmity#Declaration_of_Enmity|declaration of enmity]] was raised but ultimately defeated. Details of the ritual were unfortunately lost when the ''Hounds'' perished during the Winter Solstice of that year fighting the [[The_Orc_Rebellion|orc rebels]] during an engagement in [[Karov#Skoremujac|Skoremujac]].
+
+During the Winter Solstice 378YE, the eternal Arhallogen gained the [[Amity and enmity#Declaration_of_Enmity|enmity]] of the [[Imperial Conclave]]. While this was the case, the ritual was under [[interdiction]] and illegal to perform. The enmity was later lifted, making it again legal to perform the ritual, but like many Spring eternals Arhallogen has a volatile relationship with the Imperial Conclave and the ritual may come under interdiction again at any time.
+
+## Common Elements
+The obvious component of this ritual is the opaque container into which the recipients must place their hands. While the usual container is a box or chest, some traditionally minded ritualists prefer to use the bole of a hollow tree. Some ritualists include the use of analgesic preparations to dull the pain of the initial poisoning - chewing Bladeroot is said to help with the pain - while others consider this to be a sign of weakness. Some of the latter covens even go so far as to feed the target  a preparation of Imperial Roseweald that actually heightens the experience of being envenomed.
+
+The ritual almost always involves an invocation of the eternal [[Arhallogen]], although different covens will phrase this invocation in different ways. One performance might involve cajoling Arhallogen into proving its strength by facing the target of the ritual, another might humbly ask it to sting the recipient to test their worth. Covens who make extensive use of this ritual may be find themselves under suspicion that they are succumbing to [[Religious_crime#Idolatry|idolatry]], but there is nothing in the design of the ritual that mandates a "worshipful" relationship between the magicians and the eternal.
+
+The rune [[Rhyv]], coupled with [[Irremais]], [[Aesh]] or [[Diras]], is sometimes evoked with this ritual, carved into the container or painted on the skin of the recipient. As a ritual that deals with poison, [[Totem_magic|totems]] such as spiders, scorpions, serpents, or [[Legendary_beasts#Dragons.2C_Wyverns_and_Wyrms|Wyverns and Wyrms]] are all appropriate.
+
+

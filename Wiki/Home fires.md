@@ -1,0 +1,101 @@
+---
+revision_id: 85391
+revision_date: 2022-01-20T21:27:40Z
+categories:
+- Winds of Fortune
+- 383YE Spring
+- Recent History
+aliases:
+- Home_fires
+---
+
+
+"Whad'ya make of what Friar Stolt said then Will?" She cast a quick glance sideways at her companion, trying to read his response, but without letting on how interested she was.
+
+"About everyone giving up a couple of eels for the harvest time celebration? We do that every-"
+
+"Not that!" she interrupted him, dropping any pretence of a casual interest. "The other stuff! The stuff about putting up soldiers. Giving them a meal and a bed. All that stuff."
+
+Will scratched at his stubble with his left hand as he screwed up his face in contemplation. He tried to think back to what the Friar had said, but he had a horrible feeling he might have dozed off during that bit. He looked forward to walking the two miles with Nell to hear the Friar talk... but if he was truthful he preferred the walking to the talking.
+
+"I reckon... I reckon. " He stopped for a moment, struck by the sudden realisation that against all the odds he actually did have an opinion on the matter. "I reckon it's sheep's bollocks!" he said emphatically and then he spat into the marsh for good measure.
+
+Nell looked askance, half scandalized, half angry. "Well I thought it sounded like an excellent idea. We should support our armies. You don't own it if you can't defend it!" She pulled her arm from his clearly annoyed with him.
+
+"Nell don't be like that... Look I ain't saying it's not a fine idea. But think on it Nell... When was the last time an army came to Oddmure? Last one were the 
+'Reeds and that were ''years ago''. Aggie's nephew is in the Reeds and she hasn't seen him since he joined up. She can't hardly give him a meal when the lad's never here now can she?"
+
+He reached out to take Nell's hand again but she refused him. Instead she picked up the pace, her arms swinging back and forth, part haste, part agitation.
+
+"Well I can't say as you're not right, but then that's what's wrong ain't it?" She thought for a while and seemed to settle on something. She slowed down as a result, enough to let Will hook his arm in hers. She turned and cast him one of her beautiful smiles, the one that made listening to Friar Stolt rabbiting on about prosperity twice a month worth every minute.
+
+"Perhaps if we were more welcoming - then they'd come here more often!" She beamed in triumph obviously pleased with her inescapable logic. "And then that would mean Aggie could see her nephew once in a blue moon..."
+
+## Overview
+The Marches has always been considered the breadbasket of the Empire. It is not simply that the most fertile land in the Empire is found here; it is the fact that the Marchers are highly skilled farmers with an ethic that emphasis the value of hard work and honest toil. Marchers take great Pride in these achievements, so when Friar John of the Mourn put forth a statement calling on farm owners to show their support for the soldiers fighting for the Empire it aroused great interest and much discussion. Ideas were hotly debated as people sought a way to make the good Friar's words carry real weight. 
+
+Friar John’s is not the only statement that achieved a Greater Majority in the Marcher assembly during the Winter Solstice. Friar William also called on the people of the Marches to be vigilant to threats, and to keep a weather eye on the boundaries of their land, something few Marchers can argue with. After a great deal of discussion - somewhat informed by the recent Synod mandate regarding looking to your own nation rather than the good of the Empire - a suggestion has also been put forward to help protect the land many feel is the most vulnerable to attack.
+
+ We, the people of the Marches, take great Pride in the vast bounty of our land. This land is kept ours by the armies that defend it. Many of these soldiers serve with the Ambition that they can own their own farms. We encourage the farm owners of the Marches to thank the soldiers who rest on leave in our lands. One night of food and rest a week, so that they may know what they fight for. An army marches on its stomach, and the Marchers are the ones to bring the bread.
+
+## The Ones to Bring the Bread
+People eventually decide that the idea of providing a night of food and rest a week is more of a romantic notion than an actual logistical plan that might work in practice. The average Imperial army contains thousands of soldiers, not to mention those who work to support them in the field. The principle that soldiers might take rest or leave in Marcher lands is a sound one, but it's simply not practical for them to support them in such a piecemeal way. If the Marchers are going to provide for an army... then the soldiers will need more than just a bed and a meal for the night.
+
+Instead people settle on the idea that the civil service might cooperate with the local yeomanry to billet the soldiers from an Imperial army in a territory. At present when an Imperial army moves to a territory, they usually camp together in close quarters, with food sourced by the civil servants who support the Military Council using complex supply chains. It is difficult and time-consuming, and can be deadly if mistakes are made. Fortunately the civil service have had years of practice to master the art and now most Imperial citizens who don't serve in the civil service think nothing of it.
+War is a thrice-ploughed field.
+Not everyone is happy at the thought of welcoming soldiers into their home. There is the cost to consider for one. Marchers are a prosperous people, but they work hard for what they have and not all of them are keen to share the bounty of their land. 
+
+What is more important for many though is the Marcher notion of independence. Control and ownership of the land influences every aspect of Marcher life, for most Marchers the land they work belongs to them and they will brook no interference in its running from ''any'' authority, be that a landskeeper, a general, or the Throne.
+
+## A Meal and a Bed
+After careful investigation the civil servants are able to confirm that the following mandate could be endorsed.
+
+{{Mandate|mandate=Marchers who fight to protect the land will always find a bed and a meal is available to them for a night's rest. But those who are able and willing to work an honest day may stay a good deal longer. We send {named priest} with 75 doses of liao to encourage Marchers to share their Prosperity with those who deserve it.|assembly=Marcher National Assembly}}
+
+If this mandate were passed, then any Marcher general could issue an order to billet their troops in a Marcher territory. The army would be dispersed across the farms in the territory - making it harder for them to fight off a concerted attack but they would still provide an effective defense if needed. Soldiers who were able would be required to put in a honest day's work in return for their food and board, but the people of the territory would help to support the army while those who need to rest and recover were allowed to do so.
+
+Doing so would reduce the cost to the Imperial treasury to support the army, with food and board being provided for the soldiers by the people of the territory. As a result the cost to support the army would be reduced by ten thrones. It is not effective to billet more than one army in a single territory, so the total reduction would only be ten thrones no matter how many armies were billeted there. 
+
+Billet
+* Can use the order to billet an army in a territory when defending Bregasland, Upwold, or Mitwold
+* There are no bonuses or penalties to defend the territory, or to casualties taken or received
+* The total cost to support the Imperial armies billeted in a single Marcher territory is reduced by a total of ten thrones
+The soldiers of the army are dispersed across the Marcher territory they are instructed to defend. Those who are injured are fed and supported while they recover from their wounds. Those who can will be expected to work the farm at the direction of the yeoman who owns it in exchange for their bed and board.
+
+A few people have noted that Friar John said nothing about sharing Marcher food and lodging only with other Marches. To be fair he did say "This land is kept ours by the armies that defend it." which many take to mean Marcher armies, but it doesn't have to be. There is more resistance to the idea of allowing any Imperial army to billet here. This is Marcher land and some folks are not entirely comfortable with folks who ain't Marchers living here. But they could be persuaded with a little more effort and a pointed mandate to that effect.
+
+{{Mandate|mandate=Any Imperial soldier who is here to defend the land will always find a bed and a meal is available to them for a night's rest. But those who are able and willing to work as best they can may stay a while longer. We send {named priest} with 100 doses of liao to encourage Marchers to share their Prosperity with those Imperials who deserve it.|assembly=Marcher National Assembly}}
+
+This mandate is in competition with the one above. The outcome would be much the same, but it would allow ''any'' Imperial army, even a Dawnish force for example, to be billeted in Bregasland, Mitwold, or Upwold.
+It's easier to look at a hill than to go over it.
+
+## Wily Windy Moors
+The Mournwold is rich with mineral wealth, but much of the land here is less fertile. Craggy hills and windswept moors still support a surprising number of productive farms, but they cannot compete with the great bounty produced in the Marcher territories to the north. More crucially, they do not currently enjoy access to the [[The_Marches_economic_interests#Granaries_and_Storehouses_-_the_Imperial_Breadbasket|Imperial Breadbasket]], the series of granaries and storehouses that cover the other Marcher territories. Without access to these stores, it is not possible for the less productive farms of the Mournwold to provide effective support for an army.
+
+The Breadbasket could easily be extended to the Mournwold however. Plans to do that have been put forward in the past and although they were not implemented, the opportunity still exists. The civil service confirm that if the Breadbasket were extended to cover the Mournwold then it would be enough - just - to allow an Imperial army to be billeted here as well as in the other Marcher territories - assuming the mandate were passed of course.
+
+In the mandate were passed then in theory there is no reason that the Breadbasket - and the associated benefits - could not be extended further if the [[Imperial Senate]] [[Powers_of_the_Imperial_Senate#Assignment|assigned another territory]] to the Marches. Provided the territory had a significant population and contained enough fertile land to support a large farming community then an army could be billeted in any Marcher territory that had access to the Breadbasket.
+Sword and shears both cut alike.
+
+## A Soldier's Ambition
+Friar John's statement also serves to remind the Marchers that many soldiers join the Imperial army "with the Ambition that they can own their own farms." There is widespread approval of this excellent sentiment; the Marchers are strongly support for anyone who wants to get on in life and own a piece of land of their own. 
+
+As a result the Marcher Assembly could pass a mandate urging people to encourage soldiers to settle down.
+
+{{Mandate|mandate=Land matters above all else. Marchers should help folk returning from war to claim land of their own. We send {named priest} with 25 doses of liao to urge Marchers to aid those people looking to settle down.|assembly=Marcher National Assembly}}
+
+If the mandate were passed, groups of soldiers looking to settle down in the Marches would receive a heroes welcome and be given help and support to establish their own farm. Any Marcher citizen who owned a [[military unit]] or a [[fleet]] would be able to exchange the resource for a [[farm]] of equivalent level in any Marcher territory without cost.
+ We implore all members of the Marches to be ever watchful and vigilant. The Marches is in a prosperous time and it is our belief the Marches should not grow complacent. The Marches have always known their lands and our folk are good at beating the bounds be the threats vermin or Jotun.
+
+## Graven Rock
+* A standard fortification could be built in Gravenmarch, Bregasland to protect the territory
+
+The statement urging Marchers to support the Imperial armies was not the only statement to receive unanimous support of the Marcher Assembly. Friar William implored Marchers to be ever watchful and vigilant, lest the threat of the Jotun return.
+
+In fact the Marches has never been better defended against the armies of the Jotun. There is a [[fortification]] in every single one of the territories of the Marches, except one - [[Bregasland]]. The Jotun have never shown any interest in Bregasland, which is fortunate since in many ways the marshes are the territories only real defences. 
+
+Infact part of the problem is that Bregasland is more marsh than anything else. It is a wet place; only the region of [[Bregasland#Gravenmarch|Gravenmarch]] being suitable for the standard construction of a fortification that the Empire relies on to keep its borders safe.
+
+But there is still that region, with that in place the ''fenlanders'' would be able to sleep more comfortably in their beds.
+## Resolution
+Friar John of the Mourn [[383YE_Spring_Equinox_Synod_judgements#Judgement_79|enacted the mandate]] required to create the [[Army orders#Billet|billet]] [[army orders|order]] after the Spring Equinox, extending the ability to all Imperial armies rather than only Marcher armies.

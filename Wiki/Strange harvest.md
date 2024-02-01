@@ -1,0 +1,93 @@
+---
+revision_id: 104294
+revision_date: 2023-08-03T23:23:42Z
+categories:
+- Winds of Fortune
+- 379YE Autumn
+- Recent History
+aliases:
+- Strange_harvest
+---
+
+
+Walter leant forward, carefully turning the cerulean blossom this way and that in his gloved hand. For such a large man, his touch was surprisingly delicate. Behind him, Bertrand shifted his weight from foot to foot, opened his mouth several times, but ultimately said nothing.
+
+Carefully, Walter took a petal of one of the blue flowers between thumb and forefinger, and pulled. The petal resisted, stretching slightly. He increased the pressure, and it finally came loose. He brought it to his nose, sniffed it. Removed one of his gloves and gingerly crushed the petal, then sniffed his fingers.
+
+Then he stepped back.
+
+"What do you think?" Asked Bertrand, anxiously.
+
+Walter nodded. "Definitely the same thing. Same flower, same bush, same thorns. It is the same as the one growing on my farm, same as the one Helena has wrapped around one of her trees. There's a few minor differences, but nothing I'd say was significant. As a botanist, I mean." 
+
+Bertrand screwed up his face in thought for a moment then, as if he were exploring the idea, he said: 
+
+"But all the other plants were different?"
+
+Walter nodded again. "Yes. I've not seen the same aberration twice in any of the farms, or the woods. They were all unrelated, effectively unique, and to be honest with you a lot stranger than this bush although ..."
+
+He pointed then to the ground beneath the thorny briar.
+
+"Do you see? The grass is dead. I saw that in the other cases too. I'll wager that within a fortnight every other small plant within three paces of the bush will be dead. I can't explain it, but I have suspicions. I think the bush is pulling something out of the soil. We'd best hope it doesn't spread."
+
+He pondered, tugging his earlobe again. Peered around the rest of the field. A trio of yeofolk were hard at work clearing unnaturally vital weeds, and a small sapling that seemed to all the world to be trying to hit them with one of its thin, springy branches.
+
+"But it's not showing much sign of -"
+
+Walter stopped. Bertrand had gone white, like a man who had seen a ghost. He was looking past Walter, at the bush. Walter turned.
+
+The petals were falling from the blue flowers. One by one they curled up, died, and dropped off. Where the flowers had been, there were now dozens of tiny pods - a little like rose hips. Even as they watched, these hips dessicated and popped  audibly and dropped off until only one was left. That one fruit continued to swell turning a deep ruby red as it did so. Bertrand cried out a warning convinced it was about to explode ... but then it stopped. Nestled in among the thorny fronts, a crimson fruit a little smaller than a man's fist.
+
+"Well that was unexpected," said Walter calmly. He leant in to examine the fruit, prodded it with a bare finger and regretted it immediately. It seemed firm to the touch, and he was taken with how full of vitality it was. He had to fight down the urge to take a bite out of it - it looked delicious.
+
+He chewed his moustache thoughtfully instead, and then made up his mind.
+
+"I think we're going to have to get Lady Julienne involved. Send a runner up to the manor and ask if she can spare us an hour or to of her time. You might also discreetly send someone to ask the Circle of the White Hare if they want to come and look at this. I think this is beyond the two of us now, my friend - and whatever is going on here is a damn sight more unnatural than ..."
+
+He gestured to the yeofolk still wrestling with the new sapling in the middle of the wheat field. 
+
+"Than whatever is going on everywhere else."
+## Overview
+Less than a month after the Summer Solstice, thick clouds of vallorn miasma spread from [[Brocéliande]] into [[Casinea]], [[Astolat]] and [[Semmerholm]]. Reports indicate that these clouds are accompanied by bands of [[ettercap|ettercaps]] - insect-like abominations - that attack farms and settlements near the outskirts of the dark [[Navarr|Navarri]] forest. The ettercaps are a nuisance, but they are quickly dealt with. Soldiers of the [[Varushka military concerns#The Northern Eagle|Northern Eagle]] garrisoned in Casinea work with soldiers from the [[Casinea#The Silent Sentinel|Silent Sentinel]] to ensure that none of the ettercaps manage to get more than half a mile from the edges of the forest. The garrison of the [[Astolat#The Castle of Thorns|Castle of Thorns]] makes short work of those beasts with the temerity to attack Astolat. In Semmerholm, the attacks are dealt with by [[questing knight|questing knights]] and [[yeofolk of Dawn|yeofolk]] militia, accompanied by seasoned troops from [[Astolat#The Gate|the Gate]] (the [[fortification]] that guards the now-secure passes into [[Holberg]]), and several bands of Navarri thorns from [[Brocéliande#Boar.27s_Dell|Boar's Dell]]. 
+
+The ettercaps are vicious beasts; cunning enough to be a challenge one-on-one, but no match for a disciplined band of Imperial soldiers. Those that do not flee back into the [[vallorn]]-tainted forests are mercilessly slaughtered, their bodies burnt on great pyres to ensure they do not taint the soil or the woodlands. Within three weeks, the number of sporadic attacks drops significantly, and then peters out completely.
+
+However, this small-scale invasion was just a prelude, it appears, to a more worrying occurrence. It is followed by a wave of transformation that strikes the [[farm|farms]] and [[forest]] preserves of Casinea, Astolat, and Semmerholm. 
+ 
+Roughly a quarter of all farm produce is found to be twisted, strange, and unnatural. Orchards produce aberrant fruit whose colour, texture, shape, and flavour bear little resemblance to the expected apples and pears. Wheat fields are found to contain a scattering of unknown roots and vegetables, as well as oddly hued flowers that move and sway in the absence of any wind, or tangled briars that produce peculiar berries. .
+
+At the same time, a similar portion of valuable materials gathered from the forests of the three territories is found to be unusable. [[Mundane_beasts#Iridescent_Butterfly|Iridescent butterflies]] emerge from their cocoons misshapen and monstrous; [[materials#Ambergelt|ambergelt]] flows slowly or unnaturally fast, and solidifies into unsettling shapes and unfamiliar hues. Near [[Semmerholm#Rucastle|Rucastle]], and entire stand of [[Materials#Beggar's Lye|beggarwood]] trees put forth opalescent blossoms that smell of rotting flesh and attract swarms of buzzing late-summer flies that sting and bite the yeofolk trying to gather bark and wood for beggar's lye; in [[Casinea#Mareholm|Marehom]] [[Highguard|Highborn]] workers unearth deposits of [[Materials#Dragonbone|dragonbone]] that seem half-formed and corrupt, like rotting fruit twisted into obnoxiously organic shapes.
+
+The yeofolk and farm workers largely deal with these aberrations with fire. [[Magister|Magisters]] and [[Dawn_magical_traditions|witches]], however, soon discover an interesting trend. Growing on most - if not all - of the affected farms is a hardy, thorny bush that puts forth dark blue flowers, which give rise within a month to a peculiar fruit which appears similar to a [https://en.wikipedia.org/wiki/Pomegranate pomegranate]. The fruit dies, dries out, and become brittle very quickly - the entire cycle plays out over a little under ninety days. These fruit are reasonably rare - a bush produces one a season - but the resulting seed pods can be employed in a similar fashion to [[Game_items#Mana_Crystals|crystal mana]] when performing [[rituals]] of the Spring realm. It is as if the fruit contains or concentrates some of the limitless, fertile energy of that fecund Realm - or of the vallorn itself.
+
+Further investigation spots a disturbing trend. There is compelling evidence that these transformations did not all occur at the same time, but spread first to the farms and forest preserves nearest to Brocéliande ... and nearest to the [[trods]]. Careful examination, and consultation with Navarr [[Navarr_magical_traditions#Vates|vates]] whose [[striding|stridings]] passed through the three affected territories, confirmed that the magical energy that caused this widespread transformation flowed out of Brocéliande, along the trods, and into the soil, water and even the air itself.
+
+The energy that created this burst of unnatural transformation is receding and fading - and the majority of the unnatural plants are dying as the magic ebbs. Preliminary examinations show that the trods themselves are undamaged, but dispels any doubt that the magic originated with the Brocéliande vallorn. This means that the eerie fruits harvested this season in [[Dawn]] and [[Highguard]] seem unequivocally linked to that parasitic threat.
+
+## Significance
+### Consequences
+Any character who owns a farm or forest [[Resource#Personal_Resource|personal resource]] in the affected territories - in Astolat, Casinea, or Semmerholm - will find that the amount of money or measures of material produced by that resource has been reduced by a quarter. This represents the income lost to the unnatural, transformative touch of unfettered Spring magic. 
+
+At the same time, each such character should find a ribbon for a "Seeds of the Forest" in their pack. Infused with Spring potence, these seed pods are protected by a coarse-husked fruit and can be used by ritualists performing rituals from the Realm of Spring.
+
+An immediate problem arises because these pods are obviously connected to the vallorn - and the [[Imperial Conclave]] has [[Declaration#Declaration of Interdiction|interdicted]] vallorn seeds. If these pods are determined to be vallorn seeds then they should be handed in promptly to the civil service. Anyone using or trading them risks being charged with contravening a declaration of interdiction, a serious crime that usually carries a death sentence. 
+
+### The Senate
+Several concerned farmers and foresters are looking to the [[Imperial Senate|Senate]] for further clarification. The Senate might choose to amend the current law which makes it illegal to cultivate [[List_of_Criminal_Offences#Crimes of Property|vallorn]]. Previous guidance from the magistrates on this subject was that "when they investigate a potential offence of Vallorn cultivation they will seek expert testimony from the Conclave in cases where the position is unclear. For example, planting or tending a vallorn is very likely to be interpreted to be vallorn cultivation but harvesting magical ingredients from a naturally occurring vallorn pod may or may not be." Magistrate Karkovich has indicated his intention to consult with the Archmage of Spring and the Advisor on the Vallorn about both these issues.
+
+Additionally, the magical transformation wrought by the Spring magic has produced other exotic plant material in the affected farms and forests. These unique fruits, vegetables, and plants appear to have no special properties beyond their strange appearance, but they are still being burnt. A motion by the Senate to clarify that trading such produce is not a crime could provide a significant boost of additional money to the affected farms and forests during the coming season - but may have unlooked for consequences depending on whether that produce has any hidden properties.
+
+### Opportunity
+Any character with a farm or forest in one of the affected territories can choose to actively cultivate the Spring-mana producing plant. Mundane means will not suffice, however; the plant requires a burst of spring magic if it is to survive. This can most easily be achieved by use of the ritual [[Blessing of New Spring]]. If the ritual is performed on a character with a farm or forest in one of the three affected territories, their production will be permanently reduced by 36 rings or 2 measures as appropriate, but their resource will also permanently produce a piece of Spring mana each season. 
+
+This enchantment normally has no effect when performed on a character with a forest, and would not normally be performed during the Autumn Equinox for obvious reasons. In this case however, the nature of the magical event means it will have an unlooked for effect. It is worth noting that it does not matter if the casting of this ritual is deliberate or not, only that the enchantment it creates remains in effect until the start of the next Profound Decisions Empire event (that is, if another enchantment is placed on the resource, the blessing of new spring will be removed and the attempt to permanently cultivate the mana-seed-pods will fail). 
+
+A few alternative options exist. If the ritual [[Hallow of the Green World]] were performed during this event, it would automatically cultivate the peculiar mana-plant in all forests and farms in the three affected territories. Likewise, an [[Spontaneous_magic#Arcane_Projection|arcane projection]] from the spring realm that enhanced fertility over an entire territory would automatically support the magical plant if cast in the territory. The important element is that the farm or forest be infused with a burst of spring energy.
+
+## Participation
+If you are one of the characters affected, you may wish to provide a suitable phys-rep for these exotic pods. A scrap of hessian folded over and stuffed with something will make a perfectly adequate phys-rep, as might a dried poppy or [https://en.wikipedia.org/wiki/File:Lotus_seed_pod.jpg lotus seed pod] or [https://en.wikipedia.org/wiki/Poppy_straw poppy straw].
+
+Any character whose roleplaying mandates that they would simply have had these seed pods destroyed is encouraged to hand the "Seeds of the Forest" ribbon back in at GOD, or else simply destroy it. They will still suffer the reduced production for their farm or forest.
+
+## Resolution
+The vallorn has returned to quiescence. If any individuals took the step of cultivating the strange fruit, they have not made their decision to do so public. Which is unsurprising, given the illegality of the action.

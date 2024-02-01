@@ -1,0 +1,85 @@
+---
+revision_id: 106578
+revision_date: 2023-12-29T17:52:49Z
+categories:
+- Foreign Nations
+- The World
+aliases:
+- Asavean_Archipelago
+---
+
+
+
+## Overview
+A predominantly island culture, Asavea possesses a small empire scattered across a sprawling archipelago, far across the ocean to the west. A timeless and cultured nation, it sees itself as having moved beyond the questioning and struggle of more primitive lands. The Asavean people consider their society to approach perfection; change is considered unnecessary and disruptive and should be avoided as much as possible.
+
+Until around a hundred years ago, the Asavean empire had holdings all over the world. Over the last century they have slowly withdrawn, turning their attention inwards. They appear to be a nation in decline, although they are still powerful enough to maintain a presence on the 'world stage'.
+
+Of particular interest to Imperial citizens are the [[Asavean Archipelago ports|Asavean ports]] which are open to trade with the Empire.
+
+## Terrain
+Asavea is much warmer than the Empire, and centred around several chains of volcanic islands. Their land mass isn't huge (probably about the equal of any two Imperial nations), but it is densely populated. Each island is surrounded by floating shanty towns inhabited by the poorest members of Asavean society. The Asavean engineers are experts at creating structures on and in water, draining swamps and performing other tasks that allow them to expand the habitable land-mass of their archipelago. In the past they have regularly used powerful ritual magic in the pursuit of more living space, but these days they prefer to do their land-sculpting with large numbers of slaves over many decades.
+
+In addition to the islands that make up the heart of the "Asavean republic", the nation consists of a number of subject states called "satrapies". In theory these satrapies are sovereign nations "advised" by Asavean satraps; in practice they are part of the Asaveans empire in all the ways that matter.
+
+## People
+The people of Asavea are almost exclusively human. Members of all six [[lineage|lineages]] are known among them, but only the [[merrow]] 
+lineage really prospers. Members of other lineages (especially [[cambion]] and [[briar]]) are often seen as being 'troublemakers' and exiled to positions in the subject territories. Several of the ruling families have strong merrow blood. Orcs are almost unknown; they are usually considered to be exotic, primitive savages who none-the-less enjoy a level of mystique and feature in several lurid Asavean tales of adventure (usually as cannibalistic worshippers of dark god-spirits who bring the foolish adventurer's expedition to a nasty end).
+
+The archipelago is ruled through a system of shared hereditary nobility known as the Plenum. The head of each major household has a seat on the Plenum and receives a set share of the nation's wealth. While the Plenum can make laws and take decisions, they rarely do so quickly, and years of debate and consultation of precedent can be required to make major changes. In truth the Plenum more often discusses matters such as art and philosophy, preferring to let their slave-run civil service administer to the day-to-day affairs of state.
+
+Almost all manual labour, and a good deal of skilled labour is done by the slave class, which constitutes a significant proportion of the population. However, slaves are strictly stratified and spend a lot of time trying to advance themselves. A high-caste slave could wield similar influence to an Imperial citizen, and slaves are generally well treated. However, children of slaves automatically start at the lowest caste, and must work their way up through effort and rigorous examinations. Slaves cannot be granted freedom, as it is an accepted part of the natural order of things that they remain so. The vast majority accept the stratification of Asavean society without question; those who do not are exiled or executed.
+
+Although the Asaveans still regard themselves as sprung from heroic stock, the truth is that they no longer regard the military as either glorious or important. Members of the Plenum caste often serve as officers, but this is merely considered tedious civic duty, and most allow their competent slave-soldiers to handle things.
+
+The Asaveans are extremely wealthy due in part to their large slave-fleets and their dominant position for shipping. They trade extensively to both east and west, and are known to deal with nations far beyond those familiar with Imperial traders in lands beyond the setting sun. Despite their emphasis on social stability, Asavea has an enormous and insatiable appetite for luxury goods and rare objects. Anything unique, novel or aesthetically pleasing fetches a high price, as the nobles are always looking for items to add to their collections.
+
+## Politics
+According to the legends of the islands, the archipelago was once home to monsters, with the only safety to be found in walled city-states who feuded continually with each other.  Starvation was common, and resources were scarce because the interior lands were so dangerous.  In myth, the heroes known as the Asav were born directly out of the ocean; shining champions who conquered the bickering cities, united the people of the archipelago and destroyed the monsters.  The Asav brought order and civilisation, and by tradition the members of the Plenum caste claim blood descent from them
+
+The rulers of a number of smaller nations near the Asavean Archipelago are 'advised' by ''satraps'' appointed by the Plenum. These nations maintain a polite fiction of independence but are Asavean subjects in all but name. The satraps often help the smaller nation maintain order through the use of Asavean troops. Imperial citizens who have visited these smaller nations often comment that the Asaveans they encounter there seem more alert, competent and committed to the ideals of their nation than those they encounter in the Archipelago itself. These lesser nations tend to speak the same mix of languages that are spoken on Asavea proper, and it is likely that they form the root from which the Asavean people have sprung.
+
+The defences of the island chains are impressive, with fortifications that have been added to for centuries, and standing armies of well equipped and drilled soldiers. Many Asavean structures, especially those built outside the Archipelago proper, are heavily fortified - a remnant of a time when their ancestors were constantly under threat of war or invasion. With deep pockets, and large stores, they can always afford to simply retreat behind their walls, allowing time for their allies to send aid. Modern Asavean architecture focuses more on beauty than defensibility.
+
+While they have a large navy, their vessels are more commonly trading or pleasure ships. Almost all Asavean ships use banks of oars and slaves to supplement their sails, and are based on developments of the [http://en.wikipedia.org/wiki/Dromon dromon] and the [http://en.wikipedia.org/wiki/Liburnian_(ship) liburna]. Although they maintain a small number of military vessels, they often rely on mercenaries to protect their fleets. While the Asavean shipwrights were the best in the world just over a century ago, their designs have been superseded by those of younger nations such as the Empire and the [[Sarcophan Delves]]; Imperial vessels may be more dependant on the vagaries of the wind but they do not require slaves, and those of the Sarcophan Delves are often moved by entirely reliable crews of tireless unliving creatures rather than slaves that require food, drink and discipline.
+
+## Magic
+At their height, the Asavean sorcerers were powerful wielders of ritual magic. Over the last century or so, their magical power has declined. The Asavean Archipelago has fewer magicians than the Empire, although this is likely to be more due to a lack of access to teaching than to any lack of actual magical ability. Most of their ritual magicians are now slaves, although every coven is led by a member of the Plenum caste. 
+
+Magicians of the Plenum caste perform their civic duties in a perfunctory way, spending most of their time in private research into the wonders of the universe - or ''naval gazing'' as many Imperial magicians would have it. There are some very loose ties between the Asavean magicians and the Imperial [[Unfettered Mind|Order of the Unfettered Mind]], as well as with similar cabals in other parts of the world.
+
+## Religion
+They are polytheistic, and completely open to any religion that doesn't interfere with the smooth functioning of their state. However, fervent belief is seen as uncouth and uncivilised, and those of the Plenum caste see religion as being a matter of tradition rather than spirit. Slaves are often deeply religious, but know well enough to be quiet and discreet in public.
+
+There are over a hundred Asavean god-spirits, and only their priests are likely to know more than a handful. Priests are often extensively tattooed with images that represent the god-spirits to which they feel the closest connection. Offerings are made to the god-spirits by those who need good fortune in an area that god-spirit oversees, or who wish a rival to suffer bad luck in that area, or who wish to fend off bad luck. Offerings are usually burnt before an image of the god-spirit in question by a priest. Human sacrifice is not a common practice but is known to have taken place in the past, and there are dark mutterings among Imperial missionaries that in some extreme cases it continues to this day.
+
+This practice informs the belief among members of the Plenum caste that goods burned with the body accompany the soul into its afterlife. Hence members of the nobility have a tradition of amassing enormous collections of exotic items to be burned with them on a slave-ship when they die. In the past, the slaves were also burned with their masters, but these days this only applies if the slaves themselves constitute a collection. They amass libraries, treasure vaults and halls full of antiquities, only to have them all burned to ash with them upon death. They regard this as rather obvious, and engaging in one-upmanship for collections is a major past-time amongst the Plenum class.
+
+Recently the Way of the Imperial faith has begun to find a foothold amongst the slaves of Asavea, and several members of the Plenum are becoming alarmed – objecting to its strident and atheistic tone. They have exhorted the Imperial missionaries to “tone down” their rhetoric for the public good. However it is a little unclear whether this growing dissatisfaction is a result of Imperial missionaries, or whether agents from the [[Sumaah Republic]] are to blame.
+
+In Spring 378YE, a pamphlet claiming to offer insight into the Asavean religion began to circulate in the Empire. Parts of the pamphlet appear to have clearly been intended for children, but it apparently details several of the prominent Asavean Gods. It is an easy matter for an Imperial citizen to lay their hands on a copy of the pamphlet if they wish ([[File:Asavean_Religion_Pamphlet.pdf]]).
+
+## Look and Feel
+Asavea is much warmer than the Empire, and this is reflected in their dress. Long tunics are common, sometimes with a loose robe in a contrasting colour worn over the top. Tunic and robe alike will often possess decorative embroidery - even slaves have access to materials that allow them to decorate their clothing. White is the most common colour for the tunic, with red, purple and green being the most common colours for the loose robe. The most valuable tunics are bleached brilliant white with [[materials#Beggar's lye|beggar's lye]], while the most valuable robes are dyed in a number of deep blue hues using [[materials#iridescent gloaming|iridescent gloaming]] and [[Cerulean Mazzarine]]. Asavean blue is a valuable coloured cloth that is sold throughout the known world.
+
+Members of the Plenum caste of all genders usually wear a [http://en.wikipedia.org/wiki/Toga toga] over the top of their tunic, rather than a robe. Only the highest ranking slaves are allowed to wear the toga, and only the Plenum caste are allowed to wear the prestigious black toga on pain of death. The toga is usually worn only out of doors or in very formal situations, and is rarely embroidered or decorated.
+
+Jewellery tends to be ostentatious but an Asavean would rather wear one or two pieces of extremely fine and valuable jewelry than drip with gold and gems - ''quality over quantity'' is a traditional Asavean saying and applies especially in this area.
+
+## Languages
+The Asavean people are the descendants of a number of nations from a wide geographic area. The dominant languages of the archipelago are represented by those from the [http://en.wikipedia.org/wiki/Romance_languages romanic language group] especially French, Italian, Portuguese, Romanian and Spanish. French and Spanish are slightly more dominant than the others, and at various points in their history one or the other has dominated Plenum business; when people refer to Asavean they may be talking about any of these tongues.
+
+## Asavean Archipelago in play
+The Asavean Archipelago is a nation that has become hide-bound, inward-looking and decadent. It is facing a slow decline into obscurity, and whether it goes quietly, explodes in a frenzy of violence, or somehow renews itself, only time will tell. At its peak a hundred years ago, it can be seen as an "elder statesman" of the other nations active on the 'world stage'. It combines a number of ideas and images from real-world Roman, Greek, Byzantine, Phoenician and Egyptian empires as well as diverse fictional sources such as Mervyn Peake's ''Gormenghast'' or even David Eddings' ''Mallorea''.
+
+While Asavea is a nation based on slavery, the institution is so old and hierarchical that the majority of the slaves consider it entirely normal. For the most part, only those slaves on the very bottom rung of society - those who perform manual labour such as those who work in fields and mines, or who load and unload ships - have a poor quality of life. Many of the slaves in the higher echelons have a lifestyle that peasants in other parts of the world would envy. To many Asaveans, freedom is a terrifying prospect which is generally believed to lead to starvation and death, or murder at the hands of criminals. The entire society reinforces this belief, and those who agitate for freedom are viewed at best as insane and at worst as anarchists who want to destroy society. This is not the prevalent attitude among the subject territories, but even there the presence of Asavean troops and the protection of Asavean naval forces is seen as a good thing that helps prevent society collapsing into widespread anarchy.
+
+The Asavean people as a whole are traditional and hierarchical, introspective and faintly smug but they are no more stupid or cruel than anyone else. They consider their society as close to perfect as makes no difference, and tend to ignore critics as being irrelevant, ignorant or rude.
+
+Asavean merchants travel to several locations favoured by the Empire, and their languages are spoken all over the known world as a consequence. Characters who speak French, Italian or other 'Asavean' languages might never have visited the archipelago itself, and may have only a tenuous connection to the distant island empire.
+
+It's worth noting that the Asavean god-spirits are not 'real' in the way the virtues of [[the Way]] are real - these are not [[eternal]] cults, and Imperial scholars suggest that many of them are defied versions of folk heroes whose stories have taken on a supernatural edge. Asavean priests lack access to any [[religious skills]]; have no use for [[liao]]; and while they believe in reincarnation they assume that people are reincarnated into the same caste they were in their previous life. Their faith is very institutionalised and secularised, and it seems that few Asavean people actually ''believe'' in the god-spirits. Some of these god-spirits have odd similarities to [[Paragons and Exemplars]], and the Asaveans are quite happy to absorb the gods, folk-heroes and ancestors of other nations into their bloated pantheon.
+
+In short, while many Imperial citizens find Asavean society offensive, it will take a lot more to change it than a foreigner going to [[Asavean_Archipelago_ports#Nemoria|Nemoria]] and telling the teeming citizenry that they are 'doing it wrong'.
+
+

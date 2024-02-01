@@ -1,0 +1,49 @@
+---
+revision_id: 104267
+revision_date: 2023-08-03T23:12:41Z
+categories:
+- Winter Ritual
+- Rituals
+aliases:
+- Hungry_Grasp_of_Despair
+---
+
+## Rules
+
+### Performing the Ritual
+ 
+
+### Effects
+  The target character must have the [[Magical skills#Magician|magician]] skill.
+
+ 
+### Effects
+The target gains the ability to cast the [[weakness]] spell four times each day as if they know it without spending any mana.
+
+They also experience a [[roleplaying effect]]: ''You feel powerful and deserving of respect. You experience an urge to punish people who disrespect you or your authority.'' 
+
+
+
+
+
+### Additional Targets
+This ritual can affect additional characters from the same [[Groups#Covens|coven]]. Each additional character increases the magnitude by 11. Additional characters must be present throughout.
+
+### Option
+
+## Description
+With the power of this [[enchantment]], a magician can curse, demoralize, and disempower an elite band of foes or an enemy coven. It is at its most useful when the ritualists are supported by (or are themselves) battlemages and warriors who can take advantage of the confusion that comes from being denied the use of potent techniques. It is also useful for disrupting magical workings - weakened magicians are unable to contribute to rituals for example swiftly ensuring that an enemy working will fail quickly and efficiently.
+
+The ritual is also surprisingly effective when dealing with [[husks]] - dead bodies possessed and animated by spirits of the realms or by angry ghosts. These malignant creatures tend to possess supernatural vitality, and can prove particularly resistant to being destroyed. Sapping their strength removes their ability to rise again, and has the added advantage that it will prevent them from using any supernatural attacks they may possess.
+
+Several [[eternal|eternals]] of the Winter realm are known to offer boons related to this ritual, and to the weakness curse as a whole. [[Kaela]] in particular may offer a boon that makes this enchantment easier to cast, or allows the power to be drawn on more possible. The lesson this ritual teaches - that strength is transitory and that it will eventually fade - appeals particularly to her grim sensibilities. [[The_Thrice-cursed_Court#Tharim|Tharim]] of [[the Thrice-cursed Court]] by contrast appreciates the way that magicians who master this ritual can punish their subordinates at a whim, removing the power of their thralls as they wish. He is said to have provided magical [[:Category:Foci|foci]] to make it easier to perform the ritual, which also allow even more weakness to be bestowed by those under its effects.
+
+Similar to [[Unending Cascade of Blood's Fire]], the Hungry Grasp of Despair creates an enduring curse on those subjected to its power - one that it is not necessarily within the power of the magician to remove. Magical weakness does not fade over time, and those brought low by this magic usually require treatment by a [[Surgical_skills#Physick|physick]], the aid of a magician versed in [[purify|more wholesome lore]], or an [[Surgical_skills#Apothecary|apothecary]]-brewed [[potion]] before they can restore their strength. This treatment can often prove tricky to find on a battlefield, of course.
+
+This ritual has existed in one form or another since the earliest records, and it is possible that the [[weakness]] incantation itself began as a refinement of the power it grants. Among some [[The League|League]] [[Mountebank|mountebanks]] and more cynical [[Troupe|troupes]] it is called ''Fear for the Mighty''. This references the idea that it is the powerful who have the most to lose from the effect of this ritual. In [[Wintermark]] it is sometimes called ''Kyrop's Balance''; in [[The Marches]] it is ''Levelling the Playing Field''. In some parts of [[Dawn]] it is scurrilously called ''Humble the Errant Knights''; a name with multiple meanings depending on who is performing the ritual. A number of [[Varushka|Varushkan]] [[Varushka_magical_traditions#Cabalists|cabalists]] refer to it as the ''Scourge of the Foolish'' and several stories recount how it has been used to prevent apprentice magicians with more power than sense from harming themselves and others.
+
+## Common Elements
+When performing this ritual, the coven often invokes forces of despair, fear and hunger. Oppressive music or thundering rhythms that begin fast and become slower and slower, symbolic of the way power ebbs from those affected by this curse, are common; so are frenzied dances that reach a climax with the performers collapsing as if from exhaustion.
+
+Other elements might include the runes [[Kyrop]] or [[Naeve]], or a [[dramaturgy|dramaturgical]] scene in which [[the Bishop]] slowly succumbs to weakness and frailty (often in [[the Tomb]]. An [[astronomancy|astronomancer]] might invoke the power of [[the Drowned Man]] constellation, while a practitioner of [[Totem_magic#Heraldic_Magic|heraldic magic]] might call on the spirit of the insidious [[Legendary beasts#Sphinxes and Manticores|manticore]] or the echoing roar of the terrible [[Legendary beasts#Chimera|chimera]]. A [[Totem_magic#Goetia|goeticist]] will find the names of [[Sorin]] and especially [[Kaela]] resonate well with this ritual, although in Varushka [[Wise Rangara]] is also popular especially when the ritual focuses around the need for the wise to control the powers of the foolish.
+

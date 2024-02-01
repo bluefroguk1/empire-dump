@@ -1,0 +1,146 @@
+---
+revision_id: 99211
+revision_date: 2023-04-14T11:45:36Z
+categories:
+- Gazeteer
+---
+
+
+
+## Overview
+Anvil is a small settlement in north-eastern [[Casinea]], not far from the grim shadow of the [[fortification]] known as the [[Casinea#Silent Sentinel|Silent Sentinel]] that watches the borders of [[vallorn]]-haunted [[Brocéliande]]. While the place itself is ordinary, four times each year it hosts the quarterly summits that chart the course the Empire travels through history. In the fields near the town, each of the ten nations of the Empire gather to establish national camps with the assistance of the civil service.
+
+Everyone camps by nation at each summit - it is a matter of some pride for most nations to make the camp as welcoming as possible. In addition to sleeping and hosting tents, the nation camps contain any number of businesses, trading posts, and areas that reflect the unique nature of their nation such as the theatre in [[the League]] camp or the Glory square that forms the heart of the [[Dawn|Dawnish]] camp.
+
+Between the nation camps stand a cluster of buildings and tents that, while humble in appearance, amount to the heart of the Empire. Camping here is carefully controlled by the civil service as the small amount of space between the historic buildings - the [[#The Senate|Senate chamber]] and [[#The Forge|the Forge]] - is mostly reserved for the institutions that govern the Empire.
+
+Although there is no formal or geographical distinction, the business of Anvil is most easily split into three primary areas - political, cultural, and magical.
+
+## Political
+### The Senate Chamber
+One of the few solid buildings in Anvil, the Senate is a sturdy structure where the [[Senator|senators]] of the [[Imperial Senate]] meet during the quarterly summits to discuss the direction the Empire will take. The main hall is where the [[Senate session|Senate sessions]] take place, in front of [[the Throne]] of the Empire. There is also a witness gallery, initially intended for the use of [[Imperial Synod|Synod]] priests to observe the business of the Senate, but today open to anyone who wishes to watch their senators debate the business of the day.
+
+There is only one entrance to the Senate proper. While the Senate is meeting, this entrance is guarded by the [[Captain of the Senate Guard]] and their hand-picked recruits. They carefully enforce the rules prohibiting entry to anyone who is not entitled to be on the floor during a Senate session.
+
+Under normal circumstances, the Senate Chamber is also home to the various auctions conducted by the [[Imperial Bourse]]. Unlike a Senate session, these auctions are open to anyone, though the best prizes usually go to those with the heaviest purse.
+
+The rest of the time, the Senate is available for use by private citizens and is a regular venue for concerts, plays, and debates. During the quarterly summits, recent fashion has seen the respected [[Senate Motions]] organisation make use of the Senate after all business is concluded, in their quest to educate and divert through music and dance.
+
+### The Military Council Tent
+The Military Council chambers are where the [[Imperial Military Council]] meet to decide the Empire's military strategies. The [[Muster]] takes place here on the first night of the summit, when the [[general|generals]] determine which [[conjunctions]] of the [[Sentinel Gate]] the heroes of the Empire will take advantage of. It's also where [[Council_session|formal]] and often informal meetings of the military council take place during the summits. The chambers contain benches and chairs for the generals and their [[General#Appoint_an_Adjutant|adjutants]], as well as a grand map of the Empire that is crucial for the strategic planning of the Council.
+
+Unique among all the structures at Anvil, it is illegal for any serving senator to enter the Military Council tent while official meetings are in session, a prohibition that arises directly from the [[Imperial Constitution]]. Those who openly flout this rule risk severe legal consequences for doing so.
+
+
+### The Hub
+The Hub is akin to the beating heart of Anvil, a bustling tent filled with people coming and going. Although their offices lie in far away [[Astolat]], at the [[Astolat#The_Castle_of_Thorns|Castle of Thorns]], the Hub is home to all the civil servants who support the summits at Anvil and the day-to-day administration of the Summit takes place here. The civil servants on duty here are available to answer queries or offer advice to concerned citizens, and messages can be left here for the attention of specific civil servants. The structure itself, a large white marquee, is deliberately fluid and expands or contracts over time based on the needs of the citizenry and the available resources.
+
+It is here that [[judgement|judgements]] of the [[Imperial Synod]] are presented, voted on, and resolved. Every judgement that has been submitted for consideration by the Synod is pinned to the walls of the Hub so that priests who visit can read and judge them accordingly. Priests lodge their votes with the [[Tribune of the Synod]], who announces the verdicts here once they are decided.
+
+The Hub is also where the [[Tally of the Votes]] is conducted by the [[Agent of the Bourse]]. Anyone seeking to elect their preferred candidate to a national Bourse position can register their votes with the civil servants here.
+
+The magistrates are also based here. Anyone who needs assistance with a legal matter or wishes to report a crime can find a magistrate within. In addition, although Senate and the [[Imperial Conclave]] sit in session elsewhere, the civil servants who support them, the [[Speaker_for_the_Senate|Speakers for the Senate]] and the [[Prefect of the Conclave]] can be found here outside of these times for anyone who needs to submit business for either house.
+
+
+### The Imperial Offices
+The Imperial Offices were [[Establish_Imperial_Offices|established]] by [[Empress Lisabetta]], with the support of the [[Imperial Senate]], and began as an organization dedicated to supporting [[the Throne]] in the performance of their duties and the furtherance of the Imperial agenda. It also seeks to encourage politically minded citizens and to provide them with experience of the Empire’s system of government. Over time, the Imperial Offices have gradually matured into a more formal structure offering support and assistance to those looking to participate in diplomacy and the politics of the Empire. It provides a single central location at Anvil where citizens with knowledge pertinent to the Throne’s responsibilities can share that information with those who needed to use it.
+
+The Imperial Offices serves as a place where members of the diplomatic corps can congregate and (by arrangement) receive foreign dignitaries. The Imperial Offices are sometimes used by the Assembly of Nine to meet. It can also serve as a convenient location for some Imperial Title holders to meet, particularly where the meeting is pertinent to the Throne’s agenda.
+
+Following the disappearance of Empress Lisabetta, the civil service [[Crowned_in_rose_and_heather#The_Chamberlain|issued some guidance]] regarding the Imperial Offices. While they remain useful to the citizens attending Anvil, they will continue to be placed in the heart of Anvil. If it becomes clear that they are no longer serving a useful purpose, they will be moved further out. 
+
+OOC Note: The Imperial Offices are an important location at Anvil but they are run by players for players, not by Profound Decisions and our civil service. As such they set their own schedule and operate to their own agenda.
+
+## Cultural
+### The Forge
+According to legends, the Forge is the tavern is where the [[First Empress]] originally met with the leaders of the nations that would go on to form the Empire. The tavern still runs today, offering warm shelter and a cold beer to any who complete the long journey to Anvil. It is a site of pilgrimage for many Imperial followers of [[the Way]], steeped as it is in historical [[Pride]] and [[Ambition]]. While there are many other places of hospitality in Anvil, the Forge continues to serve as a place for people of all nations to meet and relax - or to talk business over a pint of beer.
+
+### The Academy
+The [[the Academy|Imperial Academy of Young Heroes]] is a school intended for the education of the young folk who attend Anvil summits. Between summits, the Academy operates a prestigious school currently based in [[Astolat]].
+
+The civil service oversees the school - the head of the Academy and most of the staff are dedicated civil servants as well as educators. During the summits, the Academy staff also perform important tests - of citizenship and of war - that help young heroes of the Empire to fulfil their potential and join Imperial society. 
+
+The Academy staff run a schedule of lessons, but are always interested in engaging Imperial citizens to provide lessons on specific topics of interest to their students.
+
+
+### The Anvil Hospital
+The Anvil Hospital and Imperial School of Medicine is an organisation dedicated to the protection and promotion of the healing arts. During quarterly summits, it maintains a hospital near the [[#Sentinel Gate|Sentinel Gate]]. The hospital provides practical medical services to citizens, especially those returning through the Sentinel Gate from engagements with the enemies of the Empire. In addition, it runs frequent medical lectures and otherwise actively supports the [[Surgical skills#Physick|physicks]], [[Surgical skills#Apothecary|apothecaries]], and [[Surgical skills#Chirurgeon|chirurgeons]] of the Empire.
+
+The School also collates and prints their Guide to Medicine. This bound volume strives to cover every [[herb]], [[potion]], recipe, and healing [[Rituals|ritual]] known to Imperial scholars, as well as detailing common diseases and [[Combat#Traumatic_Wounds|major medical conditions]] encountered by its members. Copies can be purchased directly from the Hospital. The School also publishes, and will help publish, other texts, treatise, and other materials relevant to medicine and medical treatment at Anvil and the wider Empire.
+
+This School of Medicine is open to all citizens of the Empire and has a membership fee which goes toward the running of the institution. Any medic of skill and dedication is welcome to come and help out in the Hospital, and those who work there give their services freely. 
+
+OOC Note: The Hospital is an important location at Anvil but it is run by players for players, not by Profound Decisions and our civil service. As such they set their own schedule and operate to their own agenda.
+
+### The Anvil Library
+
+The Anvil Library is an organisation dedicated to the protection and promotion of knowledge across the Empire. It collates and prints a multitude of publications, covering subject from medicine to religion, politics to magic, and everything in between. The Library also publishes, and will help publish, other texts, treatise, and other materials relevant to the citizens attending the summit at Anvil and the wider Empire. Citizens are free to read a selection of the thousands of pamphlets, books and papers the Library has in its possession, covering a wide variety of topics and subjects. Copies of most of these works can be purchased for a modest fee which, in turn, helps to financially support the Library with its running costs.
+
+The Library also looks to collect and preserve special artefacts, historic documents, maps and articles from expeditions. These are kept in a special reference section of the Library for researchers to access (they are not available for sale or lending outside of the Library). There is also a back catalogue of newspapers from each of the Anvil Summits, including such notable publications as the Oathwright, the Looking Glass, the Thrifty Squid, and The Pledge. The Library is always interested in receiving copies of any publications produced at each Anvil Summit for inclusion in the reference section.
+
+The Library also produces a newsletter at each Anvil Summit that covers important updates and news items concerning the library, and articles on various other matters. This pamphlet can be picked up for just a few rings. In addition, the Library runs frequent lectures. There is a small charge for entrance to these lectures for non-members and for lecture materials (provided by the lecturer), a portion of this fee going to the Library and the rest to the lecturer themselves.
+
+OOC Note: The Library is an important location at Anvil but it is run by players for players, not by Profound Decisions and our civil service. As such they set their own schedule and operate to their own agenda.
+
+
+## Magical
+### The Imperial Regio
+The [[Regio#The_Imperial_Regio|Imperial Regio]] is of particular importance to the [[Magical skills#magicians|magicians]] of the Empire. This powerful [[regio]] is a site of great magical power, unique in the Empire (and perhaps even the world) in that it is connected to all six realms of magic. It is freely available to any ritual magician who wishes to draw on the power of the regio to strengthen their rituals. It is marked out by a wide circle of black monoliths.
+
+Some historians believe it was the presence of this regio, more than the important role played by [[#The Forge|the Forge]], that caused the founders to make Anvil the heart of the Empire. The Imperial Regio enhances rituals performed within it, and can also be used to cast powerful magic that affects an entire [[territory]] anywhere in the Empire. This allows Imperial magicians to perform rituals from Anvil that would otherwise require them to be in a regio situated in the target territory. As a result, during the summits, the Imperial Regio understandably can be extremely busy.
+
+The regio also provides entrance to the [[#Hall of the Worlds|Hall of the Worlds]] - the magical space beyond the mundane world where the [[Imperial Conclave]] meets during the quarterly summits.
+
+### The Hall of Worlds
+Technically, the Hall of Worlds is not actually ''in'' Anvil. Rather it exists beyond Anvil in some fashion - a magical space that can be reached from the mortal world only via the [[Regio#Imperial Regio|Imperial Regio]]. The Hall changes size and decoration seemingly at random.
+
+By law, the [[Conclave session|formal sessions]] of the [[Imperial Conclave]] must be held in the Hall of Worlds if it is accessible. Any Imperial citizen who can reach the Hall of Worlds is de facto considered to be a part of the Conclave, although participation is controlled by the [[Grandmaster|grandmasters]] of the [[Conclave order|Conclave orders]].
+
+At the rear of the Hall of Worlds is a second portal that connects in some fashion to the nothingness that lies between the mortal world and the six magical realms. This portal allows heralds in the service to the powerful [[eternal|eternals]] to reach the Hall, and sometimes to pass through it to Anvil. Although it is impossible for a mortal to travel to one of the realms and survive, the portal is sometimes used by Imperial citizens to attend audiences with eternals or their servants in chambers that, like the Hall of Worlds, somehow lie between the mortal world and each of the six realms.
+
+Although the gate allows travel to and from other chambers - it does not permit a herald or similar creature to listen in on business taking place in the Conclave. All experimentation has repeatedly demonstrated that the only way for an inhabitant of the realms to hear what is said in Conclave is to physically enter the Hall of Worlds. Despite this categoric fact, the mistaken belief that such beings might be listening remains impossible to completely quash.
+
+OOC Note: It is only possible to reach the Hall of Worlds by using the [[operate portal]] spell or an equivalent magical ability while standing in the [[Regio#Imperial Regio|Imperial Regio]]. Likewise returning to the mortal world from the Hall of Worlds requires one to perform this cantrip again while passing through the entrance to the hall. The spell works slightly differently when used to move between the mortal world and the Hall of Worlds, as detailed in the [[Regio#The Anvil Portal|description]].
+
+
+### The Sentinel Gate
+The [[Sentinel Gate]] is one of the wonders of the Empire, and allows Imperial citizens to travel instantly from Anvil to specific locations around the Empire and occasionally beyond. The arch itself stands a short distance from the heart of Anvil, giving ample space for armies of Imperial heroes to muster before passing through to face the enemies of the Empire.
+
+Characters intending to take the battlefield in support of the Empire must muster before the gate when the time is ready. Likewise any character seeking to take advantage of the gate's magic to partake in a quest or skirmish will begin their journey at the Gate. Punctuality is essential - the gate operates to a rigid time-scale - once a doorway to a destination closes it cannot be reopened.
+
+## Outer Anvil
+Outside the fields surrounding the Forge and the Senate Chamber there is a bustling village that serves to provide support to the people attending the Anvil summits. There are a large number of inns that offer reasonably priced rooms, eating and drinking establishments, and more. This cluster of buildings includes the [[Custodian_of_the_Imperial_War_Memorial|Imperial War Memorial]] and the [[Long_Tom_Goodfellow#Long_Tom.27s_Brewery|Distillery of Tom Goodfellow]] among others.
+
+OOC Note: "Outer Anvil" refers to the parts of the village that don't appear on the field. They serve to explain where people sleeping in their out-of-character sleeping tents are spending their nights, and where people are going in-character when they drop out-of-character to visit the caterers off the in-character field. Very occasionally Profound Decisions may create a quest or meeting that takes place in the "outer Anvil" area in a meeting room somewhere off the main field.
+
+For more guidance on in- and out-of-character sleeping arrangements can be found in this article by Clare Evans [[Writing_about_Empire#In_Character_Tents|here]].
+## Booking Civil Service Spaces
+
+The Senate building, Military Council tent, Civil Service Hub and the Hall of Worlds are spaces managed by the Imperial Civil Service on behalf of the Empire. When not in use for official business of state, these spaces can be booked by citizens wishing to use them for meetings, announcements and events, at the discretion of the Civil Service.
+
+Anyone wishing to book one of these spaces should [mailto:civil.service@profounddecisions.co.uk?subject=Booking%20Request%3A&body=Character%20name%3A%0APlayer%20name%3A%0ABooking%20details%3A%0A email us] with details of which character is trying to book the space, for what purpose, and at what time. So long as the booking does not conflict with any official meetings, we will add the booking to that event's [[Event schedule]] page and publish a list of such bookings in the Hub at the event.
+
+This email inbox will not be monitored from the Wednesday of the week the event starts. If you wish to book a space after this time, including during an event itself, please speak to the Civil Service in the Hub in character to discuss your needs. The Hub generally has civil servants available from time in until 10pm each day.
+
+The Civil Service will usually not get involved if there are conflicts about the use of a Civil Service space outside of official meetings. There is a 30-minute window before and after each official, Civil Service administered meeting during which no bookings can be made, in order to ensure the business of state can begin and close in an orderly fashion.
+
+The Hub is in some form of official use until 10:30pm each evening, and cannot be booked before this time.
+
+## Gallery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

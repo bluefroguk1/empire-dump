@@ -1,0 +1,95 @@
+---
+revision_id: 85655
+revision_date: 2022-01-22T16:24:09Z
+categories:
+- Winds of Fortune
+- 382YE Summer
+- Recent History
+aliases:
+- Stranger_friends
+---
+
+
+"You have to understand that the priests of Surann are absolutely ruthless, and absolutely without mercy." the Iron Confederacy magician spoke earnestly, his voice pitched low as if out of habit. "The only thing they care about is the absolute supremacy of the Iron Confederacy. That's what She is."
+
+Even though the magician described himself as an enemy of the Suranni government, you could still hear the capital letters when he spoke of the gods.
+
+"And Kavol? The priests of Kavol are even worse. You people in the Empire, you don't have to deal with Kavol's priests. He doesn't have as many priests as Surann, but His followers are ''everywhere'', just going about their business, until they spot something out of the ordinary, some hint of opposition and then - BAM!"
+
+He struck the table hard with his fist making the plates and glasses jump about. People around the parador looked over, then quickly went back to their own business. The young man looked a little sheepish.
+
+"Sorry, I mean, then bam, they appear from the shadows and you disappear and if you're ever seen again its on a pyre along with everyone you ever exchanged two words with, or on a pile of your books they're using to burn your head, or something. Or worse, you stand up and denounce your friends, your covenmates, and you all end up on stakes."
+
+He took gulps of the frothy beer as he spoke, punctuating his points by gesturing with his mug.
+
+"And ''that's'' why I need your product," he finished. "We need it to fight these people, and its a weapon they don't know how to deal with. They don't know how to deal with a hallow that urges them to take revenge on the people they think have wronged them, or something that's telling them they need to seek out anything they don't approve of and cut it out of their community, or even something that's giving them the feeling they should tell their fellow priests exactly what they think of them."
+
+The beer finished, he turned the mug upside down on the table and lowered his voice.
+
+"That's why Dumon gave us his purple blessing, you see. To you, it's a holy sacrament that helps you pursue your faith and that's great but we don't have that luxury." 
+
+He reached across the table grabbing the sleeve of the merchant opposite, his eyes sparkling.
+
+"Cause to ''us'' .. to us its a weapon, like a knife or a curse, and if we can get enough of it we can bring down the temples of Surann and Kavol! We can free ourselves from the yoke of seven centuries, and then we'll see who's screaming on the pyres!"
+
+He subsided.
+
+"And that's why you need to sell me the liao," he finished off a little lamely. "And at half the amount you're asking because I just don't have that much Imperial coin. You have to sell it to me, so I can achieve my Ambition and bring down the Iron Confederacy!"
+
+## Overview
+The Hand are a group of magicians based in the [[Iron Confederacy]] who violently oppose the rule of the dukes and their priests. They seek the overthrow of the rulers of the Confederacy. They are considered to be demon-worshippers by the priesthood, venerating [[Suranni_pantheon#Dumon_the_Liar.2C_the_Wicked_One|Dumon]], the most evil demon in the Confederacy's twisted [[Suranni_pantheon|pantheon]] and as such they must operate in complete secret for they face certain execution if they are caught.
+
+At the Winter Solstice 381YE, Palladius of [[Urizen]] took the unusual step of calling members of a foreign sect, the Hand of Dumon, to [[inquisition]]. One of these foreigners, ''Adal de Gevaudan'', attended the inquisition at the following Spring Equinox, after which Palladius raised a [[Sanction#Vindication|vindication]] of Adal and the Hand of Dumon. This judgement was upheld by the [[Assembly#The General Assembly|General Assembly]].
+
+Vindication: We find Adal de Gevaudan and the Hand of Dumon despite differences have an understanding of the Virtues, and a desire to live Virtuous lives. The Empire should support them in their path to live Virtuous lives.
+
+Following the vindication, agents of the Hand have tentatively reached out to the Empire. They are wary, even paranoid; reaching out like this risks discovery by the Iron Confederacy and, as one magician of the sect snarls vituperously, shared belief in Virtue has not prevented Imperials from selling the Hand out to the idolators of Surann in the past.
+
+One thing the Hand are quite clear on is that they don’t want to escape the Iron Confederacy; they want to bring it down from within. In the past, the [[Imperial Conclave]] has declared its support for smuggling persecuted magicians out of the Confederacy, but the Hand, while they greatly admire the Conclave, want nothing of the sort. They want the tools for magicians to fight for their own freedom smuggled into the Confederacy. But the plain truth is that they need every help they get from their fellow faithful in their struggle against the oppressive tyrants of the Iron Confederacy.
+
+For now, at least, the dukes of the Iron Confederacy remain unaware of the Empire’s endorsement of their enemy within. The Suranni have little reason to pay close heed to the declarations of the Imperial Synod; indeed, they decry it as a nest of blasphemers and demon-worshippers. 
+
+## Dumon's Hand
+As a foreign heresy, and one that has been secretive in order to ensure its own survival, Imperial understanding of the Hand of Dumon remains very rough. It is likely that Palladius of Urizen and the other priests who inquisited Adal de Gevaudan have a more detailed understanding of the cult’s nature and beliefs. Anyone who wishes to know more than is described below would be best advised to speak with them.
+
+What is known is that the Hand are dissident magicians, many of whom are also priests, active within the Iron Confederacy. They claim to be waging a war against the priesthood of Surann and the Ducal Houses who rule the Confederacy. They use terror, curses and consecrations to murder templars, sow chaos and unrest, and bring ruin to the idolators. Crucially, the Hand appears to be following something comparable to the Imperial Way; they believe in the Virtues, the Labyrinth, and reincarnation, and consider themselves to be brethren in faith with the Empire.
+
+However, the Hand does not adhere to Imperial orthodoxy. They draw on a number of spiritual forces other than those recognised by the Imperial Synod, and appear to treat these forces as weapons in their fight against their oppressors. They use consecrations of false Virtues to turn their enemies against one another or mire them in their vices. They also believe their founder, Dumon, to be a paragon, and ascribe the existence of liao to a miracle that accompanied his death.
+
+When the idolators catch us, they burn us. Sometimes they are merciful enough to decapitate us first.
+
+The Iron Confederacy is intensely hostile towards magicians, claiming them all to be members of the Hand of Dumon. While that is unlikely, any magician caught by them will suffer the same fate: a show trial at best, followed by summary execution.
+
+## A Pact of Rust
+ This opportunity was adjusted during the Spring Equinox 383YE; you can find up-to-date details [[Double_or_nothingness#A_Pact_of_Rust_.28Reprise.29|here]]
+
+Total Liao ProvidedProduction
+8 doses2 doses of Heart's Blood
+20 doses7 doses of Heart's Blood
+40 doses12 doses of Heart's Blood
+56 doses17 doses of Heart's Blood
+
+
+As fellow believers in the Way, or at least some approximation thereof, the Hand of Dumon earnestly desire the Empire as allies in their war against the false gods and their priests. The Hand sorely needs resources to maintain its struggle against the oppressors, particularly liao and mana crystals. The cult appears to control access to a small amount of mithril and a considerable amount of ''[[Vis#Heart.27s_Blood|heart's blood]]'' - Winter [[vis]]. Where exactly the hand is getting all this vis from is unclear, and the Hand are not yet wiling to divulge such strategic secrets to the Empire.
+
+In the near-term, the Empire can take advantage of the Hand’s need for resources and establish a [[ministry]] that would supply the rebel magicians with liao, in return for access to their significant reservoirs of Winter vis. The ministry would need to be built somewhere in [[the Brass Coast]], near the Iron Confederacy, and would offer Hand agents a point of contact to move supplies back and forth. The ministry’s function would be concealed from the Suranni as effectively as possible—after all, smuggling liao into the Confederacy is illegal (in the Confederacy), let alone directly supporting a rebel faction.
+
+Constructing the ministry will require a [[Senate motion]] (or a [[Bearer of an Imperial Wayleave]]), eight wains of white granite, and eight wains of weirwood, as well as 32 crowns in labour costs. The result would offer an exchange rate of liao for Winter vis, and crucially it would give the Hand of Dumon the support they desire in fighting the Suranni dukes and priests. Obviously it would risk a severe diplomatic incident if the Iron Confederacy discovered its existence.
+
+In theory, the [[Arcane Architect]] could also commission such a structure. Although there is still some uncertainty was to whether their ability to announce crystal mana commissions also covers structures that provide vis, they have recently [[Construct_summer_sinecure|completed a commission]] that makes the question appear moot.
+
+## Free Yourselves
+The Hand of Dumon are clearly envious of the Empire’s Synod and Conclave, and greatly admire [[Highguard]] and [[Urizen]] in particular for their cultural devotion to the various forms of magic. However, the Hand lack the established lore-houses and magical resources that allow Imperial magicians to easily learn rituals and spread new discoveries among themselves. The Hand has few codified rituals, all of which are fiercely prized, and largely relies on the expensive and troublesome method of arcane projections.
+
+The Hand of Dumon are very interested in the possibility of securing codified rituals from the Imperial Conclave. If the Conclave were to pass [[Declaration|declarations]] of [[dissemination]] for any [[curse]] in [[Imperial lore]], stating that they be given to Adal de Gevaudan, the Hand will pay 6 wains of mithril, or 8 wains if the curse targets a territory. The cult is currently interested in acquiring up to three such rituals in this way. This would, as ever, risk a severe diplomatic incident if the Iron Confederacy discovered its existence.
+
+## Let The Fire Take Them
+The Empire has just recently [[Heroes|thrown the rebel slaves of the Iron Confederacy back to the wolves]], and could choose to do the same again with the Hand of Dumon. All that would be necessary is for the [[ambassador to the Iron Confederacy]] to inform them of the Hand’s activities in the Empire.
+
+The direct damage to the Hand may not be that extensive. Adal de Gevaudan would be arrested and executed of course, but the Hand have not survived this long by being careless. It would give the Suranni the guidance needed to shut down any further support to the Hand coming into their lands from the Empire, but crucially it would further bolster the growing relationship between the dukes and the Empire.
+
+The more effective intelligence the Empire could provide to the Iron Confederacy, the more likely the cult would be to be wiped out and the more grateful the dukes would be.
+
+While the Hand of Dumon clearly have a warped understanding of [[the Way]], the General Assembly upheld Palladius' vindication of their beliefs. Under normal circumstances, it might still have been possible for the General Assembly could seek a mandate encouraging the faithful to have nothing to do with the Suranni freedom fighters, but in light of Severin von Holberg's [[Benevolence,_inspiration,_and_legacy|recent encyclical]] the civil service advise that that would not currently be effective. It would potentially lead to significant religious conflict, and at the moment people are keen to avoid such divisions in favour of focusing on the things that unite, rather than divide. Eventually that mood will dissipate of course. When that happens any Imperial priest could raise a statement in the General Assembly or the Assembly of Nine condemning the Hand of Dumon for their heresies. If the [[judgement]] achieved a greater majority then it would certainly create opportunities for mandates that would seek to sever ties with this potentially problematic group.
+## Resolution
+During the Winter Solstice 382YE, a judgment of [[Rewarding]] by Chauntecleer Words appeared to be gathering funds for the [[#A Pact of Rust|brokerage]] to trade [[liao]] to the Hand of Dumon.

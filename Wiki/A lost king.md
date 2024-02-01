@@ -1,0 +1,149 @@
+---
+revision_id: 104428
+revision_date: 2023-08-05T10:55:14Z
+categories:
+- Winds of Fortune
+- 385YE Summer
+- Recent History
+aliases:
+- A_lost_king
+---
+
+
+The Ethengraw warrior was sparring against a magician, or at least another warrior pretending to be a magician. She was armed with a short single-edged knife, but it was a beautiful piece with an ornate hilt. One of the new weapons produced by the Black Forge, it looked sharp and deadly and she was making no attempt to strike with the flat.
+
+There was a healer on hand, but he wasn't needed. Her opponent had a long wooden staff, and was using it expertly to keep the distance between the two. She parried the staff away with the blade and tried to slide past it, but her opponent spun the weapon round and struck her in the thigh with the butt. "You're paralysed" he said, and then followed it up a moment later with "You're dead."
+
+Ripon cursed and spat, but she pulled back, reset her footwork and made ready to go again. She nodded at her sparring partner and he raised the heavy wooden staff in response and the two began to circle each other again.
+
+Ripon's aging grandfather, Garran, looked on with obvious Pride in his eyes. He was nearly eighty but his own scram hung in a tooled leather scabbard at his side. He grinned at the Imperial Orc stood next to him, sharing his obvious joy to see his kin armed and sparring. "She's good isn't she?" he asked.
+
+Skywise Brok looked at the Ethengraw warrior. It wasn't exactly a fair fight, but even so, they've been sparring for an hour now and she hadn't once got within three foot of the "magician".
+
+"Yeah!" he said diplomatically. "She's really good." Worried that Ripon might require him to lie again he swiftly changed the subject. "You definitely going to join us now that you've got weapons of your own then?" he asked nonchalantly.
+
+It wasn't really meant as a serious question, more a way to change the subject. But Ripon pulled his shoulders back and breathed in, pondering the question as if they had been asked to give a name to the Creator. For a few moments he said nothing but finally he responded in a stentorious voice.
+
+"Yes. I believe that we will. We shall join our sept with yours. It is our will that this be done."
+
+From the way he spoke it sounded a bit like he'd made that decision personally. Which was pretty rich, given that as far as Brok could tell, Ripon was an ageing wheelwright. To be fair, he was a really good wheelwright, but even so, he was not exactly the nominated leader of his people. Mind you, all the Ethengraw tended to speak like that at times as far as he could tell. Apparently it was what their ancestors said to them, kept telling them they were kings of the whole world or something, so he'd heard. He was pondering what that must be like when he realised his new friend was still talking.
+
+"We shall join with the other Septs - we will not do them the dishonour of making them join second. We will join you together - the Imperial Orcs will become the Ethengraw, the Illarawm, the Yerende and.. " he stopped for a moment clearly stuck for words. " and... whatever name your Sept chooses." The last words were halting, he struggled for a way to speak without sounding disrespectful, something the ageing Ethengraw clearly found almost painful.
+
+"Oh we'll always be the Imperial Orcs!" said Brok cheerfully. 
+
+Ripon glanced at Brok as if surprised, but then he recovered and nodded his head slowly as if his guest had said something deeply profound. That same melodramatic tone was back "Then the Imperial Orcs will become four great Septs" he intoned, "the Ethengraw, the Illarawm, the Yerende and the Imperial Orcs". He put a lot of emphasis on the last part as if trying to back-up Brok's point. It was absolutely clear that he was intentionally trying as hard as possible not to insult Brok and yet it was still grating on Brok's nerves.
+
+"You're paralyzed!" called the magician.
+
+"Mebbe she needs a bow?" Brok suggested innocently...
+
+## Overview
+The Imperial Orcs have completed two of the three great follies that were requested by their new allies, the Ethengraw, the Illarawm, and the Yerende. For the Ethengraw, the Orcs have commissioned a great armoury, consisting of dozens of forges. For the Illarawm they have create a temple, an ossuary for their many bones they carry. Now that it is complete, they intend to inter the skull of Illarawm herself, who they call the First Mystagogue there, although with thousands of others.
+
+The work on the final folly, a great garden of plants and herbs for the Yerende has begun. They have taken no notable actions so far, simply minding their own business, but it is clear that they are aware of the ongoing work. There is every reason to believe that they will join with the other septs if their garden is ready for the Autumn Equinox.
+
+## The Black Forge
+* The great armoury constructed for the Ethengraw is now complete
+* The Ethengraw are slowly arming themselves and making ready to join the Imperial Orcs as soon as possible
+The great forge constructed for the Ethengraw is not, to many eyes, the most attractive commission built in Gildenmark. A huge structure, it incorporates a dozen forges that seem to run night and day, belching great clouds of heavy black smoke into the cold northern sky. The smoke is black with soot, much of which quickly falls on the building beneath, so that it takes on a dark appearance. Inevitably locals take to calling it the Black Forge, but its dour name belies the cheerful disposition of those who flock work it.
+
+A multitude of orcs have already descended on the foundry and armoury in a flurry of carts and tents, impatient to see its completion. There is little ceremony when that day finally dawns and the first forge is lit. The nights are short this time of year, this far north, but in the few hours of darkness glow charcoal fires that are lit without end, each minute punctuated by the pounding and scraping of hammers, tongs and files shaping metal into piece after piece after piece. This industry is replicated everywhere - underneath canvas roofs all manner of sewing, painting and fitting take place as a slow stream of orcs are sized up, strapped in and adjusted for their new accoutrements. Much of this is symbolic, a piece of armour here, a weapon there, a shield for one, a spear for another.
+
+Most of the ''sept'' only receive a scram or scramaseax, a long bladed one edged knife. The Black Forge is huge - but it will take years for these people to arm themselves, a prospect that does not seem to deter them in the slightest. Not everyone needs to be outfitted for war for them to believe their future has begun again. Just the knowledge that it can finally happen is enough.
+
+Thus the mood of the Ethengraw is one of elation. This is a moment they have dreamed of for centuries and few believed they would ever see. According to their history, the Ethengraw once ruled over all of Ossium, they conquered the other septs and their monarch, their king or queen, ruled over them all. They were, and are, a proud people with a great tradition of conquest and martial prowess, but they have been broken for decades, maybe centuries, by the cruel hand of the Druj. The reforging of their arms is a great symbolic act of pride to restore what was taken from them by their former overlords. They believe that having weapons and armour of their own, the means to make them, sets them free in a way that they could never be when they were reliant on the Imperial Orcs for aid. The Druj gave them weapons to fight when the time would come, but what is given can always be taken away. The Ethengraw are already beginning to arm the strongest and most martial among their number to defend the armoury, were anyone foolish enough to threaten that now.
+
+Now that they have the means to arm themselves, the Ethengraw as a people feel ready to join the ranks of the Imperial Orcs and fully embrace their cousins. They make regular references to a new chapter in the Epic. This cornerstone of Ethengraw culture is some sort of epic poem, a collection of all the great deeds performed by Ethengraw that is deemed worth of being recorded for posterity. There is no “one true version” of the Epic; each group will keep their own version, and people may differ on whether something is “worthy” or not. The Druj destroyed all paper copies of the Epic centuries ago, so it was reduced to an oral tradition that is only now being recorded again in a fragmented way. 
+
+The Epic is central to the Ethengraw's outlook on life. At first it appears that the Ethengraw believe that the Epic is what enables their people to cross the Howling Abyss. That those whose lives are recorded in the great tale are somehow enabled to cross the Abyss. Those whose lives are not recorded in the Epic are lost. However, closer discussion with their shamans reveals a deeper truth. For the Ethengraw, it is not that the Epic ''allows'' you to cross the Abyss, rather being part of the Epic is what they mean by crossing the Abyss. They don't distinguish between those two things as if they were different. The Epic is not some power that enables you to make the journey, rather the Howling Abyss is the metaphor, a fanciful literary device to describe the fate that befalls those who fail to become part of the Epic.
+
+With the armoury complete, the Ethengraw become more keen to share their traditions with their kin. They explain about the Epic, but they also take an interest in the Virtues, and legionary preachers are given a warm reception, with throngs of workers downing tools to listen to sermons with great intent and nods of approval, till some steward gets the hastily gathered mass back to their duties. They seem to regard ideas like Ambition, Wisdom, Vigilance, Courage, Prosperity and so forth as part of the great qualities they expect of their leaders. It is clear they are a Proud people, but much more than this, they expect everyone in their sept to aspire to greatness, they believe everyone should try to lead by example. The Ethengraw were born to rule in their view, but only those who demonstrate the virtue of kings deserve to be handed power.
+
+In addition to the weapons and armour produced by the Black Forge, they are also eagerly purchasing paper and vellum where they can. Books and writing in general seem to hold an important place in the heart of the Ethengraw, something that is understood keenly by the liberated orcs of the Empire who were denied the ability to read and write in servitude. Most of the Ethengraw are as proficient in their letters as any citizen of the Empire, but all copies of the Epic were destroyed by the Druj. They used oral traditions to keep what parts they could, but the act condemned countless souls to oblivion in the Abyss. Now they are eagerly buying stacks of blank books and paper traded from Gildermark. They are preparing for the next chapter of the Epic or so they say.
+
+As Spring stretches into Summer, the ringing of hammers can still be heard through the alpine valleys as this great work continues. It could take a lifetime for every Ethengraw to own their own weapons and armour... or the Empire could use its colossal resources to push efforts on a little.
+
+### Second To None
+* The Imperial Orcs can now raise another army, it would cost 200 mithril, 50 thrones and take a year to complete
+* The army would need to be drawn from the Ethengraw sept
+* It must have a Proud name that reflects the martial traditions of the Ethengraw - the motion will fail if it makes any reference to a Third Legion
+The Ethengraw stand ready to join the Imperial Orcs, the first of them is likely to seek out the Imperial Orc egregore soon. The Empire could wait a decade or more for their great work to produce enough weapons and armour to equip everyone. The Ethengraw have all the foundries and forges they need to carry out the task - their problem is they need huge amounts of mithril and money to pay for the coal to coke their forges. They expect to be able to sort that themselves - but it will take a generation... and the Empire might not feel they want to wait that long.
+
+The Empire could begin raising another Imperial Orc army ''now'' if they wished. The Ethengraw would be only too delighted to be provided with the mithril they need to outfit entire regiments with armour, weapons and shields. They have an entire Sept of people eager to fight - they have the means to equip themselves, they just need the materials and the money to pay for it. They're not expecting any of that, but they'd jump at the chance if it was offered.
+
+There is one significant caveat - the Ethengraw are a Proud. Very proud. When the idea of forming an army is first mooted with them, there is initial enthusiasm, which quickly turns into a huge fist fight. Apparently someone suggested that the Ethengraw could form the basis for a ''third'' legion and that was that. Nobody was seriously hurt, but the Ethengraw are very clear that there are no circumstances where they are prepared to join a ''third'' legion. The Ethengraw are content to be first among equals, but they will be "third" to nobody. They're eager to join an army and fight for their new home, but the name will have to be picked carefully. They respect the [[Winter Sun]] and the [[Summer Storm]], they want their army to have an equally Proud name. Any hint that it is a ''third'' legion, will cause the attempt to raise a new army to fail.
+
+### Joining The Imperial Orcs
+* The Ethengraw have elected to wait one more season before officially joining the Imperial Orcs
+* They wish to lead a delegation of the three septs to Anvil at the Autumn Equinox
+* There will be an opportunity for the Imperial Orcs to mark the moment at the final event of the year
+* The Ethengraw will be a playable character option in 2024 for any Imperial Orc
+
+The Ethengraw are aware that the garden that is being built for the Yerende is now paid for and should, all other things being equal, be complete by the Autumn Equinox. Having discussed it among themselves, they declare that they will wait until the Equinox to officially join the Imperial Orcs. They want to be clear, they are now determined to join if the Imperial Orcs will take them into the nation, as kindred-in-arms and equals, but they wish the moment to be marked with a suitable ceremony.
+
+Crucially, they genuinely appear to wish to wait until the Yerende are also ready to join, and have successfully put pressure on the Illarawm to do likewise. They explain that the three septs left Ossium together, and while they understand why the Imperial Orcs chose to build the Ethengraw armour first (they completely ignore the fact that the Ossuary was begun around the same time), they do not wish to take their place in the nation until their kindred who marched with them have an opportunity to stand beside them. Even a short conversation with the Ethengraw makes it clear that this kind of symbolism is very important to them. To them, joining before the Yerende would be tantamount to saying they are ''better'' than the Yerende. And while nobody could ever accuse the Ethengraw of humility, they appear to view it as part of the burden of leadership that they wait until the other septs can stand with them.
+
+This need not delay the construction of a new army, if the Imperial Senate were so minded. It is very clear that the Ethengraw fully intend to become Imperial Orcs at the Autumn Equinox, and nothing will now shift them from that goal. What they want to do is delay the point where the ''officially'' join the Imperial Orcs until all three septs can join together. They suggest that if the Imperial Orcs are willing, then the leaders of the three septs could travel to Anvil, at the Autumn Equinox for a formal swearing of oaths.
+
+The Imperial Orc egregore has spent some time talking with the Ethengraw suggests that the Imperial Orcs may wish to consider arranging some kind of appropriate ceremony to celebrate the moment. The Ethengraw are clearly loathe to suggest it, but their view is that it is for the leaders of the nation to make the appropriate arrangements to celebrate such solemn and important oaths. They won't do that here, since they don't wish to insult the Imperial Orcs, but they will certainly do everything possible to facilitate and support anything that is arranged.
+
+## The Bone Temple
+* The Illarawm Ossuary in Southpines, Skarsind is now complete
+* The mystagogues of the Illarawm are visiting the the Imperial Orcs across Skarsind to gather information about their ancestors
+* A group of mystagogues will be arriving in Anvil around 8:30pm on Saturday to continue this work
+* They also invite any Imperial Orc on a conjunction to Skarsind at 10:15 on Saturday to take part in a ceremony to hear from the ancestors
+* They say they will be join the Imperial Orcs ''"once the bridge is begun"''
+
+The Black Forge is not the only great folly to be completed this season. Incredibly, the Imperial Orcs have also found a way to arrange for the construction of the Ossuary that the Illarawm asked for. This building is surprisingly modest on first viewing, a relatively small affair that resembles a small Highborn church, or a tiny Urizen temple. It is beautifully decorated, the workmanship is outstanding, but it is a little... underwhelming. Comparing it to the Black Forge is like comparing Tassato with a hamlet. A few Imperial Orcs ask where all the white granite has gone... one woman with a wry sense of humour suggests that perhaps the mystagogues ''eat'' the white granite and that where they get their special powers from.
+
+The jokes are quickly dropped once you enter the Bone Temple for what is on the surface is only a fraction of what the Illarawm have constructed. The main hall of their temple has a grand stairway that leads down into the earth, to where a labyrinth of catacombs have been painstakingly excavated and then lined with smooth white stone. The leaders of the Imperial Orcs are invited to attend the grand opening and taken on a tour of the passages, past shelf after shelf of dry bones. Most of the white granite panels behind the bones are blank, but the mystagogues explain that they plan to carve the names of every orc whose bones rest there into the walls of the Ossuary. That will take years of course, but time is of no importance, compared to the importance of what they are doing.
+
+The entire area has a numinous feel, a sense of the profoundly sacred so powerful that even the most jaded and cynical Imperial Orc finds difficult to resist. The ancestors are quiet here, but the mystagogues assure their visitors that they are very present. According to them the ancestors are ''physically present'', here in the actual bones that line the walls of the crypt. One thing is clear - while many of the shelves are already full, there are literally thousands more that are empty. The crypt is big enough to take the bones of every Imperial Orc now living and still have room. It is vast.
+
+The Illarawm maintain that the bones of their ancestors are sacred. By this they seem to mean all their ancestors are revered, not simply those that others can hear. They claim that the living serve to anchor the spirits of the dead to the world, forming one side of the bridge across the Howling Abyss that in theory at least allows any orc to cross to the lands beyond. It is the memory of the dead that forms the foundation of that bridge. When the Druj scattered the bones of their ancestors, they caused that bridge to crumble, condemning countless orcs to oblivion instead of the lands beyond the Abyss. Now they are planning to rebuild that bridge for the Illarawm, the Yerende, the Ethengraw and for the Imperial Orcs.
+
+To succeed though, they will need to know everything they can learn of the ancestors of the Imperial Orcs and the other septs of Skarsind. To achieve this they plan to begin a grand pilgrimage around Skarsind. Thus as the nights shorten in the approach to the summer solstice, orcs in southern Skarsind find themselves met with unexpected visitors. As the last roof tiles are being slotted into place in the great ossuary being built for the relocated Illarawm orcs from the east, robed figures with bones sewn into their hoods filter out from the temple and into the surrounding countryside villages. They begin enquiring everywhere they go about the dead forebears of local orcs; names, stories, personalities, anything that might give context or clue if one were to hear a long passed orc's voice for themselves, inscribing details in hefty tomes and thanking those who speak with them for their time. They ask if the locals would be willing to part with some bones of the departed, so they might be interred with the others in the Illarawm's monument to the dead.
+
+The travelling mystagogues inform any shamans of the sept of Sun and Storm that they will be visiting Anvil in the coming summer summit, both to continue their work documenting as many ancestors as possible, and to talk more with interested shamans about the ways of the mystagogue. They also say that they will host any orcs who wish to come to a special ceremony where some of the powers of the Illarawm will be demonstrated to the assembled - the shamans should expect a visit at 8:30 on the Saturday if they wish to speak to the mystagogues, with the conjunction to the ceremony happening around an hour and a half after the mystagogues arrive, at 10:15pm.
+
+### Joining The Imperial Orcs
+* The Illarawm have agreed to the request of the Ethengraw to wait one more season before officially joining the Imperial Orcs
+* They are happy to join a delegation of the three septs to Anvil at the Autumn Equinox
+* The Illarawm will be a playable character option in 2024 for any Imperial Orc
+
+The Illarawm have been asked by the Ethengraw to wait until the Autumn Equinox before officially joining the Imperial Orcs, so that the three septs can join together. There is a degree of eye-rolling by some of the Illarawm over this request, but they seem content to delay another season, ''"out of respect for the wishes of the other septs."''
+
+They do agree with the Ethengraw that it would be good for the moment to be celebrated in some way that the ancestors can witness. They share the Ethengraw's view that the existing Imperial Orcs should be given an opportunity to arrange this, however they are quite happy to take the matter in hand if it does not interest those in the nation. Unlike the Ethengraw they are more than happy to take charge of the matter, if others will not.
+
+### Participation : Illarawm
+* Any Imperial Orc player may decide that their character visited the Bone Temple this season
+* Every character that did so has one additional hero point throughout the Summer Solstice
+* Imperial Orc Characters who do not have any hero points are assumed to have a single hero point
+
+There is not enough room in the Bone Temple for every Imperial Orc in Skarsind to visit the shrine, but the Illarawm are keen for every Imperial Orc to feel the connection with their ancestors and they have invited all the most important Imperial Orcs, the characters who attend Anvil, to visit the shrine first. Any Imperial Orc player character may choose to roleplay that their character took the opportunity to tour the crypt. If you chose to do so, you would have encountered a vast chamber of passages, the first hundred yards of which are lined with bones, while the rest is open and ready to receive them. The area is profoundly still and quiet, you cannot hear the ancestors at all while you are in the crypt, no matter how loudly you would normally hear them. However the place feels numinous and spiritual in a way that is difficult for even the most cynical or worldly character to ignore.
+
+Any character that visited the temple gains one additional hero point on top of their normal allocation. If you do not normally have any hero points, you now have one hero point. This hero point can be spent in any of the normal ways, and can be replenished normally. This effect will fade before the start of the next event - it covers the Summer Solstice and the three months that follow only.
+
+Whenever you use this additional hero point, you may choose to have your character hear a new voice, an ancestor you have not heard before. This ancestor is new and unknown to you. Their advice will be unpredictable as always, but is likely to be pertinent to your situation.
+
+
+## The Sun And The Spear
+* Archmage Gralka passed a statement of principle calling for a new name for the current Imperial Orcs
+* There is strong support for this, although the name is quickly shortened to something which is less of a mouthful
+
+At the recent summit, Archmage Gralka submitted a judgement to the Imperial Orc Assembly reminding everyone of the importance of names - and calling on the nation to recognise the descendants of Thrace as the Sept of the Sun and Storm. The judgement was carried unanimously and with a greater majority, a clear sign that it enjoyed the support of the preachers of the nation.
+
+Many can see already the importance of taking on a name. The Ethengraw clearly intend to join as a sept - and to keep their name and their identity and the history that comes with it. They are a proud people and their name and their history is important to them. The Tamazi show no signs of abandoning their ''sept'' identity, and the Illarawm and the Yerende look likely to follow suit. Nobody is keen for the Imperial Orcs to become the home of four powerful septs, the Ethengraw, the Illarawm, the Yerende... and the others... Pride demands that the people who carried the banner of Thrace across half a continent and fought their way into the Empire should have a name that reflects their extraordinary history. Something that fires the ambitions of Imperial Orcs for years to come.
+
+So the idea of a new name is a popular one, and the principle of using the names of the first and second legion is well received by most. What better way to reflect the history of the two legions and their importance? Unfortunately, there is a clear flaw - the name is something of a mouthful. The Sept of the Sun and the Storm does not trip off the tongue; it's long and convoluted and it is impossible to imagine that it won't rapidly be shortened to something easier to say. In fact... why not just embrace the inevitable and call the Sept the Sunstorm? It has the same symbolic significance that Gralka has identified, but it rolls off the tongue easily. That way nobody can abbreviate it to something undignified.
+
+Clearly with a matter of this significance, the Imperial Orc Assembly are best placed to settle the matter. If they agree with Gralka that those who were led by Thrace should take on a new name so that they can stand as equals next to the Ethengraw and the other septs and are persuaded by the name Sunstorm, then they could embrace it with a simple mandate.
+
+{{Mandate|mandate=We are Loyal to the core - as other septs join us, we must never forget our own Proud history. We send {named preacher} with 10 doses of liao to encourage all Imperial Orcs to embrace a new name as we become the Sunstorm Sept.|assembly=Imperial Orc Assembly}}
+
+If the mandate were enacted then it would forge a new identity among Imperial Orcs for those who embraced the idea of being part of the Sunstorm Sept, with all the Proud history that that name implies. By next year, the Imperial Orcs would be home to four different Septs, the Ethengraw, the Illarawm, and the Yerende. And first among them would be the Sunstorm... whatever the Ethengraw might think.
+
+Of course the Assembly may decline this suggestion and continue searching. There is plenty of time yet before the other septs join the Imperial Orcs. People are receptive to the idea, the majority of Orcs agree that a name for their Sept would be good - but whatever the Assembly ultimately decide, it needs to trip off the tongue it is going to be adopted by the nation.
+
+If any mandate to name their Sept were enacted by the Imperial Orcs then it would also beg another question. A large group of Orcs, the [[Windfall|Apulians]], look set to join the League. The [[Mournwold Orcs]] have been looking to join the Marchers for years. And there are still signs that some of the [[Great Forest Orcs]] might join the [[Navarr]] one day. The name of the Imperial Orcs has a short but extraordinary history - but is now the time for the descendants of Thrace to find a new name for their ''entire'' nation? Something more befitting of their place in the Empire than a moniker that says only what they are, rather than everything they have accomplished?

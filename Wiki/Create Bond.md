@@ -1,0 +1,58 @@
+---
+revision_id: 82561
+revision_date: 2021-03-01T16:38:05Z
+categories:
+- Spells
+- Rules
+aliases:
+- Create_bond
+---
+
+## Description
+This simple spell is one of the first that a [[Magical skills#Magician|magician]] learns to [[spellcasting|cast]]. Every magician is able to cast it; along with [[operate portal]] and [[detect magic]], it represents a shared suite of powers common to everyone who works magic. Being able to forge magical bonds is a key part of learning to cast spells and especially to perform [[rituals]]. Where [[detect magic]] teaches an apprentice magician to perceive magical energies, this spell teaches them the fine control needed to cast other, more complex, spells. 
+
+The ability to create bonds is a vital tool both for joining a [[Bands#Covens|coven]] and unlocking the abilities of [[magical items]]. Other than [[potion|potions]] and herbs, most magical items can only be used if the user is bonded to them. By creating a bond, the magician attunes an individual to the magical properties of the item. A human or [[orc]] can have only a limited number of items bonded to them at one time. Many magicians speak of these limitations in terms of ''chakra'', visualising them as magical nodes from which bonds can be created that link with any of a broad class of magical items. While the three object chakra are the most commonly understood, magical scholars also recognise several additional chakra including those that allow a person to be bound to other people as part of a magical group such as a coven, [[Bands#Sects|sect]] or [[Bands#Banner|banner]].
+
+Magicians often talk about bonds as if they are literal threads of magical energy connecting things together. While many visualise them in these terms, it is a little misleading - the bond does not literally extend as a line of magic between a person and their sword, for example. It is not possible to track an item one is bonded to. Rather, the bond could be thought of as an attunement between two things - a unique mark that both share that signifies a profound connection.
+
+Bonds do not break naturally, but mastery of this spell allows a magician to actively sever an existing bond. A magician will quickly become aware if they are attempting to create a bond where one already exists, before they expend any personal mana. If a magician wishes to "over write" an existing bond, they first need to destroy the existing connection which requires a separate casting of the spell.
+
+It is worth noting that an [[Crafting skills#Artificer|artificer]] also has the ability to bond characters and magical items, but their abilities are quite limited in that they can ''only'' bond items they know how to make, and they can neither break a bond, nor bond people to each other to form groups.
+
+There are a number of things that can interfere with or assist a magician in creating a bond. For example, an effect might [[Masque of the Blinded Weaver|conceal]] a bond or make it [[Riddle Hides the Reward|difficult to break]] without [[Black Iron Blade|ritual magic]]. There are also several ways to divine information about or using bonds - for example, the ritual [[Ties that Bind]]  is a valuable investigative tool that can uncover all sorts of information about the bonds and bonded items of a particular person. A magician who wants to enhance their ability to create and break bonds might invest in a [[Scrivener's Seal]], a magical wand that allows the create bond spell to be performed twice a day without depleting personal mana.
+
+## Casting
+
+## Effects
+This flexible spell can be used to perform a number of separate tasks, but only one may be used each time the spell is cast. Each of these uses requires the assistance of a [[referee]].
+* Create a bond. You may bond a ''willing'' character to a suitable item or group. You must be close enough to touch both character and item. 
+** You can also use this spell to bond a character to a [[bands|band]] (a [[Groups#Covens|coven]], [[Groups#Banners|banner]] or [[Groups#Sect|sect]]).
+** Bands and items such as magical standards, ritual paraphernalia and reliquaries can be bonded to a band. A single use of this spell can bond a band to an item, provided that a ''willing'' member of the band is present throughout.
+* Break a bond. You can break an existing bond between a character and an item as long as one or the other is present. If the owner of a bond is present they must be willing - even if the item is the target, the bond will not break if the character on the other end is present and does not consent.
+** You can break a bond between a character and a group as long as the character is present.
+
+## Bonding Magic Items
+* You can never use two items of the same type in the same day
+* If an item has been used then it cannot be used again that day
+
+Any magician can perform a spell that breaks the bond between an item and a character. If the character has used the ability of their magical item in any way that day then they cannot benefit from the abilities of another item of the same type in the same day. The item is also affected - any character that is bonded to an item that has been used that day cannot make use of it until the following morning. The ref will inform you if an item has already been used that day when you are bonded to it.
+
+''E.g. You have a Shieldbreaker magic weapon that you have used to call SHATTER earlier that day, using the item. You cannot use any other magic weapon until the following day even if you bond to a new weapon. No other character can use this magic weapon until the following day even if they become bonded to it.''
+
+If the character or item is not present when the break bond spell is cast then the power of the item for the day is automatically used, as is the character’s ability to use an item of that type for that day.
+
+## Sample Vocals
+The following are sample vocals you can use to cast this spell if you don't want to make up your own.
+* (''touching a character and a sword'') "I am the bridge between this and this, I am the path and when I am done you will remember this moment of connection, no matter how great the distance between you. This sword belongs to you, and you to it. You are bound together by memory of this moment."
+* (''cutting a character's thumb'') "Blood is blood, it is your life, your name echoes in every drop, it marks what it touches, it marks it as yours."(''presses thumb against item to be bonded'') "With this mark, you are bonded."
+* (''evoking the chain) "Things hold together. Five stars and five fingers, weaving five threads together to make a binding, this to this. Take hold of this and choose to be bound, not to slavery but to a greater cause."
+* (''tracing runes on the targets'') "The seed grows to a sapling, winding roots in the earth and branches in the air, catching at the wind. The wave ripples in the water, binding and spinning the skein to link these two together until the end comes."
+* (''receiving a coin from the target'') "There is power in payment, here in the counting house. This coin is small but in time could move an Empire. So I weave a tiny thread, that in time can bind destiny and shape fate. You spend your coin to buy my skill, and I tie your fortunes together."
+
+## Common Elements
+* Rune Magic: [[Evrom]] and [[Yoorn]] are good choices for initiating or destroying a bond, respectively. Some traditions suggest that it is good luck to mark a young person with the rune of beginning the very first time they are bonded to a band. Any of the [[Runes#Runes of Autumn|Autumn runes]] can be evoked when creating a bond, but especially [[Hirmok]] to signify ownership or [[Queros]] when creating a connection to a band. When using runes to create a bond, it is common to mark both targets with that rune as part of the casting; when breaking a bond, the rune is symbolically washed away or rubbed out.
+* Astronomancy: [[The Chain]] is suitable to any use of this spell whether  forming or breaking a bond. Likewise [[The Spider and The Web#The Web|the Web]] represents connection, and is especially appropriate when renewing a bond that has existed previously. [[The Three Sisters]] are effective when bonding people together, but some astronomancers prefer to avoid using this constellation due to the omens of sorrow and loss that surround it; these magicians suggest that [[the Chalice]], with its imagery of things coming together or separating, is much more apposite. In each case, the astronomancer often uses the constellation to represent the bond itself rather than the magical process of creating the bond.
+* Dramaturgy: [[The Prince]] has a strong resonance with bonding magic, representing ideas such as unlocking or claiming power, swearing oaths to a group, or demonstrating authority. Other [[Dramaturgy#The Personae|personae]] might come in to play depending on the nature of the bond being created - using [[the Bishop]] to bond someone to a sect, for example, or [[the Captain]] to bond a yeoman to a weapon. [[The Coin]] is a strong [[Dramaturgy#The Instruments|instrument]] to use when either creating or breaking a bond - some magicians incorporate the payment of a ring into the casting of the spell. Likewise, any [[the League|League]] dramaturgist can see the value of using imagery associated with [[the Ring]] when creating a bond to a group. Evoking the images of [[the Counting House]] is also very appropriate when casting this spell - some dramatists prefer to perform it while seated at a table across which payment and the item to be bonded or unbonded are passed.
+* Other traditions: A little water from the same container sprinkled on both targets, or a little blood from a character, both help reinforce the idea of bonding two things together. Paragons or totem animals associated with [[Loyalty]] or [[Prosperity]] might also be appropriate.
+* Realms: Creating a bond is unequivocally tied to the Autumn realm, with its themes of connection and ownership. Breaking a bond has obvious correspondence to the realm of Winter.
+ 

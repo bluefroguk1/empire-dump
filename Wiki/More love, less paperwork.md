@@ -1,0 +1,95 @@
+---
+revision_id: 102834
+revision_date: 2023-07-02T16:08:42Z
+categories:
+- Winds of Fortune
+- 381YE Autumn
+- Recent History
+aliases:
+- More_love,_less_paperwork
+---
+
+
+Maria sighed somewhat theatrically. She turned her head slightly, stepped back a step, made a face.
+
+"You don't like it then?" Asked Prince Luija, amused.
+
+"It's very ... red." She said carefully.
+
+"Yes yes," Luija waved her hand airily. "But does it not make your heart swell with Pride?"
+
+Maria considered, frowning slightly. With expert ease Luija snagged some finger food from a passing tray, and handed one to her companion.
+
+"Fascinating. Even the hors d'oeuvres are red," she mused to nobody in particular. 
+
+"I think my problem," said Maria carefully, "is that nothing in this room tells me I should be proud of my heritage or my nation or even my Empire."
+
+She gestured to a painting of the recently completed Colossus of Sarvos - allegedly a statue of some historical Temeschwari, but quite clearly a depiction of Merchant Prince de la Lupe with his hands on his hips. "What I am mostly feeling is that, gosh, isn't Lorenzo de la Lupe rich and influential? And doesn't he look good with his hands on his hips?"
+
+Luija snorted, and coughed crumbs, and choked slightly on a pork-filled canapé. Maria thumped her Prince discreetly on the back.
+
+"Quite. Anything else?"
+
+"Hmmm. I find I'm also wondering how I, a solid citizen of Tassato, can become as rich and influential as this Temeschwari banker so that ''I'' can commission giant statues and art galleries celebrating my brilliance?" She slid her eyes sideways and added after a moment "And the brilliance of our guild, of course."
+
+Luija smiled a crocodillian smile.
+
+"Yes. Yes indeed. You have hit the rat with the shoe, as they say on the other side of the river." She waved one hand. "We're Tassatans. I think I speak for most of us when I say we tend not to get very impressed by things other people have done, so much as inspired to outdo them. Nothing here makes me Proud - but a great deal here makes me Ambitious ...."
+
+## Overview
+The Butcher's Bank of [[Temeschwar]] has facilitated trade throughout [[the League]] and beyond for over a hundred years. From humble roots offering small loans exclusively to the literal butchers of Temeschwar, it soon diversified and expanded its banking services. Today, the Butchers Bank has an excellent reputation as a sound, secure and trustworthy institution, with several previous Masters of the Butchers Bank appointed as [[Master of the Imperial Mint]].
+
+The current Master of the Butchers Bank, and Treasurer of the Bloody Butchers of Temeschwar, is the famous (and sometimes infamous) Merchant-prince Lorenzo “La Volpe” Macelliao von Temeschwar, who has been at various times custodian of the [[Fortress of Salt]], overseer of the [[Regario Dossier]], and [[Civilian Commissioner]] for the League. His  recent building works have put his name - and the name of his Guild - to the lips of citizens in all four League cities, wherever rich, influential, or [[Ambition|ambitious]], individuals gather together.
+
+Work nears completion on the Bloody Red Roads that will link the entire League together like never before. A grand Colossus broods over the port of Sarvos, drawing sightseers from across the civilised world. Three of the League cities now have "blood red" structures that serve as places of pilgrimage, celebrating what it means to be a League citizen. All these projects - and many others - can be traced back to the deep pockets and limitless ambition of La Volpe - the Fox of Temeschwar.
+
+## Blood Red Recognition
+* The various monuments to Pride built by La Volpe inspire more than a single virtue, and the League assembly may embrace that.
+The [[Lorenzo's Legacy#The_Bloody_Great_Theatre|Bloody Great Theatre]] in Temeschwar (or the Grand Temeschwari Theatre if you want to be ''official''); the [[Lorenzo's Legacy#The_Blood_Red_Quays_Art_Gallery|Blood Red Quays]] art gallery in [[Sarvos]], and the [[Lorenzo's Legacy#The_Blood_Red_River_Museum|Blood Red River]] museum in [[Tassato]] are intended to serve as monuments to the [[Pride]] of the League. 
+
+Some visitors have argued, however,  that these great works are not places of pilgrimage for those Proud of the works of the League, but monuments to the Ambition of Lorenzo “La Volpe” Macelliao von Temeschwar. Others disagree - they clearly celebrate the [[Prosperity]] of the Bloody Butchers guild; or they represent an unmistakable expression of [[Loyalty]] - giving to the nation without desiring recompense. Regardless, the tenor of the conversation is that these structures are not solely about Pride - or rather that by inspiring Pride, they inspire the people of the League to be Ambitious, Prosperous, and Loyal - because that is what it means to be a citizen of the League. 
+The works of Lorenzo “La Volpe” Macelliao von Temeschwar stand as testaments not to a single virtue, but to everything it means to be part of the League. The Imperial Synod sends ''named priest'' with 25 doses of liao to encourage individuals across the League to embrace the inspiration of the Bloody Butchers; where others build cities, we build our nation."
+If the League national assembly successfully passes this mandate then the Blood Red Quays, the Blood Red River, and the Bloody Great Theatre will become places that inspire the people of the League regardless of their attitude to the Virtues. They will divide their additional votes in the Synod and their additional [[liao]] to ''any'' League priest whose [[congregation]] is in that territory, regardless of dedication.
+
+Furthermore, if Lorenzo is recognised as an inspiration to the League in this fashion, then for the next year there will be an [[opportunity]] to construct a similar great work in [[Holberg]] - provided it's construction is overseen by Lorenzo in the same manner as the other three (an art gallery, museum, or performance space appropriate to the League with the same unmistakable stamp of La Volpe, his virtue, and his guild). 
+
+As with the other places of pilgrimage, building the structure would require a [[commission]], 15 wains of white granite, 5 wains of weirwood, and require 5 Thrones for labour. The structure would take three months to complete, it would provide a pool of 30 votes in the Imperial synod and 15 additional liao spread among the congregations in Holberg overseen by priests of the League. (OOC Note: without an opportunity like this, it is not possible to construct a great work that provides liao or votes).
+
+## Blood Red Roads
+* The first leg of the project to build highways linking League cities is nearing completion.
+Perhaps the most ambitious work that La Volpe has initiated is the scheme to build great roads linking the four League cities - the Blood Red Roads. They are currently due to be completed at the Spring Equinox 382YE, and in addition to linking the League cities together they will also bring prosperity to the [[territory|territories]] through which the roads pass. 
+
+As the roads near completion, their presence is already drawing attention. Some [[business|businesses]] are relocating to take advantage of the swift transit routes they represent, while newly come-of-age citizens or those seeking a change in circumstance are choosing to start new concerns in places the roads pass through, knowing that they will see a steady stream of customers.
+
+The roads represent a massively ambitious undertaking, on a scale not really see in the Empire since the time of [[Empress Aenea]], the Builder. After two years work is very nearly complete ... on the first leg at least. Lorenzo's next stage is to extend the roads even more, to connect [[Mitwold]], [[Hahnmark]], [[Miaren]], [[Karov]], and [[Madruga]] (or more properly the cities of Meade, Kalpaheim, Seren, Delev, and Siroc). While Lorenzo himself may not be an [[Paragons and exemplars|exemplar]], the roads (and his various other projects) can still be seen as ''exemplary'' - the kind of deeds that a future exemplar might undertake.
+
+The Blood Red Roads will connect the people of the Empire and make them stronger. This project is one of the most Ambitious in Imperial history. It demonstrates the Benevolence of Lorenzo “La Volpe” Macelliao von Temeschwar, and will stand as a lasting Legacy. We send ''named priest'' with 25 liao to encourage the faithful to aid in this endeavour.
+If the General Assembly passes this mandate, then over the next season a number of faithful will join the engineers and roadbuilders working on the project, greatly speeding the final leg of construction. Rather than being completed for the start of the Spring Equinox 382YE, the roads will be completed just before the Winter Solstice 381YE. Furthermore, if this mandate were successfully raised and executed, there may be further opportunities to encourage Imperial citizens to assist in the completion of the second phase of the project.
+
+### A fly in the ointment
+There is one potential obstacle that cannot be overcome by any amount of engineers, roadbuilders, or priests. The [[Druj]] have invaded [[Semmerholm]]. The Bloody Red Roads run - or rather ran - through [[Semmerholm#The Gate|The Gate]] to reach [[Holberg]]. After destroying that [[fortification]], the [[orc|orcs]] have largely withdrawn - but this still places one leg of the roads in a precarious position. If the Druj conquer [[Semmerholm#Estmure|Estmure]], they will effectively cut Holberg off from the rest of the Empire - which will likewise cut them off from any benefit the roads would provide and could also, potentially, remove or reduce the economic benefits felt in Semmerholm itself.
+
+## Bloody Great Statue
+La Volpe's final major construction effort is the [[Sarvos#The_Colossus_of_Sarvos|Colossus of Sarvos]] - a seventy-five foot stone statue on a granite plinth twenty-five feet high. It is apparently built in the shape of the First Butcher (the founder of the Butchers' Bank of Temeschwar) - although anyone who has ever met him knows that it looks considerably more like Prince Lorenzo “La Volpe” Macelliao von Temeschwar than anyone else. Ironically many residents of Sarvos have begun to mistakenly believe it is in fact a statue honouring [[Aldones di Sarvos]], the renowned paragon of Ambition. In the end, it hardly matters - it is a truly inspirational structure.
+
+If the League assembly passes either of the previous mandates then another opportunity becomes available. It would also become available in the event that one of the [[Assembly#The_Virtue_Assemblies|virtue assemblies]] of Ambition, Loyalty, Pride, or Prosperity were to [[Recognition|recognise]] Lorenzo as an exemplar (or as a paragon, of course).
+
+In the event the mandate were passed by the Assembly, it would immediately become possible to pass a further mandate.
+
+Lorenzo Macelliao von Temeschwar is a true inspiration, and the colossus of Sarvos serves as an inspiration to the virtuous people of the League. The Imperial synod sends ''named priest'' with one dose of true liao to consecrate the colossus to the virtue of (Ambition, Pride, Loyalty, or Prosperity) in recognition of its inspirational nature.
+If the League national assembly were to pass this mandate, the named priest would be able to consecrate the Colossus with a dose of [[liao#True Liao|true liao]]. While the spiritual effects of consecrating such a large structure are likely to be minimal in the grand scheme of things, with the use of a dose of precious true liao, those who visited the statue could not fail to be swayed by its power.
+
+The immediate effect would be to greatly increase the influence of the Colossus, increasing the bounty of coin the [[great work]] provides to the businesses of Sarvos from 900 rings to 1350 rings each season. It would also secure the statue's status as a true wonder of the known world.
+
+This would not count as an [[inspirational location|memorial]] - Lorenzo is still very much alive and presumably has many more ambitious projects to undertake - but would ensure that his renown spread quickly though the Empire and beyond. In the event of his death, it is likely the colossus will become a place of pilgrimage for those seeking to learn more about the League, the Empire, or the virtues.
+### Limited Opportunities
+The opportunities to speed the completion of the Blood Red Roads, and to declare the various theatres and museums as inspirational to the people of the League is only available during the Autumn Equinox. The opportunity to consecrate the Colossus of Sarvos is available as soon as the prerequisites are met (even if that does not happen during the Equinox), and remains available until the situation changes in some fashion.
+
+A man without ambition is dead. A man with ambition but no love is dead. A man with ambition and love for his blessings here on earth is ever so alive.
+## Resolution
+The Blood Red Roads will connect the people of the Empire and make them stronger. This project is one of the most Ambitious in Imperial history. It demonstrates the Benevolence of Lorenzo “La Volpe” Macelliao von Temeschwar, and will stand as a lasting Legacy. We send Jonah Yakovitch with 25 liao to encourage the faithful to aid in this endeavour. 
+With this [[mandate]], the General Assembly [[More_love,_less_paperwork#Blood_Red_Roads|recognized the value]] of the Blood Red Roads, and encouraged support from the faithful to finish them ahead of schedule. All things being equal, the [[great work|grand project]] will be completed shortly before the Winter Solstice 381YE.
+
+While a mandate was raised in the League National Assembly by Irada von Temechwar to recognise the wide [[More_love,_less_paperwork#Blood_Red_Recognition|inspiration of La Volpe's works]], it was not upheld.
+
+The opportunity to consecrate the Colossus of Sarvos was finally undertaken by Astrid von Tassato after the Spring Equinox 383YE.

@@ -1,0 +1,109 @@
+---
+revision_id: 92365
+revision_date: 2022-06-28T21:06:57Z
+categories:
+- Gazetteer
+- Tsark
+aliases:
+- Mountains_of_the_Moon
+---
+
+
+
+## Overview
+The Mountains of the Moon - called the Mountains of Silence by the Axou - lie between the Empire and [[Axos]], to the east of [[Spiral]] and [[Zenith]], south of [[the Barrens]] and [[Therunin]]. Gaining access is very difficult; the mountains create a ring of stone that in many places proves impassable. The first challenge faced by Imperial scouts is finding a way through the high peaks. The only route that is even slightly accessible, the [[#Mislitel Pass|Mislitel Pass]], leads to a confusing maze of narrow gulleys, passages, switchbacks, and tunnels. 
+
+Following the eventual completion of the [[spy network]] the [[Imperial Senate]] had [[commission|commissioned]] in [[Construct_spy_network_in_the_Mountains_of_the_Moon|Winter 381YE]], a force of [[Imperial_Roll_of_Honour#Summer Solstice 382YE|Imperial scouts]] was able to infiltrate the territory following the Summer Solstice 382YE, these scouts - especially those of Imperial Orc, Winterfolk, Urizen, and northern Varushkan origin - were able to risk a high altitude approach, pushing over the snow-covered mountain peaks and clambering down sometimes sheer cliffs with rope and piton. The rest are forced to risk treachereous mountain paths, impassable canyons, and thick forests to make their way into the heart of the Mountains of the Moon. 
+
+Once access to the territory was actually achieved, Imperial scouts quickly discovered that they were far from the first people to pass over the mountains. There is a hitherto unknown but thriving community of [[orc|orcs]] and humans - who call themselves the people of [[Tsark]] - living in a great valley at the heart of the Mountains of the Moon, apparently oblivious to the Empire. 
+__TOC__
+
+## The Valley
+Despite the altitude, the valley is surprisingly warm. Hot springs are common, and the central lake appears to be warmed from below. It is quite populated, the people being an apparently freely mixed community of orcs and humans who seem to call themselves the [[Tsark]] people.
+
+Access to the valley that occupies most of the territory is very difficult. A campaign army would need to fight its way through one of the great fortifications to gain access to the interior. From the Imperial side, such an army would need to come through the Mislittel pass from [[Zenith#Lustri|Lustri]] in Zenith, and would need to destroy or conquer the [[#Maze of Zora|Maze of Zora]] before they could move into the heartlands of Tsark.
+
+## Regions of the Mountains of the Moon
+### Naucini
+* Quality: Hills, Fortified
+This hilly region is in the north-west of Tsark, and contains the only viable military route into Imperial territory - the [[#Maze_of_Zora_and_the_Mislitel_Pass|Mislitel Pass]] is a narrow but viable route to the region of [[Zenith#Occursion|Occursion]]. However, the pass has been heavily fortified through the construction of the [[#Maze_of_Zora_and_the_Mislitel_Pass|Maze of Zora]], a labyrinth of tunnels, cutbacks, false bridges and dead ends which serves to fortify the region and prevent passage of any army that does not control the Maze through the region. The great [[#Wall of the Luge and the East and West Rising|Wall of the Luge]] towers above the north of the region. At its base is the West Rising, an ancient system of platforms, baskets and pulleys by which the inhabitants of the territory pull themselves to [[#Visoko|Visoko]] above. As the hills roll down towards [[#Lake Tsark and Merak Falls|Lake Tsark]], herds of llamas dot the landscape, tended by small settlements. By far the largest of these settlements is [[#Krug and the Disc of the Ogledano|Krug]], set around the Disc of the Ogledano.
+
+### Borenj
+* Quality: Hills
+Outside of the raised plateau of Visoko, Borenj in the south-west is the most mountainous of the regions of Tsark - and certainly the least populated. The peaks that border the region are jagged and treacherous - it would not be possible to move an army into the territory via this region - and the long, winding road that winds from the hills of Naucini down to the fields of Obrotnik is at places dangerously thin, with a sheer cliff down to the waters of Lake Tsark below. The road is at least wide enough that a competent army with good maps could make their way through the region, however. Although the way is dangerous, it sees heavy use, as the orcs and humans of Tsark travel up to the Grand Vellut Arena - the largest of its kind in the territory. Some who travel are among the brave few who work to move the great chunks of white granite from the Kamen Quarry down the slopes to be carefully lowered into boats and ferried across the lake. 
+
+### Obrotnik
+* Quality: Hills, Fortified
+Obrotnik is the most habitable part of Tsark, its southernmost region. The land is not flat per se, but cut across the region are the Great Terraces, on which is grown the majority of the territory’s food - the rest being prepared from the algae of Lake Tsark. The road down from Borenj splits here into a thousand tributaries, each leading to many small settlements, villages and town, including the scholarly centre of Adept’s Wisdom. These roads would be easily passable by an army, were it not for the Sentinel’s Watchmen, a network of small fortifications and stone walls built across the terraces, particularly surrounding the Zanaeti Tunnels. The tunnels are of a sufficient size to allow an army passage into and out of the territory to what - by all reckoning - is probably Skouran territory beyond. Indeed, set into the entrance to the tunnels is a distinctive building clad in metal set with jewels - believed to be a Skouran Embassy. 
+
+### Temna
+* Quality: Hills, Fortified
+Temna is a hilly territory to the norh-east of Tsark. Unlike the grassy slopes of Naucini, the slopes here are barren and bare. In a few places, there are terraced gardens as in Obrotnik to the south, with settlements set around them to tend, but they are much less fruitful, and the orcs and humans who make their home here clearly have to work harder to produce food to sustain themselves. Still, they appear to live with the same stoic cheerfulness and considered stillness as the rest of the territory. Indeed, outside of Visoko, this is appears to be the region where the most time is dedicated to meditation and contemplation, as exemplified in the wondrous Bisir Meditative Gardens. To the east, the paths that lead upward and into the Zamok Pass - a viable route out of the territory for an army into the west of Axos - are guarded by the great white granite Fengari Gate. The Wall of the Luge towers to the west, and looking across Lake Tsark there are paticularly beautiful views of Merak Falls at dawn. The pulleys and platforms of the East Rising allow travel up the wall to the holy ground of Visoko. 
+
+### Visoko
+* Quality: Fortified
+The region of Visoko set on a high plateau that towers far above the rest of the territory. The Wall of the Luge - part titantic monument, part great battlements - is built into the steep cliff walls, transforming something hard-to-scale set into something nearly impassable. Atop the plateau, the air is quiet and supremely peaceful. There is a sense of calm dignity across the region, where old hermits - overwhelmingly orcs - sit and dispense advice and meditation to those who have made their way up the East and West Rising to this place of enlightenment. Here, the hot springs of the Still Pools are fed by minor tributaries until they become a rushing flow that falls down Merak Falls to Lake Tsark beneath. At the north of the plateau, the mountains grow ever more impassable - indeed, it looks as though any viable route down the mountains to the unknown territory to the north has been resoundingly sabotaged from the Tsarkian side. Not only is it impassable to any army - it is unlikely that even a lone traveller or scouting party could make their way across the peaks to disrupt this place of sanctuary. 
+
+## Points of Interest
+### Lake Tsark and Merak Falls
+Lake Tsark is a large lake, formed from the caldera of an extinct volcano. The beautiful Merak Falls cascade down from the Still Pools above, hot and fresh from the springs. Away from the falls, the surface of the lake is covered in a thick layer of blue algae. The algae is toxic unless carefully prepared but, when properly dried, is delicious and nutritious. The algae appears to grow due to extensive mithril deposits in the water, indicating a vein far beneath the water on the lakebed. The water of the lake is panned for a small bounty of mithril, but the true potential of the deposit is untapped. When moonlight catches the lake’s surface, the algae and the mithril beneath shine a reflected silver. 
+
+Lake Tsark is not itself a region thought it is about the size of one as it is mostly water, save for the mysterious island of Zabor in its centre. It does not count towards overall control of the territory and is certainly impassable by any army - meaning that a force in Naucini could not reach Temna without controlling Visoko and the Wall of the Luge, or by making their way through Berenj and Obrotnik. 
+
+### Zabor
+In the centre of Lake Tsark is an island known as Zabor. Boats to this island are infrequent, and even were it not for the sheer cliffs that surround much of it, the water below is covered in the toxic bloom. Imperial scouts are unable to gain access to the island. It looks pleasant enough but there are humans on the island who are not dressed as Tsarkians including some in what appear to be Urizen robes. They look as if they might be prisoners – they certainly don't seem to be able to leave the island. Zabor also seems to be the place where the drug zaboravi is grown.
+
+### Maze of Zora and the Mislitel Pass
+The Mislitel Pass is naturally hard to traverse - the route is narrow and winding, and in many places there is a sheer drop only a few metres away. However, it would be possible for an army to make their way over, were it not for the labyrinth that has been built into, across and around the chasms and crags of the pass as it crosses into Tsark proper - the Maze of Zora. Of a design unfamiliar to anything seen in the Empire, the maze is full of pit traps, dead ends, false doors, walls that shift, pathways that weave around one another and back again. 
+
+On the top, set into the rock, guardhouses full of orcs and humans wearing the white cloaks of the cuvari staff the walls, resetting traps and moving the walls of the maze itself, so that the way is never the same twice. None of the traps here are especially lethal - they seem designed to turn back the unwary traveller rather than kill them - but short of marching an army through to dismantle the construction or seize it, no force could pass over the Mislitel Pass. 
+
+### Krug and the Disc of the Ogledano
+The town of Krug is set around the circumference of the mirrored Disc of the Ogledano, a surface of polished mithril around half a mile in diameter. The inhabitants - mostly orcs, even more so than the rest of Tsark - are practitioners of Day magic with a scholarly mien, who favour a practice not dissimilar to the Music of the Spheres, but with a choral focus. At the centre of the disc is a truncated pyramid with a glowing light at its peak; this is the heart of a Day regio favoured by [[Sinokenon]]. The mage-diplomats of Krug treat often with the mandarins and other heralds who visit Tsark here, the only regio in the territory.
+Kabaddi[https://en.wikipedia.org/wiki/Kabaddi Kabaddi] is a real-world contact sport popular in the Indian subcontinent and other surrounding and South Asian countries. We decided to use the real-world name for the sport rather than create a made-up name – you can easily find details of the sport online. The only major difference between the kabaddi played by the people of Tsark and real-world kabaddi is that the orcs and humans of the Mountains of the Moon play in sunken vellut rather than on oblong or circular courts.
+
+### Grand Vellut Arena
+Kabbadi is a game that appears to be played across the whole of Tsark, in all the villages and the towns. Two teams are on opposite halves of a small field, and take turns sending a "raider" into the other half. This is to win points by tackling members of the opposing team. Then the raider tries to return to his own half, chanting during the whole raid. It is quite violent, though there appear to be some rules about what is considered civil and uncivil play that are hard to pin down. It is a spiritual experience for the orcs of Tsark - akin to the rush that pit fighting gives the orcs of the Empire - but all are encouraged to participate as a form of catharsis of negative emotions like anger, fear, and so forth. 
+
+The Grand Vellut Arena is a particularly large example of its kind, a great work of communal culture. It is one of the few places in the territory where there is simply space for large crowds to gather, and on occasion they do, to watch vellut being played, to see sages and adepts speak when they travel down from Visoko, or to hear those practiced in the choral arts from Krug sing. Orcs and humans, sitting as one, enjoying a common beauty. 
+
+### Kamen Quarry
+The Kamen Quarry is a modest white granite quarry set into the mountains of Borenj. The work here is neat, methodical - first, a new block is cut from a position agreed by all who attend to the rock - then, collective effort moves it from the quarry itself to one of the great slopes that runs, with cut-outs to stop the rock should it slip or fall, down into the lake below. The block is lowered down the cliffs, over the edge down to a waiting raft, which carries the block across the blue waters of Lake Tsark to the shores of Orbotnik. 
+
+While the needs for white granite in Tsark are not great - fortresses, once built, do not easily become unbuilt – the material is still extensively in building homes and vellut arenas. The sages and adepts based over in Visoko ultimately decided upon the allocation of resources if a fair compromise cannot be easily be arranged between parties, but in general the mining of white granite is considered a common good. Any who wish to may come to the Kamen Quarry and assist in the work. 
+
+### Adept’s Wisdom
+Adept’s Wisdom, nestled in the terrace-farms of Orbotnik, is a small town notable for its finely crafted white granite dais, on which workers and ordinary folk of Tsark may publicly discuss the finer points of  philosophy. When the sages and adepts who reside in Visoko come down from the rarefied heights, they often come to this place in particular to relay their advice. Those who aspire to that position come here to prove themselves in matters of debate, but in these debates it is not winning that matters but showing that you can truly understanding an argument from another’s point of view - synthesis, not conflict, is the aim. If tempers and the blood do rise, a game of vellut and a cup of zaboravi tea helps settle differences. 
+
+### Sentinel’s Watchers
+Dotted across the terraces of Orbotnik are squat watchtowers. Unlike the rest of the architecture in Tsark, these were clearly built by someone thinking with martial intent. The members of the cuvari - those orcs and humans of Tsark who deal with the security of its borders - who staff them keep arms around, but not in quick readiness - arms of any kind are a rare site in Tsark, in any case. However, the towers are constructed such that they could quickly form a set of lit beacons across the region, allowing rudimentary communication - like a crude form of the Heliopticon of Urizen - and could be used to help the inhabitants block the path of an invading force by collapsing suitable paths and terraces in a coordinated manner. 
+
+As the name implies, the architecture of the Watchers is similar to that of the works of the Sentinel that are found in the Empire. 
+
+### Zanaeti Tunnels and the Skouran Embassy
+At the south of Orbotnik is a strange building, clad in metal and jewels. It is odd and clearly foreign to the rest of the territory - although it does resemble in part parts of the Maze of Zora. The dour garb of the exclusively-human figures who inhabit it are a far cry from the brightly-dyed wool of the folk of Tsark. They are Skouran, and this building is their embassy. The Zanaeti Tunnels, whose mouth the building is built beside, are a route into that nation’s land, under the mountains to a deephold beyond. Squat metal tubes are built into the tunnel wall, running up to the building. Within, water flows - by some miracle of Skouran ingenuity driven up from whatever aquifer or cistern they are drawn from. The water within appears to be stored in barrels, and traded with the Tsark-folk in exchange for large bushels of dried algae. 
+
+### Basir Meditative Gardens
+The Basir Gardens are a network of finely-laid mithril pathways linking places where mana flows up through the earth. The flow of mana in the area is increased, and the crystals grow large and bulbous, like strange mushrooms from the earth, larger ones upon smaller ones. Around the paths, there are neat rows of flowers and herbs, and the place has a gentle air. The orcs and humans who tend to the soils and crystals are quiet and reserved; the work a way for them to think on their lives, the ways of the Ancestor, and to pass away their troubles. 
+
+### Fengari Gate and the Zamok Pass
+The Zamok Pass is a straight road up and over the east of Tsark in Temna into the westernmost part of Axos. Once, the road here continued over the other side to the lost citadel of tragic Solokha. When the citadel fell, the refugees fled here. Now, that disaster is remember only in the woven patterns on the backs of some of the humans of Tsark, who trace their pasts back to that place. After the disaster, the Fengari Gate was built, to keep out any of the other citadels of Axos who might take an interest. 
+
+The Fengari Gate itself is a great set of white granite doors which block the path. The doors take hours to open or close - the best part of a day of a team of strong folk working flat-out - and are built into a narrow part of the path with cliffs on either side. Any force wanting to move into or out of the territory would first have to make sure they controlled the Gate. 
+
+### Wall of the Luge and the East and West Rising
+The Wall of the Luge is a massive construction of white granite, set onto the steep volcanic crags and cliffs up to the plateau of Visoko. While it is clearly an effective defence - no army could cross Visoko without conquering the walls - its primary function is as a great work of art. In these towering walls are carved countless faces and statues of human and orc alike, dressed in the distinctive patterned wools - though the patterns are carved in white stone - of the Tsark people. Every orc and human of the people - Luge, in an old tongue - has a right to see their face remembered here on death. The oldest carvings are nearly worn completely away, and space on the wall grows thin, but the practice continues, unbroken, since the beginnings of the nation now lost to history. 
+
+Those who scale up or down to Visoko travel by the East and West Rising, a set of precarious baskets, platforms and pulleys set across the wall, allowing the work of carving to continue across its whole face, and allowing passage up and down to those who want it. Yet it is a long way to fall, and one must to be brave to make the journey. 
+
+### The Still Pools
+Around the Still Pools of Visoko, the wisest of Tsark make their counsel. To the extent that there is any seat of power in the territory, it is here. Among the gently-flowing hot spring waters that bubble from the ground beneath and pass over pools filled with ancint bones, quiet conversations are conducted and careful agreements made for which village or town will receive the bounty of the quarry or the lake in the season to come.
+
+## Game Information
+* The map that accompanies this map is in-character and suitable for using with scrying rituals.
+* There are four [[fortification|fortifications]] in the Mountains of the Moon. The Maze of Zora (rank three), the Sentinel's Watchers (rank two), and the Fengari Gate (rank two) each guard a pass into the Mountains of the Moon. It is impossible for a campaign army to enter the Mountains of the Moon without first capturing the region guarded by one of these fortifications. The Wall of the Luge (rank four) guards the plateau of Visoko. That region cannot be entered by a campaign army until the fortification is conquered or destroyed 
+* The Kamen Quarry is a white granite resource. Scouts estimate that it could produce as much as 26 wains of white granite each season. 
+* Lake Tsark appears to sit over extensive mithril deposits. The people of the Mountains of the Moon appear to sift mithril from the water at a few key points around the side of the lake, providing around five wains of mithril each season. It's impossible to predict how much mithril is under the lake, or how might might be decanted each season if the process were better organised.
+
+## Further Reading
+* The [[Tsark]] people.

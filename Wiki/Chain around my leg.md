@@ -1,0 +1,105 @@
+---
+revision_id: 97774
+revision_date: 2023-02-24T10:16:54Z
+categories:
+- Winds of Fortune
+- 381YE Winter
+- Recent History
+aliases:
+- Chain_around_my_leg
+---
+
+
+Kellek nodded, but he was not really listening. The Freeborn woman opposite him poured some of the Imperial Roseweald out onto the wooden table between them, prattling about the fine quality of herbs straight from the Spice Garens of Feroz. Her eyes roved over his face as she tried to judge his mood. He was breathing slowly and rhythmically, in through his nose and out through his mouth, and she was trying to work out what that meant.
+
+What it meant was that he was desperately fighting the urge to kill her, to take her herbs, and to run for the woods. It was taking almost his entire will to stop himself acting on this instinct, to ignore the frenzied, terrified voice just over his left shoulder that only he could hear. ''Run'', it said. ''Take the herbs and run, run, run.''
+
+"I think, Faria, that this is not the best time for this discussion." he said forcing his voice to stay even, doing his best not to betray the rage and terror surging through his blood.
+
+She opened her mouth to say something, and something shifted inside him. The shadows in the tent rolled in like stormclouds and for a moment he was in two places at once. One Kellek sat at the bargaining table negotiating the purchase of herbs. The other stood in freezing water up to his chest, the green canvas of the tent replaced by a rough rock surface just above his head. The waters were rising, and there was no way out. There were other orcs here as well, orcs he could barely make out, trapped in the water with the air running out and the absolute certainty that there was no way out and nobody to remember how they died. For a moment he knew their names, with a cold and detached clarity, and then it was all gone and he was only one Kellek again.
+
+He jerked, suddenly, knocking his goblet flying, and the vision was gone. Faria i Padema i Riqueza looked concerned. Her worry gave him a flash of irritation...
+
+... and just like that it roared through him. Blood burning rage, bone-deep hate, stomach-churning loss and fear and despair, and a desperate, impotent thirst for vengeance that he could never slake. He knew these were not his emotions, but he could do nothing to control them. He launched to his feet, tossing the trestle table to one side as he stood, scattering crimson herbs and money in all directions.
+
+"''Where were you?''" he bellowed. "''Where were your people when they were selling our children like sheep? Where were you when they left us to drown in the mines because it was easier to buy more slaves than rescue them?''" 
+
+It felt good to say it. The detached part of him, the part full of clarity, recognised that this was not just the power of the ancestors in him. This was his own rage, his own hate, his own despair, his own need for answers. He'd been blind to the truth, before the magic and the drumming had opened them and made him look directly at things he had tried all his life not to see, to hear clearly the voices he had tried all his life not to hear. 
+
+Faria fell back, terrified. Kellek felt rather than saw Mord and Sakkia closing in, grabbing him, pulling him back. If they had not been there, he would have killed this woman - this woman he had known for twenty years. 
+
+"''Where were you when we were born in darkness, and worked until we dropped, and died in darkness, and we were throw away like so much forgotten rubbish?''" he howled. "''Where were you?''" 
+
+His rage collapsed in on itself, turning into a ball of all-consuming sorrow that pulled everything into it and let nothing else escape. He collapsed, and his friends caught him.
+
+He heard Mord calmly and politely telling the Riqueza merchant that it was ''really'' not a good time, and perhaps she should come back in the morning. She nodded, pale faced, clearly scared, and backed away. As she lifted the tent flap, the rhythmic thunder from the fighting pit became louder for a moment, each beat of the drums like a nail driven into Kellek's temples.
+
+When the human woman was gone, the madness went out of him. He slumped back down on the bench with his head in his hands. Sakkia sat on one side of him and Mord on the other, body to body, and none of them said anything for quite some time.
+## Overview
+This season both [[Imperial Orcs]] [[Imperial army|armies]] are resting in [[Casinea]]. While the [[Imperial_Orcs_military_concerns#The_Summer_Storm|Summer Storm]] resupply and recover from their recent engagements against the barbarian orcs, the [[Imperial_Orcs_military_concerns#The_Winter_Sun|Winter Sun]] are engaged in much more esoteric pursuits.
+
+During the Autumn Equinox a powerful [[enchantment]] was lain over venerable [[general]] Mor'gur. A [[Arcane_projection|spontaneous]] [[Day magic]] ritual created by the Skywise, and woven by the magicians of [[Urizen]], using the inscribed skull known as ''Defiance'' as a focus, it is intended to make it easier for the orcs to hear their [[Imperial_Orcs_religious_beliefs#Imperial_Orc_ancestors|ancestors]].
+
+During the day the soldiers of the Winter Sun drill and practice and maintain their weapons, their armour, and their tents. At night they gather together to tell stories and meditate on the nature of [[worth]] and those who have gone before. Many seek communion in impromptu [[Pit-fights|fighting pits]], or make the pilgrimage to Anvil to use the pit built there long ago by the first Imperial Orcs. The nature of the magic used, drawing as it does on the realm of Day, is often at odds with the ceremonies of the orcs and the [[shamans|shaman]]. Loud drumming, dancing, and fighting are ideal for getting the blood pumping and drawing the attention of the ancestors but they are anathema to the rationality and calm of the realm.
+
+Still, the magic of the Day realm has a resonance for [[Day_magic#Focus|focus]], and most importantly for [[Day_magic#Revelation|revelation]] and clarity. Although, it must always be born in mind that receiving a revelation, seeing with absolute clarity, is not necessarily a comfortable or comforting experience.
+
+## Revelation
+Gather around the fires, bring your items of worth and take up song. Honour the memory of the fallen, may they find their way. Know that they are with the ancestors now and may it trouble you no longer. May we heal our wounds and cleanse the hardship of battle. Not just from the Body but of the Spirit. May the bond of our ancestors be renewed as we stare across the abyss. Do not fear the darkness, listen to those that have come before you and closely for our brothers and sister, and perhaps the father of our freedom. As we gather our strength resupplying may the next time battle comes the ancestor march at our side.
+At first it is not clear whether it is the magic of the enchantment on the general, or simply the fact that the orcs have come together in large numbers to focus on the voices of their ancestors. Regardless, during the three months they spend in Casinea, the  Winter Sun find it easier to the voices that are the birthright of all orcs. This is, to put it mildly, a mixed blessing. The focus of the ritual - ''Defiance'' - is a relic made by slaves to keep their memories alive, and it is these memories that flood through a Winter Sun who have opened their spirits wide. 
+### The Anger of Chains
+It is the voices of the slaves who lived and died as the property of Imperial citizens that the Winter Sun orcs hear when they listen to the void. The majority of soldiers in the Winter Sun are descended from those slaves who lived and died in [[Varushka]], in [[Temeschwar]], and in [[Wintermark]] - which at that time included [[Skarsind]] as well of course. Many of the [[orc]] soldiers weep openly when they consider that the homeland they now claim was built, at least in part, on the suffering of their ancestors. It is a sobering reminder that the [[mine|mines]] of Skarsind were dug and worked by orc slaves just as much as the mines of Varushka.
+
+In some cases, orcs experience visions - waking dreams in which they experience for a moment a flash of someone else's life. These visions are most common among orcs who handle ''Defiance'', or who have been in close proximity with it at any point since its recovery. Even more than the voices, the visions are deeply unpleasant. They are an intimate reminder of what it is to be a slave. 
+
+Oh, surely some humans treated their slaves better than this - some did not starve them for minor infractions of draconian rules, some did not flog them, some did not leave them to suffocate or die of thirst behind rock falls, some did not tear their children and their mates and their brothers and sisters away from them on a whim to sell them to other humans. But there are no memories here of such humans, only memories of hate, and fear, and sobs of vengeance in the dark. It is, unsurprisingly, a harrowing experience
+
+Some orcs disengage immediately, unprepared to deal with the tumult of anguish, hate, and sadness that these voices bring with them. Others embrace the revelation, seeking to find a greater understanding of where they came from. Those orcs with the spirits of shaman have no choice - they are incapable of shutting out the angry, shouting voices and some have to be restrained for their own safety - and the safety of others.
+
+Some of the slave-voices are more powerful than others, more coherent. These ancestors want two things from their descendants. First, ''freedom''. They hate and in some cases fear humans and urge their descendants to forge their own lives away from them; they do not understand that the orcs are free now. Secondly, they want ''vengeance''. Revenge on the humans who hurt and killed them and their people, who used them as tools and left them to die in the dark. 
+
+This handful of voices are clear and coherent, it is true, and they may even be strong enough to carry the Imperial orcs across the [[Imperial_Orcs_religious_beliefs#The_Howling_Abyss|Howling Abyss]]. Yet they will never do so while they live in the Empire.
+
+### Quieter Voices
+While the majority of voices heard strongly during the harrowing three months are those of the orcs who spent four hundred years and more as slaves of the Empire, they are not the only ones. The enchantment woven with the aid of ''Defiance'' has at least partially made it easier to hear some of the oldest ancestors, those from before the time their descendants were enslaved. 
+
+These voices, too, are angry. Among the orcs of the Winter Sun most of the voices who can be recognised seem to be from the [[Thule]] or [[Jotun]]. They alternately rage and are disappointed with their descendants; they have no identity of their own and they are servants of humans who are not "worthy" of that service. 
+
+A few focus on these ancestors and try to forge a connection with them but for the most part they are scattered, and angry, and confusing. Unlike the connection with Sjofn, forged from her axe of [[worth]], there is no link to be drawn on. Those who already had a connection to one of their barbarian ancestors are able to focus on it. and strengthen it a little, but they must still deal with the chorus of dead slaves that threaten to drown them out.
+
+Defiance has no strong connection to the orcs who came after the time of [[Thrace]]. There are a handful of exceptions - some orcs report hearing the voices of dead companions who had participated in the various pilgrimages lead by the skull since its discovery.
+
+## Consequences
+Any Imperial Orc whose [[military unit]] supported the Winter Sun this downtime has a profound spiritual experience. Any other Imperial Orc who has a connection with the Winter Sun, or has spent time in Casinea this downtime, may have shared some of this experience, depending on their roleplaying. All such orcs experience a powerful [[roleplaying effects|roleplaying effect]]: ''You are haunted by the voices of angry slaves. At inopportune moments (when it is most dramatic) they will loudly urge you to either strike down or flee from any nearby humans. This effect is particularly pronounced if you spend a hero point.''
+
+It is ''not'' possible to [[Roleplaying_effects#Overcoming_Roleplaying_Effects|overcome]] this roleplaying effect by spending a [[Heroic_skills#Hero|hero point]]. Attempting to do so, unfortunately, just makes the voices of the ancestors louder and more insistent.
+
+If you are a character with the [[shamans|shaman]] archetype, this effect is even more pronounced. You are ''constantly'' being urged to escape from or take vengeance on humans. This is particularly strong near characters who are clearly Varushkans, Winterfolk, or Temeschwari (if you can identify such). Whenever you are in their presence you feel a very strong urge to flee, or to attack.
+
+The roleplaying effect will have faded by the end of the Winter Solstice, although shaman in particular may wish to bear it in mind in future when interacting with the people who enslaved hundreds of generations of their ancestors.
+
+Players who participated in this experience are encouraged to create ancestors of their own - slaves with strong personalities - and may continue to hear their urgings long after the roleplaying effect has faded. It is also acceptable for a participant to feel a stronger connection to a named barbarian ancestor, or to an Imperial Orc player character who has died since the beginning of the campaign.
+### Defiance
+At the end of the season, the voices become a little quieter but the effects do [[#Consequence|linger a little]]. There is one final unexpected consequence of the ritual and the enchantment. Over the course of the season, the skull ''Defiance'' slowly loses its power. By the start of the Winter Solstice, it is nothing more than a mundane skull - albeit one with considerable [[worth]]. OOC Note: The player with ''Defiance'' should bring it down to GOD before going in-character to replace the ribbon.
+### Hammers and Chains
+Despite the turmoil and wrath, some of the soldiers of the Winter Sun gain strength from the experience, and from the voices of their enslaved ancestors. Some swear oaths to ensure that the evil of slavery - evil they have experienced first hand - is wiped from the earth. They quote Bloodcrow Ergot, whose judgement in the Imperial Orcs [[Assembly#The_National_Assemblies|assembly]] said that "''prosperity must not come at freedom's price.''" Many of these orcs carve medallions of bone or wood in the shape of hammers which they wear as totems, in remembrance both of the tools their ancestors used to break rocks and of the hammers used ultimately to break their chains.
+
+During the Winter Solstice, the [[general]] of the Winter Sun will be called upon to submit their [[Army_orders|orders]]. If, during these orders, they encourage their soldiers to embrace the revelation they have received then their soldiers will continue to pursue the voices of their enslaved ancestors - and permanently change the Winter Sun quality. 
+
+The general will need to provide a total of 25 wains of weirwood and/or mithril. 
+
+The direct consequence will be that the quality of the Winter Sun will permanently change to Freedom Fighters, and the general will gain an additional option. As well as being able to submit the Hit and Run order, they will be able to submit the Break the chains attacking order.
+
+In the long run, soldiers of the army will be less comfortable around human armies from Varushka, Wintermark, and the League - but they are disciplined enough to ensure that there are no significant incidents if they are required to fight alongside the descendants of the people who once kept them as chattel.
+
+Break the chains
+* Your side must control a region with the forested, hills or marsh keyword.
+* Casualties suffered by this army are decreased by three tenths.
+* Casualties inflicted by this army are decreased by a fifth.
+The army uses their mastery of wilderness survival to outmaneuver enemy advances, and make contact with local forces that share their enemies. They free slaves and prisoners, seek the support of rebels and bandits, and sabotage labour camps and prisons alike. Allies are helped to reach camps in defensible locations, shown hidden paths, and the like. The army avoids pitched battles, and focuses on gaining allies among subject populations, some of whom join the army as fresh recruits.
+
+## Limited Opportunity
+Bloodcrow Morg'ur, the general of the Winter Sun has contributed 25 weirwood to begin transitioning the army to its new quality.
+
+## Resolution
+Bloodcrow Morg'ur acquired and employed the required weirwood; the quality of the Winter Sun has permanently changed as a consequence.

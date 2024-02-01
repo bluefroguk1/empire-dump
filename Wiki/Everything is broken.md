@@ -1,0 +1,149 @@
+---
+revision_id: 101984
+revision_date: 2023-06-08T09:14:54Z
+categories:
+- Recent History
+- 385YE Spring
+- Military Council
+aliases:
+- Everything_is_broken
+---
+
+  
+
+## Overview
+At the Winter Solstice the Dawnish Assembly took advantage of the opportunity to make contact with the many Dawnish houses scattered across Dawnguard and the adjacent regions in the Barrens. Most are yeofolk; the Druj carried out a series of brutal executions of the Dawnish nobility designed to cow the spirits of those who remained. But there are a few noble houses who manage to maintain estates here still, surviving as best they can under the spectre of the Druj occupation. Of all the groups in the Barrens, they are the only ones inclined to embrace a diplomatic approach, where other groups have a troubled history with the Empire, the Dawnish contingent's primary concern is for what will happen after the Barrens is conquered, not what has gone before.
+
+The situation in the West remains precarious, although the Druj have no armies here, there still dominate the area, with roving bands of Arkad fighters stalking the dark forests and launching ambushes against any opposition. There are still more than enough Druj here to inflict grievous harm on the Dawnish as well as on the small groups of Great Forest Orcs who remain in Peytaht. The Empire narrowly failed to kill the Druj governor of Dawnguard at the Winter Solstice, so the forces under her command are still in relatively good order. The Druj have a reputation for despoiling the lands under their control when they feel their grip loosening, destroying everything of value if they can't hold it. Once it becomes clear that they will have to flee, the Druj governor will give orders to sack the region, slaughtering anyone who can't escape, carrying off everything of value, and burning the rest.
+
+## First Contact
+* The Dawn assembly has urged scouts to make contact with the Dawnish still in the Barrens
+The response from the Dawnish houses and yeofolk in the Barrens is positive and enthusiastic. The Dawnish strike against Serra Grubfest failed to decapitate the vile governor, but it still ignited a fire in the belly of every remaining Dawnish citizen in the Barrens. Although triumph is the ultimate goal, [[glory]] comes as much from attempting dangerous and difficult deeds as from succeeding. The attempt proved the Empire were with them, and served as a call to arms.
+
+Most of the [[Dawn groups|strong Dawnish houses that manage to maintain a small presence in the Barrens]] already attend Anvil, House Vexille, House Wolfborne, House Cordraco, House Du Froste, House de Carsenere, House Meliora, House Torawyr and several other members of the Amber Lance. The best way for the Empire to talk to their leaders is in the relative safety of Anvil. However there are many yeofolk who are no longer part of any noble house and at least two houses who maintain some semblance of Dawnish dominion here, who have not attended Anvil in recent years - House Robar in Dawnguard and House Garland in the Carmine Fields.
+
+The primary goal of the messages and scouts sent to Robar and Garland is to set up a meeting. The hope is to either find a way to smuggle their earls to Anvil, or if that proves impossible, have the prognosticators look for some conjunction of the Sentinel Gate that might make it possible for a contingent to travel to them. From their responses it is clear that both Robar and Garland are eager to meet and keen to discuss plans. They make repeated requests for weapons, armour and mithril that they hope to distribute to their yeofolk and to the other Dawnish groups here. They claim, not unreasonably, that they can raise a credible military force if the Empire can provide them with the resources they need - they're not short of people or the will to fight, what they need is the means to ''win''.
+
+On the basis of the first contact and the response the civil service prognosticators begin to prepare the usual assessments, producing reports for the Imperial Senate and the Military Council on how much mithril and money would need to be sent and what the benefits might be. The reports make difficult reading - the Dawnish cannot raise yet - they are badly outnumbered and lack the arms they need to overcome the Druj. They are eager to fight, and ready to do so, but they would need to be armed. If they attack now they will be wiped out. Patience is what is needed, to strike too soon invites disaster.
+
+## The Last Hound
+* The people of Dawn are inspired by the glorious deeds of the Hounds of Glory
+* The National Assembly can use statements of principle to propose a fitting memorial
+* An attempt to simply recreate the Hounds of Glory will be seen as diminishing their glorious deed
+Towards the end of these careful negotiations, comes the news that the Hounds of Glory have defeated the Druj and captured the Spires of Dusk. Their deaths echo round the Barrens, and all across Dawn. On paper it could be considered a pyrrhic victory - the cost is ''so'' high. The loss of one of Dawn's great armies, the soldiers shattered and broken, their troubadours silenced. But the mood of most is the opposite of downbeat. The Hounds have succeeded beyond anyone's wildest imagination. They captured the Plains of Teeth. Arguably, at the last, ''they did it by themselves''. Never in recorded history has a human army stood atop the ramparts of the Spires of Dusk. The Hounds of Glory have achieved the impossible. They have given their lives to make the Barrens Dawnish. What could ''possibly'' be more glorious than that?
+
+There is much talk of how to immortalize this accomplishment so that their achievements can never be forgotten. Dawn could raise a new army as soon as it has the mithril, and most Dawnish people expect their nation to do that, provided it is a new army with a new name. Any suggestion of trying to re-raise the Hounds of Glory is taken badly. People want to celebrate the glorious achievement of every Dawnish person who served in the Hounds of Glory - the last thing anyone wants is to downplay that sacrifice.
+
+With little time before the summit, no agreement emerges on what should be done to memorialise the Last Hound. The Dawnish look to their assembly to take the lead - this responsibility lies firmly with the troubadours. Statements calling on people to support a new army, especially one named the Hounds of Glory, will receive short shrift. But any clear statement by the Dawnish Assembly that achieves a greater majority for a clear vision of how to create a suitable memorial for the Hounds of Glory will create an [[opportunity]] in light of the widespread backing it is certain to acheive. The people of Dawn want their Assembly to take the lead to help everyone ensure the truth of the national motto- "Great deeds are eternal".
+
+## Last Contact
+* Inspired by the Hound's triumph, the Dawnish people in the Barrens have risen in open revolt against the Druj
+Unfortunately the Empire's painstaking plans in the Barrens are thrown to the winds by the news that the Hounds of Glory have defeated the Druj and captured the Spires of Dusk. The Hound's triumph acts as a braying horn, a call to war summoning every loyal Dawnish warrior and witch to do battle. The Druj have never been weaker, now is the time to strike! That the Hounds died in the process only spurs the houses and their yeofolk on - everyone seeks to emulate the glorious victory the Hounds have achieved. If they must pay the highest price for that... so be it.
+
+Almost as one the Dawnish occupants of the Barrens rise and take up their arms, determined to cast off the chains of the Druj oppressors. They are outmatched by the Druj, but their enemy are reeling from the defeat at the hands of the Empire's armies. Why wait for the Druj to try and despoil the Western Barrens? Better to attack them now while there is a chance for glory.
+
+Somewhat predictably the Druj gather their forces and begin to counter-attack in Dawnguard and Murderdale. All contact with the Dawnish rebels is lost as communications disappear into the maelstrom of chaos that ensues. Any chance of a meeting to discuss the disposition of forces, the aid the Empire might provide and how best to strike is gone. There can be no talk now of patience, of building up forces and reading for an attack. Battle is joined.
+
+Contact with the Dawnish rebels may have been lost, but there are still Imperial scouts in the Barrens, and the prognosticators are searching the Sentinel Gate for viable conjunctions. They have discovered just one large conjunction, to take place on the Sunday of the coming summit. This time it seems the Military Council will have their decision made for them.
+
+## Glorious In Victory (Battle)
+Dawnish rebels have already engaged in a series of inconclusive skirmishes with the arkad fighters of Serra Grubfeast, but the forces of the governor are gathering and will soon overwhelm them if the Empire does not step in. House Robar and Garland will become just another footnote in the history of the Barrens, along with their supporters. The Druj are moving in force to the Merigionne Estate on the Sunday of the equinox, preparing to cast their vile magic at a Winter regio there before moving to crush the Dawnish troops.
+
+### Objective: Break the Druj
+* Grubfest has sent her soldiers to Merigionne under the command of Dharrik Bonebite to crush the Dawnish
+* If the Empire can kill enough of Bonebite's forces, they will be forced to retreat
+* If that happens, the Dawnish rebels will be able to seize control of Dawnguard, and the Empire will gain the Barrens
+Serra Grubfest has put the bulk of her forces under the command of Dharrik Bonebite with orders to destroy the Dawnish rebels. The Dawnish are outmatched, they are facing a glorious battle, but as things stand they will suffer an ignoble defeat. The conjunction offers a perfect opportunity to directly engage the bulk of the Druj forces in this region. The Empire doesn't need to kill them all (although that will certainly help), but if they kill more than half of the advance guard of 600 warriors, then the Druj morale will waver. They have reserves which will join the fight, but Grubfest doesn't possess an army - they have limited numbers of troops. If the Druj commander realises that he is running out of troops and they can't win, then they will order the retreat. But if they don't order a retreat, the prognosticators calculate that the force will just rout if the Empire can kill more than five hundred of them.
+
+If the troops rout or Bonebite is forced to order a retreat then rather than attacking the Dawnish, they will be easy pickings for the noble houses of the Barrens who will quickly overrun what remains. The Dawnish rebels will be able seize control of the entire [[territory#regions|region]] of Dawnguard, and with it control of the Barrens will switch to the Empire.
+
+### Objective: Kill Dharrik Bonebite
+* Hunt down the Terror of Dawnguard
+* Inspire the Winter Sun to great acts of liberation
+Dharrik Bonebite is leading the Druj forces in Dawnguard. A dark and reclusive [[Druj_lore#Ghulai|ghulai]], they rose to prominence under Serra Grubfeast. They took the lead in suppressing the yeofolk in conquered Dawnguard, and selecting nobles to be sent east to those specialised in the creation of Tortured Souls. Their name has become a watchword for terror.
+
+If the ghulai can be killed their death would serve as a symbol to that the Empire intends to free people from the tyranny of the Druj. If proof of the twisted ghulai's death was in the hands of the [[Winter Sun]] it would be a powerful talisman helping them to convince the people of the Barrens that liberation was finally at hand. In the coming season, if the Winter Sun takes the ''break the chains'' order then the ability of this army to liberate regions would be increased by twenty percent. Orcs across the territory, would be inspired to defy their overlords and rise in rebellion.
+
+### Objective: Save The Troubadours
+* Prevent the priests from being sacrificed to Agramant
+* Return the Rousers of Glory to Anvil
+The Rousers of Glory, a sect of troubadours have been stirring Dawnish hearts and minds in The Barrens to action, in a quest to overthrow the Druj. The group were ambushed by the Druj while travelling the Barrens and rather than murdered outright, they were captured and taken away by Bonebite. The priests are being kept alive for a specific purpose, and are believed to be the reason for Bonebite travelling to the estate of House Merigionne directly before engaging the Dawnish rebels.
+
+There is a powerful Winter regio in the woods at the Merigionne estates. It is understood that the troubadours are to be sacrificed to ''Blood on the Snow'' to seal an agreement with the Howler to send his heralds to fight alongside one of the Druj armies in the coming season. Agramant's heralds are wild and uncontrolled, they lack the fighting discipline of Eleonaris elfin knights, but they will still prove a powerful ally for the remaining Druj armies, if Bonebite succeeds. 
+
+All the Druj need to do is move the sect members to the winter regio, spill their blood (all of it), and then open a [[Regio#Portals_and_Chambers|portal]] to Agramant's domain. Time is limited and the heroes of the Empire will need to either free the captives, or kill the Druj's own winter mages, within the first forty-five minutes of the engagement, to prevent the Druj's campaign forces being bolstered by Agramant's heralds.
+
+### Objective: Use Merigionne's Winter Regio
+* Locate the strong winter regio in the area
+* Follow Sorin's offer to cast The Basalt Citadel
+The ''[[Sorin|Empty One]]'' apparently held a long-standing concord with the nobles of House Merigionne and held them in esteem. As the grip of the winter realm lies heavily across the Barrens following the great slaughter this season, Sorin has sent word to the Dawnish egregore that he will honour an old bargain to support the defence of Dawnguard. A boon - the skull of a former Merigionne enchanter - is offered that will aid in the casting of The Basalt Citadel, provided it is done within the estate of the former house - the ruins of which are assured to provide a sufficient focus for the ritual's power. This would strengthen the resistance to the Druj in the coming season, regardless of who ultimately controls the region, and allow those who escaped their clutches to seek sanctuary in the ruins of the estate.
+
+More importantly, if this is done in the Barrens during the Spring Equinox using the skull, the Citadel will form around the ruins of the Towers of Dawn, and leave an indelible mark of Sorin's support for the people of Dawn. When it comes time to rebuild the towers (assuming it ever does), there will be an [[opportunity]] to take advantage of this mark to gain a unique fortification.
+
+The skull provides three additional ranks of effective skill to every member of the coven when casting The Basalt Citadel at the House Merigionne winter regio, subject to the normal rules for effective skill.
+
+## Future of the Barrens (Assignment)
+* If the Empire are successful in the Battle they could assign the Barrens at this summit
+* It is possible for a senator to submit a motion to assign the territory in advance of the final session
+* If the Barrens are assigned to the Dawnish, many of the inhabitants of the Barrens are likely to be openly hostile to the Empire
+* If the Barrens are assigned to anyone but Dawn, the Dawnish people of the Barrens are likely to be furious and rebellious
+If the Empire succeed in the battle, then they will control enough regions in the Barrens to control the territory. As such it will count as an Imperial territory and the Empire will be able to elect a senator for the territory - but only once it has been [[Powers_of_the_Imperial_Senate#Assignment|assigned]]. Given the interest in the territory and the timing involved, the Office of the [[Speaker for the Senate]] have reminded senators that they can choose to submit a motion to assign the territory before the battle result is known if they wish, subject to the normal motion for deadlines. If the battle is lost, the motion will automatically fail, but otherwise it will trigger a debate on the floor of the Senate followed by a vote or set of votes on the floor for which nation to assign the territory to.
+
+The choices involved are somewhat stark. Most of the [[The_silent_page#The_Torch_of_Freedom|occupants of the Barrens]] are hostile to the Dawnish to a greater or lesser extent. Assigning the territory to Dawn will inflame tensions with these groups and make them more hostile to the Empire.
+
+However there is a significant Dawnish population in the Barrens, who believe their nation has been contesting the land with the Druj for the best part of four centuries and more. If the territory is assigned to anyone except the Dawnish, they are likely to be furious, and, in light of the sacrifice of the Hounds of Glory, openly rebellious against the Senate.
+
+## Conjunctions
+In addition to the major conjunction of the Sentinel Gate, there are a number of smaller conjunctions leading to the Barrens during the coming summit.
+### No need to take me home (Conjunction)
+* A band of Druj are moving to slaughter the leaders of the Rahvin
+* The Druj are likely to be accompanied by a number of heralds of Arhallogen
+* The Sentinel Gate will open at 18:30 on Saturday to Meredith's Stand in the Plains of Teeth
+* The ''General of the Winter Sun'' is responsible for stopping the Druj killing the Rahvin
+Not only has the Empire taken [[The_Barrens#Bitter_Strand|Bitter Strand]] from the Druj, along with Saltmarsh and the Plains of Teeth, but the [[The_Barrens#The_Fangs|Fangs]] has been denied the Mallum orcs as well. Imperial troops do not control the Fangs, however; they are in the hand of the former mine slaves lead by members of the Rahvin sept, a people who were considered to be subdued and broken. That they would think to stand up and claim the mine and its bounty of precious [[mithril]]... it is not something the Druj can countenance. It is too clear a testament to how badly the Druj have failed to control the Barrens. As a result ''Plaguetouch'', one of the [[Druj_lore#Buruk_Tepel|buruk tepel]] and true rulers of the Druj, has sent a force to make an example of the Rahvin; to slaughter the workers in the mine, to bring down death and destruction on what they have tried to claim for themselves.
+
+There is opportunity here though, if the Empire can stop the Druj from making it to the Fangs and slaughtering the Rahvin then the leaders of the uprising would be grateful and arrange a meeting at the Summer Solstice. At minimum the General of the Winter Sun would be invited, and given that the Empire does not currently have an [[ambassador]] to the Rahvin the [[Imperial Consul]] would likely be expected to attend. If they don't, the Druj will kill most of the rebellious slaves, and badly damage the mine, but perhaps worse than that they will discourage other orcs from rising against them. The job of the Winter Sun will be that much harder.
+
+There will be a stiff resistance from the Druj; they are a combined force of troops drawn from [[Arkad|the arkad]] and accompanied by heralds of [[Arhallogen]]. Given that the uprising of the Rahvin was fundamentally a result of the orders given to the Winter Sun the responsibility for this conjunction lies with the [[Winter Sun|General of the Winter Sun]]; Skywise Rykana.
+
+### The Dead March
+* Druj holdouts operating in the Barrens have been terrorizing supply lines and using the corpses of slain Imperial soldiers to spread fear.
+* There are three opportunities to travel to the Barrens and deal with the husks of slain Imperial heroes
+The victorious armies of the Empire have marched upon and seized the Spires of Dusk, at great [[EmpireWiki:Cost|cost]]. But, even as the Druj were ground down before them or scattered into the east - others laid low, rooting into the landscape within hidden sanctuaries and moving by hidden byways: these Druj diehards have bided their time and, as the seasons change, have crept forth to cause chaos and disarray. Wielding fear as a delicate, incisive blade, these guerrillas employ envenomed traps, ambush and assassination to harass supply lines and frustrate travel to and from the front. 
+
+But the dark machinations of the Druj do not end with death - there are increasing reports from scouts of reanimated Imperial soldiers stalking the wilderness: disinterred from battlefields or raised from fresh victims to spread fear and terror. 
+
+Imperial prognosticators have identified three opportunities close to where previous ambushes and battles took place.
+
+### The Goblet of Adelmar (Conjunction)
+* A questing knight carrying a relic of the exemplar Adelmar disappeared while travelling through Shadowmere with her retinue
+* The Sentinel Gate will open at 18:45 on Friday to Hadrienne's Lament in Saltmarsh
+* The ''Champion of Ambition'' is responsible for recovering the goblet of Adelmar
+Hadrienne de Deveou, a questing knight and troubadour of Dawn along with her retinue departed across Shadowmere with the intent to aid in tending to the wounded and slain at the Spires of Dusk. She carried with her the ''Goblet of Adelmar'' - rumoured to have once belonged to the exemplar himself, the relic had been a potent symbol for Ambition and the pursuit of Glory. She and her party never arrived at the Spires and were presumed to be dead. Subsequently, scouts along the route her caravan took have espied unliving foes clad in her House's colours - the fate of her relic is unknown.
+
+Given that the ''Goblet of Adelmar'' could be a relic of the exemplar it is the responsibility of the [[Champion of Ambition]]; Alfmund Fordwinsson to recover it.
+
+### The Flowers of Deleroi (Conjunction)
+* The Yeofolk of Ville Deleroi have requested that heroes of Dawn allow their extinct house some final rest.
+* The Sentinel Gate will open at 19:15 on Friday to Bloodrun Dell in the Plains of Teeth
+* The ''Dean of Laroc Cathedral'' is responsible for planting seeds in the final resting place of the Deleroi knights
+Ville Deleroi in Semmerholm is the humble demesne of House Deleroi - a minor House of Dawn dedicated to Courage, but seemingly cursed, it is said, by their arriving late to relieve the last stand at Eldric's Hill. Ever since then the most promising nobles of the House have met their unfortunate end against hopeless odds and in tragic sacrifice. So it was that the last four knights of Deleroi - along with the House's Earl - campaigned with the Hounds of Glory and were lost in the defence of Bloodrun Dell: falling with their yeofolk as they guarded a withdrawal. Scouts have reported the stones laid where the House was extinguished have been disturbed - and the unliving stalk the area.
+
+The yeofolk of Ville Deleroi have made a request to the Dean of Laroc Cathedral, where the house made the choice to join the effort in the Barrens: to lay seeds at the final resting place of their beloved nobility so they may rest amidst the flowers of Dawn - and to sing the Flowers of Auvanne so their debt and curse may finally be lifted.
+
+Given that this is a direct request to the [[Dean of Laroc Cathedral]] it is the responsibility of the incumbent; Ser Dindrane, to put the dead to rest.
+
+### The Body of Eoceor de Casillon (Conjunction)
+* The reclusive nobility of House Casillon have requested the retrieval of their ancestral sword
+* The Sentinel Gate will open at 19:45 on Friday to Shrike's Grove in the Plains of Teeth
+* The ''Castellan of Spiral Castle'' is responsible for recovering ''Gyre's Edge''
+The nobility of [[Dawn_groups#House_de_Casillon|House de Casillon]], only recently emerged from their self-imposed isolation, are still rarely encountered outside the borders of their home: reclusive and disinterested with the mundanity of the world, it was a minor local happening when ''Eoceor'' emerged bearing the sunburst-emblazoned tabard of a knight-errant and joined the Hounds of Glory. Remaining, even after passing their Test of Mettle, Eoceor de Casillon was said to have fought not just for Glory - but seemingly just for the thrill of besting the enemies of the Empire.
+
+Eoceor was presumed slain in the final battle for the Spires of Dusk when probing for safe approach to the battlements. However, scouts have reported that a tortured spirit matching the noble's description has been spotted at the lead of a mob of reanimated knights - still clutching their enchanted blade. In the days approaching the summit in Anvil missives from the de Casillons have promised appropriate reward if the ancestral blade gifted to their son is returned as proof that his soul has been released into the Labyrinth.
+
+Given that this is a direct request to the [[Castellan of Spiral Castle]] it is the responsibility of the incumbent; Maryc, to recover ''Gyre's Edge''.
+
+## Further Reading
+* [[Cost]] - Wind of War detailing the fight in the Barrens this season
+* [[You do it to yourself]] - Wind of Fortuner relating to what is to be done with the Druj in the longer term
+* [[The silent page]] - Wind of Fortune from the Winter Solstice laying out the major Barrens factions other than the Druj

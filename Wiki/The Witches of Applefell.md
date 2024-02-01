@@ -1,0 +1,74 @@
+---
+revision_id: 86447
+revision_date: 2022-02-01T21:26:08Z
+categories:
+- Winds of Fortune
+- 380YE Winter
+- Recent History
+aliases:
+- The_Witches_of_Applefell
+---
+
+
+Marthe crouched down behind Big Will and John Green grateful that the pair of them were between her and any of the arrows that were about to start flying. She was painfully aware that while she might not be the youngest member of the group, she was certainly the least experienced. She'd never robbed a caravan before, never faced another person in a fight to the death. She hoped her fear was not obvious to the two men beside her. 
+
+She remembered as a child thinking how exciting being a witch must be - having the powers of magic at your command. Glorious! Right now all she could feel was a sense of numb fear and a stomach that felt like it was going to hurl at any moment. Will looked equally petrified, but Big Will at least was calm. She wondered how many times he'd done this sort of thing - more times than her or John that was for sure. 
+
+Somebody gave a shout. She remembered Big Will explaining that the signal would be a shout - that you didn't need to worry about what was going to be shouted. It had seemed odd advice at the time, but now that people were running around screaming and shouting she realized it really was all just a blur of chaos. Big Will and John were running towards the caravan and she was somewhat surprised to find she was running with them. Surprised and relieved - her biggest fear - something she'd told no-one - was that once the fighting started she probably just turn and run. Apparently not. 
+
+They passed Miller Watkins, writhing on the ground with an arrow through his thigh. It looked proper nasty - she wanted to run and help him but she was under strict orders from the loom-keeper to stick with the two she'd been assigned to. And Big Will was shouting something at her that sounded like "Now, Now - do it now" which seemed important. 
+
+The bandit was faced off against three men, barely keeping them at bay with swings of his axe. Will Green was to one side with his shield and a stout club. She was terrified, but she found herself going through the motions, just like they had planned A hand on Big Will's shoulder (odd name for a man four inches shorter than her), an incantation garbled with undue haste and then power flowing through her, out of her, into Big Will. 
+
+The man gave an almighty shout, stepped up to the nearest guard and hewed his arm off with a single blow of the axe. The guard went down, blood everywhere, and the other two turned and fled.
+
+She looked around, but it was all over. The guards were fleeing - the bounty was theirs. Her first fight was over - and a lot quicker than she had been expecting. Looking round Watkins was the only one of theirs injured and he'd live. It had seemed such a simple plan at the time, but she could see now what the loom-keeper meant when he said that a lot of training and a simple plan was the way these things worked best.
+
+She thanked the virtues she was in the company of people who knew what they were doing - hopefully next time people would think the same of her.
+
+
+## Overview
+Applefell, in [[Weirwater]], is a sprawling hill town (for [[Dawn]]), surrounded by many small [[farm|farms]]. The [[yeofolk of Dawn|yeomanry]] look after the farms, and service the merchants who pass through on their way to and from [[Semmerholm]] and [[Karov]]. The people have a reputation for being pleasant, if a little standoffish with outsiders. Merchants encounter a pleasant enough welcome, but even there the locals maintain a cool, professional distance that has given the place a bit of a reputation for strangeness. Some troubadours suggest that one reason for this might be that there is a fair amount of Varushkan blood running in the veins of the yeofolk of Applefell - and everyone knows Varushkans are peculiar people.  
+
+In addition to actual apple orchards, the area is also known for its slightly sinister "ground apples" - actually a type of mushroom with an almost spherical head. Some apothecaries claim that properly prepared, the mushrooms grant the power to perform [[Religious skills|spiritual ceremonies]], or to see ghosts, or to gain visions of the Labyrinth. All that is known for sure is that ''improperly'' prepared they can kill a healthy man or woman in a few hours if they do not receive medical attention.
+
+The road between Applefell and [[Weirwater#Hawksmoor|Hawthorn]] to the west has always been a little treacherous - the woods have been home to bandits both human and [[orc]] for centuries. Recently, the situation has deteriorated a little, and stories have begun to surface of a [[Bands#Coven|coven]] of [[Dawn_magical_traditions|witches]] who are either supporting the brigands or have fallen into brigandage themselves. The bandits are becoming bolder - there are reports of occasional attacks across the border in Semerholm, as well as along the edges of [[Weirwater#Sandling|Sandling]] and [[Weirwater#Wickmoor|Wickmoor]].
+
+These stories prepared nobody for what happened six weeks ago, however. Two large groups of bandits attacked a shipment of weirwood coming south from [[Weirwater Vales]]. There were a significant number of witches among the bandits, using spells to [[repel|hurl]] guards around and break their defensive formations as well as [[empower|empowering]] the warriors to strike powerful blows. Five full wains of weirwood were stolen, along with several wagons and oxen, and a number of guards were left seriously injured.
+
+All the evidence the magistrates have been able to turn up suggests that these witch-bandits are operating from the vicinity of Applefell, but their investigations have encountered a wall of silence. Nobody in the town will confirm anything, and most of them will not even talk to the magistrates unless forced to do so. Their replies range from noncommittal, to openly scornful. Many of the yeofolk appear more concerned about the [[380YE_Winter_Solstice_winds_of_war#Quiet_on_the_Eastern_Front|army of unliving horrors]] just up the road in [[Weirwater#Weirmoor|Weirmoor]] than about the actions of bandits. Investigations are continuing, but there is some concern that the witches may have subverted a significant number of the townsfolk as their allies.
+
+One thing that is very unclear is what the witches and the bandits want the weirwood for. Outside of [[commission|Senate commissions]], it is primarily used for improving a [[herb garden]], [[fleet]], or [[farm]]. There is no sign that anything like this is happening in Weirwater. Yet the bandits and their witch allies cannot fail to be aware that stealing this material will draw the attention of the Empire on them - so why would they perform such a risky theft?
+
+### Attack on the Weirwater Vales
+The Weirwater Vales are an [[Imperial Bourse]] seat that is due to be auctioned at the Winter Solstice summit. While Soren il Signo, the previous holder of the Seat, was technically in charge when the theft took place, the seat is due to be reappointed at the Winter Solstice. Consequently, the responsibility of responding to this theft will fall on the shoulders of the new Bourse title holder, whoever they are. 
+
+The new holder is going to receive only 18 wains of weirwood when they claim the Seat, and may potentially lose production in coming seasons as well. There is no evidence that the witches are planning to attack the weirwood caravans again - indeed, it is likely their plan mostly succeeded due to surprise as much as anything else. On the other hand, there is no evidence they are ''not'' planning another raid. 
+
+However, there is one possible source of information about what is going on in Applefell. The overseer of the Weirwater Vales received an anonymous message shortly after the raid. The note claims that ''someone'' has valuable information about the people behind the attack on the Weirwater Veils caravan, and is prepared to sell that information to the new Seat holder. Their intention - whoever they are - is to attend the public auction on Saturday night where the ownership of the Weirwater Veils will be determined for the next year, and make themselves known to the new holder of the Imperial title.
+
+Yes, citizens are expected to report crimes they are aware of, but they are not legally obliged to. 
+
+However if a citizen is suspected of being involved in a course of criminal conduct (for example by covering up evidence of their co-conspirators or being a look out or what have you) then they risk prosecution as if they had committed the crime themselves - because they are aiding and abetting a crime. If they refuse to answer the questions of the militia then at trial the magistrate will draw an adverse inference about their conduct.
+
+The other side of the coin is becoming aware of criminal activity you are not involved in. Yes, a citizen should report it but they are not ''required'' to. So this enterprising individual might know all about the crime because they are in league with the bandits. Or they might have overheard a whispered conversation they should not have been privy to. Even if they are in league with the bandits a deal might be done to give them a reduced sentence if that might lead to the capture of the other bandits.
+
+It wouldn't be illegal to pay this person, but it seems less likely to be necessary if they are facing the wrong end of a prosecution. If they are truly innocent but have information then they could happily ask for money for it. But if they prove to be suspicious then the militia might well use any indications of criminal conduct as leverage against them.
+
+### Dealing with brigandage
+The bandits are wily, and Weirwater is a wild territory. While it is not as dangerous as Varushka, it is still a place of rolling forests and brooding hills. The wilderness stretches wide and deep between the towns, villages, and noble estates. The bandits and their allied witches know the area well, by all accounts, and are proving adept at avoiding the magistrates. Even an army might struggle to track them down, were an army available - but at least an army would bring the benefit of a massive number of soldiers able to pursue simultaneous searches across the territory over the course of a season.
+
+The [[general]] of an [[Imperial army]] in Weirwater may choose to issue the ''Leave no stone unturned'' attacking order in place of their normal order (and as an attacking order, even if there are no enemy forces present, the army will not be eligible for natural resupply).
+
+Leave no stone unturned
+* This army will capture no territory
+* If the army is engaged by another campaign army, casualties inflicted by this army are reduced by two-fifths
+* If the army is engaged by another campaign army, casualties suffered by this army are increased by a fifth
+* Ends the immediate threat of bandits in the area
+This order involves breaking the army up into multiple forces who will sweep the hills and forests of Weirwater with the assistance of the Imperial magistrates, rousting out bandits and brigands and arresting them. Any who resist arrest will be brought in by force if necessary. The army avoids towns, villages, and noble estates, focusing all its efforts on dealing with the scattered bands of brigands active in Weirwater.
+
+Using an army to hunt bandits is like using a great weapon to crack an egg, but in this case it will be effective enough to remove future threat of organised bandit activity for at least a year. The army won't catch any of the witches, you can't catch the leaders of something like this with an army, but they will kill enough of the bandits that the threat of robbery against the Weirwater vales is ended and the general of the army will receive any intelligence that is discovered that might lead them to those who organized the raid.
+
+The risk is that if the army is engaged in a campaign - attacked by another army - while their attention is focused on rooting out bandits, they will be poorly situated to respond to this threat, inflicting reduced casualties and suffering more casualties in turn. This may be a very real consideration given the presence of the unliving forces in western Weirwater.
+
+If the army has the [[Army qualities#Scouting|scouting]], [[Army qualities#Magic|magic]] quality, then this order will prove extra effective. They will gain additional information about the wider agenda of the witches, about their membership, and about what the weirwood was stolen for.

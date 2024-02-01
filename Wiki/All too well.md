@@ -1,0 +1,173 @@
+---
+revision_id: 102182
+revision_date: 2023-06-15T11:38:26Z
+categories:
+- Winds of Fortune
+- 384YE Winter
+- Recent History
+aliases:
+- All_too_well
+---
+
+
+Jek eyed the preacher warily. He'd been keen originally to hear this new preacher speak, what with everyone talking about her. It'd taken a week to convince Darad to make the long march down to Gildenheim. Now all he could think about was leaving, but Darad was hanging on the preacher's every word. At this rate he was gonna be stuck here til she ran out of words.
+
+"The Empire have done nothing for the septs. Not for the Illarawm, not the Yerende, not the Ethengraw." the preacher bellowed.
+
+"They freed them from the Druj!" shouted an orc from somewhere off to Jek's left. 
+
+"Did they?!" the preacher shouted back. "They freed Ossium from the Druj, and gave it to the Varushkans. The septs were just baggage. Baggage we had to pick up!"
+
+Jek rolled his eyes. He was pretty sure it was a Freeborn army that "picked up" the baggage, but this Brakkalo didn't seem interested in anything other than where they ended up. "Come on," he said to Darad, "lets head into the city and get something to eat." His friend only shook his hand away, not even taking his eyes off the preacher who was still ranting on.
+
+"They come running to us whenever there's wars to be fought. And there's always white granite for fancy roads in the League and canals in the Marches. But when we want something? When we ''need'' something? We know all too well that the treasury is empty!"
+
+"We're at war! We have to put the Empire first." Jek was surprised to discover it was him shouting at the preacher. He hadn't realised how much she'd got under his skin.
+
+"That's what they always say! Put the Empire first. Do you know what ''actually'' happens to nations that put the Empire first?" The preacher paused dramatically to draw breath before roaring back "They get ''fucked''!" 
+
+There was an audible gasp from the crowd - the preacher had gone too far for many. A few people started walking away, clearly disgusted.
+
+"What are you saying?" demanded one one of the crowd angrily. "What can we do about it?" asked another who seemed more sceptical than outraged.
+
+"Stop fighting... " the preacher had finally stopped shouting, perhaps exhausted by their efforts to date. "Think about what Rykana and Wessek did. Maybe the Empire has taken our willingness to fight for granted for a little bit too long. One season in which our armies weren't champing at the bit to die like Druj slaves for the Empire and look what happened! Think about it. We've got the two largest, strongest armies in the Empire. That's leverage that is. And with enough leverage...."
+
+
+## Overview
+A year ago, [[Hard_times_come_again_no_more|a host of Ossium orcs arrived in Skarsind]], guided by [[Fire of the South|the Freeborn]] to new homes far away from the Druj who once ruled them. A number of the orcs had already become Imperial Orcs by the time they reached [[Skarsind]], arriving not as people fleeing the horrors of the east, but as people coming home at last to a homeland they have never known. In the seasons since, more of them have found a place not only in Skarsind, but as part of the nation. There are three very obvious exceptions, however. Three of the largest ''septs'' of Ossium -  the [[Hard_times_come_again_no_more#The_Ethengraw|Ethengraw]], the [[Hard_times_come_again_no_more#The_Illarawm|Illarawm]], and the [[Hard_times_come_again_no_more#The_Yerende|Yerende]] - maintain their own cultures and traditions in the face of ruthless Druj oppression. They have a strong identity of their own, one that they are not keen to abandon now that they are "free" once again. 
+
+Unlike the [[Liberated|freed Jarmish slaves]], the [[Lost_in_translation#The_Dubhtraig_Refugees|Dubhtraig refugees]], the former [[383YE_Spring_Equinox_winds_of_war#Mission|gladiators of Beoraidh]], or even the much more recent arrivals the [[Tired_of_sleeping#The_Tamazi|Tamazi]], the three septs still remain apart from the nation. Urged by their ancestors, they have no intention of giving up the traditions that helped them survive the Druj without giving into despair. Before they left Ossium, they heard the [[preachers]] promise that their [[Pride]] would carry them to new lives and a new future free from fear. This same Pride, however, makes them want to make sure that their traditions and culture are respected by their new neighbours. They are friendly with their new neighbours; but they require reassurance before they will be open to joining the Imperial Orcs nation and becoming Imperial citizens.
+
+Ethengraw Armoury-Smithies
+Commission Type: [[Folly]]
+Location: Skarsind. Gildermark. Gildenheim
+Cost: 60 mithril, 120 crowns, six months, must be [[Powers_of_the_Imperial_Senate#Concedence|conceded]] to the Ethengraw
+Effect: The Ethengraw will join the Imperial Orcs. They would form the core of any new Imperial Orc [[Imperial_army|army]], provide opportunities to muster such an army and present the option of a unique quality reflecting their fighting arts.
+
+
+Illarawm Ossuary
+Commission Type: [[Folly]]
+Location: Skarsind, Southpine, Illarawm lands
+Cost: 60 white granite, 120 crowns, six months, must be [[Powers_of_the_Imperial_Senate#Concedence|conceded]] to the Illarawm
+Effect: The Illarawm will join the Imperial Orcs. They will share knowledge of their ancestors with the Imperial Orcs, and offer their expertise to the rest of the nation helping them to better hear the voices of their own ancestors.
+
+
+Yerende Gardens
+Commission Type: [[Folly]]
+Location: Skarsind, Solvihill, Yerende lands, Runegrott
+Cost: 60 weirwood, 120 crowns, six months, must be [[Powers_of_the_Imperial_Senate#Concedence|conceded]] to the Yerende
+Effect: The Yerende join the Imperial Orcs. They will share details of their herbal lore, the key part of which is a set of potion recipes using realmsroot to create potions useful to orc magicians.
+
+
+## Metal, Bone, and Soil
+* For each of the three Ossium septs there is a structure that will help them integrate with the Imperial Orcs
+* Each of the ''septs'' has their own lore that could strengthen the Imperial Orcs
+* Each of the ''septs'' have their own traditions that would change the Imperial Orcs nation
+Each of the Ossean septs has a request that, once fulfilled, with give them the reassurance they want that they would be welcome among the Imperial Orcs without compromising their identity. The Ethengraw - proud warriors bereft of their warrior traditions - would be reassured by a grand armoury. The mystic shamans of the Ilarawm request a grand ossuary within which the bones of their honoured ancestors could be laid - perhaps alongside those of the Imperial orcs. The herb masters and magicians of the Yerende ask for a garden where they could cultivate cuttings of the plants they smuggled out of Ossium.
+
+In each case the civil service assessed a [[commission]] that would satisfy their needs and smooth the way toward the sept in question joining the Imperial Orcs nation as citizens. None of the three was precisely cheap. In the year since, there has been no movement on any of the three [[folly|follies]]. The Imperial Orcs assembly did enact a [[mandate]]  [[383YE_Winter_Solstice_Synod_judgements#Judgement_71|requested by the Illarawm]] that confirmed their beliefs "''do not clash with either the Doctrine of Ancestors or the Doctrine of the Howling Abyss''", reassuring the ''sept'' that there would be no spiritual issue with their neighbours, but that is all. In the months since, the three ''septs'' have settled into their new homes, happy to trade with their Imperial Orcs neighbours, but have kept themselves to themselves. 
+
+This situation looks like it could easily become the new status quo, but not everybody is of a mind to accept that.
+### Fury on the Mountain
+* A fiery orc preacher has denounced the Empire's attitude to the Imperial Orcs
+* They have only a small following, but their words strike a chord with some of their neighbours
+During the Summer Solstice the Imperial Orcs [[general|generals]] took the unprecedented move of withdrawing their armies to Skarsind and refusing to fight for the Empire while they remained allies with the slave-owning nation of [[Otkodov]]. The matter appears resolved - the Thule Dragons have decreed an end to the practice in the north. The move received extensive support in the orcs of the nation; it also offered inspiration to a fiery young preacher named ''Stonecliff Brakkalo'' who has spent the last six months or so speaking passionately on the streets of [[Skarsind#Gildenheim|Gildenheim]]. Her concern is that the Empire tells the Imperial Orcs they must take in all orcs that come to the Empire, but they offer little actual aid to deal with the realities of the situation. 
+
+The Empire has multiple titles whose responsibilities involve helping new citizens find their place in the Empire such as the [[The Brass Coast|Freeborn]] [[Hand of Guerra]], the [[Dawn|Dawnish]] [[Lady of the Proffered Hand]], and the new [[Hearthtender of the Unbroken|Hall of the Unbroken]] in [[Sermersuaq]]. But where are those nations when there is practical work to be done? The Synod talks a lot about freeing people from slavery, but how does it actually help those people when they are in the Empire? Who other than perhaps Pontus Figures has actually done [[384YE_Spring_Equinox_Synod_judgements#Judgement_18|anything ''practical'']] to help the ''septs'' and the orcs of Skarsind?  
+
+When Bloodcrow Udoo raised their [[384YE_Spring_Equinox_Synod_judgements#Judgement_23|statement of principle]] in the [[General Assembly]] in Spring, it received plenty of support - but that support didn't ''lead'' to anything. And it doesn't escape Stonecliff Brakkalo that the Empire didn't support Bloodcrow Udoo sufficiently to provide a Greater Majority in what should in theory have been a straightforward expression of solidarity.
+
+It seems, says Stonecliff Brakkalo bitterly, that the Empire is happy to ''rescue'' people and claim the rewards that come with it, but reticent to do anything ''after'' that. Where is the Senate - the very body that ratifies treaties with slavers - while all this is going on? Where are the holders of Bourse seats? It is clear from the commissions announced each season that there is no shortage of wains in the Empire, no shortage of money. It also seems clear that statements of principle have no influence over the people with the power to actually help integrate the ''septs'' in Skarsind. It seems that the only thing they will listen to is action.
+
+If it is clear that the Imperial Orcs will need to rely on themselves, says Stonecliff Brakkalo, then the first thing to do is to get all three commissions started as soon as possible, by whatever means. Doing so will require [[Senate motion|Senate motions]] - the [[Legion Engineer]] can't commission a folly, and even if they could only the Senate has the power to concede one to a ''sept''. Perhaps those nations who talk about freeing slaves, and embracing orcs, could be called on to put their money where their mouth is and raise the motions needed. Then, any Imperial citizen, orc or otherwise, can put their hands in their pockets and ''prove'' their commitment to the ideals they espouse so easily when it  doesn't ''cost'' them anything. Once a commission is started, ''anyone'' can contribute to it.  And right now? Stonecliff Brakkalo points out that ''right now'' there are an ''awful'' lot of wains of white granite, weirwood, and mithril in the Empire. Wains taken from the vaults of the most wicked slavers in the Known World, the slave lords of Rachensgrab. Maybe some of ''those'' wains could be contributed to helping the Illarawn, the Ethengraw, and the Yerende ''actually'' find new homes in Skarsind?
+
+For some Imperial Orcs, Stonecliff Brakkalo's anger is infectious and her dissent compelling. Her voice has been getting louder since the Autumn Equinox, but it is when she suggests a practical solution that her support begins to grow significantly. She urges all Imperial Orcs to consider using the one weapon the orcs have that the Empire seems to actually respect. Following the example of [[general]] Rykana and general Wessek, the people of Skarsind should withdraw from the Empire's wars. The armies should return to Skarsind and stay there; and the [[military unit|legions]] should either spend their time garrisoning [[Skarsind#The_Will|The Will]] or pursuing [[Military_unit#Take_Independent_Action|well paying opportunities]]. Better yet, they could put aside their swords permanently and make new lives. After all, if the Imperial Orcs are to find the money for 180 wains and 50 Thrones by themselves they will need [[farm|farmers]] and [[business|merchants]] to fight on their behalf.
+
+### Answer Courage with Wisdom
+Nobody who has heard her speak can doubt Brakkalo's sincerity. She invokes the virtues of Courage, Pride, and Prosperity, and openly declares that her heart's Loyalty is to the people of Skarsind, rather than the Empire as a whole. This is one of the reasons she does not come to [[Anvil]], she says. Her interest is focused on her own people. Regardless of her sincerity, however, her impassioned speeches are having a disruptive effect on the people of Skarsind. She has not broken any laws; she isn't even urging people to break laws on his behalf. It is entirely legal for generals to choose what their armies do, or for a leader to determine what their warband does. Perhaps answering Brakkalo falls to the Synod - it is in the arena of faith that she has chosen to challenge the Empire.
+
+There are two potential mandates that the Imperial Orcs national assembly could enact.
+
+
+
+If this mandate were enacted, it would stop Stonecliff Brakallo in her tracks. She would still have a small following, but her legs would be cut out from underneath her. She would have no further effect on the nation.
+
+
+
+If this mandate were enacted, it shows support from Brakkalo's arguments. For the next year, every Imperial Orc [[military unit]] would suffer a -1 rank penalty to their effective strength if they take [[Military_unit#Support_Army|support an army]], [[Military_unit#Scout_an_Area|scout an area]], or [[Military_unit#Defend_Fortification|defend a fortification]] anywhere other than Skarsind. At the same time they would receive a +2 rank bonus to any [[Military_unit#Take_Independent_Action|independent action]] they undertook, representing the focus on gathering wealth for their nation. This will also prompt other opportunities to encourage other nations to help with the commissions needed to reassure the ''septs'', or support the various orc refugees that have come to the nation. 
+
+If the Imperial Orc assembly does not enact a mandate, then Stonecliff Brakkalo will continue to gather supporters, amplifying dissent in Skarsind.
+
+## A Sound of Silence (Illarawm)
+* The leaders of the Illarawm are called mystagogues, and they are primarily shaman
+* While they are not ready to join the Imperial Orcs, they are offering their aid in a specific matter relating to the Imperial Orcs ancestors
+Stonecrow Brakkalo and her supporters are not the only visitors to Gildenheim between Autumn and Winter, but the others are considerably quieter. The Illarawm are the only one of the three ''septs'' who have seen any kind of reassurance from the Imperial Orcs. Their concern that their spiritual beliefs might not be accepted was addressed by Stormcrow Skred, and as a consequence they have been the most outwardly friendly of the Ossium orcs - not that that says too much. They don't have a huge amount to do with anyone more than a day's walk from their settlements in [[Skarsind#Southpine|Southpine]], but they do engage in a little trade. In the lead-up to the Winter Solstice it becomes clear that they have also been ''paying attention''. One of their shaman - a middle-aged orc named ''Mystagogue Illarawm Ithgarn'' - leads a small group of her fellows north to Gildenheim. They want to visit the [[Skarsind#Legion.27s_Rookery|Legion's Rookery]], and speak with the priests and shaman there.
+
+Illarawm Ithgarn is soft-spoken, but occasionally cocks her head as if listening to a voice only she can hear. She explains that the Illarawm have been deeply impressed to hear of the Imperial Orcs' stand against the Imperial alliance with the Thule. It's clear she doesn't know exactly who everyone involved ''is'' - she's no expert on the Empire or its politics. Coming from [[the Mallum]], however, her people have ''very'' strong views on anyone who enslaves others, and those who justify cooperation with them to themselves. It seems that she's also aware of the efforts Bloodcrow Udoo is making to [[Tired_of_sleeping#Bones_in_the_Earth|gather the bones of Imperial Orc ancestors]] from Imperial territories (apparently some of the Illarawm spoke with a Varushkan trader passing through Southpine on their way to the [[Bonesetter_of_Torfast_Trading_Post|Torfast Trading Post]]). The mystagogue clearly approves of this - at least in theory. The Illarawm revere the physical bones of their ancestors, whether they hear their voices or not. They appear to believe that the living serve to anchor the spirits of the dead to the world, forming one side of the bridge across the Howling Abyss that allows ''any'' orc to cross to the lands beyond. It is the memory of the dead that forms the foundation of that bridge. If they did join the Imperial Orcs, then including the bones of the Skarsind dead alongside the bones of the Illarawm dead would be a vital step.
+
+But most importantly right now, after a year of cautiously getting to know the orcs of Skarsind, they have become aware that the Imperial Orcs have a problem. Not a problem of their own making, a problem created by the Empire in centuries past. Specifically, they have a problem with their [[Imperial_Orcs_religious_beliefs#Imperial_Orc_ancestors|ancestors]]. And the Illarawm want to offer a little help, if they can. This is not to say that they are ready to share their lore with the Imperial Orcs, or join their nation, but compassion and sympathy mean they don't want to stand by and watch the Imperial Orcs - especially their shaman - suffering.
+
+The problem they're referring to is that of the three "types" of ancestor the Imperial Orcs can hear, two of them are either constantly angry and incoherent, or afraid and incoherent. It seems the Illarawm sometimes have to deal with this kind of ancestor voice themselves - nobody who lives under the Druj is unfamiliar with them. One of the reasons they hate the Druj is that they ''twist'' people, filling them with fear, and that because orcs hear the voices of their dead, that fear becomes almost impossible to avoid. Over the centuries however, they have developed a form of meditation that allows them not to ''silence'' these voices - because the Illarawm think it is a bad idea to ignore any ancestor no matter how frustrating they may be - but to ''distance'' them. To quiet them, and in some cases to ''calm'' them. They're prepared to teach this technique to any orc shaman who wants to come study with their mystagogues for a season or so. The principles can be taught reasonably easily, but they can take quite a while to master. 
+
+### An Offer of Peace
+After speaking with the shaman at the Legion's Rookery, mystagogue Illarawm Ithgarn believes that helping the Imperial Orcs to ''quiet'' the voices of their intrusive ancestors will help them to hear the voices of their more recent ancestors - the actual Imperial Orc ancestors - more easily. It's not going to be perfect - but it will help the Imperial Orcs to build a new relationship with their dead. They don't want anything in return; they just want the Imperial Orcs to decide if they want to work with their mystagogues or not.
+
+All that would be required would be a [[statement of principle]] in the Imperial Orcs National Assembly, with a [[greater majority]], that makes the Illarawm offer known to the nation and urges those troubled by their ancestors to visit them in Southpine. Exactly what effect this would have is unclear but the Illarawm believe it will make it easier for the shaman of the Imperial Orcs to deal with the disruptive ancestors that sometimes plague them.
+
+## Cold Alpine Soil (Yerende)
+* The Yerende are having a little difficulty adapting to the conditions in their new alpine homes
+* They have approached the Guardian of the Broken Shield for assistance, offering ''orcsroot'' in return
+
+The smallest of the three ''septs'', the Yerende believe that the Druj conquest of Ossium was caused by jealously - that the Druj sought to strip their ancestors of their secrets and force them into slavery. It's known that in the recent past they were forbidden from learning the herbal arts, but they kept their knowledge alive in secret. Now they don't need to hide any more, they are beginning to cultivate new gardens. The Yerende also seem to be the most curious of the septs about their neighbours. They are known to trade fine herbs - both the magical healing herbs and mundane but unfamiliar medicinal or narcotic herbs brought from Ossium - for crystal mana which they apparently use to enchant their herb gardens.
+
+Living in [[Skarsind#Solvihill|Solvihill]], they've also begun to reach out to a [[bonesetter]] or two who are visiting the [[Broken_Shield_Guardian#House_of_the_Broken_Shield|House of the Broken Shield]]; they seem most interested in learning techniques to help their gardens prosper in the alpine territory that is now their home, so different to the warmer, marshy ground they are used to. Their enthusiasm for a proper garden has not been dampened; if anything they are even more eager to gain assistance in overcoming the problems of the mountain soil. They're ''especially'' keen to find ways to cultivate [[Cerulean Mazzarine]] - something the old soldiers who work at the House of the Broken Shield are familiar with.
+
+Six weeks after the Autumn Equinox, a small delegation of Yerende visit the House of the Broken Shield, with an offer. If the [[Broken Shield Guardian]] will have the House share their understanding of cultivating Cerulean Mazzarine in the mountains, the Yerende will provide them with some of their precious [[realmsroot|orcsroot]] harvest. It would be a simple exchange; a [[Call Winged Messenger|Winged Messenger]] sent to the Yerende indicating that the instruction has been given, and then at the Spring Equinox the Guardian would receive 8 doses of ''orcsroot''. The Yerende aren't prepared to share their secret lore for actually brewing orcsroot - not until they are part of the nation should that ever happen - but they believe that the herb is valuable enough it might be of use to the Guardian.
+### Roots Twined Together
+* There is a tenuous connection between the Yerende and the Great Forest Orcs
+In the past year, a few [[Navarr]] [[striding|stridings]] passing through Skarsind have had a handful of [[Great Forest Orcs]] among their number. The Yerende have spoken in the past of "''studying the lore of herbs and plants in peace in the Great Forest''", and there is some evidence that they descend from an offshoot of that [[the Barrens|Barrens]] sept. They are clearly separate however - but both septs apparently believe in the idea of the "Great Forest" - a single vast woodland that in the time before history stretched across most of what is now the Empire and the Mallum. The Yerende don't show any signs of sharing the Great Forest Orcs' peculiar belief in guardian tree spirits, however, nor their affinity for weirwood. yet it cannot be denied both septs have a way with plants - the one with trees and the other with humbler plants.
+
+Both septs seem surprised to encounter the other. By all accounts the orcs of each group treat the others akin to very distant cousins who live too far away to visit. But when the stridings leave Skarsind, a few Yerende go with them. Apparently, [[the Barrens]] orcs have suggested to the Ossium orcs that they may be happier in the south, in Therunin, and then eventually beneath the boughs of the [[The_Barrens#Heart_of_Peytaht|Heart of Peytaht]]. For now, there's no sign the Yerende as a whole are interested in moving ''yet again'', with the prospect of a ''third'' move at some point in the future. As time passes, however, the offer of the Great Forest Orcs - who they understand and who ask very little of them - might become more appealing.
+
+## Shacklebreakers Guests (Ethengraw)
+
+* The Wintermark Assembly welcomes heroes regardless of their origin
+* News of their statement of principle, and the creation of the runeforge, has reached the ears of the Ethengraw orcs in Skarsind
+Wintermark has enjoyed close relations with many Imperial Orcs in recent years, that began when some of the [[Imperial_Orcs_leadership#The_Legion|legions]] returned the [[Crown of Three Tears]] to the people of the Mark. At the time there was a great deal of jubilation, and some even shouted "''Four people, one nation''" - a reference to the traditional Wintermark celebration of the unity of the three traditions. The return of the Crown ultimately led to many deep and profound consequences, not least of which was the extraordinary decision by Wintermark to [[Relinquish_Skarsind|give up Skarsind]] so that the Imperial Orcs might at long last have a home - a [[Senate motion|motion]] pushed in the [[Imperial Senate]] by the elder statesman Thanmir Hrafnar.
+
+At the recent summit, Thanmir presented a [[statement of principle]] to the Wintermark Assembly saying that ''"No hero should find themselves unwelcome, whether human, orc, hylje, or daeva. All who share and reflect our nations beliefs and culture are welcome to find their place in the Mark."''. It was passed unanimously with a [[Judgement#Greater_Majority|greater majority]] and has met with widespread approval by most of the people of Wintermark. Winterfolk understand that what unites them is their desire never to bend before the storm, to follow the hero's tale to its end without fear, and never to compromise, even with themselves. If any living being can make such a claim, why shouldn't they stand and be counted with the Mark?
+
+Beyond broad agreement, the message seems to stir few leaves. The Wintermark Assembly say many things and most folk agree with them, but there is little the individual can do about it. Hylje joining the Mark sounds a fine idea in theory, but it seems like a problem for other people, the egregore maybe. Not that any of the hylje show the slightest interest in becoming Imperial citizens. Nobody really has the slightest what a daeva is or where to find one, they apparently live overseas somewhere very far away. And of course the Imperial Orcs are well liked in Wintermark, but they have their own nation so that doesn't really amount to much. There are more and more Thule about these days, and nobody really likes them very much, but that's not a problem either because the one word nobody ever used to describe the Thule was "heroic".
+
+But little pebbles bouncing can bring a whole mountainside down; and while the impact of the statement takes a little time to materialize, materialize it does. Albeit not from any expected direction.
+### The Forges of Pride
+* The Ethengraw wish to rebuild their pride by regaining their martial might
+Exactly how the Ethengraw ''sept'' heard of Thanmir's statement isn't clear - most likely from a trader passing through Gildenheim. Regardless, they heard of it, and by all accounts asked a few questions about who the Winterfolk were and what they were about. Then they sent some of their number to find out more. Travelling with a Navarr striding passing through Hercynia, they made their way to [[Hahnmark#Kalpaheim|Kalpaheim]] in [[Hahnmark]], and asked to speak to someone in charge. 
+
+Less than a dozen in number, the Ethengraw emissaries certainly looked like they knew how to handle themselves, but they're armed only with stout staves. Their leader introduces themselves as ''Amadi Thunderstone, Third of his line'', and says that he is a representative of the Ethengraw king. They want to know more about this offer to come to the ''Sept of the Tears'', this welcome that is being extended to any with the heart of a hero. What do the words of "Thanmir the Shacklebreaker" mean? The Ethengraw are by all accounts a proud people, who once ruled the whole of Ossium until they were brought low by Druj treachery. Their King wants to build a future for his people, but not if it requires them to compromise their pride, their knowledge of who they are. The Imperial Orcs are fine hosts, but if the Ethengraw are ever to stand on their own two feet, they need allies who can help the do that.
+
+They are ''very'' interested in what they see in Kalpaheim, however. When they learn by chance of the plans to build a [[runeforge]] in the northern mountains, that interest intensifies dramatically. The Ethengraw are mostly settled in [[Skarsind#Gildermark|Gildermark]], and they watched with interest as the [[Excavate Gildenheim Runeforge|ruins of the Gildenheim runeforge]] were excavated and sent west. Perhaps it was this that first sparked their interest in the neighbouring nation. As soon as the import of the runeforge is explained, they become extremely excited and over the next few weeks there is further communication between the orcs and the humans of the Mark. Because if the Winterfolk are genuine in their desire to welcome orcs among their number... then the Ethengraw are interested in testing that desire.
+
+### A Significant Ask
+* Adding mundane forges and workshops to the runeforge would increase the cost to construct it by 45 wains of mithril
+* The Ethengraw support for the runeforge would mean it would not count toward the upkeep of the Empire's runeforges (essentially it would have no upkeep cost)
+* If the runeforge were built with the additions suggested then the opportunity to build the Ethengraw Armoury-Smithies would be lost
+What has held the Ethengraw back from joining the Imperial Orcs is a determination that they will not join their ancestors with those of any Imperial sept or nation until they can stand as equals with weapons in their hands and armour on their backs. What is more, it is not enough to be ''given'' weapons, the Ethengraw are too proud to accept gifts. They are determined that they will not take up arms until they are able to fashion their own. The Imperial Orcs have been kind but the Ethengraw need more than kindness. They need forges, and armouries, and metal, and fire. There are apparently thousands of Ethengraw living in Skarsind, all eager to take back for themselves the warrior legacy of their ancestors, before the Druj drove them to their knees.
+
+The Ethengraw know a little about the skills of the weaponsmith and the armourer. They have not had a chance to put such skills into practice in generations but they understand what is involved. If the Winterfolk are prepared to build them the forges they need, their people will leave Skarsind and come to Hahnmark. They'll work the forges, and arm themselves, and study with the smiths and crafters of Wintermark, and when the time is right they'll ask the Winterfolk to judge them as equals. 
+
+Alternatively, if the Winterfolk are prepared to trust the Ethengraw, they could build additional forges for their use connected to the runeforge at Runegrott. If this were done, then the Ethengraw would come to Hahnmark. They would work at the runeforge - as equals alongside the Winterfolk smiths. They would tend the fires, and smelt metal, and beat iron into steel, and learn the secrets of the runes and then, again, in time, they'd stand alongside the Winterfolk and see if they were worthy to fight together against the darkness.
+
+The civil service estimate that these additions to the runeforge would increase the costs of that commission by 45 wains of mithril, 90 crowns of labour  costs, but not noticeably increase the time taken to complete the project. They could be commissioned alongside the runeforge itself. However, the enthusiastic support of several thousand would-be smiths would mean that the forge at Runegrott would not count for calculating the upkeep of the Empire's runeforges. It would require no money from the [[Imperial treasury]] to run, nor would it make other runeforges more expensive.
+
+### A First Step
+* The Ethengraw could not become part of Wintermark at the moment
+Once they have armed their people with weapons of their own construction - once their Pride is restored to them - the Ethengraw would be interested in determining if their sept could stand alongside the three traditions of the Wintermark, just as the Shacklebreaker invited them to do. They do ''not'' wish to become Steinr, or Kallavesi or Suaq -  but they are open to the idea that their sept might join the nation, standing and fighting alongside their new cousins if such a thing were possible.
+
+Emene and their people are clearly only vaguely aware of the problems of [[orc|orcs]] joining Imperial nations. While there seems to be little doubt that the Ethengraw have their own concept of [[heroism]], not much is known about their beliefs or how their culture might mesh with that of Wintermark. They are known to have a strong warrior tradition, but its also clear that centuries under the domination of the Druj have left them with a limited ability to follow those traditions. For all their talk of Pride, there's not much evidence they have a strong grasp of the Way - they are much closer to their ancestors than they are to any of the virtues. At the very least, people of all three traditions must be able to see the eastern ''sept'' as fellow Winterfolk before they could even consider becoming part of the nation. 
+
+When similar questions were raised in the [[Mournwold]], it took a Senate [[appraisal]] to make clear the obstacles that would need to be faced, and there were few useful suggestions about how the challenges could be overcome. But providing the orcs with the means to arm themselves is the first step towards their sept becoming part of Wintermark - assuming that they agree with the sentiment expressed by Thanmir Hrafnar.
+
+## Further Reading
+* [[Snow might fall]] - 384YE Winter Wind of Fortune relating to the Wintermark runeforge
+* [[Hard times come again no more]] - 383YE Winter Wind of Fortune introducing the septs to Skarsind

@@ -1,0 +1,82 @@
+---
+revision_id: 106571
+revision_date: 2023-12-29T17:04:48Z
+categories:
+- History
+- Wintermark
+aliases:
+- Wintermark_history
+---
+
+
+## Origins
+The [[People of the North|people of the north]], the Suaq and the Kallavesi, have lived in [[Sermersuaq]] and [[Kallavesa]] for longer than written records have existed. 
+
+The tales of the Suaq say that they are all descended from a single mother; the legendary Sermersuaq. Said to be so powerful that she could balance a kayak on the tips of three fingers, and kill a seal just by rapping it on the head with her knuckles, she rode out heavily pregnant from Sydanjaa on a [[Mundane beasts#Mammoths|mammoth]]. She gave birth to one thousand children, half of whom drowned themselves and returned as seals to provide food for the others. Some say Sermersuaq was an [[eternal]] and that all the Suaq share a trace of her bloodline while some others argue she is an allegory for the enduring and tenacious spirit of the Winterfolk. Some travelers claim that to this day eerie seal spirits who can take the form of humans still haunt the northern shores. They call them ''Hylje'' and consider them helpful, positive creatures who will aid a lost hunter or a sailor lost at sea.
+
+The Kallavesi are the cousins of the Suaq. The stories of the mystics say that in ancient times a flight of crows flew over the marshes from east to west, scattering feathers into the waters below. Where each feather landed, a Kallavesi emerged from the marshes. Some scholars point to the sinister ''[[Varushkan_Monster#Mora|mora]]'' of [[Varushka]] and wonder if there is some distant connection; others suggest a similar link to an eternal - perhaps one of the wise powers of the Winter realm.
+
+More recent scholars suggest that these stories - of seals and crows - are simply metaphors and that the forebears of the Kallavesi and the Suaq are the same people who would found the lands of the Ushka in the east, and eventually build the cities of Terunael in the south. No hard evidence one way or another has ever come to light, however.
+
+For a time the Suaq and the Kallavesi traded and fought with each other, with the other early humans living in the northern lands of what is today the Empire, and with the ancestors of the [[Jotun]]. At some points, however, they became isolated from the rest of humanity by a troll kingdom that held sway over the mountain passes of [[Hahnmark]] and [[Skarsind]].  The trolls warred with the humans and forced them further and further into the cold, bringing them to the desperate brink of extinction.
+
+Then the Steinr came. Their stories say that they fell from the heavens in a shower of falling stars. They claim that there is meteoric iron in their blood, and this is what gives them their indomitable spirit. Cousins to the [[Varushka History|Vard]] who conquered [[Varushka]], the Steinr chose to head westwards while the Vard pushed east.
+
+## The Troll Wars
+Caught between the [[orc|orcs]] and the trolls the situation for the Kallavesi and the Suaq had become increasingly desperate. Salvation came when a small band of Steinr warriors made a [[heroism|heroic]] trek through the mountains. They followed visionary dreams that led them to seek out the Suaq and the Kallavesi, and the promise of a land to call their own. 
+
+A historic meeting between the warriors, the hunters, and the mystics led to a bold plan to defeat the trolls. The Suaq hunters and the Steinr warriors launched a coordinated campaign to harry their foes from north and south. At the height of the war, the Kallavesi performed a great ritual that collapsed the glaciers of the mountains onto the troll armies, sealing them forever in a frozen underworld.
+
+After the war a victory celebration was held in Hahnmark. A traditional Steinr grand moot – a Witan – was called, where three representatives of each people spoke on the nature of their achievement and of what must be done next to survive. It is said that amidst the speeches the leaders of the Suaq, the Kallavesi and the Steinr each shed a single tear for the trolls, and that these three tears froze in an instant, becoming clear gems. These gems were collected by the most cunning of the Suaq hunters and set in a crown forged from the torcs and rings of the fallen heroes of the three people. The wisest of the Kallavesi mystics crowned wily Ulmo of the Suaq King of the Three Tears, ruler of a new nation, Wintermark. The [[Crown of Three Tears|crown]] was passed from monarch to monarch through the history of Wintermark; when a king or queen died the Witan would select another to take their place.
+
+## Wintermark
+The three people joined Hahnmark. Sermersuaq, and Kallavesa into a single nation. The early decades were not without turmoil and conflict. The western [[orc|orcs]] saw the opportunity for conquest, and a bitter war was fought that lasted nearly three decades until a peace was negotiated by the Kallavesi Queen Aku Millasdottir. War with the Jotun became a constant threat to the people of the north, with the orcs ever ready to fight their human neighbours.
+
+Occasionally, the Thule orcs of [[Otkodov]] would attempt to push down into Sermersuaq through the Silver Peaks, but the united peoples were able to hold off their expeditionary forces. The northern orcs were much more successful in what is today Skarsind; for centuries the Winterfolk and the Thule fought back and forth over the north-eastern territory, neither side able to conclusively conquer the alpine wilderness.
+
+The Winterfolk did not solely fight with the orcs; there were several clashes with the [[Navarr]] and the people of Varushka. When the [[the Marches|Marchers]] claimed their lands south of Hahnmark, the border became the site of regular conflict with raiders from both sides eager to claim the wealth of the other nation. Over time, however, these conflicts became less common and less desperate.
+.
+
+## Joining the Empire
+By the time of the First Empress the Winterfolk had learnt the strength that comes from standing together. Popular stories claim that King Alof Bearning - the last King of Wintermark - was known to be a confidant and friend to the Empress. When the Empress spoke of her vision of one people united in defence of humanity, he was amongst her first and most enthusiastic supporters.
+
+Historians who look closer into the matter disagree with this straightforward, reassuring view of the relationship between King Alof and the First Empress. Before his coronation, the mystics explored a powerful vision that suggested the next ruler would be called on to make a decision vital to the future of Wintermark. Alof was chosen for his swift wits, clever tongue and cautious demeanour.  Only six months after his coronation the First Empress held her historic meeting at Anvil and Alof attended. While he found the Empress' vision appealing he declined the offer to forge an Empire. 
+
+According to his contemporaries, he saw little benefit in an alliance with the distant [[Highguard|Highborn]]. Another story suggests that a bitter argument between [[the Marches|Marchers]] and [[Dawn|Dawnish]] attendees (or between [[Urizen]] and [[Navarr]] – sources give different versions) caused him to believe that the Empire would fail because it would be unable to achieve unity. The King was no fool however – he knew that if the Empress did unite the Bay of Catazar, even for a short time, she would be irresistible. He returned to [[Hahnmark#Kalpaheim|Kalpaheim]] full of uncertainty and sought the advice of his counsellors. In the end, the last king of Wintermark was persuaded that the grand alliance might in fact work, prompted in part by the advice of bold, cunning, and wise representatives of the three traditions, and the diplomacy of a Highborn [[Highguard_religious_beliefs#Wayfarers|wayfarer]] send by the First Empress. 
+
+When the nation finally joined the Empire, King Alof Bearning returned the crown to the Kallavesi mystics. It became not only a symbol for the unity of the three peoples of Wintermark, but for their union with the newborn Empire. The Kallavesi gave the crown to the Winterfolk hero they considered to best exemplify the virtues of Wintermark, until 373YE when the last wearer Inga Suvvisdottir was slain during the fall of [[Skarsind]]. The crown was not recovered until 379YE, with the aid of the [[Imperial Orcs]].
+
+Alof helped lay the groundwork for the [[Imperial Senate]], and was instrumental in ensuring that the leaders of the Empire represented the people, rather than governed them. He ensured that the traditions of the Winterfolk were the model for Empire and the bedrock on which it was built, and it is certainly true that both the Senate and the Imperial legal system are based on those traditions.
+
+## Building the Empire
+The Winterfolk were enthusiastic supporters of the Empire. They worked closely with [[Emperor Giovanni]] to lay the foundations for the [[Imperial Senate]], and to define the basis for Imperial Law. Their armies fought alongside those of [[the Marches]], [[Varushka]], and [[the Brass Coast]] to secure the western and northern borders of the Empire. Their magicians helped to shape the [[Imperial Conclave]], arguing for the same principles of debate, diplomacy, and democracy that made the Witan so successful. 
+
+Wintermark has given three [[the Throne|Thrones]] to the Empire. First [[Emperor Guntherm|Guntherm the Bold]], then [[Empress Mariika|Mariika the Cunning]], and most recently the tragic [[Empress Britta]], the bright flame who began the period of [[Imperial_history#Resurgence|resurgence]] that continues to this day.
+
+## Recent History
+### War with the Thule
+In 373YE a savage blizzard swept down out of the mountains of [[Skarsind]], accompanied by an army of [[Thule]] barbarians. Using powerful Winter rituals to reinforce their armies with hordes of walking corpses created from battlefield dead, they conquered most of the territory. Some small pockets of resistance remained - mostly based around the mines and halls to the north-east - but the situation looked increasingly desperate - both the Crown of Three Tears and the young Empress Britta were lost trying to defend Skarsind from the brutal northern orcs. It was not until four years later in 377YE that Imperial forces were able to push into Skarsind and drive the Thule forces out of the territory and reclaim it for the Empire and for Wintermark.
+
+In 378YE, the Thule attacked again, sending armies from [[Otkodov]] to [[378YE_Summer_Solstice_winds_of_war#Thunder_in_the_Silver_Peaks|invade the Silver Peaks]], in an attempt to create a beach head in [[Sermersuaq]]. Barbarian and Imperial forces were well matched, but the advantage appeared to lie with the Thule as they [[378YE_Autumn_Equinox_winds_of_war#Blood_on_the_Stonefields|slowly pushed the defenders back]].
+
+During the Autumn Equinox 378YE, the Battle of Ikka's Tears took place on the cold plains east of the glacier. The Thule had sent a large force of elite warriors, accompanied by a massive warbeast, to steal an artefact of unknown power from the [[#Face_of_Ikka|Face of Ikka]]. They were intercepted by a warband of the Empire's heroes using the [[Sentinel Gate]]. This powerful barbarian army inflicted a painful defeat on the Imperial heroes, perhaps the most significant since the death of [[Empress Britta]] two years previously.
+
+In Summer 379YE a delegation of Thule attended the Anvil summit and brokered a peace treaty with the Empire which the [[Imperial Senate]] eventually [[Accept Thule peace treaty|accepted]]. This required the [[Sermersuaq#Silver_Peaks|Silver Peaks]] be [[Powers_of_the_Imperial_Senate#Concedence|ceded]] to the Thule, in return for [[Karsk#Recent History|land surrendered to the Empire elsewhere]]. With heavy hearts, the defenders of the northern mountains withdrew and allowed the Thule to take the [[Stonefield Ice Caves]]. This decision rankles with many Winterfolk, needless to say.
+
+### The Curse of Tradition
+Beginning officially in Winter 378YE, and continuing through until the Spring Equinox 379YE, the folk of Wintermark fell under [[379YE_Spring_Equinox_winds_of_fortune#The_Bane_of_Tradition|a malign curse]] that threatened to tear them apart. The three peoples of Wintermark were plagued by internal strife with no clear origin. The eerie influence caused some Suaq, Kallavesi and Steinr to factionalise - arguments between members of differing traditions became commonplace, and people increasingly sought the company of those who shared their cultural beliefs. When surrounded only by members of their own tradition, people reported feeling more comfortable and more confident.
+
+The situation slowly worsened. When they worked together, members of the same tradition feel increasingly confident, stronger, more willing to take risks and trust that their fellows will support them. When working with members of the other two traditions, however, people began to feel less sure of themselves, less confident, suspicious of their allies from different traditions. Arguments became common; tempers frayed, enduring friendships were strained almost to breaking point, and there was even some (limited) violence. The growing rift caused serious tension within the Wintermark armies with some soldiers actively forming banners only with members of their own tradition, slow to respond to the orders of commanders from different traditions. 
+
+In the end, the heroes of Wintermark and their allies were able to trace the source of the curse to one of the dragons of the Thule - and discovered that the wicked malediction was being worked with the [[Crown of Three Tears]] itself. Eventually the heroes of Wintermark, with assistance from the Imperial Orcs, engaged the forces of the dragon responsible for the curse. The fighting was fierce, but the Crown was recovered. Members of the [[Imperial Orcs groups#Irontide|Irontide]] and [[Imperial Orcs groups#Skywise|Skywise]] legions returned that potent symbol of Wintermark unity to the nation, but only after Winterfolk proved its [[worth]] to the Imperial Orcs. The Kallavesi mystics chose Erkenbrand of Tyrsholm as the latest champion of Wintermark, and the seeds were sown for the great gift that was to follow.
+
+### The Relinquishment of Skarsind
+At the beginning of 379YE, the Wintermark people took the historic decision to bequeath that land to the [[Imperial Orcs]]. A [[Relinquish_Skarsind|motion]] was brought before the [[Imperial Senate]] to relinquish Skarsind so that it could be reassigned to the Imperial Orcs. The motion passed the Senate but could not be put into force without [[The_Throne#Ratification|ratification]] by [[The Throne]]. This hurdle too was crossed when the Imperial Orcs acquired the [[The_Throne#Imperial_Favour|Imperial favour]] of [[Empress Britta]] which granted the holder the ability to ratify a decision of the Imperial Senate. At that point Skarsind became an Imperial Orc territory.
+### Dogri Thulebane
+Many existing residents of the [[territory]] resisted the urge to give up their ancestral homeland. Their protest found leadership under the influence of a charismatic Thane, Dogri Thulebane, a Wintermark hero who had fought the Thule all his life. Dogri [[Falcon_in_winter|claimed]] the old, isolated fort of Crow's Keep in [[Skarsind#Crow.E2.80.99s_Ridge|the north]], an ideal position from which to watch both [[Otkodov]] and the Thule-dominated mountains of [[Sermersuaq#Silver_Peaks|Silver Peaks]] in [[Sermersuaq]]. After a year of arguments, the Empire was forced to act on news that Dogri [[The_widening_gyre|planned to raise an army]] to take the fight to the Thule in breach of the existing [[Accept_Thule_peace_treaty|peace treaty]]. Shortly before the Spring Equinox 381YE the [[Army_qualities#Cruel|cruel]] [[Varushka|Varushkan]] army, the Iron Helms, [[381YE_Spring_Equinox_winds_of_war#Wolf_in_the_Fold_.28Skarsind.29|conquered]] Crows Keep and captured Dogri. The Thulebane was taken to Anvil where he was tried and ultimately sentenced to be executed. Before the sentence could be carried out, several Wintermark heroes arranged for him to participate in a deadly skirmish against the [[Grendel]] and he died fighting the enemies of the Empire. Regardless, his death broke the spirit of those Wintermarkers who had hoped to hang on in Skarsind and most left soon after.
+
+## More Wintermark History
+* [[Crown of Three Tears]]
+* [[People of the North]]
+* [[Apaay Ukiuking]]
+

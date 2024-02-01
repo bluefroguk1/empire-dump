@@ -1,0 +1,118 @@
+---
+revision_id: 103735
+revision_date: 2023-07-24T20:48:51Z
+categories:
+- Winds of Fortune
+- 385YE Summer
+- Recent History
+aliases:
+- Concord_and_accord
+---
+
+
+"I suppose... the ideal set-up would be for the Conclave to have the power of veto over a Throne appointment," interjected Allisto.
+
+The other four stared at him with an assortment of expressions. They'd been discussing the news from Anvil, and the recent Declarations of Concord. The topic had strayed to the Throne and what its role actually was in Conclave now. Allisto had listened carefully, poured himself another glass of wine, and decided he should share his own thoughts on the matter. As his first foray into having a political opinion, it could be going better.
+
+"It's just..." He paused, reordering his thoughts, and then soldiered bravely on despite the fact Jacern was trying to catch his eye while shaking her head vigorously. "Well obviously the Synod has the power to say "no" to a Throne, and given that the Conclave is just as important it stands to reason..."
+
+"It's a completely different matter, and you clearly know nothing," interrupted Incantio. "The Synod gets a veto because it's a Constitutional vote, not because it's a motion to appoint a Throne."
+
+Allisto ducked his head and blushed beetroot red. But something inside him refused to back down from Incantio. Not this time.
+
+"Well then it's obvious," he said, looking in Incantio's direction but not actually looking ''at'' him. "The Conclave should ''also'' have the power of the veto over Constitutional matters. It could be a new form of declaration."
+
+"Declaration of Fucking with the Senate?" Joked Patricia. She rarely passed up an opportunity to needle Incantio, and made few bones about the fact she considered him a pompous ass.
+
+"Don't encourage him!" Incantio snapped. "We're trying to have a serious discussion here about the implications of the Imperial Magus'..."
+
+"Why ''doesn't'' the Conclave have a veto, though?" asked Patricia mildly, eyes twinkling at Incantio's growing frustration. "It's like the Constitution was written by people who didn't think magicians were as important as priests. One might argue."
+
+Incantio opened his mouth to rebut his colleague's point when he was again interrupted, this time by Barto, who was by this time several glasses ahead of the rest of the coterie.
+
+"I've got a great idea!" he slurred, banging his fist on the table. "Let's get the Senate to make the Throne a Conclave position! We can appoint it by Candidacy! All it'd need was a simple major... majority! And best of all the Synod couldn't veto! That'd show them!"
+
+He burped thunderously, and sank back into his seat, the triumphant expression of a drunk who thinks he's said something insightful on his round, red face.
+
+"Paragons preserve us!" Incantio lost his grip on his temper at last. "All I wanted was an evening of political discourse. Something to take our minds off this damn Vyig business and all those militia everywhere! Was that too much to ask? A little salon like they have in Holberg, with some nice wine, and some cake, and... But no! No! I have to be stuck in a coven with the most... with the stupidest.. with the biggest... I give up! I really do!"
+
+He threw his papers on the table and stormed out. Even Patricia had to admit it was a finely-done flounce. The other three sat in slightly guilty silence, listening to Barto snore. After a moment or two, Jacern picked up the discarded notes and skimmed through them.
+
+"Uh-oh," she said after a few minutes. "The Celestial Arch apparently want people to come and talk to them about magical crime. That... bodes poorly I think?"
+
+"It depends," said Patricia laconically. "There's a very small chance they might come down in favour of it, and that'd make our lives significantly easier!"
+
+
+## Overview
+The Summer Solstice marks the second anniversary of the [[Crowned_in_rose_and_heather#Constitutional_Ruling|disappearance]] of [[Empress Lisabetta|Imperatrix Lisabetta]] and her [[Known_exemplars#Juha_the_Cave_Spider|husband]]. Over the last several seasons there have been multiple votes intended to appoint a new [[the Throne|Throne]]. [[385YE_Spring_Equinox_Senate_sessions#The_Throne|The most recent]] election saw four candidates stand: Bohemond De Rondell, Chiara i Zayden i Riqueza, Sir Claude Vyse Videre, and Veikko Bondforger, but so far there has been no winner. None of the candidates received the [[Senate_motion#Constitutional_Vote|two-thirds of available votes]] required to [[The_Throne#Appointment|claim the title]]. Presumably the search will continue.
+
+While the actual job of appointing a Throne lies with the [[Imperial Senate]], the magicians of the [[Imperial Conclave|Conclave]] are also taking note. There appears to be a desire among the orders to ensure that whoever is appointed has the best interests of Imperial magicians at heart. Perhaps unsurprisingly, there has been no interest in the [[I_knew_you_were_trouble#Sorin|Gauntlet of Fangs]] offered by the [[eternal]] [[Sorin]]. However during the Spring Equinox, a [[Declaration]] of [[Concord]] raised by the [[Imperial Magus]] stated unequivocally that anyone who wishes to follow the [[Empress Lisabetta|Imperatrix]] to the highest office in the land must engage with the Conclave. The [[Conclave order|orders]] supported that declaration, and in due course it was [[Concord#Resolution|shared with every Imperial magician]], prompting considerable discussion.
+
+
+## Of One Accord
+* The magicians of the Empire agree that the next Throne should show they are prepared to work with the Imperial Conclave
+The declaration by Æsa Sigeling states that the Throne  "''should be fully engaged with all bodies of state''" and that "'' any candidates who have not made the effort to engage with Conclave should not be supported''". The response has been a quiet, but almost universal, agreement among Imperial magicians. The Conclave is a body of state equal to the Senate, [[Imperial Synod|Synod]], and [[Imperial Military Council|Military Council]] in significance. It [[Imperial_Conclave|plays an important role]] in the politics of the Empire, represents and serves the interests of Imperial wizards, and is worthy of respect accordingly. There are magicians in all walks of life who look to the Conclave for guidance in matters related to magic of all kinds - and while nobody expects that the Throne must ''be'' a magician they should publicly acknowledge the importance of Conclave.
+
+In 383YE, at the Autumn Equinox, the Conclave endorsed a raft of candidates, but of those they named, only [[383YE_Autumn_Equinox_Conclave_sessions#Concord:_Endorse_Chiara_i_Zayden_i_Riqueza|Chiara i Zayden i Riqueza]] still appears to be in the running (if the others were to resume their campaign for the Throne, they would also be assumed to be approved). At the most recent summit Conclave had the opportunity to question one of the other candidates, [[384YE_Winter_Solstice_Conclave_sessions#Concord:_Question_Claude_Videre|Sir Claude Vyse Videre]], and by voting through the Concord has provided their [[#Approval|approval]] as a result. The other candidates appear to have not yet engaged with the Conclave, which may be what has provoked the declaration by the Imperial Magus.
+
+In both cases, the declarations fall short of a full-throated endorsement, but the Conclave has issued clear approval of their candidacy. Which raise the rather obvious question of what the implications might have been if they had not felt that way? And what of those candidates who have not taken the time to speak with Conclave? The clear inference of the Magus' declaration is that magicians should not support  any candidate who has ''not made the effort to engage with Conclave.''
+
+## Engaging with the Conclave
+* Anyone appointed to the Throne who does not have the prior approval of the Conclave will likewise lack the support of the Empire's magicians
+* Conclave can use a suitably worded Declaration of Concord to approve, endorse or denounce a candidate
+* A declaration in favour or against will not have any effect if passed after a candidate attains the Throne
+Æsa Sigeling, it seems, has kicked a hornet's nest. The question of the Conclave's role in the appointment of a Throne is openly discussed by magicians across the Empire. Due the response to Æsa Sigeling's declaration, going forward, the assumption of the Empire's magicians will be that anyone appointed to the Throne does not have the support of the Conclave, unless it has been explicitly given.
+
+As a result, the assumption of many Imperial magicians will be that if a Throne is appointed without any expression of opinion from the Conclave, they do not have their support. As a result, Imperial magicians will be less likely to listen to the Throne when they [[The Throne#Address the Empire|speak to the Empire]], disinclined to support their agenda, and suspicious of the Senate's attitudes toward the Conclave.
+
+The Imperial Magus' declaration calls for candidates to proactively engage with the Conclave as part of their campaign. Attempts to retroactively express support will be seen by some as mere political nicety - any Declaration of Concord passed after a candidate attains the Throne will not have any effect.
+
+The Conclave can change these views with a suitably worded Declaration of Concord to indicate their approval, endorsement or denunciation of a candidate. 
+
+
+### Support
+* Conclave can use a Declaration of Concord to demonstrate their support of a single candidate for Throne
+* Any number of candidates can enjoy the support of the Conclave at once
+* A number of citizens enjoy the current support of the Conclave
+The Conclave could show their approval for a named Throne candidate with a clearly worded Declaration of Concord. The Declaration should include wording to the effect that "Conclave approves the candidacy of (named candidate) for the Throne" to avoid any doubt about the Conclave's intent. If such a Declaration is upheld, it will have no direct influence on the political machinery needed to elect the Throne - that is the business of the Senate.
+
+What it will do however is let the magicians of the Empire know that the candidate is considered engaged with the Conclave, and trusted to treat fairly with that body of state. If one of those candidates eventually claims the Throne, the wording of the Conclave's declaration will go a long way toward determining the initial attitudes of Imperial magicians towards their reign. Approval will ensure that there will be no negative repercussions if that citizen ascends to the Throne next. 
+
+Obviously the Conclave may demonstrate its approval for any or all Throne candidates; indeed Imperial magicians expect as much. If one of those candidates eventually claims the Throne, the wording of the Conclave's declaration will go a long way toward determining the initial attitudes of Imperial magicians towards their reign.
+
+The Conclave have previously passed declarations of concord expressing support for Atte Arrowtongue, Brendan Brackensong, Chiara i Zayden i Riqueza, Skywise Fal, Sir Claude Vyse Videre, Yulia Kasimirova Voronov, Vahne Korpikoten, and Vincente i Zayden i Guerra. 
+
+
+### Preference
+* Conclave can use a Declaration of Concord to publicly throw their support behind a ''single'' candidate
+* Only a single candidate can be the preferred candidate of the Conclave at one time
+* No citizen is currently the preferred candidate of the Conclave
+A number of magicians have pointed out that the Conclave could go further than the Imperial Magus has suggested if they were so inclined. They could use a clearly worded Declaration of Concord to indicate their preference for a single named candidate for the Throne. The Declaration should include wording to the effect that "Conclave prefers the candidacy of (named candidate) for the Throne above all other candidates" to avoid any doubt about the Conclave's intent.
+
+Like an expression of support, expressing their preference would not affect the legal process of electing a Throne. However it would indicate a clear choice for one candidate above all others. The candidate would gain the the support of the Conclave by default, but more than that, magicians across the Empire would look forward to their accession if they were enthroned by the Senate. If the expression of preference was an emphatic positive statement extolling the virtues of the candidate, it would lead to unexpected support, and [[opportunity|opportunities]] in the event that the candidate were successful.
+
+Only one citizen can sit the Throne, so it is not possible for the Conclave to endorse more than one candidate for the title. If the Conclave passes a second Declaration of Concord in preference for a candidate, then any previously expression of preference would no longer provide additional benefits beyond indicating the Conclave's support.
+
+### Denunciation
+* Conclave could use a Declaration of Concord to indicate that one or more candidate is unacceptable to the Conclave
+
+Alternatively, the Conclave may denounce a Throne candidate, again using a clearly worded Declaration of Concord. The Declaration should include wording to the effect that "Conclave denounces (named candidate), their candidacy for the Throne is unacceptable to the Conclave" to avoid any doubt about the Conclave's intent.
+
+In this case, if that candidate then goes on to be appointed as Throne, the initial attitude of a significant number of Imperial magicians towards their reign will be negative and actively hostile. Responses will vary, those from the same nation as the Throne are the least likely to see them in a negative light. But Imperial magicians will start from the default assumption that the Throne cannot be trusted to support the Conclave, and does not have the interests of Imperial magicians at heart. This negative perception will also extend to any [[Imperial title]] appointed by the Throne through their [[The_Throne#Declaration of Candidacy|Declaration of Candidacy]]. Furthermore, the fact that the Senate has ignored the expressed will of the Conclave in this manner will foster a perception that Senators do not take the Conclave seriously, potentially reducing cooperation from Imperial magicians.
+
+The Conclave could denounce more than one candidate for the Throne if they so chose. Equally they could change their mind later - a subsequent Declaration of Concord approving a candidate, would replace an earlier denunciation (and vice versa). However any subsequent endorsement of a candidate who have been denounced would fail to provide meaningful benefits in the event that they won. Too many magicians would remember the earlier denunciation, there might not be any hostility to their reign but there would be too much lingering suspicion for any enthusiasm to catch.
+
+## Stepping Back
+* The Conclave might choose to step back from its earlier decision
+* If they did, declarations of Concord related to political matters would be much less likely to create an effect
+Not every Imperial magician has responded positively to the Imperial Magus' declaration. Some believe that it is not the Conclave's business who the Senate chooses to appoint as Throne. Others argue that it is the Synod, not the Conclave, that  should assess the fitness of the Throne to lead. There are also some who argue that the Conclave risks sowing dissent, undermining the key power of the Throne Æsa Sigeling identifies - that of drawing together and uniting the five houses of power. There is also the serious risk that they might do so through inaction rather than intent. These voices are in the minority, but they are still quite vocal.
+
+A second Concord could be used to step back from the Imperial Magus' declaration. It would need to state unequivocally that Conclave should in fact ''not'' participate in the appointment of a Throne, and that Imperial magicians should look to the Senate alone on this matter. If such a declaration were passed, then the [[#Approval|approval]] or [[#Disapproval|disapproval]] of the Conclave would be irrelevant. Further attempts to intervene in or influence the Throne election would have no effect, at least until after the reign of the next Throne concluded. Passing such a Concord, however, would significantly undermine the power of the Declaration of Concord, and the Imperial Magus in particular. For the next year after such a Declaration was passed, Concords related to political matters would be much less likely to create a noticeable effect. Furthermore, a Declaration of Concord raised by the Imperial Magus would be very unlikely to create an effect regardless of the matters addressed.
+
+This ability to "step back" remains available to the Conclave until the Imperial Senate next appoints a Throne, after which it will become irrelevant.
+
+## A Beacon to Her People
+* Some magicians suggest that Imperial magicians could influence the Throne by becoming more engaged in the political arena
+One other faction of Imperial magicians points out that there is another  way to ensure that the Throne understands how Conclave works, respects the [[Conclave order|orders]], and understands the importance of the work done by Imperial magicians. Anyone with the power of [[Senate_motion#Proposal|proposal]] can present a candidate for Throne when an election is called - meaning in practice any [[Senator]] and the [[Conscience of the Senate]] can endorse someone. There are over thirty Senators, but only four candidates. So, surely, any citizen who feels that the Throne must respect Conclave and support Imperial magicians would be better served standing as a candidate themselves? The more politically savvy among this faction point out that the Imperatrix herself did not participate in the early rounds of voting during the last search for a Throne, and still went on to win the crown.
+
+Even if one does not intend to stand oneself, the decision of who gets the Imperial Crown (now that it is [[385YE_Spring_Equinox_Conclave_sessions#License:_Imperial_Crown|definitely not being destroyed]]) is made by the Senate, and the Senators are ultimately elected by and represent the people of their nation. Conclave might influence the appointment of the Throne by encouraging its members to actively lobby their senators to support the candidate who will be best for them, and for the magicians of the Empire.

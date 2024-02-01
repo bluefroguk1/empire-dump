@@ -1,0 +1,96 @@
+---
+revision_id: 105262
+revision_date: 2023-08-31T22:15:08Z
+categories:
+- Winds of Fortune
+- 385YE Summer
+- Recent History
+---
+
+
+"Retribution is about much more than just vengeance. Vengeance is a really important part of it, you can't have retribution without revenge. But retribution is much more than that. Vengeance is about harming other people, it's a terrible idea to encourage everyone to do that. Just look at the Faraden. Retribution is about what you can ''gain'' from exacting your revenge. It's completely positive - it encourages you to find ways to benefit from taking revenge on other people."
+
+Graime smiled disarmingly at the Grey Pilgrim, who couldn't help but look pained. "You won't be able to say it's one of the Seven Virtues. You ''definitely'' can't say that..." he trailed off, unsure of what to say beyond that.
+
+Graime nodded dismissively. "Oh that's fine - we know that already. We don't mind changing the names - we'll just say they are..." he paused for a moment, to create a moment of expectation. "What was it the Doctrines say? 'Other qualities'. We'll say they're one of the other qualities. Hmm, that's not very catchy, it's going to be hard to sell that. We might need to come up with a better name for it than that. But that's just details, we know we can't call them virtues. Nobody is going to do that."
+
+"It's not about what you call things" protested the priest. "Virtue is about actions as well as words. If you create auras of the malign forces, it's a very serious crime. You can be executed for it!"
+
+Graime smiled knowingly at his fellow priest. "I don't think you need to worry about that." he grinned. "I solemly promise you, none of my fellow orcs are going to create any auras of retribution..."
+
+
+## Overview
+Under the leadership of the Salt Lord Kaliact, the [[Grendel]] of [[Spiral]] have flipped their allegiance to the Empire, [[A tide in the affairs|handing the territory]] to the [[Wolves of War]] in exchange for the legal right to join the Empire as citizens of [[the League]]. The [[egregore|egregores]] of the four great cities, Harlequin and Innamorata, have been speaking with these Grendel to find out more about them, with a view to deciding whether or not to permit them to join, just as they would with any individual who sought to join the League (at least in theory).
+
+However at the same time a number of curious priests have made an effort to speak with these newcomers to find out more about their faith. It soon transpires that while the Grendel follow seven virtues, they are not the [[The_Doctrines_of_the_Faith#The_Doctrine_of_Seven|seven virtues]] that form part of [[the Doctrines of the Faith]]. There are important differences - differences that raise some rather important questions for the [[Imperial Synod]].
+
+## The Grendel Beliefs
+* The Apulian Orcs endorse three Imperial virtues, Ambition, Prosperity, and Vigilance
+* They endorse four other virtues they call audacity, cunning, fidelity, retribution
+* At least one of these, retribution, looks very much like the malign spiritual presence of Vengeance
+* They are asking the Imperial Synod to issue rulings on these matters at this summit
+
+The Apulian Orcs do not currently follow the Way, but they seem cheerful at the prospect of embracing it, if it means they can join the League. They do believe in the pursuit of Virtue and they do believe it can help you cross [[Imperial_Orcs_religious_beliefs#The_Howling_Abyss|the Howling Abyss]]. But they embrace some different virtues than the Empire, which they call audacity, cunning, fidelity and retribution. It is possible that some of these ideals could be like [[honesty]], [[glory]], [[heroism]], or [[Love in Dawn|love]] - important qualities found throughout the Empire but not actual Virtues. Or they might just be another name for one of the Seven. At least one of them looks remarkably like [[Malign_spiritual_presences#Vengeance|Vengeance]] - one of the [[Malign_spiritual_presences|malign spiritual forces]] that is forbidden in the Empire.
+
+The Apulians are eager to join the Empire, but keen to avoid breaking the law or bringing any religious baggage with them that will not be acceptable in the Empire. Ideally, they would like a ruling on these matters now that they are joining, rather than wait until someone gets into trouble for saying the wrong thing. Thus their priests, their ''questioners'', have petitioned the Imperial Synod to provide a ruling on each of these four other qualities that they would normally encourage their patrons to follow.
+
+## Novel Qualities
+* Only the Imperial Synod can decide how these novel qualities should be regarded
+* The General Assembly could identify one of these beliefs as noble qualities like honesty or glory
+* Any Virtue assembly could recognise one of these spiritual forces as a true expression of their Virtue
+* If two assemblies recognise the same Virtue, the matter could only be definitively settled by vote of the General Assembly
+* The General Assembly could damn one of these ideals as malign spiritual presences
+* The General Assembly could in theory identify one or more of these qualities as true Virtues, although that would require a major change of doctrine
+Audacity, cunning, fidelity and retribution are qualities that the Grendel see as virtues - the equal of [[Ambition]], [[Vigilance]], and [[Prosperity]]. The Imperial Synod could decide they are noble qualities that ''"may benefit humanity, but lend no aid through the passage of death to rebirth"'', to quote the Doctrine of Seven. The [[General Assembly]] could use a [[statement of principle]] to recognise one of these qualities as a noble ideal the equivalent of prized national ideals like heroism or honesty. If they wanted to recognise more than one ideal, they would need a separate judgement for each quality, and as always whether the judgement receives a [[greater majority]] will be very relevant.
+
+That decision would put them on an equal footing with love, glory or honesty. The difference between that and one of the Seven Virtues is important, and it would mean that Apulian Orc priests couldn't claim these ideals as Virtues without risking condemnation for [[Religious_crime#Blasphemy|blasphemy]]. But the practical difference are subtle and it is usually fine to extol these laudable qualities, even urging people to embrace them in [[mandate|mandates]]. It would mean the Apulian Orcs were free to pursue these ideals, provided they stopped short of calling them actual Virtues then everything should be fine. The Apulians won't call them virtures, but other than that they will continue to promote any of these qualities that the Synod recognises as acceptable, just as they do now. Indeed, it would be acceptable for ''any'' Imperial citizen to promote these qualities, just as it is acceptable for any Imperial citizen to speak in favour of honesty, heroism, glory, or love.
+
+It is also possible that one or more of these ideals is simply another name for one of the Seven Virtues. Any [[virtue assembly]] could use a statement of principle to claim one of these qualities as a true expression of their Virtue. In effect they would be saying that the ideal was simply another way of thinking and talking about the Imperial Virtue. If that were the case, the Apulian Orcs should treat the ideal like any of the other Virtues. Ideally they would use the Imperial names for them... to avoid confusion if nothing else. But if they are Virtues by another name, it is important that that is called out and recognised so that everyone can understand them for what they are. If this happens, it will encourage the spread of these ideals through [[the League]] and potentially even further as people embrace this new way of looking at the virtue in question.
+
+Sadly, it is also possible that these qualities are simply malign spiritual forces - pernicious "false virtues" that arguably lead mortals astray. If that is the case, then it is even more important to identify that and make it clear. The General Assembly could use a statement of principle to damn a single one of these qualities as a false virtue that it is illegal to spread. If this happens, the Apulian Orcs will be forced to cease actively promoting these ideals in the way they do now, some might do so in private of course, but even if that does happen, their influence and spread will be heavily curtailed.
+
+In theory the General Assembly could recognise one of these ideals as an actual eighth Virtue, the equal of the other Seven. That would require at least one [[change of doctrine]], which could only pass if it received a [[greater majority]]. The Apulian Orcs are not anticipating that to happen and have not asked for it, and the repercussions of doing so would be extremely far reaching, causing turmoil among the faithful across the Empire and beyond.
+
+There is no requirement for the Synod to treat all four of these qualities in the same way - it may be that one is a laudable ideal, while another is not. Two of them might be false virtues while the other two are fine for example. They will each need to be considered on their merits. What little is known about them is laid out below, priests who wish to know more would be wise to speak with an Apulian Orc, ideally one of their questioners, on the subject.
+
+A statement of principle that achieves a [[greater majority]] will likely prompt a mandate which, if it is enacted, will definitively answer the question of how one of these qualities should be viewed. In the case of competing statements of principle, there may be multiple rival mandates created. A statement of principle that achieves significant support without a greater majority will fuel discussion and it is not impossible it might also have some kind of impact, especially in the absence of a greater majority statement.
+### Audacity
+* Power is a crown, learn to put it on
+Audacity is considered to be one of the most important virtues by the Apulian Orcs. Their understanding of this ideal seems superficially similar to the Imperial notion of Courage but is far removed from bravery in battle. Indeed the Grendel tend to view bravery as an aberration. While they understand that it maybe necessary to fight when needed, those who take unwise risks in battle are considered to be fools who put their fate in the hands of chance. This virtue is about personal self-belief, about [https://en.wikipedia.org/wiki/Chutzpah hutzpah], which the Apulian Orcs view as entirely positive. They are shameless about seeking what they want, and they consider it important to act like they have a right to it.
+
+At first glance Audacity seems to be linked to [[Courage]] - but the Grendel are adamant that it has nothing to do with standing up for yourself in the face of adversity. One League [[bishop]] argues that it could be the Grendel equivalent of [[Pride]] - it seems strange that such an arrogant, boastful, people have no expression of Pride in their nation. In the League, cleverness is seen as a source of Pride.
+### Cunning
+* Insight is the sharpest knife
+The Apulian Orcs seem to value information almost as much as they prize wealth. They like to be better informed than those they deal with, seeking to know everything they can about them. They pay well for good information, but cunning encompasses more than just knowledge, it is also about ingenuity as well as the ability to read others. Facts are important to every negotiation and stratagem, if you know how much wealth a merchant has then you have a better idea what they can afford to pay. But much more important is understanding, being able to read your enemies, to predict them, to instinctively know when they are bluffing and whey they are telling the truth. Neither facts nor understanding are useful without the ingenuity to use them in creative and imaginative ways.
+
+Could Cunning just be the Grendel name for [[Wisdom]]? The Apulian Orcs see little value in self-doubt, contemplation or the need to constantly re-evaluate things. Perversely, it could be see as Courage - the Grendel never accept defeat and are always trying to adapt their strategies to get ahead. They see that as an expression of Cunning.
+### Fidelity
+* You can't drive an ox with a broken back
+Preachers of Fidelity claim that power is not achieved by working alone but by working together. Fidelity emphasizes the importance of showing loyalty to those around you - in proportion to the benefits that that brings you. Fidelity also includes ideas of honesty - the importance of negotiating in good faith so that others will know the benefits that cooperating with you brings. A key part of fidelity is the way the Grendel treat those over whom they have power. Allies and most especially subordinates who are gouged, taken for everything they have, will turn against you. You can trade with a merchant many times, you can murder them only once. Those who keep faith and pay heed to the well-being of their underlings will ensure their continued loyalty.
+
+On the face of it Fidelity could just be the Grendel name for [[Loyalty]], but the idea that nobody might know where your loyalties lie seems bizarre to the Apulians. It seems to have a lot in common with [[Prosperity]], which the Grendel already promote. Could it just be another aspect of that?
+
+### Retribution
+* Vengeance for what you have lost, retribution for what you will gain
+The Grendel firmly embrace ''lex talionis'', believing that retribution is central to a just society. They say that a nation whose people do not fear retribution is one where they do not fear to steal or murder each other. They encourage [[#Fidelity|fidelity]] towards subordinates and allies, but they believe that to be powerful a person must be prepared to exact revenge from those who cross them - no matter who they are. In Grendel society, retribution can be dangerous but those who are not prepared to take the risks will find power is slowly stripped from them. They believe that the ever-present threat of retribution is harmonious, because it helps to keep all parties honest.
+
+However, they don't deny that the principle of vengeance is an important part of retribution - it is literally the first word of their catechism. However Vengeance is definitely not one of the Seven Virtues, it is a false spiritual aura equivalent to [[Malign_spiritual_presences#Anarchy|Anarchy]] and [[Malign_spiritual_presences#Hatred|Hatred]]. The Apulian Orcs know the Empire view Vengeance in this light, and they understand the legal ramifications of that. They know they will not be permitted to preach Vengeance as if it were one of the Seven Virtues. What they want to understand is what implications that has for their belief in the importance of ''retribution''. They suggest that if it is the word "Vengeance" that the Imperial Synod object to, they could change their catechism to say "Revenge for what you have lost, retribution for what you will gain". This is a relatively popular change with many questioners since they think the alliteration between revenge and retribution will make it more appealing.
+
+It's difficult see how retribution might be the face of one of the Seven Virtues. There is a suggestion it could be seen as a particularly ruthless interpretation of Pride, or a focused version of Courage, or a very narrow interpretation of Vigilance, but the Apulian Orcs approached so far have been sceptical - although they have not outright disagreed. One thing that ''does'' pique their interest however is the judgement the General Assembly has already made [[Walk on#The League|regarding Dead Reckoning]], in which they reconciled that particular practice with the Doctrines. Some of them argue, after all, that retribution is also just good business sense.
+
+## The Virtue of Power
+* The Apulian Orcs have asked the Imperial Synod for a ruling and seem genuinely positive about any response
+* As with the Grendel they believe that the Virtues are pathways to power and if something isn't going to bring them power in the Empire, they don't want to pursue it
+The Apulian Orcs are hoping that the Synod will decide what is to be done about the differences between their spiritual beliefs and those of the Empire. They seem surprisingly sanguine about the prospect of one or more of their sacred ideals being rejected. As one Apulian puts it "We're asking to join you, it stands to reason there will be a few things we need to compromise on." 
+
+They just want to know which of their traditional ideals, if any, it will be acceptable for their priests to encourage once they join the Empire. They won't risk blasphemy, but they hope to continue to extol the benefits of audacity, cunning, fidelity, and retribution, provided the Imperial Synod approves. Crucially they seem genuinely interested to know if the Synod views these qualities as positive - or potentially positive. They appear to value the judgement of the Imperial Synod in this regard, taking the view that it knows what will help people get on in the Empire better than they do.
+
+Part of the issue is the Grendel are unable to use [[liao]], so they make no use of [[aura|auras]] of any kind. Perhaps as a result, they appear to treat virtues as nothing more meaningful than ideals to live by. Since they have no interest in auras, they don't see a significant difference between the malign spiritual force of Freedom and the ideal of freedom that the Empire spreads, for example. They understand the legal importance of not treating Vengeance as one of the Seven Virtues and they are determined to abide by that carefully,  but the Grendel, the Seven Virtues are fundamentally pathways to accrue ''power''.
+
+The Grendel believe that only the most powerful of them will be able to cross the Howling Abyss when they die. The weak, the poor, the disenfranchised, all face oblivion. Accumulating power, as much as possible, is what gives a Grendel orc a chance to avoid that dreadful fate. Their "philosophers" call this quality ''puissance'' but most Grendel simply refer to it as ''power''. Those who pursue the Grendel Virtues find they gain power in Grendel society as a result. But if joining the Empire means these Virtues cease to be useful, if something won't help an Apulian Orc gain power anymore, then by the Grendel definition ''it is no longer a Virtue anymore''.
+
+Hence they are eager to see which of their virtues the Assemblies will acknowledge and accept, not because they invest the virtues with spiritual significance but because they want to know which of their ideals they should pursue to get ahead in the Empire. Most of the Apulian Orcs who are attending Anvil are not questioners, but they will try to help as best they can. ''Graime the Questioner'' is something of a veteran of Anvil now, and is believed to be accompanying Salt Lord Kaliact personally. As such he is likely to be about on Saturday afternoon. He may be more able to answer any questions that priests of the Synod may have (though he points out that each questioner has their own view of the virtues).
+
+## Further Reading
+* [[Windfall]] - 385YE Summer Wind of Fortune detailing the political situation in Spiral
+* [[A tide in the affairs]] - 385YE Wind of War detailing the "conquest" of Spiral

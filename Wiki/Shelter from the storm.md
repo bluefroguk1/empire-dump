@@ -1,0 +1,89 @@
+---
+revision_id: 86281
+revision_date: 2022-01-31T20:24:56Z
+categories:
+- Winds of Fortune
+- 381YE Summer
+- Recent History
+aliases:
+- Shelter_from_the_storm
+---
+
+
+Giana shaded her eyes, frowning. Beside her Marco continued to clear weeds, muttering something about cold syrah, slices of orange, and cool shade.
+
+"Marco ... who's that?" She tapped her son on the shoulder to catch his attention. With a groan, he stood up, peering over towards the cliff edge.
+
+"I don't know ..." he said slowly. "It could be Edri? Didn't he say he was going to spend the morning collecting gull eggs?"
+
+"I don't know ... He's vain but even he wouldn't go gulling in his restday finery... And I would swear he has a spyglass. Edri doesn't have a ..."
+
+She trailed off, suddenly afraid. Marco swore; his mother was too worried to chastise him.
+
+"Oh Zemress preserve us ... that's not Edri ..."
+
+Her son was already moving. He grabbed the adze they had brought with them for breaking up stubborn clods of earth and ran full pelt towards the distant figure. His heart pounding, his aching limbs flooded with adrenaline and fear, he covered the distance in less than a minute. Behind him he could hear his mother shouting, but he was too focused on the desperate need to kill the spy as quickly as possible. Every child on the Isle knew that if the orcs found them ...
+
+As he grew close, the orc hurled a javelin in his direction, its lips pulling back in a vicious snarl to reveal half a dozen gold teeth. He threw himself into a roll, his tired back and thighs howling in pain, and the javelin passed over him with barely an inch to spare. He stumbled slightly, but kept running.
+
+The orc drew its curved blade, and then he was on it.
+
+Marco swung wildly, the orc ducked under his blow and slashed across his belly. The young man managed to twist aside to avoid the worst of the blow ... then buried the adze in the orc's face. The beast fell back, screeching. Edri leapt on it, pulling his knife, and stabbed the thing repeatedly in the chest, belly and throat until it stopped moving.
+
+Panting, he tried to pull the adze free but it was lodged in the orcs skull. His stomach twisted, and it took all his strength not to vomit his breakfast onto the grass at the top of the cliff. He could hear his mother shouting something behind him, but his blood was ringing in his ears and he could not make out her words.
+
+The first arrow hit him in the shoulder. he stared at it for a moment, frowning, then crumpled to his knees. As his vision darkened, he could see two more orcs down the cliff path, one of them nocking another arrow. Beyond them, he could make out a shallow rowboat and another four or five orcs - making preparations to leave, waving their arms excitedly. As the second arrow stuck him in the chest, and he fell back, he realised what his mother had been trying to warn him.
+
+Orcs. They never, ''never'' travel alone ...
+## Overview
+The Isle of [[Zemress]] lies well outside Imperial waters, albeit still within the Bay of Catazar. It is named for that fabled mariner known as ''The Blade of the Isles''. Sutannir tell how her ship - The ''Kraken's Bane'' - was found floating abandoned a year after she set off on a dangerous mission. A century and a half later, the mystery of her disappearance was explained - according to stories she and her crew ended up marooned on an island on the Broken Shore, forced to make new lives for themselves in the very shadow of the [[Grendel]] nation. 
+We the Freeborn assembly recognise the inhabitants of the Isle of Zemress as descendants of the three tribes, and recognise their right to citizenship of the Brass Coast.
+A couple of years ago, the inhabitants of the island reached out to their [[the Brass Coast|Freeborn]] cousins. A century and a half of separation had seen the inhabitants of the Isle of Zemress diverge somewhat from the traditions of their distant cousins, however. For one thing, they appeared almost [[The Marches|Marcher]]-like in their insistence on the virtue of honest toil and hard work. Even more unfortunately, they had embraced a heretical view that while the virtues of the Way certainly existed, only the virtue of [[Prosperity]] had any true value - indeed they seemed to have little understanding of the deeper truths of the Way, or the nature of the other Virtues.
+A need to send missionaries to help lead the Isle of Zemress in all of the Virtues. More information of the Isle of Zemress is available from Immeldar of the Brazen Pavador.
+In 380YE, Immeldar i Ezmara i Erigo and the Freeborn assembly recognised the inhabitants of the Isle of Zemress as having the right to see themselves as citizens of the Brass Coast, should they wish. With the aid of the [[Assembly#General_Assembly|General Assembly]], they also resolved to send missionaries to help lead the islanders to understanding of all the Virtues. In the latter, they were apparently successful. While reserving a special place for Prosperity, over the last year the islanders have come to see the value of the other six Virtues and incorporate them into their lives..
+
+Now, however, disaster has struck. The community on the Isle of Zemress has prospered for the last century and a half largely by avoiding the gaze of the Grendel. It is impossible to know for sure what has drawn their attention - perhaps the Imperial missionaries visiting the island, perhaps simply bad fortune - but notice it they have. Grendel pirate ships and slaving vessels are gathering to descend on the island. When they do so, they will loot the place of everything of value, and carry away in chains anyone who does not die fighting to protect their homes.
+
+A single desperate message has been sent to Sol i Riqueza, one of the hosts for the [[Egregores#Brass_Coast|egregore spirit]] of the Brass Coast, asking for help.
+
+The orcs have found us. We were not quick enough, and some escaped. The Grendel now know where we are and their fleet masses. Even if we had the boats, we could not outrun them. We are desperate. Without your aid we cannot escape this trap. I beg you... do not let our story end in the salt mines of Dubhtraig.
+
+## Significance
+The situation on the Isle of Zemress appears dire. Grendel privateers are attacking the island, with the clear intention of plundering its treasures and enslaving the population. There are several thousand islanders, who consider themselves Freeborn, and who have been welcomed by the people of the Brass Coast. They are reaching out to their Freeborn cousins - to the Empire - for aid.
+
+## Evacuation
+The Grendel have not by all accounts committed a full [[Imperial navy|navy]] to the area - at the moment it appears that the attackers are disorganized pirates. Yet the damage those fleets are capable of cannot be underestimated. There is little chance that the islanders can hold out against the Grendel for long - they are not equipped to fight off a concerted Grendel attack, and the [[orc|orcs]] are not likely to stop attacking until the humans are all enslaved and their settlements pillaged of all valuables. 
+
+A major naval battle would be extremely tricky - even if the Freeborn Storm could reach the territory where the Isle of Zemress lies, it would need to navigate treacherous waters - all assuming it could get past the Grendel navies engaged in [[Spiral]]. Realistically, the only viable plan to evacuate the Isle will need the support of the [[fleet|independent ship captains]] of the Empire - should they wish to make the attempt. 
+
+During downtime, any Imperial fleet owner may assign their fleet to the "'Evacuate Zemress Island'" opportunity (which will be appear as a "navy" you can support in the drop-down menu). The outcome of the opportunity depends on the total number of fleet ranks assigned to the opportunity.
+### Participation
+Each standard fleet assigned adds 100 strength to the opportunity. Each [[Fleet#Upgrades|additional rank]] the fleet possesses adds another 20 strength. Rituals and other effects that make a fleet more effective at supporting a navy apply their benefits normally to the effective ranks. Once downtime closes, we will determine the outcome based on the total effective strength of all assigned fleets.
+
+* If less than 500 effective strength is assigned, the evacuation will be a failure. Any fleets sent to the area will be beaten back by the Grendel and virtually no Zemress islanders will be saved; the Grendel will destroy their community and carry all surviving members away as slaves. 
+
+* If the effective strength of the rescue effort is at least 500 but less than 1000 then the a few of the fleets assigned to the task will be able to bypass the Grendel privateers. A small number of Zemress islanders will be saved; around a hundred in total. The rest of the islanders will be captured and enslaved, and their valuables will be completely looted by the Grendel.
+
+* If the effective strength is is at least 1000 but less than 2000 then the Imperial captains will be able to break through the Grendel blockade and rescue the majority of the islanders, along with a few of their most treasured possessions. All the islanders will be transported to safety in [[Feroz]] and [[Madruga]], but they arrive with little more than the clothes on their backs.
+
+* If the effective strength is at least 2000 but less than 3000 then the Imperial captains will be able to smash the Grendel blockade allowing them to rescue the majority of the islanders, and also giving the islanders sufficient time to bring many of their most valuable possessions. The islanders will be transported to safety in Feroz and Madruga, and arrive with goods and materials sufficient to help them start new lives without needing any further assistance. They will be able to bring with them several of their treasures - including some relics of Zemress herself.
+
+* If the effective strength is 3000 or greater then the Imperial captains will be able to rout the Grendel assault, allowing them to rescue all of the islanders prepared to leave, along with all their possessions and belongings. The islanders will be transported to safety in Feroz and Madruga, with sufficient wealth to start new lives without needing further assistance, adding to the general prosperity of the Brass Coast and eventually increasing the taxation revenue of the treasury. (OOC Note: An increase to the taxation revenue of these territories reflects the establishment of several new resources here, operated by exiles from the Isle of Zemress).
+
+### Rewards
+The Zemress Islanders are followers of Prosperity, and they understand the importance of rewards for hard work. As many of the islanders as possible will offer payment to the Imperial captains who assign to this opportunity in the form of valuables and services. Each fleet assigned to the rescue will receive one crown from the grateful islanders for each 20 effective strength that they contribute to the rescue.
+
+## A Matter of Religion
+When they first made contact with the Empire, the Zemress islanders were convinced that only the virtue of [[Prosperity]] had value. In the years since, the good work of Immeldar i Ezmara i Erigo and the Freeborn priests have slowly softened this view. The islanders still consider Prosperity to be the pre-eminent virtue, but they have accepted that each of the other six has value. Before the Grendel attack they were slowly integrating Ambition Pride, Loyalty, and the rest into their system of belief. An opportunity exists for the Synod to recognise the success of the Freeborn missionaries, and urge the people of the Empire to aid these prodigal cousins.
+The people of the Isle of Zemress are in need, and it is our duty to aid them. The (Freeborn Assembly/Imperial Synod]] empowers X with X doses of liao to urge those captains who command swift vessels in the Bay of Catazar to make their way to Zemress Island with all urgency.
+The Freeborn [[National_Assembly#The_National_Assemblies|national assembly]] may pass this judgement of [[mandate]] with a lesser majority. It requires a named Freeborn priest to be equipped with at least 25 doses of [[liao]]. If it passes, any Freeborn captain who engages in any action ''other than'' the "Evacuate Zemress Island" opportunity has their production or effective fighting strength reduced by one fifth. This will reduce their effectiveness when engaging in [[Fleet#Trade|foreign trade]], [[Fleet#Supporting_a_Navy|supporting a navy]], [[Fleet#Privateering|privateering]], or participating another special opportunity (such as [[Down along the cove]]). 
+
+The General Assembly may also pass this mandate. It requires a named priest (of any nation), and at least 50 liao. If they do so, then ''any'' Imperial captains who take an action other than ''Evacuate Zemress Island'' will suffer a one-fifth penalty to production or fighting strength.
+
+As always, in the case of competing mandates (whether specific to this opportunity or otherwise) the one with the most liao assigned will take precedence.
+
+## A Matter of Conscience
+The [[Quartermaster General of the Imperial Armies]] may choose to declare the evacuation of Zemress island to be a military matter. While there will be no significant damage to the Grendel ability to make war on the Empire, there will certainly be some fighting between Imperial ships and Grendel vessels. As such, the Quartermaster may choose to include "Evacuate Zemress Isle" when [[Quartermaster_General_of_the_Imperial_Armies#Apportioning_the_Guerdon|apportioning the Guerdon]]. If they do so, any fleet that assigns to the opportunity will also receive a share of the [[Fleet#Imperial_Guerdon|Imperial Guerdon]] as if they had supported an Imperial navy, in addition to the payment they receive from the grateful islanders.
+
+## Limited Opportunity
+There is an extremely limited window in which to evacuate the Isle of Zemress. The Grendel will have completed their invasion and capture of the islanders by the start of the Autumn Equinox; the opportunity to evacuate the island exists only during the downtime immediately after the Summer Solstice.

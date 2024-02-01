@@ -1,0 +1,54 @@
+---
+revision_id: 83190
+revision_date: 2021-05-01T07:50:09Z
+categories:
+- Inspirations
+---
+
+This is the way it was done, and the way it will be done until the final sun sets on the land. We are Kesh, and we are Proud.
+
+## Virtue
+Kethry is the oldest recorded Paragon of [[Pride]], dating from before the birth of the Empire.
+
+## Biography
+It is not recorded in which lands Kethry and the Kesh dwelt, though elements in most of the stories about her suggest they likely lived in the east of [[Wintermark]] or the west of [[Varushka]], in a "thickly wooded vale in the shadow of great cold mountains". This would suggest her birthplace was either in [[Skarsind]] or [[Miekarova]].
+
+Many years before the Empire, local nations made war on one another, both to compete for resources and as a show of strength. The nation which Kethry led, the Kesh, were conquered by an enemy nation led by Chieftain Makin the Red, who were larger and more aggressive. It was the custom at the time for the conquered to capitulate territory, possessions and their tribal identity, essentially becoming assimilated into their conquerors. In some cases, their new status was as thralls and in some they lived as equals among their conquerors, learning their customs and traditions.
+
+Whilst there are many variants on the tale of Kethry, the version below contains all of the common elements, in particular the phrasing of the conversations between Kethry and Makin - which are often taken up by the audience when the tale is told out loud - and its reversal at the end of the story.
+
+When the Kesh defeated, Makin the Red took possession of Kethry's lodge, said to be the finest and largest in the village. The wooden beams and pillars were intricately carved with the likenesses of the birds and beasts of the wood. Makin the Red liked it so much he decided to make the lodge his base for a year and a day, while he led raids on other neighbours. Kethry moved into a reed-woven hut on the outskirts of the village, whistling and smiling as she wove the thatch for the roof herself and daubed the walls. Many of her people had taken to the ways of the conqueror, but in her heart Kethry kept alive the customs and traditions of her people. 
+
+When Makin returned, the lodge was empty. Everyone was sitting around a fire outside Kethry's simple hut, singing and sharing food. Makin was furious; there had been no feast in his honor to welcome him home from the raid, as was the custom of his people. Instead, his scouts sat round the fire drinking broth from wooden bowls into which they dipped crusts of bread. He said to them "This is not the way of our people! This food you eat is the food of the conquered, not the conqueror! We do not sit round a fire sharing soup and bread, we dine at tables in lodges of pine!"
+
+It was Kethry who replied. "You speak of your people, but they are many. All the peoples you have conquered are numbered here, with rich traditions of their own. Why do you not sit with us as your scouts do and enjoy the broth of the Kesh? It is flavoured with the finest herbs and served with bread fresh from our ovens." Makin refused and ate alone in his lodge while his scouts remained with Kethry. Before he did so, he spoke to her thus: "Your ways are now our ways, your customs lost to our strength. Why do you continue with this meal?" Kethry replied. "This is the way it was done, and the way it will be done until the final sun sets on the land. We are Kesh, and we are Proud. 
+
+Makin went away to raid again for a year and a day, as was tradition. When Makin next returned, the village was bathed in the light of a hundred torches. There was no procession for his return, as was custom, but instead the people danced with one another in a great circle, weaving in and out of the torches. He was furious to see his runners there dancing, those who he had sent ahead to ensure the village prepared for his return.
+
+Kethry came forward and spoke with him. "This is the dance of the Kesh, which we have been performing on this day since the time of my grandmother's grandmother. Will you dance with us, Makin the Red? Will you make merry with your runners and the Kesh?" Makin refused and spoke back. "Your ways are now our ways, your customs lost to our strength. Why do you continue with this dance?" Kethry replied. "This is the way it was done, and the way it will be done until the final sun sets on the land. We are Kesh, and we are Proud. Makin sat alone in his pine lodge whilst the merriment continued all around the village until the last torch was burned out, as was custom.
+
+When Makin returned from his third raid, he hardly recognised anyone. All of the guards he had left here to keep an eye on the village were dressed in the manner of the Kesh and their spears were decorated with white feathers, not black. Furious, he asked his guards what had happened, but it was Kethry who spoke.
+
+"Welcome, Makin the Red. Would you like a white feather for your spear? The omens are auspicious, if you tie a white feather to your spear it will bring you speed on the hunt." As usual, Makin replied "Your ways are now our ways, your customs lost to our strength. Why do you continue with this belief?" Kethry replied. "This is the way it was done, and the way it will be done until the final sun sets on the land. We are Kesh, and we are Proud.
+
+Three times Makin had been raiding now and three times he had returned. Each time more of the Kesh had returned to their traditions and each time his own people had joined in. He spoke to Kethry one more time:
+
+"I am the one who has been conquered, not the Kesh. Sing me your songs, Kethry, and bake me your bread. Dance your dance with me and give me a white feather. From this day forward, my nation will have no name of their own. I am Kesh now, and I am proud. 
+
+Kethry and Makin were eventually wed, and the feast which accompanied their celebration lasted a year and a day, as was custom.
+
+## Signs
+The assembly of Pride cited the following signs as proof that Kethry was a paragon.
+* Kethry lived long before the foundation of the [[Bastion#Bastion.2C_the_White_City|White City]], but by  exemplifying the pride of her own nation's traditions and refusing to adopt those of her conqueror, she undertook a spiritual [[Signs_of_the_paragon_and_exemplar#Pilgrimage|pilgrimage]] to the heart of Pride.
+* The deeds of Kethry brought prosperity to her whole nation and not just herself. In keeping alive the old traditions and not capitulating to her conquerors, both nations eventually lived as Kesh, demonstrating her [[Signs_of_the_paragon_and_exemplar#Benevolence|benevolence]]. 
+* By converting an entire warlike, conquering nation through sheer will and by showing them the pride in her tribal customs and thus bringing them into a life of virtue, she brought them [[Signs_of_the_paragon_and_exemplar#Salvation|salvation]]. In doing so, she also saved the Kesh and their customs from being lost to history.
+* The most commonly suggested [[Signs_of_the_paragon_and_exemplar#Legacy|legacy]] of Kethry is that of hearth magic - those themes and images which combine to breath culture, life and identity into a nation. Whilst none claim that Kethry delivered hearth magic to the world as Tian did with fire, there are sufficient elements in her story which have led people to claim that Kethry's success lay in the use of that magic, whether she knew it or not.
+* Kethry's refusal to abandon the traditions of her people was such an [[Signs_of_the_paragon_and_exemplar#Inspiration|inspiration]] that she managed to turn the hearts of her conquerors, including that of their leader. Her story was told so many times that it lasted the generations until the birth of the Empire and the Synod. All of the Kesh and the conquering nation are thus her followers and imitators.
+* To date, no visions have been recorded of her life from her own eyes. Consequently, the sign of [[Signs_of_the_paragon_and_exemplar#Liberation|Liberation]] holds. In some thematic variants of the Kethry story, she lives to a ripe old age and sees many more people adopt the customs of the Kesh, She speaks to them as an assembly and then returns to her lodge to die, but her body is never found, indicating an ascension.
+* There is nothing in any of the stories of Kethry or any surviving tales that might be an indication of her past lives, so the sign of [[Signs_of_the_paragon_and_exemplar#Revelation|Revelation]] is impossible to confirm or refute.
+
+## Ketrhy in Play
+### Controversies
+* The signs of Kethry have been used since the earliest Imperial records to criticize the entire process of recognising paragons and exemplars. As the scholar Yves of Starmantle Spire famously said in his denunciation of the judgement of [[recognition]]: "''they are complete bobbins - stories for children - and I find it difficult as a scholar and a man of faith to take seriously a process that uses them as proof of anything.''"
+* As with several Paragons, some scholars suggest the story of Kethry might in fact be much older than is commonly believed, perhaps originating far beyond the borders of the lands that today are the Empire. One branch of Varushkan historians claim that the first stories of Kethry came down out of the mountains with the forbears of the Ushkan people, although they can provide little evidence to support their claim.
+* There is a glade in [[Astolat]] which is said to be the place where Makin first courted Kethry. If it has any truthful claim to being a location from this tale, Kethry and Makin surely travelled a great distance from their supposed homes in Miekarova or Skarsind to plight their troths.

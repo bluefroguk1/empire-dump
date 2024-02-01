@@ -1,0 +1,43 @@
+---
+revision_id: 101070
+revision_date: 2023-05-26T22:44:06Z
+categories:
+
+aliases:
+- The_League_military_concerns
+---
+
+
+## Overview
+Most citizens of the League who seek a military life look instead to the [[Free company|free companies]] and it is here that the nation excels. The free companies are the mercenary units for which the League is famous. Threats are considered downright rude, but most guilds still employ mercenaries; only a fool relies on the rules alone to protect their interests. After all, not everyone ''in'' the League is ''of'' the League. 
+
+Joining a free company is a serious undertaking. A free company is like a guild; members are expected to show the same loyalty, and that loyalty will be tested on the field of battle. Although free companies are renowned for their discipline on the battlefield, they are equally notorious for their riotous behaviour on the streets. Not for nothing are their members called [[Bravos|bravos]], fighting by day and drinking through the night. When two free companies are housed in the same city then rivalry easily spills over into violence. Brawls and duels abound and running battles in the streets are not unknown. The leaders of the free companies turn a blind eye as long as the bills for the damage do not mount too high, and as long as civilians are left out of the conflict. The Imperial authorities turn a blind eye provided nobody is reported killed. 
+
+If the League lack military numbers, they strive to make up for it with competent generals. League tacticians are a byword for brutal brilliance; shrewd people prepared to contemplate the unthinkable to achieve victory. General Anke Carsten von Temeschwar infamously stated “''I am an artist, the battlefield is my canvas''” when called before the Synod to justify the cruel tactics she employed against the barbarians. 
+
+Crossbows are very much in favour with the League – anyone from wealthy merchants to street bravos might tote one of these exquisitely made devices and the free companies have taken them up with great enthusiasm. While they may lack the range of a Marcher longbow, they are just as effective at short range. Crossbows are easy to produce and simple to master. Once the crossbow is cocked and ready, physical strength is irrelevant. There are not many bow users in the League, and it is considered more of a "hunting weapon" than a weapon of war.
+## Imperial Armies
+At the height of the Empire's power the League was able to field two armies, but when the territory of [[Holberg]] fell under the control of barbarians, the need for soldiers to defend the city absorbed what military strength they could spare. When the League reclaimed Holberg they rebuilt the Towerjacks army and now once again two League banners fly over the battlefields of the Empire. It is a constant frustration for many Merchant Princes that they cannot match the military strength of nations like the Marches or Dawn. However, the structure of Imperial forces does not appeal to many citizens of the League and attempts to find additional volunteers have come to nought.
+
+The League fields two  [[imperial armies|Imperial armies]]; the ''Wolves of War'' and the ''Towerjacks''.
+
+### The Wolves of War
+The [[Wolves of War]] are an extremely versatile fighting force. Many of the soldiers in this army are [[bravos]] from the roughest parts of [[Temeschwar]] and [[Tassato]], supported by talented engineers from [[Holberg]] and [[Sarvos|Sarvosian]] scouts. They are also adept at working with [[Army qualities#Mercenary|mercenary]] troops, taking advantage of the great wealth of the League to employ specialist units to help them on campaign.
+
+In Autumn 378YE, the [[Dawn|Dawnish]] [[Archmage]] of Autumn, Maurice de Gauvain, took clever advantage of a rare conjunction to gather the [[ilium]] needed to place a permanent [[Bound by Common Cause]] [[enchantment]] on the Wolves of War. This enchantment greatly enhances the ability of the army to work with Imperial [[military unit|military units]]. It coincidentally means that the General of the Wolves of War is subject to a [[roleplaying effects|powerful magical influence]], but it remains to be seen how far-reaching this effect will be.
+
+The first League General leads the Wolves of War army, and is appointed (or re-appointed) at the Autumn Equinox each year.
+
+
+### The Towerjacks
+The second army of the League, the [[Towerjacks]], is expert in [[Army qualities#Siege|siege]] warfare. They were disbanded in 346YE after the fall of [[Holberg]], when its officers and soldiers dedicated themselves to the defence of their home territory. A core of the army still existed and had honed their skills through a generation of holding the walls by the time the city was liberated.  With the lifting of the siege, the officers of the Towerjacks  let it be known that they were prepared to return to [[holberg spoils of war#The Towerjacks|active duty]], provided they could be returned to full strength. A [[Raise_Towerjacks_army|motion before the Senate]] during the Summer Solstice 379YE gained permission to reinstate the Towerjacks. Their resupply and recruitment were completed in Winter 379YE and a new [[general]] was appointed.
+
+The second League General leads the Towerjacks army, and is appointed (or re-appointed) at the Winter Solstice each year.
+
+
+We, the Mercenaries of The League, exist to serve the leaders of the Empire, and bring glory to our nation. Through patronage, we arm ourselves. Through leadership, we gather in companies, and perfect our fighting styles. Through experience, we chart a bloody course across the battlefield, marching not as soldiers, but as heroes. Each nation is a crucible in which champions are forged. The apothecaries and artisans of many nations give up their wares gladly, but The League would never ask such a thing of its citizens. We value their work, and pay them a fair price for it. In turn, we ask for an honest wage, to strengthen our forces, and bring honour to our patrons. 
+
+While the civilians of the League will lay down their quills and raise arms against the barbarians, the Free Companies lead a life of perpetual warfare, travelling as one, fighting as one, and willing to die as one, if the Empire demands it. It is this life that our wages pay for, an endless round of marching, drilling and combat. 
+
+Our patrons - the noble princes of the League, and the wise Generals of the Empire - need only tell us where and when, and we muster, armed and armoured according to their wishes, and equipped for the enemies that face us. When battle comes, we stand united, fearless against our foes, strengthened by the knowledge that one soldier can show weakness and confusion, but a Free Company will hold the line, and march to victory.
+

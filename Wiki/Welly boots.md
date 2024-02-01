@@ -1,0 +1,150 @@
+---
+revision_id: 103863
+revision_date: 2023-07-25T17:05:57Z
+categories:
+- Winds of Fortune
+- 385YE Summer
+- Recent History
+aliases:
+- Welly_boots
+---
+
+
+
+Mathilda Fisher pulled the fur cloak tight around her shoulders. Once it had been a honoured gift from the Jarl of Tromsa after they'd fought together against the Faraden. That was barely five years ago and yet it seemed like another lifetime now. The fur was dank and wet to the touch, soaked almost through. Marshes were no place for a bear. Anagar had told her that when he'd given it to her. It was his way of trying to get her to stay in Tromsa. Bitter thoughts about how many of her people would still be alive today if she'd only listened to him assailed her.
+
+"Much further?" she asked the man, as much to take her mind off things as anything else. He'd been rowing through the thick mists for the best part of an hour. They must have crossed out of the Grey Fens by now. 
+
+"Nope" came the monosyllabic response. For a priest he was a man of remarkably few words. Mathilda had known a mute godhi once, she'd been so blessed by the ancestors she could pull a warrior back from the door of death. Maybe the less you said, the more powerful a priest you were, she mused, laughing to herself.
+
+"You should come with me. Anagar will welcome you. So will the other Jarls. The Jotun stand by their word - they'll take in anyone who stood with me."
+
+"Will they now?" he spoke little, but his tone conveyed his contempt. For the idea? Maybe. For her? Probably. For her friends? Definitely. Fair play to him, he'd never made any secret of the fact he didn't trust the Jotun one little bit.
+
+"I mean it Shel. The Imperials will butcher you. Asenath has told everyone she's gonna string you up like a dog." She'd never met Bushel Sykes til she set foot in Bregasland. And yet he'd worked his fingers to the bone helping her and never asked for a damn thing. It didn't make a lick of sense.
+
+"Yup. She will."
+
+"What are you going to do?" Frustration broke through at last. The thought of the smug Highborn general killing her friend was getting to her.
+
+"If she kills me? Reckon I'll come back as a pike. Bite her bloody toes off."
+
+"Dammit, I'm serious Shel! You can't stay. There's no place for you here now. You ''have'' to come with me! We'll come back one day I promise!" 
+
+The old poacher wheezed and coughed, a hacking laugh that brought up a bolus of phlegm that he spat into the fog.
+
+"Nope. You won't." he said, in a tone that brooked no argument. "I seen the look on your friend's faces. They're not coming back. Not now. Not ever." 
+
+"If you stay here, you'll die!"
+
+"We all die Mathilda." the old man responded calmly. "You. Me. Asenath. Anagar. We all die. The point of living is to find something worth dying for..."
+
+The coracle thumped into something, and came to an abrupt halt. "We're here" he said. She stood up carefully, she'd never got the hang of these bloody things and the last thing she could afford was to end up in the marshes now. Gingerly she stepped from the craft onto the sand bank where they were waiting for her. She embraced her friends, relief flooding over her to see so many of them had got out. 
+
+By the time she turned to look back, he was already gone. She never ever heard the oars.
+
+
+## Overview
+Four Imperial armies have moved in force to take control of [[Bregasland]]. The [[Tusks]], the [[Strong Reeds]], the [[Bounders]] and their [[Highguard|Highborn]] allies the [[Granite Pillar]]. The generals orders are for an overwhelming assault, but it soon becomes apparent that there is no-one left here to fight. 
+
+The [[Jotun]] have never seemed entirely pleased to be in Bregasland. From the get-go they told the Marchers that this was Mathilda Fisher's fight. They came to support their ally and for a chance to fight the Empire; the marshes hold no appeal for them. As soon as it was clear that Mathilda was beaten, they began to execute an orderly retreat, pulling back into [[Hordalant]]. Often when the Jotun leave, they make it clear they will be back - there was none of that bravado this time.
+
+Mathilda Fisher by comparison clung on tenaciously until it was clear to everyone that all hope was lost. Beaten, she was [[Chasing_you_home#Graven.27s_Rock_.28Battle.29|cornered at Graven Rock and ripe to be captured]], but in a defiant gesture of contempt, the Empire turned its attention south towards [[Kahraman]], giving the self-styled Steward of Bregasland a chance to flee. If she was insulted by the Empire's disdain for her she didn't show it, but she didn't look a gift horse in the mouth neither. 'Shel Sykes stays but the rest, a pitiful handful of yeofolk and thralls still loyal to her and her vision of a Free Bregasland, flee west with their tails between their legs.
+
+By the time the Empire's armies are on the move in Bregasland, there is no one left to fight. The Jotun are long gone, taking their puppet with them. The Fisher banners that once flew from farms and households across the territory disappear in the blink of an eye, as if they had never been there. Nothing dries faster than a tear.
+
+The problem now is that many residents of Bregasland know that their neighbours sided with the Fishers and the Jotun. And those neighbours know that their neighbours know that they sided with the invaders against the Empire. Which given that the fenlanders are renowned for holding grudges, even by the standard of the Marches, is more than a bit awkward. Especially as the people who most openly sided with and supported the Empire are also the least well-thought-of people anywhere in the marshes.
+
+## Fair Words Won't Bury Grudges
+People of Bregasland! Queen Fisher and her Jotun masters have fled before our soldiers might, wit and courage. But she will be back, mark me, The Empire may have short memories but marcher grudges and memories are long. The Reeds will not forget this and we will never abandon Bregasland again. So join me friends! A grinding advance will turf these traitors out finally. Bregasland Stands!
+* By remaining in Bregasland throughout, the Strong Reeds have earned the respect of everyone who stayed loyal to the Empire
+* The National Assembly could pass a mandate to recognise Amberlain's hasty oath never to abandon Bregasland
+When Bregasland fell, the Strong Reeds remained, laying low in Bregasland. They stayed behind, determined not to let the Jotun rest easy, a constant reminder of the fact that Bregasland was part of the Marches and part of the Empire too. Who knows how many more yeofolk would have bent the knee to Mathilda Fisher if it weren't for the knowledge that the Strong Reeds were out there in the marshes somewhere, risking everything waiting for the moment to come to drive the Jotun out. It took the best part of two years - but the Strong Reeds never wavered once - they stayed the course and stayed at their post the entire time. It's the kind of dogged determination that impresses folk in Bregasland.
+
+Now that the Empire is victorious and Bregasland is free of Fisher and her Jotun allies, General Amberlain has used this opportunity to make a bold claim. ''"The Reeds will not forget this and we will never abandon Bregasland again."'' It could be a vain boast of course - it could be nothing more than empty words meant to fire folk up for the fight. People aren't fools, they understand that you can't hang your hat on these things.
+
+But what if you could? What if Amberlain's orders were more than just words. What if she meant them? What then?
+
+''Knife-eared Francis'', a friar of [[Bregasland#Gravenmarch|Graven]], is a passionate follower of Loyalty, and he argues that if the general really means what they say, then they should speak the vow in front of the Marcher National Assembly. The Assembly can use the following mandate, provided by Sam Wych-Elm, to let everyone know that the oath has been witnessed.
+
+{{Mandate|assembly=Marcher National Assembly|mandate=Know your heart and what commands its devotion above all else. We send {named priest} with 25 doses of liao to let everyone in Bregasland know that this is the land of the Strong Reeds, and they will never abandon it.}}
+
+If this mandate is enacted, then it will cement the affection that many Bregas feel for the Strong Reeds. As a result the army will gain a bonus equivalent to a thousand additional strength whenever they are fighting in Bregasland reflecting the armed support they will receive from their fellow yeofolk. It doesn't matter when or who the general is, and it doesn't matter whether the army are attacking or defending, or even ''who'' they are attacking or defending against. Marcher yeofolk will take up arms to support them in their struggle.
+
+There is of course a risk to such things. If Bregasland comes under attack, and the Strong Reeds are not present at the start of the ''very next season'' to lead the counter-attack or defence as a minimum, then the oath will have been broken. A few people try to claim that it might not be possible to make it back to Bregasland so quickly - nobody has any desire to tie the general's hands after-all. But General Asenath's example, swiftly crossing the entire Empire, demonstrates that the Strong Reeds can always get back to Bregasland if they truly want to, no matter where they are.
+
+If the oath were broken, it would breach the trust between the Reeds and the kin in Bregasland. The above benefit would be permanently lost, and it would ''never'' be possible for the army to lie low in Bregasland again. Someone would sell them out if they tried it. It would also mean that more inhabitants would switch sides to support the invaders, if such a thing made sense, and would be loathe to cooperate with the Strong Reeds for a generation. Marchers have long memories when it comes to grudges, after all.
+
+As if that weren't enough, Larkin Pewter, a [[Landskeeper]] from the North Fens reckons the general should go further. Larkin has an old pewter charm that he says comes from the Autumn realm, bought years ago from one of [[Lictors|the Chainbound]] called ''Wordbinder,'' though he won't say what he paid for it. The Landskeeper has given the charm to the Marcher [[egregore]], with instructions to pass it on to the general of the Strong Reeds if they want it.
+
+If General P. Black is really sincere.. if the Strong Reeds ''really'' mean never to abandon Bregasland... then why not swear it by the Warders of the Green Iron Tower?
+
+Why not? Because it's a bloody stupid thing to do, say several of Larkin's peers. Swearing an oath can be a powerful hearth magic in itself, as any Varushkan will tell you. The very last thing you want to do is go swearing an oath on the Lictors. Nothing good can come of such an oath. A hundred years could go by and nobody would know the difference, and then someone forgets, breaks the oath and the next thing you know, the Lictors are dragging you off in green iron chains. An oath like that, it won't just be the general on the hook for it, it'll be the whole bloody army. You swear an oath like that, you're swearing for everyone. 
+
+Only a fool would do it. It is... unequivocally... a bloody stupid thing to do.
+
+The tiny pewter charm is with Mildred of Mumford, if Amberlain wants it.
+
+## The Answer Lies In The Soil
+
+
+Restock the Breadbasket
+Commission Type:  None
+Location: Bregasland
+Cost: 15 thrones, three months to complete
+Effect:  Provides a share of 1080 rings to all farms in Bregasland
+Requirement: The Keeper of the Breadbasket needs to have 15 thrones in their inventory at the end of downtime
+
+* The Breadbasket in Bregasland has been completely looted following actions by households on either side of the campaign
+* Restocking the breadbasket would require 15 thrones and take three months to complete
+The storehouses and siloes that make up the breadbasket in Bregasland are functionally useless. Nobody is entirely sure who was the first to break down the first door; clearly the supplies were being used by the Jotun armies during their conquest of the land, but after that no one is sure. Households from both sides of the campaign were involved in ransacking the stores - those Marchers who remained loyal justified it by claiming they were preventing the Jotun from benefitting. Who knows what the houses who backed the Fishers thought. Either way, everything is gone.
+
+In theory, the Breadbasket can be restocked automatically given enough time. After-all it's designed to store excess food. But winter will be here soon and food is scarce right now in the marshes. It's a sad fact of life that the presence of a large number of armies fighting in a territory has a bad habit of stripping every harvest from the fields like a swarm of locusts. There's precious little to go round, and as a result it will take years for the Breadbasket to recover by itself.
+
+Of course the problem can be solved by throwing money at it, but it won't be cheap. 15 thrones would be enough for the Keeper of the Breadbasket to buy enough food in Upwold and Mitwold to completely restock the Breadbasket. It would take three months to complete after the money was committed, but at the end of that time, the Breadbasket would be as good as new.
+
+Only the [[Keeper of the Breadbasket]] can arrange for the necessary payments. If they wish to do so, they should hand in 15 thrones in their baggy at GOD at the end of the event and email plot@profounddecisions.co.uk to let us know they wish to restock the Breadbasket. It's not the only option however...
+
+### Good Cider Takes Good Apples
+
+* The silos and storehouses could instead be turned over to House Greywater
+* This would cost nothing but would require a senate motion ceding this part of the great work to the household
+* The Breadbasket would no longer be able to pay Marcher farmers and supply an Imperial nation in one season - it would be one benefit or the other
+The Greywater household has suffered much over the past year. They have done what they can to support the Strong Reeds, and admittedly received much in return, but they now face the unwelcome truth that with the Jotun gone they are likely to be once again branded poachers and worse. They have been deep in the marshes and fighting a guerrilla war against the Jotun for a year now, since the [[Deep_when_the_river%27s_high#A_Little_Time_.28Conjunction.29|Summer Solstice 384YE]]. ''Margary Greywater'', upon hearing of the statement of principle raised by Friar John of the Mourn, was the first to suggest the help that the Empire could give the household. The Greywaters can't even offer anything in return; they know that others have struggled with the Jotun's occupation but if their neighbours in Bregasland and the rest of the Marches want to truly recognise the Loyalty, Courage, and Vigilance of the household then this would be a clear statement.
+
+The Greywaters would use the Breadbasket to store food, just as it's intended, only they would charge farmers to keep their excess supplies there. They could earn more than a few crowns from the rents and having a good living for themselves from it. But that would mean no more Breadbasket in Bregasland. That wouldn't prevent the Breadbasket from supplying an Imperial army if it was needed - but it would make it more difficult. From that point on, if the Keeper chose to support an Imperial army, it would mean devoting all the efforts of the Breadbasket to that end. That would mean that no farms in the Marches received any extra income from the Breadbasket in a season where the Keeper was directing it to support an army.
+
+Unfortunately, if the Greywater household isn't supported in this manner then the unpleasant rumours of poaching would likely return, and given how rough the coming winter is likely to be, it will be with a vengeance.
+
+### Set It In Stone And It Will Last Forever
+
+
+Expand the Breadbasket
+Commission Type: [[Great work]]
+Location: Mournwold
+Cost: 35 weirwood, 15 white granite, 100 crowns, six months to complete
+Effect:  Provides a share of 1080 rings to all farms or mines in Mournwold
+
+* The Imperial Breadbasket could be extended to Mournwold
+* If commissioned it would provide an income of 1080 rings shared between all the farms in the territory
+The Mournwold was not part of the Marches when the Breadbasket was built, so it has always missed out on the benefits that the Breadbasket provides. Now that the future of the Breadbasket is being openly discussed, a few people have asked why it is that that omission has never been rectified? The Breadbasket is a virtuous symbol of Marcher pragmatism, a unique asset found nowhere else in the world. It ensures that every Marcher yeofolk can share in the bounty of the nation's harvests. Well it would, if it were extended to the Mournwold.
+
+Such an action would not be cheap. The [[Small_things_and_large|original commission]] was a significant undertaking. It would require 35 wains of weirwood, 15 wains of white granite, 12 thrones and 4 crowns and take six months to complete. Once the work was finished, an income of 1080 rings would be shared with every farm in the Mournwold, helping to reinforce the traditional rural fabric of the nation. It wouldn't do anything for the miners who live in the territory of course - but it would demonstrate the nation's commitment to the yeofolk of the Mournwold.
+
+
+## Pride In Small Things (Conjunction)
+Siblings, our work in Urizen is done, but the time of miracles is just started. Join me on forced march to Ottermire in Bregasland. We go inspired by the Loyalty of Amberlain’s Strong Reeds who laid low long enough for us to do our work in Urizen. The Loyalty of Urizen and Warcaster Aulus who grant us the speed to reach the Marches this season. The inspiration of Kindra, first to cross the Empire for Loyalty. 
+
+We go to fight Mathilda Fisher and the Jotun. By every deed that matches words, we come to bind the untended wounds that have allowed sedition to foment. To Bushel Sykes - who has been whispering lies about the Empire's commitment to the Marches I say: 'Well, Sykes - I am Highborn, I am a Loyalty priest, I am Legacy of Asher and I am here! Come out of the Shadows and fight me!’ 
+
+The Marches remember, but so do we. Bregasland You are not alone. The example of Tomothy is not forgotten. The Heart Yet Beats.
+* Bushel Sykes turned up in Ottery three days before the summit begins, he is making no effort to hide his presence
+* There is conjunction for five people to visit the Ottery Fishing Docks at 21:30 on Saturday
+* The Civil Service have assigned responsibility for the conjunction to General Asenath of the Granite Pillar
+General Asenath of the Granite Pillar has force marched her army clean across the Empire to assist Highguard's Marcher allies against the Jotun. The enemy has fled by the time the Pillar arrive, but the virtuous commitment of Asenath's soldiers stirs the hearts of even the most grudging Marcher. There is no fighting here for them to demonstrate their virtue, but the inspiration they bring has influenced many and encouraged support for the Marcher mandate that would bind the Reeds to the marshes for a generation to come.
+
+It may be that there is another effect as well. Asenath has publicly thrown down the gauntlet to challenge Bushel Sykes, the Marcher traitor who supported the Jotun. While Shel's allies have fled Bregasland, the old poacher has stayed behind. Those who knew him well are not surprised - he has lived his whole life here and few expected him to flee. What they did expect was for him to go to ground. There is nobody alive who knows the marshes of Bregasland better than Bushel Sykes. If he went to the reeds, not even the [[Kimus|Thousand Eyes of the Sun and Moon]] would know where he was. Good luck finding him then.
+
+But he hasn't gone to ground. Quite the opposite. A few days before the summit begins, the old man is spotted pulling up at the busy fishing docks at Ottery. It's just about the best place in Bregasland to find anyone. If that's the old man's idea of a hiding place, then maybe his time with the Jotun has addled his brain. If General Asenath really wants him, he's not exactly making it difficult for her to get what she wants.
+
+The prognosticators check the Sentinel Gate and nobody is surprised to find there is a small conjunction for five people to the Fishing Docks at Ottery on Saturday at 21:15. The civil service have assigned responsibility for the conjunction to General Asenath and advised her that this has all the hallmarks of a trap.

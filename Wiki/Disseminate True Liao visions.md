@@ -1,0 +1,72 @@
+---
+revision_id: 93234
+revision_date: 2022-07-14T16:40:00Z
+categories:
+- Senate Motion
+- 382YE Summer
+aliases:
+- Disseminate_True_Liao_visions
+---
+
+
+__NOTOC__
+To spread the accounts of True Liao Visions written and compiled by the Seer of the Gateway to every corner of the Empire, and to all peoples the Empire trades with. A cost of 10 thrones per season.''Proposed by Redoubt, seconded by Madruga.''
+## Overview
+* To distribute the publications of the [[Seer of the Gateway]] across the Empire and to everyone the Empire trades with.
+* Passed.
+## Date
+* Summer 382YE
+## Costs
+* Upkeep: 10 Thrones each season
+## Outcome
+* As [[Stings_like_the_truth#In_Defiance|suggested]] by the Spider's Vantage Spire of Urizen, this will allow people across the Empire and beyond to read of True Liao visions written by the Seer of the Gateway.
+* During the Autumn Equinox 382YE, this motion was [[Amend_distribution_of_Echoes_of_the_Labyrinth|amended]] to exclude the [[Iron Confederacy]].
+## Distribution
+Following this motion, the Civil Service arranged distribution of ''[[Seer_of_the_Gateway#Publication_2|Echoes of the Labyrinth]]'' by the [[Seer of the Gateway]] to foreign nations - or at least to the nations the Empire trades with. Some foreign nations have received the volumes enthusiastically, some a little less so. By the Winter Solstice 382YE, the mixed general response to the accounts had become clear.
+### Asavean Archipelago
+The testaments of past life visions have been reasonably well received among the Asaveans - although there is no immediate assumption that these visions are particularly "true" or relevant. They do increase interest in the Way somewhat, however, and their sheer novelty means they are being discussed widely among educated Nemorians.
+
+Of especial interest is the vision of Aureliana di Sarvos, and her guide priest Reichard Callan Remedios von Holmauer, during which she was revealed to be a reincarnation of one of the ancient Coriolani patriarchs. The fact of her reincarnation does not particularly inspire interest, but the details the vision reveals about a key point in Nemorian history is quite another story. Julius Coreliani is considered a martyr, whose refusal to bow to the rebels is held as a key factor in inspiring Nemorian troops to fight and ultimately defeat the uprising that sought to overthrow the Plenum. 
+
+The account of the vision has come at a key moment – the story of how this revered ancestor of a powerful Plenum family refused to bow to a group of rebels and was prepared to pay the ultimate price to oppose them is inspirational. Speeches have been made in the Plenum referencing the vision, and calling on the descendants of the Asav to again unite to defeat those who wish to destroy the Nemorian way of life. The volume containing this vision is now very much in demand, while the others remain more interesting to collectors and priests of certain gods than to the Asavean people.
+
+A noted scion of the Askelioni family who has penned several monographs on the foundation of Nemoria met with Aureliana di Sarvos during the Autumn Equinox to discuss the vision and its place in Asavean society. While the Asaveans have only passing interest in visions of foreigners, it is likely that any future volumes touching on Asavean history will be likewise enthusiastically received.
+
+### Principalities of Jarm
+The reception of Echoes of the Labyrinth in Jarm could not be more different. They sell poorly - with the exception of local followers of the Way and collectors of exotic tomes most of the citizenry largely ignore them. There is no lack of exotic tomes arriving on the Jarmish quaysides after all. A few collectors find the accounts contained in the books fascinating, and pore over them for insights into Imperial history. The local followers of the Way on the other hand have embraced the ''Echoes of the Labyrinth'' enthusiastically - it represents a connection the Imperial version of the Way that has been sorely lacking and goes some way towards blunting the effect of the Sumaah missionaries at least in the short term. From the point of view, of the Jarmish authorities, it seems the books are largely harmless - and significantly less disruptive than passionate missionaries.
+
+### Faraden
+The Faraden response has been somewhat mixed. Volume 3 of ''Echoes of the Labyrinth'' contains the vision of poor tragic Marad of Oguai - the Faraden hero whose vision of the Labyrinth left him broken and on the verge of death. The powerful Ogudai family claim the account paints their beloved scion as a whining coward. Marad himself has no recollection of the vision, and can neither confirm or deny this version of events but is by all accounts devastated by the revelation that despite seeing himself as a true dedicate of the Courageous traditions of the Faraden, he allowed fear to overwhelm him. The Ogudai warrior-clan already have issues with the Empire; this publication has only exacerbated that problem.
+
+Further concern has arisen around the vision of Collwyn de Rondell of Dawn and Astrid Fjellrevening Rezia di Tassato. In it, the Faraden Genghis Modnos is depicted as a cowardly, conniving villain without even the basest [[Loyalty]] to his family, prepared to sacrifice his own daughter to malign spirits in pursuit of his cause. This has caused an uproar among the Modnos family. Genghis is remembered fondly as an effective leader, a man committed to working to spread knowledge of [[Malign spiritual presences#Vengeance|Justice]] to the Empire. To have Imperials spreading "lies" about him in such a manner is unacceptable to them. On discovering that these books are apparently being sold across the Known World, the current matriarch of the Modnos became incandescent with rage. The family are likely to seek to take steps to avenge themselves on people they see as liars who have besmirched their family honour.
+
+There is another consideration of course. Orthodox Faraden priests teach that reincarnation takes place only within the family. There is disagreement as to whether an ancestor is always reborn as one of their own descendants, or whether a spirit can be reborn to any scion of the line... but the implications of these two visions are unsettling some of the priests. It is possible that Collwyn de Rondell has Modnos blood in his veins, but to the priests who believe in the ''direct descendance'' theory of souls this would mean that he is effectively claiming that he or one of his parents, grandparents, or great-grandparents was born of a tryst with a Modnos.
+
+With all that in mind, however, the ''Echoes of the Labyrinth'' have proved surprisingly popular among the Faraden in general. Indeed, the stories recounted have sparked spirited debate, generally good-natured, especially between priests and scholars. A great deal of discussion arises from the more popular tales - not only those that deal most obviously with the Faraden virtues of [[Courage]], Justice, Loyalty, [[Prosperity]], and [[Pride]] but also those where the visionary has clearly experienced other spiritual forces. Essays are being written and lessons drawn not only from the actions recounted, but also the ways that this person or another would have made different choices in the same situation.
+
+Their impact is not restricted to the educated - the easy accessibility of the printed books makes them popular with merchants looking for something to read on the road, as well as those who have never seen the Empire but are fascinated by the glimpses into its history that these tales provide. It has also created a good deal of interest in the [[Liao#True Liao|True Liao]]. 
+
+Whatever else the Empire does, it would be a crying shame to stop making the books available in Faraden - just so long as steps can be taken to ensure there is no further grounds for the families to seek Justice against the Empire. Lady Saretta of the Red Moon has apparently written to the Ambassador to Faraden laying out some of the Modnos and Ogudai concerns, and suggesting possible courses of action.
+
+### Commonwealth
+The scholarly interest of some of the Faraden is reflected in the Commonwealth. The accounts they contain are discussed extensively outside the relatively small community of Imperial emigrants and local pilgrims. Each volume has been studied extensively by moral philosophers, who weigh the visionary tales in terms of how they may contribute to the [[Commonwealth#Religion|greater good]]. The Commonwealth appears to have no access to true liao itself, and so the books also have a certain additional novelty value.  
+
+The volumes possess considerable interest to the followers of the Way in the Commonwealth of course. Indeed, as with Jarm, the civil service suggest that the impact of Sumaah missionaries has been somewhat blunted at least in the short term by the ''Echoes of the Labyrinth''. Pilgrims in the Commonwealth tend to have a particularly scholastic approach to the faith, and have welcomed the publication of the Seer of the Gateway's volumes not least as a connection to the heart of the faith in [[Bastion#Bastion.2C_the_White_City|Bastion]]. The accounts have apparently become regular topics of discussion for circles of the faithful, and the local priests are quick to adopt them as a useful tool for teaching about the virtues.
+
+### Sarcophan Delves
+Likewise, the Civil Service report that the books have been very well received in the Sarcophan Delves, and again not solely among pilgrims of the Way living there. Of course the books have proved popular both with Imperials living in the south, and with native devotees of the Way. Again, they have had some success in mitigating the effects of Sumaah missionaries speaking out against Bastion and the Imperial Synod - the excitement they cause drowns out the claims that the Empire has lost the way at least for the moment. All five volumes are very much in demand, serving as a connection to the Empire and to Bastion for those living in Sarcophan.
+
+They are also popular with people who do not follow the Way simply for the insights they offer. It seems that few Sarcophan question the idea of either past lives or the power of True Liao to allow one to experience profound visions of them. Of all the nations in the Known World, the Sarcophan have the keenest understanding of the miraculous effects herbs and narcotics can create and they accept the idea of their spiritual potency without any difficulty. The earlier editions are already becoming something of a collector's item. Some of the theology leaves a few Sarcophan a little uneasy, but for the most part it is taken at face value - there is nothing in these first five volumes that particularly concerns the Sarcophan, or challenges their largely relaxed attitude to matters of religion.
+
+### Axos
+Not so in Axos. The contents of these five slim volumes have caused a stir among many of those who have read them - claiming as they do to recount verifiable past-life visions experienced by Imperial citizens. There are calls for the books to be banned, and several priestly orders have openly denounced them as yet another attempt by Imperial priests - slaves of the Great Enemy - to trap the Axou in the Creator's web of lies  It seems to be mostly priests who are concerned about them, and their contents; most Axou apparently consider them to be little more than artfully created fiction.
+
+### Iron Confederacy
+The response of the Axou is mild in comparison to that of the Suranni, however. As soon as the books arrive on the docks at Robec, they are seized by the priests of [[Suranni_pantheon#Arav_the_Judge.2C_Maiden_of_Silence|Arav the Judge]] and burned. Jeanne de Hibernet requested that the Empire immediately stop sending its unwanted books full of lies and blasphemy to the Iron Confederacy, and during the Autumn Equinox the Imperial Senate passed a motion to [[Amend_distribution_of_Echoes_of_the_Labyrinth|cease distributing the tomes]] to the Iron Confederacy.
+### Sumaah Republic
+Once Zemeh was reopened to Imperial vessels, copies of ''Echoes of the Labyrinth'' were made available in the Sumaah Republic. The volumes have apparently been of great interest to the präster and are eagerly received by a widespread network who love to discuss the stories contained within, and what lessons might be gained from them. However, the High House of Vigilance keeps a strict record of who purchases the books, and while they are not at this time proscribed they are not considered suitable for dissemination to the general populace. The Sumaah have shown no inclination to spread information about their own past life visions beyond their shores.
+
+### Other Nations
+Copies of the Echoes have been sent to [[Otkodov]] - to the [[Thule]] - where they have apparently been accepted without comment. It is not clear who, if anyone, is reading them but merchants report that the books are invariably purchased in bulk by one of a handful of polite warlocks.
+
+Following the [[Ratify_treaty_with_the_Grendel_Autumn_383YE|Grendel peace treaty]] the books have obviously been made available to the [[Grendel]]. Apart from a few collectors, the orcs of the Broken Shore have proved largely disinterested in the past life visions of foreign humans.

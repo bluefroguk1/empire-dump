@@ -1,0 +1,41 @@
+---
+revision_id: 106683
+revision_date: 2023-12-29T18:05:46Z
+categories:
+- Eternals
+---
+
+
+## Eternal of Night
+### Sobriquets
+Janon is most commonly known as the ''Shadowed Fire''. This epithet refers to the strong symbolic connection between the eternal and the rune [[Zorech]], but also to the idea of a fire that warms the body, but provides only a limited amount of light. Some stories credit Janon with the ability to peer out of fires that burn low in the presence of lovers, for example, while poets often claim that the shadowed fire is a metaphor for the mortal spirit, whence comes all passion.
+
+Like many Night eternals, Janon collects names to itself. Some artists call it the ''Muse of Fire'' and claim the inspiration it brings can come at the price of health or sanity. It is variously called ''Firebrand'' and ''Torchbearer'' - it encourages anyone with strong philosophical, political or social stances to express their causes without fear of censure.
+
+The Faraden call it the ''Night Sword'' and claim that it sometimes offers boons to those who give up everything in the name of vengeance (indeed, there is said to be a ritual specifically designed to sever a Faraden vengeance-seeker from their past that involves burning symbols and mementos of the life they leave behind in pursuit of justice).
+
+### Appearance
+Janon appears proud of the fact that it is a ''wyrm'' (that is, its true form is that of a wingless lizard as distinct from the serpent-form Night eternals who possess feathered wings such as [[Sung]]). As with other wyrms, this tends to mean that the Shadowed Fire is more earthy and concerned with practical matters than the more cerebral and philosophical serpents such as [[Soghter]]. Janon is rarely encountered in anything approaching its 'true form' however - as with most Night eternals it loves to change its shape. Old stories suggest its true form is that of a ruby-red lizard with patches of golden scales, who glows like the embers of a banked fire.
+
+The Shadowed Fire puts on bodies in the way a human might put on a suit of clothes. It is known to claim that a body, like a sword or a harp, is nothing more than a tool. It should be honed, of course, but the body is not the person - the person is the burning spirit shaped by passion, that hides inside. Since the [[Imperial Orcs]] became part of the Empire, Janon has increasingly been seen adopting the form of an orc.
+
+The heralds of Janon usually refer to themselves as members of its band - as its companions. The only constant among them is that they tend to be easy-going, open with their emotions and passions, and capable of reckless action at the drop of a hat.
+
+### Concerns
+Janon burns with passion, and encourages others to be like it is. Inevitably, this passion sometimes takes the form of carnal pursuits - Janon is known to be prone to regular infatuations with mortals from all walks of life. However, it would be foolish - perhaps even dangerous - to assume that Janon is a dissolute rake. It encourages all passions equally - it is as likely to help someone take vengeance on a hated enemy as to help a general rouse her shattered troops before a battle, or encourage an uncertain senator to make a landmark speech about a contentious topic.
+
+It is known to have a love-hate relationship with followers of [[The Way|Way]]. It encourages mortals to embrace their passions, and several times it has worked through allies in the [[Sevenfold Path]] [[Conclave order]] to give support and inspiration to the priests of [[Ambition]], [[Courage]], [[Loyalty]] and [[Pride]]. Unfortunately, it has also offered succour to cults of [[Malign_spiritual_presences#Anarchy|Anarchy]] and [[Malign_spiritual_presences#Vengeance|Vengeance]]. At various points, its involvement with such blasphemous or heretical cults has led to a (usually short-lived) [[Declaration#Declaration_of_Enmity|declaration of enmity]]. 
+
+Worse, Janon is known to offer its aid to the [[Jotun]] barbarians on occasion. It makes little effort to conceal this fact, but as near as agents of the [[Shuttered Lantern]] can tell, its aid is limited to evocation in a few rituals - the Jotun favour more direct magics in their battles against the Empire.
+
+Even when it is not patronizing heretical cults or barbarian enemies of the Empire, Janon is unequivocal in its belief that passion must be followed despite the constraints of society. Laws that exist to censor, or restrict freedom of expression, are anathema to it. It is said to work occasionally with [[Lashonar]] to encourage mortals to rebel against repressive tyrannies. Its support of individual freedoms is not unilateral - on rare occasions where someone has used the defence of their own freedom as a way to take it away from others, Janon has been known to whip itself into a devastating fury with unfortunate consequences. 
+
+Janon enjoys the company of artists, but also warriors such as the [[The Brass Coast|Freeborn]] [[The_Brass_Coast_military_concerns#Kohan|kohan]], political individuals committed to a cause, and anyone with an interesting obsession.
+
+### Boons
+Janon encourages people to follow their passions. It is said to have the capacity to recognise people with [[Heroic_skills#Hero_Points|reserves of inner strength]]; it is known to be able to revitalise those reserves, stoke their power and even occasionally give boons that let mortals use their heroic passions in different or more effective ways in pursuit of their driving ambitions. Consequently, it is often evoked during rituals such as [[Embrace the Living Flame]] or [[Still Waters, Running Deep]].
+
+The touch of the eternal is known to create powerful enchantments similar to [[Freedom of the Soul]], [[Secrets of the Empty Heart]] or [[Unfettered Anarchy]] as it deems appropriate. It also has some ability to free individuals from the imposition of unwanted passions or obsessions, especially those that come from curses.
+ 
+Janon apparently loves [[Materials#Tempest Jade|tempest jade]] and  [[Materials#Orichalcum|orichalcum]], and those seeking its aid sometimes offer gifts crafted from these materials.
+

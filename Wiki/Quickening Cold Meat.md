@@ -1,0 +1,64 @@
+---
+revision_id: 107320
+revision_date: 2024-01-22T14:34:02Z
+categories:
+- Warfare
+- Winter Ritual
+- Rituals
+aliases:
+- Quickening_Cold_Meat
+---
+
+## Rules
+
+### Performing the Ritual
+ 
+
+ This ritual targets an [[Imperial armies|Imperial army]]. The [[Imperial Military Council|general]] responsible for the army (or the [[egregores|egregore]] if the general is not at Anvil) must be present throughout.
+
+
+### Effects
+This ritual raises a large number of undead husks to join a campaign army.  The presence of these husks will raise the strength of the campaign army by the equivalent of 1,000 additional soldiers. 
+
+While the enchantment is in place the general of the army experiences a [[roleplaying effect]]: ''You find it easy to see everything in terms of cost and benefit. The lives and needs of others, especially strangers, are meaningless if they get between you and your goals and what you consider to be best. You feel a powerful urge to ensure you and yours are safe, regardless of the cost to others.''
+
+The ritual draws on creatures from the Winter realm. These creatures have been known to exert unpredictable influence those fighting alongside them, especially those with the [[draughir]] [[lineage]]. Effects might include lingering roleplaying effects or temporary hero points for the captains of military units supporting the enchanted army. Such effects are unpredictable; when they occur they are described in the appropriate Winds of War.
+
+
+### Additional Targets
+This ritual can affect additional campaign armies in the same territory. Each additional campaign army increases the magnitude by 120. The general responsible for each army must be present throughout the ritual.
+### Assurance
+Given the ritual calls spirits from the Winter realm, and uses the power of an [[eternal]], in this case [[Wise Rangara]], it has certainly been created with an [[Ritual_theory#Agreement|assurance]]. What this assurance is, however, is not currently known.
+
+
+## Description
+This ghastly ritual prises open a portal between the mortal realm and the Winter Realm and draws through a large number of incorporeal Winter spirits, sending them out to find and inhabit the corpses of the dead. The resultant creature is an undead husk, bound and controlled by the magic of the ritual to serve as a soldier in an upcoming conflict. The husks are under the nominal control of the general of the army they are attached to but are not clever enough to follow very complex orders. When the enchantment ends, the inhabited corpses simply drop where they stand, like broken marionettes.
+
+The ritual is very hard to perform because it takes a great deal of energy to draw the spirits forth; once the gate is torn open a great number of spirits will pour through, bound by the power of Winter to obey and fight for the chosen commander. Attempts to create a lower magnitude version of this ritual have proved frustratingly ineffective. It appears that even if the ritualists wish to create only a single undead creature it is impossible to bring the magnitude much below a hundred. While the rite binds spirits quite effectively in great numbers, creating the initial conduit to draw forth Winter spirits is very hard indeed.
+
+Likewise, it seems difficult to create more short-lived husks. Once the spirit has entered a corpse, it clings tenaciously to its host. According to scholars from [[Axos]] and the [[Sarcophan Delves]], 'short-lived' husks can be created but the magnitude of the ritual does not appear to be that much lower - it requires additional magic to bind the spirit in such a way that it will 'come loose' after a short time.
+
+Husks also seem unable to pass through the [[Sentinel Gate]]. As with creatures such as the shadow warriors bound by the [[Conclave of Trees and Shadow]] or the prismatic soldiers raised by [[Carve the Crystal Guardian]] it seems that the magic of the gate cannot transport the bound Winter spirits; the corpse appears, inert, at the other end and the Winter spirit departs whence it came (presumably).
+
+The Winter spirits seek out remains that are intact enough to move and fight (although there is a theory that many other remains, too decayed or broken to attain mobility, are also inhabited for the duration of the enchantment) - inhabited corpses stop rotting for the duration of the enchantment. The husks created by this ritual are hard to destroy; although they can be downed by wounds sufficient to kill a tough mortal, they quickly recover and rise again, seemingly none the worse for wear. Unless they are executed or struck with a crippling blow, they will clamber to their feet until they are so badly mutilated the spirit is forced to depart the corpse and return to the Winter realm. The undead use weapons, but they do not seem to be truly sentient - they are more like cunning animals (or, indeed, [[Varushkan_Monsters#Wolves|wolves]]). They may moan, but rarely speak and when they do it is invariably to gibber a nonsense phrase (although [[voice for the dead]] can grant them speech for a short time the results are generally quite horrific).
+
+Some ritualists express concerns about what happens when a husk gives up the ghost, either due to massive mutilation or the end of the enchantment. If it is so difficult to draw the spirits to the mortal realm in the first place, how can it require no energy for them to return? Such magicians watch carefully for signs of increased undead activity in an area after this ritual has ended.
+
+The binding element of this ritual keeps the husks mostly under the control of the army commander ... but they are still Winter spirits. Incautious orders can lead to them falling on the recently deceased and devouring them, or even occasionally attacking soldiers on their own side if they are given unwise orders. A disciplined, sensible commander can keep the undead under control provided her will is strong and her orders clear and unambiguous.
+
+All in all, this ritual is not very popular and has been used extremely rarely. Leaving aside the general disgust at the idea of mistreating the bodies of Imperial citizens (which is a major obstacle to its use), there is still the matter of the dread experienced by soldiers serving alongside a legion of flesh-hungry shambling corpses possessed by alien spirits. The ritual also tends to leave large numbers of rotting corpses scattered around a battlefield, and when the enchantment end the dead bodies simply fall where they lie. While the corpses can be reanimated again, they will be even more horrific for having been hacked and mutilated in the course of their previous battles.
+
+While the Empire does not make much use of this ritual, its effects have been encountered on several occasions when fighting the [[Thule]], and the necromages of the [[Sarcophan Delves]] are said to reinforce their own armies with tomb-hordes on the occasions when they skirmish with their neighbours.
+
+In Spring of 378 the [[Imperial Conclave]] passed a [[Declaration#Declaration_of_Concord|Declaration of Concord]] stating that this ritual has been known to contradict the funerary traditions of the deceased.  This corrupting of a nation's traditions has led to symptoms manifesting upon the nation's [[Egregores|egregore]] and the revealing of other, darker, entities.
+
+During a [[Archmage#Parely|parley]] that took place at the Summer Solstice 385YE between [[Wise Rangara]] and the [[Archmage]] Ematius of the Great Library of Ankarien, the eternal confirmed that despite a great deal of speculation they were the one responsible for helping to create this ritual and provided access to the Winter spirits it calls forth. The ''Ancient One'' declined to provide any other details about this agreement.
+
+(''OOC Note: Under most circumstances, any husks created during Profound Decisions events will, unfortunately, have to remain primarily as a downtime or plot resource rather than something that can be used on the field. At player events, this might not be the case; but we cannot commit to phys-repping undead warriors at short notice nor can they be used in uptime battles due to their inability to pass the portal.'')
+
+## Common Elements
+It is hard to talk about common elements with a ritual that has been performed only a handful of times in Imperial history. The ritual opens a portal to the Realm of Winter through which spirits pass, and binds them to seek out and inhabit nearby corpses. Invocations that open a conduit to Winter; exhortations to serve the chosen character; bindings that keep the husks from running amok; girding or crowning the target general, especially giving him or her a rod or staff of command worked from bone; the runes [[Hirmok]] and [[Yoorn]], and the constellation [[The Drowned Man]] may all be appropriate elements to use in this ritual.
+
+
+
+

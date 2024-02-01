@@ -1,0 +1,58 @@
+---
+revision_id: 86534
+revision_date: 2022-02-02T12:08:34Z
+categories:
+- Winds of Fortune
+- 380YE Autumn
+- Recent History
+aliases:
+- Song_of_the_lakefolk
+---
+
+
+
+Inga stared from atop the rocky outcrop, fishing spear held in hand, clutching her fur hood tight to her head. Though the skies were clear, a chill wind still blew and she shivered as it passed by. Behind her, her two dogs pulled the sled on which she planned to carry the day's catch. Even now, in the dying days of summer and here in the far north, the Atkonaroq had not quite begun to freeze - and there was still good catching in the water. The stocks of fish were still high, and on a good day, you could expect to fill the sled's panniers and carriers to busting.
+
+It did not look like it was going to be a good day.
+
+Some quarter of a mile away, on the northern shores of Atkonaroq, dark figures gathered in their hundreds. They looked liked people, clad in large, thick cloaks made of the skin kind of animal. They looked a little like Suaq... but Suaq would wear more than ''just'' a thick skin - and as she watched the skins shifted and she saw bare flesh below, muscular and strong. Their hands tightly held sharp spears. Where had they come from? She gasped as four more surfaced from the lake, the skins they wore wet and shiny from the deeps, dripping as they marched forward. Were they... were they swimming from the lake?
+
+As she watched, she saw that they surrounded one central figure. Unlike the rest, he wore no skin - instead, he sat, shivering, naked in the open wind. He stood, arms folded across his chest, looking wistfully at the figures which surrounded him. The wind changed, and the sound of the beach was carried towards Inga - and she realised that he was singing.
+
+He sung of theft in the night, of thieving hands who hunt and hurt. It was a song of fear and his pain, beautiful and terrible. He sung of his lost lover - and here he gestured out across the lake - of his depths in which he could no longer swim. And then his song began to turn to raiding, and war, and righting wrongs: and the figures around him raised a mighty cry.
+
+The dogs began to bark, and some of the figures broke off from the main group and began to head up the hill towards the rocks behind which Inga stood. Swearing, cursing, she hooked the dogs back up, and jumped up onto the sledge. "Ride! Ride!": the dogs barked and ran, fast and swift, across the snow. Inga glanced back. The dark figures watched from the hill, standing still, silhouetted against the clear blue sky.
+
+No fish today, it seemed.
+
+
+## Overview
+A small force has amassed on the northern shores of Atkonaroq, in the far reaches of Sermersuaq. They appear to be made up of many strangely-dressed hunters - all clad in distinctive dark skins and wielding spears. They have set up camp on the northern shore, and bands have them have begun raiding nearby settlements. Their purpose is unclear, however. They do not seem to have come to kill or threaten - when violence has broken out, it has only happened as Winterfolk have defended their homes, and the raiders have not pressed any opportunity to chase people down. However, they have also seemingly not come to steal - they run through halls, through houses and outhouses, certainly searching for something - but whatever it is, they find nothing and take nothing too.
+
+They are by all reports clearly quite angry and determined about their task, and have refused all attempts to speak to them. They tend to have come upon halls in enough numbers that not much time has been spent exchanging words. Some have identified themselves - when challenged in battle - as "companions of the Ætheling of Atkonaroq" - whatever that means.
+
+Their numbers appear to be growing by the day, and it seems clear that this new threat - if that is indeed what it is - must be dealt with... one way or another.
+
+## Significance
+The strange presence in Semmersuaq is not large enough to be considered a significant military threat. It is much smaller than an army - and has not demonstrated any particular martial capacity or tendency. It's not even clear if this force is really hostile - it is potentially a threat of some kind - but it is not yet something that ''demands'' the attention of the Military Council.
+
+Even if they are not yet a threat, they are certainly a nuisance. Their activities are disrupting farms and businesses in the area. Inadvertently, perhaps, they are trampling crops and disturbing animals and worries about the dangers posed by the intruders is cutting into the profits of businesses. As a result, if nothing is done, the farms and business in the territory will lose 36 rings from their income next season. 
+
+Civil service have attempted to use divination magics to work out what might be transpiring, but neither Eyes of the High Places nor Eyes of the Sun and Moon have had yielded any information. Crucially what they have discovered is that while there is no conjunction to the area this summit - there is a conjunction near the shores of Atkonaroq Lake in Winter. Since it will not be possible to send help before then, then the inhabitants of the area will need to fend for themselves.
+
+One option that is definitely available is that the Synod could send a named priest to the area to use liao to inspire the inhabitants and guide their response.
+
+## Options
+To influence the people in a useful way will require a suitable judgement by one of the Assemblies of Prosperity, Vigilance, or Wisdom. Any one of these assemblies could name a priest to travel north with 25 liao to inspire the people.
+
+A suitably worded judgement by the Assembly of Prosperity could encourage the local people to positively engage with the invaders - offering help and assistance while looking for an opportunity for suitable reward or payment. This approach gives the best chance of allowing the Empire to benefit from what is happening - but if these strangers are enemies of the Empire, the risk is that the citizens may unwittingly be helping them to harm the Empire. By the time it is clear what they want it may be too late. This wouldn't offset the problems being faced by farms and businesses but the potential benefits could well outweigh those losses.
+
+The opposite approach would be for the Assembly of Vigilance to encourage the local people to bar their doors against these newcomers. A concerted show of strength should force these strangers to keep their distance. This approach gives the best chance of preventing the intruders from achieving their goals but if they are determined in their efforts then this approach is the one most likely to turn the situation into an armed conflict. It would however ensure that the incomes of virtuous farmers and business owners would be protected.
+
+The third way would be for the Assembly of Wisdom to pass a motion encouraging citizens to find out everything they can about the newcomers. Even if they stop short of actual spying, they might devote time to observing the strangers and finding out what they can. This approach gives the best chance of finding out what the intruders are up to - but does still risk that the intruders will take advantage of the situation to achieve their goals before anyone in Anvil can stop them. It would do nothing to address the losses of the locals however.
+
+As always, in the event that multiple incompatible judgements are passed, the judgement that has had the largest amount of liao spent on it takes precedence.
+
+## Resolution
+The Assembly of Wisdom, with some support from the Wintermark National Assembly, resolved to take the cautious route of gathering more information. This means that the disruptive raids by the strange hunters continue leading to disruption of [[business|businesses]] and [[farm|farms]] in [[Sermersuaq]]. Savik Summerstorm is coordinating efforts in the area to learn more about this situation.
+Regarding the Lakefolk of Atkonaroq. While it is important to act, it is folly to act without knowledge! To this end, we encourage the people of Sermersuaq to learn all they can of the nature and purpose of the Lakefolk and despatch Savik Summerstorm to lead this wise work.

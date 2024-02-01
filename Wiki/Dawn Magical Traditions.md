@@ -1,0 +1,57 @@
+---
+revision_id: 107308
+revision_date: 2024-01-22T11:34:25Z
+categories:
+- Magic
+- Dawn
+- Archetype
+aliases:
+- Dawn_magical_traditions
+---
+
+
+Those who study magic are called witches in Dawn. Witches can be any gender, and cover several traditions - [[#War witches|war witches]], [[#Weavers|witch weavers]] and [[#Guisers|guisers]].
+
+Of all the nations of the Empire, Dawn seems to be the most closely affected by the magic of the [[eternal|eternals]]. Heralds, the faithful servants of the eternals, are a much more common sight here than anywhere else, and Dawn legends are replete with personal encounters between nobles and powerful eternals. What is clear is that for better or worse, some eternals take a particular interest in the Dawnish people, particularly in the nobility.
+
+## War witches
+War witches are [[Magical skills#Magician|magicians]] who master useful incantations and take the battlefield. Those that are part of a [[noble house]] are expected to fight with the rest of the household. War witches train alongside a house's warriors, using their magical skills to deliver aid at the most pivotal moments of battle. Some are skilled with weapons, but all are drilled so that they can keep their wits in the thick of battle, and skilled war witches are highly prized by their house.
+
+While a war witch may master any spells, two popular incantations are [[empower]] and [[heal]]. The former allows a war witch to support their fellow by driving them to feats of heroism, while the latter is a potent battlefield healing spell that can be applied in the thick of the fray with [[heal#Swift casting|some additional effort]].
+
+Most war witches are either a noble or a [[knight-errant]]. Dawnish yeofolk who study magic but have disavowed the pursuit of glory are usually weavers or guisers.
+
+## Weavers
+Those who emphasize the study of ritual magic are usually referred to as [[weaver_cabal|witch weavers]]. They are named for their habit of focusing on weaving as part of their magic, but the term is used for anyone who uses ritual magic in Dawn. The [[glory|glorious]] and forthright nature of Dawn means that they can be a little skeptical of the more group-oriented practice of ritual magic. Many noble magicians compensate for this by striving to be a powerful war witch as well, the two traditions being by no means exclusive.
+
+While it is uncommon for a noble house to include an entire team of witch weavers, it is very rare for houses to be formed only of weavers, none of whom have any experience as war witches. More common are the weaver cabals, groups of witch weavers drawn from all elements of Dawnish society, who stand outside the direct control of the noble houses.
+
+The first weaving cabals began as a place for noble magicians to trade skills and cultivate magical and crafting techniques, but eventually they found it more effective to leave their houses to work magic together. Over time the cabals became independent of the Dawn houses, choosing their own heads and even adopting their own children. As the cabals cannot set Tests of Mettle, they include yeofolk amongst their numbers. It is not uncommon for a noble to forsake their noble house when they join a weaving cabal, as a form of self-imposed exile or retirement.
+
+Much of their time is spent weaving cloth, embroidering banners and engaging in similar arts. As well as being beautiful and practical works of art, the items the weaver cabals produce tend to have protective charms woven into them. Some cabals now practice other forms of ritual magic but Summer magic remains closely tied up to the making and embroidering of cloth. A properly witch-woven banner from Dawn is the envy of every military unit in the empire.
+
+Many weaver cabals perform magics to bring good fortune to villages, fertile harvests and good weather. As a result they tend to be more popular with Dawnish yeofolk than the war witches prized by the noble houses. The popularity of the weaver cabals has translated into considerable political clout. As a result few noble houses will refuse a request by a noble witch to study with a weaver's cabal even if they harbour a fear that the student may not return to their house.
+
+Although secretive, and rarely acknowledged, some weavers specialize in curses. Several famous tales (including the song [[Weaver's Curse]] speak of knights who jilted their magical lovers, only to find their enchanted banner a curse that ensured their inglorious defeat.
+
+## Guisers
+In Dawn, some yeofolk practice [[dramaturgy]] as a way to create ritual magic, rather than become a weaver. They are often compared to the [[The_Marches_magical_traditions#Mummers|Mummers]] of the [[The Marches|Marches]], and the two groups share several traditions and a common ancestor. They tend to be itinerants, traveling from place to place around Dawn and visiting fairs, tourneys and banquets to offer their services or perform for a few coins. They offer their magical services primarily to the yeofolk, but it is not uncommon for a [[seneschal]] to employ a band of guisers to perform a ritual on behalf of their [[Earl]]. Their peripatetic nature, and the fact that they practice ritual magic, means that they are sometimes viewed with suspicion - while the entertainments and services they provide are appreciated, they are rarely entirely trusted. Bands of guisers are regularly assumed to contain spies who enhance the profits they earn from magic and drama with the sale of interesting titbits they gather as they meander around Dawn. There is generally little affection between bands of guisers and weaver cabals - guisers practice their magic openly, and more than one weaver cabal has ended up blamed for rituals actually performed by a band of guisers who have since left the area. 
+
+Like the mummers, guisers tend to have a smattering of lore in several realms but unlike their Marcher counterparts they have a marked tendency towards magic from the realm of Night. Being able to [[The Twilight Masquerade|create a magical disguise]], [[Signs and Portents|divine significant events]], [[Whispering Shadow Courtiers|uncover hidden secrets]] and provide magical entertainments such as [[The Chamber of Delights]] are all valuable services guisers are known to provide.
+  
+Guisers tend to weave formal dramatic conceits into their rituals. Their performances sometimes appear 'stagy' to observers from the League; characters in a guiser production are much more likely to declaim a speech than they are to engage in natural conversation with each other. Stories are almost invariably tragic in nature, and the most popular entertainments - and rituals - involve the rise and heroic death of the protagonist. Many rituals and performances involve strong, obvious elements of romance - the greatest guisers pride themselves on being able to make their audience weep with their art. 
+
+When working dramaturgy a guiser is more likely to have a sumptuous costume than they are to have a beautiful mask. When masks are used they are often understated, practical and minimalist, allowing the ritualist to express their character's inner conflicts through facial expressions. Guisers use their beautifully crafted costumes to draw in [[Dawn_hearth_magic#Girding|hearth magic]] to 'gird' themselves in the trappings of the persona they will assume.
+
+Guiser performances often involve music of some sort, and some guiser bands work with a Troubadour as fellow-entertainers or supporters. By working with a priest, the guisers gain a measure of respectability. Likewise, while guising is generally seen as a yeofolk pursuit, this does not prevent nobles serving as patrons for such groups, employing their magical or entertainment services, or indulging in dramatic pursuits.
+
+
+## Heraldic Magic
+A common Dawnish alternative to dramaturgy is the use of [[Legendary_beasts#Legendary_Beasts_and_magic|legendary beasts]] to create powerful magical effects. Both spellcasters and ritualists may evoke the spirit or qualities of a legendary beast when performing magic, a traditional form of [[totem magic]].
+
+## Enchanters
+The apogee of magical power in Dawn is the tradition of the [[Earl#Enchanter|Enchanter]], a witch who becomes [[Earl]] of a house. Wielding both the magic of incantation and ritual, enchanters are viewed as mystical powerhouses regardless of their actual abilities, not least because they often have the resources of their entire house at their command. Many make pacts with the [[eternal|eternals]] to further enhance their arcane powers, and deal with eternals on a more-or-less equal footing, backing up their magical might with political clout. Enchanters have played a key role in the history of the Dawn, and in stories are often portrayed as patrons and paramours of famous knights.
+
+
+
+

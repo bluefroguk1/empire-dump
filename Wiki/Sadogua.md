@@ -1,0 +1,51 @@
+---
+revision_id: 97512
+revision_date: 2023-02-14T10:38:37Z
+categories:
+- Eternals
+---
+
+
+## Eternal of Night
+## Sobriquets
+Sadogua is most commonly known as the ''Brother of Wizards''; the eternal claims to be male, although this does not prevent him from taking on female guises when the mood strikes.
+
+Sadogua likes grand titles and collects them. He clearly enjoys being flattered, especially when the flattery is amusing. Common sobriquets include the ''Toad King'', ''Wyrm-King'' or the ''Father of Bats''. He is sometimes referred to as the ''Glutton'', the ''Lazy'' or the ''Black Sloth'' - names that he appears to find amusing rather than offensive. His associations with the rune [[Diras]] occasionally lead to him being called ''Shuttered Lantern'' (although this can cause confusion with all the other meanings for that phrase). The [[hakima]] Isobella i Javos i Guerra dubbed him ''Eater of Secrets'' due to his observed habit of consuming written secrets and mysteries. Not all Sadogua's names are quite so flattering - some Dawnish magicians have taken to calling him "''the Globberslotch''" for example. Yet it appears that the Brother of Wizards is just as pleased with names that reference his slovenly, slothful, gluttonous nature as those that recognise his role as a companion to magicians.
+
+In the [[Sumaah Republic]] he is called "''Forfører''" which translates roughly as 'seducer', while the [[Asavean Archipelago|Asaveans]] call him "''o Patrício astuto''" which means 'the Cunning Patrician'. In [[Principalities of Jarm|Jarm]] they often call him "''Wujek Sadogua''" which means 'uncle Sadogua'.
+
+## Appearance
+Sadogua makes no bones about the fact that he is a ''wyrm'' (that is, his true form is that of a wingless lizard as distinct from the serpent-form Night eternals who possess feathered wings). As with other wyrms, this tends to mean that the Brother of Wizards is more earthy and concerned with practical matters than the more cerebral and philosophical serpents such as [[Soghter]]. It is extremely rare to meet Sadogua in anything approaching his 'true form' however - as with most Night eternals he loves to change his shape.
+
+His most common appearance is as a rotund, jolly humanoid, sometimes with [[naga]] features. He often incorporates elements of toad, bear, or bat into his form and on more than one occasion has appeared with orc-like characteristics. The only constant is a golden chain, which may be worn around the neck, wrist, waist or ankle and seems to shift its appearance as readily as its master does. He almost always has a [[Weapons & Armour#Implements|wand, staff or rod]] to hand and regularly consults divinatory devices such as crystal spheres or runes.
+
+While Sadogua generally appears lazy, self-indulgent, lustful, avaricious and gluttonous it is dangerous to underestimate him. Several magicians have warned that this genial appearance is almost certainly a mask to conceal deeper and darker motivations. Ultimately, he seems committed to the supremacy of magicians. While it is unlikely his every action is motivated by a desire to advance the status of magicians, it is certainly his overriding goal.
+
+Sadogua is almost never encountered alone; he is gregarious and affable, and usually has at least two heralds - which he refers to as his Children. Questions about where these Children come from are always deflected. Some scholars have pointed out that a number of them bear naga features. These Children reflect the personality of Sadogua - they tend to be curious, friendly and prone to self-indulgence. Most also possess magical abilities.
+
+## Concerns
+Sadogua likes secrets, but does not obsessively collect them like some eternals of the Realm of Night; he appears to view them as useful tools in games of intrigue and manipulation rather than things that have value in themselves. He is often openly contemptuous of the [[Whisper Gallery]] and other beings who value secrets as discrete items. Many magicians have reported that he ''eats'' secrets - the more scandalous they are, the more flavoursome he finds them. It is not clear if this is a metaphor or if the eternal gains sustenance from doing so. 
+
+He is usually eating - and is said to offer additional favour to anyone who shares food or drink with him or his Children. He is likewise known to enjoy pleasant company, verbal interplay, gossip and romance. He enjoys games of skill and chance, but more for the pleasure of playing (and, allegedly, the chance to learn about his opponents) than from any drive to win. Few things make him angry - the denigration of magicians appears to be one of the few things likely to raise his ire; blatant disrespect annoys him, and anything that forces him to waste energy or tire himself out can make him exceptionally irritable.
+
+He loves to serve as a patron of the arts, especially musicians and poets. He is also known to be an especial fan of the culinary arts, and the arts of the brewer. While he is gluttonous and avaricious, he is not selfish - artists and chefs are likely to receive the benefit of his largesse in the form of small boons in recognition of their skill.
+
+He is known to dislike priests of [[The Way|the Way]], with the exception of the priests of [[Prosperity]]. During the reign of [[Empress Teleri]] he was the subject of a [[Alignment#Enmity|Declaration of Enmity]] that was not repealed until 132YE. The foundation of this enmity is unclear, and he will not speak of it, but it is assumed to have involved magicians from the [[Sevenfold Path]]. Since that time, he has presented a more appealing face to those magicians who follow the Way, although his sincerity is very much in question. On rare occasions when he has expressed an opinion, he has dismissed the Way - and indeed most forms of religion - as 'unnecessary restraints'. He is known to be more tolerant toward the heterodox faith of the [[Asavean Archipelago]].
+
+At the end of the day, Sadogua appears to firmly believe that magic and magicians should be promoted at all times. Magic allows the individual to change the world, and magicians wield that power. Mundane humans are parochial, limited, restricted and ultimately boring. Anything that restricts magic or the freedom of magicians is anathema to Sadogua, and should be swept aside. Magicians are the only people fit to lead their fellow humans, and magic is the only tool that anyone need ever master. It has unlimited versatility, and in time it can solve almost any problem - and the problems it cannot solve are inconsequential. While he favours the Lore of Night over the other lores, he is a rare eternal who sees value in the mastery of any form of magic, and actively encourages magicians to seek out their own path to power.
+
+Sadogua is prone to complicated enmities, and another uncommon quality is his awareness of and keen interest in eternals of other realms. He is known to dislike the eternals [[Meraud]], [[Kimus]], [[Basileus Flint]], and [[Wise Rangara]] and appears to view them as 'rivals' for the affection of the Empire's magicians. For unknown reasons, he appears to be deathly afraid of the [[Leviathan]], and will do nothing that might incur that eternal's wrath. Other eternals tend to be viewed with a measure of amused contempt.
+
+The [[Highguard|Highborn]] [[magister]] Zenobia daughter of Jocasta warned that Sadogua not only lies constantly, but that he actively encouraged [[Religious Crimes#idolatry|idolatry]] and [[Malign spiritual presences#Anarchy|anarchy]]. These claims have been repeated by numerous critics down through the ages. Sadogua and his allies rarely bother to respond to such claims. The [[The Brass Coast|Freeborn]] naga [[sutannir]] Daniego i Casiddia i Riqueza pointed out in response to Zenobia's claims that what Sadogua definitely does is encourage [[Pride]] and [[Ambition]] in the Empire's magicians, as well as being a staunch supporter of the virtue of [[Prosperity]] (for all that he encourages magicians to find easy ways to solve their problems).
+
+## Boons
+Sadogua may be greedy, but he is not selfish. He appears to enjoy giving small tokens of his approval to those who entertain or assist him. These tokens are usually physical in nature, and commonly take the form of exotic flavours of mana, potions, and other consumables, and trinkets that aid with or duplicate the effectiveness of magical spells of all sorts. Those who advance his agenda or assist him in some significant way receive more lasting gifts, but again he would rather give someone an object than investing them with any portion of his power.
+
+He appears to be a master of the Lore of Night, with wide-ranging abilities to enhance or empower the performance of almost any ritual. He has a special fondness for both the [[night pouch]] incantation and the [[Secrets for the Shadow Courier]] ritual - things that conceal treasured items, rather than magic that conceals or reveals secrets, seem to be especially dear to him.
+
+He often engages in trades with magicians, and is known to have an insatiable desire for [[Materials#Iridescent gloaming|iridescent gloaming]], [[Materials#Ambergelt|ambergelt]], [[Materials#Dragonbone|dragonbone]] and [[Materials#Tempest Jade|tempest jade]] - often quite literally eating measures and ingots of these materials with every sign of gusto.
+
+He loves to promote magic. Rituals such as [[Missive for Sadogua]] and [[Tithe of Bats]] draw on his power directly - he is slightly more likely than other eternals to bind himself to a ritual promise if he can be convinced that doing so will offer assistance to many magicians without requiring too much actual activity from the lazy eternal.
+
+Several magicians have mentioned that Sadogua is comparatively easy to manipulate, not least because he enjoys giving gifts and receiving praise. He rarely becomes angry if he is tricked, seeming to take it in good part and praise the cleverness of an opponent who has bested him in some way. Magicians are not advised to take his good nature for granted, however, as occasionally the treasures gained from Sadogua have proved to possess unpleasant curses or side-effects.
+

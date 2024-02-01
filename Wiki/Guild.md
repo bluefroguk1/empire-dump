@@ -1,0 +1,31 @@
+---
+revision_id: 52827
+revision_date: 2017-05-19T02:33:49Z
+categories:
+- The League
+---
+
+
+In ancient Catazarria the merchant prince would licence wealthy interests to participate in the politics of their city. To do so the group in question had to present a document outlining their goals, heraldry and founding principles. If the prince smiled upon their efforts (or at least, on the accompanying gift), they would grace it with their seal and it would become an official legal document. Thus, an ancient Catazarri could point to their "carta" (paper), proving that they had the right to lead. Their ability to monopolise trade faded though after they joined the Empire, due to the competition from crafters in other cities and nations. Most responded by expanding their remit.
+
+Nowadays the process of authorising a guild is a administered by the [[Imperial Civil Service]], and the document itself has come to be known as a charter. The terms are interchangeable. Some older Catazarri guilds insist on the archaic term, while more modern charters, especially those from Holberg, use charter instead. Some guilds operate without a charter, but for those that have one it is an object of immense pride. Typically decorated in gold leaf, illuminated in fine coloured inks and adorned with the seals of bishops and Empresses, it is frequently displayed as a public statement of wealth and power. An ancient charter is well regarded and will garner a guild respect even if their financial fortunes are not so illustrious. It is not unknown for an ailing guild to even sell their charter, and a thriving trade exists in counterfeits and stolen charters.
+
+By tradition, the leader of these ancient organisations carried a signet ring with the seal of the guild upon it, and thus only they could sign documents on behalf of the entire guild. This practice earned them the title of "signeur" or "signeura" (when their power wasn't great enough to justifiably claim the title of prince), and this has persisted to the present day.
+
+Discussions within the guild are often heated, citizens of The League appreciate a passionate argument, but if consensus cannot be reached on an important issue then the signeura may simply raise their hand, palm inwards to display the ring with the seal of the guild. This is done to remind the other guild members that the guild follows their lead, and should abide by their decision while doing so. It is not done lightly, as it can be seen as a reprimand for excessive bickering or childlike behaviour, and can lead to extreme bad feeling. In any event, the other guild members must accept the signeura's decision or a challenge their leadership immediately.
+
+A small number of guilds demand that every member be either a blood relative or married to a blood relative. Often referred to as "camorra" in a slightly derogatory way, these guilds have a largely undeserved reputation for dubious morals and underhand dealings. They are marginally more common in Temeschwar and Tassato than elsewhere.
+
+==Creating a guild== 
+The guild is intended as the major social grouping for the League; a network of skilled and ambitious people who have bound their fortunes together for mutual gain. Smaller guilds typically specialise in order to take advantage of a niche while larger ones tend to be extremely diverse, but these patterns are far from set in stone. A [[free company]], for instance, is a type of guild who specialises in mercenary work and tends to have few fixed assets as a result.
+
+It may be a good idea to consider whether you want to have a group charter when creating a guild, and how vigorously you expect the members to adhere to it. Having a charter will serve as a good advertisement to new potential players who might wish to join. You should consider carefully what your group will enjoy playing and try not to put in place rules that will be hard to enforce or lead to constant internal friction. Nebulously virtuous principles and grandiose goals that will encourage the guild to strive will probably serve you best unless you have a group dedicated to a real hardcore concept.
+
+Each guild's specific goals and methods vary, but almost universally involves accumulating political and financial power. Success is about more than cash though, it is about renown and sophistication. Whatever your guild does, it should at least claim to be the best at it. Membership in your guild should be something that others aspire to. Everybody should know its name and recognise its heraldry. Remember; the guild endures after you are gone, leave its legend greater than you found it.
+
+Even if a character isn't a member of your guild (or even your nation), they can still associate with it - The League encourages hiring specialists. Such freelancers may never have the security or prestige of guild membership, but they can hire themselves out to the highest bidder. A servant that betrays a guild after accepting its coin will seldom last long, though. 
+
+Within a guild, the player characters represent the leaders and owner, and while the guild may have thousands of staff across its holdings, players are are the only ones who get to make major decisions. A leader who doesn't attend events is no leader in the eyes of a League citizen, and will most likely find themselves replaced in short order - those who make the effort to attend get to make the decisions.
+
+You may wish to base your guild in a single city; Holberg, Sarvos, Tassato or Temeschwar. A guild that spreads itself too thin stands little chance of influencing local politics, so if you want a bigger share of the political power you are better concentrating on the least-populated territories. Your character certainly will come from a single city, so make sure you know its foibles and fashions lest you appear a buffoon in front of your peers!
+

@@ -1,0 +1,124 @@
+---
+revision_id: 78476
+revision_date: 2019-11-24T17:04:11Z
+categories:
+- Winds of Fortune
+- 379YE Winter
+- Recent History
+aliases:
+- Tears_in_the_rain
+---
+
+
+Barnabas stood under the awning gazing out into the rain. It had been raining since just before sunrise and showed no sign of letting up any time soon. Just like yesterday.
+
+At least the rain was clean. He reached out, his hand cupped, and let the creases of his palm fill with water for a few minutes. Then he tasted it. Fresh, pure. He rubbed his hands together, and then went back to staring across the ruins.
+
+He'd lived here once, as a boy. He realised hollowly that it had been twelve years since he had played ''hunt the orc'' with Aaron and Abigail. He had been away from here for longer than he had lived here, but he still thought of it as home. It was foolish. Sentimental.
+
+It didn't look much like he remembered it anyway.
+
+The Druj had smashed the gates of the chapterhouse, slaughtered everyone inside, and then tried to re-fortify it. Then the Dawnish knights had come and smashed the gates in, slaughtered everyone inside, and then moved on to their next challenge. He and his cadre were charged with protecting the civil servants bringing up the rear, assessing the situation.
+
+He wasn't sure why they were bothering. There was no point. Everyone was dead and -
+
+He stopped himself and closed his eyes, his hand going to the circular medallion at his throat. He recited the litany of Courage under this breath. "''I shall despise the cowardice that steers me to weakness and inaction. I shall face unwelcome truth as boldly as any barbarian charge. I shall not fear to act; only be shamed by inaction. I shall never accept defeat; I shall adapt my strategy and try again. I shall cleave to what I know to be true even when others wish me to doubt.''"
+
+It helped. The Druj had done something to the air, with their squat black pillars. Something that tainted everything with a fug of despair. With the fall of High Chalcis, the sadness was lessened but it was still there. He did not know how the Dawnish endured it, and yet kept on fighting with such fire. Everyone found their own way of coping. For him, it was the litany, and the amulet. But sometimes it was hard to realise that you were being influenced, and that's where the danger lay.
+
+He opened his eyes again. Tabitha had come to shelter under the awning with him while he was meditating. Her shoulders were slumped, her eyes distant. She had been searching the remains of the village below the chapterhouse. He remembered that she had grown up here also, although she would have been a little younger than him when her family fled. He remembered she had left a mother, Naomi, and an older brother, Timothy, behind. She was still looking for signs of them. In his heart, he quietly hoped that she would never learn what had happened to them and hated himself for it.
+
+"I have a report, if you want to hear it?"
+
+He nodded. He didn't want to hear it, but he knew she wanted to give it.
+
+He listened quietly to another litany, a list of suffering and atrocity. He was crying silently when she had finished, her own eyes full of unshed tears. It had been the same across Longshire, and across Chalcis Mount and Haros Water. He did not - could not - think of what they had found in Riverwatch, at the 'Swan. Even now, when he tried to think of it he was just left with impressions. A puddle of bloody water. A discarded bowl. Images that haunted what little sleep he could manage. In time they would fade, he knew, but never completely.
+
+He wanted to reach out to Tabitha and offer her some comfort, but he feared that if he did it would break something, some dam inside one or the other of them, and then there would be no going back. He would not allow the Druj to claim another Highborn soul, not today.
+
+"There is some sign that a couple of the orcs escaped the attack and the sweep. I've sent a patrol out to look for them."
+
+Barnabas nodded. Killing the orcs helped sometimes to assuage the emptiness, at least for a little while. The feelings of frustration and helplessness crept back in again after the blood cooled,  however. 
+
+He spotted movement then, out in the rain. "Who's that?" he asked Tabitha. She shaded her eyes, following his finger.
+
+"I don't know, it's nobody I recognise." It was a human woman, running through the rain toward the camp. She ran with an easy, practiced stride despite the mud. There was nothing panicked about her, no indication she was fleeing. Barnabas was struck with the certainty that this was a woman who, when she ran, always ran ''toward'' something, never ''away''. He considered ruefully that he needed to get some sleep.
+
+The running figure spotted them, and adjusted her path slightly to bring her into the camp. Neither Highborn drew weapons - as soon as she was close enough to see clearly it was obvious she was Navarr. She was drenched, covered in mud, obviously tired but still she moved with the smooth muscular agility of a hunting hound. She gave every impression she had been running for hours, and could run for hours more without concern.
+
+She slowed, came to a halt in front of them, and inclined her head first to Tabitha, then to Barnabas.
+
+"I am Enys Stormrunner, of They-Outrun-The-Storm Striding. I am looking for the soldiers of Towercross Chapterhouse? And maybe a hot breakfast? I was told by the warriors of Eli's Hand that they were in this area?"
+
+She was barely past her citizenship test, but full of seriousness. So young. Barnabas wondered when he had become so ''old'', when being twenty-three made him a tired veteran.
+
+"You have found us. I am captain Barnabas, this is my lieutenant Tabitha. You are one of the Black Thorns? Under General Foxden?"
+
+She nodded. "I've been sent down from Broken Ride to tell you that we have taken the camps below the Great Forest, and to ask that you and any other Highborn soldiers join us there as quickly as possible. There are a great many survivors, and they are in dire need of succour from their kin."
+
+She frowned and cocked her head at Tabitha. "I am also instructed to bring a message to a woman named Tabitha, which I am hoping is you? Tabitha daughter of Naomi?"
+
+Barnabas held his breath then. He felt like he was standing on the edge of something. Tabitha nodded.
+
+"I have a message from Timothy, son of Naomi. It will be hard for you to hear, but he says first to tell you that he lives and ..."
+
+Barnabas turned away, and stepped out from under the awning, giving the women some privacy. He looked up to the clouds as Tabitha caught Enys Stormrunner in a rough embrace.
+
+Something broke inside him, but he did not care. Whatever was washed away, he no longer needed.
+
+For the first time since he had crossed the border, he allowed himself to think about the future. He had hope now, that there might ''be'' a future for him and for his home. He felt hope flutter in his heart, let it fill him ... and then he took a firm grip on it and began to forge the weak voice that said "it will all turn out for the best" into an iron-hard Ambition. He would make the Garden of Highguard blossom again, and he would live to see it, and guard it, and in a decade from now he would play ''hunt the orc'' with his own children, here, in his family home.
+
+And while he planned, he wept; and the cold rain washed the tears away.
+## Overview
+[[Reikos]] has been  [[379YE_Winter_Solstice_winds_of_war#The_Rains_of_Reikos|liberated]] by [[Dawn|Dawnish]] and [[Navarr]] forces. There are still orcs in the [[territory]], along the western borders in [[Reikos#Tamarbode|Tamarbode]] and [[Reikos#Grey Charge|Grey Charge]] but they are disorganised and on the defensive. It should be a simple matter for Imperial forces to defeat them and reclaim these last two [[Territory#Regions|regions]].
+
+The biggest problem in Reikos at the moment however is the [[Reikos#Druj Miasma|miasma]] left behind by the Druj. Not only is it slowing efforts to clear the last Stone Toad orcs out of the territory, but it will make resettling the area extremely difficult. The monoliths the Druj have used to anchor the corrosive fear aura need to be dealt with before any large-scale resettlement can go ahead. They are quite difficult to damage, and are likely to require direct action to deal with. Worse, the auras of fear they exude are most powerful near the monoliths so many of the remaining Druj have holed up for protection around them.
+
+The good news is that the [[Reikos flux]] has been eradicated, though a combination of magical and herbal means. The [[Spring magic]] focused through the [[Urizen|Urizeni]] general of the [[Citadel Guard]] during the Autumn Equinox, has washed away all traces of it. It has also begun to help the recovery of the land itself, poisoned and blasted by the Druj occupation. Yet it is a slow process, and relying on Spring magic - even magic designed to bring life - raises concerns of its own.
+
+Both the [[Vigilant Swan]] and the weirwood groves of the [[Great Forest at Reikos]] are once again in Imperial hands. The speed with which the Navarr struck north into Broken Ride prevented the orcs from committing the kind of atrocity that left the Vigilant Swan haunted and defiled. Indeed, the large number of slaves trapped in the camp were able to fight their way to freedom with the aid of the Imperial forces, bringing much needed hope to their families in Highguard.
+
+The citadel of Urith Barath that the orcs raised at [[Reikos#High Chalcis|High Chalcis]] has been destroyed, and the town is in ruins, but there is still some possibility of salvaging something from the rubble. Reikos was once a centre of medicine and herb-lore, and the Druj are not without grim talent in that regard either - they had absorbed and adapted many of the [[herb garden|herb gardens]] of Reikos to help fuel their endless thirst for drugs and [[potion|potions]].
+
+But the real mammoth in the room is the question of [[Powers_of_the_Imperial_Senate#Assignment|assignment]]. There is an expectation that Reikos will be assigned to the Highborn by the Imperial Senate, but there is absolutely no legal ''requirement'' for them to do so. Until Reikos is assigned, any plans to rebuild it must remain in hiatus.
+
+## Significance
+There is an assumption among many [[Highguard|Highborn]], particularly among the refugees of [[Bastion]], [[Casinea]], and [[Therunin]], that the [[Powers_of_the_Imperial_Senate#Assignment|assignment]] of Reikos is a mere formality. This may be somewhat premature; but the [[opportunity|opportunities]] outlined here are ''only'' available if the territory is declared Highborn. If a different nation was responsible for rebuilding Reikos, it is likely that different opportunities would arise - but at the moment the people of other nations are not considering those opportunities.
+### The Miasma
+The Druj fear miasma must be dealt with before Reikos can be resettled. Until all seven regions are freed, there is no chance that the territory will be able to generate taxation for the Senate - indeed it will impact the treasury negatively until the problem is resolved.
+### Bourse Seats
+There are two Bourse seats in Reikos. The Vigilant Swan is a white granite quarry, and the Great Forest at Reikos has rich weirwood groves on the edge of the Forest of Peytaht. Any senator can raise a [[Powers_of_the_Imperial_Senate#Allocation|motion of allocation]] for one of these two [[Imperial Bourse]] seats. The motion can declare that the seat should be ''either'' Imperial (auctioned openly on the Bourse, any Imperial citizen may take the seat), ''or'' National (appointed by decision of those members of the nation who have [[New_Imperial_titles#The_Imperial_Bourse|appropriate personal resources]], on a citizen of that nation can hold the seat). 
+
+Which nation controls the seat if it is made national depends entirely on which nation the territory is assigned to. It is important to note that regardless of whether the Bourse seat was national, or Imperial before it was lost to the Druj, the Senate has complete freedom to declare either or both of them to be either national or Imperial going forward.
+
+If the Vigilant Swan is allocated in plenty of time, then the civil service will attempt to auction it, or help the nation appoint someone to the position. Whoever takes the seat will keep it until the Summer Solstice 380YE (Event 3-2016) which is when white granite seats are usually appointed or auctioned. The Great Forest at Reikos is a little trickier; there is no production to assign, so even if it is allocated during the Winter Solstice, it will not be auctioned or appointed until Spring at the earliest - and whoever takes the seat will have a shorter tenure than normal as the resource will again be appointed (or auctioned) during the Winter Solstice 380YE (E1-2017) alongside the other weirwood seats.
+### Spoils of War
+The civil service has also been compiling a list of [[Spoils of War]] which will be delivered to the [[Imperial Military Council]] during the summit. As always, the decision about which citizen takes custody of which spoil of war is entirely in the hands of the Military Council. The spoils of war are [[Resource#Personal_Resource|personal resources]] that replace a citizen's existing resource. Taking custody of one of these resources will mean that the citizen's territory for purposes of elections will be assumed to be Reikos going forward. Remember that the [[Resource_overview#Changing_Resources|usual 2 crown fee]] for changing personal resource does not need to be paid when receiving one of the spoils of war.
+
+In the past they have given responsibility for assigning the spoils to the generals of the appropriate nation, but as always there is no legal requirement for them to do so. It would probably be [[Wisdom|wise]] to wait and see what the outcome of the assignment is, given the problems raised by owning a [[Resource#Resources_in_other_Nations|resource in another nation]].
+
+You can learn about the spoils of war [[Reikos Spoils_of_War|here]].
+
+### The Dead
+A great many Imperial citizens died at the hands of the Druj in Reikos, especially in the last year of the campaign. Many of the bodies were left where they fell, defiled, or thrown into mass graves. The Druj, as is their wont, went out of their way to torment the Highborn with their faith, in the hope of breaking not only their spirits but that of their countryfolk.
+
+In some cases this has already given rise to hauntings - although none on the scale of that encountered at the [[Unquiet dead|Vigilant Swan]]. Tormented, frustrated spirits, unable to pass into the Labyrinth, remain a threat in many places. Worse, there are reports of more corporeal horrors lairing in the darkest of the charnel pits. 
+
+[[Magister]] Gideon of the Suns of Couros has already approached the civil service with a plan to address the unquiet dead; any citizens with an interest in this problem may wish to discuss it with him. It is believed that the [[great work]] proposed will require a commitment of time, resources, and heroic actions, but will significantly improve the situation in Reikos if it is completed.
+### Opportunity : The Garden of High Chalcis
+Not everything is doom and gloom however. The [[gardens of High Chalcis]] in particular have weathered the storm of Druj occupation. Indeed, under the guidance of the hateful Buruk Tepel they seem to have prospered. Distasteful as it is to admit, the Empire could learn several lessons from the study of the Druj gardens. The people of [[Therunin#Peakedge Song|Peakedge Stead]] in particular are interested in making Chalcis Mount flower again - not only the Highborn exiles, but also their Navarri comrades who wish to show their gratitude to the Highborn who formed a line of steel between their homes and the Druj when the barbarian orcs attempted to invade Therunin.
+
+As a [[great work]], the gardens could be reclaimed and even expanded. The project would take six months and require an investment of 80 wains of weirwood, but it would create a seasonal bounty of 120 herbs spread equally between every local [[herb garden]] belonging to a citizen of the territory. It would also go some way towards helping to restore the prosperity of Reikos, especially as regards its commitment to the Imperial treasury.
+
+### Opportunity : Remember Exile
+The Druj had constructed several fortifications in Reikos, but none as mighty as their citadel of [[Reikos#Urith Brath|Urith Barath]]. In 367YE Reikos was taken completely by surprise when the Druj came through the Forest of Peytaht - and there is a strong sentiment of "never again" among the Highborn. Consequently, several talented and experienced siege engineers from the [[Bastion#Bastion.2C_the_White_City|White City]] in [[Bastion]] and the [[Casinea#The_Silent_Sentinel|Silent Sentinel]] in [[Casinea]] have presented plans for a [[fortification]] to watch the northern approaches into Reikos. 
+
+Their plans require the fortification to be built in Broken Ride. A massive citadel to match Urith Barath, it will require 160 wains of white granite and 45 Thrones to commission. Construction will take a year, and require an upkeep of 18 thrones each season. The resulting massive fortress will have an effective fighting strength of 6,000.
+
+In both cases, the castle would be positioned so as to keep a close watch on both the Great Forest, and on the threat of [[Brocéliande]] to the north-east.
+### Supply
+It is entirely possible that Reikos could be made prosperous enough to increase the ability of a nation to support an additional army, but only once significant effort is made to address the problems suffered by the beleaguered territory. At the moment, however, all the civil service can say with any certainty is that whichever nation gains control of it, it will take a significant investment to restore its prosperity and ability to support an [[imperial army]] or [[imperial navy|navy]].
+## Resolution
+The territory of Reikos was [[Assign_Reikos|assigned]] to [[Highguard]] by the [[Imperial Senate]], and the [[Vigilant Swan]] was [[Allocate_Vigilant_Swan_II|allocated]] a a national resource. The [[Great Forest at Reikos]] has not yet been allocated.
+
+The [[Gardens of High Chalcis]] were [[commission|commissioned]] in Summer 380YE, and work completed shortly before the Winter Solstice. The [[Fortify Reikos|fortification of Exile]] was commissioned in Winter 380YE and could be completed by Winter 381YE at the earliest.

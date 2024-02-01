@@ -1,0 +1,98 @@
+---
+revision_id: 85652
+revision_date: 2022-01-22T16:23:33Z
+categories:
+- Winds of Fortune
+- 382YE Summer
+- Recent History
+aliases:
+- The_same_bed
+---
+
+
+The clink of glass beads, the low sussration of conversation, glasses and plates and mugs being set down and lifted. Drift among the low tables with the smoke and listen.
+
+"I'm not sure I approve of these sky fires, if I'm honest."
+
+"Howso?"
+
+"Little Kenda has been demanding to go out and see them every night, and I overheard her this morning telling the neighbours that when she grows up she's going to be a kohan-octopus. I'm all for ambition but...."
+
+"You think that's bad? I hear the Amaro boy is telling anyone who asks that ''he'' wants to be a ''Marcher'' when he grows up. Can you imagine?"
+
+Quiet laughter shared, and the discussion moves on. Its warm here in the paradour; all the windows and doors are open to catch the slightest breeze. The noonlight lingers at the thresholds, awkwardly, leaving the interior full of shadows.
+
+"The peddlar told me half of Sobral Grasses has fallen into a hole, and a bunch of underground horrors came out of it and ate everyone. It's another sinkhole like in the north apparently but with even more foreboding portents. Said that there was a sinister underground race of orcs who had decided to attack the Empire from below and we were all going to be murdered in our beds."
+
+"Really? I heard from Sorezo i Riqueza that it amounted to some rocks falling over in the middle of nowhere and one old house giving in to time and collapsing."
+
+"Murdered in our beds he said. He was pretty clear. Mind you he was also falling down drunk so make of that what you will."
+
+The beads jump and dance. One of the staff glides between the tables, a tray of chilled syrah held expertly up in one hand. Chilled from the deep cellars, with condensation forming on the sides of the little glasses. Just the thing for a hot Summer day.
+
+"And I'm telling you it's nobody else's business and they better not try to make it so. We pay taxes for castles and armies, don't we?"
+
+"You're over-reacting. Nobody is going to call you unvirtuous for not squandering your money on charity."
+
+"We'll see. You mark my words there's another slipper yet to drop here. Nobody starts talking about how something isn't unvirtuous if they don't expect to be telling you to do it. Not do it. Whichever. Your health, friend."
+
+Glasses knocked together, a brittle sound in the paradour, lost in the murmurs and mutters as the people of the town take their ease. it is the hottest part of a hot day in a hot summer. Outside on the docks, only a handful of sweating sailors still working, cast envious eyes towards the dark gloom as the dodos and gulls scavenge between the crates and barrels under the deep cerulean sky and the unrelenting heat of the blazing sun.
+
+## Overview
+The Brass Coast has faced more than its fair share of violence and disruption of late, invaded by not one but two barbarian orc nations. Yet the spirit of the Freeborn is nothing if not resilient. While people are concerned about the invasion of Kahraman, and the aftermath of the Grendel assault against Atalaya, these gloomy events are not the only things being discussed in the paradours, and around the wells, and under the shade of the orange trees. Gossip and rumour lives cheerfully in the Brass Coast and no invading orc armies will stop the people talking about the wonders and controversies of the day. Whether it is fiery displays in the skies over [[Madruga]], earthquakes in [[Segura]], plans to defend the City of a Thousand Sails against future invasion, or just an argument about the role of charity, there is plenty to keep Freeborn tongues wagging.
+## Fire in the Sky
+Every night since the Spring Equinox a most peculiar phenomenon has been observed across Madruga. Shortly after sunset, the skies erupt with mores of flame and light celebrating Imperial victories. The images are rough, and fleeting, but they are recognisable and follow a regular pattern.
+
+First, images of soldiers appear in deep ochre and clay-red and apple-green. Golden fields of wheat shimmer against the stars, pikes are grasped in mailed hands. Then, a horde of half-formed demi-shapes of smudgy purple light and fire slithering and crawling together, into a single tumultuous mass. The lightshow flickers, surging against the phantasmagoric images of brave soldiers. The purple demons and the bright soldiers clash, fighting in the sky in bursts of light. The tide rushes in and is stopped, faltering and breaking apart into motes that drift lazily towards the ground but never quite touch it. As the demons are defeated, a thousand bronze, green, and gold troops take one step forward together to a tumultuous thunderclap.
+
+A short time later another swirling lightshow begin. A hundred motes of crimson fire bloom across the sky, and race together to take the shape of a single whirling dancer. The same purple demons come, rushing from the corners of the sky to tear the burning dancer apart, but the fire blazes brighter and the little purple figures try to flee - but too slow. Scarlet fire blooms inside each one, and again a cascade of sparks falls out of the sky dissipating as the descend.
+
+Finally, the light-show becomes sombre. Far above what appears at first to be a star grows brighter and brighter, and begins to fall at a meteoric pace. As it descends it expands and shifts, taking the form of a great equine beast with a single horn protruding from its forehead, and the suggestion of wings closing and opening around it. Moving at an unearthly pace, leaving a trail of sparkling stars behind it, it races across the sky toward a swirling mass of purple fire in the shape of a squat, ugly ship. A figure coalesces from the darkness - a crimson rider with a bhuj of gold. Other, even more fantastic shapes appear in the sky assailing the purple ship - a whale with a spiral horn; a shark; flying drakes in the same reds, dark bronze, and green of the first soldiers; a great octopus with scimitars clutched in its tentacles; and dolphins, so many azure dolphins. The ship breaks apart and falls into dark smoke, as the sky explodes in a mass of red, gold, green, and blue.
+
+Each night the light show lasts a little under an hour. 
+
+A very few people complain about the display. It is too loud, too bombastic, and too intrusive. Too many explosions. It makes it hard to have an early night. Curmudgeons complain that there is not enough variety in the display. They appreciate the artistry, but it is a little overpowering. Perhaps something more restrained would have been better? But these voices are in the minority. For the most part, people enjoy the show. They gasp, they cheer. A trio of musicians in Siroc quickly compose a piece of music - all drums and pipes - to accompany the display and their nightly performances draw large crowds. People come from Segura, Feroz, and Kahraman to see the lights. They are soon joined by visitors from Sarvos and Tassato keen to experience the entertainment in the sky. There is a definite party atmosphere on most nights particularly around the larger settlements. 
+
+Perhaps this is all a little premature. The Drakes are still fighting on the islands against the remaining Grendel - but perhaps the lights serve to inspire the Marcher soldiers? They certainly raise the general morale of the Freeborn people. Yes, the Grendel have invaded and burnt Atalaya and yes that still stings, and the loss of those sailors and soldiers will not be forgotten. Yes the Jotun are back in Kahraman... but they have been beaten once before and they can be beaten again. The Brass Coast is a fire that can never be extinguished, and it does not face the storm alone.
+
+When the displays begin to fade, and lose distinction about a fortnight before the Summer Solstice, there is a palpable air of disappointment, but it is bittersweet. A wonder has been seen in the sky, and the joy it brings lingers a little in the hearts of everyone who saw it with their own eyes.
+
+## Ground Like Glass
+In the northern [[Segura#Sobral Grasses|Sobral Grasses]] lie an enigmatic sequence of complex interlocking trenches a little under a foot deep called [[Segura_spoils_of_war#Ghita.27s_Veils|Ghita's Veils]]. They sweep across a rough circle of grassland four miles in diameter. Scattered randomly through the design are six-foot pillars of basalt, smoothed and shaped by the elements. Granite basins of water are placed at several locations. While some are fed by freshwater streams, others must be filled manually, and many have been inlaid with mithril, weltsilver and orichalcum. These basins collect crystal mana, and are carefully tended by a small group of hermits who find the isolation and silence of Ghita's Veils particularly appealing.
+
+The veils are exceedingly old. Some historians believe they are of Terunael origin. There are some similarities between their design and the [[Navarr_magical_traditions#Patterns|patterns]] favoured by the [[Navarr]]. The hermits mostly shrug, and say that they are what they are. Whoever Ghita was, and why this place is named for her veils, is unknown.
+
+During the Spring Equinox, a disaster strikes Ghita's Veils. In the late afternoon on Sunday, the earth from one end of the Sobral Grasses to the other shakes violently. The quake is short-lived, but it is strong enough to knock people off their feet, to cause things to fall from shelves, and to cause an old house in Anozel to collapse entirely. The quake is centred on Ghita's Veils, and here the damage is significantly more pronounced. Many of the ditches collapse. Others fill with water from some heretofore unknown aquifer. The design, whatever its purpose, is fundamentally disrupted. Without fail, each of the basalt pillars cracks and breaks. Most still stand, but some fall into rubble. Several of the hermits are injured, although none fatally.
+
+Minor aftershocks continue for the next few days, mostly centred around Ghita's Veils. After a week they too subside. There is some uncertainty about what to do, but it quickly becomes apparent that whatever else has happened the flow of mana through the area has not been disrupted. Quite the contrary. Now that the pillars and ditches are damaged, careful analysis of the veils suggests that their arrangement was actually serving to ''contain'' the flows of mana - not enhance it. It doesn't make any sense but it looks as if the whole thing were built to keep everything bottled up. Now that the wards are gone, what was once a steady stream of mana has become a torrent. Some of the granite basins have to be moved, and it takes a little work to determine where to place them for the best result but once the work is done crystals form quickly and in greater numbers than before. 
+
+It is not all good news, however. On the night of the first earthquake, magicians across the Sobral Grasses experience a peculiar nightmare. The details differ from dreamer to dreamer, but as news of the events at the Veils begins to spread, notes are compared and some key similarities determined. Each dream begins with the earth breaking open, and water rising. Then a great wind begins to blow - a typhoon or hurricane that flattens the grass and rips the clouds asunder. A terrible moaning is heard, along with the sound of fighting and shouting, and flickering shapes. Then silence... broken a moment later by a soft, absolutely bone chilling sigh from someone just behind the dreamer. Each nightmare ends with the dreamer starting awake filled with a profound terror that quickly fades. These disturbing dreams are not repeated on later nights, and most magicians simply dismiss them as a thing that happened. Ominous, but ultimately without significance.
+### An Answer in the Soil
+Once the destruction caused by the earthquake has been dealt with, it is clear that the [[mana site]] Ghita's Veils has gained two ranks of [[Mana_site#Upgrades|upgrade]]. Furthermore, an opportunity exists to improve the garden even more, should the owner desire. The garden might be improved to rank six through the expenditure of four wains of mithril (slightly cheaper than the usual requirement of six wains).  
+
+Mana is flowing more freely not only in the Sobral Grasses but, it appears, across Segura. The owner of the [[Segura_spoils_of_war#The_Garden_of_Sighs|Garden of Sighs]] in [[Segura#Anduzjasse|Anduzjasse]] may choose to upgrade that resource to rank three at the cost of only a single wain of mithril.
+
+In both cases, the player who controls the resource should ensure that the mithril is in their inventory at the end of the event, and then e-mail Profound Decisions with a request to upgrade it. This cannot be done at the same time as upgrading the mana site normally and the opportunity is only available in the Downtime after the Summer Solstice.
+
+### An Answer in the Stars
+The flows of mana will begin to settle down, but an opportunity exists to take advantage of the disruption to guide and shape them across the territory. ''Suspira i Erigo'', one of the [[hakima]] who tends the Longing Circle near Anduz, has suggested that at key points in each region, three standing stones could be raised (one for each of [[the Three Sisters]]) that would align the flows of mana with the stars and not only smooth out the current disorder but direct the mana to where it might do the most good. With a suitable [[Senate motion]] (or the [[Bearer of an Imperial Wayleave]], a [[great work]] could be constructed in Segura. It would cost 21 wains of mithril and 12 wains of white granite, 66 crowns, and take three months to complete but at the end of that time a bounty of 37 crystal mana would be shared amongst the mana sites of Segura.
+
+This plan is not without its critics. The hakima ''Riqueza i Guerra'' from Anduz is concerned that the Three Sisters is a potent [[astronomancy|astronomantic]] constellation and while focusing its attention on Segura may be beneficial, it could also have unlooked for side effects. Surpira i Erigo dismisses these concerns as mere overcaution and is confident the magicians of the Brass Coast are more than capable of dealing with any [[Astronomancy#Tulpas|tulpa]] that might appear as a consequence.
+### Limited Opportunity
+The opportunity to improve the Garden of Sighs, Ghita's Veils, and to build the great work are all available only during the Summer Solstice 382YE.
+
+## The Salt Guard
+ We encourage the famed architect Menno van Ritsjhof to display his virtue by offering his architectural expertise to the Freeborn in constructing ambitious fortifications in Madruga.
+Respected siege architect Menno van Ritsjhof is famous not only for his work on the [[Reclaimers#Holfried|walls of Holberg]] but also for his [[Ambition|ambitious]] designs for a grand fortification to protect the city of [[Sarvos]] from Grendel invasion. Sadly, his great "chain against chains" has not been implemented, but at the urging of the League national assembly he has turned his attention to what might be done for [[Madruga#Siroc|Siroc]] in [[Madruga]].
+
+Initial reactions were not good. He was apparently horrified on discovering that the ''City of a Thousand Sails'' has almost no wall to speak of, and that the permanent buildings are surrounded by an ever-shifting city of tents and a palanquins. After a good deal of thought, however, he has come up with an approach that might work. Rather than build a single keep in the city itself, he plans to build two stout fortifications on either side of the bay along the approach to the city equipped with powerful trebuchet and catapults. A garrison of skilled mariners and corsairs would ensure the towers were always ready to respond to any threat, coupled with significant reinforcement of the existing iron chains and nets that guard the harbour. He believes that not only will a sea assault against Siroc be made nigh impossible, but that the garrisons of the two towers would also be in a position to protect the [[Madruga#The_Lyceum|Lyceum]] which lies to the south-east of Siroc proper.
+
+The fortification is even more ambitious than his design for Sarvos, and will certainly not be cheap - but then the Freeborn are used to paying for the things they want.
+
+To create the potent defences Menno van Ritsjhof imagines will require 100 wains of white granite, 20 wains of weirwood, and 30 Thrones in labour costs. Construction would require a year to complete, and obviously require a [[commission]] from the [[Imperial Senate]]. It would have an upkeep of 10 Thrones each season. The resulting fortification would have an effective strength of 3,000 against any conventional land forces invading anywhere in Madruga. Against any [[Navy_orders#Shore_Offensive|Shore Offensive]] aimed at capturing Siroc or the Lyceum (essentially any Shore Offensive aimed at the Siroc Plains), the fortification would resist conquest with an effective force of 6,000 (OOC Note: bearing in mind that the benefit of a fortification in a region directly being attacked will further increase this force, this is a significant advantage).
+
+## Dust In Your Pockets
+ Donating money and resources to support Imperial military action is not unprosperous. The gain is not monetary, but increased safety and security allows prosperous activities to proceed uninterrupted
+This statement of principle was distributed through the Brass Coast, but interest was minimal. It is all too easy to see the spiritual conflict it might cause if an assembly were to make a mandate about such a contentious issue. In light of Severin's sermon, people are currently minded to focus on the things that unite them.
+
+For their part, the Freeborn are a little nonplussed by the need of this statement. Donating money toward ''any'' endeavour is perfectly fine. Why would anyone think it was a crime against [[Prosperity]] to "''share with those who deserve it''"? What ''would'' be a crime against Prosperity in the view of many would be attempting to coerce someone to give charity to something they did not care about, or that they could not afford. Charity, after all, is a personal and private matter for an individual, guided as often as not by [[Loyalty]], [[Pride]], or [[Ambition]]. Given that the Freeborn already pay taxes to the Imperial treasury to support the armies (something which in itself is not exactly free of criticism by the people of the Brass Coast), it would need more than a generally worded statement of principle to convince any of them to reach into their pockets and hand over even ''more'' of their wealth.
