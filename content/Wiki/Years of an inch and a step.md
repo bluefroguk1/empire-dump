@@ -1,0 +1,113 @@
+---
+revision_id: 85557
+revision_date: 2022-01-21T21:32:52Z
+categories:
+- Winds of Fortune
+- 382YE Winter
+- Recent History
+aliases:
+- Years_of_an_inch_and_a_step
+---
+
+
+
+"Is your wife joining us for supper Master Robin?"
+
+The tables were groaning with food, the centre of which was a great pie with a thick golden crust and steam rising from the gravy beneath. It would have looked delicious at any time, but neither Enoch nor his husband had eaten today. Their supplies had run out just before King's Stoke, but they both agreed it was better not to go into ''that'' town all things considered. Fortune had rewarded their virtue and this kind Marcher family had invited them in to share their repast. They had managed to enjoy a relaxing hot bath in a steel tub and now they were desperate to eat!
+
+But it would be dreadfully impolite to start before their host joined them. The good lady had been here when they came in, but she'd left her husband preparing the meal while she went out some time ago. It was going dark outside and while Master Robin seem unconcerned, both of them were a little worried for her. Partly they were worried the pie might go cold - but still - what could a farmer be doing once night fell?
+
+"Aye, she'll be back in just a moment, don't you worry. She knows exactly how long it takes me to get the taters just right!" Master Robin continued to add plates of food to the table, a big bowl full of vegetables roasted in honey. The smell of it was driving Enoch crazy.
+
+"What is your wife doing? Perhaps we could lend her a hand?" They'd have to wash again, but it would be worth it if they got to eat this incredible meal a moment sooner!
+
+Master Robin was returning to the oven. Surely there couldn't be more food. There were just four of them and the family's children, how much food could these Marchers possibly expect them to eat? He turned to face them with another bowl in his hands.
+
+"No, no. No need for that! The reward for a good job is more work! She's just tending to grandfather. He's planted in the orchard at the end of the near field." 
+
+"Buried" Ira correced the Yeoman instinctively.
+
+Master Robert just shrugged. "Buried. Planted. Same thing." He smiled as he placed the last bowl on the table, it was filled with potatoes, roasted in spices and slathered in butter. Behind him the door opened and the Marcher's wife stepped in out of the cold.
+
+Enoch moved his arm to place his hand on his husband's knee to give it a warning squeeze. Now was not the time.
+
+
+## Overview
+At the Summer Solstice, Kerem, Daughter of the Chantry, received [[Easy_come,_worth_less#The_Pilgrim.27s_Path|the support of the Highborn Assembly]] endorsing an extraordinary [[mandate]], designed to encourage the people of Highguard to take up a portion of the burden that the Navarr have shouldered for centuries. The civil service forecast that the effects of that mandate would be ruinous, both economically and militarily but the Highborn did it anyway. If the Empire is our destiny - what price is too high to secure it?
+The monstrous infestation that is the vallorn is a danger beyond any other that now faces us. There is no sacrifice so great that we cannot meet it to defeat this terror. We send Lilith of the Chantry with 500 liao to urge every Highborn citizen to consider if they could assist in defeating this threat by undertaking an extended pilgrimage to walk the trods.
+The first effects began to bite as the mandate spread and people prepared to upend their lives. Farms, businesses, mines and forests were sold as people readied themselves for the challenge ahead - years of commitment to a hard life of travel and pilgrimage around the Empire. The young and idealistic were the most affected, exactly the kind of people who might once have served the Empire by joining the Highborn army now prepared for a different service. The civil service predicted that the effects of the pilgrimage would be felt by everyone in Highguard, including those who remained behind, for at least a decade to come unless something could be done.
+
+Fortunately something ''was'' done. Priests of every Imperial nation passed mandates urging their people to reach out and support the new pilgrims. From the Brass Coast to Wintermark, Varushka to Urizen, people of every land have been inspired by the sacrifice of the Highborn and have reached out to offer what aid they can. Such help is not without cost, every citizen of the Empire will now feel the burden of supporting the pilgrimage, (a penalty of 36 rings to every farm and business and one rank lost from each military unit and double that for Highguard), but because everyone is putting their shoulder to the wheel, the time taken for people to adjust to the changes are transformed. As a result the impact of the Highborn pilgrimage on the farms, businesses and military units of the Empire will last only a season.
+
+The war against the Vallorn demands all the support of all of us. We send Rane Sherarding, Corey Wayfarer, Medea Ruth, Astrid Fjellrevening, Lord Romande Remys, Immeldar i Ezmara i Erigo, Skywise Tulva, Father Drakov, and Hrodin with 50 liao each to urge every citizen to offer food, shelter, and protection to the pilgrims as they travel through our lands and beyond. We will shoulder this burden together.
+
+Now that the logistics of supporting so many people on the move for the first time are starting to be dealt with, the attention of the Highborn has returned to the pilgrims themselves. As more and more of them take to the road, it raises the question of how they should comport themselves as they travel. The Highborn Assembly has spoken on that matter once more, reminding every child of Highguard that they didn't just found the Empire... they also founded the Way.
+
+## Every Step is a Day
+Highguard is the birthplace of the Way of Virtue. Our gift to all the nations of the Empire. Now the great pilgrimage has begun, the Highguard National Assemby calls upon all who take the Pilgrim's Oath to follow the example of the Winds of Virtue and spread the Way to all corners of the Empire once more. So they may seek out and challenge false belief, correct those who have strayed from Doctrine, and ensure that the soul of the Empire remains strong.
+
+Able's words are well received by the Highborn and by the ''grey pilgrims'' as people are coming to refer to those Highborn who have taken up the challenge to walk the trods. People who are contemplating committing years of their lives to an endless march are enthused that as well as helping the Navarr to combat the Vallorn they might also work to spread the Way. One of the things that inspired the original mandate that created the pilgrimage was the need to save the souls trapped by the Vallorn, but why stop there? Every soul is in need of salvation - there is more than one way for a soul to be lost.
+
+If the Highborn commit to this vision then it has the potential to achieve something positive, ''in addition'' to helping against the vallorn. A suitable mandate would shape the character of the pilgrimage, potentially turning it into a crusade against every force that threatens the souls of the Empire. Of course such an emphatic decision would not be without challenges, it is not easy to challenge people's deeply held beliefs and it is never popular. But it would permanently define the identity of the grey pilgrims for years to come as well as reinvigorating the [[Highguard_religious_beliefs#Wayfarers|Wayfarers]], committing both to tackling false beliefs and correcting those who have strayed from the Doctrine.
+
+## Toward a Source
+The most expedient target for a mandate would be the multifarious foreigners who have been allowed to plant their false faith in Imperial soil in recent years. The idolatrous Asavean temples that increasingly dot the landscape are only the most obvious example. The travelling Faraden merchants, who are known blasphemers who venerate vengeance and claim it as an actual virtue, are ripe for confrontation. Suranni traders coming over the border or sailing the Bay of Catazar should be told in no uncertain terms that they are worshipping false gods and that only the virtues can save them.
+
+The Highborn should not hesitate to confront the false religions of foreigners who visit our shores. Let us weed out these lies before they take root in our souls and castigate those who reject the Way or turn aside from it. We send {named priest} with 25 liao to urge the grey pilgrims to take this message to heart in all the years to come.
+
+If this mandate is passed, then the grey pilgrims will remind everyone they meet on their travels that the Way is the one true religion of the Empire. They will present a unified face rejecting the overtures of Asavean priests at the Temple of the Black Bull and encouraging everyone to do likewise. They will disdain the Faraden traders who have come to the Empire in increasing numbers in recent years pointing out that these people do not acknowledge the seven virtues. They will be polite but forceful in their rejection of the false gods of the Suranni.
+
+As a result, the people of the Empire will be reminded of the importance of the Way and will keep their distance from foreigners who practice or worse preach false religions. There won't be violence (although there could be if a more strongly worded mandate and more liao were used), but the Empire will become a less hospitable place for foreigners whose religious views differ from the Empire. This will make it significantly more difficult for these false religions to spread further in the Empire, but it will do at the cost of the prospects of foreign traders who travel to the Empire, harming their interests and damaging their view of the Empire accordingly.
+### Those who Founded the Way
+Unusually, Chainbreaker Snark of the Imperial Orcs  has submitted an [[Mandate#Alternative Mandates|alternative mandate]] for consideration of the Highborn assembly. As a member of another national assembly, Chainbreaker Snark cannot raise this mandate but there is nothing within the rules of the Synod to prevent their suggesting it.
+
+In addition, a similar mandate has been submitted by Able of the Shattered Tower. In the opinion of the civil service the two mandates will have an equivalent effect if either one of them is passed. 
+
+The Highborn should embrace every opportunity to confront the false religions of foreigners who visit out shores, To show their Pride in the Way and their Ambition, to spread the revelation to every people in every Nation. Every soul saved is another step towards realising the dream of the First Empress, and achieving the Destiny of the Highborn. We send {named priest} with 25 liao to urge the Grey pilgrims to take this message to heart in all the years to come.
+
+Highguard were those who founded The Way and first spread it to the peoples of the Empire's nations. They have now shown their Loyalty in kind for this great enlightenment Highguard gave to them, and it is time to spread The Way further afield through the people of foreign nations. We send {named priest} with 25 liao to urge the grey pilgrims to convert travelling foreigners to The Way, so that they may go back to their lands and pass on the truth.
+
+These two mandates compete with each other and both would compete with the one listed above encouraging citizens to reject foreigners. Instead of rejecting them, these mandates encourage citizens to proactively proselytize to them, to try and convince them of the error of their ways. Either would have a similar practical effect to the original mandate, they would make the Empire an inhospitable environment for those who do not adhere to the Imperial Way, with the same consequences that follow from that. But they would do so by enthusiastically challenging their religious views at every turn, with a view to trying to convert them.
+
+## Every Line is a Place
+Although the pernicious influence of foreign religions is the most pressing concern of many, there are older worries. The great expansion of the Empire, brought millions to the Way, but in many places it failed to eradicate old superstitious practices, including numerous beliefs that border on the heretical. The further a nation was from Highguard, the more likely they are to preserve unorthodox beliefs. The pilgrimage creates a unique opportunity for the Highborn to correct that historic failure.
+
+The purpose of our pilgrimage is to save souls; those who have fallen to the Vallorn, but also those who are lost to false belief. We send {named priest} with 25 liao to urge the grey pilgrims to correct all those who have strayed from Doctrine in {named nations} as they walk the trods in the years to come
+
+To be effective, the mandate will need to specifically state which nations practice false beliefs that need to be challenged. Any of the nations of the Empire could be named with the exception of Highguard itself, though some are clearly more orthodox in their beliefs than others. It does not matter how many nations are named, the cost in liao is the same. 
+
+If this mandate is passed, then the grey pilgrims will challenge Imperial citizens in the named nations and push them to question their unorthodox beliefs. Such work will be difficult, people do not like to have their views questioned in this way, but it will be effective. The role of the Highborn in spreading the Way through the Empire is deeply embedded in Imperial history so people are more inclined to listen to a Highborn preacher than they would any other citizen outside their own nation. This is especially true following the decision of the national assemblies to urge their citizens to reach out and support the Highborn on their pilgrimage.
+
+The mandate will mean that people in the named nations will question their beliefs and, what is more, they will question the beliefs of those who preach to them, those who keep congregations. The effects will be noticeable, resulting in an ongoing one rank penalty to all congregations in the affected nations, until they take clear steps to abandon their heretical beliefs.
+
+### This Great Empire
+Yarona of the Chantry has submitted this alternative mandate for judgement of the Highborn Assembly
+
+The purpose of our Pilgrimage is to save souls; certainly those who have fallen to the Vallorn, but also those who are in danger of being lost to false beliefs. We the Highborn Assembly acknowledge that no citizen follows the Way perfectly. We all have room to grow, and faults to address. We send {named priest} with 25 liao to urge the Grey Pilgrims to act as guides for all the human nations of this great Empire. As they walk the trods in the years to come, let there be no dark corner into which they cannot shine the light of Virtue.
+
+This mandate is in competition with the one listed above. It would encourage the Grey Pilgrims to act as guides for all the human nations of the Empire, with the understanding that all of them had faults and were in danger of being lost to false beliefs. While it is not possible to explicitly instruct the pilgrims to target Highguard, it is possible to instruct them to target all the human nations for intervention and that would cover Highguard. 
+
+This mandate will mean that people in the named nations will question their beliefs and question the beliefs of those who preach to them, those who keep congregations. The effects will be noticeable, resulting in an ongoing penalty of one rank to all congregations in all nine human nations, until they take clear steps to abandon their heretical beliefs.
+
+## Mute Mouth, Broken Tongue
+Cimeies of Felix's Watch has submitted an [[Mandate#Alternative Mandates|alternative mandate]]:
+
+The purpose of our pilgrimage is to save souls, those who have fallen to the vallorn, but also those who are lost to malign forces and who bend the knee to eternals. We send {named priest} with 25 liao to urge the grey pilgrims to preach the rejection of False Virtues and idolatrous behaviour.
+
+If this mandate is passed, then the grey pilgrims will remind everyone they meet on their travels to harden their hearts against False Virtues. They will present a unified face rejecting those who practice false virtues, specifically the Faraden and Axos (as well as causing issues for groups like the people of Whittle and the humans who live with the Great Forest Orcs). There won't be violence (although there could be if a more strongly worded mandate and more liao were used), but the Empire will become a less hospitable place for people who practice false virtues. This will make it significantly more difficult for these false religions to spread further in the Empire, but it will also make the Empire a much more unwelcoming place for the people of those faiths, harming their interests and damaging their view of the Empire accordingly.
+
+In addition, this mandate will also encourage the pilgrims to seek out those "who bend the knee to eternals". This will make it easier for the Empire to identify such groups - and potentially take action. It will also have a significant effect on the character of the pilgrimage, further emphasizing the inquisitorial nature of the pilgrims and giving them an investigative remit to seek out and report on those who have succumbed to malign forces or are engaged in idolatrous behaviour.
+
+## A March Over Months
+The first three mandates are not in competition with each other - they are distinct but complimentary - and the Highborn could choose to pass them in any combination. The second mandate is in competition with itself, however - if more than one version is raised naming different nations then the one with the highest margin will be the one upheld.
+
+If the Highborn pass one or more of the mandates, then it will affirm the religious nature of the new pilgrimage, encouraging the grey pilgrims to face up to their religious duties as they walk the trods to weaken the vallorn.
+
+If the Highborn do not pass either mandate, then the influence of the original statement of principle from Able of the Shattered Tower passed by the Assembly at the Autumn Equinox will wane. The chance to use the pilgrimage for missionary work would be lost for the time being and the focus of the journey would remain purely on fighting the vallorn, at least until an equivalent statement of principle with a different aim were passed.
+
+## Blessings in Disguise
+Because at least eight nations chose to [[A_blessing_in_disguise#Mitigation|endorse the mandates]] in support of Highguard, each nation will incur a penalty of 36 rings to every [[farm]] and [[business]] and one rank lost from each [[military unit]] during the coming season. Highguard suffers no additional loss - each Highborn business and farm continues to lose 72 rings from their income, and each Highborn military unit continues to suffer a loss equivalent to two ranks of fighting strength.
+
+By the start of the Spring Equinox however, all these penalties will have run their course.
+## Resolution
+Three mandates related to the role of the Grey Pilgrims were raised, and supported by the Highborn Assembly. Shadrach raised the mandate to [[#Mute_Mouth.2C_Broken_Tongue|oppose false virtues and eternal worshippers]]; Yarona of the Chantry raised the mandate to [[#This_Great_Empire|encourage the Grey Pilgrims to act as guides for all the human nations of the Empire]], and Dinah of Jeeremsah's Welcome raised the mandate to [[#Those_who_Founded_the_Way|encourage citizens to proactively proselytize to foreigners]]. All three passed - Dinah's with a greater majority - and as they are not in competition all three may be enacted in the coming months.

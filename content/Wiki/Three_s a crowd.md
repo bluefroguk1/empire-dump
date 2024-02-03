@@ -1,0 +1,80 @@
+---
+revision_id: 79876
+revision_date: 2020-07-29T11:12:11Z
+categories:
+- Winds of Fortune
+- 383YE Autumn
+- Recent History
+aliases:
+- Three's_a_crowd
+---
+
+
+"Wait! Listen! You can't enslave me - I'm important! The Citadel will pay for my release!" 
+
+The reaver stared at the raving prisoner. It was always the same with these humans. 'You can't enslave me... I'm too important to go to the salt mines'. They'd say anything to save their rotten skins. She contemplated clapping him in chains with the others, but then something caught her eye. The heavy black robes the fellow was wearing, were not that different in shape to the other captives onboard the vessel, but they were cut from fine velvet. Expensive... maybe there was something in the human's claims after-all.
+
+"How much are you worth human?" she spat. "And no lies. If you lie to me - I'll pin your tongue to the mast and season it for the birds to eat."
+
+A look of sheer desperation crossed the human's face. Goodness these people were bad at this she thought. They were just so simple minded - they couldn't keep their thoughts from showing.
+
+"Five dozen mana crystals - maybe six?"
+
+Laira laughed and backhanded the human with the back of her gauntlet. He crashed to the floor, blood pouring from his lip. "Ten, ten! Ten dozen! One hundred and twenty mana crystals if you free me."
+
+The reaver laughed again - but this time she motioned for one of her crew to take the human away and put him in the brig. The day was turning out much more profitable than she had imagined.
+
+## Overview
+Under the terms of the Liberty Pact, any of the signatories is entitled to call a meeting of the pact's membership if they have an issue to discuss. Each nation will send at least one representative. At the recent Summer Solstice, notification was sent by the Empire to the other nations of the Pact to indicate that the Empire wished to discuss the situation regarding the nation of Faraden.
+
+Representatives of Sumaah and the Commonwealth have arrived in the Empire, but by the time of the Equinox, there was no sign of the expected delegate from Axos. Worse, there was some significant concern that the Empire's own delegate, Eska Crowspeaker, would be unable to attend the meeting.
+
+Given the situation, the delegates from Sumaah and the Commonwealth politely request that the Empire delay the meeting for a season. This will allow more time to ensure that all signatories are fully briefed on the purpose for the meeting - and give time for Sumaah and the Commonwealth to present suggestions of their own.
+
+## Preparation
+Both Sumaah and the Commonwealth emphasize the benefits to be had if the nation calling a meeting of the pact provides detailed briefing information about they wish to discuss. Both nations received an invitation to the meeting, but with varying levels of detail about what was at stake. They are at pains to stress that the more information they have in advance, the better prepared they can be for the meeting, and thus the easier it is for them to be briefed and to make appropriate decisions. If they don't have enough information to make those decisions, then inevitably there will be frustrating delays as negotiators are forced to take details back home to be studied at length before any agreement is forthcoming.
+
+The Commonwealth propose a polite agreement that every nation commit that if they are going to call a meeting of the Pact, then they aim to ensure that the invitation includes clear details on what they would like to talk about, laying out at the very least the basic parameters of the situation to be discussed.
+
+To that end - they have a number of proposals of their own to make.
+
+## Stools and Chairs
+The Empire lies half way between Sumaah and the Commonwealth, which makes it the ideal place to hold such meetings. Delegates from Sumaah and the Commonwealth have apparently discussed this problem between them at length - and both agree that despite the obvious problems with holding every meeting in the Empire - it is the most practical solution.
+
+They are prepared to agree to this, on the clear understanding that this does not mean that the Empire will chair each meeting. It is one thing, they argue, to have the meetings held in the same location - it would be another matter altogether for everyone to accept that the Empire would chair every meeting. In fact, they go further, saying that there are many advantages that accrue to the nation hosting the meeting - therefore they propose that the Empire do not chair any of the meetings.
+
+Of course that raises the issue of who should be the chair. One option is to invite the Sarcophan Delves to chair the meeting for the Pact. This is not an ideal solution, but they would at least be a neutral party. The possibility that they might not want to chair the meeting receives short shrift, both Sumaah and the Commonwealth are confident that the Delves would be only too happy to keep sticking their nose into the business of the Pact members.
+
+A better option in their opinion, would be for the two other major signatories - Sumaah and the Commonwealth - to rotate the chair between them. Obviously it would need Axos to acquiesce to that arrangement and they're not likely to appreciate the implied snub, but the facts are very clearly that Axos is the smallest of the nations that have signed the Pact - its size and power is only a tiny fraction of that of the Empire, the Commonwealth or Sumaah.
+
+Whatever happens, there will need to be some clear understanding on how will chair the next meeting of the Liberty Pact before the meeting can begin.
+
+## Sumaah Says
+The Sumaah are not displeased that the clause invoking a meeting has been invoked. They are keen to discuss matters of trade with slaving nations. They express disappointment that not all signatories have moved to forbid trade with slavers - they repeatedly make the point that purchasing goods from slaving nations is purchasing goods that were created by slaves - that trading with them is supporting slavery.
+
+The Sumaah have taken a clear, firm stance and completely embargoed all trade with slaving nations. This has caused them some significant losses, but not so great that they cannot endure them.
+
+The Sumaah are clear - the next time the Pact is called together to discuss matters between signatories - they want to discuss altering the terms to outlaw ''all'' trade with nations that practice slavery.
+
+## Commonwealth Concerns
+The Commonwealth are currently very positively inclined towards the Empire due to the [[Large_but_far_away#An_Unparalleled_Gift|generous gift]] of the [[Imperial Conclave]] who extended access to Imperial lore to their magicians. However they have some concerns that any attempt to share magical lore between signatories could - at present - result in that learning falling into the hands of the enemies of the Pact.
+
+The Commonwealth do not currently exchange rituals or other magical lore with other nations. They are looking at some options for sharing knowledge with the Empire in light of the help they have been provided, but that could only happen if there were appropriate guarantees. In particular they are concerned about the behaviour of the Sarcophan Delves - who have continued to trade extensively with all nations. It is clearly only a matter of time before any rituals shared with the Delves end up in the hands of the Jarmish princes or their equivalents in Asavea.
+
+Their delegate is clear - the next time the Pact is called together to discuss matters between signatories - they want to discuss altering the terms to forbid any exchange of magical knowledge with any nation that is not also a signatory to the Pact.
+
+## The Missing Ship
+By the time the summit is approaching, there is no sign of the Axos delegate. Hasty winged messengers are exchanged with the civil servants stationed in Axos who confirm that a vessel carrying the delegate did set off from Kantor, but it appears they have not arrived. The Axou learned of the meeting quite late, and so their delegation was thrown together at the last minute and unfortunately it appears their ship set sail without a proper escort. After some discussion with the Axos, it appears that his ship was attacked and captured by a Grendel privateer.
+
+Until recently the Axou enjoyed a reasonable relationship with the Grendel who largely gave their vessels a wide berth. Unfortunately that situation has changed dramatically in light of their decision to sign the Pact. That has been taken as a clear indication that the Axou favour the Empire over the Grendel. As a result they have been singling out Axou ships making any travel by the Axou substantially more difficult.
+
+The problem is not insoluble, just expensive. Any official delegate travelling to the Empire from Axos is going to need one or more armed ships acting as escort to protect the dignitary. Sadly that will make it costly for the Axos to attend many of the meetings.
+
+They wish to propose therefore that the Pact be amended to limit it, so that members cannot be called together to discuss matters more than once a year.
+
+## An Ideal Time
+In light of the failure of the Axou delegate to reach the summit and the question mark over the attendance of Eska Crowspeaker, both Sumaah and the Commonwealth insist that the meeting be postponed to the Winter Solstice at the earliest. However they are prepared to accept a longer delay, if the Empire wishes to have time to consider their own demands first.
+
+Whatever happens the issue of the chair will have to be resolved first. If their proposal - that the meetings be hosted in the Empire but the chair alternates between the Commonwealth and Sumaah is acceptable to the Empire then their ambassadors can communicate that. If not, then some solution must be found that is acceptable to all parties. In theory that could be the first point on the agenda for a meeting, although neither the Commonwealth or Sumaah think that is a good idea, pointing out that if they cannot get agreement on that point then the meeting will not be able to continue.
+
+They are however prepared to consider any alternative the Empire is prepared to put forward - provided it is clearly communicated to them via the appointed ambassador.

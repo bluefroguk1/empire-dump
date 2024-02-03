@@ -1,0 +1,29 @@
+---
+revision_id: 93561
+revision_date: 2022-07-24T12:13:03Z
+categories:
+- Astronomancy
+aliases:
+- The_Stallion
+---
+
+
+### The Law
+Things Procreate
+### The Constellation
+The Stallion is a complex constellation of 14 stars and is located beneath the Phoenix. It is most easily located by following the line of the fixed star of the Chain, through the rear of the Phoenix and down to the centre of the Stallion’s back.
+### Symbolism
+The Stallion represents prosperity and the urge to grow and procreate. It is a symbol of strength and virility; of the quality of the bloodline and of the value of children. Some coarser interpretations in the League and Navarr strongly associate The Stallion with the act of coitus but more properly it refers to action begetting consequence.
+
+A deeper symbolism attached to the Stallion refers of course to its nature as a horse; the Imperial emblem. The Stallion can refer in magical workings to the Empire itself or to its leaders.
+
+### Using the Stallion in magic
+The most obvious use of The Stallion in ritual is to invoke blessings on unborn children; however it is also used as a fertility symbol in rites to do with agriculture growth and business. Fertility is not just to do with making babies; two coins invested wisely will make their own kinds of babies. The Stallion also has strong associations with children in ritual; as protector of the herd and as teacher.
+
+### Tulpas of the Stallion
+Some legends speak of creatures half horse half man deep in the forests – sometimes these are said to be near feral but other times are regarded as wise teachers. There is an old tale among the Dawnish yeofolk of the mysterious ale merchant who plies a shy husband with ale on his wedding night to give him the courage to approach his beautiful but intimidating spouse naked.
+
+### Alignment
+Ritualists who invoke the Stallion speak of a sense of great virility, pride in family and overwhelming sense of freedom – and indeed of a heightened desire to secure their own lineage. More than one ritualist in such a state has found themselves doused with cold water by their own collaborators. 
+
+

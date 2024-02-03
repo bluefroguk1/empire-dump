@@ -1,0 +1,84 @@
+---
+revision_id: 102418
+revision_date: 2023-06-18T21:18:35Z
+categories:
+- Navarr
+- Gazetteer
+- Imperial Territory
+---
+
+
+## Overview
+Ice-bound northern Hercynia is a forest territory that, until [[Skarsind]] was given to the [[Imperial Orcs]], was entirely surrounded by the nation of [[Wintermark]]. The territory is situated in the Great Vale, a bowl of mountains that surround both Hercynia and [[Skarsind]]. It is an inhospitable place, but where the trods flow so the Navarr travel. Over the centuries, the Navarr have made slow but steady inroads here, reclaiming much of the forest from the particularly malicious vallorn that dwells within it.
+
+The trees of Hercynia are ancient, and the soil of the forests is home to a great wealth of [[Materials#Dragonbone|dragonbone]] which for centuries was carefully harvested and used extensively by the runesmiths in the forges at [[#Treji|Treji]]. Spring is short here, and winter long and dark. On the coldest winters, when [[Sermersuaq#Northern lights|eerie lights]] dance in the northern sky, snow blankets the dark pines.
+
+## Recent History
+The fall of [[Skarsind]] in 373YE left the people of Hercynia facing immediate danger, as the [[Thule]] orcs tried to force their way into the forest to achieve the capture of the whole of the Great Vale. Barbarian forces took the runeforges of [[#Treji|Treji]], but made no further ground. With the defeat of the Thule forces in Skarsind, it is likely that a concerted effort could be made to recover the territory claimed by the orcs.
+
+Of particular concern to the people of Hercynia is the idea that concerted push from the orcs could result in the loss of more ground, and (coupled with the presence of the vallorn in Deer's Folly), the loss of the entire territory. Thankfully, the defeat of the Thule in Skarsind made this much less of a possibility. In the Winter of 377YE, the [[Imperial_Orcs_territories#The_Summer_Storm|Summer Storm]] army swept down from the foothills to the north into the Glade of Shadows and shattered the barbarian presence there. The Imperial orcs liberated Treji, and freed hundreds of enslaved Navarr. Now the Imperial Orcs hold Skarsind, and the Navarr are starting to set up trade routes to the new nation.
+
+## Major Features
+### Treji
+A stone-built steading in the heart of the winter forest at [[#The Glen of Shadows|The Glen of Shadows]], and one of the only places where the Navarr had a number of large forges, built with aid from the Winterfolk. [[Steinr]] apprentices are often placed with the Navarri for a time, to learn the working of wood alongside metal. The steading fell to the barbarian orcs in the fall of Skarsind in 372YE and was liberated by the Imperial orcs in the Winter of 377YE. The [[Keeper_of_the_Memorial_Gardens_of_Treji|Memoiral Gardens of Treji]] remember the liberation; a [[herb garden]] given over to the custody of the Imperial Orcs.
+
+The forges here were devastated during the fighting and by last-ditch sabotage by the spiteful Thule defenders. Hundreds of Navarr slaves were liberated in the process, including a number of artisans who had been forced to create weapons and armour for their captors. A number of prisoners were unaccounted for, however - many of the runesmiths captured when the steading was taken had already been sent north to captivity in [[Otkodov]].
+
+Shortly before Summer 380YE, work was completed on a large wayhouse here designed to encourage trade with [[Skarsind]], under the control of the [[Broker of Treji Wayhouse]]. Already it is bringing increased trade through the territory, and it forms the western arm of the [[Northern trade network]].
+
+### The [[Heartwood of the Great Vale]]
+The Heartwood of the Great Vale is a Bourse resource located in [[#Summersend|northern Summersend]]. Custodianship of the Heartwood is an [[Imperial Title]] that brings with it a Seat on the [[Imperial Bourse]]. It produces 25 Imperial wains of weirwood every season. Control is allocated to any Imperial citizen by open auction during the Winter Solstice.
+### The Blade of Thorn
+The Blade of Thorn was [[commission|commissioned]] by [[Construct_Blade_of_Thorn|order]] of the [[Imperial Senate]] in Spring 382YE and completed shortly before the Summer Solstice of the same year. An intricate knot of paths in the slopes of [[#Old Ranging|Old Ranging]], the Blade of Thorn is shaped by the winding of small rods and banks of heather. Built at the request of Rhisiart Dancewalker it is a site of memorial and pride to those who have given their lives in support of the Empire and whose unnumbered names are carved into stone menhirs that periodically line the earthen slopes. Visitors to the site are encouraged to chisel the names of fallen heroes to the stones by the Blade’s rest wayhouse, used as a hostel by those who maintain the work. Prominent in particular with blood red limestone are the menhirs of those who have fallen for Liathaven including the stridings of Exiles End, Tarw, and Y’basden. The particularly vigilant will perhaps notice the names of Yanto, and Warbeast carved alone on a smaller obsidian stone etched with the rune of Zorech, rumoured to have been taken from the Black Plateau. At the centre of the swirling, curling knot stands a giant black stone with a single name in gold: Achilles of Damakan’s Forge.
+
+The stones themselves are only a part of the great work. They mark a spiral design worked into the sod of the foothills and reinforced by wandering feet. This grand design subtly alters and focuses the flows of mana from the mountains, and across the entire territory. At key places in each [[territory#Region|region]] a similar design - albeit of much smaller scale - can be found marked out by similar limestone menhirs.
+
+### The Gate of Summer
+Two huge stones and a top lintel stand in the middle of a clearing, carved about with boar, deer and other game, and symbols representing summer. It is covered in moss, and no-one has ever seen a hint of any magic from it. 
+ 
+### The Vallorn of Hercynia
+The vallorn of Hercynia is often characterized as "malicious" or "patient." It does not seem to be as vibrant as the vallorn in more southerly climes, and is certainly not as aggressive as the vallorns of [[Brocéliande]] or [[Liathaven]]. It is well known that the Vallorn itself is not sentient but a hostile area of land, however, it is the actions of the creatures that dwell in the Vallorn that give it this reputation.  While incursions from vallornspawn are few and far between, they are especially vicious when they do come. Over the centuries, it has been beaten back to a dark heart in eastern [[#Deer's Folly|Deer's Folly]] but efforts to dislodge it entirely have failed.
+
+## Regions
+### Northpines
+Qualities: Forest, Hills
+The mountains of north-west Hercynia are home to several mines that have been worked since before there was an Empire. The slopes of the mountains are thick with ancient pine trees, rich in [[Materials#Ambergelt|Ambergelt]] and [[Materials#Dragonbone|Dragonbone]]. This was the easiest region to clear of Vallorn influence during the slow war of attrition to regain Hercynia, and there have been no major incursions of vallornspawn into the mountains in centuries. This region is famously where Myfanwy (one of the [[Navarr History|earliest companions]] of the First Empress) was born, and where she was called to help mediate a dispute between rival steadings during the unsuccessful first attempt to bring the [[Urizen_history#Joining the Empire|Urizen]] into the Empire. Some conspirators claim that had Myfanwy made the trip with the First Empress, the Urizen could have been convinced to join the Empire early.
+
+Several secluded passes through the mountains into Skarsind served as trade routes prior to the invasion of the Thule. In later years they were used to launch scouting missions into the barbarian-held territory. The steadings of the region are considered a little odd by many Navarr, and occasionally accused of having more in common with the Winterfolk than with their own cousins. There may be a little truth to this - with the loss of the Glen of Shadows to the barbarians, Northpines was cut off from the rest of Hercynia - and indeed the Empire - by a combination of barbarians and the vallorn-infested region of [[#Deer's Folly|Deer's Folly]] to the south.
+
+North Pines is the home to the Pridestalkers Striding who's rite of passage involves hunting and skinning the Snow Lions, the children of the Eternal Cathan Canae.  It is also the location of the newly built [[Voice_of_Barbs#The_House_of_Barbs|House of Barbs]], commissioned by the controversial senator Rhain Winters Vigl.
+
+### The Glen of Shadows
+Quality: Forest
+The steading of [[#Treji|Treji]] still stands here, but has been extensively damaged by the battle between the Imperial orcs and the barbarian occupiers. The artisans who made their home here combined the working of wood and metal to make weapons and armour for the Thorns of Hercynia and to support their Winterfolk allies. The Iron Roots of Treji stand guard in this area to make sure that no threat will harm the area. The Glen of Shadows is known for their fine magical bows and spears, easily matching the more workmanlike produce of the Wintermark runesmiths. 
+
+The famous [[Shadowglyn Distillery]] is located here on the lower slopes of the Northpines. The once famous distillery produced some of the best drinks in the Empire until it was destroyed in a pitched battle between the Thule and Navarr defenders, during fighting in the territory.  Production has recently restarted at the site, under the auspices of Wern Taur Thorntarry.
+
+### Deer's Folly
+Qualities: Forest, Hills, Vallorn
+Another mountainous area of Hercynia, but one that has fared less well than Northpines. While the mountains to the west create a natural barrier against the worst effects of the vallorn, a poisonous miasma lies over much of the region. The noxious atmosphere pools in valleys and spreads through the forest from the vallorn of Hercynia, wrapped tight around the ruins of the ancient Terunael city of Hacynian in the east. There are only a handful of steadings in Deer's Folly and they are all built in the western mountains - no steading established closer to the vallorn heart has survived more than a decade before it is overrun.  The oldest of these is the small but ancient steading of Bont Goch. The Winterfolk Queen Ilsin is believed to have met her end here at the hands of the Vallornspawn - some scholars point to the fact that her famous standard bore a white stag and suggest it is more than coincidence the region is known as "Deer's Folly" - but if it had a name before this it is known only to historians. (OOC Note: This region is not considered to be in Imperial hands. It cannot be reclaimed until the power of the vallorn is broken.)
+
+### Old Ranging
+Quality: Forest
+The forests of Old Ranging are carefully cultivated by the inhabitants of the Steadings here. The woods are rich with animal life, and many hunters make a good living providing pelts, furs and fine meats to merchants and traders who travel across the Empire. Likewise, the many streams and shallow rivers are rich with an impressive variety of fish and a number of steadings here raise domesticated deer and even goats whose meat is very much in demand. There are several well-established trade routes from Old Ranging to [[Hahnmark#Kalpaheim|Kalapheim]] and Winterfolk merchants are a common sight in the Summer months. It has not always been this way of course - there are several battlefields here that date back to pre-Imperial times when the ancestors of the modern Winterfolk, spurred on by their [[Wintermark_history|successes against the trolls]] attempted to conquer Hercynia. The tragic tale of Queen Ilsin is sometimes told by both Navarr and Winterfolk, recounting how her army was lead through Old Ranging by the clever Navarr and tricked into marching into Deer's Folly where the 'thousand strong army' was devoured by the vallorn. The tale is probably an exaggeration but seems to have at least some basis in truth. It marked the last major conflict between the Navarr and the Winterfolk in Hercynia, although to this day Suaq explorers make occasional forays into Old Ranging seeking for some sign of Queen Ilsin's personal standard ''Winter Fury'' which is believed to be a [[Thaneshall Banner|potent artefact]].
+
+In recent years, as the heart of the Vallorn of Hercynia has become more restive, there has been an increase in vallornspawn attacks on hunting parties along the northern borders - but never in great numbers, and the attacks have been dealt with swiftly and effectively by vigilant Thorns.
+
+### Summersend
+Quality: Forest, Great Forest Orcs
+The forests of Summersend are sparse, giving way to the plains of [[Skarsind#Gildenheim|Gildenheim]] to the north. The [[#The Gate of Summer|Gate of Summer]] is found here, along with several other well-explored Terunael ruins. Several steadings are built on a foundation of old Terunael structures, and it is from here that the push to drive back the Vallorn is overseen. There are several old battlefields here, most dating back to pre-Imperial times and to attempts by the Vard ancestors of the [[Varushka|Varushkans]] to conquer Hercynia. Most of these battlefields have long since been forgotten but one - Mourning Hollow on the very south-eastern borders - [[Rubies on the Snow|was said to be haunted]] by the unquiet spirits of dead Vard and Navarr warriors due to the result of a forgotten curse or betrayal.  Due to the actions of an expedition in Winter 379YE there have been no sightings of ghosts since. Mourning Hollow is also the site of the [[Advisor_on_the_Vallorn#The_Great_Library_of_Hacynian|Great Library of Hacynian]].
+
+In addition to the usual occasional incursions from the vallorn of Hercynia, there have been several skirmishes with the orcs both from Skarsind and from the Glen of Shadows to the north-west. The fortified steadings here served as a base of operations for forays into Skarsind during the recent war, and a number of Wintermark refugees were helped to safe havens in [[Hahnmark]] to the south-west.
+
+The Foxden steading is the most influential steading based in Summersend and acts as a place to run messages not only across Hercynia but across the entire Empire.
+
+Summersend is also the site of the [[Heartwood of the Great Vale]], and of the corpse glade where the eerie unknown remains dug from beneath the roots of the ancient weirwood are interred. Following a welcome offered by the Navarr national assembly in Winter 384YE, a community of [[Great Forest Orcs]] [[You_belong_with_me#A_Home_in_the_Empire|established High Pines Steading]] in Summersend near the weirwood forest. While most work as herbalists, cultivate forests, or trade, others are employed at the weirwood groves themselves. . 
+
+The [[#Heartwood of the Great Vale|Heartwood of the Great Vale]] is in northern Summersend, right on the edge of the [[#The Glen of Shadows|Glen of Shadows]].
+
+
+## OOC Notes
+* All the regions of Hercynia, except for Deer's Folly which is controlled by a vallorn, are in the hands of the Navarr (and by extension the Empire).
+* The [[#Blade of Thorn|Blade of Thorn]] is a [[great work]] that provides 37 [[Game_items#Mana_Crystals|mana crystals]] each season, spread amongst those citizens of Hercynia who own [[mana site|mana sites]]. 
+
+

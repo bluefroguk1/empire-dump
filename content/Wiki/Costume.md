@@ -1,0 +1,150 @@
+---
+revision_id: 104887
+revision_date: 2023-08-20T18:20:53Z
+categories:
+- Rules
+---
+
+
+## Overview
+In a live roleplaying game, the more effort every participant makes with their costume, the better the game becomes for everybody. By costume we don't just mean your character's clothing, we mean everything your charater has - any weapons and armour, as well as any props or set dressing that you bring to the event. The more convincing these things are, and the less modern items there are visible in the game, then the more [[The_game#Immersive_and_Aspirational|immersive]] and real the event feels for everyone.
+
+Empire is a [[The_setting#Closed_World|closed world]] which means you can't just wear whatever you like. There is a [[#Look and Feel|look and feel guide]] for each of the ten nations in Empire that provides canonical descriptions of what the costume for that nation should look like. Empire is an [[#Aspirational Game|aspirational game]], and we ask everyone involved to follow the guide for their nation and try to have the best costume they can.
+
+We also want Empire to be [[#Inclusion|inclusive]] however and provide explicit confirmation that all items needed for accessibility are fine to use at Empire. We set basic [[#Minimum Standards|minimum standards]] for the game that are clear and easily achieved, so that people can attend with confidence.
+
+## Minimum Standards
+* All participants must wear appropriate costume in the in-character area during time-in
+* Obviously modern garments such as jeans, t-shirts and white trainers must not be on show
+All participants must wear appropriate costume while in the in-character area during time-in. Most basic costume is acceptable provided it is broadly medieval in style. It is fine to wear plain, modern garments that have an in-character equivalent such as linen trousers or nondescript leggings, provided they are unobtrusive and modern elements such as zips, trouser-leg pockets, and elastic waistbands are all covered. We encourage players to be aspirational and make the best effort they can, but these minimum standards allow everyone to attend the event with absolute confidence that their costume is good enough to play the game.
+
+
+## Aspirational Game
+* We ask everyone to get the best costume they can and then improve on it over time when possible
+* We ask everyone to respect the efforts other players are making and refrain from any criticism
+Empire is aspirational, but this doesn't mean that everyone is expected to have amazing costume. Costume is expensive and each participant has their own limits on the time and money that they can devote to a hobby. What we ask is that people commit to getting the best costume they can and [[#Continuous_Improvement|improving it over time]].
+
+All aspirational games are at risk of appearing elitist. The fear is that participants' costume will be judged against some unknown standard, which can be intensely intimidating to new players. We want Empire to be an accessible game that anyone interested in live roleplaying can feel confident about attending. We want the game to be inclusive, to be inviting and welcoming towards everyone interested in taking part. To support this aim we provide clear [[#Minimum Standards|minimum standards]] and explicitly prohibit [[#Costume#Criticism|criticism of costume]], either online or at events.
+
+An aspirational hobby is one where every participant aims for the best standards they can achieve - an inclusive hobby is one where those involved accept the different standards that others can achieve. In Empire every player should try their best - but no player should be concerned that their best effort might not be good enough.
+
+## Look and Feel
+* Not all costume is appropriate to Empire - some costume does not fit the setting
+* The look and feel page provides the ''ideal'' costume for each nation
+
+Your nation is the single most important thing about your character, it colours everything they are and do, especially how they dress. Because of this it is best to decide what nation you are going to play before you try to get any costume together. Once you know what nation you want to play then you can look at the look and feel guide for that nation to get advice on what costume to wear, as well as suggestions for the best colours and fabrics to use. The closer your costume resembles the ''ideal'' style set out for your nation, the better you will look at the event.
+
+A good rule of thumb for Empire is that something doesn't have to look like an actual historical item or garment, but it should look like it ''could'' have been. While Empire is not a historically accurate setting, much of the look and feel for the nations is derived from the clothing worn in parts of historical Europe and North Africa. The underlying theme across all the nations is for armour, armaments, costumes and props to look like real items rather than the over-the-top, fantastical styles familiar from ''World of Warcraft'' or ''Final Fantasy''.
+
+Obviously modern items, such as cans, folding chairs, or items made of plastic or similar artificial materials disrupt the visual atmosphere of the event. The impact of any individual item is small; nobody's event is ruined by seeing a coke can. But the impact is cumulative, so the less modern items there are in the game area, the more immersive the event becomes. For this reason, such items should be covered or concealed where it is practical to do so. For example, you can use a modern folding chair in the in-character area by covering it with a suitable blanket or throw.
+
+Besides the items listed below, the look and feel page for each nation may provide information on additional pieces of costume that are ''less appropriate'' and ''inappropriate''. They are presented on the page for a specific nation, simply because that nation is where that costume is most likely to crop up, but anything that is listed as ''inappropriate'' anywhere on the wiki cannot be used at Empire events.
+### Less Appropriate Costume
+* ''Less appropriate'' costume is acceptable; it is not something to aim for but you can use it for as long as you need to
+* All costume that meets our minimum standards but is not part of your nation's look and feel guide is ''less appropriate''
+* This includes costume that is a part of another nation's look and feel guide rather than your own
+* Don't draw attention to less appropriate costume in play
+Costume that is ''less appropriate'' is fine to use in play. Creating a costume is always a compromise as time and money are limited. It is entirely sensible to use an existing garment or prop that you own that is ''less appropriate'' if doing so allows you to focus your efforts on improving other parts of your costume. We encourage everyone to get the ''ideal'' look for their character when they are creating or buying new costume, but you are welcome to use pieces that you already own until you are [[#Continuous Improvement|ready to replace them with something better]]. 
+
+Each nation has its own distinctive look and feel that provides a broad definition of the costume that is most appropriate for that specific nation. Anything that is not part of your nation's look and feel, even if it is listed as ''ideal'' for a different Imperial nation, is always considered to be ''less appropriate'' at best. This means it is fine to use a typically [[Dawn|Dawnish]] weapon for your [[the Brass Coast|Freeborn]] character, but it is something you should aim to replace once you are in a position to do that comfortably. The exception to this is for small elements of your costume that reflect things that have happened in play - for example it's fine for your [[the League|League]] [[bravo]] to wear a Dawnish [[Dawn_hearth_magic#Favours|favour]] if it is something important that you were given by another character.
+
+In creating the look and feel guides for Empire, we were inspired by historical sources but also by modern fantasy films like ''Lord of the Rings'' and shows like ''Game of Thrones''. Many of the costumes from these modern productions are fantastic and fit well with some nations in Empire, but it's better to try and create an overall look that is original if you can rather than copying a well known figure exactly. Many of Cersei Lannister's outfits are fantastic inspiration for Dawnish costume, but the more you look like Cersei, the more it will remind other players of ''Game of Thrones'' rather than Empire, so it's better to aim for something new rather than try to emulate it exactly.
+
+Empire has it's own unique [[runes]] instead of real world runic scripts like [https://en.wikipedia.org/wiki/Runes Futhark] and [https://en.wikipedia.org/wiki/Ogham Ogham]. You can still use costume that is marked with these runes but they are ''less appropriate'' than those without, and have no particular meaning in the Empire world. The game has it's own [[Magical_tradition|magical traditions]] embedded in the setting; this means that most occult or magical symbols from real world traditions likewise have no meaning in the game unless it is explicitly called out by the setting.
+
+When you encounter costume that is ''less appropriate'' you should try to ignore it. Live-roleplaying games are full of compromises like this and the game works best when everyone avoids drawing attention to them. This means that you shouldn't make a piece of ''less appropriate'' costume a key part of your character's backstory or personality, or create an in-character rationale to justify why you have it. Making something an integral part of your character's story makes it harder for everyone else to ignore the compromise and it makes it harder for you to replace the item with something better when you're able to do so.
+
+### Inappropriate Costume
+* Kit defined as ''inappropriate'' anywhere on the wiki cannot be used at Empire
+* This includes tricorns, firearms, costume and kit from the Golden Age of Piracy, steampunk or Victorian era
+* Items that are religious or sacred should not be used as props at Empire
+* Anything with racist symbolism or anything that could be considered a racist caricature cannot be used at Empire
+
+Where kit is explicitly identified as ''inappropriate'', that means that it cannot be worn or used at events. We have deliberately excluded costume that is too modern to use at Empire, or has real world implications that make it appropriate for use at an event. 
+
+We want people to avoid creating a silhouette using [https://en.wikipedia.org/wiki/Golden_Age_of_Piracy Golden Age of Piracy], [https://en.wikipedia.org/wiki/Steampunk steampunk], or [https://en.wikipedia.org/wiki/Victorian_era Victorian] elements. These looks are very iconic and are all more modern than the influences used for any nation in the world of Empire. For this reason, [https://en.wikipedia.org/wiki/Frock_coat frock coats], [https://en.wikipedia.org/wiki/Tailcoat tailcoats], [https://en.wikipedia.org/wiki/Tricorn tricornes]
+and [https://en.wikipedia.org/wiki/Top_hat top hats] are all ''inappropriate''. 
+
+This rule includes modern fashion corsets, such as steampunk/Victoriana style corsets or those worn to a goth club which typically have a visible busk and metal bones and are usually made of satin, brocade, PVC or leather. Many bodices, jerkins and close-fitting leather armour pieces made to fit women are often advertised as "corsets" by costume sellers. These are not excluded and sometimes form part of the iconic look of a nation. As a rule of thumb, if the same garment made to fit a man wouldn't be called a corset, it isn't a corset. Historical stays are not appropriate as outerwear, as this does not match the look of the time periods that inspired Empire's costume, but you may wear any corset or shaping garment under your costume for any reason.
+
+While there are some anachronistic technologies in Empire they are explicitly [[technology|called out]] as being part of the game. Explosives such as gunpowder will never exist in Empire, so you cannot use any bomb, pistol, musket, or other firearm at an event. Weapons in Empire must be based on common historical examples found in Europe up to the early 16th century - except where other weapons are explicitly included in a nation's brief. This means that  fantasy weapons like [https://en.wikipedia.org/wiki/Bat%27leth bat'leths], [https://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleWeapon double-bladed swords], or over-sized weapons such as those common in anime, cannot be used at Empire. You can always [mailto:matt@profounddecisions.co.uk email us] to check if a weapon is acceptable for your nation at Empire if you are concerned.
+
+Empire is a magical setting, so subtle elements like glowing runes on weapons are fine, but a weapon that would need magic simply to function at all is not. Flaming swords or weapons made of ice, glass or similar materials are incredibly rare in Empire, if they exist at all. You can't have such a weapon unless your character has gained it in play, in which case it will have a ribbon on it to indicate its magical nature and its history. High fantasy creations are fine as ritual props for magicians but not as weapons used by warriors on the battlefield.
+
+Most live roleplaying games adopt costume and imagery from real-world sources, but we want to avoid using items that are culturally sacred in real life because it is more difficult to ignore their real world significance. Religious items such as a [https://en.wikipedia.org/wiki/Crucifix crucifix], a [https://en.wikipedia.org/wiki/Mj%C3%B6lnir Mjölnir pendant], or a statue of a religious figure like [https://en.wikipedia.org/wiki/Gautama_Buddha Buddha] or [https://en.wikipedia.org/wiki/Ganesha Ganesha] must not be used as props at Empire. Obviously it is fine to have one on your person if you are an adherent of that religion, but the real thing must not be used as a prop in the game. This prohibition also applies to specific items that are sacrosanct or have significant cultural importance like a [https://en.wikipedia.org/wiki/War_bonnet First Nation war bonnet]. 
+
+Because parts of Empire are inspired by real world costume and cultures, there are many elements of the setting that are derived from things in the real world that have cultural importance or value. We want to be honest about these inspirations, but wherever possible we want to use that inspiration to create something specific to Empire. For example, if you want to use [https://en.wikipedia.org/wiki/Prayer_beads prayer beads] as a prop then it is best to create your own unique arrangement that builds on the seven virtues of [[the Way]] so that it is distinct from an actual [https://en.wikipedia.org/wiki/Japamala Japamala] or a [https://en.wikipedia.org/wiki/Rosary Rosary] or similar.
+
+Any symbolism or kit that represents real-world racism or prejudice must not be brought to events. This means anything with a [https://en.wikipedia.org/wiki/Swastika Swastika] or derivative symbols on it must not be brought to events. Although the [https://en.wikipedia.org/wiki/Valknut Valknut] is a legitimate symbol used by non-racist pagans, it is also abused by racists, so items with this symbol on them must not be used as props at events. Any costume, kit or make-up that is associated with a racist caricature, such as [https://en.wikipedia.org/wiki/Blackface blackface], must not be worn at events.
+
+If you aren't sure if an item you're thinking of adding to your costume is covered by these rules then you are welcome to [mailto:plot@profounddecisions.co.uk email us at plot@profounddecisions.co.uk] to check. If you have a concern that another participant's costume is not suitable then you should [[Reporting a conduct problem|report it to Profound Decisions]]. We will judge if our guidelines have been contravened and what action is required.
+
+
+## In-Character Tents
+* Tent surfaces made from nylon, polyester or similarly reflective material are ''inappropriate'' in the in-character area
+* This includes all party tents and modern-looking dome tents
+* Some tents made from hybrid materials like Oxford Canvas or polyhemp are usable provided they are thick enough and do not have a reflective finish
+* Guidance for bell tent hire can be found [[Bell tent hire guidance|here]]
+* In game, all tents in the IC area are considered to be non-flammable, and cannot be set ablaze through IC action.
+
+
+Our events feature separate in-character and out-of-character camping areas. A tent intended for use on the in-character field must look appropriate for the setting. Modern-looking nylon dome tents, party tents, and tents that are obviously synthetic, such as those made from any material that is sufficiently plastic that it becomes glossy and reflective, cannot be used in the in-character area.
+
+The ideal tent is made of canvas but some fabrics that are part plastic or impregnated with plastic, can be used provided that the material is thick enough and not reflective. The crucial test is that the material must look passably in-character and not have a modern or reflective appearance. The thinner plain-coloured tents such as [https://www.boutiquecamping.com/tents-c1/classic-bell-tent-oxford-p1534 the 100gsm bell tent from Oxford Boutique] look too much like modern nylon tents to be used in the in-character area at events whereas the multi-coloured ones look sufficiently like canvas that they can be used (and are great in nations like the Brass Coast or Dawn). If in any doubt at all, then please [mailto:clare@profounddecisions.co.uk email us] for advice.
+
+Many modern canvas tents have nylon guy ropes - these are acceptable at the event. Blue nylon guy ropes are ''less appropriate'' than other guys; if you are looking to improve that part of your kit then we recommend making your own guys from polyhemp.
+
+Nobody attending Empire should feel they have to have an in-character tent to play the game; the field is filled with scores of tents as well as the sets and structures that Profound Decisions build. A period tent is expensive and difficult to store and transport and we recommend that new players focus on improving their kit in preference to getting a suitable in-character tent if resources are limited. Many Empire players only bring a modern tent which is fine to use in the out-of-character field where immersion is not a concern.
+
+Large canvas tents, like garage tents, should be storm lashed wherever possible. The wind can pick up very quickly onsite and storm lashing helps prevent a problem occurring.
+
+Tents in the IC area are considered to be non-flammable. They cannot be set ablaze through IC action.
+
+## Inclusion
+Creating an [[The_game#Immersive_and_Aspirational|immersive environment]] helps to improve Empire for everyone, but personal accessibility and safety are more important and are prioritised accordingly. Most players instinctively understand this and will happily gloss over these elements in play, but we want to be explicit that the following practices are all fine.
+
+### Accessibility Aids
+* Accessibility is more important than immersion
+Accessibility aids are always appropriate for use at Empire. Many of our players need to use glasses, hearing aids, walking sticks, and wheelchairs made of modern materials in modern designs. They never need to be concealed or disguised in any way. While some players choose to costume their accessibility aids to make them more in-character, no one should feel any pressure to do the same. Practicality, safety, and comfort are more important when dealing with anything needed for accessibility.
+
+### Childcare Equipment
+* Practicality and safety are more important than immersion
+Childcare items are always appropriate to use at Empire. Parents with babies and toddlers often use modern baby slings, breast pumps, puddle suits, and baby changing mats. These never need to be concealed or disguised in any way. While some players choose to cover or decorate these items to make them more in-character, no one should feel any pressure to do the same.
+
+A young child will want to play with toys. The perfect toys are ones that are passable in the setting, such as wooden farm animals but anything that isn't battery operated or obviously brightly coloured plastic is fine. Our guidelines for young players at the event can be found in the section on [[children]].
+
+### Footwear
+* Comfort and safety are more important than immersion
+The site we use for Empire is uneven and often cold, wet, and muddy. There are natural trip hazards in the battle areas and pegs and guy ropes in the main field. The priority for any footwear that you use in-character is to provide good ankle support and keep your feet dry. Dark-coloured boots are always acceptable for use at Empire, but it's fine to use similar coloured wellies when the weather makes them necessary. Modern footwear is generally [[#Less Approprtiate Costume|less appropriate]], but as long as it meets our [[#Minimum Standards|minimum standards]] then it is still acceptable.
+
+Good in-character footwear can be a fantastic addition that makes a good costume look great. But in-character footwear is expensive to buy or make and we advise new players that paying money for in-character footwear is rarely the best way to spend a limited budget. One alternative to buying footwear is to use some appropriate-looking  [https://en.wikipedia.org/wiki/Gaiters gaiters]. These can be used to hide some of the modern details of boots or shoes without costing too much or compromising on safety for your feet and ankles.
+
+## Continuous Improvement
+*Players commit to get the best kit they can given their skills and resources
+*Participants commit to continual improvement of their kit between events
+
+Every individual has different amounts of time, experience and resources available to them. Some players have enough disposable income to buy the costume they want to wear, some have the skills and experience to make their own, while others have been live roleplaying long enough to own many excellent pieces of kit already. Many of us are not that fortunate, our budget and skills are limited, and we may not have exactly the right costume for the game. 
+
+The best way to build a game that looks amazing but is welcoming to all is to focus on improvement over time. No costume is perfect - every costume from the simplest home-made tunic to the most expensive tailored outfit can be improved. You can add accessories to improve the overall look or replace parts of the kit with better items. Our kit includes everything we have with us in the in-character area - every element matters so the more we can eliminate even the smallest out-of-character items from our costume and our camps then the more immersive the field becomes.
+
+By committing to continually re-examining your kit between events then you can ensure that the kit you start with improves over time. Just as with creating your kit in the first place, the time and money you can spare to improve your kit has to be your own choice, not something that anyone else can dictate.
+
+## Criticism
+* Participants should not criticise other player's costume
+As part of our [[conduct|code of conduct]], we require all Empire participants to refrain from criticising other player's costume. We encourage everyone to get the best costume they can, and always assume they are doing their best. It is fine to praise costume you like, and it is fine to respond with constructive suggestions when requested, but we don't allow people to criticise other player's costume based on their own opinions and preferences. Criticism from strangers - in person or even worse on-line - is not acceptable. A good rule of thumb is that if you haven't got anything positive to say, don't say anything at all.
+
+If another player appears unaware of a part of the wiki which is relevant to their costume or characterisation, then it is fine to politely link the appropriate section you believe is relevant if no-one else has already done so. If you believe that someone's costume is ''[[#Inappropriate_Costume|inappropriate]]'' then you should inform a [[referee]] if you are at an event, or contact [mailto:matt@profounddecisions.co.uk Profound Decisions]. We will judge if our guidelines have been contravened and what action is required.
+
+This rule is important because many of us are deeply self-conscious about our appearance. Costume is part of our appearance and criticism of the way people are dressed is hurtful and unproductive. The assumption that other people will judge your appearance can be hugely off-putting, especially for new players who have no experience to judge what is or is not an acceptable standard. One of the hardest challenges in live roleplaying is communicating the idea that costume is important and [[#Aspirational Game|aspirational]], without making people more worried about how well they do or how good they look. Everyone who meets our [[#Minimum Standards|minimum standards]] is welcome to roleplay at Empire without fear of being judged by other participants.
+
+## Further Reading
+* [[The Brass Coast look and feel]]
+* [[Dawn look and feel]]
+* [[Highguard look and feel]]
+* [[Imperial Orcs look and feel]]
+* [[The League look and feel]]
+* [[The Marches look and feel]]
+* [[Navarr look and feel]]
+* [[Urizen look and feel]]
+* [[Varushka look and feel]]
+* [[Wintermark look and feel]]

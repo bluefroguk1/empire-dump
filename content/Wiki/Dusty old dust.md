@@ -1,0 +1,129 @@
+---
+revision_id: 86044
+revision_date: 2022-01-28T12:54:41Z
+categories:
+- Winds of Fortune
+- 381YE Winter
+- Recent History
+- Trade Winds
+aliases:
+- Dusty_old_dust
+---
+
+
+Kebai pushed the door of the little tavern open, stamping the dust off his boots. Jubal and Farisa followed him into the gloom. For all that it was only late afternoon outside, the Marcher pub was surprisingly muggy and gloomy.
+
+As his two companions found a table, Kebai approached the barman with a broad smile.
+
+"Three pints of beer, please." . 
+
+The barman grunted, 
+
+"You're not from around here, are you boy?" he said in a gruff drawl, eying Kebai's brightly coloured coat.
+
+"No indeed I am not! Well spotted! I am from a very long way away and my companions and I are hoping to give you money in return for hospitality, rooms, baths, and food. Will that be acceptable?" Kebai placed four small round coins on the greasy bartop.
+
+The barman grunted again, scooping up the coins, and filling three mugs with foaming nut-brown beer. Kebai leaned easily against the bar, smiling around the room. The appearance of the three Faraden had attracted some attention, but not much. People had returned to their food, their drinks, and their conversations. A slightly rowdy group of men were playing a dart-throwing game, but everyone else seemed too tired after a long day to worry about a trio of Faraden traders.
+
+When the beers arrived, Kebai negotiated quickly for further hospitality, barely bothering to barter - the prices were quite acceptable for all that the barman was unfriendly. The Faraden had the strong impression that there was no malice - the Marcher simply enjoyed being surly. It seemed to be a common enough affliction here abouts.
+
+As he hefted the tray and turned to walk across the tavern to where Jubal and Farisa were sitting, one of the men playing darts staggered backwards into his path. Foaming beer went everywhere - most of it down Kebai's front. The sound of the tray hitting the ground brought all conversation in the pub to an immediate halt.
+
+"You spilled my drinks," said Kebai carefully, wiping the foam out of his beard. He was acutely aware that he was the centre of attention in the suddenly quiet tavern.
+
+"Oh mate," said the dunk apologetically. "I am so sorry, Rab was playing silly beggars and... here let me get them in. Beer, right?"
+
+The other dart players laughed, calling out rude names to their clumsy friend. The hubub of conversation rose again as everyone was very pointedly ''not'' looking at the damp Faraden.
+
+Patting the dart thrower on the back and reassuring him there were no hard feelings, Kebai carried a new tray of beer over to where Jubal and Farisa were sitting. As he lay the tray down, he shook his head. His companions were trying to hide their smirks.
+
+"Honestly," said Farisa in an undertone taking a sip of beer. "I think they were expecting you to stab that poor oaf through the heart! What are these people like?"
+
+Kebai was nonplussed. "Over an accident, and little harm quickly resolved?" he said ruefully. "I tell you, Farisa, these people are ''strange''."
+
+The three Faraden clinked their mugs together, laughing quietly. 
+
+## Overview
+As always with the trade winds, and with foreign diplomacy in general, the situation remains volatile. What is true at the start of the Winter Solstice may already be changing by sunset on the first night. This is the situation between the Empire and the other players on the world stage - both the powerful foreign nations that lie many weeks away by ship, and the Empire's independent neighbours.
+
+This wind of fortune focuses on the human nations. Trade and diplomatic information about the Empire's orc neighbours is [[Froggy went a'courting|here]].
+
+## The Variable Price of Liao
+* Demand for liao has increased, raising the price once again to 18 rings a dose
+After an initial spike, the demand for liao in Axos had declined somewhat. The establishment of the [[Quaymaster_of_the_Black_Sails#Black_Sails_Quay|Black Sails Quay]] gives plenty of opportunity for Axou merchants to secure the valuable substance from the Empire. Recently, however, the establishment of the [[Construct_Temple_of_the_Way_in_Nemoria|temple of the Seven Virtues]] in [[Asavean_Archipelago_ports#Nemoria|Nemoria]] has pushed the demand back up again. The immediate effect is that after the Winter Solstice, Imperial citizens who lead [[congregation|congregations]] will again be able to sell their liao for 18 rings each dose instead of the current rate of 12 rings per dose.
+
+## Sumaah Republic
+* Sumaah remains at war with the Empire; a ceasefire is in place until the end of the Winter Solstice.
+* The port of Zemeh remains closed.
+Following the decision of the Imperial Senate to accept a proposed ceasefire, the [[Sumaah Republic]] is sending a small team of negotiators to Anvil to discuss a permanent cessation of hostilities. The negotiators are expected to arrive on Saturday evening, and will of course be expecting to meet with the [[Ambassador_to_the_Sumaah_Republic|Ambassador]] - currently Vera Runova Helgrod of [[Varushka]]. The civil service, of course, will be preparing a briefing in advance - it is very likely the Sumaah delegates will expect a [[Ambassador#Delegation|formal reception]] before they begin negotiations.
+
+For the moment the port of Zemeh remains closed. The Sumaah still possesses the Imperial Crown, and until very recently have been actively opposing Imperial efforts to spread the Way to foreign nations. The recent [[The_art_of_restraining_power#A_Crack_in_the_Ice|thaw]] in relations with the Sumaah is a positive step towards the permanent cessation of hostilities, but it is unlikely that negotiations with such a [[Pride|Proud]] nation are going to be straightforward.
+
+## Asavean Archipelago
+* Every Imperial Fleet trading with Nemoria receives an additional measure of [[Materials#Iridescent Gloaming|iridescent gloaming]] and an additional ingot of [[Materials#Orichalcum|orichalcum]]
+Relations with [[Asavean Archipelago|Asavea]] remain stable and broadly positive. Imperial fleet captains are eagerly received, and the friendship between the two nations is expected to go from strength to strength. The [[Construct_Temple_of_the_Way_in_Nemoria|Temple of the Way in Nemoria]] is complete - and during the Winter Solstice the [[the Brass Coast|Freeborn]] [[Assembly#The_National_Assemblies|national assembly]] will be able to appoint the [[Liason]] who will be responsible for supporting the priests and pilgrims in Asavea.
+The plan is still the same; trying to convert the heathens to the Way through the honesty and directness of the Brass Coast. Plus, if we have to put up with a heretical Temple in our back garden then we want the same advantage in Asavea.
+All is not well, however. Captains visiting Nemoria report that there seems to be growing unrest among some of the satrapies - the subject nations ruled by the Plenum. There is talk of rebellion in some of the provinces, and the Asavean legions being sent to root out sedition and suppress discord. Some of the more pessimistic suggest that a few provinces may be on the verge of open rebellion - something the Plenum will not stand for. A number of provincial governments have been recalled to the capital, and the general consensus is that the root of the problem is missionaries from the Sumaah Republic promoting insurgency and insurrection. At the moment this has not caused any problems for Imperial captains - for all its age the Asavean navy is quite capable of protecting its coast- but there have been a few scattered reports of merchant ships heading to and from Asavean waters being targeted by pirates, and privateering vessels sponsored by the Sumaah.
+
+There is also, apparently, a growing demand in Asavea for healing herbs - especially [[True Vervain]] and [[Marrowort]]. Both herbs grow well in the Empire, and some captains are watching the markets with an interested eye. The Asavean Master of Military Procurement - also coincidentally the high priest of their pagan god of war - is a powerful individual. Even Madriannia of the Blue Stones (who advises the Plenum on international trade matters) is said to tread carefully around him.
+
+## Principalities of Jarm
+* The southern port of Vezak will supply an additional crystal mana to each visiting ship.
+* The northern port of Kavor, and the eastern port of Rigia, provide no additional materials.
+There have been some [[Better_world|interesting reports]] coming out of [[Principalities of Jarm|Jarm]] over the last season, especially in [[Better_world#Radical_Reforms|the east]] and [[Better_world#Beloye_Zerno|the north]]. Amid all the excitement about radical reforms and ''beloye zerno'', the southern princes have been comparatively quiet - but continue to offer a warm welcome to any Imperial captain who visits, as well as access to fine quality crystal mana. Merchants regularly joke that the Imperial thirst for mana appears unquenchable - are they snorting the stuff? The Fellowship of the Purple Sails, the loose association of fleet captains with a vested interest in foreign trade, sing the praises of the Imperial [[Ambassador to Jarm]] Oswi Twice-Burned for maintaining excellent relations with the eastern nation.
+
+## Faraden
+* The completion of a trading enclave in Upwold brings prosperity to the Marcher territory.
+* The number of Faraden merchants visiting the Empire is on the rise thanks in part to the enclave, and in part to the Blood Red Roads.
+With the first official [[Faraden]] [[Upwold#Moonwater_Hall|trading enclave]] completed in [[Upwold]], the [[Lorenzo's_Legacy#Blood_Red_Roads|Blood Red Roads]] complete, and a [[Imperial Senate|Senate]] [[commission]] underway to [[Construct_south_west_road_network|extend the roads]] to [[Segura#Anduz|Anduz]] in [[Segura]], Faraden merchants are becoming a regular sight across the western Empire. While work has not yet begun on the road link between Anduz and [[Tassato]], once it is complete it is sure to bring significant prosperity to the Freeborn merchants of Segura and [[Madruga]].
+
+The merchant-families of Faraden are keen to purchase fine quality Marcher food and drink, offering excellent stone and metal work, and shiny Imperial crowns in return. Their ox-drawn carts, vibrantly painted and bedecked with streamers and tiny windmills, are visiting Kalpaheim, Temeschwar, and Delev in the north, and a few adventurous traders even make it as far as Holberg.
+
+These traders are generally open and friendly, making no secret of the fact that they are hoping to see similar Faraden enclaves in Karov and Astolat in the coming months, giving them access to Varushkan wood and Dawnish luxuries. There is one slight fly in the ointment - one that is only partially the Empire's fault. They are finding it a little difficult to hire mercenary guards to protect their caravans from bandits. Not, they quickly reassure their Imperial guests, that the Empire has all ''that'' many bandits... but it has enough and they are beginning to see the Faraden merchant caravans as easy pickings. Apparently there is some long-term scheme to build a mercenary hall in Tassato or Anduz, somewhere that Imperial warriors looking to secure lucrative deals to protect Faraden caravans can congregate - but such a plan depends on proof that the markets of the Empire are truly welcoming to the Faraden. Perhaps if and when Varushkan green iron and Dawnish wine join Marcher beer, apples, and grain as prestigious trade goods for the Faraden?
+
+The generally amiable Faraden become much more guarded, however, when the question of religion is brought up. They do not wish to talk about it, thank you very much. They are aware that the priests of their nation and the priests of the Empire have had their differences - and that they are still far from friendly. For the most part however, the merchants are adamant that Imperial and Faraden alike appreciate the value of just rewards for hard work, and that is more than enough common ground for traders, farmers, and artisans. As long as everyone avoids mention of the [[Malign_spiritual_presences|malign spiritual force]] of [[Malign_spiritual_presences#Vengeance|so-called justice]], and nobody tries to push the virtues the Faraden dismiss as [[ambition|selfish arrogance]], [[wisdom|pointless argument]], or [[vigilance|fear]], everyone is getting along swimmingly.
+
+Although there ''is'' a five-sided shrine in Moonwater Hall, and some of the guards that accompany the merchants ''do'' have a habit of getting into fist-fights over minor slights but ... for now everything is going smoothly.
+### Faraden religion
+One side-effect of the increased presence of the Faraden has been an increased interest in the Faraden religion. While the merchants themselves are significantly more interested in secular pursuit of wealth, a dubious pamphlet has surfaced in Tassato and quickly spread wherever the Blood Red Roads reach. Written in 379YE by Romero di Sarvos, a League convert to the western faith, it claims to explain the differences between the Faraden religion and the Way. Romero himself was executed for [[Religious_crime#Heresy|heresy]] and [[Religious_crime#Blasphemy|blasphemy]].
+
+Copies are being printed (badly) on poor-quality paper, but are fueling interest in the faith of the five winds. Anyone who wishes can download and print out a copy of this pamphlet ([[File:The_True_Way.pdf]]) - it has been recopied and reprinted numerous times so there is no standard appearance.
+
+### Public Auction
+One consequence of the increase in Faraden merchants is that there is more [[Materials#Orichalcum|orichalcum]] and [[Materials#Weltslver|weltsilver]] available from the public auction. Furthermore there are several rumours that a number of Faraden merchants have asked the civil service to handle the auction of mithril, transported through Jotun lands at some expense, meaning there may be additional wains at the Winter Solstice and perhaps on an ongoing basis if trade with Faraden remains strong.
+
+If twenty fleets trade with Axou every season for four seasons it is likely that Axos will recognise the Prosperity of the Empire and move to cease the use of slaves. The Assembly of Prosperity therefore recognises the Prosperity of fleet trading with the Axou and encourage citizens to do so where they are able. 
+
+## Citadels of Axos
+* Axos remains friendly to the Empire.
+While [[Axos|Axou]] culture is far from egalitarian, and while slavery is not illegal, they tend not to keep slaves. They are not above selling captured orcs into slavery in Jarm or [[Asavean Archipelago|Asavea]], but there are few actual slaves in the nation itself. Rather, the Axou rely on an ambitious underclass eager to work for any wage or the possibility of patronage from one of the great clans or houses. 
+
+With no land route between the Empire and their eastern neighbours, all significant trade takes place via ship. During the Autumn Equinox 381YE, the Assembly of Prosperity, made several [[statement of principle|statements of principle]] encouraging Imperial [[fleet]] captains to trade with [[Axos]] to demonstrate the benefits that come from abolishing slavery. It appears that the statements may have had some impact - certainly a very large number of Imperial captains chose the [[Axos_ports#Towers_of_Kantor|Towers of Kantor]] as the destination for their trading endeavour.
+
+Gossip from captains visiting the Empire suggests an increased interest in abolitionism, but a real concern that while the Empire might commit to overwhelming the docks at Kantor until they get what they want, one cannot build a healthy economy or a personal fortune while relying entirely on the largesse of another nation.
+We the assembly recognise Tarquinius, ambassador to the Axou, for his work in revealing to the Axou that Prosperity may be obtained without slavery. This has opened a way to induce the Axou to denounce slavery.
+There's no doubt the Grand Ilarchs are paying attention to this demonstration of economic power - but it is also likely that the [[Grendel]] have likewise noted the number of merchant vessels heading east from the Bay of Catazar to visit Axos.
+
+Another snippet of interesting information concerns the arrival at Kantor shortly after the Autumn Equinox of a small expedition from the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]]. Lead by Eilian Sweetwater, and apparently operating with the support of both the [[Advisor on the Vallorn]] and the [[Ambassador to Axos]], they are last seen hiring a number of porters and leaving the citadel through the eastern gate with a large amount of archaeological equipment. Speculation is rife!
+
+## Sarcophan Delves
+* Situation continues normal
+Relations with the [[Sarcophan Delves]] remain neutral, but politely friendly. Their ships are regular visitors to the ports along the Bay of Catazar and their traders cheerfully travel far inland to secure the best deals - even as far north as [[Volodmartz]], [[Hahnmark]], and [[Skarsind]]. Indeed, some particularly ambitious representatives of the one of the prominent ''bedelaar huisbaas'' have become regular visitors to [[Bonesetter_of_Torfast_Trading_Post|Torfast Trading Post]] where they have been quite eager to meet with merchants travelling the new roads south from [[Otkodov]].
+
+Their open agreement with the [[Grendel]] to ensure their ships remain unmolested in the Bay of Catazar increasingly causes friction in the waterside taverns and brothels. Likewise, the open secret that the people of the Delves maintain an embassy and trade envoy in [[Ports_of_the_Broken_Shore#Dubhtraig_.28Northern_Broken_Shore.29|Dubhtraig]] and regularly welcome Broken Shore captains to [[Sarcophan_Delves_ports|Sarcophan]]. 
+
+The Sarcophan gently remind critics that they have rescued more than one crew of mariners forced to abandon their ships by the Grendel and delivered them safely back to Imperial ports like some kind of friendly sea mammals. Still, accusations that some Grendel pirates are openly selling goods taken from Imperial ships to merchants from the Delves are guaranteed to boil the blood of [[the Brass Coast|Freeborn]] and [[Sarvos|Sarvosan]] mariners.
+
+For the most part - and leaving aside a few nasty tavern brawls and a small fire at a brothel in [[Caricomare]] - the Sarcophan are sanguine about matters. They are pragmatic merchants and traders; they largely do not care where their goods come from, and they are happy to buy from and sell to anyone who treats fairly with them. The Empire's problems with their neighbours are their own affair.
+
+## Iron Confederacy
+* The port of Robec is now open to the Empire
+[[Iron Confederacy|Suranni]] merchants continue to trade intermittently with the Empire. Coming north through Feroz and occasionally Segura, they keep to themselves and barely bother to conceal their disapproval of the Empire's dissolute, anarchic, magic-loving, drug-worshipping ways. Recent [[Hard_times|developments in southern Feroz]] have led to a significant drop-off in trade between the Empire and the Iron Confederacy - the revolutionaries targeting Suranni merchants are bad for business to put it mildly.
+
+After several seasons of wrangling, the Senate finally [[Disburse_funds_to_assist_Iron_Confederacy_port|passed a motion]] during the Winter Solstice to disburse 50 Thrones to the Senator for Feroz as part of an agreement to make the Iron Confederacy port of Robed available to Imperial ship captains. Depending on who one asks, it was either to help expand the docks at Robec, or to build a grand temple dedicated to the [[Suranni_pantheon|false Suranni god-spirit]] known as the [[Suranni_pantheon#Evra_the_Smith.2C_Maiden_of_the_Forge|maiden of the forge]]. It is anticipated that the port will be available to Imperial citizens soon - Zadkiel de Coeurdefer the [[Ambassador to the Iron Confederacy]] will know more.
+
+In addition - a band of Iron Confederacy soldiers belonging to the Duke Guiscard - the new ruler of the territory of Kalino that lies south of Feroz and Segura - fought alongside the knights and war-witches of Dawn during their [[381YE_Winter_Solstice_winds_of_war#Where_All_Roads_Meet|triumphant campaign]] in [[Semmerholm]]. As with the merchants, however, the Suranni warriors did little to hide their disdain for the wide-spread use of magic and the influence of liao-using priests.
+
+## Commonwealth
+* Trade with [[Commonwealth_ports#Leerdam_.28Eastern_Commonwealth.29|Leerdam]] and [[Commonwealth_ports#Volkavaar_.28Western_Commonwealth.29|Volkavaar]] remains stable.
+Relations with the [[Commonwealth]] have not worsened. They continue to be distant yet polite. While the Empire continues to [[Statement_of_Intent_regarding_trade_with_the_Principalities_of_Jarm|extend favoured-trader status]] to the Principalities of Jarm, it is unlikely to be easy to improve this state of affairs. Imperial captains are still welcome at Leerdam and  Volkavaar, at least for the time being.

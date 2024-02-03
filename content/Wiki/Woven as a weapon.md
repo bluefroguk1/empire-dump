@@ -1,0 +1,106 @@
+---
+revision_id: 89517
+revision_date: 2022-05-07T13:38:27Z
+categories:
+- Winds of Fortune
+- 383YE Autumn
+- Recent History
+- Appraisal
+aliases:
+- Woven_as_a_weapon
+---
+
+
+Felipa laughed as she ran, chasing after her brother, as the pair of them raced across the grassy plain. They had never been more than a few miles outside of Rojota before, and they were glorying in the feeling of freedom.
+
+Idoya shouted after them, warning her children not to go out of sight, but she smiled as she said it. The trod was safe again now - the Jotun had been sent packing - and there were regular patrols to prevent bandits from preying on travellers. Even so she nodded to her husbands and they picked up the pace.
+
+It was not easy to see where the trod ran, the ground barely worn down despite the footsteps of countless travellers. Sometimes people would put up the odd marker to show the way, but they never lasted long before the magic took them. In some places the Navarr would mark the path by cutting the vegetation back a wagon's width to either side, but that didn't work on the pampas. Here you needed to keep your eyes open and look for the signs of those who had passed before you. Not that there were many - it didn't matter how much traffic a trod carried. Even in the wettest weather the mud was gone by the morning. Only by staying alert for the smallest traces of passage could you keep on the road for sure.
+
+Her father had taught her the best way to keep the path of course. Set a hard pace, a long loping stride, not quite a sprint but enough to wear you out within a few minutes. On the trod you could keep that pace up all day, but you'd feel your breath shortening almost immediately if you missed the path. Her father had showed her how to retrace your steps, back to the point where any trace of them disappeared. That was where you would find it again.
+
+She'd travelled this way many times, since she'd raised the money to buy the business from him. It was the first time she'd felt confident enough to bring the children though, the first time they'd been old enough to take the long trek to Damata. The first time they'd really experienced the magic of the trods.
+
+Gil was running back towards her now, Felipa stretching to catch him. They were racing as fast as they could, legs and arms pumping furiously, as they tore towards her. They were easily half a mile away, but they covered the ground in a minute, delighting in their ability to simply run and run.
+
+They would pay for that tomorrow of course. True you never ran short of breath, never felt tired. But you still had to sleep and if you tried to run all day then you'd pay for it in the morning. She remembered the first time she'd thought that the magic of the trod would let her race all the way to Anvil. She'd woken the next day with a pain in her claves and her thighs that felt like her bones were burning. Every step was excruciating. She'd learned to be more circumspect after that.
+
+She swept her arms wide to gather Gil and Felipa to her breast. Best they stop here for a meal. That was the other thing about the trods, if you weren't used to the magic you forgot how hungry it made you...
+
+An Appraisal, to commission Graciana i Lopez i Guerra to research options to permanently or temporarily improve the effectiveness of the Trod network at depleting the vallorn.''Proposed by Therunin, seconded by Hercynia''
+## Overview
+* The [[Imperial Senate]] has commissioned an [[appraisal]] into ways to make the [[trods|trod]] network more effective
+The [[trods|trod]] network was created by the distant ancestors of the [[Navarr]] after the fall of the Terunael Empire to combat the [[vallorn]]. The [[Spring magic|magic]] employed is elegant and subtle - Navarr magicians use [[The Dance of Navarr and Thorn]] ritual to create trods, a web of pathways crisscrossing a [[territory]]. The magic allows people walking the trods to draw on the magical strength of the vallorn they are connected to, weakening the corrupt Spring infestation in the process.
+
+This approach has endured for centuries, allowing the Navarr to steadily weaken the vallorn. In the years before the Empire was formed, progress was slow, hampered by the many threats faced by the unwary traveller from barbarian [[orc|orcs]] and fellow humans alike. The formation and steady growth of the Empire made travel much safer and the increased numbers eventually allowed the Navarr to defeat the vallorn heart in [[Miaren]] and reclaim the territory. Since then they have continued to prosecute the long war against the vallorn, slowly conquering more [[territory#Regions|regions]] over time.
+__TOC__
+In recent times, the trods have become uncommonly busy, with the [[Grey Pilgrim|Grey Pilgrims]] joining the Navarr [[striding|stridings]] as they walk. The discovery that souls that die within the corrupting influence of the [[Vallorn#Vallorn_Miasma|vallorn miasma]] remain trapped has spurred everyone to action. Now the [[Imperial Senate]] has [[Appraise_trods|passed a motion]] to commission [[Appraisal#Graciana_i_L.C3.B2pez_i_Guerra|Graciana i Lopez i Guerra]] to [[appraisal|appraise]] the trods to research options to permanently or temporarily improve the effectiveness of the trod network at depleting the vallorn.
+
+## A Word of Caution
+* Extending the trod network is the most effective way to increase its effectiveness.
+The most obvious way to make the trods more effective is to extend the network. When the Empire extends the trod network to new territories, that extends the reach of the network which improves the potency of all the trods. This effect is well known to the Navarr - indeed it is one of the major reasons they were so keen to support the creation of the Empire in the first place. However the prognosticators office assumes that the Senate wishes them to find some new way to improve the efficiency of the network, not to simply summarize the existing options.
+
+As Gerard La Salle, the Auditor of the Imperial Treasury, made clear on the day, this appraisal is particularly challenging. The vallorn is not some new problem about which relatively little is known. The challenge is centuries old and the solutions the Navarr now employ have been refined and honed over the centuries since their cities first fell. The Empire has been working to drive the vallorn from the world for the best part of four centuries - there are no low-hanging fruit yet to be gathered in the war against the vallorn.
+
+For this reason it is very difficult to use an appraisal to find new ways to make current methods more efficient. The techniques the Empire use for [[commission|construction]], raising and training [[Imperial army|armies]], and so forth, represent a high point of civilisation developed and polished and continuously improved. If there was some ready way to build every [[fortification]] more cheaply, to recover the materials from any existing commission, or to produce more income for the [[Imperial treasury]] - it would have already been discovered and implemented long ago.
+
+Appraisal is most effective when used to look at a specific case with a wide remit for potential solutions. For example, an appraisal to see how the Empire might profitably dispose of [[Tassato#La_Redotta_Rezia|La Redotta Rezia]] in Tassato would allow the prognosticators to look at a wide range of possible options as well as taking into account all the local conditions that are unique to that fortification.
+
+Graciana also notes that it is dangerous to ask for efficiency gains in areas where the Empire's best divinations have not been able to provide quantifiable data can be difficult. It is outside the scope of [[Day magic]] to quantify the impact of the trods on the strength of the vallorn. It is proven to have an effect, but nobody is sure how much and that makes quantifying any improvements nearly impossible. Graciana has produced some ideas that would make the trods more effective - but it is impossible to say by how ''much''.
+
+Despite her warnings, however, Graciana tackles the subject of improving the trods with gusto, aware that any benefits she can identify could be of immense benefit in the war against the vallorn.
+
+## Roads
+* The [[Grey Pilgrim|Grey Pilgrimage]] has already increased the effectiveness of the trods, more folk walking them would improve them further.
+* This could be achieved with a series of large wayhouses built along the trods.
+* This would required 300 wains of white granite, 100 wains of weirwood, and 100 Thrones.
+* It would take 18 months to complete and reduce the number of [[commission|commissions]] available to the Senate by two until it was completed.
+It is clear that the simplest way to improve the effectiveness of the trods would be to get more people to walk them - the more people who walk the trods, the more life is drained from the vallorn. The single most dramatic impact on the number of people walking the trods was the establishment of the Grey Pilgrims. Although there are significantly fewer [[Highguard|Highborn]] walking the trods than Navarr, the Grey Pilgrimage still represents a huge increase in people moving along them. Graciana expects that that will have a dramatic effect on the vallorn over the next decade, creating many more [[opportunity|opportunities]] for the Empire to attack the vallorn than would have otherwise existed. The question is how to increase the number of wayfarers on the trods yet further? 
+
+The brute force option would be to rip up every single one of the Empire's paved roads - including the recently created [[Lorenzo%27s_Legacy#Blood_Red_Roads|Blood Red Roads]]. It is not that roads damage the trods - that was investigated meticulously when the Blood Red Roads were created - and there is no doubt that the two can exist side-by-side without undue harm. However, there are always occasions when travel by road is quicker or more convenient than taking the trod. If all the roads were torn up and destroyed then people would be forced to use the trods when they travelled regardless of how inconvenient that was.
+
+It is clear that this approach would force people moving around the Empire to take the trods, but the long term impacts on the Empire's economy are acute. The removal of the long established roads would mean people simply took fewer journeys. This would impact economic activity reducing income from taxation in every territory. It might arguably even be unconstitutional - an act of deliberate self-harm that robbed Imperial citizens of their prosperity. The idea is quickly discarded and the team instead focus on what could be done to entice more folk to take the trods.
+
+The Navarr already know the best way to do this of course - by creating [[wayhouse|wayhouses]] along the length of the trods. These buildings are designed to support the stridings, to give them a place to rest and resupply, but they are always a welcome sight to anyone walking the trods as night falls. The Navarr are masters at survival in the wilds, but that only makes the relative comfort of a night in a wayhouse more appealing when they are available. Hot food and a hot bath, a comfortable bed and protection from the elements. People plan their journeys around a stops at a wayhouse where they can.
+
+But the existing network of wayhouses is patchy and incomplete. There has never been any attempt by the Empire to carry out a major program of construction to expand the existing wayhouses or fill in the gaps. Such a plan would take an enormous investment - Graciana's team calculate that an effective plan to expand the benefits of the existing wayhouses would require 300 wains of white granite, 100 wains of weirwood, and 100 thrones. It would need a successful Senate motion and reduce the Empire's available commissions by two for the eighteen months it took to complete.
+
+Clearly this involves much more upfront expense than simply removing all the roads but once complete, the trods would see the same ten percent increase in the number of travellers using them. The wayhouses would provide other benefits as well, creating [[great work|significant prosperity]] for every Navarr [[business]] in [[Liathaven]], [[Brocéliande]], [[Therunin]], [[Hercynia]] and [[Miaren]]. In a territory like Hercynia, this benefit would take the form of an additional income of 1300 rings each season would be spread between businesses in the territory. The benefits would be similar in the other territories except Miaren where the impact would be reduced because some of these benefits are already provided by the Blood Red Roads.
+
+In addition, the plan incorporates the creation of five substantial wayhouses, to support those people travelling to and from Liathaven. One would be adjacent to Brocéliande in [[Semmerholm#Rucastle|Rucastle]], [[Semmerholm]]; a second is in Therunin at [[Therunin#Peakedge Stead|Peakedge Song]] where the midpoint between Highguard and Urizen, could potentially support trods leading to Axos; while a third is proposed in  Sarcombe in the [[Mournwold]] to support trods leading into Liathaven. The final two proposed wayhouses would be in Torfast, [[Skarsind]] at the centre point of the "northern trade network and in [[Miaren#Seren|Seren]] where it would benefit from and contribute to the recent renaissance that the city is undergoing. These wayhouses would function as powerful ministries - creating five Navarr [[Imperial title|Imperial positions]] to operate them. 
+
+Following the Winter Solstice 383YE, the newly appointed [[Master of the Koboldi]] spoke with the civil service about the feasibility of undertaking the work to build the wayhouses with the aid of [[Adamant]]. Unfortunately, the project is simply too large scale, and beyond the scope of the Master to undertake.
+
+
+## A Five Year Plan
+* The [[Assembly#General_Assembly|General Assembly]] could endorse a [[mandate]] urging every Imperial citizen who admired the Empress to commit themselves to walking the trods.
+Rather than forcing people to walk the trods by removing the roads or enticing them with the comforts of a wayhouse, another option is for the [[Imperial Synod]] to exhort them to do so. The Highborn Pilgrimage began with the Synod identifying the vallorn as the greatest threat to the Empire and calling on nations to take up the challenge. Highguard is the most devout nation in the Empire by far, making it much easier for their Assembly to convince people to walk the trods. At the time the civil service calculated that it would be impossible to convince significant numbers of citizens in other nations to emulate the Navarr, but Graciana has found a way it could be done.
+
+In her "[[383YE_Summer_Solstice_Synod_judgements#Judgement_46|final address]]" to the Empire - the [[Empress Lisabetta]] called on all citizens to undertake a pilgrimage. Because of the love that many citizens had for their Empress, there is a unique opportunity to capitalise on the impact of her final words. The [[Assembly#General_Assembly|General Assembly]] could endorse a [[mandate]] urging every Imperial citizen who admired the Empress to commit themselves to the cause.
+
+{{mandate|assembly=General Assembly|mandate=The Imperatrix called on all her subjects to undertake a pilgrimage and there is no greater threat than the vallorn. We send {named priest} with 500 liao to urge every citizen to emulate the Navarr and devote themselves to an enduring pilgrimage until they have walked every trod in the Empire.}}
+
+If endorsed, this mandate would encourage citizens to sell up their belongings and begin a great pilgrimage to try and walk every trod in the Empire. Graciana calculates that it will take the average citizen approximately five years to complete the journey. Obviously not every citizen will be persuaded to abandon their life for such an immense amount of time, most folk are not as devout as the Highborn or as dedicated to this cause as the Navarr are. But enough would take up the challenge that it would have an extraordinary effect.
+
+Graciana's prognosticators calculate that every nation in the Empire that can currently support more than two armies would see the maximum number of armies they could provision reduced by one. In addition the taxation from the territories of all every nation would be reduced by a tenth. The only nations and territories that would not be affected are Highguard and Navarr - since they are already committed to the walking the trods.
+
+These impacts would last for five years - but during that time, there would be a flood of people walking the trods. Graciana believes the number of Imperial citizens walking the trods would roughly double - with a commensurate increase in their efficiency. The impact on the vallorn would be nothing short of a revolution. Her team calculate that this would create immediate opportunities for the Empire to attack the vallorn. If the Empire committed enough armies to the effort - and only if they did that - then it might be possible to clear the vallorn heart ''completely'' from Hercynia and Liathaven, and potentially even Therunin during that time. The Terunael cities at the heart of the territories would be recovered and all taint of the vallorn would be gone from there - just like Miaren.
+
+Important: This mandate competes with similar mandates arising from the [[Crowned_in_rose_and_heather#The_Journey_of_the_Body|journey of the body]] opportunity detailed [[Crowned_in_rose_and_heather|here]].
+
+
+## The Road Less Travelled
+* Graciana does have an alternative, but she has been unable to proceed due to the Conclave's injunction
+After completing the work requested by the Imperial Senate, Graciana, spends some time looking for some novel way to approach the problem. She consults with Navarr vates, to see if there is some way the ritual [[The Dance of Navarr and Thorn]] could be improved, but it is clear that [[Ritual_theory#The_Law_of_Scale|The Law of Scale]] makes any further improvements impossible. The Navarr magicians who created the ritual knew what they were doing - it is already as potent as it is possible to make it.
+
+But when studying the year long desperate campaign against the vallorn in Brocéliande and the bounty that has come from it, Graciana is struck by the opportunity to attempt a completely different approach. To this end she turns to one of the foremost experimental magicians of the current age, Aquillian Effugere of Ankarien's Revenge. Graciana is a capable [[Night magic|Night]] magician, but her skills are inadequate to the task she has in mind, so she has written a long letter attempting to convince Aquillian to undertake the task on her behalf.
+
+The letter outlines what she believes would be needed, but not how it could be done - that would require weeks of painstaking calculation and study to create a suitable arcane projection. She chose to ask Aquillian Effugere to attempt that for her, because of his reputation for creating unorthodox magical rituals. She needed someone prepared to attempt something highly unconventional and potentially very dangerous - so she picked the renowned [[Urizen]] [[Urizen_magical_traditions#Stargazers|stargazer]].
+
+Regrettably, the magician may not legally able to comply with the request. Aquillian, was part of a group of Imperial citizens who were tried by the Imperial Conclave and found guilty of interacting with the [[Amity and enmity#Enmity|proscribed eternals]] known as the [[Whisper Gallery]]. Two of their number, Skywise Gralka and Tamar of Enlightenment, escaped punishment but the remainder of the group, Medea Ruth, Dr Tolame, Aethelric the Grounded, and Aquillian Effugere were declared [[sorcery|sorcerors]], forbidden from performing or contributing to rituals.
+
+As a result it is not clear if it would be legal for Aquillian to accede to her request even if he wanted to. Anyone interested would need to consult with the head magistrate or else seek a clarifying motion from the Imperial Senate.
+
+Whatever the legal nuances of the matter are, what is certain is that the formerly prolific magician has produced no notable works since he was declared a sorceror. Despite this, Graciana has refused to share the details of her plan with anyone else, stating that the risks involved are sufficient that she won't work with anyone but the best the Empire has to offer. As a result the only way to know what Graciana hoped to achieve would be either to persuade Aquillian to share what he knows or else to restore his right to practice magic.
+
+Of course Aquillian may also decide that it is too dangerous to share the idea. Some roads really are better left untraveled, after all.

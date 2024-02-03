@@ -1,0 +1,98 @@
+---
+revision_id: 86109
+revision_date: 2022-01-28T13:21:50Z
+categories:
+- Winds of Fortune
+- 381YE Autumn
+- Recent History
+aliases:
+- Unable_to_see
+---
+
+
+The message hits like a wave across the gathered congregation. Across the patchy tents and shelters which have made their home these past months - much diminished now, since the departure of those of the other nations - there is a wailing. She is dead. Yael is dead. There is an ending to be mourned.
+
+---
+
+Bethany and her sibling Jesse are shivering in the cold next to the fire when they hear the news, Micah running up to the fire before running off again to deliver it to the next tent along.
+
+"Did he say...?" Bethany's tone is questioning, a hint of fright there. Her sibling nods. "Yes. Virtues. Fuck. I know she warned us, but I never thought... I never though they'd actually... damn them!" The tears start to flow, free and easy. Bethany moves to sit next to them, and the two sit and silently weep, holding in each other, not daring to think of what follows.
+
+---
+
+"So we're clear, right?" Joby stands, a crowd of fellow pilgrims around her. "We're forming up, and fighting this out? This is war! It's the Patricians come again! Is this not our destiny?"
+
+From the crowd, one voice speaks up - it is young Ruth. "What are you saying? Would we destroy her Empire, just for this? She told the Dawnish to go home and fight the husks... This would not be what she wanted."
+
+---
+
+Miles away, in their chapter house, the people of Virtue's Ride bar the doors. Their pantries are well-stocked - they have enough food to last out half a decade or more. A fresh stream burbles next to the vegetable garden. In the vaults below the chapter-house are all the supplies that they'll need. Their Exarch speaks to the gathered chaptermates. "This is it. This is the moment we have prepared for. It is a sign - we must seclude ourselves away from this unvirtuous world and keep her message in our hearts. Even if our countryfolk have to bend the knee, we will not. Let us stand fast here and meditate upon her teachings. The Land Without Tears awaits us. We know that now."
+
+---
+
+Across the gathering place of the Congregation of the First Empress, and indeed out across Highguard, in countless ways people react in shock, in grief, in anger, in pain to the death of the beloved daughter of their nation. When the autumn rains begin to fall, later in the season, some even say it tastes of salt - as if the sky itself weeps.
+
+There is an ending to be mourned. But what follows?
+
+Cleave to what you know is true, even where others wish you to doubt.
+## Overview
+At the Summer Solstice, the General Assembly of the Imperial Synod condemned Yael, who claimed to be the [[First Empress]] reborn, for heresy. Her proposed Doctrine of The Beyond had been rejected and, by continuing to preach this as truth, she was found to be guilty as charged. She refused to recant and warned that she would continue to preach. She refused clemency at her trial and the magistrates ordered her execution. For most people in those nations that rejected Yael, her death marks the end of the matter.
+
+But one nation did not reject her. The Highborn stood by their own, just as the nation once stood by the First Empress when she set forth with on a journey to unite all humanity. Now everyone is faced with the fact that their founding nation of [[The Way]] has taken a doctrinal position at odds with the rest of the Empire.
+
+Condemnation for heresy. In the persistent preaching of the rejected doctrine of The Beyond as Truth, Yael of Highguard has performed continuing acts of heresy. We, the general assembly of the Imperial Synod thereby condemn Yael of Highguard on charge of heresy; on account of active teaching and promotion of false doctrine.	
+
+## You Make Your Tomorrow
+* Only the Highborn Assembly can provide the necessary moral guidance to the Highborn nation to heal this schism
+* The penalties affecting Highborn armies that fight alongside other forces has increased to 60% for military units and 25% for armies
+The Nations of the Empire have passed judgement on Yael of Highguard. In the judgement of the League, Astrid Fjellrevening di Tassato called her ''"the false, deceitful Yael."'' The Navarr Assembly utterly rejected ''"Yael's claim to be the first Empress reborn"''. The Council of Nine rejected ''"Yael and her teachings"''. Finally the General Assembly ''"rejects that Yael is the First Empress Reborn and disbelieves her vision and teachings as stated."'' Despite the overwhelming view of the Empire that there was no truth of any kind to her claims to be the First Empress Reborn or the Land Without Tears she refused to recant. In the end the General Assembly took the only remaining step and [[sanction|condemned]] Yael allowing the Imperial magistrates to execute her for heresy.
+
+But none of this has influenced the people of Highguard who primarily look to their own National Assembly for guidance on spiritual matters. As long as that Assembly continues to back Yael there is no ''obvious'' way to preventing Yael's claims spreading through Highguard. The laws on religious crimes are explicit - they can only be invoked following a successful condemnation by the Imperial Synod. If the Highborn Assembly could be convinced to disavow Yael - then they could choose to pass a mandate designed to discourage any further interest in her. Such a mandate would require a lot of liao - given how deep passions run on this subject, given how much preaching has already taken place, it would not be easy to change course... but it would be possible.
+
+
+We send (named priest) with 250 liao to disavow Yael. Her claim to be the First Empress Reborn has proven false and her visions of the Land Without Tears are without basis or merit. We urge all Highborn citizens to reject her.
+
+
+Melchior of Adina's Charge has suggested an alternate wording for this mandate, which the civil service predict will have the same effect but is more conciliatory in tone.
+
+We cannot prove for certain if Yael was the first Empress reborn or not. Regardless of this and no matter who Yael was, the Land without Tears is not part of doctrine and preaching it as such is Heresy.We refute the claim of the Land without Tears and encourage our citizens to look to only those Doctrines which have been debated and agreed upon by the Synod rather than allowing one figure to tear our faith and our Empire apart. We the priests of Highguard send (named priest) with 250 Liao to spread this message to the citizens of Highguard.
+
+Of course that assumes that the Highborn Assembly are minded to pass such a mandate - the current evidence suggests otherwise. At present it seems there are a significant number of priests, in the Highborn Assembly and in other assemblies who continue to support Yael and her teaching despite the rejection of her doctrine by the Synod. If Yael's supporters prove pivotal in preventing the Highborn Assembly from acting, then the only effective option for the Synod may be to gather evidence and consider charges of condemnation. 
+
+Never accept defeat; adapt your strategy and try anew.
+
+The most obvious alternative is simply to do nothing... but that would mean accepting the continued spread across Highguard of Yael's claims to be the First Empress Reborn. The longer that goes on, the more complete the conversion - the more painful any solution will ultimately be. And while they delay the split between the Empire and Highguard continues to widen. The difficulties facing Imperial armies fighting together continue to grow worse and the problems could well spread to other areas if this is not dealt with.
+
+The National Assembly of Highguard believes that Sister Yael is the First Empress Reborn, returned amongst us to further our understanding of the Way of Virtue, to be our Guiding Light and to bring a glimpse of what lies beyond the Labyrinth of Ages	
+
+
+## The Absence of Hate
+* A change of doctrine by the General Assembly would ensure that Highborn priests are safe from condemnation
+* A mandate could be authorized that would boost morale in the Highborn armies granting a 20% bonus to victory points gained in battles
+* The mandate would also increase the surge in prosperity in Highguard, raising it to two additional ranks for all affected resources
+
+When news of Yael's execution spreads across Highguard many are concerned that those who followed her will react with anger or violence - but the first response is one of sadness. Yael had long predicted that the Synod would ultimately lack the [[Courage]] to embrace her revelations and that at the end they would turn on her. Everything has transpired as she predicted - and few people here seem to blame the other nations or the Synod for their lack of vision.
+Do not fear to act; only be shamed by inaction.
+The overwhelming response is one of sorrow and pity. Of all the people of the Empire - the Highborn were the first to discover [[the Way]] - why should anyone be surprised that in this time of revelation the Highborn are the only ones to truly see? But few believe that Yael would have wanted them to take up arms in her name - to ride forth on a new crusade - to put the unbelievers to the sword. The other nations may be misguided - but they are still part of the Empire. There are conditions worse than being unable to see.
+
+In the absence of hate there is only an intense pain felt in the hearts of many. Yael's revelation of the Land Without Tears brought the hope of a better life, an escape beyond the Labyrinth to a world without sorrows or loss. Her followers are certain that Yael, having delivered her revelation, will have returned to the Land Without Tears now that her life has passed. But her followers were touched personally by her deep conviction, her quiet courage, her steel determination to walk her path to the end. And so they weep to know that a life of such pure virtue has ended so soon.
+
+But as the pain inflicted by Yael's death begins to fade the sorrow gives way to a growing concern. The doctrinal rift between Highguard and the Empire is [[Death_is_not_the_end#Significance|affecting the ability of the Imperial armies to fight together]] continues to grow worse. How will the Empire deal with this growing schism? If Yael herself can be put to death who else is safe? The threat to those who teach others of the Land Without Tears will ensure for as long as the Empire refuses to accept Yael's revelation. Highborn priests who have been the bedrock of doctrinal purity for nearly five hundred years are now vulnerable to charges of heresy, leading to possible condemnation and execution. Only the General Assembly can resolve this problem - a successful change of doctrine to accept the Land Without Tears would mean that the Highborn people could practice their faith without fear of persecution.
+Despise cowardice which steers the spirit to weakness and inaction.
+So the Highborn people are looking to their Assembly for leadership in this crucial hour. The leaders of the nation have spoken - overwhelmingly endorsing Yael and backing her vision of what lies beyond the Labyrinth of Ages. That decision has healed the rift within Highguard - brothers and sisters in chapter houses across the nation are once more united in their shared understanding of their faith. Even now, in chapter-houses all across the nation, there are priests conveying the news of the First Empress Reborn, teachers helping children to learn of the Land Without Tears, craftsmen fashioning new works extolling her [[Wisdom]] and [[Courage]]. 
+
+The sorrow at her death has not diminished the great joy that most Highborn feel at the recognition that the greatest human being who ever lived was reborn to them. The people are enormously proud of Yael and of her place within their pantheon of inspiring figures. That pride has [[Death_is_not_the_end#Manifest_Destiny|translated into a great boom in prosperity]] which looks set to continue for the foreseeable future. The [[statement of principle]] that was passed has settled the doctrinal differences of opinion within Highguard - the majority of the general populace now accept the existence of the Land Without Tears as revealed by the First Empress Reborn. But there is still a difference between accepting the truth and embracing it. 
+
+We send (named priest) with 75 liao to spread the truth of the First Empress Reborn and the revelations of the Land Without Tears throughout Highguard. Let everyone embrace the truth revealed by Yael.
+
+If the mandate above is implemented then this act of confirmation and the proselytizing it empowered would be sufficient to cause the Highborn people to fully embrace Yael's vision. There would be no easy return from such an act, but the resulting surge in piety and purpose would bring confidence and surety of purpose to every Highborn citizen. That would mean that all Highborn armies would be more effective in battle (they would generate 20% more victory points) in any campaign where they were not fighting alongside a nation that had rejected the doctrine of the Land Without Tears. In addition the current surge in [[Prosperity]] across Highguard would double for as long as that effect lasts.
+## Notes
+Like the [[An_apple_that_falls|situation in the Mournwold]] the situation involving the legacy of the First Empress Reborn is complex and filled with strife - reflecting as it does the various actions taken by players over the last few years of the campaign. What we've tried to do here, is lay out some steps that players ''could'' take that would definitely have an effect on the situation.
+
+As with all our Winds the list is accurate but not definitive. There are many other ways to influence the situation - there are alternatives that we have thought about but have not included because we don't feel they add much to the range of options. And there is always the potential for players to do things we have not thought about in advance - that's what makes running this game fun!
+
+Players can change the laws of the land or use a [[statement of principle]] as a powerful tool to influence the wider world. Players on all sides could double down on their current positions - or either party could attempt to backtrack and concede. As with a mandate, if you e-mail an idea to us in the next few days, we may try to add something to the wiki, and give an appropriate explanation of how effective it would be. Otherwise you will have to take your chances at the event!
+
+There won't be ''any'' NPCs on the field directly involved with this plot at the event. The outcome of this schism is utterly in the hands of the players.
+## Resolution
+The mandate of Melchior of Adina's Charge was supported by the Highborn Assembly. Melchior has collected the required 250 doses of [[liao]] and will encourage the people of Highguard to return to a state of orthodoxy.

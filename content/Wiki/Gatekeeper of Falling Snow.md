@@ -1,0 +1,30 @@
+---
+revision_id: 90109
+revision_date: 2022-05-12T15:36:18Z
+categories:
+- Title
+- Wintermark
+aliases:
+- Gatekeeper_of_Falling_Snow
+---
+
+
+## Overview
+The Garden of Falling Snow was [[commission|commissioned]] by a [[Construct Garden of Falling Snow|motion]] of the [[Imperial Senate]] in Summer 379YE. Construction of the Garden of Falling snow was completed shortly before the 379YE Autumn Equinox. 
+## Responsibilities
+The Gatekeeper has no particular responsibilities; they simply receive a bounty of herbs from the [[#The Garden of Falling Snow|Garden of Falling Snow]] in [[Hahnmark]]. If the Garden were to be threatened in any way, it would be the responsibility of the Gatekeeper to deal with those threats.
+## Powers
+### Cerulean Bounty
+__TOC__
+The Gatekeeper receives custodianshi of a [[sinecure]] and receives an income of 12 doses of cerulean mazzarine each season.
+## Appointment
+The Gatekeeper of Falling Snow is appointed by unanimous decision of the [[Wintermark]] [[senator|senators]]. If a unanimous decision cannot be reached, the title [[Appointments_by_the_Senate#National_Position|may be appointed]] by the [[Imperial Senate]] instead.
+
+The title can be held by a Wintermark citizen. The Gatekeeper has [[tenure]], and serves until they die or step down. They can be [[revocation|revoked]] by the [[Assembly#General_Assembly|General Assembly]], the Wintermark [[Assembly#The_National_Assemblies|National Assembly]], and by the [[Assembly#Assembly_of_the_Nine|Assembly of the Nine]].
+
+
+## The Garden of Falling Snow
+The Garden is constructed around a series of hot springs in a high-altitude valley in [[Hahnmark#Kalpamark|Kalpamark]]. Cerulean mazzarine does not prosper in the northern Empire, being more suited to the warmer climes around the Bay of Catazar. The hot springs, however, provide the warmth required to cultivate large quantities of the herb. Still, the delicate plants require regular tending and careful monitoring by a small cadre of predominantly [[Kallavesi]] gardeners, wise in the ways of herb lore. They also carefully protect the herb gardens from animals drawn to the warmth of the hot springs who might otherwise damage the cerulean mazzarine. For the most part, though, they have plenty of time to dedicate to personal [[mystic]] pursuits - indeed parts of the area set aside specifically to allow gardeners and visitors to enjoy open air bathing. Floating in a pool of hot water, watching the snow gently fall, is said to be particularly effective in allowing a mystic to achieve a meditative state.
+
+
+

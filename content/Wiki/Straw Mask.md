@@ -1,0 +1,25 @@
+---
+revision_id: 51368
+revision_date: 2017-04-14T01:05:20Z
+categories:
+
+aliases:
+- Straw_Mask
+---
+
+
+## Description
+The Straw Mask empowers the wearer to perform rituals that vastly increase the output of their lands. It is often constructed using lacquered corn-ears, strung together to cover the face and interlaced with fine knotwork of metallic threads. It is rare for these talismans not to incorporate at least one [[Bravash]], the Rune of Fertility, either in place of one of the eyes or (especially outside [[Wintermark]]), on the inside of the mask so that it touches the forehead, cheeks or chin when the mask is worn. Regardless of the precise design, even in [[the League]] it is usually constructed out of natural material such as wood. Some traditions of [[dramaturgy|dramaturgists]] (especially [[The_Marches_magical_traditions#Mummers|mummers]]) prefer to personify the mask as a beast - usually a goat, sheep or bull - incorporating it into bawdy ritual plays involving more than a little suggestive dialogue.
+
+Some [[Navarr]] and [[Varushka|Varushkan]] artisans create this item in the form of a ''Crown of Thorns and Ivy'' - a circlet of interwoven strands of the titular material, sometimes bound together with threads of gold and silver, with carefully preserved berries or small flowers. At the end of a year, the crowns are ceremonially burnt or buried, or abandoned near a [[Navarr_culture_and_customs#Funerals|funeral glade]].
+
+As with all the magical masks, these [[:Category:Foci|foci]] are used to grant additional power to perform [[rituals|ritual]] magic. In this case, it enhances a suite of rituals that [[enchantment|enchant]] [[farm|farms]] to ensure an excellent harvest. By itself, it will allow even a novice of [[spring magic|Spring]] or [[winter magic|Winter]] magic to perform [[Blessing of New Spring]] or [[Fallow Fields and Dried Meat]] without having mastered them, and without the assistance of a coven.
+
+Likewise, the mask may help an adept of Summer lore perform the [[Strong Ox, Golden Sun]] ritual by themselves, or contribute towards the power of a [[Bands#Covens|coven]] attempting to enchant multiple farms. A true Autumn master could use the mask along with the Imperial regio and the power of a [[Melancholic Staff]] to achieve a personal performance of the complex [[Gathering the Harvest]] ritual, should they be so inclined. A single mask rarely makes a significant difference with the latter ritual, but each additional rank of lore can prove useful - especially when performing the ritual on multiple farms at once. It can also prove useful for a mixed coven - by providing an advantage in three connected rituals from three separate realms of magic it can help a coven member who is less well-trained in some of the lores to contribute more fully to a group performance, especially if they have mastered the ritual.
+
+The mask is most versatile in the hands of a ritualist who has trained in all four of the lores it uses - Spring, [[summer magic|Summer]], [[autumn magic|Autumn]] and Winter - but some covens simply pass these masks back and forth between their members over the course of a year as different rituals are required in different seasons. Some examples of these masks in the Marches and Dawn are said to have been passed around in this fashion since before the first Dawnish boots touched the soil of the Bay of Catazar, and are treated with special reverence.
+
+## Rules
+
+* Effect: Gain 1 rank for the [[Blessing of New Spring]], [[Strong Ox, Golden Sun]],  [[Gathering the Harvest]], and [[Fallow Fields and Dried Meat]] rituals, subject to the [[Realm_Lore#Gaining_additional_ranks|normal rules for effective skill]].
+* Materials: Crafting a Straw Mask requires no special materials. It takes two months to make one of these items.

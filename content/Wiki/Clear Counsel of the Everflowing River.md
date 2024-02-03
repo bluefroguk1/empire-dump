@@ -1,0 +1,81 @@
+---
+revision_id: 102995
+revision_date: 2023-07-08T09:47:26Z
+categories:
+- Night Ritual
+- Rituals
+aliases:
+- Clear_Counsel_of_the_Everflowing_River
+---
+
+## Rules
+
+### Performing the Ritual
+  In addition, a member of the coven must have [[#Preparing the question|prepared and delivered]] a suitable question to Sung using the [[Operate portal#Invite Eternal|operate portal]] spell and a specially crafted effigy no later than time out the previous night.
+### Effects
+This ritual allows the casters to seek aid from the eternal [[Sung]] in solving a mystery that eludes them. At the climax of the ritual, the casters must clearly voice their pre-prepared question aloud.
+
+Sung will only offer guidance relating to a mystery - and her guidance is likely to be cryptic and full of allusion and symbolism. The ritual can only be performed if the casters have already alerted Sung to the mystery they wish to explore, but otherwise there is no restriction on when it may be performed.
+
+Completion of the ritual allows Sung to speak to the ritualists and provide aid in the exploration of a mystery. In theory the eternal can converse with the ritualists for up to five minutes before the power of the ritual ebbs, but in practice Sung will usually deliver her response and then depart. If anyone attempts to use the regio to perform a ritual while the conversation is ongoing, however, the effect of Clear Counsel of the Everflowing River will end prematurely.
+
+### Additional Targets
+The ritual can be used to ask additional prepared questions. The magnitude increases by 20 for each additional question.
+
+## Assurance
+This ritual draws on the power of the eternal [[Sung]]. For some time there was an impression that the ritual did not have an [[Ritual_theory#Agreement|agreement]] associated with it. Following the esoteric conjunction of [[the Lock]] and [[the Key]] in Autumn 384YE, however, it became clear there was a subtle ''assurance'' built into the ritual. Should the Empire ever disband the [[Unfettered Mind]] [[Imperial Conclave|Conclave]] [[Conclave order|order]], Sung is freed from the requirement to provide assistance and may respond to the question posed by the ritualists however she wishes - including simply ignoring it.
+
+## Preparing a Question
+The question the coven wishes to ask Sung must be submitted at least the night before the ritual is to be cast to give the eternal time to consider their response. The question must be written on a strip of paper that begins "The ''named coven'' asks Sung why..." The paper is then wrapped around a specially prepared effigy which can be sent to Sung by any magician casting [[Operate portal#Invite Eternal|operate portal]] on it. The nature of the effigy is such that Sung will know who has sent the question and will likely ignore anything that is not submitted by a member of the named coven.
+
+When a coven that submitted a question next performs Clear Counsel of the Everflowing River they may ask the eternal for the answer (or at least for assistance with the mystery they are interested in).
+
+Any character who has mastered Clear Counsel of the Everflowing River can craft a suitable effigy from 2 measures of [[Materials#Ambergelt|ambergelt]] but only between summits. It takes too long to fashion a suitable effigy at a summit. Each effigy allows a single question to be submitted. It is possible to use more than one effigy to submit additional questions, but it is unwise to do this unless you intend to perform the ritual sufficient times to ask all the questions you have submitted.
+
+The ritual creates an implicit agreement between the coven and Sung. The eternal agrees to answer every properly-submitted question to the best of their ability, the coven agrees to perform the ritual to converse with Sung for each question they submit. Asking questions that are not then accompanied by a suitable casting of the ritual before the end of the summit will anger the eternal and risks retribution against those involved.
+
+## Description
+Codified by Simargl, the Empty One, in early Spring 379YE, and added to Imperial lore at the equinox, this ritual was created with the assistance of the eternal [[Sung]]. The Rainbow Serpent possesses a well known fascination for mysteries of all kinds. It bears some similarities to the commonly known ritual [[Swim Leviathan's Depth]] – although as a ritual of the Realm of Night the magic involved in its actual performance differs greatly from that ritual of the Realm of Day.
+
+The Counsel works by first using the [[operate portal]] spell to send an ambergelt effigy and a question to Sung, the Night eternal, and solicits her insight into a specific question. It is clear that Sung will never simply provide the answer to a question, even if she knows it – unlike the straightforward nature of Leviathan, it is not in the nature of this winged serpent to deny a petitioner the pleasure of unravelling a mystery themselves. 
+
+Rather, she might provide hints or cryptic advice as to how to approach the mystery; she might send one of her heralds to actively assist the ritualists in their explorations; she might point them in the direction of someone or something who can help them make progress; she might deliver an enciphered clue, or a riddle whose solution points to the next step in uncovering the truth. In some cases, she might even provide assistance to help the ritualists uncover the true question – the question she thinks they should be asking.
+
+The ritual is almost useless when it comes to determining simple facts; using it to ask a simple question whose answer is easily uncovered and known to many such as “Who is the [[Principalities of Jarm|Jarmish]] ambassador?” is likely to result in a sharp and unhelpful response. Ideally, the ritual is used to gain assistance with investigating something genuinely baffling, confusing or puzzling.
+
+The second part of the ritual must be performed at a strong Night regio – the [[Regio#The_Imperial_Regio|regio at Anvil]] is quite sufficient – at least one night after the effigy has been sent but no later than the end of the summit. The ritual is employed to create a connection between the mortal realm and the realm of Night, allowing the eternal to speak to the ritualists. Her primary concern will be to deliver her counsel to those who performed the ritual, but she might linger for a few moments to discuss other matters. This is very unlikely to result in a physical manifestation – and even when it does, it will be a projection or shadowy seeming of Sung rather than her actual presence. Occasionally, the result might be a herald of Sung especially if the eternal does not know the answer to the question raised, and is intrigued by the mystery it poses.
+
+If for some reasons the ritualists are unable to contact Sung at a regio, she may choose to respond in a different manner but this is impossible to predict. Such responses are likely to take the form of visitations by heralds; however, it is likely she will want an explanation as to why the ritualists failed to complete their magic and a poor answer may sour relations between the coven and the Rainbow Serpent.
+
+Sung rarely lies, but she never tells the entire truth as she knows it. She enjoys misleading and obfuscating, hiding the "facts" in layers of doubt designed to allow people to come to their own conclusions. Speaking about direct facts or trying to cut through to the heart of a situation is a surefire way to annoy this subtle Eternal.  "It is the mystery which endures." says Sung. "The light of truth kills the mystery, and leaves the seeker desolate." 
+
+Like all divinations that solicit the aid of an eternal, Sung is bound to offer assistance but that assistance is limited both by the bounds of her knowledge, and by her essential nature (an aspect of the Law of Essential Nature, of course). As with similar magic, the true power of the ritual is to provide a group of practitioners with the ability to communicate with the eternal in a certain way, with the expectation of a response that – while it might not be immediately helpful – will be at least as useful as an audience with that eternal might have been.
+
+## Common Elements
+This is a divination in two parts. The first part of the ritual can be performed anywhere and is reasonably straightforward. As a ritual of the Realm of Night that petitions Sung, elements that obscure the identity of the practitioners – or the performance itself – are strongly resonant. Masks, veils, hoods and cloaks are all appropriate to the ritualists (as is the dramaturgical Instrument of the Cloak, obviously) – especially if they are brightly coloured to match the wings of the eternal evoked. 
+
+Performing the ritual in darkness – or most especially by the light of the stars, moon or a single candle is also strongly resonant with the magic. The ritual might be performed in whispers, and a suggestion from the Nameless One was that the ideal way to perform this ritual is to do it in front of an audience who, while  they know a ritual is being performed, are left baffled as to the precise nature of that ritual.
+
+The props used in divination are also appropriate – gazing into a bowl of water or a piece of smoked glass is an obvious element, as is burning a feather and observing the smoke. Runes or cards might be repeatedly cast or consulted, and patterns identified – indeed, doing so might provide unexpected, intuitive insight into the mystery in question even before Sung becomes involved.
+
+The question itself, ideally, is written down so that it is clear what it is the ritualists wish to ask Sung. The performers might meditate on the question, or burn the parchment as part of the ritual.
+
+The rune [[Wyr]] resonates well with this ritual, as does the [[Dramaturgy#Persona|persona]] of [[the Witch]] or [[the Mountebank]]. A [[Dawn|Dawnish]] magician might evoke images of [[Legendary_beasts#Sphinxes_and_Manticores|sphinxes]] or owls (a beast also appropriate to both [[Varushka|Varushkan]] and [[Wintermark]] performances, of course). The [[Astronomancy|astronomancer]] might point to the constellations of [[The_Key_and_The_Lock#The_Key|the Key]], [[The_Spider_and_The_Web#The_Spider|the Spider]] or [[The_Spider_and_The_Web#The_Web|the Web]].
+## OOC Elements
+### Preparing the Question
+
+It is not possible to craft an effigy during an event, it can only be done between events. Any character who has mastered Clear Counsel of the Everflowing River can craft an effigy provided they have 2 measures of [[ambergelt]] in their character inventory. The button to ''craft effigy'' appears on the right hand side of your character screen when you view your character, provided you have the ritual mastered and sufficient ambergelt' in your inventory. A phys-rep for the effigy will be included in your pack at the next event; it does not expire. Each effigy allows a single question to be submitted to Sung.
+
+To submit a question for Sung's consideration, you should write the question on a piece of paper, attach it to the phys-rep for the effigy and then cast operate portal on it. Please make sure that your handwriting is legible. You should then hand the paper and the effigy to a referee or to a member of the GOD team who can make a record of the message and who sent it.
+
+We need time to prepare the answer to your question, so you must submit it at least the night before the ritual is to be cast. Likewise you must perform the ritual at the same event that the question is submitted, otherwise the answer will be discarded and considered not to have been followed up. We ask players to avoid submitting questions they do not intend to ask, as this will waste a lot of valuable time creating the answers. As a result the eternal Sung is likely to react negatively to any coven that submits one or more questions that are not then raised with a casting of the ritual.
+
+On the Nature of Mysteries and Secrets
+Sung is the Lord of Mysteries and the Lady of Illusions; she is only minimally interested in “secrets”- something she leaves to the eternals of the Whisper Gallery. The difference is often difficult to explain.
+
+A secret is something that is known only to a few. For example, the special combination needed to open the vault of a League banker is a secret. The banker knows it; her wife might also know it; the artisan who created the vault might know it. The nature of the combination is a simple fact – a string of numbers – a secret rather than a mystery.
+
+A mystery is something baffling, something to which there is no straightforward answer, or something that nobody knows the answer to. The difference can be surprisingly subjective. Imagine that the League banker's vault were discovered in an empty house. For those who found the vault, stripped of context, it becomes a mystery. “Whose vault is this?” they might ask. “What might it contain? How might we open it? Why is it here in this empty house?” While the answers to those questions might appear straightforward, for the people asking the questions they represent a mystery – one full of potential and delicious intrigue. Sung might enjoy helping those people uncover the answers in a way she might not if they simply asked her if she knew the combination.
+
+
+

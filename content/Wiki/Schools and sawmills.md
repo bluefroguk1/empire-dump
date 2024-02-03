@@ -1,0 +1,253 @@
+---
+revision_id: 106323
+revision_date: 2023-12-08T14:22:36Z
+categories:
+- Winds of Fortune
+- 385YE Autumn
+- Recent History
+aliases:
+- Schools_and_sawmills
+---
+
+
+"''What'' did you just say?" Lynada's exclamation silenced the buzz of conversation in the common room. The old soldier stood up slowly, placing her balled fists on the table, and leaning slightly forward. The orc opposite took another sip from his mug, looking up at her, apparently unfazed by her reaction.
+
+"I ''said'' that if the Varushkans hadn't made the Black Plateau do... what it did... the Empire would have lost at Solen's Doubt." The orc spoke calmly, but there was an edge to his words.
+
+Lynada spoke through gritted teeth. "We ''had'' you. We ''had'' you at Solen's Doubt and you know it! Even without the... the Plateau... your armies were on the verge of breaking anyway, like the undisciplined rabble they are, and..."
+
+"I'm sorry, but what did ''you'' just say? That our - that the ''Grendel'' - armies were ''undisciplined''? You? A soldier of the ''Empire'' criticises ''our'' - the Grendel -  soldiers for being ''undisciplined''!?" Batheka's chair scraped against the tiled floor as he stood up, his hands on the table mirroring Lynada's. The two old soldiers faced each other across the table, noses less than a foot apart. All around the common room students and guests exchanged worried glances.
+
+Batheka broke eye contact first, but only so he could pick up a jug, and slam it down in the middle of the table.
+
+"Solen's Doubt," he said. "The spire." 
+
+He pushed the plates and bowls to one side, and began to pick up random objects, slapping them down and naming them as he did so. "Brine Turtles, Black Eels. Wolves of War. Iron Bloody Helms."
+
+He reeled off the armies one at a time. The orc sat next to him, who had not stopped eating throughout the altercation, wordlessly handed several pots and pepper shakers down from the other end of the table.
+
+"The Towerjacks were further east," growled Lynada. Still talking she pulled one of the rings from her finger and balanced it atop the pepper pot, moving it into position. "We were in the shadow of the tower. And you're completely ignoring the ridge. The ridge was... Dammit, give me that salt cellar."
+
+She moved the mustard pot representing the Red Wind Corsairs several inches to the left, and sprinkled out a line of salt diagonally across the battlefield. 
+
+Batheka nodded approvingly, in spite of himself. "That damn ridge," he said. "We knew you'd try to claim the higher ground-"
+
+"And we knew you knew," interjected Lynada quickly.
+
+"- But if we ''also'' knew that if we could put pressure on one of your armies, the Citadel Guard would move to support them allowing us to start picking off the battle-magicians, which is why we had the Stone Gyre ''here'' and-"
+
+"- And that put them in the path of the Iron Helms which - "
+
+" - Yes, yes, which meant they were the first to go, but look, the ''strategy'' was sound - press the Corsairs ''here'' and pull the Guard ''here'' and then the Brine Turtles and the Sand Pipers would -"
+
+The orc moved several items around, but Lynada was already shaking here head, moving them back into position.
+
+" - No, because you're not allowing for the-"
+
+A small crowd began to gather, now that it was clear a brawl was not about to break out. People started to ask questions. One of the librarians, who had been with the Wolves of War, started to argue with Lynada about the exact situation with the army on the day of the battle, grabbing the chutney jar representing them and shaking it for emphasis.
+
+Batheka's companion rolled his eyes, shifted along the bench slightly to make room for a student who was trying to get a better look at things from the Grendel side of the table, and caught the eye of one of the staff.
+
+"Best send for another pitcher or two," he rumbled, while simultaneously helping himself to an abandoned bowl of rhubarb crumble. "This is going to to go on for quite a while."
+
+## Overview
+A little over three months remain in the [[The_money_goes_round#Life_is_a_Competition|grand competition]] proposed by Merchant Prince, ''Fransesca di Matos''.  Challenging the [[Ambition]], [[Pride]], and [[Prosperity]] of [[the League]], the contest has nearly run its course and will end at the start of the Winter Solstice 385YE. The winner will be the city that has invested the largest amount of [[weirwood]], [[white granite]], and [[mithril]] "improving" their [[territory]] and their city.
+
+Commissions do not count by themselves, only actual wains spent to build things in the League territories - but there's no requirement that the commission be ''completed'' by the close of the competition. Provided the materials have been ''contributed'', they count towards the final scores. This means that even a very ambitious commission - like the one proposed by [[#Sarvos:_Diora_University|Diora University]] could still count toward the tally, as long as work had begun and wains had been committed to the construction. 
+
+In addition to wains spent building Senate commissions, Fransesca wanted everything to count. The resources spent by citizens to upgrade their own [[business|businesses]] and other [[Resource#Personal Resources|personal resources]] are as important to demonstrating the wealth and Ambition of a city as those spent on civic works or vanity projects. Just as they did [[Half-time score|last season]], the Civil Service had provided their assessment of how each city is doing.
+
+CityWeirwoodWhite GraniteMithrilPersonal ResourceTotal
+Holberg15811542153
+Sarvos099058157
+Tassato15150535
+Temeschwar30741028142
+Apulian00022
+
+With a single season left, there is everything to play for! Unless you live in Tassato, of course. They're lagging behind a bit, as you can see. Apulian wasn't part of the League when the contest began so they've at least got an excuse. To be frank, I'd move if I lived there!
+
+## Education
+
+A timely [[statement of principle]] by Bishop Jonah von Holberg urged the people of the League to be proud of their cities and the first-rate education provided by their universities, but went on to say that “''it is time to recognise our academics, our curators, our engineers, our philosophers, and our experts.''” 
+
+There are two great universities in the League. Perhaps the greatest is grand Holberg University, whose College of Engineering is renowned not only across the Empire, but in other nations as well. The establishment of the [[Chair of the Wolf]] last year was no doubt partly inspired by the challenge of the magical [[Master_of_the_Koboldi#College_of_Engineering|College of Engineering]] overseen by the [[master of the Koboldi]], and in turn must surely have played some part in inspiring the new [[Master_of_Rings#Temeschwar_University_Department_of_Architecture|Department of Architecture]] at [[Temeschwar]] University. This is how it is in the League, sometimes. The cities are rivals, but each time one gains something prestigious it serves to encourage the Ambition of their cousins in other parts of the nation.
+
+Prince Jonah von Holberg's passionate words, coupled with the successful expansion of Holberg and Temeschwar university faculties to the benefit of the League, and with the end of Fransesca's contest in sight, has in turn inspired people in Sarvos and Tassato to look to their own academies, colleges, and places of learning, and consider how they might embody the Ambition of their fellow citizens.
+
+## School of Hard Knocks
+
+Sword Academy
+Commission Type: Sinecure
+Location: Anywhere in Apulus, Sarvos, Tassato, Temeschwar
+Cost: At least 10 wains of white granite and 30 crowns
+Effect: Creates a sword academy in the city 
+
+
+
+Master of the Sword Academy of {city}
+Type: National position
+Appointment: Any well worn path
+Powers: Income 1 thrown, 6 crowns, 7 rings each season
+Responsibilities: To set the syllabus for the academy and invited the best tutors and instructors to teach there
+
+* The bravos of Holberg have flocked to the sword academy in Holberg where lessons in philosophy have proved surprisingly popular
+* There is an opportunity to establish similar schools in Sarvos, Tassato, Temeschwar and Apulus to spread this interesting in learning
+The call for more education seems to catch the spirit of the moment, not least because of the influence of the Day realm which currently [[Shining_like_fire|pervades the Empire]]. The call has already been taken up enthusiastically in Holberg where bravos are flocking to the [[Master_of_Defence_of_the_Scholars_of_the_Sword_Academy|Scholars of the Sword Academy]]. When the school opened they invited sword scholars to teach there and they enthusiastically combined instruction on sword play with lessons on the nature of [[Wisdom]] and encouragement to independent thinking. The syllabus was quickly expanded to include emphasis on the lessons on virtue provided by [[Emperor Frederick]] particularly this found in his most famous work ''"Anarchy and Liberty"''. Bravos are typically known for hard-drinking and brawling in the streets, but those who are engaged with the school are becoming increasingly interested in studying a wide range of radical political philosophies.
+
+What is drawing such interest in Holberg would surely prove just as popular in the other cities of the League. The League could benefit from creating similar schools combining swordplay and philosophy in Sarvos, Tassato, Temeschwar or Apulus if they want to encourage this new revolution. Not everyone will take an interest of course - even in Holberg those bravos who are interested in Frederick's ideas on republicanism are the exception rather than the rule. But those bravos who might be minded to study civics or similar fields would surely welcome an opportunity to do so.
+
+This season, it is possible to construct a sword academy in any or all of the four other cities of the League that do not currently have one. Each school would require a commission able to create a sinecure. The minimum size would be 10 wains of white granite which would need 30 crowns for the labour costs and take three months to build. However in theory, it would be possible to build a larger school using up to 20 wains. Each sword academy would need a Master to lead the school; they would be responsible for setting the syllabus and for inviting the best tutors and instructors to teach there. To reward them for their efforts, they would receive a seasonal income equal to one third more than a sinecure of the same size. 
+
+The [[Master of Defence of the Scholars of the Sword Academy ]] in Holberg is a national Senate appointment. Any new positions would also need to be League national positions with tenure, but they could be appointed by a different well worn constitutional path such as a [[judgement]] of [[appointment]] by the League Assembly, or appointment by [[Tally of the Votes]].
+
+## Sarvos: Diora University
+* Diora University is the oldest university in the League, but has been eclipsed by Holberg University
+* Sarvos is a centre for fashion, art, and culture and this inspires the Dean of the University to consider restoring Diora's fortunes by focusing on what the City of Masks does best
+The university of Sarvos, Diora University, has had a rocky few years. Following the [[The_sack_of_Sarvos|Grendel invasion]], and subsequent [[380YE_Summer_Solstice_winds_of_war#The_Defiance_of_Sarvos|liberation]], the University apparently encountered financial difficulties. These monetary concerns were resolved thanks to generous donations from citizens of [[the League]] and [[Highguard]], but it cannot be denied that the college has seen better days. The oldest place of learning in the League, it is a shadow of its former self, long-since outclassed by the sprawling campus of Holberg University. There have been proposals in the past to revitalise its fortunes, including one involving the establishment of a [[Focused_and_methodical#The_Diora_University_College_of_Autumn_Magic_and_Dramaturgy|College of Autumn Magic]] with a special focus on attracting professors from across the Known World to take up teaching posts there. Sarvos is, after all, the foremost destination for ships visiting the Empire from foreign shores.
+
+The proposal for a [[Focused_and_methodical#The_Diora_University_College_of_Autumn_Magic_and_Dramaturgy|College of Autumn Magic and Dramaturgy]] at Diora seems to have attracted little support; even the [[Imperial Conclave]] seemed [[382YE_Winter_Solstice_Conclave_sessions#Concord_:_Support_for_Diora_University|broadly disinterested]]. With three [[College of Magic|Colleges of Magic]] in the Empire already, perhaps the costs involved discouraged the Empire. Still, Ambition teaches that it is vital to aim high, to pursue dreams, and to never accept that something may be beyond your grasp. It's also worth noting that the proposal for the College was put forward before Sarvos underwent its transformation into the ''City of Masks'', and that might make a difference.
+
+The League prides itself on its artists, and values art and the artists who create it more than perhaps any other nation. Sarvos has always been the centre of culture for the nation, tirelessly promoting an appreciation of fine things; opera, theatre, art, and dance in their siblings in other cities. The City of Masks has done much to highlight that love of the fine things that, to some, define civilisation best. While the [[Shining like fire|insidious magical aura gripping the Empire subtly influences people to eschew artistic appreciation]], it will never entirely dampen the fascination the people of Sarvos have for the Arts. Perhaps, some of them muse, the problem with Frederick di Sarvos' plans for the College of Autumn Magic and Dramaturgy is that they were too ''small''.
+
+### Diora University College of the Arts
+
+Diora University College of the Arts
+Commission Type: College of Magic
+Location: Cigno, in Sarvos
+Cost: 110 wains white granite, 60 wains weirwood, 10 wains of mithril, 540 crowns, nine months
+Special: Allowing the purchase of the College of the Liberated contributes resourced to the project but removes the great work benefit
+Effect: Creates Dioran Muse, and cements Sarvos as the centre for the arts in the Empire
+Time Limit: If the Diora University College of the Arts is not commissioned by the end of the Winter Solstice 385YE the opportunity is lost
+Opportunity: This commission has required elements; if any are not all fulfilled the commission does nothing
+
+
+
+Dioran Muse
+Type: National position
+Appointment: Tally of the Votes or Auction of the Seats
+Powers: Codify ritual texts, acquire unique schema or magic items
+Responsibilities: To encourage celebration and study of the arts throughout the League and the Empire as a whole
+Opportunity: This title has required elements; if any are not all fulfilled the title does not gain some or all of its powers
+
+* The Diora University College of the Arts could be established in Sarvos
+* The proposed expansion and revitalisation of Diora University would cost 
+* The ''Dioran Muse'' would gain the ability to engage magicians to codify rituals, and 
+* The College of the Liberated could be converted to form a pastoral campus for Diora University
+Building on Frederick's proposal, and on the success of the [[The_winds_of_fashion#The_School_of_Couture|House Bourné School of Couture]], the Dean has shared an ambitious plan for the future of Diora University. Let other cities deal in Architecture, and Engineering, and let Sarvos become the centre for the study of what it does best – the Arts in all their forms. Music in all its forms; sculpture; dance to move the spirit and break the heart; poetry that inspires; writing that helps the reader see themselves and their world with new eyes; the crafting of clothes and jewellery that will change the way people adorn and express themselves; drama that celebrates the tragic, the comedic, the historic, and the whole of human experience. The project is ambitious and will need extensive investment from the citizens of the League.
+
+The plans for Diora University College of the Arts will require 110 wains of white granite, 60 wains of weirwood, and 10 wains of mithril. It will have a labour cost of 540 crowns and take nine months to complete. It would have an upkeep to the Senate of 20 Thrones each season – though as the Dean rather pointedly points out, over a year that amounts to only slightly more than the League contributed to the [[Imperial treasury]] for the [[Regario Dossier]] during the Spring Equinox.
+
+The College would create an Imperial title - the ''Dioran Muse'' perhaps - who would be responsible for promoting the arts across the League and the Empire as a whole. The title would be a League national position, but while the Dean would ''prefer'' that it be appointed by [[Tally of the Votes]], they would not object to the idea of it being appointed by [[Auction of the Seats]], provided it remained League national.
+
+Once completed, the College would provide a number of benefits.
+
+While the main focus would be on the Arts, it would also attract a number of magicians to both study and teach at the University. This would allow it to function as a [[college of magic]], albeit not the way the colleges in less sophisticated parts of the Empire function. 
+
+The college would be able to codify [[arcane projection|arcane projections]] from any realm, but at a base codification rate of 0 ranks each season. The Dioran Muse would be able to spend money to speed up the process: The first five ranks of additional research in a season cost 2 thrones. The next five ranks cost a further 5 thrones. The next five ranks cost a further 10 Thrones, and so on doubling the price for each 
+additional five ranks of research within the same season. The ritual texts produced in this fashion would, of course, be the property of the Dioran Muse to do with as they saw fit.
+
+It would also be ''prestigious'', attracting students, teachers, as well as artists, from across the Empire and indeed the Known World. Building on the historical reputation of Diora University it would ensure that Sarvos became the undisputed centre of artistic endeavour for the Empire for the foreseeable future.
+
+In addition to the cultural benefits, the staff of the College of the Arts would take advantage of the opportunity to liaise with these visitors. Inspired by the [[Dressed_in_smoke_and_fire#The_Schemas|proposal of House Boruné last year]], the faculty would seek out opportunities to acquire [[Magic_items#Schema|schema]] for [[:Category:Mage_Robes|mage robes]], and [[:Category:Jewellery|magical jewellery]] unknown in the Empire. Once each year they would present at least three opportunities to the ''Dioran Muse'' to acquire either the schema themselves or examples of the [[magic items]] they created for their personal use – or the benefit of the nation, or the Empire, as the Muse saw fit. 
+
+House Bourné has already been approached to see if they would be prepared to share the schema for the four Masks of the Cities that they have created, and have agreed that if the college is built, securing the prestige of Sarvos as a cultural centre of the Known World, they would make those schema available to any League [[Crafting skills#Artisan|artisan]] who wished to study them, similar to the way they make the schema for their  mage robes available to Imperial citizens.
+
+The opportunity to expand Diora University remains available until the end of the Winter Solstice 385YE. If it is not taken up by then, the chance will be lost. The Dean is keen to see the commission begun as soon as possible, obviously, as it could potentially secure the victory in Francesca's contest for the City of Masks.
+
+### College of the Liberated
+* If the Senate commissions the Diora University College of the Arts they might allow the purchase of the College of the Liberated
+* If they do this will contribute 20 white granite, 20 weirwood, and 120 crowns to the construction
+As part of the plan, the Dean proposes to purchase several sites around the city and in a few cases outside the walls. One of the proposals involves acquiring and converting the [[College of the Liberated]] in [[Sarvos#Trivento|Trivento]]. That building was built with the best of intentions, says the Dean, but it has served its purpose. In the last few years, attendance has slowly waned, and its curriculum shrunk down to the point where Diora University could deliver it more effectively. The beautiful building itself will become a vital part of the new College, allowing students to work in idyllic pastoral surroundings, with plenty of space for auditoriums, theatrical workshops, and dance studios away from the constant hustle and bustle of the city.
+
+Only the Senate can take advantage of this opportunity to reduce the cost of the College. If the motion specifically mentions allowing Diora University to take control of the College of the Liberated and put it to new use, it will abrogate the title of [[College_of_the_Liberated#Dean_of_the_Liberated|Dean of the Liberated]], and remove the [[great work]] but it will effectively contribute 20 wains of white granite and 20 wains of weirwood to the commission, and 120 crowns of labour. Rather than building a new campus outside the city walls the College of the Liberated will be converted to fill that role.
+
+## Tassato: Five Cities Military Academy
+
+Military Academy
+Commission Type: Folly
+Location: Tassato Maestra or Tassato Regario
+Cost: 30 wains of mithril, 30 wains of white granite, 180 crowns, and 6 months
+Effect: Increases the number of armies the League can support to 3
+Opportunity: This commission has required elements; if any are not all fulfilled the commission does nothing
+
+* Tassato lacks a single prestigious university but there is an opportunity to create an impressive Military Academy
+* Establishing a military academy in Tassato would allow the League to support a third army
+* The academy would 30 wains of white granite, 30 wains of mithril to establish, 180 crowns and take six months to complete
+Tassato is the site of two prestigious centres of learning - the [[Tassato#The_School_of_Epistemology|School of Epistemology]] and the recently established [[Tassato#Barossa_School_of_Imperial_Strategy|Barossa School of Imperial Strategy]]. The latter was founded only a couple of years ago, with the aid of the [[eternal]] [[Zakalwe]]. It was in the library here that the retired ''Lynada Prince de Tassato'' first met the newly arrived [[orc]] ''Batheka d'Apulian''. The Apulian had purchased apartments in Tassato Regario, having determined that he had no interest in being on the front line of another war between the Grendel and the Empire. It turned out he was not the only one – perhaps a dozen former Grendel have moved themselves and their families to Tassato since the Summer Solstice. 
+
+The two old soldiers discovered they had faced each other in open battle on the plains of [[Spiral]], and they spent several days arguing, debating, and discussing the differences between [[Grendel]] and League military theories and practices. Batheka called on his colleagues to support his arguments, and Lynada did the same, and after a week or so their group expanded to include many of the students and lecturers.
+
+Taking over one of the lecture halls at the School of Imperial Strategy, this impromptu “salon of war” engaged in spirited debates and seminars partly historical, and partly more recent. The staff asked them to leave, but they have cheerfully refused to go – and the students are very keen to hear about their first-hand experience.
+
+As the Autumn Equinox approaches, the veterans reached a conclusion. With the addition of the wealth provided by Apulian – by Spiral – and the combined expertise of the human and orc veterans, the seed of a third League army could be planted. 
+
+The Barossa School of Imperial Strategy is excellent for theory and strategy, but they believe what is needed is ''practical'' application of those skills. A place to gather and train soldiers, to store weapons and armour... and to prepare a new army. The ''Five Cities Military Academy'' would provide the logistical support required to muster and support a new army. It would need to be built in Tassato, to take advantage of the School of Imperial Strategy and the more practical elements of the curriculum at the School of Epistemology. It would also take advantage of the Tassatan knack for diplomacy, compromise, and influence – bringing together soldiers from all ''five'' cities of the League. As well as serving as a place to train and muster soldiers, it would also serve as the heart of a new League logistical corps, dedicated to supporting all the League armies.
+
+The Academy would need 30 wains of white granite and 30 wains of mithril to establish, require 180 crowns in labour costs, and take six months to complete. Once it was finished, it would allow the League to support three armies, so long as they did not lose control of any of their existing five territories.
+
+Construction of the Academy, and the raising of the third army, could take place at the same time, but the new army could not be completed until the academy was completed. If something went wrong with the academy, then the new army would not be supported and could not be completed. If the Academy were lost, abrogated, or destroyed, then the League's ability to support three armies would likewise be lost, with the usual consequences.
+
+Batheka d'Apulian is keen to point out that the Five Cities Military Academy would also be able to incorporate the orcs' naval acumen. The third army could be an [[Imperial navy]] just as easily. “''How else,''” asks Batheka, only half joking, “''Is Dubhtraig to become the Sixth League City?''”
+Each nation in the Empire will raise armies as directed by the Senate. The Senate will appoint a general for each army, but only where the will of the nation in this matter is not clear
+### A Third Army
+* A general must be a national position but the Constitutional Court have confirmed that it would be constitutional to appoint a League general by public auction
+Without wishing to put the ox before the wagon, Lynada Prince de Tassato and Batheka d'Apulian have an intriguing proposal. Armies (or navies) are expensive, both to raise and to support. The Senate might not be minded to approve of mustering another army. So the veterans propose that whatever the nature of the third League army, the general be determined not by unanimous decision of the senators of the nation, as is traditional. but by [[Auction of the Seats|publc auction]], like the [[Master of the Imperial Mint]]. The [[Imperial Constitution]] is consulted, and a query sent to the Constitutional Court, who confirm that it is not unconstitutional to appoint a League general this way ''provided the will of the nation in this matter is clear''. Would this make the Senate more likely to support mustering the army? Would it encourage them to disburse the kinds of funds needed to purchase mithril (or weirwood, as Bahtka insists on reminding people)? Would the senators of the five cities  even be interested in allowing the third League army to be appointed in this fashion? It's an interesting consideration.
+
+Whatever else happens, it's likely the third League army, if it is raised, will be the first Imperial army ever to combine both orc and human troops and officers. This could conceivably present additional problems of discipline and organisation, but the Tassatans are perhaps the ideal people to find ways to overcome such challenges - or turn them into opportunities.
+
+## Holberg: The Sand Fisher Port
+* With the help of the League, the Sand Fishers have managed to complete their sawmills a year earlier than expected
+* They are eager to establish a port on the Semmerlak but they believe that a good quality road will be needed first
+Last season in Holberg, Lia Adelaar van Holberg  arranged [[385YE_Summer_Solstice_Synod_judgements#Judgement_92|a significant loan]] for the Sand Fishers. With that money they were able to purchase the last of the wains needed to complete work on their [[To_see_what_you_sell#Holberg|saw-mills]] in [[Holberg#Misericorde|Misericorde]] and [[Holberg#Utterlund|Utterlund]]. They had managed to acquire roughly half the materials and do half the work themselves already, but with the loan they are able to complete construction shortly before the Autumn Equinox. There are now large orc operated saw-mills in the forests of Holberg, and the first trees have been cut down and are being dried to make lumber.
+
+
+Lia Adelaar van Holberg also raised the [[statement of principle]] suggesting that the League and the Sand Fishers join forces to create a dock at Misericorde for mutual [[Pride]] and [[Prosperity]]. [[Underwater sunshine|Recent problems]] with the [[Varushkan_Monster#Sovereigns|sovereign]] [[Dho'uala]] notwithstanding, it turns out the orcs are very enthusiastic about the idea. The Sand Fishers don't have experience with the kind of ships that sail on open waters, but they are accustomed to working shallow waters in a myriad different ways. They are eager to discuss the proposal and look at the viability of the project, provided a way can be found to finance it.
+
+A meeting is arranged between a delegation of Sand Fishers and representatives of Holberg at the Misericorde covered market. The orcs, to the surprise of their counterparts, bring their ''accountant''. 
+
+A little less than two years ago, the Senate [[383YE_Winter_Solstice_Senate_sessions#Increase_upkeep_of_Holberg|funded additional classes]] at Holberg Univeristy to [[Across_the_Abyss#A_Seat_of_Learning|provide access to education]] to the Sand Fishers. ''Mautez Flat-toes'' is one of the first graduates, studying business law and accountancy. He's very enthused about the opportunity to put what he has learned into practice, and is advising his fellow orcs about a potential approach to the League.
+
+It is clear that the Sand Fishers have already put a surprisingly large amount of thought into this. They're quick to point out that Misericorde is really the only viable location for a port in Holberg - there simply aren't any really suitable locations along the banks of the Nameless River in Utterlund or [[Holberg#Ennerlund|Ennerlund]]. But the port could bring significant economic benefits to Holberg, which currently lacks a waterfront of any kind. Of course the Sand Fishers would benefit enormously from the trade as well, but that is only fair they argue, since the region of Misericorde belongs to the sept. Ergo any port built there...
+
+Lengthy negotiations follow. The Sand Fishers are not fools, they know a port would require a significant investment of white granite that they don't have, so they don't hide the fact that they would need the League and their allies to provide the bourse materials. Thus their proposals include a table of charges for ships docking at the waterfront with steep discounts for all vessels flying a League ensign for the first decade that the port is operational. The proposals seem fair, the Sand Fishers are keen to do well from the port, but it's clear they want to work together with the people of Holberg to ensure that the facilities will benefit everyone.
+
+### The Lakesedge Highway
+
+Lakesedge Highway
+Commission Type: Sinecure
+Location: Rebeshof, Holberg
+Cost: 30 wains of white granite and 54 crowns
+Effect: Creates Rebeshof Roadwarden
+Opportunity: This commission has required elements; if any are not all fulfilled the commission does nothing
+
+
+
+Rebeshof Roadwarden
+Type: National position
+Appointment: League Senators or Tally of the Votes
+Powers: Income 12 crowns, 10 True Vervain, 10 Imperial Roseweald each season
+Responsibilities: To maintain the road and keep it and the merchants using it safe, dealing with any threats
+Opportunity: This title has required elements; if any are not all fulfilled the title does not gain some or all of its powers
+
+Before that can happen however, there needs to be a traversible road between the city of Holberg and the shores of the Semmerlak. Otherwise merchants will find it impossible to move their wares to and from the port to the deep markets of Holberg. Flat-toes suggests that a road from the [[Watches_from_the_Wall#The_Gallery_and_the_Gate|Holmauer Gate]], through [[Holberg#Rebeshof|Rebeshof]] to the Sand Fisher settlement of ''Lakesedge'' in north-western Misericorde. 
+
+According to the civil service assessment the road would require 30 wains of white granite. It will need to pass through the marshes of Rebeshof which would [[Commission#Marshes|mean especially high labour costs]] but the Sand Fishers agree that they will provide half the labour for the work. As a result it would cost 54 crowns and take only three months to complete. Once finished, there will be a wide, stone highway, banked up above the marshes, connecting Holberg and the Sand Fisher town. 
+
+The Sand Fishers are happy for the League to appoint someone to be responsible for maintaining the road, making sure it is navigable, and dealing with any threats from the marshes (such as [[marshwalkers]] or bandits). This would mean an [[Imperial title]] – perhaps the ''Rebeshof Roadwarden'' – appointed by the League senators or perhaps by [[Tally of the Votes]]. In return for their responsibilities, the Rebeshof Roadwarden would be able to charge a reasonable toll for use of the road, paid in coin by Imperials and in herbs by Sand Fisher orcs. This would be a sinecure providing 12 Crowns, 10 True Vervain, and 10 Imperial Roseweald each season the road remained open.
+
+With an agreement in principle signed with the Sand Fishers, once work on the road is underway, then the civil service will go over their proposal for a port and provide the League with a full breakdown of what it might cost and how much Holberg could expect to benefit from the increase in trade that it would support.
+
+## Temeschwar : City by Night (Conjunction)
+* A free company has come out of the Vardstein Vale and are terrorising a small settlement in Vardstein Vale
+* The Sentinel Gate will open at 17:45 on Saturday to Polseg Woods, Vardstein Vale, Temeschwar
+* This skirmish is a [[Accessibility#Combat_Highly_Likely|combat highly likely]] encounter
+* The ''Custodian of the Assayer's Guild'' is responsible for dealing with the Company of the Torch
+Deep in the wilds of Temeschwar, in the woodlands of [[Temeschwar#Vardstein_Vale|Vardstein Vale]], the ''Company of the Torch'' are living up to their name. The Company has apparently spent the last week tormenting the secluded mining settlement of Polseg; rich from journeying into [[Delver_of_the_Depths#Lorenzo.27s_Deep_Pockets|Lorenzo's Deep Pockets]]. It was only due to luck that ''Vera di Temeschwar'', a member of the Assayer's Guild, chose to delay her visit by a fortnight which meant that she journeyed to the settlement and uncovered the actions of the Company. From the [[Call Winged Messenger|missive]] she sent her overseer it seems that the mercenary company rested at Polseg just ten days ago and that they were intent on journeying to the [[Battle_cries#Ravens_.28Conjunction.29|broken wilds]] to find out what happened to their former rivals; the Green Torch. The company that returned were changed, brutal, and demanded that the settlement turn over all that they had taken from sinkhole or else suffer. 
+
+The Company of the Torch is well known for its warriors. Given that this represents a threat to the Assayer's Guild, it is the responsibility of the [[Custodian of the Assayer's Guild]], Marcus Von Temeschwar, to deal with the Company of the Torch.
+
+## Further Reading
+* [[Half-time score]] - 385YE Summer Wind of Fortune detailing developments in the contest and the Sand Fishers' loan
+* [[To see what you sell]] - 385YE Spring Wind of Fortune about the Academy of the Sword, sword scholars, and bravos
+* [[The money goes round]] - 384YE Winter Wind of Fortune introducing Francesca di Matos' challenge
+* [[To see what you sell]] - 384YE Spring Wind of Fortune about the Sand Fishers

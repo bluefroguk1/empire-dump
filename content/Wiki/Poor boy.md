@@ -1,0 +1,83 @@
+---
+revision_id: 86051
+revision_date: 2022-01-28T12:57:03Z
+categories:
+- Winds of Fortune
+- 381YE Winter
+- Recent History
+aliases:
+- Poor_boy
+---
+
+
+## From the Depths
+Rico, his heart in his mouth, stared at the clam. A great green pearl was just visible peeking out from the folds of the clam's flesh. The biggest he had ever seen. The colour was awful, but even so it must be worth a pretty penny surely?
+
+He plucked the pearl from the bed and closed his hand round, feeling exultation rise. He felt so excited he imagined he could hear the sound of flamenco musicians performing.
+
+His eyes snapped open and he stared at the ugly pearl. He wasn't imagining it. He ''could'' hear music... and it was coming from the pearl.
+
+__TOC__
+Rico i Matra i Riqueza is a poor clam diver who works one of the small clam beds near Calvos Sound. Recently he has come into possession of an unusual pearl, a ugly glassy green affair that would normally be worth only a few rings as a curio.
+
+However the strange pearl is more than it appears. Anyone who holds it can hear the faint sound of music playing - clearly some minor magical effect that has somehow stuck to the pearl. That might make it worth as much as a crown perhaps.
+
+But Rico is a smart boy and he thought to have it checked by a magician. What makes this pearl really valuable is the potent magical energies contained within - the equivalent of thirty mana crystals! Unfortunately the pearl has a heavy Spring association so the mana can only be used for a Spring ritual, it must all be used at once - and it can be the only source of power for the ritual. Even with these limitations - the pearl is suddenly worth a lot more than its ugly appearance would imply!
+
+Rico is a brave lad and has heard that Anvil is the best place to get a good price for something like this. He is travelling here in the company of his parents hoping to sell the pearl. He has indicated that he intends to seek out the [[Grandmaster]] of the [[Golden Pyramid]] early on Saturday evening to see if they can help him get as much as he can for it.
+## From the Heights
+Sitting in the Crimson Dog after a hard days graft, repeating the same old conversations was how Edmund and Rosen had always imagined they would get old. Now, nearing forty, they were increasingly put off by the changes to their routine. Like the new pies that Regan had gotten from Hay, or the Navarri in the corner who wouldn't shut up about books, or more specifically a single book.
+
+"If it's bothering you so much go and ask them to keep it down," Rosen suggested "or you could ask Regan to move them on?" Edmund looked up, noting the slightest smirk leaving his husband's face. They both knew that neither of them could ask Regan to be impolite to a guest in her tavern.
+
+"It's just, why are they asking for pages about stars then, when we ask for details, they get all mysterious. It's just not right." There was the slightest hint of a whine to Edmund's voice, and half his pie left untouched.
+
+Rosen stood up, and picked up Edmund's satchel "Let's head down to the creek, we can look at all the stars we need there."
+The Navarri vate Meri Sixstep has been travelling around much of the southern territories of the Empire in the last three months. They have been searching for ''Pages of Constellations'', but have had little luck so far. When questioned what exactly it is they are after they are vague, saying only "The Bound King has most, he wants the rest."
+
+They have made it clear they are intent on attending Anvil to search for the remaining pages of ''The Book of the Stars''.
+
+OOC NOTE
+There are several pages of the Book of Stars in play at present. If your character has acquired one of these pages in play and now owns it can you email into [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] as soon as possible before the event. If possible, please include the ID number of the page or pages you possess.
+
+## From the Sea
+"Look at ''that''" said Alejandro pointing excitedly at the rocks.
+
+"What? That? It's a ''wreck''. You're crazy." It was bitter cold, and the wind coming in off the sea was soaking her to the bone. She loved her husband, but sometimes she could just slap him. She wished she were back in her warm cabin.
+
+"No, no, no.... that is not a wreck... that is.... an opportunity!"
+
+"It's holed and half sunk, it's on its side, on the rocks, and full of sea water. The only opportunity here is for me to get good grounds for a divorce."
+
+"There's a peak tide tomorrow - it'll come free then. We can drag it up on the beach if we can get it free and repair it there!" His face was beaming, grinning from ear to ear. It was infectious.
+
+"Crazy!" She shook her head. It was crazy. Absolutely crazy. It couldn't possibly work and nobody but an idiot would attempt it. She looked at her merrow husband - beautiful, crazy, brilliant Allejandro. "I suppose I'd better get some warm clothes on then."
+
+ 
+Across the nation the Freeborn have mourned the [[381YE_Winter_Solstice_winds_of_war#To_Fool_The_Crowd|news of the destruction of the Atalaya Shipyards and the Freeborn Storm]]. The pride of the nation has been struck a heavy blow by the punitive attack and many Freeborn have started looking to the seas, worrying that they would see sails on the horizon, as the Grendel come for them.
+
+So when a sail was spied approaching the mighty city of Sirroc it caused great alarm. The ship was large and while it could carry a hefty cargo it was obviously built for war, not trade. Alarms sounded across the port as crews rushed to their ballista as the ominous ship approached until suddenly a cry of recognition split the air. The ship sailed under the colours of the Freeborn Storm. The shouts of alarm soon became shouts of celebration as other boats began to come to her to help her into port.
+
+The hull of the ship showed the wounds she had received and the damage was extensive with many temporary repairs being evident on the ship itself. To the eyes of the many experienced shipwrights who lined the docks something else was clear. This was not a ship that had barely survived the fighting... this was a ship that had died and had been brought back to life.
+
+This history was quickly confirmed as the crew made their way ashore. The Captain, a merrow of strong lineage claiming to be a member of "The House of the Sixth Wind" recounted the tale of coming across the abandoned wreck of the ship as they travelled to Sirroc to trade. The ship looked to have fled Atalaya, risking the Grendel blockade and slipping into the night as the Grendel fleets there concentrated on the destruction of the shipyards. Tragically it did not make it, and no crew have yet been found.
+
+The merrow captain takes great paints to point out "Only a merrow crew" could possibly have repaired the vessel before the Grendel found her.  With the ship secured in the docks at Sirroc, the captain intends to come to Anvil to sell this prize. Before she leaves she gathers the sutannir from the shrines that dot the city and hold a great party where she lays a new name on the vessel. Cheers ring out as she speaks its name... "The Storm Reborn"
+
+The captain of the Storm Reborn will be arriving at Anvil around four hours after midday on Saturday. He intends to seek out the Freeborn egregores to see if he can get help with a public auction of the vessel. Although heavily repaired, the ship is now seaworthy. It is no longer usable as a vessel of war - but its size makes it the equivalent of a level four fleet. And of course its heritage makes it even more valuable!
+
+## From the Stars
+The Jarmish merchant's fingers were smooth and clammy against his skin as she carefully fastened the delicate moonsilver bracelet around his wrist. She spoke a few quick words, and grazed his head with her fingertips. For a moment the bracelet felt very heavy, and unaccountably cold, and then it was just a piece of jewelry.
+
+he lifted his hand to examine it. A chain of moonsilver, hung with six deep red orbs of ambergelt. Warmth spread up his arm, as if he had submerged it in a hot bath. It was very pleasant.
+
+"It suits you, " said the merchant admiringly. She rested her hand on his shoulder for a moment. "Perhaps you would like to try it out?"
+
+Gerard nodded. He couldn't take his eyes of the gems. Where they rested against his skin they looked like a line of crimson blood drops. The merchant withdrew a knife and drew it across the palm of her hand, wincing slightly as she did so. She held it out toward her client. The League magician felt a pang of sympathy, and concern, and quickly grasped her hand in both of his. He began to invoke the Witch-as-Scorrero to restore bodily health.
+
+He caught his breath slightly as a wave of power passed through him from the bracelet. A few moments later, the woman's wound was entirely healed. Gerard stroked the bracelet with a broad smile on his face.
+
+"Perfect," he said. "I will definitely take this, and three more like it."
+Magician-Prince Matvei Kobarid, whose Principality lies south-west of Vezak, has been in contact with the Jarmish merchants in [[Tassato]], arranging for several of his nephews and nieces to visit the Empire. While a few more eastern tourists would hardly be noteworthy, shortly after arriving the visitors from Kobarid have explained that they are here on official business. Kobarid is well-known among the Principalities for its fine jewelry - both mundane and magical. With the blessing of the Southern Alliance, Matvei's nephews and nieces are exploring the possibility of selling some of their finest enchanted jewelry to Imperial magicians.
+
+In particular, the Kobarid would like to see if there is any profit in selling something they refer to as ''glazamy neba'' - "star jewels" - talismans keyed to the [[astronomancy|constellations]] used by Jarmish magicians to allow them to cast incantations more often and more efficiently. These pieces of magic jewelry are not cheap - even in Jarm - and the skills needed to make them are by no means widespread. The Kobarid jealously guard their techniques as the wellspring of their family prosperity. The Kobarid envoys have expressed an interest in visiting Anvil during the Winter Solstice with a small case of samples - they are hoping to auction their jewels to "get a feel for the market." Arriving around three hours after noon on Saturday, they are hoping that Cesare Sanguineo Rezia Di Tassato - a good friend to the people of Jarm and a man of excellent taste - will be able to assist them in securing a location to hold the auction, and provide any security measures he deems necessary.

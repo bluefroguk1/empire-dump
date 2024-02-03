@@ -1,0 +1,270 @@
+---
+revision_id: 106327
+revision_date: 2023-12-08T14:25:21Z
+categories:
+- Winds of Fortune
+- 383YE Winter
+- Recent History
+- Trade Winds
+aliases:
+- All_at_sea
+---
+
+
+"My name is Creag," said the guide, his Imperial impeccable despite his strong accent. "I will be your guide to the tomb of the Empress that many know as ''the unwise''. If you'd like to follow me, I will lead you now on a wonderful night-time journey through the tragic wreckage of one woman's hubris, which ended with her mortal remains transported to the frozen north and her beloved husband nought more than a plaything for the Grendel orcs. This tomb - ruined by the orcs of the Broken Shore during their historic invasion of Sarvos - stands as mute testimony to what many Imperial historians consider the bittersweet failures of her reign."
+
+The guide paused for a moment, making eye contact with several members of the group, raised his torch, and spun dramatically to walk through the opening to the broken tomb... before pausing at the threshold. He turned quickly back, earnestly addressing the little gathering as if as an afterthought, but clearly part of a well-rehearsed script.
+
+"Please do not touch any of the relics you see on display here. Many of them are very fragile, recovered by daring historians from the drowned ruins of the Alvetti estate. Others were purchased at ruinous expense from the sinister orcs who stole them during their short-lived domination of the formerly Jewelled City. You might ask yourself: did the destruction of this mighty tomb foreshadow the devastating mirror-cracking curse that would fall on Sarvos a mere three years later? Probably not. But we Sarcophan know it is best not to take any chances with potentially cursed relics. And I am sure you will agree with us."
+
+He fell silent for a few turgid moments, careful to make eye contact with each of his guests in turn. Then he turned back to the ruins, and beckoned them to follow him.
+
+"This way, please. Be careful of the slippery floor, and be sure to wrap yourself in your cloaks. The air is very cold here, but that will just make you appreciate the complimentary traditional League spiced drinks when we reach the lodge at the end of the tour." 
+## Overview
+
+The Empire is one of six great powers who wield influence over the known world. Two of those other nations, the [[Commonwealth]] and the [[Sumaah Republic]] are allied to the Empire via the [[Ratify Liberty Pact|Liberty Pact]]. Two others - the [[Asavean Archipelago]] and the [[Principalities of Jarm]] are slaving nations, targeted with [[Tariffs#Sanctions|sanctions]] by the Pact members. The last nation, the [[Sarcophan Delves]], neither uses slaves nor upholds the Liberty Pact, cherishing the freedom to trade where it wills.
+
+There are countless smaller nations in the Known World, but those that neighbour the Empire are of particular importance to Imperial citizens. [[Faraden]], [[Axos]], the [[Iron Confederacy]], [[Otkodov]], and the [[Bay_of_Catazar#The_Broken_Shore_and_Attar|Broken Shore]] are all home to nations whose proximity grants them an unexpected level of influence over the much larger Empire they surround. 
+
+Each nation has their own agenda, and the waters of international diplomacy can be choppy indeed.
+## Asavea
+* The Imperial Senate has applied [[Tariffs#Sanctions|sanctions]] to Asavean traders dealing with the Empire.
+* The Nemorian Plenum has responded with sanctions of its own on Imperial merchants. Further details of their impact can be found [[The_price_of_liberty#The_Asavean_Archipelago|here]]
+* The [[Ambassador to Asavea]] is ''Chainbreaker Pakt'' of the [[Imperial Orcs]]
+Relations with the Asavean Assembly remain barely cordial. Pointing to the role of Imperial citizens in [[The_divide_between#Participation:_Trading|supporting]] the anarchist satrapies during their short lived uprising, and the insulting way they treated the work of Almodin Oktístis, the anti-Imperial faction in the Plenum is now in the ascendant. Shortly before the Winter Solstice, news reaches Imperial shores that Nemoria is to host a gathering of nations not included in the [[Ratify Liberty Pact|Liberty Pact]] during the coming Solstice. Invitations have apparently been dispatched to the [[Principalities of Jarm]] and the [[Sarcophan Delves]], but rumour suggests the [[Grendel]] and possibly even the [[Iron Confederacy]] are also expecting to send a delegation. The Empire, [[Sumaah Republic]], and [[Commonwealth]] have very pointedly ''not'' been invited to this meeting. 
+
+The anti-Imperial faction in the Plenum, lead by the Tarquinius, Coriolani, and Ilotari families, apparently has the backing of almost all the major temples. While the faction has been in the minority in the past few years, it is slowly gathering momentum. Representatives of the Heraclien and Ragnabe families - who support the [[Overseer_of_the_Cavabianca_Dock#Cavabianca_Dock|Cavabiance Docks]] in [[Sarvos]] - are increasingly nervous that they will be forced to cease trading with the Empire, and sell their stocks of [[white granite]] to other nations.
+### The Temples
+* The Temple of the Seven Virtues in Nemoria remains ruined
+* The Temple of Balo and the Black Bull remains in Grendel hands
+
+The Temple of the Seven Virtues in Nemoria remains ruined - blackened by fire and cracked by the vandal's hammer. Most of the Imperial priests who supported the Temple have now returned to the Empire. Imperial citizens visiting on trade or missionary work speak of being harassed in the streets - and of discontented believers in the Asavean pantheon preaching in front of the Temple. The Plenum has posted guards outside the Temple for the protection of the priests and those who still wish to use the structure to worship. They have also dispatched a message to the Empire - they regret the damage caused to the Temple but there is no support for using Asavean funds to refurbish it. An offer has been made to purchase the land the Temple stands on, and the Plenum is inclined to accept it. 
+
+Elsewhere in the city, even amongst the upper echelons of the Plenum, there is open debate about the nature of the Way - and its "''dangerous, mind-corrupting''" nature. Salacious stories of wayward children of minor families repeating the 'grotesque' debasement of sacred icons that was seen in Feroz are muttered in the forae and marketplaces - further adding to the atmosphere of suspicion surrounding foreigners from the Empire. Not all voices preach distrust however: A scion of a middling Plenum family, the house of Traposdo, has stoked the fires by offering fiery rhetoric ''against'' the demonization of the Way - claiming that there is a "''nobility inherent in the Virtues''". The political machinations of Asavean society have not yet decided if this argument is scandalous, embarrassing or amusing enough for further consideration.
+
+For their part, the Wisdom Assembly at least seems to believe that the best course of action would be destroy both the Temple in Asavea, and the Temple of the Black Bull in Feroz (currently under Grendel control). In truth, the situation is moot - the Empire is not really in a position to tear down either structure.
+Trajadoz (''Tra-ha-doss'')Trajadoz was founded roughly three hundred years ago by the Trajaduz family of traders who were intent on fostering trade between the mines of newly conquered [[Kahraman]] and the wealth of [[Sarvos]]. The most recent influx of townsfolk was during the invasion of [[Segura]] in 363YE. Since the reclamation of Segura in 378YE it has stood empty, save for a few bandits, as the Freeborn returned to their homes.
+
+
+### The Trajadoz Exiles
+* Two factions of Asavean exiles currently reside in Trajadoz, in the Brass Coast
+* The ''Marracossan'' exiles represent former nobles and their households from the defeated provinces of Marracossa
+* The "Freefolk" exiles are predominantly former slaves and servants who practice a form of The Way
+Following the ill-starred rebellion in Asavea, Imperial fleets brought a number of rebels to the Empire. Most of them have settled in the town of Trajadoz, in Madruga. They are broadly divided into two factions. The dominant faction are the "''Marracossans''" (never Nemorians, and rarely accepting Asavean). A disparate group; made up of priests and soldiers, crafters and traders, they have already [[Large_but_far_away#Evacuation|lodged a request]] with the Imperial Senate to be allowed to build a small temple to the trinity of gods they revere. One of the Marracossans in exile - the ''Legate Glaucia Herminia'' - is bringing a small delegation to Anvil to negotiate the future for their people. The Legate reportedly seeks to establish a formal relationship with the Empire and arrange for "''mutually beneficial trade''" and formal recognition of the Marracossan settlement at Trajadoz. They are anticipated to reach Anvil at some time on Saturday evening.
+
+Imperial citizens who participated in the Asavean Uprising might remember the name. The Herminia were staunch supporters of the rebellion, and Glaucia and their household fought during several engagements involving Imperial troops. A taciturn and brooding individual, they nevertheless led their troops effectively, if a little callously.
+
+The other faction are the "''Freefolk''" - former slaves and servants who consider themselves adherents of the Way. Following their attendance at the Autumn Equinox, these pilgrims have travelled widely through the Empire. Numbering a hundred or so they travel in small bands and ply the pilgrim paths. They proclaim their faith in the Way and have been notable visitors to several sites of spiritual importance. They even caused a mild nuisance at [[Necropolis#The Necropolis|Necropolis]], where their pilgrimage lasted several weeks and involved their near-constant presence at the Tomb of [[Empress Richilde]]. They spent what wealth they have to adorn the great tomb with paper flowers and richly coloured ribbons. Elsewhere in the nations these oddly-dressed outsiders have been found working odd-jobs and day labour for a few rings, which is invariably tithed to local priests and shrines.  As the Solstice approaches, these travelling bands have begun to veer back to Anvil, joining together on the road and forming slow-moving caravans of the pious decked in improvised symbols of Pride: blank banners formed of tree limbs and rags, simple tabards emblazoned with the sun and, setting them apart from the Imperial faithful they sometimes travel alongside, extensive body paint featuring various symbols of the Virtues. Those Imperial citizens that have interacted with these travelers speak of a carnival atmosphere, despite their obvious impoverishment and their openness about hoping to 'witness the Throne' and participate with the wider Way.
+
+Not all interactions have been smooth: the former slaves have a very different idea of what is appropriate to pilgrims and there has been some concern that their ideas may be heretical - especially their relationship to the Paragons. Lacking trained priests, it may be that their beliefs are incompatible with the orthodox Way.  Given that these Freefolk have been invited to [[Anvil]] by the troubadours - to meet with the [[Lady of the Proffered Hand]] and discuss the possibility of moving to Dawn - there should be an opportunity to further delve into what exactly it is they believe. They are also expected to arrive at Anvil at some point on Saturday evening. You can learn more about this situation in [[Between_wind_and_water#Embrace_our_history|Between wind and water]] wind of fortune.
+
+### Trade with Nemoria
+* Imperial fleets trading with Nemoria receive a -2 rank penalty to their production.
+The sanctions imposed by both the Empire and the Asavean government mean that any fleet captain trading with Nemoria itself suffers a significant loss of profit. That loss could have been offset by the presence of the two temples - one in Feroz and one in Nemoria. Unfortunately the Temple in Nemoria is still heavily damaged following the attack by a mob. As such, confidence among Asavean merchants trading with the Empire has been badly shaken. If the Temple in Nemoria is repaired by the Senate then the benefits of having an obvious symbol of Asavean and Imperial cooperation would resume.
+
+The Temple in Feroz still stands, and the Grendel continue to permit Asavean merchants to dock there, however it is made clear to the merchants that it is due to the orders of the Salt Lords that this is happening. The goodwill from the Temple previously afforded to Imperial fleet owners is now directed towards the [[Grendel]].
+## Axos
+* The Citadels of Axos are signatories to the Liberty pact; they have placed [[Tariffs#Sanctions|sanctions]] on trade with slaving nations
+* The current [[Ambassador to Axos]] is ''Tarquinius Ankarien'' of [[Urizen]]
+Fellow signatories to the Liberty Pact, the Axou are one of the Empire's closest neighbours. Their citadels are steeped in old magic and ''necromantica'', and they are a proud and often contentious people. Their relationship with the Empire is increasingly a little fractious - they seem to want to strengthen ties but at the same time are very keen to maintain their own identity - to be seen as equals to the other Liberty Pact signatories even though they are not even slightly on the same scale as the Empire, Sumaah, or the Commonwealth.
+
+You can read about opportunities related to the miserable situation of the free orc slaves in Axos in the [[Written in salt]] wind of fortune.
+### Treaties
+* A treaty was ratified with Axos during the Autumn Equinox
+During the Autumn Equinox the [[Imperial Senate]] [[Ratify treaty with the Axos Autumn 383YE|ratified]] a treaty with [[Axos]]. Part of the document dealt with shared intelligence assets - including a copy of the Empire's map of the [[Tsark|Mountains of the Moon]]. The Axou are believed to have sent a number of their scouts and ''Toxatai'' to work alongside Imperial forces in support of the [[spy network]] recently completed in [[The Mallum#Sarangrave|Sarangrave]]. As full participants, they will receive a copy of any information that has been discovered, including a usable map assuming sufficient spies were active in the marshes.
+
+The treaty invited a number of Axou students to apply for places at the great centres of learning, as proposed [[A mountain of vipers#A_Scholarly_Overture|last season]]. ''Mistress Isephenia'' - a well respected professor in the faculty of natural philosophy at the University of Maykop - has made it clear that the group of students she represents are grateful for this invitation. However, she was a little disappointed not to see mention of the remote campus she had proposed - if the Empire wishes to take her up on the [[A_mountain_of_vipers#A_Scholarly_Overture|offer of ilium]], that will now require a separate [[commission]].
+
+The senator of [[Redoubt]] raised a motion to construct the [[Construct Elosian Docks|Elosian docks]] but no progress has thus far been made on the project.  
+
+Finally there seems to have been an error in communication between the Axou and the Imperial civil service. The Axou offered to assist with setting up a [[Construct_Trade_Enclave_in_Axos|trade enclave]] in Kantor to allow trading with the people of Skoura. Evidently there was something missed and the civil service will be providing an administrative motion at the first senate session of the upcoming summit to clarify if the senate wishes to go ahead with the construction.
+
+
+### The Liao Trade
+* The Assembly of the Nine made a clear announcement that there was no bar to virtuous merchants trading liao to the Axou
+During the Autumn Equinox, the matter of whether it was virtuous to [[A mountain of vipers#The Liao Trade|trade liao to the Axou]] was discussed. The Assembly of Nine made a [[statement of principle]] that it was neither virtuous nor unvirtuous to sell the substance to merchants from Axos - it is as prosperous an endeavour as any other form of trade. As a consequence, the sale of liao provided to [[congregation|congregations]] will now net the person doing so a full Crown for each dose, rather than the 18 rings it had provided previously. At the same time, there has been an increase in the number of ships visiting Imperial ports. The improved trade and additional tariffs see an additional 10 Thrones each season added to the Imperial Treasury.
+### Matter of the Black Sails
+* There has been another incident at the Black Sails Quay
+* Axou merchants are requesting a change to the way the Quaymaster of Black Sails Quay is appointed
+* The current Quaymaster is Able the Taller
+The increase in trade has raised a bone of contention regarding the [[Quaymaster_of_the_Black_Sails#Black_Sails_Quay|Black Sails Quay]] in [[Necropolis]] which allows Axou merchants to purchase Liao from imperial merchants. A petition by a number of Axou traders and ship captains (primarily from the Chambers of Issyk and the Halls of Maykop) has been sent to the Imperial Senate requesting that they change the method of election for the [[Quaymaster of the Black Sails]]. Rather than being appointed by the priests of the Imperial Synod - who many of these Axou merchants see as agents of the hated Creator, whether they realise it or not - they would very much prefer it be appointed by the merchants of the Empire. Could it not be appointed by the [[Auction of the Seats]] - with the added benefit this would put more money in the coffers of the Imperial Senate? The [[Scrutiny#Constitutional_Court|Constitutional Court]] has expressed the opinion that there is no reason the Senate could not change the appointment method if they wished - the ministry deals with liao as a trade good, rather than using it in pursuit of the Synod's responsibilities.
+
+The Axou argue that while the Quaymaster oversees deals in [[liao]], it is not an especially religious position. It is much more similar, they claim, to an apothecary role than a religious one. The petition is apparently quite civil, but there is the possibility that the situation might escalate depending on how the Senate, or the Imperial Synod, respond.  The [[Ambassador to Axos]] will no doubt know more.
+
+### Trade with Axos
+* Imperial fleets can trade with the Towers of Kantor
+* Trade with the newly-opened port at the Chambers of Issyk is still subject to a -2 rank penalty
+Imperial [[fleet]] captains can trade freely with the Towers of Kantor. The recent disruption there in the wake of the release of orc slaves appears to have died down. It's also possible to trade with the Chambers of Issyk, but the [[A_mountain_of_vipers#Trading_with_Issyk|situation with the docks]] there remains dire, restricting opportunities for Imperial traders. As part of the treaty the Senate has given the Ambassador to Axos authority to purchase land in [[A_mountain_of_vipers#The_Quayside_of_Issyk|Issyk]] to construct a quay there for use by Imperial traders, but there does not yet seem to have been any progress with the construction by the start of the Winter Solstice.
+
+## Commonwealth
+* The Commonwealth are signatories to the Liberty pact; they have placed [[Tariffs#Sanctions|sanctions]] on trade with slaving nations
+* The magicians of the Commonwealth have access to [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]]
+* The current [[Ambassador to the Commonwealth]] is ''Lucia Sanguineo di Tassato'' of [[The League|the League]]
+Relations with the [[Commonwealth]] remain cordial - perhaps even friendly. As fellow signatories of the Liberty Pact, the Commonwealth has confirmed it will be sending delegates to the Empire during the Spring Equinox to attend a meeting of the Pact members. They've also informed the Empire of their intention to intervene directly in the Axos situation and [[Written_in_salt#The_Commonwealth_Complication|offer a new home to the orcs]] whether the Axou like it or not.
+
+The situation in [[Large_but_far_away#Lantir|Lantir]] - where Commonwealth diplomats are engaged in a political struggle with Jarmish agents - apparently continues to deteriorate. While troops have not crossed the border from either of the larger nations, it is surely only a matter of time.
+### Die Zauberer
+* Commonwealth magicians are invited to study Imperial lore
+* A contingent of ''zauberer'' intends to attend the Saturday conclave as observers
+The [[Imperial Conclave]] supported a [[Declaration]] of [[Concord]] earlier in the year, raised by ''Juha, the Cave Spider'', that [[383YE_Summer_Solstice_Conclave_sessions#Concord_.E2.80.93_Invite_mages_of_the_Commonwealth|invites]] mages from the Commonwealth to learn from [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial Lore]]. A number of wealthy ''zauberer'' - Commonwealth ritual magicians - have already taken advantage of the offer. They are mostly studying at the [[Dean_of_the_Lyceum#The_Lyceum|Lyceum]] - it is after all quite conveniently close to the [[Madruga#The_Commonwealth_Embassy|Commonwealth embassy]] in [[Madruga#Siroc|Siroc]] -  but a professor and a dozen students braved the long cold trek north to the [[Master_of_Ice_and_Darkness#The_Icy_Crag_of_the_Eternal_Sun|Icy Crag of the Eternal Sun]] in [[Miekarova]] to engage in several long nights of enthusiastic discussion of [[Summer magic|Summer lore]].
+
+Several of the visiting zauberer have expressed an intention to attend the Imperial Conclave on the second night of the summit. They hope to speak to the [[Grandmaster|grandmasters]] of the [[Conclave order|orders]] of the [[Celestial Arch]] and the [[Rod and Shield]] before the session begins. They will be arriving in Anvil at around six and will journey to the Hall of Worlds to discuss matters concerning the [[Large_but_far_away#Commonwealth|Lyceum Schloss]] with the grandmasters and any [[Magical skills#magician|magicians]] interested in international politics.
+
+### Trade with the Commonwealth
+* Imperial captains visiting [[Commonwealth_ports#Leerdam_.28Eastern_Commonwealth.29|Leerdam]] receive an additional dram of [[Bladeroot]]
+* Imperial captains visiting [[Commonwealth_ports#Volkavaar_.28Western_Commonwealth.29|Volkavaar]] receive an additional vial of [[Artisan's Oil]]
+Imperial fleet captains remain welcome in Commonwealth ports. Any Imperial fleet visiting Leerdam during the coming season will receive an additional dram of [[Bladeroot]] as a sign of this enthusiasm. Likewise, captains visiting Volkavaar will receive an additional vial of Artisan's Oil. It is not certain how long this enthusiasm will last, but it is anticipated to persist at least until the start of the Spring Equinox 384YE.
+
+There is also talk of perhaps opening further ports to Imperial captains - not least as a way of showing their support for their fellow Liberty Pact members.
+
+## Faraden
+* The Empire has instituted [[Tariffs#Sanctions|sanctions]] against the [[Faraden]]; the Faraden have not yet applied their own sanctions. Further details can be found [[The_price_of_liberty#Faraden|here]]
+* The bounty placed on the lives of Livia of the Spire of Celestial Cascade, Lord Colwynn de Rondell and Astrid Fjellrevening Rezia di Tassato by Faraden families remains 
+* The Faraden embassy remains in the hands of the Jotun
+* The current [[Ambassador to Faraden]] is ''Erasmo di Tassato'' of [[the League]]
+Relations between the Empire and [[Faraden]] remain distant, but might improve. The [[Voice of Liberty]] has called on the signatories of the Liberty Pact to meet at Anvil at the upcoming Spring Equinox, and the Faraden have been invited to this meeting. They are arranging for a delegate to represent them.
+
+Part of the reason relations remain chilly, however, is that there is still [[Small_but_nearby#An_Unpleasant_Altercation|a price on the heads]] of three Imperial citizens. Some support for the Empire has come from an unlikely source, with two cities in the Autumn realm offering an opportunity to try and resolve the problem. You can learn more about that in the [[Impossible_landscapes#Ephisis|Impossible Landscapes]] wind of fortune.
+
+There are also Faraden merchants planning to visit Anvil - representatives of at least one merchant family dealing in herbal concoctions. You can learn more about this in [[The_hammer_and_the_anvil_song#A_Concoctions_Market|A concoctions market]].
+
+### Smugglers
+* Suspicion of Faraden and Imperial smuggling across the western border has been confirmed
+* The Imperial Senate could use an appraisal or ask the magistrates to investigate (costing the Senate 25 Thrones)
+* Either Senate option will create opportunities at the Spring Equinox
+* The Freeborn Assembly could support the the smugglers or support an opportunity for military units to try to stop the smugglers
+
+For some time there has been suspicion that there was substance to [[Through_my_sails#Smuggling|reports]] of [[The_risk-all_point#Smuggling|smuggling]] taking place across the western borders of [[the Brass Coast]].
+
+During the Autumn Equinox, the Freeborn Assembly upheld with a [[greater majority]] a [[statement of principle]] calling on virtuous Freeborn to identify anyone who is seeking to avoid paying Imperial tariffs on trade with the Faraden. Several individuals have since come forward with evidence of not one but several unrelated smuggling rings operating in [[Kahraman]] and [[Segura]] - the latter in spite of the war with the [[Jotun]]. Goods pass into the Lasambrain Hills territory of Reinos, west of the Brass Coast. What is perhaps a little unexpected is the enthusiasm with which the Freeborn end of the route appears to be engaging with their Faraden counterparts. Apparently there are a number of [[dhomiro]] who believe that the Senate should not be imposing tariffs on any trade at all - that it is tantamount to theft - and that it is both [[Prosperity|Prosperous]] and [[Courage|Courageous]] to circumvent those tariffs. There is also a little evidence that these Freeborn families are not alone in supporting smuggling - and that one of the smuggling routes meanders through Kahraman into [[the Marches]].
+
+There are two obvious ways to respond to this news. Assuming the Senate does not with to remove the tariffs from the Faraden, an Imperial Senator could raise an [[appraisal]] to determine ways of securing Imperial borders against smuggling. Alternatively, an Imperial Senator could raise a senate motion asking the Magistrates to focus their efforts on shutting down smuggling across the borders of the Brass Coast. Either of these will create opportunities during the Spring Equinox to deal with the problem. The appraisal will provide more options - depending on which of the three civil servants is dispatched to investigate. Sending the magistrates in will cost the Imperial Treasury 25 Thrones and will only create opportunities that involve the magistrates and the militia.
+
+The Imperial Synod could also get involved. Two mandates could be enacted, one opposing the smuggling rings and one offering explicit support for their anti-Senate tariff position.
+{{Mandate|mandate=Whatever we think about taxation, and the virtue of tariffs, the fact remains that much of the Faraden wealth is secured through the use of slave labour. We are the Freeborn and we cannot support slavery, under any circumstances. We send {named priest} with 50 liao to urge the Vigilant, the Loyal, and the Courageous to do whatever it takes to put a stop to this unvirtuous trade.|assembly=Freeborn Assembly}}
+If this mandate is upheld, for the next year it will be possible for Freeborn [[military unit|military units]] to undertake a special [[military unit#Independent Action|Independant action]] ''Break Faraden smuggling rings''. Other nations will be able to take the action, but will do so at -2 penalty to their effective rank. Instead of the usual random production, a standard military unit taking this action will receive 5 random [[Materials#Metals|ingots]] and 90 rings, with an upgraded or enchanted military unit receiving commensurately more. How successful the action is at breaking the smuggling ring will depend on how much force is applied to it over the coming year. As long as at least 1,000 effective force each season is applied, then during the Winter Solstice 384YE there will be an opportunity to permanently shut down the smuggling operation.
+
+However, this mandate will also cause the Freeborn to question the worth of ''any'' trade with the Faraden. As a consequence the [[Overseer of the Gloaming Road]] will lose access to the highest rank of their [[ministry]] for as long as the Faraden remain subject to Imperial tariffs. In the event that the Lasambrians are driven out of Anduz, and the Faraden Embassy recovered by the Empire, the Ambassador would likewise lose access to the highest rank of their ministry.
+{{Mandate|mandate=Whatever we think about slavery, it is unvirtuous and unprosperous for the Senate to apply tariffs to trade. We send {named priest} with 50 liao to urge the Prosperous and the Courageous to do what their virtue tells them to do when trading with Faraden.|assembly=Freeborn Assembly}}
+If this mandate is upheld, the Freeborn assembly will explicitly declare its opposition to Imperial tariffs, even on slaving nations. More smuggling rings will spring up, and will operate with greater confidence. As a consequence, every [[business]] in Segura and Kahraman will produce an additional 2 ingots of random metals, until the start of the Winter Solstice 384YE or until tariffs on Faraden trade are removed. There will also be at least one opportunity for the Freeborn to improve relations with the Faraden by supporting illegal trade between the two nations.
+
+These two mandates are, of course, in competition.
+
+
+
+## Great Forest Orcs
+* The Great Forest Orcs remain allies of the Navarr
+* A conjunction of the Sentinel Gate will allow a small delegation to reach the Lower Tarn Valley to meet with the leaders of the orcs
+* While in theory the Imperial Consul should deal with the Great Forest Orcs, they have made it clear they do not respect that authority
+* The Great Forest Orcs prefer dealing with the Navarr senators
+The [[Great Forest Orcs]] continue to live quietly in the [[Therunin#Lower Tarn Valley|Lower Tarn Valley]] alongside their [[briar]] allies. During the [[383YE_Winter_Solstice_winds_of_war#Fire_and_Hemlock|recent conflict]] in [[Therunin]], they fought bravely to protect their settlements, and the steadings of their [[Navarr]] neighbours, from the malice of the Heirs of Terunael. Thanks to the courage of Imperial heroes, their homes survived relatively unscathed, and the construction of the [[Therunin#Holt of the Oak|Holt of the Oak]] was completed without further delays. The presence of the [[weirwood]] [[fortification]] in the Valley means that should any future attempts come to rouse the vallorn here, they will meet even stiffer resistance.
+
+Conjunctions
+WhereWhenSizeTime
+The Chief's Contemplation Glade, Lower Tarn Valley, Therunin14:00 Sunday6 people45 minutes
+Accessibility; Combat unlikely or contained
+
+### A Meeting with the Elders
+* A conjunction of the Sentinel Gate creates an opportunity to meet with Chief Vallack and some of the Great Forest Orcs elders
+There is one event of note as the Winter Solstice approaches. Apparently, during the Autumn Equinox, one of the prestigious leaders of the Great Forest Orcs named ''Elder Kremer'' met with certain Imperial citizens and was convinced that there would be merit to a meeting between the leaders of the nation and the people of Dawn. Rather than come to Anvil - they apparently have no interest in leaving their homes so soon after the battle with the Heirs of Terunael - certainly not to meet with members of a nation they despise - the Great Forest Orcs have apparently chosen to trust to fate. Specifically, they have let it be known that if a meeting is ''meant'' to take place, the [[Sentinel Gate]] will surely permit it. The civil service have confirmed that there appears to be a [[Sentinel_Gate#Conjunctions|conjunction]] of the Sentinel Gate at two-in-the-afternoon on the Sunday of the coming summit which leads to "The Chief's Contemplation Glade, Lower Tarn Valley, Therunin, Navarr". The conjunction is not especially large - no more than half a dozen people will be able to pass through it.
+
+The expectation is that the newly elected [[Senator]] for Therunin will gather a small group containing at least some Dawnish representatives to speak with the Great Forest Orcs leaders. Those interested in the meeting - whether Dawnish or otherwise - should consider approaching them or, if they aren't available, their representative. it is vital that the contingent include at least one Navarr - and that any diplomats of Dawn understand that the Great Forest Orcs hold enduring grudges over the role their nation played in events following the [[Accept_Barrens_peace_treaty|collapse of the treaty]] with the Barrens orcs, and the [[Conflict_in_the_Barrens#The_Crusade_Begins|destruction of the Rahvin]].
+
+## Grendel
+* The Grendel are now foreigners
+The Grendel orcs of the Broken Shore have been very busy over the last few months in the wake of the peace treaty [[Ratify treaty with the Grendel Autumn 383YE|ratified by the Senate]] during the Autumn equinox. More thorough details of the situation can be found in three other winds of fortune: [[From the sieve of your hands]] (detailing the situation in [[Spiral]]; [[To curb those raging appetites]] (detailing the situation in [[Feroz]]); and [[Everything has a price]] (a more general wind of fortune dealing with several opportunities to capitalize on the peace treaty).
+
+## Iron Confederacy
+* The Empire has placed [[Tariffs#Sanctions|sanctions]] on merchants from the Iron Confederacy: the Suranni have responded with an [[Tariffs#Embargo|embargo]] on Imperial goods. Further details of their impact can be found [[The_price_of_liberty#Iron_Confederacy|here]]
+* A representative of the Suranni is planning to attend Anvil on Saturday
+* The title of [[Ambassador to the Iron Confederacy]] is currently vacant
+The Iron Confederacy continue to embargo trade with the Empire. Their port remains closed, and there are very few Suranni merchants prepared to risk the wrath of the Dukes by travelling north. As per [[Small_but_nearby#Iron_Confederacy|their announcement]] during the Autumn Equinox, Ser Pippin Lavasse, as envoy on behalf of Baroness Katerine Lavasse of Meore, is expected to arrive in Anvil at around half five on the second day of the summit. Ser Pippin is looking forward to meeting with the Ambassador to the Iron Confederacy, assuming they have been appointed by that time. The civil service would like to remind the Senate that the [[Imperial Consul]] has no authority to meet with Ser Pippin on behalf of the Empire and that the Senate should consider electing someone to the position before Ser Pippin Lavasse arrives in Anvil.
+
+### Hand of Dumon
+* The hand of Dumon has suffered a setback
+During the Autumn Equinox two members of the Hand of Dumon met with imperial priests of the synod in Anvil. ''Abélia Gauber''t and ''Florent Chappuis'' apparently engaged in a great deal of discussion before returning to the Confederacy. Though only two Suranni actually came to Anvil, they were accompanied by a number of others in their travels. According to reports from Segura, several of them were caught and executed by the Iron Confederacy as they crossed the southern borders from Segura to [[Bay_of_Catazar#Kalino_.28or_.E2.80.9CArbonne.E2.80.9D.29|Arbonne]].  
+
+Both Abélia and Florent made the crossing safely, and while they are interested in revisiting Anvil in the future -  especially if any of the [[Magic_items#Weapons|musical instruments]] that allowed the user to wield the power of the virtues, or [[ritual text|ritual texts]] of [[curse|curses]] were available to trade - are unwilling to risk the lives of their fellow zealots, even if it would allow them to secure tools to fight on behalf of [[Suranni_pantheon#Dumon_the_Liar.2C_the_Wicked_One|Dumon]]. As a consequence the [[Double_or_nothingness#A_Pact_of_Rust_.28Reprise.29|Pact of Dust]] opportunity reprised at the Summer Solstice 383YE is no longer available.
+
+### Trade with the Iron Confederacy
+* The Iron Confederacy has closed its borders to Imperial merchants and goods.
+* The port of [[Iron_Confederacy_ports#Robec|Robec]] has been closed to Imperial traders
+The port of Robec remains closed to Imperial ships, as does the land border from the southern [[the Brass Coast|Brass Coast]]. In the wake of the [[Through_my_sails#Espionage_and_Executions|executions]] earlier in the year, very few Imperial citizens are prepared to risk visiting the Confederacy. Imperial sanctions still permit Suranni merchants to come north, but the increased tariff on their goods, the fact it is currently illegal to bring Imperial produce into the Confederacy, the ongoing conflict in [[Segura]], and the ceding of [[Feroz]] to the [[Grendel]] means fewer and fewer are making the effort.
+
+## Principalities of Jarm
+* The Imperial Senate has applied [[Tariffs#Sanctions|sanctions]] to trade with Jarm
+* The House of Princes has placed an embargo on Imperial goods.
+* The current [[Ambassador to Jarm|Ambassador to the Principalities of Jarm]] is ''Eli of the Cenotaph'' of [[Highguard]]
+Relations with the [[Principalities of Jarm]] remain poor. Last season the representative of the House of Princes ''Magister Wendelin Kovalik'' met with Eli of the Cenotaph in the Senate building to discuss the steadily worsening relations between the Empire and Jarm. Magister Wendelin made another formal request on behalf of the House of Princes for the Imperial Conclave to allow Jarmish magicians access to Imperial lore to balance the boon given to the Commonwealth, Jarm's enemy. Ambassador Eli made clear that the Conclave had no intent to provide access to Imperial Lore to the magicians of Jarm.
+### Jarmish Embargo
+* The House of Princes has chosen to end trade with the Empire
+Following the meeting, the House of Princes has voted to embargo trade with the Empire. Shortly before the Winter Solstice, the ports of Vezak and Kavor are closed to imperial captains. All captains and their crew who are already in the port are informed that their business with the Principalities of Jarm is finished and that they must vacate. One merchant, Teodore i Greaga i Erigo, claims that they were told to ask their magicians and their senator why the Empire had chosen to consistently interfere in the sovereignty of the House of Princes, support their enemies, and treat people who have only ever been cordial to them with such utter contempt.
+
+Unless the Imperial Senate chooses to apply an [[Tariffs#Embargo|embargo]] of their own, this decision by the House won't by itself effect titles such as the [[Prime Factor of the Pallas Docks]]. Jarmish merchants are still free to come to the Empire and trade for Imperial goods - provided they are prepared to pay the tariffs the Empire imposes on their goods. It remains to be seen if the House of Princes will put pressure on these merchants to stop doing so - or whether they will find more lucrative markets elsewhere.
+
+### Trade with Jarm
+* Imperial captains are no longer welcome in Jarmish ports
+Imperial fleet captains can no longer trade with Vezak and Kavor, thanks to the House of Princes embargo.
+
+## Sarcophan Delves
+* The Senate has ratified a major treaty with the Sarcophan Delves
+* The Kruidenkenner Magazjin has been expanded
+* The current [[Ambassador to the Sarcophan Delves]] is ''Thanmir Hrafnar'' of [[Wintermark]]
+Relations between the Empire and the [[Sarcophan Delves]] remain friendly. During the Autumn Equinox, the Imperial Senate [[Ratify_treaty_with_the_Sarcophan_Delves_Autumn_383YE|ratified a treaty]] that has further cemented goodwill between the two nations on either side of the [[The_seven_seas#Sea_of_Teeth|Sea of Teeth]]. Work have been completed on the  [[Expand_the_Kruidenkenner_Magazjin|expansion]] to the ''[[Kruidenkenner_Trademaster#The_Kruidenkenner_Magazijn|Kruidenkenner Magazijn]]'' at [[Necropolis#Crown's Quay|Crown's Quay]] in [[Necropolis]], further increasing imports of herbs and rare concoctions from the Delves, and providing benefits to a number of Imperial titles related to the apothecary arts.
+
+### Enclaves
+* The Empire has ceded the Alvetti estates in Sarvos to the Bedelaar Huisbaas Vandersaar
+* The Steel Fist now provides an additional 4 rings of Ilium each season
+* Imperial business owners have an additional diversification option
+* Traders visiting the Delves receive additional herbs
+The Empire has [[Powers_of_the_Imperial_Senate#Concedence|conceded]] the Alivetti estates in Sarvos to the Vandersaar, allowing them to build a substantial trading enclave on the southern coast of the Empire. The Sarcophan have already begun transforming the ruined estates into a trading post - bringing in their own engineers with experience draining marches and building on flooded ground. Work is proceeding apace, with towers in the Sarcophan style rising over the ruined buildings of the former Empress' estate. One set of ruins remains untouched however; the broken tomb of [[Empress Giselle]] is preserved as an historic landmark, which the Vandersaar have made clear can be visited at any time by Imperial citizens eager to explore their history. Indeed, a small team of historians and guides have been provided to give guided tours of the tomb and several other key locations, and a number of souvenirs have been made available at reasonable prices.
+
+The immediate benefit is that the [[Steel Fist]] Bourse seat - controlled by the [[Imperial Orcs]] and due for election again during the Spring Equinox - will permanently receive an additional 4 rings of [[ilium]] each season. This has sparked some interest given the recent discussions around the [[Stone_and_stone#The_Gildenheim_Deepforge|Gildenheim Deepforge]]. 
+
+The presence of a Sarcophan enclave of this size on the southern coast of the Empire will also offer an advantage to Imperial business owners. They will gain the ability to diversify their resource to gain an income of herbs as well as money following the normal rules (an investment of 1 Throne, which will reduce the production of the resource by 36 rings and replace the money with two herbs of the character's choice).
+
+Finally, the enclave will significantly improve the confidence of Sarcophan merchants - both those visiting the Empire and those at home in the Delves - that Imperial citizens are people with whom they can do business. Every Imperial ship captain visiting Sarcophan will gain an additional dose of Marrowort and an additional dose of Imperial Roseweald each season.
+
+### The Temple of the Way in Sarcophan
+* The Senate can commission a temple in the Sarcophan Delves
+* It would cost 40 white granite, 30 mithril, 140 crowns in labour costs, and take six months to complete
+In return for the concedence of the estates, the Vandersaar have provided the Empire with land within the Buitenlandsewijk in Sarcophan, suitable for the Empire to [[Through_my_sails#New_Opportunities|build a Temple of the Way]]. The ''Buitenlandsewijk'' is an area of the Delves where foreign investment is welcomed and encouraged. The temple requires a [[commission]] by the Senate, and counts against the limitation of how much they can build in a single season. The beledaar huisbaas are aware of the [[bearer of an Imperial Wayleave|Imperial wayleaves]] but regretfully say they will ''only'' accept a decision by the Senate; they wish to ensure that the Temple has the Empire's full legal backing.
+
+The Temple will require 40 white granite and 30 mithril, with 140 crowns in labour costs, and will also take six months to establish. The effect would be similar to that of the [[Liaison_to_the_Temple_in_Nemoria|Temple in Nemoria]]. It would create an Imperial title - perhaps ''Prior of the Sarcophan Temple'' - who would be able to acquire Sarcophan goods in return for ensuring a regular supply of [[liao]] to the Temple. Unlike the situation in Nemoria, however, there is already a community of followers of the Way in Sarcophan who would look to the Temple for guidance and support, and would view the Prior as a point of contact to raise religious concerns. As they made clear when they first made the offer to the Empire, the bedelaar huisbaas have made the same offer to the [[Sumaah Republic]] - that they too can build a temple in the Delves - on the understanding that if the conflict between the two nations escalates to the point where it impedes trade the Sarcophan will act decisively to end that conflict.
+ 
+There is of course no requirement to take immediate advantage of this building opportunity - unless something significantly changes the offer to cede land to the Empire and allow them to build a temple remains open.
+
+### Trade with the Delves
+* Trade between the Empire and Sarcophan remains healthy
+* Imperial fleets trading with the Delves receive additional herbs
+Imperial captains continue to be welcomed in the Delves. The concedence of the Alivetti estates has greatly improved the confidence of Sarcophan merchants - strengthening even further the bonds of trade. As such every [[fleet]] captain that trades with the Delves receives an additional dose of [[Marrowort]] and an additional dose of [[Imperial Roseweald]] in addition to the normal production.
+
+## Sumaah Republic
+* The Sumaah Republic are signatories to the Liberty pact; they have [[Tariffs#Embargo|embargoed]] trade with slaving nations.
+* The Sumaah Republic still has possession of the Imperial Crown
+* The current [[Ambassador to the Sumaah Republic]] is ''Accalon of Felix's Watch'' of [[Highguard]]
+Broadly speaking, relations between the [[Sumaah Republic]] and the Empire remain polite but complicated. The Sumaah still possess the Imperial Crown, and there are still significant divisions between the two Synods. Yet there are also positive elements to their relationship as [[Three_celebrations_and_a_funeral#Blade_of_the_Isles|interest in the Seminary of Zemress]] suggests. Several representatives of the Sumaah attended Anvil during the Autumn Equinox. One guest even visited with the [[Navarr]] and investigates the spiritual nature of the [[vallorn]], while other delegates discussed the arrangements for the Symposium on the Way, the ongoing politics of the Liberty Pact.
+### Meetings with the Sumaah
+* The Sumaah are not sending an official delegation to the Empire during the Winter Solstice
+In the case of the latter two there is good news and bad news. The good news is that the Sumaah Republic is very much looking forward to the first formal meeting of the Liberty Pact, due to take place during the Spring Equinox. The bad news is that the Symposium, originally intended for the Winter Solstice, has again needed to be delayed. 
+
+Envoys for the Sumaah are at pains to point out how much easier it will be for them to arrange for key individuals to make the long and dangerous journey to the Empire once rather than twice. By delaying for one more season, they can combine the Symposium on the Way with the opportunity for the Liberty Pact to meet. In private the envoys discretely admit that part of the problem is that the Sumaah Assembly has been unable to reach a decision on which of their assemblies will be presented at the meeting. Apparently all the assemblies are very keen to be represented at the Symposium and are currently arguing over who will be deputized to attend. They assure the Empire that these disagreements will definitely be resolved in good time for them to attend the Spring Equinox.
+### Trade with Zemeh
+* The port of Zemeh is open to Imperial fleet captains.
+Imperial captains are free to trade with Zemeh. As Sumaah is a signatory to the Liberty Pact, there are no penalties for doing so. Imperial pilgrims are also invited to visit the temples and places of pilgrimage in Sumaah, especially the holy city of [[Sumaah_Republic#Timoj|Timoj]].
+
+## Thule
+* A Thule delegation is planning to visit Wintermark during the Summer Solstice
+* The current [[Ambassador to Otkodov]] is ''Yevgeni Katzev''
+The Empire remains at peace with the [[Thule]]. The orcs of [[Otkodov]] have spent the last few months attending to their own affairs, it seems. There is rumour of some sort of conflict in the easternmost territory of [[Otkodov#Sk.C3.BCld|Sküld]], possibly involving the [[vallorn]] that surrounds the lost Terunael city of ''Emrys''. Thule merchants visiting [[Skarsind]] and [[Varushka]] do not go into detail, but it appears that the northern orcs have been successful at suppressing whatever trouble Yaw'nagrah or possibly even the Heirs of Terunael were attempting to cause.
+
+Of more interest is news of a major diplomatic delegation from Otkodov planning to attend the Summit to speak to the folk of [[Wintermark]] about a possible alliance against the [[Jotun]]. More details of this delegation can be found in the [[An unexpected alignment]] wind of fortune.
+### Repatriation of Imperial Slaves
+* The Thule have released almost all their remaining Imperial slaves
+In the last month before the Winter Solstice, a large number of human slaves are brought over the border with [[Otkodov]] and released into Imperial hands. They are split into three sizable groups, one each delivered to [[Skarsind]], [[Miekarova]], and [[Karsk#Ivarsguard|Ivarsgard]] in [[Karsk]]. As with previous groups, they have few possessions and the [[Thule]] do not hang around once they have been delivered. ''Rak Who-Speaks-For-The-Dragons-Undivided'' announces from the embassy that this represents all the remaining Imperial citizens, or close descendants of the same, who have been held by the northern orcs. They also include twenty [[Navarr]] [[Crafting skills#Artisans|artisans]] taken during the Thule conquest of [[Hercynia#Treji|Treji]] in [[Hercynia]]. The Navarr artisans speak of being held in the far north, in echoing vaults beneath an active volcano, where they were forced to work tirelessly creating [[magic items]] for use by the Thule warlocks and warriors. They were not particularly mistreated, as long as they cooperated, but they have no love for their captors. They confirm that there are perhaps a dozen artisans left in the hands of the Thule - all [[Wintermark|Winterfolk]]. 
+
+All of this is apparently in accord with the [[Ratify_Sungold_Treaty|Sungold treaty]], ratified by the Imperial Senate during the Summer Solstice. There is still some minor wrangling regarding the status of [[Sungold Pass]] itself (the Thule think it is in Otkodov, the Empire thinks it is in the Empire but ceded to the Thule), but this appears to be little more than bickering at this time.
+
+The former slaves have been welcomed back to their nations. Those who had lived their whole lives among the Thule have been given the Test of Citizenship and embraced by the egregores of the nations they feel the closest affiliation to.
+## Resolution
+A number of motions and judgements were raised at the Winter Solstice relating to foreign affairs. The [[Construct College of Maykop|College of Maykp was commissioned]], as was the [[Construct_Lyceum_Schloss|Lyceum Schloss]]. Magistrates were [[383YE_Winter_Solstice_Senate_sessions#Request magistrates investigate smuggling|instructed to investigate smuggling]] in the Brass Coast. The Loyalty virtue assembly [[383YE_Winter_Solstice_Synod_judgements#Judgement_55|declined to amend the Black Quay]].

@@ -1,0 +1,91 @@
+---
+revision_id: 85536
+revision_date: 2022-01-21T21:28:40Z
+categories:
+- Winds of Fortune
+- 382YE Winter
+- Recent History
+aliases:
+- Bills_or_bows
+---
+
+
+Harry Beater crept quietly through the night, bow in hand. It was dark, there was only a sliver of moon to see by, but he preferred it that way. Dark nights for dark business as his Ma used to say. Once you got used to it, it was easy enough to cope with the dark. And if there was less light to see by, well then there was less light to be seen by, and that was all to the good. So long as it wasn't black as a piece of coal then it was alright with Harry.
+
+He sensed his mark had stopped, and he froze in an instant. As a child, him and Jenny Friar used to play at sneaking up on things. Cats and dogs first, then rabbits when they got good at it, and then eventually deer. They were the hardest they were. They could hear the breath leaving your lungs when you got close. Skittish too. Just like poachers.
+
+Up ahead the fellow wasn't moving. Just stood stock still staring off into the distance. Had he been spotted? Might be better to scarper if he had. Not a good night for shooting a man with a bow, and all he had on him was a dirk and an old padded jack for armour. He moved deeper into the shadows taking cover behind a great leafy bush. The perfect spot to watch from - he'd be well hidden here but could still make a run for it if he needed to.
+
+Harry relaxed as the poacher started to pace back and forth. Interesting - must be waiting for someone. "Now who in the Labyrinth could a poacher from Alderly Edge be meeting up here at this time of night?" he thought to himself. Nobody good, that was for sure. "Judge a tree by its fruit, not by its leaves." as his Ma used to say.
+
+An hour passed and the poacher just kept pacing back and forth, back and forth. And then suddenly he heard a second set of footsteps and then a third. From up the way, a heavyset pair were approaching. Big bulky outlines, and from the shape and the noise they were making they probably had mail on. Too dark to see the colours they were wearing - they were carrying a lantern too but they had it hooded. What sort of person was out meeting poachers at this hour with a hooded lantern? Count the legs Harry, if it's got three legs it's a lame sow and that's all there is to it he told himself. 
+
+He stayed alert, watching every moment, careful not to make a sound. Wouldn't do to startle the quarry now. He strained to see, but he needn't have bothered. One of them slowly unhooded his lantern and by the light Harry could clearly see that the newcomers were a pair or heavyset orcs, bristling with weapons and armour. They were Jotun, sure as eggs were eggs.
+
+"Well, well, well" he mouthed. "What would Sly Jim Butcher be doing out here at the edge of the Mourn meeting with a pair of Jotun?" Clearly this was about much more than Daft Mother Cobleys three missing piglets. "Well, well, well" he mouthed again, to underline how important this was. He was onto something here that was for sure - the folks at Sarcombe had better hear of this..."
+
+## Overview
+Over the last years, the generals of the Marches have been fighting tirelessly not only to liberate the Mournwold, but also to deal with the enemies of the Empire. All this without giving an inch of ground. The people of the Marches may be critical of the [[Imperial Military Council|Military Council]], but they love their generals. Children all over the Marches are being named for these practical heroes: Wills and Willas, Marrias and Mariuses, Brians and Briannas, Alusairs, Nedrys, and a whole crop of Jacks.
+
+At the Autumn Equinox Friar John of the Mourn was [[382YE_Autumn_Equinox_Synod_judgements#Judgement_59|granted a mandate]] by the Marcher Assembly to capitalize on this groundswell of support. The aim was to better reflect the truths the Marchers cleave to, with a special emphasis on ways of fighting and defending their land that do not "drown it in blood."
+
+## Shoulder to Shoulder
+All the Marcher armies have been affected by the mandate, which has caused people to focus on what really matters to folk in the Marches. War is not about the glory earned or the blood spilled, it's about defending your land from anyone who would take it from you. In the end that is all that really matters. As a result of this renewed focus ''any'' Marcher army can now issue the defensive order to fight ''shoulder to shoulder''.
+
+Shoulder to Shoulder
+* The ability of this army to defend territory is increased by a fifth.
+* For each additional Marcher army beyond the first that stands shoulder to shoulder to defend the territory, casualties suffered by all those armies and casualties inflicted by all those armies decreases by one tenth.
+A general who gives the order to fight shoulder to shoulder relies on the legendary Marcher bill blocks to hold the enemy at bay, while units of archers loose arrows on any that come to close. The goal is not to spill blood, but simply to keep the enemy at bay for as long as possible. By fighting in disciplined ranks, the Marcher army can form an impregnable line that is difficult for any enemy to breach.
+
+
+## The Drakes
+The Drakes are arguably the most famous Marcher army, if not one of the most famous Imperial armies. Named for the legendary Tom Drake, who is widely claimed to have been the First Empress' preferred [[Field Marshal]], it has always benefited from some of the best logistics in the Empire. Not to mention the unstinting support not only of its many veterans, but the wealthiest aldermen and stewards alike. Although many members are from [[Mitwold]], in recent years it has swelled with recruits from the [[Mournwold]]. Now it is possible for the Empire to take advantage of this opportunity by choosing to arm these soldiers with bills or bows.
+
+As an [[opportunity]] available for the next year, should the [[Imperial Senate]] approve a commission to [[Imperial_army#Enlargement|enlarge]] the Drakes, then the thousands of yeofolk who are looking to enlist can be recruited and trained. As a consequence, the cost to enlarge the army would be 125 wains of mithril or weirwood. Any amount of weirwood or mithril can be used for this purpose, provided the total amount is 125 wains. No money is needed for the enlargement, since these funds would come from the wealthy Marcher yeomen prepared to put their hands in their pockets if it means making their beloved Drakes even stronger.
+
+## Bounders
+A solid core of [[Upwold]] [[The Marches military concerns#Beaters|beaters]] complemented by a small cadre of landskeepers has always been the heart of the Bounders. These skilled skirmishers are some of the Empire's best archers as well as skilled scouts and trackers. For a long time they have specialised in relentless tactics designed to slaughter the enemy, but the mandate has forced the army to reassess. With 25 wains of mithril or weirwood and an appropriately worded order their general can request that the beaters and landskeepers of the Bounders change direction. That army's quality would be changed to ''watchful''. 
+
+### Watchful
+* May issue the offensive order to harry the flanks
+* May issue the defensive order to watch the passes
+
+A watchful army contains many skilled scouts and trackers who are adept at guarding the perimeter of a territory no matter how difficult as well as searching for threats and enemies in a territory. As a result it may issue the defensive order to watch the passes, if they are in a territory that is completely controlled by the Empire but the general is concerned that enemy forces may attack, or to harry the flanks, if they are engaged in a campaign where the enemy is already present.
+
+Harry the Flanks
+* Casualties suffered by this army are decreased by three tenths
+* The ability of this army to capture territory is decreased by a fifth
+
+A general who orders their archers and other soldiers to harry the flanks of an enemy force will attempt to drive them back while avoiding a full on confrontation. The purpose to force the enemy to pull back to a more secure position rather than risk lives attempting to kill as many as possible. The army will try to avoid a direct engagement and focus on looking for any opportunity where the enemy is caught out of position or leaves a flank exposed.
+
+Watch the Passes
+* The ability of this army to defend territory is increased by two fifths if they are defending against an enemy attempting to take a beachhead
+A general who sends their scouts to watch the passes will receive early warning of any incoming invasion, allowing them to manoeuvre their soldiers into the best possible position to stymie the assault. In addition the army general will receive information about any foreign spy network operating in the territory as well as any substantial criminal activity on a similar scale.
+
+## The Strong Reeds
+The Strong Reeds have a long connection to the people of [[Bregasland]], and a history of resisting [[Jotun]] aggression against the marshes, even in the face of overwhelming enemies. In recent years they have specialised on strategies designed to [[Army_qualities#Hard_Bitten|make them pay]] in blood for every inch of land ceded, but in light of the words of Friar John they have begun to rethink this approach. Instead they are looking to fall back on much older stratagems, that rely on skills honed by years in the fens. With 25 wains of mithril or weirwood and an appropriately worded order their general can request that the Strong Reeds embrace their Bregasland heritage. That army's quality would be changed to ''Secretive''. 
+
+### Secretive
+* May issue the ''grinding advance'' order when attacking
+* May issue the defensive order to ''lay low'' when defending a [[territory#region|region]] with the forested, mountainous, or marsh keyword
+
+A secretive army contains many people skilled at survival in some of the most inhospitable parts of the Empire. The barren mountains of the Mournwold, the dangerous fens of Bregasland or the deep Feni woods are examples. These places are virtually impassable to a regular army, but a secretive army may lay low, splitting up into smaller bands that can spread out and hide in some of the most inaccessible parts of the region.
+
+Lay Low
+* This defensive order can only be issued in a Marcher territory or if the Empire controls a forested, mountainous, or marsh region in the territory
+* The army does not inflict any casualties, suffer any casualties or contribute any victory points towards the defense of the territory
+* The presence of an army that is laying low in a territory removes the advantage for attacking an undefended territory
+
+A general who orders their army to lay low causes them to split up and hide in some of the most inaccessible parts of a territory. This order can only be used by the general of the Strong Reed in a Marcher territory or in a territory where the Empire controls a forested, mountainous, or marsh region. If the order cannot be used then it defaults to solid defence. The army does not inflict or receive any casualties, nor contribute any victory points to the defense of the territory, but their presence there is sufficient to ensure that any enemy generals cannot act with impunity. This removes the advantage for attacking an undefended territory.
+
+Taking the order will not prevent the army from resupplying, but the presence of an offensive army in the territory will do, even though the army laying low does not take any casualties.
+
+## Limited Opportunity
+These opportunities are only available during the Winter Solstice 382YE.
+We are Marchers. Our blood and bone are in the soil, and we neither forget nor forgive. We are not murderers, but we will fight to defend what is our, and we will fight to protect our friends. We send Friar John of the Mourn with 50 doses of liao to remind our people of the Marches of their deep roots, and to urge our yeoman to find new ways to fight that neither scorn our history nor threaten our future.
+## Resolution
+A [[Senate motion]] commissioning the [[Imperial_army#Enlargement|enlargement]] of the Drakes was brought before the [[Imperial Senate]]. After the Winter Solstice, Abbot Thomas Arch provided 44 wains of mithril and 6 wains of weirwood to allow the generals of both the Strong Reeds and the Bounders to take advantage of these opportunities.
+
+The generals of both the Bounders and the Strong Reeds gave orders for their army qualities to change, and the appropriate materials have been received. Both armies will now have new qualities.
+
+Consideration of the Marcher armies has brought to light the fact that the Tusks and the Drakes both have their generals appointed during the Summer Solstice. Where possible, the Civil Service works to spread general appointments through the year to ensure it remains possible for them to handle all the elections and to ensure that the minimal amount of disruption is caused by new generals taking command of armies. As such, the next election of the Tusks general in Summer 383YE will be for a shortened term; the general will then reappointed in Spring 384YE, and from that point onward the appointment will take place at the Spring Equinox.

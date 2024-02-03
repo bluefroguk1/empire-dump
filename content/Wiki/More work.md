@@ -1,0 +1,164 @@
+---
+revision_id: 106636
+revision_date: 2023-12-29T18:02:36Z
+categories:
+- Winds of Fortune
+- 382YE Summer
+- Recent History
+aliases:
+- More_work
+---
+
+
+"Excommunicate the Senate!"
+
+"I know, I know. I was there."
+
+"Honestly, what is he ''thinking''? Excommunicate the Senate indeed. It's not as if he ever makes the effort to go to Anvil himself." 
+
+Prince Luija was incensed, striding furiously along the riverbank walk. Maria had to hurry to match her pace, which she hated. It made her pant, and left her red faced and short of breath.
+
+"It's not as if he's as mobile as he used to be," tried Maria diplomatically. "His leg..."
+
+"Rubbish! If he actually wanted to he could get there without any difficulty. Any of us could, if we were honest. We just... don't. We just lounge around criticizing and complaining instead of rolling up our sleeves and getting stuck in."
+
+Luija stopped suddenly, and a young man in an ivory mask nearly careened into her. Maria raised her cane threateningly, and the lad skipped away scowling. Once he was a safe distance away he made a rude gesture and shouted something about minding where they were going before running off. The Prince was oblivious lost in her own thoughts.
+
+"To be honest. I've always just assumed that somewhere inside Jago knows that the rest of the world isn't going to be interested in listening to him bellow. They'll want a damn site more sensible reasons for making these kinds of changes than ''Bishop Jago demands it''."
+
+She pursed her lips.
+
+"Not that some of the things he's suggesting don't make sense you understand."
+
+Luija began to walk again, but this time her pace was more measured. Maria was thankful, and after a few moments touched the Prince's arm. She inclined her head slightly in approval, and the two linked arms. The walk had become a promenade.
+
+"Severin is right, of course." Said Luija thoughtfully. "It ''is'' virtue that unites us. The Synod ''is'' there to remind us of that. It ''does'' need to be able to step in from time-to-time to keep everyone on the same road rather than scurrying off willy-nilly into the back alleys to get lost or robbed."
+
+The Prince was using a lot of obscure metaphors today, which Maria had learned to recognise as a sign that her mind was at full tilt.
+
+"I don't disagree," said Maria. "But demanding excommunication of the Senate if they don't do what they're told... It'd be a return to the bad old days under Teleri. I've read the history, I know what it was like."
+
+Her prince slid her eyes sideways, amused.
+
+"You mean you've read the historical romances, which is very different. Honestly! I thought you had more sense than to confuse romantic fiction with historical fact. What was it I caught you weeping over the other day?"
+
+Maria looked away and muttered under her breath.
+
+"I didn't catch that," said the Prince, amused.
+
+"''The Chalice Inverted''," said Maria grudgingly. "It's very good!"
+
+Her prince laughed. "I'm sure it is. But giving the Synod a bit of a polish wouldn't be the end of the world and it wouldn't mean we were turning into Sumaah. The constitution is pretty clear that the Synod is ''supposed'' to poke its nose into things, and take steps when it needs to stop people being silly."
+
+She nodded her head firmly, her mind made up.
+
+"No, Bishop Jago is an angry arse, like one of those one o'clock drunks pissing into the river. That doesn't mean his words are entirely without sense, but one traps more wasps with jam than marmalade, as the Marchers say."
+
+"It's something like that yes," said Maria tactfully.
+
+"Either way, I'll be interested to see how this plays out. Everyone seems to have been tip-toeing around everyone else since that schism business, but that ''was'' quite a few months ago. Now might well be the time to look at the relationship between the Big Three again, who knows? I'm sure that sensible people - not blowhards like Jago - will be able to work something out if they just put their heads together."
+ 
+"Maybe," said Maria, cynically.  
+
+"Absolutely!" corrected Luija, with a sunny expression. "After all, there's no point ''starting'' with excommunication is there? Not when revocation is so much easier to achieve..." 
+
+## Overview
+"To every Imperial nation, I shall bring the message that at the heart of our faith lies our common belief in the Seven Virtues", wrote Severin von Holberg after the Winter Solstice, in his encyclical address to the people of the Empire. He seemed to place some of the blame for the Empire's current crisis at the feet of the National assemblies when he said "''we have learned to our bitter cost, the effects of national religious divisions''". Discussion about the role of the National Assemblies in the Synod [[Benevolence,_inspiration,_and_legacy|continues to rage]], but now the focus of attention has shifted to another area. "''It is the Seven Virtues than unite us, not divide us.''" he concluded - a sentiment echoed throughout his address and supported by the General Assembly that gave him leave to make it.
+
+With that in mind, theological scholars and lay followers of the Way alike have been contemplating the nature of the Seven Virtues that form the shared core of the Imperial faith. From their discussions, a number of suggestions and opportunities have arisen.
+
+## Cardinal Truth
+The foremost exemplars of the virtuous assemblies are the [[Cardinal|cardinals]]. They are appointed to provide leadership to the priests and pilgrims who follow their virtue; they are expected to be well versed in matters of virtue and the Way as a whole and to speak with authority on matters of doctrine. A focus on the virtues cannot help but take a fresh look at the role of the cardinals both in the Synod, and in the wider political landscape of the Empire.
+A cardinal is assumed to provide leadership to the priests and pilgrims who follow their virtue. They are expected to be well versed in matters of virtue and The Way so that they can speak with authority on matters of doctrine.
+### The Voice of the Nine
+* Statements of principle by the Assembly of the Nine are receiving additional attention from the faithful.
+* Such statements that receive a greater majority are as likely to have a significant effect as those passed by a national assembly.
+In addition to the three assemblies each Synod member is part of, every cardinal is a member of a unique assembly, the Assembly of the Nine. With a renewed focus on virtue, religious scholars across the Empire are examining the statements of principle issued by the Assembly of the Nine with renewed interest. Previously, statements passed by the Assembly of the Nine did not have a significant impact beyond Anvil. Although the Assembly is politically significant, most citizens focus more on the statements passed by the collective bodies of the Synod, rather than their elected leaders. 
+
+Now, theologians and scholars are paying much closer attention to the words of the cardinals. After all, the authority of judgements made by the Assembly of Nine has always been intended to extend to the whole Empire, and to overrule those judgements made by any other assembly bar the General Assembly. It would be unwise, then, to pay no heed to ''any'' judgement of the Nine, not least the statements of principle whereby they can offer virtuous guidance to the entire faith.
+
+For the foreseeable future, then, any statement of principle by the Assembly of the Nine that achieves a greater majority will be as likely to generate a clear effect as a similar statement raised by a national assembly - but with a much wider reach.
+
+### The Choir of the Virtuous
+* The Senate could pass a motion to escalate statements of principle that receive a greater majority in a virtue assembly to the Assembly of the Nine.
+* If an escalated statement receives a greater majority in the Assembly of the Nine, it will be much more likely to create a significant effect.
+Severin talked about the need to focus on virtue, which unites the Empire, and this has led not only to an increased interest in the statements of the Assembly of Nine, but also a debate about the relationship between the virtue assemblies and the cardinals who (nominally at least) lead them. At the moment, although statements of principle by the virtue assemblies are widely distributed, they are of interest primarily to the priests of congregations dedicated to that virtue. As these congregations are scattered across the Empire, it is significantly harder for these statements to have any kind of noticeable influence over the faithful. This limits their effectiveness as tools for guiding the faithful - which seems at odds with the key role virtue plays (and should play) in the Way.
+
+Still, the statements of the virtue assemblies have a tendency to be very specific in their intent. When one is preaching to the choir, it is easy to find people who agree with you. It is significantly harder for those who do not share a clear focus on a specific virtue to find common cause with statements from another assembly. What a single virtue assembly considers paramount is not necessarily to the benefit of the Way as a whole.
+
+A compromise has been suggested, however. ''Vibia of Fossegrimm Spire'' in [[Morrow]] has suggested a reasonable progression that would allow for the statements of principle of the virtue assemblies to receive a wider reach, while recognising the role of the Cardinals in leading these assemblies. She suggests that any statement of principle by a virtue assembly that receives a greater majority be automatically escalated to the Assemble of the Nine for discussion. If that statement receives the support of the greater majority of the Nine, then it is clearly of interest to more than a single virtue assembly. The statement would thus be given the same attention as any statement that had come from the Nine directly.
+
+All that is required, in the opinion of Vibia, is that the Senate pass a motion instructing the [[Tribune_of_the_Synod|Tribunes]] to make this change to procedure. The [[Scrutiny#Constitutional_Court|Constitutional Court]] have cautiously expressed the opinion that provided the wording of such a motion was clear and straightforward, there is nothing unconstitutional in the core concept as far as they can see.
+
+### The Mandate of Teleri
+* The Senate could pass a constitutional motion to restore the power of the cardinals to function as full members of the Senate.
+* Doing so would automatically abrogate the Conscience of the Senate.
+During the reign of [[Empress Teleri]], when the Imperial Synod first began to explore its political role in the Empire, the cardinals were not only members of the Synod but [[Senate_session#Member_of_the_Senate|members]] of the Imperial Senate as well. They were able to be present in the Senate, each had full voting rights, and they could both raise and second a senate motion. This power was granted to them in recognition of the fact that just as the senators represented a number of Imperial citizens in a [[territory]], so the cardinals represented a similar constituency - the virtuous citizens of their assembly. This power was removed during the reign of [[Empress Varkula]], and the office of [[Conscience of the Senate]] created as a political compromise.
+
+With a suitably worded Senate motion, the senate could restore the power to function as full voting members of the Senate to the cardinals. This would require a [[Senate_motion#Constitutional_Vote|constitutional vote]], and would need to be [[The_Throne#Ratification|ratified]] by [[the Throne]]. Implicit in this motion would be the [[Powers_of_the_Imperial_Senate#Abrogation|abrogation]] of the Conscience of the Senate - the role exists to give the Synod a voice in the Senate, and with the cardinals on the floor there would be no need of the Conscience.
+
+### The Palaces of the Cardinals
+* The Senate could commission palaces as residences for the Cardinals and places of pilgrimage for the faithful.
+* These palaces would provide each cardinal with additional liao and additional votes in the Synod.
+The cardinals are appointed by the virtue assemblies, and expected to take a leadership role in the Synod. Yet despite their prestigious positions, a cardinal has little more power to actually lead the Synod than any other priest with a [[congregation]]. ''Bishop Orlando di Holberg'', lecturer in theology at the [[Holberg#The_City_of_Holberg|University of Holberg]] and leader of a radical sect of priests with [[Benevolence,_inspiration,_and_legacy#The_Radicals|radical views]] on Synod politics have put forward arguments that in the absence of firm guidance from the cardinals and by extension the virtue assemblies, the power of the National assemblies has grown at the expense of the Synod as a whole.
+
+After considering this situation, a [[Highguard|Highborn]] philosopher and dedicate of Pride named ''Abigail of Forestgard'' (an old chapter in [[Casinea#Woodwych|Woodwych]], in [[Casinea]]) has proposed that the Cardinals could take a larger role in shaping the Synod. They are the chosen representatives of their virtue, and as such their voices should arguably have additional weight not only in the virtue assemblies but in the Synod as a whole. Abigail spent several years in [[Sumaah_Republic_ports#Zemeh|Zemeh]], in the [[Sumaah Republic]], and was one of a rare few Imperial priests invited to visit the Republic capital of Timoj. The Houses of Virtue there clearly left an indelible impression on her understanding of the Way, and she is arguing that something similar could strengthen the Synod in the Empire.
+
+Abigail proposes that an official residence be constructed for each of the eight cardinals - a palace in the [https://en.wikipedia.org/wiki/Bishop%27s_Palace religious sense] as it is sometimes used in the League. One palace dedicated to each of the Seven virtues and to the Way which would serve not only as residences for the cardinals, and offices for the civil servants who support the Synod, but also as centres for the study and practice of the virtues. As with the Houses of Virtue in Timoj, she argues, these palaces would give additional structure to the Way and inspire pilgrims both domestic and foreign. 
+Appointing the CardinalsSome concerns raised about the ability for cardinals to use these votes to appoint themselves were raised. The constitutional court drew attention to an overlooked ruling that it is illegal to use votes gained from an [[Imperial title]] during the appointment of that title. They were unaware that this was potentially happening, and have reminded both citizens and magistrates to be [[Vigilance|vigilant]] for this form of [[List_of_Criminal_Offences#Crimes_against_the_Processes_of_the_State|subversion of the agencies of the state]]
+As the cradle of the Way, these residences would all be built in the [[Bastion#Bastion.2C_the_White_City|White City]] of [[Bastion]]. Her proposal is to build these cathedral-palaces in a wide ring equally spaced around the outskirts of the city, and to surround them with parks and other monuments to the principles of each virtue. her vision has several enthusiastic supporters and basic plans for these commissions have been drawn up by a group including architects from [[Tassato#The_School_of_Epistemology|School of Epistemology]], engineers from [[Holberg]], and theologian-builders from the Custodes Clavium.
+
+As an additional benefit, the presence of these grand monuments celebrating the virtues and the Way that units them would further cement the city of Bastion as the heart of the Way, not only within the Empire but on a global scale.
+### Constructing the Palaces
+Constructing eight palaces in Bastion, one for each cardinal, could be raised as a single [[Senate motion]], and count as a single commission. While these palaces could in theory be built elsewhere, there are numerous advantages to building them in a city already recognised as the centre of the faith, and replete with virtuous architects, engineers, and workers.
+
+The project would cost 120 white granite, 40 weirwood, and 320 crowns. Construction of the eight residencies would take six months to complete, it being possible to work on multiple palaces simultaneously. When complete, these palaces would amend the powers of the cardinals so that each would receive 10 [[liao]] and 20 additional votes in the Imperial Synod for as long as the palaces remained intact.
+
+Furthermore, the presence of these centres of virtue in Bastion would greatly complement the [[Construct_Virtue's_Rest|Virtue's Way]] project to build hostelries for virtuous pilgrims. If both are constructed, the benefit of that [[great work]] would be increased by a further 10 liao and 20 votes.
+
+
+The Synod shall ensure the virtuous behaviour of the Empire. The Synod will remove from Imperial office those whose behaviour is deemed unvirtuous whether they sit upon the Throne; serve the people in the Senate or on the Military Council or in the Civil Service; or serve within the councils of the Synod itself.(17) The Synod will ensure the behaviour of individual citizens does not debase the Empire. 
+
+## Guardians of the Faithful
+* Theological and constitutional scholars have been discussing the Synod power of revocation.
+* They are two proposals to allow the Synod to wield this power with greater effect.
+Virtue unites the people of the Empire, and there is an expectation that those who serve in high office be virtuous - or at least that they not be actively unvirtuous. The Synod are given a potent tool to help ensure that those who rise to power within the Empire do not demean it, or its people, through their actions: [[revocation]]. The Imperial Constitution charges the Synod with the responsibility to remove from office those citizens whose behaviour is deemed unvirtuous. A judgement of revocation is the mechanism to allow this; if successful the revoked citizen immediately loses the Imperial title they held, exactly as if they had resigned the position.
+
+Sadly, there are many virtuous priests in the Empire who believe that the power of revocation as it currently stands is often insufficient to the task. For example, when a [[general]] is revoked, they say, venal [[Senator|senators]] blinded by national politics quickly reinstate their chosen candidate, heedless of the wise judgement of the Synod. The national assemblies are often - for whatever reason - minded to leave the holder of a national position in their post even when their actions demean the Empire as a whole. The general assembly could, in theory, revoke these individuals but for all its power it is often difficult to motivate the priests of the Empire as a whole to perform a simple revocation. The Assembly of the Nine could revoke such individuals, but the ease with which they are returned to their position, and the angry reception such "interference" from the cardinals often receives, often makes them loathe to do so.
+
+''Bishop Jago Heshel di Temeschwar'', of the Church of the Golden Orator in [[Temeschwar]], has been considering this perceived problem for some time and in conjunction with the constitutional scholar ''Teodora Bezavina'' of [[Karov#Delev|Delev]] (recent author of a [[Benevolence,_inspiration,_and_legacy#An_End_to_Ultimatums|controversial tract]] criticising the National Assemblies, has put forward three potential solutions.
+### Removal of Refutation
+* The protection provided by reappointing a revoked citizen to the same title could be removed.
+One of the controversial elements of revocation is that if someone is revoked, and then reinstated to their title, they [[Revocation#Reappointment|cannot then be revoked for the remainder of their tenure]]. In the case of titles that are lifetime appointments, this is potentially a very long time indeed. Of course the [[Writ of Excommunication]] will remove someone from their position regardless of whether they have already been revoked and re-appointed, but the Synod is (rightly, in Bishop Jago's opinion) cautious about wielding this potent legal and spiritual power without extremely good cause. It was certainly never intended to be used simply to ensure a revocation is successful.
+
+Bishop Jago argues that the ability of an electorate to simply reappoint someone who has been judged unvirtuous, and shield them from any further criticism, is extremely problematic. For example, priests may often be cautious about removing someone who is clearly unvirtuous from a position for fear that, were they reinstated, they would be free to act as they wished secure in the knowledge that only excommunication could stop them.
+
+There is no provision in the constitution for this protection; indeed the constitution urges the Synod to remove anyone who is unvirtuous. The least change that could be made to help the virtuous priests of the Synod to do their constitutionally-charged duty would be to remove this restriction.
+
+It would require a suitably worded Senate motion, which would be constitutional in nature, but the power of revocation could then be amended so that a truly unvirtuous title holder could then be revoked as often as necessary. While this could in theory lead to a frustrating back-and-forth between the Synod and the people responsible for appointing a title, Bishop Jago is confident that there are sufficient checks and balances to make this unlikely - and the benefits to the Empire far outweigh this potential minor disruption.
+
+### Revocation means Revocation
+* It could be made illegal to reappoint a citizen who has been revoked to the same title for the next year.
+Alternatively, the power of revocation could be amended in a different way, one that would ensure no such back-and-forth would take place. After all, if the concern is that revocation would lead to reappointment, and reappointment to revocation, surely the appropriate solution would be to prevent reappointment?
+
+Rather than simply removing the restriction that someone cannot be revoked from the same position twice, the Senate could empower revocation that by default a citizen is immediately made ineligible for the title they are revoked from for a full year. Bishop Jago initially suggests that the ineligibility be ''permanent'' but advice from Teodora regarding the purpose of a writ of excommunication causes him to soften his position.
+
+The argument is that it is always possible for someone who is unvirtuous to mend their ways, and turn back to the paths of virtue. Yet such changes in behaviour take time, and one use for revocation might be to give the individual time to make these changes.
+
+Amending the power of revocation in this way - so that a citizen who is revoked cannot be considered for that title again until a full year has passed - would likewise require a Senate motion, and would likewise have constitutional implications. Indeed, Teodora points out that legally they would not even be allowed to serve as [[proxy]] for a title from which they have been revoked until the year has passed, as a citizen can only legally be the proxy for an Imperial title they are eligible to hold.
+
+## Missed Opportunities
+The Synod Judgement that authorised the sermon sought to remind every Imperial citizen of the bitter cost of national religious divisions - urging them to put aside these divisions and instead focus on what unites them. The prognostications performed by the civil service determined that the impact of the mandate would be such "that any attempt to incite people to confront religious differences or spiritual conflicts would be strongly inhibited for the following year" and so it has proved. There were a number of incidents over the season that might have become the basis for further conflict were it not for Severin's words. As with the [[Benevolence,_inspiration,_and_legacy#Missed_Opportunities|previous season]], this has meant that some statements of principle have not led to a clear effect.
+
+We believe that Virtuous Ancestors should be able to be Recognised by the Synod. We identify the following signs of Virtue in having relevance in such a Matter: Sign of Legacy, Sign of Inspiration, Sign of Benevolence, SIgn of Salvation, Sign of Pilgrimage, Sign of Miracle, Sign of Revelation
+The statement of principle by Bonewall Col regarding virtuous ancestors was distributed among the congregations in Skarsind, and received a mixed response. While some orcs agreed that it was important to recognise virtuous ancestors, many more disagreed. The [[The_Doctrines_of_the_Faith|doctrines of the faith]] are clear about the role of [[paragons and exemplars]], and about the role of the [[The_Doctrines_of_the_Faith#The_Doctrine_of_the_Ancestors|ancestors]], but their roles are very different. Worse, while humans and orcs alike can be inspired by the paragons and exemplars - of ether species - only orcs hear their ancestors. Indeed, orcs only hear some ancestors, making the idea of recognising certain ancestors as more virtuous 
+
+Defining an ancestor as virtuous using the signs of the paragons and exemplars raises additional questions. If an orc is believed to have fulfilled the signs of the paragon, then surely they should simply be [[recognition|recognised]] as a paragon (or exemplar) not some separate but equal new classification of inspiration? Should the orcs who follow the Way not be equally inspired by the human paragons and exemplars? Are the lessons of Prosperity taught by [[the Little Mother]], or the lessons of Wisdom presented by [[Kala]] less pertinent to the orcs than the lessons of [[Ambition]] taught by [[Known_exemplars#Thrace|Thrace]]?
+
+Having an orc-only category of inspiration makes many uneasy - and not just the orcs. The fundamental purpose of the Doctrine of the Ancestors and the [[The_Doctrines_of_the_Faith#The_Doctrine_of_the_Howling_Abyss|Doctrine of the Howling Abyss]] is to give context to, and a place for, orcs in the Imperial faith alongside their human brothers and sisters. This statement of principle risks creating a divide between the orcs and the humans, just after the existing division has been resolved.
+
+Given the degree of spiritual and religious conflict this statement of principle would potentially have created, it is perhaps a blessing that Severin's focus on unity over division has discouraged further discussion of this contentious topic.
+
+## Severin von Holberg in play
+It is important to bear in mind that Severin von Holberg is a player character, and not a member of our NPC crew. While he delivered the initial mandate, and the address that accompanied it, he has had no direct input into the resulting plot developments.
+The Chalice InvertedIf you're interested in the story Maria is reading, a historical romance staring[[ Emperor Nicovar]] and the Thorn[[ Isaella]], you can find it [https://archiveofourown.org/works/6206965/chapters/14219719 here]. In character, it is being published by chapters in a League magazine by one ''Benedict Von Kein'' - which is an obvious pseudonym as the Imperial translation would be, roughly, "good man from nothing". It is, I understand, a little ''risqué'' in places.

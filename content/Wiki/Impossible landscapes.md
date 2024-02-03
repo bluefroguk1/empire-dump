@@ -1,0 +1,142 @@
+---
+revision_id: 90336
+revision_date: 2022-05-16T17:54:34Z
+categories:
+- Winds of Fortune
+- 383YE Winter
+- Recent History
+- Plenipotentiary
+aliases:
+- Impossible_landscapes
+---
+
+
+
+Jorgen glanced down at the page, covered in notes, at the top of which he'd written "EDMUNDO!?" and circled it three times with increasing agitation as the interview had continued. He sighed. He hadn't joined the Civil Service to end up as a glorified scrivener but it seemed to be how he spent an increasing amount of his time.
+
+"So this is definitely in regards to the plenipotentiary of the Archmage of Autumn then?" 
+
+"Yes." The emissary was easily seven feet tall and while humanoid in outline, no real details could be made out beneath layers of cosmogone-yellow silk that shrouded them from head to foot. It was the arms that gave away the fact the visitor was something other than human. Jorgen's guest possessed four of them, with long, dextrously expressive many-jointed fingers that wove and twisted in the air when they spoke.
+
+"I can't see them being very happy about this," said Jorgen in a moment.of unguarded candidness. 
+
+"Such a shame," said the emissary without a hint of sympathy. With a gentle susurrus of silk on silk, they pressed the delicate fingers of their hands together in two pairs, and politely inclined their head. "I think that concludes our business."
+
+"I suppose," said Jorgen a little doubtfully, quickly rereading his notes again to make sure they were clear. "We are talking about murder here, are we not? Sorry but it's not entirely clear from..."
+
+"I think it is important to note that while the business of the Sanguine Market is not pleasant," interrupted the emissary smoothly, "it is just another manifestation of supply and demand. If there were not people angry enough to want someone killed, if there were not assassins prepared to kill for payment, then the Market would close. The service of the hired killer is really no different to the service of the paid soldier - indeed it could be argued to be a more ethical form of service in fact. The assassin does not kill indiscriminately, and always knows why they are wielding their blade. Arguably contracted murder is one of the foremost tools of civilised society. "
+
+Behind him, Jorgen heard the distinctive sound of Chief Magistrate Karkovitch choking on his breakfast. Jorgen bristled a little himself. He hadn't fought at the battle of Gildenheim for ''money'', he'd fought because it was his duty; because his people needed him. The sheer smugness radiating from this creature turned his stomach and.... He became acutely aware that the emissary was watching him closely, even if he could not see their eyes. It was clearly goading him, eager for another argument. He forced himself to swallow the angry outburst bubbling up inside him.
+
+"I suppose you don't really have the leisure for a proper discussion," said the creature and Jorgen sensed disappointment in its voice. "I shall merely reiterate that the City has no interest in curtailing legitimate trade merely because it offends Imperial sensibilities. Nor will it place pressure on the Sanguine Market to disclose the details of their dealings. We consider the matter closed, and thank you for your time."
+
+The emissary bowed again, a trifle more perfunctorily, and spun gracefully around. Before Jorgen could do much more than sputter a farewell, they were gone, bowing their head to pass through the low opening.
+
+Dabbing his mouth with a napkin, Karkovich tapped Jorgen on the elbow. "I assume your guest will be returning via the Imperial regio?" he asked. His voice was level but the chief magistrate was very red in the face indeed and clearly spoiling for a "proper discussion" of paid-for murder.
+
+"I assume so, but..." Jorgen was talking to empty air. Without really waiting for an answer, the Varushkan had hurried out to catch up with the four-armed representative of the City of Gold and Lead. The younger Civil Servant sighed, and looked back down at his notes. Tongue protruding slightly from between his teeth he carefully circled the name EDMUNDO for a fourth time and added another exclamation mark for good measure.
+
+## Plenipotentiaries
+
+* Five eternals responded to plenipotentiary messages from the Imperial archmages.
+* Four have agreed to meetings of one kind of another, either in person or via emissaries.
+* While Adamant has declined a formal parley, he has sent his emissaries across the Empire as detailed in [[Stone and stone]], and plans to send a herald to Anvil once the Master of the koboldi is appointed.
+Every season, each of the six [[archmage|archmages]] may send a single [[Archmage#Plenipotentiary|plenipotentiary]] message to an [[eternal]] of their realm. The eternals are bound to respond, although not always in a way the archmage may wish. Following the Autumn Equinox, five eternals responded to invitations to [[Archmage#Parley|parley]] via their emissaries. Due to the [[Cloud waves break|peculiar mist]] that has not spared [[Anvil]] from it's memory-altering caress, the details of ''when'' these emissaries delivered their responses is unclear - but the messages have been checked and double-checked and are certainly correct in their details. 
+
+### Lord Rain
+* Lord Rain has agreed to attend parley at 9PM Friday
+* In addition to the Archmage of Spring, the eternal invites the Grandmaster of the  Silver Chalice to send up to four members of the order (which may include the Grandmaster themselves).
+* The Archmage of Spring is currently Ser Fabienne De Miel of Dawn
+During the Autumn Equinox, a group of magicians under the watchful gaze of Spring Archmage Ser Fabienne De Miel of [[Dawn]], met with an eternal known as [[Ossegrahn]], Lord Rain, Ter Andzrev, or the Coomarta of the Rains. Lord Rain was apparently placed under [[amity and enmity#enmity|enmity]] by the [[Imperial Conclave]] during the reign of [[Emperor Giovanni]] and has had no involvement in Imperial affairs in 350 years - until last season when they [[A_pleasing_and_deceptive_face#An_Unexpected_Request|requested parley]] with the Spring Archmage and members of the Silver Chalice. 
+
+During the parley, Lord Rain's heralds explained that their master's renewed interest in the Empire came from the lasting [[interdiction]] against the foul, poisonous [[Rivers Run Red]] ritual, and passed along a request that an enduring state of [[Amity and enmity|enmity]] between the Conclave and the eternal be revoked. Ser Elienne De La Chasse raised a [[Declaration]] of [[Amity_and_enmity#Declaration_of_Neutrality|Neutrality]] after the meeting, which the Conclave [[383YE_Autumn_Equinox_Conclave_sessions#Neutrality:_Ossegrahn|chose to uphold]]. 
+
+In early Winter, as the first snowfall of the year saw Anvil draped in an ivory blanket, a representative of Ossegrahn emerged from the Imperial Regio in the form of a smiling young man, barefoot and wearing naught but a kilt of thick blue wool. The youth then proceeded to dance and sing in the regio until representatives of the milita were fetched - attracting quite a crowd some of whom joined the herald in his spontaneous performance, imbibing freely from a seemingly endless flask of sweet water the fellow brought with him that filled those who drank it with energy and a zest for celebration. A Civil Servant was fetched, and the impromptu party tailed off a little as the emissary focused their attentions on their task - delivering a message from Lord Rain.
+
+The eternal welcomes the invitation of the Spring Archmage as the fields in Summer welcome the gentle rain. They agree to attend a sweet and pool-placid parley with them and with representatives of the newly established [[Silver Chalice]] [[Conclave order]]. Rather than rush forward in a tumult, Ossegrahn asks that the Archmage (or their representative) accompany no more than four members of the Silver Chalice, chosen by (and potentially including) the [[Grandmaster]]. 
+
+The parley will occur 9PM Friday evening, and during that time Lord Rain will do their best to answer questions and discuss how they and the Silver Chalice can work together to preserve life and ensure the flow of good health to all living things in the Empire. In particular, they would like to continue discussion around the creation of a ritual using the power of the Endless Spring, which the herald believes was called "''From the Mountain to the Sea''". Apparently the eternal was in the middle of negotiating this ritual with the Spring Archmage and representatives of the [[Unfettered Mind]] when the Empire cut relations with them "a little while ago" (in this case "a little while ago" meaning three and a half centuries presumably). 
+
+
+### Ephisis
+* Ephisis has arranged a meeting with agents of Prospero and Basileus Flint at 2PM Saturday afternoon to discuss matters of the Sanguine Market.
+* The Archmage of Autumn (or representative) is invited to attend along with up to two aides.
+*  Livia of the Spire of Celestial Cascade, Lord Colwynn de Rondell, and Astrid Fjellrevening Rezia di Tassato are also welcome at the parley, regardless of whether the Archmage atttends
+* The Autumn archmage is currently Edmundo of Damakan's Forge of Urizen
+A four-armed diplomat swathed in silken veils brings a message from [[Ephisis|the City of Gold and Lead]], in answer to the plenipotentiary of the Autumn Archmage. The emissary gives no name, and begins by offering assurances that no apology is necessary with regards to the [[I_heard_a_source|offers made]] during the Spring.
+
+The main body of their message is an explanation that what Edmundo is asking for is impossible. Free trade is the lifeblood of any true civilisation, and the City will not restrict it in any way. Hearts are a commodity like any other; assassins have the same right to trade with the City of Lead and Gold as any other profession. Specifically, the arrangement between certain families of [[Faraden]] and the brokers of the Sanguine Market will remain unchanged, and should others approach them to secure similar services they will be welcome to do so. Furthermore, the request that the agents of Ephisis inform on those who make use of their services is rejected in the strongest possible terms. The confidentiality of the clients of the City of Lead and Gold is sacrosanct.
+
+Reading between the lines, this appears to be a reaction to an attempt by the Autumn Archmage to address reports of a [[Small_but_nearby#An_Unpleasant_Altercation|bounty offered on Imperial citizens]] by the Modnos family of Faraden. Specifically, a 10 Throne reward is offered for anyone who places the heart of one of three Imperial citizens the Modnos believe have impugned the good name of one of the family heroes into a box used with the [[Ephisis' Scale]] ritual. In essence, agents of the City of Gold and Lead appear to be offering some form of escrow service to facilitate the payment of assassins prepared to work for the Modnos. Furthermore they are pointedly refusing to stop doing so.
+
+However, the diplomat is keen to stress that the opportunity for profit still exists! The markets of the City of Lead and Gold bustle with buyers and sellers from every city in the realm. Two of them, agents of the [[Prospero|City of Bridges]], and the [[Basileus Flint|City of Locks]], have expressed an interest in meeting with the archmage to discuss what they could offer to help the Empire with this problem. To this end, the City has arranged for a chamber to be available from the Hall of Worlds at 2PM Saturday afternoon where these agents will present their offers. The Archmage is invited to bring themselves and no more than two aides, should they wish to hear what the agents of Prospero and Basileus Flint have to say. In addition, any of those people endangered by the brokers of the Sanguine Market - specifically  Livia of the Spire of Celestial Cascade, Lord Colwynn de Rondell, and Astrid Fjellrevening Rezia di Tassato - are also free to attend the meeting either alongside the Archmage or in their place.
+
+Ephisis' emissary categorically assures Imperial citizens that the rules of the parley will be scrupulously observed; anyone attending this meeting will be safe from attempted assassination.
+
+
+### Roshanwe
+* Roshanwe has arranged a parley at 4PM on Saturday afternoon.
+*The eternal invites five very specific individuals to meet with her emissary.
+* The current Archmage of Day is Skywise Gralka of the Imperial Orcs.
+In the darkest hour of the night, a herald of the eternal Roshanwe arrives at Anvil via the Imperial Regio. She is dressed in the manner of a Highborn sailor, albeit in a style three centuries out of date, and carries a burning torch. Untroubled by the late hour, she unerringly seeks out a Civil Servant, rousing them from their bed to receive a message from the Weaver of Nets. When the Civil Servant politely draws attention to the lateness of the hour, the emissary reminds them that if one has light, one should take it into the darkness, not waste it at noonday. The civil servant remains unamused, but professionalism can fill even the grumpiest of hearts.
+
+The emissary - who gives no name - indicates that Roshanwe is pleased to receive the message of the Archmage of Day. Regretfully, however, the herald apologises that the Beachcomber is simply unable to sponsor the Archmage's festival. Newness, novelty, inspiration - these things have their place but in general they are perhaps more suited to the dark shadows of Night than to the shining beacon of Day. While it sounds like it could be a worthy endeavour, unfortunately there is little in the idea of ''innovation'' for it's own sake that aligns with the Navigator's remit and nothing that they could help with. Moreover there is danger in such things, at least one great civilisation of past ages that valued innovation found itself devoured by catastrophe, it's heirs left to wander the trods for untold generations, and the Walker on the Littoral wishes no such fate for the Empire.
+
+However, Roshanwe does seek a closer friendship between herself and the Empire and would welcome an opportunity to parley. She earnestly desires a meeting between some of her favoured and five Imperial citizens and hopes that the Archmage of Day will honour her wishes and arrange this. If she is prepared to do so, then the Navigator asks for a meeting with the Archmage of Day themselves or their representative; a [[torchbearer]] of good standing among their peers; a hero with a questing spirit; a beacon of wisdom; and a magician of the [[Sevenfold Path]] who speaks with the voice of their order. Each of the five seekers must be a different person; each of the five must come from a different Imperial nation; and each of them must be prepared to share a tale of seeking or discovery. The emissary is confident there will be plenty to talk about during the meeting; Roshanwe's interest in the Empire is deep and abiding.
+
+
+### Sung
+* Sung offers parley at 10PM on Saturday night.
+* The eternal is particularly interested in meeting with a Wintermark Mystic and a Hakima of the Brass Coast; the Seer of the Gateway is also invited.
+* The current Archmage of Night is Elyssiathain of Urizen.
+As the sun sets over the snow-dusted fields, one final emissary from the eternal realms walks the streets of Anvil. A stout pilgrim bearing a dark lantern and a staff of feather-hung wood, the emissary wears the patchwork cloak of a [[Varushka|Varushkan]] [[Varushka_religious_beliefs#Storytellers|storyteller]]. He finds the Hub busy with preparations for the coming summit and waits patiently until noticed by one of the Civil Servants. Smiling gently, he delivers a message from [[Sung|the Rainbow Serpent]] for the ears of Imperial magicians; the eternal Sung will attend parley.
+The audience with Sung will take place in darkness, and there will be some lighting effects although no strobe lighting.
+The Archmage is invited to bring themselves (or their representative) and up to three others to meet with the ''Lord of Illusions''  who will speak to them of more mundane matters. Sung asks that the group include at least one [[Wintermark]] [[Mystic]]; at least one [[Hakima]] of [[the Brass Coast]]; and at least one [[Varushka|Varushkan]] who is wise in the way of mysteries. Finally she requests that Livia the Celestial Cascade, known to some as the Seer of the Gateway, also attend the meeting. The ''Everflowing River'' does not mandate or demand the presence of these people; it simply changes what topics will be discussed.
+
+
+### Adamant
+* Adamant does not seek parley, but is dispatching some of his ''koboldi'' to speak with the Summer Archmage and the Master of the Koboldi once they are appointed.
+* The current archmage of Summer is Brother Luke of The Navigators of Virtue
+King [[Adamant]] has been busy in the Empire in recent years, offering the aid of his ''koboldi'' to construct great edifices of stone, or to work in the [[mine|mines]] of Imperial citizens. A small group of his little scaled servants arrives with due pomp and ceremony at the Civil Service Hub in Anvil, bringing with them a proclamation. The King on the Granite Throne thanks the Summer Archmage for their gracious words, and looks forward to many more years of friendship with the Empire. 
+
+The eternal is very pleased to see that the [[Construct_College_of_Engineering_and_Architecture|College of Engineering]] has finally been completed in Temeschwar. It may have taken a little longer than anticipated, but what is time to a creature as everlasting and unchanging as Adamant? The King 'Neath The Diamond Peak anticipates that the [[Imperial Conclave]] will be appointing the first [[Master of the Koboldi]] during the coming Solstice via the [[Candidacy|Declaration of Candidacy]]. He has arranged for his ''koboldi'' to deliver some ''regalia'' to the bearer of this historic title once they are confirmed. The emissary will chat with the Summer Archmage at the same time, if they are available. 
+
+More importantly, however, he has dispatched his servants to every corner of the Empire to see how they might combine their skills with Imperial wealth; the intent is to create a list of unique architectural projects that the Master of the Koboldi might find interesting. Over the next three months, ''koboldi'' pop up all over the Empire. Measuring, studying, asking questions and talking enthusiastically with Imperial citizens. They're enthusiastic about offering their aid to individuals in return for treasure - precious stones, gold, silver, and platinum for the most part - but mostly they are looking for opportunities. Chances to build imposing or valuable things to cement the bond between Adamant and the people of the Empire. 
+
+And quite a list of projects they come up with too! From [[Stone and stone#Three Great Beasts|statues of great beasts]], to an [[Stone_and_stone#Tower_of_the_Dragon|unbreakable tower]] and a [[Stone_and_stone#The_Gildenheim_Deepforge|magical forge]], the ''koboldi'' have over half a dozen suggestions for commissions the Master - whoever that ends up being - might want to give thought to. It's not all good news however - in addition to the opportunities the ''koboldi'' have presented, they've also discovered a potential threat to the Empire... a terrible force gathering in the depths of the [[Delver_of_the_Depths#Lorenzo.27s_Deep_Pockets|north-western sinkhole]].
+
+You can learn more about what the ''koboldi'' have been up to in the [[Stone and stone]] Wind of Fortune.
+
+### Kaela
+* The eternal Kaela declines a parley with the Winter Archmage
+* She offers to extend the [[Kaela#The_Gift_of_Kaela|Gift of Kaela]] to those fighting the [[vallorn]] but requires an invitation to do so.
+* The current Archmage of Winter is Syn Truth-Walker Returned
+The night before the first travellers begin to arrive at Anvil for the Winter Solstice, a messenger in dusty robes brings a message from the ''Black Dog'', the eternal [[Kaela]]. Obviously of Axos extraction, her unwholesome skin crinkles and rustles like paper when she walks. She is clearly one of the undying legions that attend upon the ''Sorrowful One''. As is generally the case with emissaries of the ''Queen of Silence'', the message she bears is short and to the point.  
+
+The ''Lady of the Grim Host'' already offers her gift to those Imperial citizens who face lingering torment at the hands of the [[Druj]]. It is no great matter for her to reach out her hand to those who face the horrors of the [[vallorn]]. She can do so in [[Brocéliande]] and [[Liathaven]] without difficulty. She already has the [[Amity and enmity#Amity|amity]] of the [[Imperial Conclave]], and so there would be no real obstacle to giving her blessing to those in [[Hercynia]] and [[Therunin]]. However...  that being said...
+
+In the past, when Kaela has offered her gifts to Imperial citizens she has faced opposition from the [[Imperial Synod]]. She requires the explicit approval of Imperial priests before she will lend her aid against the vallorn. She wishes to see a [[statement of principle]] raised in the [[Assembly#General_Assembly|General Assembly]] that encourages those in dire straits to accept the gift of Kaela, and to find solace in the swift and painless oblivion it brings. If the statement achieves a [[greater majority]], then those fighting against the vallorn in the four territories where it currently dwells will be able to call on her gift. The vallorn will [[Vallornspawn husk|find no purchase]] in bodies reduced to dust.  Should the assembly request her aid in this fashion, she will turn her thoughts to how else she might be able to help the Empire bring an end to the vallorn.
+
+Fulfilling this request may prove tricky, however. At the very least, there is evidence that those who accept the Gift of Kaela cannot be contacted with [[Whispers through the Black Gate]], and the spiritual implications of that have yet to be fully explored. The ''Cold Hearted'' has offered no explanation for this apparent side effect.
+
+## Timetable
+At the moment, these times are quite vague and represent a best guess. They will be finalised before the Winter Solstice. In each case, the parleys will take place in an encounter tent, which will involve a short walk from the Hall of Worlds.
+
+The audiences with Sung and Lord Rain will involve NPCs that are created with SFX rather than being portrayed physically by members of crew. If you would normally lip read and would like to talk about how we can help, you can contact plot as early as possible before the meeting.
+{| class="wikitable"
+|-
+! Day !! Time !! Eternal !! Realm !! Note
+|-
+| Friday || 21:00 || Lord Rain || Spring || Parley
+|-
+| Saturday || 14:00 || Ephisis || Autumn || Meeting with agents of other cities
+|-
+| Saturday || 16:00 || Roshanwe ||Day || Parley
+|-
+| Saturday || 22:00 ||Sung || Night || Dual Parley and storytelling in the Hall of Worlds
+|-
+| Sunday (?) || After Master of Koboldi appointed || Adamant || Summer || No formal parley
+|-
+|}
+## Resolution
+Each of the parleys took place as presented, without obvious negative consequence for the Empire.

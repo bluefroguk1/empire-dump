@@ -1,0 +1,53 @@
+---
+revision_id: 88912
+revision_date: 2022-04-27T20:36:13Z
+categories:
+-  Archetype
+-  Rules
+-  Nations
+---
+
+## Overview
+An archetype represents a social niche that your character can occupy - something that your character is first and foremost known for. When you create your character you can choose a single character archetype from those described for the nation on the wiki. So you can be a [[Wintermark_political_leadership|thane]] of a [[Wintermark]] hall, a [[mountebank]] on the streets of [[Sarvos]], or a [[hakima]] of the [[tribe|tribes]] of [[the Brass Coast]].
+
+Archetypes are entirely optional; you don't have to have one, you can simply choose to be a regular citizen of the Empire instead. Picking an archetype helps to define your character, it gives them an identity and can help you to develop a purpose. Having a goal, something you want to achieve or accomplish is one of the more important aspects of character creation, so choosing an archetype is intended to help you to work out who you character is and what they're trying to accomplish.
+
+All archetypes are a natural part of the setting, an archetype is something your character ''is'' or ''does''. Thus you character can tell people they are a [[stargazer]], an [[earl]], or a [[Wintermark_economic_interests#Mediator|mediator]] and it will affect how other characters see you and treat you. Your archetype may mire you in intrigue, it may bring you into conflict with other characters, it may even change over the course of you playing your character. Ultimately though, it's about helping you to identify what is most important to your character.
+
+Not every character role is an archetype - there are plenty of priests in [[Dawn]] who are not [[troubadour|troubadours]], for example. Archetypes usually present a role in a certain way that resonates with the themes of a nation - or in rare cases is at odds in some way with those themes.
+
+You can see a list of all [[:Category:Archetype|character archetypes]] here.
+
+## Singular
+When you create your character you have the option to choose a single archetype for your character. You can only choose one archetype, because your archetype represents the most fundamental thing about your character's chosen purpose. We're asking you to think about what the single most important aspect of your character is and to tell us your choice if any.
+
+Archetypes don't limit you in play though. [[Urizen|Urizeni]] [[stargazer|stargazers]] are interested in [[Urizen_magical_traditions#Esoteric_Lore|esoteric lore]], but you don't have to be a stargazer to be interested in that. Most Urizeni magicians are passionate about magic to an extent. Your character might become involved in lots of different activities that are commonly associated with other archetypes and that's fine. You can be the proud earl of a [[noble house]] and who also performs fantastic music in Dawn - you don't have to be a troubadour to sing about bravery.
+
+But an archetype is about focus - the tighter your focus the more it says about you - and the more impetus its giving you to get engaged with the game. So the more you try to have lots of archetypes - the less you're actually getting the benefit of any of it. If something sounds fun - read more about it - and embrace it. The game is designed so that leaning in to an archetype and embodying that will hopefully improve your game.
+
+## Intrigue
+Occasionally we publish Winds of Fortune that provide plot hand-outs that are available to one or more specific archetypes. For example, when ''bite'', a dangerous fighting drug that the [[Imperial Senate]] made illegal was circulating on the streets of [[the League]] cities, players who were playing a [[bravo]] or mountebank [[Fly_high#Bite|received a dose]] of the drug. These plots are relatively rare, it is a much better idea to pick an archetype that appeals to you, rather than one you think might bring you plot.
+
+These plots reflect the way the world interacts with your character between events based on what you have told us about your character. If something is happening to the bravos of the League, then anyone who has told us that their character is known first and foremost as a bravo of the League will receive information about that.
+
+If you have not chosen bravo as your archetype, then you can still find out what is going on - you will just have to do it in-character by talking to the bravos in-character at the event!
+
+## Change
+It's fine for your archetype to change when you play your character. This might happen because you realize you've made a mistake when you created the character. It's quite common to find your character taking a different approach in play to the one you envisaged when you created them. If you realize you'd actually rather than define your character as something else, then you can change it at any point.
+
+Once you have been playing your character a while you may find that your archetype changes because of the things they are experiencing, the things they are doing and the things that are happening to them. Changing your archetype can represent a significant milestone in a character's life - a Dawnish earl might renounce his noble house and leave to become a [[Questing_knight|questing knight]]. A [[Wintermark_military_concerns#Grimnir|grimnir]] might give up his oath of non-violence to join a band of [[Wintermark_religious_beliefs#The_Frayed|frayed]] in search of vengeance on a hated enemy.
+
+In either case you can just [mailto:admin@profounddecisions.co.uk email us] and we'll update your archetype for you. You can do this at any time, you don't have to justify or explain it. Your archetype is important first and foremost to you. The only proviso is that the change will not take effect until after the Winds of Fortune are published, so if you update your archetype then you won't be automatically included in a piece of plot that affects that archetype until after the next event.
+
+## Deviation
+An archetype will often encompass a foundational idea that is central to the nature of that archetype. For example, a grimnir is a Wintermark healer who has sworn an oath to forego the heroism of the front line in battle. It's fine to create your own unique character for Empire, but you can't change the foundational idea for an archetype - because the archetype is defined by that concept. You can't be a grimnir who goes striding into the thick of battle, weapons in hand, because that not doing that is one of the things that defines a grimnir.
+
+Of course there are plenty of Wintermark warriors who have studied the healing arts. The grimnirs are not the only healers in Wintermark. Grimnirs are merely a specific type of healer - one that is noted for swearing an oath to avoid battle. If you are considering an archetype but some key part of that role does not appeal to you then it is better to pick a different archetype or just play a regular citizen. Not being an archetype can be just as important if the differences are important to your character. For example, if you are an Urizeni magician who thinks esoteric lore is bad idea and that magicians should do everything possible to avoid the [[Stargazer#Resonance_and_the_Omnihedron|omnihedron]], then you are not a stargazer - but your character clearly cares about the stargazers, about the things they are up and about trying to stop them!
+
+## Status
+Some archetypes have significant social status associated with them. The earls of Dawn meet regularly at [[Anvil]] to discuss matters of importance to the nation. The [[Varushka religious beliefs|wise ones]] of [[Varushka]] meet to chose their senators. Every nation has one or more archetype associated with leadership or prominent social status.
+
+The wiki will often describe the respect with which these members of this archetype are treated by other characters of the nation. If you choose to embrace one of these archetypes then you can expect people to treat you accordingly, but only if you play the role in the way it is described. An Urizeni [[arbiter]] leads a [[spire]] and can expect respect and courtesy from their fellow magicians, but that is unlikely to last long if you try to throw your weight around and expect other players to do what you say because "the brief says the nation respects you". If you want people to treat you as a respected arbiter then you have to play that role.
+
+
+

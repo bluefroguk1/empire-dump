@@ -1,0 +1,48 @@
+---
+revision_id: 88239
+revision_date: 2022-04-09T10:32:15Z
+categories:
+- Wintermark
+---
+
+Every sinew used, every coin counted, every life saved.
+
+## Overview
+The Suaq are one of the three traditions of Wintermark. [[Wintermark History#Origins|According to the scops]], they are all descended from a single mother and are the brothers and sisters of seals. Regardless of the truth of this claim, they and their [[Kallavesi]] cousins have lived in the north-west since before written records, perhaps predating even the Terunael empire. They joined with the Kallavesi and the [[Steinr]] to [[Wintermark History#The Troll Wars|defeat the trolls]], and claim the rich alpine meadows and shifting iceflows of [[Sermersuaq]] as their ancestral home.
+
+The stereotypical Suaq is shrewd, practical, and cunning. They dress in the colours of the far north - ivory and grey. Their traditional garb is a tight fur coat emblazoned with important drawings and symbols - such as depictions of powerful creatures they have slain or enemies they have overcome, and bedecked with ivory or bone decorations. In warmer climes the coat is exchanged for tightly wrapped robes. They are always alert, anticipating danger or opportunity, listening to the wind and watching the flight of birds. Let the Kallavesi worry about the future; the Suaq solve the problems that are in front of them, and they solve them decisively.
+## Suaq Heroes
+The Winterfolk admire [[heroism]] and believe that it speeds a spirit's passage through the [[The Labyrinth of Ages and the Paragons and Exemplars|Labyrinth of Ages]]. Wintermark legends are filled with the tales of cunning Suaq, who use guile to outwit their enemies, whether hunting dangerous prey through the snows of Sermersuaq with spear or bow, or tricking vain eternals and their foolish servants. The Suaq believe that heroism comes from outwitting their enemies, so that they can overcome problems through shrewd thinking while husbanding their resources carefully. 
+Blood-on-the-Snow
+Winters in the north can be harsh. There are stories of Suaq clans forced to turn to consuming the flesh of their own dead to survive - a practical if tragic response to a desperate situation. It is rarely talked about, but it does happen. 
+
+One of the reasons it is considered dangerous is the influence of [[Agramant]], who the icewalkers call Blood-on-the-Snow. This dangerous [[eternal]] is drawn to, and encourages, cannibalism. Its crazed servants often hunt humans in the same way the Suaq hunt deer and seals. Feasting on the flesh of humans and orcs for pleasure is a particularly insidious form of madness.
+
+Anyone may come to the attention of the Howler-of-the-Wastes, but icewalkers in particular have a complex relationship with the Agramant. For many Suaq, dealing with Blood-on-the-Snow is seen as the ultimate test of their skills. They approve of the Conclave's decision to keep the Wastewalker under [[Amity_and_enmity#Enmity|enmity]] - partly from the arrogant assumption that southern magicians are not suited to dealing with the deadly and insidious trickster. In private, however, more than one Suaq magician has risked everything by entering into a pact with the dangerous eternal spirit. Those who manage to keep their agreements straightforward, or who negotiate with extreme cunning, are able to employ powerful boons without risking their sanity or lives - or those of their family and friends.
+
+"''When you hunt the reindeer, and you are overconfident, the reindeer escapes and you go hungry. If you hunt the wolf, and you are overconfident, the wolf hunts you and does not go hungry."
+The Suaq are an observant people who strive to respond quickly to changes. Their homeland is not gentle, and the landscape can shift with little notice. Those who walk the floes understand the need to place each step with care - they listen to the song of the wind and the ice and let it guide them. Their dangerous land demands that they remain alert to omens, ready to adapt their path at a moment's notice. The Suaq are happy to make plans - but in their legends they never allow those plans to cause them to miss the opportunity to seize a new advantage that presents itself. 
+
+More [[Wintermark_economic_interests#Mediator|mediators]] are drawn from the Suaq than any other tradition. The Suaq are canny and frugal and know the real value of things. It is not in their tradition to waste anything, and the greatest Suaq triumphs are those that secure the greatest good for the least cost. They like to weigh the evidence before acting, and if they sense something has been missed they make the effort to seek it out. They are not cowards, but they prefer to enter a conflict - whether on the battlefield, in the marketplace, or the floor of the Imperial Senate - with every edge they can wield. Sometimes called the ''middle people'', the Suaq are well versed at mediating between the brash Steinr and the cautious Kallavesi; some extend this facility to arbitrate disputes between other peoples and even nations. [[Empress Mariika]] is seen as a great example of the canny Suaq hero, unafraid of taking unpopular yet practical action. In doing so she saved the entire Empire from bankruptcy - and worse.
+
+Perhaps because of this, many Suaq are surprisingly prosperous folk who enjoy accumulating wealth. Some claim it harks back to their old need to lay down stores for the winter. Before the founding of the Empire, the majority of the merchants and traders that traveled from Wintermark to other lands were Suaq. Most enjoy negotiation and often relish haggling enjoying the test of wits. Wise merchants of the [[the Brass Coast|Coast]] and [[the League]] have long since learned not to under-estimate the acumen of the "simple folk from the north". The Suaq have a deep understanding for the versatility and power of wealth and are surprisingly adept at wielding it to open doors, secure aid, or acquire just the right weapon at the right time.
+
+Above all the Suaq are cunning, a trait best exemplified by the craft of the [[Wintermark_magical_traditions#Icewalkers|icewalkers]]. They try to never confront a problem directly, always looking for a way to outmanoeuvre their opponents and turn the situation to their advantage. The great Suaq hero Fainomaiken, lover of the frozen eternal [[Cathan Canae]], exemplifies the idea of using cleverness and trickery to achieve heroic goals. King Ulmo was another famous trickster whose cunning was chosen over the bravery of the Steinr or the wisdom of the Kallavesi when the three people united to form the nation of Wintermark.
+
+## Suaq Virtues
+Of the three peoples, the Suaq as a whole have least to do with the Way. Spiritual matters are often left to the Kallavesi - the Suaq deal with the practicalities of survival here and now. That is not to say that they are particularly heretical or blasphemous - they simply have better things to do. When they think of the virtues, there are some which resonate particularly with their traditions.
+
+The Suaq are [[Ambition|Ambitious]] in nature. They pride themselves on their ability to overcome problems and to change situations to their benefit. They know, deep in their souls, that nothing is beyond their grasp if they can just apply their cleverness; even the [[Wintermark culture and customs#Skein|skein]] can be tricked if one can work out how. More than this, the ideal Suaq hero embraces the words of Fainomaiken - they aspire to secure the greatest possible good for their people. A Suaq leading a hunt or a war party aspires to bring every single one of their companions home safely if at all possible.
+
+Like their cousins the Kallavesi, the Suaq value [[Wisdom]]. The Suaq hero learns so that they might find ways to change the world, not for the sake of learning alone. They are alert for new lore, carefully considering how it might aid them in their endeavours. They have little time for the procrastinator, or the pedagogue, preferring the understanding that comes from practical experience.
+
+As hunters, they know the value of [[Vigilance]]. They are alert for dangers, but also for opportunities - they are ambitious after all. While the Highborn may be obsessed with internal and external threats, the Suaq take a more practical approach. Keeping one's eyes and ears open will not only grant forewarning of danger, but also put one in a position to be able to gain advantage for oneself and one's people.
+
+The Suaq have a peculiar relationship with the virtue of [[Prosperity]]. As hunters, they understand that everyone must contribute to the health of a hall. But there is a widespread view among the Suaq that hard work is not an end in itself but rather a sign that one has not found a quicker, less arduous way to solve the problem. The farmer endures back-breaking labour to provide food that the hunter can catch in a day, and spend the rest of the week on other pursuits. Creativity, not hard work, is what leads to prosperity - and the hunter shares their bounty with those who need it in the knowledge that those they help today will help them in their turn tomorrow.
+
+## Further Reading
+* [[Wintermark_look_and_feel#Suaq|Look and Feel]]
+* [[Sermersuaq]]
+* [[Wintermark_economic_interests#Mediator|Mediators]]
+* [[Wintermark_magical_traditions#Icewalkers|Icewalkers]]
+* [[Apaay Ukiuking]], a short essay about early Suaq history and the life of an influential Suaq hero.

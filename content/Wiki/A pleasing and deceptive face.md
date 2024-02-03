@@ -1,0 +1,167 @@
+---
+revision_id: 87540
+revision_date: 2022-03-18T11:35:09Z
+categories:
+- Winds of Fortune
+- 383YE Autumn
+- Recent History
+- Plenipotentiary
+aliases:
+- A_pleasing_and_deceptive_face
+---
+
+
+"There. Under the trees. Do you see..."
+
+Aubie tried to point without pointing, but he need not have bothered. The towering, gnarled creatures were barely hidden. There were two of them, flanking the shorter figure who had not moved in an hour or more, simply stood with her arms folded and hood pulled up. Waiting as the thorns and vates approached. Tita looked back over her shoulder quickly. The walls of the Broch were thick with watchers, many with bows, ready to face whatever might be about to happen.
+
+As they drew close, the thorns fanned out slightly to either side, leaving the vates to step forward a little. Latheria Song-Of-Stars, generally considered the wisest of them, leant on her staff and studied the small group with interest. The waiting figure pulled back her hood, and spread her arms. She was a briar - there was no mistaking it. Coils of bark were clearly visible on her forearms, her neck, and her face. Unlike the briars Tita had seen before, however, she was also covered in pale blossoms that seemed to sprout from beneath her hair and from seemingly random places across her body.
+
+"I bring a message," she said. Her voice was calm, but there was something flashing in her eyes. "You are Navarr. Will you deliver it for me?"
+
+Latheria Song-of-Stars continued to lean on her staff.
+
+"Perhaps," she said after a few moments of consideration. "It depends on who your message will harm."
+
+The briar's lip curled.
+
+"The message will harm nobody," she said. "Certainly it will harm you no more than you harm yourselves with your refusal to see the truth."
+
+She paused as if waiting for Latheria to speak, the vate simply stared impassively at the young briar woman. The silence stretched out. Tita could not shake the suspicion this encounter was not going the way the briar expected. Taking her eyes off the hulking spawn of the Green Mother, she snuck a sideways glance at Aubie. He made a quick silent-speak hand gesture that comprehensively communicated his own unease, but kept his attention focused on the deadly creatures flanking the speaker. 
+
+"The message is for the Fabienne, the Archmage of Spring." said the briar at last, her voice thick with barely-contained frustration. "Tell him that the Voice of the Oak made an offer at the beginning of Summer, to end hostilities, but the Empire chose to ignore it. The Imperial Conclave still considers itself an enemy of the Endless Forest. The Navarr would rather embrace the Druj than accept the gifts of the Green Mother. So be it. The Empire will reap the consequences of its decisions."
+
+She paused for breath, casting an imperious gaze across the vates who continued to remain calm and silent. The briar woman bit her lip, a flare of uncertainty on her bark-twisted features. Tita was surprised at how very young she looked in that moment.
+
+"You threw the mercy of the Green Mother back in her face, and you must live with the consequences," she repeated, her voice growing stronger and more certain. "Last Autumn the Dawnish archmage was granted an audience with the Mother of Briars; there will be no such favour granted to the emissary of the Empire this year. Nor in the year that is to come unless the Conclave turns aside from its cowardly refusal to hear the truths of the Mother of Briars."
+
+She fell silent then. Again, that silence stretched but it was Latheria who broke it this time.
+
+"Is that all," she said, her voice steady. They might have been in a Highborn marketplace discussing the price of bread for all the emotion Latheria Song-of-Stars and her fellow vates were showing.
+
+"No!" said the emissary of Yaw'nagrah quickly. "There is also a message for the briars of the Empire. Tell them that they will find welcome and solace in the embrace of the Green Mother and that only she will...."
+
+But Latheria was not listening. Tatia caught a flicker of silent speech - ''we return. no fear''. Then, as one, the vates turned their back on the briar woman and began to walk back towards the Broch. They moved without urgency - walking rather than running - and the thorns closed in behind them, their spears still at the ready. 
+
+Tita saw fury ripple across the briar's face as she faltered and fell silent. She half raised one hand, and the two terrible creatures flanking her creaked slightly, moving in response... but then she let her hand drop. Her face was twisted with rage and humiliation however, and Tita did not doubt that it was taking every iota of self control the briar possessed not to unleash her allies on the retreating Navarr.
+
+She did not unleash the children of Yaw'nagrah, but she watched the Navarr contingent all the way back to the Broch before disappearing along with her monstrous companions into the gloom beneath the trees.
+
+## Plenipotentiaries
+* Six eternals all responded to plenipotentiary messages from the Imperial archmages.
+* Five have agreed to meetings of one kind of another, either in person or via their emissaries.
+* While one meeting has been declined, a second eternal has requested a parley in their place.
+Each season, the six [[archmage|archmages]] may each send a single [[Archmage#Plenipotentiary|plenipotentiary]] message to an [[eternal]] of their realm. The eternals are bound to respond, although not always in the way that the archmage wishes. Following the Summer Solstice, six eternals responded to proposals of parley by Imperial archmages - and one additional eternal who has ''not'' been the subject of a plenipotentiary message has ''also'' requested a formal meeting. 
+
+Those eternals who have agreed to meetings have specified the topics that will be discussed, and will most likely refuse to talk about other topics.
+
+### Eleonaris
+* The Lady of Pennants has suggested that certain Imperial courtiers should meet with her favoured diplomatic entourage in the Hall of Fellowship at quarter-past seven on Friday night.
+* The current archmage of Summer is Brother Luke of The Shattered Tower
+A month after the Summer Solstice, a willowy elfin creature arrived at the Castle of Thorns bearing a message from the Summer Realm. She did not speak to any of the civil servants associated with the Conclave, merely handed over a scroll of iridescent red and burnished gold, and departed. When unfurled, the scroll proved to be a message from the Lady of Pennants, the Queen of the Fields of Glory, Eleonaris.
+
+"''Archmage!''" it read. "''In an Empire where words speak of our friendship but deeds show poor regard, I cannot agree to your request. But allow me to be civil. I enclose a list of Imperial courtiers who would be welcome to greet my diplomats in the Hall of Fellowship, a convivial chamber of Summer. Each should bring a guest of their choosing. You may wish to join them also, though since I will not be in attendance, no slight will be assumed if you prefer to send a member of your entourage or household instead. The Chamber will open at quarter past seven, on the Friday evening of the Equinox. A guide will be sent to the Hall of Worlds to provide safe passage.''" 
+
+It finished with an invitation to the Archmage and four other Imperial citizens, their names beautifully inlaid in gold leaf, each of whom was permitted to bring another guest with them.
+
+"''In addition to yourself - or your emissary - invitations are offered to Sagua i Ezmara; Ceinwen Eternal, Mistress of Ice and Darkess; Urien Novarion of Dawn; and Lady Izett, Knight Protector of Summer. Each guest may bring one other with them - as fellow guest or bodyguard. The meeting shall not be considered a formal parley, but it is expected that the guests will honour the rules of civil discourse and respect the bonds of hospitality.''" 
+
+Finally, at the bottom, was the deep crimson seal of Eleonaris - a roaring lion beneath a crown. 
+
+
+### Surut
+* Surut has agreed to a meeting at midnight Friday
+* The current archmage of Winter is Syn Truth-Walker Returned of Navarr
+On the night of the last new moon before the Autumn Equinox, a hooded figure in black and red glides from the Imperial Regio at Anvil and seeks out the hub. The figure bears a staff of iron, and their face is hidden behind a sable scarf. Only their yellow eyes and a little of the blistered and burnt skin around them is visible. Their voice is hoarse, and low, and a little difficult to hear. They bear a message form Surut, Lord of the Thrice-cursed Court, for the Winter Archmage.
+
+In response to the request for plenipotentiary, the Burnt Knight offers parley to the Archmage. it will take place at midnight on Friday. Following that he will meet with certain individuals he desires an opportunity to treat with; he guarantees the safety of these additional guests, but the Archmage will not be required to attend their meetings. An escort will be sent to the Hall of Worlds to collect the people that Surut wishes to speak to. He anticipates that the Winter Archmage will have no difficulty rounding up the people Surut wishes to meet - or their representatives at least.
+The Surut audience will take place in an encounter tent. There is a short walk from the Hall of Worlds to the tent and back. The encounter is likely to have poor lighting, and will involve smoke.
+In addition to the Archmage themselves, Surut wishes to speak with a number of specific groups. The other individuals invited to meet with Surut are:
+* The Archmage of Winter, alone, to discuss his relationship with the Empire.
+* Alan Fletcher, Jacques Flayer, Lady Claudia Varkulova Remys, Lord Armand Remys, Lord Romande Remys, Mael Donjeon and Olivia Sepulchre.
+* Victor van Holberg, Natasha Ivanova Arkady von Holberg, Monzcarro van Holberg, Gancio, Flávio Capra Gláucio de Regario, Estella Krazentia Callabrese Von Holberg, Dr. Marlien von Holburg
+* Warrakine Ashenhide Arch, alone.
+His intention is to speak to each of the four groups separately rather than all at once, beginning with the Archmage. 
+
+
+### Yaw'nagrah
+* Yaw'nagrah has declined a parley
+* The Archmage of Spring is currently Ser Fabienne De Miel of Dawn
+Three weeks before the Autumn Equinox, a message is delivered to [[Brocéliande#The Broch|The Broch]] in [[Brocéliande]]. The messenger is a short [[briar]] woman, her face concealed in a deep hood, but her [[lineage]] plain on her arms - bark over growing her [[brand|brand's]] tattoos. She emerges from the shadows beneath the trees and remains just out of bowshot, flanked by two towering gnarled tree-things. The keen-eyed Navarr sentries who garrison the Broch's watchtowers interrupt the muted celebration of the vallorn's defeat and after it becomes apparent the trio are not moving to attack, a group of vates and thorns move cautiously out to see what they want.
+
+The briar woman delivers a message she claims is from the ''[[Yaw'nagrah|Green Mother]]''. The Navarr duly deliver her words to the Archmage of Spring. The message reminds the archmage that the ''Voice of the Oak'' [[Drive_back#An_Unexpected_Proposal|made an offer]] to the Empire at the beginning of Summer, and the Empire chose to ignore that opportunity. Last Autumn the Dawnish Archmage was [[We%27ve_been_here_forever|granted an audience]] with the ''Mother of Briars''; there will be no such favour granted to the emissary of the Empire this year.
+
+Yaw'nagrah declines the offer of parley.
+
+
+### Estavus
+* Estavus will send emissaries to the Hall of Worlds at three o'clock on Saturday afternoon.
+* The Autumn archmage is currently Edmundo of Damakan's Forge of Urizen
+On the first day of Autumn, at roughly the midpoint between the Solstice and the Equinox, a squat construct of brass and porcelain in the shape of an oversized child visits Anvil via the Imperial regio. It delivers a message from the ''Prince of Shikal'', speaking in a disturbing off-kilter voice full of clicks and ticks. The ''Forgemistress'' accepts the invitation of the Archmage of Autumn, but rather than request a formal parley she proposes a ''veilingmarkt'' to be overseen by ''Supervisor Coal'', one of her trusted representatives..
+
+A ''veilingmarkt'' is a Sarcophan term that translates roughly as an "auction market" - a practice whereby some Sarcophan captains auction their goods on the docks at the [[Sarcophan_Delves_ports|Delves]] direct from the holds of their ships rather than paying to maintain warehouse space. The veilingmarkt would begin at three in the afternoon on Saturday in the Hall of Worlds. While it would not be a formal parley, the ''World Forge'' will ensure that the market is secured. 
+
+During the ''veilingmarkt'', representatives of three of the guilds of the ''City of Fire'' will present goods or opportunities which will then be sold to the highest bidders. As this is the Autumn realm, and Estavus specifically, they will be trading not in cash but in ingots and measures. The ''Deepstar Guild'' will auction a number of [[Magic_items#Paraphernalia|covenstones]] for [[materials#Tempest Jade|Tempest Jade]]; following that the ''Stonegate Fellowship'' will offer magical rings and talismans for [[Materials#Green Iron|Green Iron]] as a "falling auction" in which prices drop rather than increasing. At the same time, the ''Eisenfaust Consortium'' propose a [https://en.wikipedia.org/wiki/First-price_sealed-bid_auction blind auction] of [[Materials#Ambergelt|Ambergelt]], [[Materials#Beggar's Lye|Beggar's Lye]], and [[Materials#Dragonbone|Dragonbone]] to secure control of potent [[enchantment|enchantments]] of interest to Imperial [[mine|mineowners]], and a representative of the ''Haḍikaravara'' will be offering more personal enchantments to anyone who can pay their price in [[Materials#Orichalcum|Orichalcum]] or [[Materials#Weltsilver|Weltsilver]].
+
+During the ''veilingmarkt'' the emissary of the ''Bronze Artisan'' will discuss the matter of securing military use of constructs crafted in the City of Fire with the archmage, and the matter of patronage with Xanthius and the New Imperial Artisans.
+
+
+### Caucus Forum
+* Lashonar opens the doors of the caucus forum at half past nine on Saturday night.
+* The current Archmage of Night is Elyssiathain of Urizen.
+A fortnight before the Autumn Equinox, a message comes to the civil servants associated with the Conclave. The ''[[Lashonar|Guardian of the Southern Skies]]'', who is called ''Chatterer'', ''Keeper of the Gates of Wisdom'', ''Speaker in Dreams'', ''Eater-of-Silence'', ''Gibbering Ambassador'', the ''Key to the Gate of Words'' will open the doors of the Caucus Forum to the Archmage of Night, the [[Imperial Consul]], and one other during the coming summit. The doors will open at half past nine on Saturday night, and Lashonar will send a guide to the Hall of Worlds to bring the Archmage and their delegation to the Forum and return them safely to the Hall of Worlds once their discussions are complete. 
+
+The ''Consicence-of-Kings'' cautions that the law of peace lies upon all those who enter the Caucus Forum. Any violence by either party will be revisited upon the instigator threefold. Lashonar's retribution will fall upon the person themselves, upon the people for whom they speak, and upon the land from which they hark. Furthermore, as the meeting has been arranged with the formal request of the Archmage of Night it will be considered a parley with all that implies if a party foolishly choose to break the law of peace.
+
+As with previous meetings, Lashonar does not hold with the idea that the Archmage alone determines who speaks and who does not. As such, while the meeting will be formal in all other regards the eternal expects that everyone there will speak as they wish.
+
+Before leaving, the emissary reiterates that this ability to invoke the Caucus Forum is now a permanent right of the Archmage of Night, as long as Lashonar is not subject to [[amity and enmity#Enmity|enmity]]. With this powerful magical tool, it is the hope of the eternal that Imperial citizens may continue their excellent work resolving differences with the power of negotiation rather than with swords.
+
+The one thing the emissary apparently overlooks is mentioning exactly ''who'' the Archmage and their delegation will be meeting in the Caucus Forum. Presumably Elyssiathain of Urizen knows...?
+
+### Kimus
+* Kimus has agreed to a parley in the Hall of Worlds at half past ten at night on Saturday during the coming summit.
+* The Archmage is invited to bring the [[Imperial Seer]], [[Penumbral Watcher]], and [[Imperial Spymaster]] to attend a private meeting with a senior herald of Kimus.
+* The current Archmage of Day is Skywise Gralka of the Imperial Orcs.
+At sunset a fortnight after the Summer Solstice, a gently chiming ball of silver and gold light appears in the air at the Anvil regio. It makes its way directly to the hub, where it hovers politely for several minutes until one of the civil servants plucks up the courage to speak to it. In a gentle, musical voice it announces that it is a messenger from ''the Glass of the Heavens'' and has been sent with a message for the Archmage of Day and the magicians of the Imperial Conclave.
+
+''She-who-watches'' invites the Archmage of Day to bring three Imperial citizens - those holding the titles of [[Imperial Seer]], [[Imperial Spymaster]], and [[Penumbral Watcher]] - to speak with Goyleer and Seelath, two of Kimus' senior heralds, at a place called the ''Interstitial Confluence''. A guide will be sent to the Hall of Worlds at half past ten on Saturday night to that will lead them to the Interstitial Confluence, and return them safely once the meeting is complete. There will be some opportunity to talk about Kimus' relationship with the Empire and - given the composition of the delegation - presumably to discuss how the ''Seer Clad in Veils of Light'' can help the Empire to observe its enemies and keep watch over its own people. 
+
+The herald pauses for a few moments, ringing gently, and then with every indication it is picking its words carefully, continues to speak.
+
+In her plenipotentiary message, Skywise Gralka suggested that there were a number of Imperial citizens who wished to speak with the ''Satrap of Dawn'' on "''matters of magic''". Regretfully, ''Unblinking Eye'' has no interest in such a meeting. If there are specific magicians of the Empire who wish to discuss specific magical matters relevant to the interests of the ''Unsleeping'' then that would be a different matter - but there will be no general meeting with people asking unanticipated questions as there is little benefit in such an arrangement for the ''Endless Watcher''. Perhaps the Archmage may wish to propose a future parley once the precise nature of the queries the magicians of the Empire may have has been determined. Few eternals - and certainly none from the Realm of Light and Water - will be likely to respond positively to such a general invitation.
+
+
+## An Unexpected Request
+* A formal request for parley has been received from a hitherto unfamiliar eternal of the Spring Realm.
+* They are requesting a meeting with the Archmage of Spring in the Hall of Worlds at five o'clock on Saturday evening.
+With six eternals having communicated messages either directly to the civil service or via the Navarr, it is assumed that the responses to the plenipotentiary messages of the Summer Solstice are complete. It comes as something of a surprise however when a ''seventh'' messenger arrives at Anvil three weeks before the Autumn Equinox. She is clearly not an Imperial citizen, but neither does she appear to be a creature of the realms. Wrapped in gorgeous green and blue silks, she has all the hallmarks of being a moderately important magician of [[Principalities of Jarm|Jarm]]. Calling herself ''Zuzana Zarmandu'', and possessed of obvious [[briar]] [[lineage]], she has travelled a great distance to deliver a message on behalf of an entity she calls ''Ter Andzrev''. This "Lord Rain" is apparently an eternal of the Spring realm who requests a formal parley with the Archmage of Spring.
+
+According to Zuzana, Ter Andzrev has not had any engagement with the Empire in three-and-a-half centuries but in response to "certain acts" that the eternal finds promising, it wishes an opportunity to speak with Imperial citizens. It is familiar with the concept of the parley, and wishes to engage in it. If the archmage is willing, they should come to the Hall of Worlds at five o'clock on Saturday afternoon and formally call for Ter Andzrev to send an emissary to the Hall of Worlds. "Lord Rain" also requests that the Archmage bring with them at the very least a designated representative of the [[Silver Chalice]] [[Conclave order]].
+
+Questioning the Jarmish magician about Ter Anfzrev determines only that "Lord Rain" is an eternal of the Spring Realm who is (in the words of Zuzuana) "''gentle, like rain; a life-giver and life-preserver; a quickener of crops in the fields; one who brings all the blessings of fresh water to those who understand the vital power of life''." She makes no secret of the fact that she anticipates receiving a boon from this eternal for delivering their message, one that will allow her "''hands to flow with water''", and has no interest in lingering in the Empire now that the message is delivered.
+
+The Civil Service are at a loss what to make of this. Following inquiries, Leontes the Scribe (the Imperial Archivist) is grudgingly able to confirm that there does appear to be an entity that matches the rough description Zuzana is prepared to provide but it has not been active anywhere in the Empire (as far as anyone knowns) since the late reign of [[Emperor Giovanni]]. With a significant part of the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]] currently in [[Sarcophan Delves|Sarcophan]], it is a monumental task to find much more than a few names and one very significant fact. There is an eternal mentioned in one obscure text called "Ossegrahn", whose epithets include "Lord Rain" alongside several others - ''Coomarta of the Rains'', ''Cupbearer'', ''Brother Harvest'', ''Bogfearthan'', ''Father Tarn'', ''Llomon'', ''Elder Fossegrim'', ''Willowbraid'', ''Beckburn'', and ''Greenfount''. Unfortunately, the text that mentions him is a partial record of early [[declaration|declarations]] of the Imperial Conclave and the declaration in question is one of [[Amity and enmity#Enmity|enmity]]...
+
+There's no detail about ''why'' "Ossegrahn" was subjected to enmity, nor any indication in the records that the enmity was ever overturned, nor any easily accessible information about who or what Ossegrahn represented. Just a reference to "the eternal Ossegrahn", a list of various additional names, and the fact the Conclave was declaring them an enemy of the Empire. Given time and [[Historical_research#Commissioning_Historical_Research|appropriate direction]], Leontes is confident they will be able to find more - as he says "''eternals have big feet, and leave bloody great bootprints everywhere they go."
+
+## Timetable
+{| class="wikitable"
+|-
+! Day !! Time !! Eternal !! Realm !! Note
+|-
+| Friday || 7:15pm || Eleonaris || Summer || Parley
+|-
+| Friday || 12:00am|| Surut || Winter || Parley and discussion
+|-
+| Saturday || 3:00pm || Estavus || Autumn || Market
+|-
+| Saturday || 5:00pm || "Lord Rain" || Spring || Formal Parley
+|-
+| Saturday || 9:30pm || Caucus Forum || Night || Informal parley
+|-
+| Saturday || 10:30pm || Kimus || Day || Formal Parley
+|-
+|}
+
+At least the eternals of Winter are open and honest about their evil nature. The eternals of the other realms are equally dangerous, but present a pleasing and deceptive face, which is all too readily accepted without scrutiny.

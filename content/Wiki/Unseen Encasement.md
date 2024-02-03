@@ -1,0 +1,43 @@
+---
+revision_id: 106666
+revision_date: 2023-12-29T18:04:29Z
+categories:
+
+aliases:
+- Unseen_Encasement
+---
+
+You are a fly, struggling in my web of lies... and ambergelt!
+
+## Description
+Many insects, and on some occasions, even tiny animals end their lives preserved inside a hardened, sticky dollop of [[Materials#Ambergelt|ambergelt]], or inside hardened amber. It should be little surprise then that these materials are often used to decorate the Unseen Encasement. While only a tiny amount of ambergelt resin is used to finish the wood of a staff, an Unseen Encasement is likely to include a large piece of amber or treated glass or crystal at the business end, and the most valuable such pieces have an insect or small creature preserved inside.
+
+One of these staves may occasionally be called a ''Zoologist's Leash'', following their use to temporarily restrain beasts for capture and inclusion in zoos or use in magical experiments. While they cannot be used to capture larger beasts, they are excellent for preventing flying creatures and fast-moving, smaller animals from escaping long enough for a companion to quickly restrain the target. Some [[Imperial Orcs|Imperial Orc]] [[Imperial Orcs magical traditions#Warcasters|warcasters]] and [[The Brass Coast|Freeborn]] magicians find the use of these implements distasteful, referring to their regular use in Imperial history to capture or restrain slaves.
+
+
+## Rules
+
+* Effect: You may cast the [[paralysis]] spell as if you know it.
+* Materials: Crafting an Unseen Encasement requires no special materials. It takes two months to make one of these items.
+
+
+"Sit down and I'll tell you a story."
+
+Tom had heard them all before, every story Granny told, every night like this with the fire crackling and the rocking chair creaking its way back and forward. He could recite them, word for word, down the lilt of her thick Bregas accent, or the way her eyes grew wide with mock fear when the tales turned to Feni, or monsters, or barbarians. He was too old to enjoy them like his little sisters April and May did, sitting in a spellbound cluster at Granny's feet, and too young yet to listen the way Ma did, stopping from time to time in her spinning to listen to the old woman's voice. But he listened anyway- it wasn't like there was anything else to do.
+
+"See that staff hangin' there?" She gestured with one knitting needle to the ugly, gnarled oaken staff, high on the wall over the fireplace, without bothering to look. Tom didn't look either. He could have drawn every detail of the room with his eyes closed, from the boots at the door to every bannister of the stair that led you up to Ma's bedroom overhead where she shared the big bed with Granny. He'd asked about that staff a dozen times, though, but Ma would only ever say that it had been his Da's, then clam up tight shut. Ten years dead, and Tom could barely remember him, but still Ma could barely say his name without welling up in tears. Tonight though - maybe there'd be a new story, and a few answers. 
+
+"I made that staff," Granny said, her voice in counterpoint with click of her knitting needles. "Made it for your Da when he was a lad, when he was first prenticed to the Landskeeper. That was Upwold Peter, back in those days; a proper Landskeeper, even though he was a Townie, not like the sorts you get nowadays. Anyhow, some folks said the staff was an ill omened thing, cut from a storm-blasted oak. Then it was carvin' it, sandin' it, waxin' it an' polishin' it - every day for a month till it shone like the moon on the water. He wasn't much pleased with it, either; he had his heart set on some fancy jade bound wand or somethin' like that, boys bein' what they are. But for once he took a tellin', and once the staff was in his hand he didn't lay it down for fear of gettin' a skelp round his ear.
+
+"Turns out it was for the best, seein' as how one day he's out on the fen, walkin' the bounds or some such when he sees a Feni warrior, comes stalkin' through the reeds, bold as brass, teeth all filed to points an' a rusty sickle in hand. So your Da weighs up his chances an' doesn't fancy any of them much, but he starts walkin' like he hasn't seen a thing, walking along the path, over the boards and along the water like he doesn't have a care in the world. An' this Feni hunter, he's followin' after, thinkin' that he's stalkin' your Da unawares. Your Da leads him on, lettin' him get closer and closer, pretendin' he don't see a thing, and pretty soon he's led that Feni out onto the marsh, an' just when he's right behind him and that sickle's about to come down on your Da's throat, your Da turns, quick as a flash, an' whacks him quick smart with that white oak staff, right in the pointy teeth.
+
+"Now, your Da weren't much of a hittin' type, an' that staff ain't much when it comes to power. All it does is stop you dead in your tracks for ten seconds or so, same as it stops whoever you're hittin' with it, an' where's the use in that, you're thinkin? Well, there's your Da on the path, an' that one swipe with the staff's enough to knock the Feni back - just one step, but out of the marshes one step's enough if it takes you off the path. An' ten seconds in the marsh is a long time when you've stepped off that path, with that black mud suckin' at your feet, draggin' you down, an' sure enough when there was blood back in your Da's limbs enough to get him movin' again, there weren't hide nor hair of that Feni, savin' one hand stickin' up with a sickle grasped in it, and soon enough that was swallowed up by the Fen an' all." 
+
+"So what're you saying, then, Granny?" Tom, slightly surprised by his own daring, found himself too irritated to stay quiet. "Granny knows best, is that what it is? Da did what he was told an' it was all fine? Ain't it a shame you never told him how not to get killed by them orcs?"
+
+Silence fell in the farmhouse, broken only by the click of the knitting needles. Tom heard the sharp intake of Ma's breath from the kitchen, saw April and May's saucer eyes turn from Granny to him, felt the blood rising to his face with shame. Granny's eyes narrowed, just a fraction, then she nodded to herself, as if making a decision.
+
+"Anyroad, I bin speaking to Martha Landskeeper." The chair began to rock again, Ma's spinning wheel whirred back into action, even the fire began to crackle again. "Turns out she's after a new 'prentice." With a creak from the chair, or perhaps from her old bones, Granny got to her feet and lifted the staff down from the wall. She weighted it carefully in her hands for a moment, then offered it at arm's length to the elder of her two granddaughters. "This one's for you, April. Martha says she'll take May an' all, next harvest time when she's of age.
+
+"An' as for you, Tom, there's an oak shaft in the shed an' a barrel of lye, an' come mornin' I'll be out to see what manner of a start you've made. Time I taught on what I know, an' time you learned to take a tellin'."
+

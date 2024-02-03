@@ -1,0 +1,46 @@
+---
+revision_id: 101076
+revision_date: 2023-05-26T22:45:54Z
+categories:
+- The League
+aliases:
+- Free_company
+---
+
+
+“Some Dawnish bravo once told me that they march for glory. I asked him how many bushels of wheat his glory was worth. No respect for logistics, the Dawnish. He got his glory, and I got his armour afterwards, so I suppose we’re both happy. Not in the market for a gorget are you? Only one previous owner…”
+
+## Introduction
+Free companies are military groups in the [[The_League|The League]]. They are usually mercenaries and in the northern cities they are sometimes referred to as landsknechts. Although the free companies lack the breadth of interests of a guild, they share their emphasis on loyalty and this has given them a reputation for effectiveness and discipline on the battlefield that is unusual amongst mercenaries.
+
+Free Companies are famous for their magnificent attire. While some units avoid uniforms as such, they usually adopt a pair of unit colours. Slashed and particoloured, puffed and dagged, their clothes are an unmistakable badge of the profession. A common story says that this style of clothing originated with a habit of making clothing out of the banners of defeated enemies, but now their flamboyance is a badge of honour, a means of standing out and declaring their identity. Some free companies produce their own weapons and armour, mindful of the advantages that a strong unit appearance can bring when seeking contracts. Less prosperous units make do with an assortment of armour, picked up from fallen foes.
+
+The free companies hire themselves out wherever there's a need for disciplined soldiers who are largely unconcerned about moral issues. They send their most senior member out to negotiate terms, and then join an Imperial army on campaign. Often, they'll follow a League general simply because of the financial might of the League, but they are generally happy to follow where profit leads. They are notorious for doing whatever needs to be done to win, even in a country where a ruthless commitment to achievement is commonplace. This tends to make them unpopular with the more high-minded Nations, and they rarely find employment in Highguard or Urizen. 
+
+History is littered with stories of free companies who have gone too far and paid the price - well-known is the tale of Antek of Temeschwar and his Company of the Iron Jawed, who after a number of inconclusive engagements with the Yellow Hand orcs used a group of Dawnish civilians as a lure to draw a large barbarian force into a prepared battlefield. His tactics resulted in the death of all of the orcs and most of the civilians. The Company of the Iron Jawed followed the straggling barbarians back to their settlement, and butchered every single one of them - including all their children - impaling their bodies on stakes as a warning to other orcs. To this day, the battlefield and the orc settlement are said to be haunted by the spirits of the tortured and the betrayed. With the support of the Synod, the outraged Dawnish denounced Antek for his brutality. He was ultimately executed for treason and the Company of the Iron Jawed disbanded, but on his way to his execution, Antek is said to have shrugged and said simply "''There will be more Dawnish. But there will be no more Yellow Hand orcs.''"
+
+## Creating a Free Company
+The free companies are intended to allow players to create iconic mercenary characters in the League. While the [[Guilds|guilds]] regularly hire mercenaries and employ guards, a free company allows a group of players to play a dedicated mercenary group, rather than creating a guild. A free company can be as large as you like but in order to be effective it is essential to have some military presence, either in uptime or downtime. Many free companies include members from every city in the League - if the members of your group take military units rather than other downtime options there is little incentive for them to be from the same city.
+
+There's plenty of space for a variety of non-combat characters in a free company - medical staff, commissariat and crafters can all fit in. Specifically, to fit into the League background your free company will need someone who can sign deals on its behalf, the "Signeur". That person does not have to be the battlefield commander, and would be an interesting role for someone who wishes to play in a free company, but is not as interested in fighting. [[Guilds#Creating a Guild|Creating a guild]] is worth a read for some general advice about the guilds.
+
+An example of an iconic free company in film is Rutger Hauer's band in the film [http://en.wikipedia.org/wiki/Flesh_%26_Blood_(film) Flesh and Blood]. 
+
+## Playing a Free Company
+At events, groups have the choice of which battles to participate in, giving free companies the opportunity to leverage their military skills to try to earn coin. While many nations expect their military groups to fight in the best interests of the nation, as a free company you should protect your right to fight for coin. It can be extremely difficult to make money as a mercenary; most players want to fight in the battles, so you don't have the same bargaining power that historical mercenaries might have had - unless you can ensure you are able to sell the choice of who you fight for. Beware of other players trying to invoke patriotism to justify why you should fight without being paid!
+
+If members of your group have taken military units as downtime resources you will also be able to use these to help the Empire fight campaigns against the barbarians. Like fighting at events, the more you can keep your options open as to which armies your units support, the more money you will be able to earn by using your troops.
+
+
+
+"It was a glorious summer night as the three lieutenants, Mueller, Ostravo and Dovarosz, stood well back to admire the blazing conflagration that had once been the cider press house at Andecello. Around them the soldiers of the Glorious Lacuna Free Company had managed to rescue several tun barrels of cider, and had rolled them out beneath the apple trees for sampling. One bravo filled his helm to the brim from a gushing keg, while another was visible only as a pair of waggling pantalooned legs sticking from the top of the barrel. All in all, the kind of thing one might expect to see after any Free Company victory. Suddenly Captain Roncavo strode into view, the garnets of his cape flashing in the firelight. He slapped one bravo on the back hard enough to spit out a mouthful of cider before striding atop a barrel and adopting his best stage voice.
+
+“My beautiful bravos, my brothers and sisters in arms! Tonight we sup from the heady brew of victory, while the enemy samples the dusty kegs of defeat!”
+
+The bravos cheered and someone thrust a mug of cider into the captain’s hands. The captain raised it high, “Andacello was just the beginning, my friends, the Esperanda guild have made good on their word – the steel of their coffers now flows for as long as we can keep defeating these brigands. So drink up, lads and lasses, drink up!”
+
+The lieutenants continued to watch, bemused, as the Captain was hoisted shoulder high and carried off as a hero.
+
+Mueller turned to his companions, “I tell you what, he can’t fight, he doesn’t know squat about soldiering, and he’s more puffed up than a Freeborn pastry, but sometimes I think hiring that Mountebank was the best decision we ever made…”
+
+

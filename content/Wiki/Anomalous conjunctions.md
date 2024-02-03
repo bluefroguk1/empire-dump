@@ -1,0 +1,68 @@
+---
+revision_id: 85273
+revision_date: 2022-01-13T15:49:43Z
+categories:
+- Sentinel Gate
+- History
+aliases:
+- Anomalous_conjunctions
+---
+
+
+## Overview
+During the Spring Equinox 383YE, the [[Minister of Historical Research]] Ioseph of Phoenix's Reach commissioned the [[Historical_research#The_Department_of_Historical_Research|Department of Historical Research]] to investigate records of anomalous conjunctions of the [[Sentinel Gate]]. The researchers were asked to focus specifically on the disastrous conjunction that saw [[Empress Britta]] and most of the prominent figures in the Empire killed during the Autumn Equinox 376YE. 
+## Anomalous Conjunctions
+The idea of anomalous conjunctions is arguably questionable at a conceptual level. It's not entirely clear how the Sentinel Gate works, but one thing is certain, the damn thing operates to its own rules. Arguably the true question is not why the gate is occasionally anomalous in its behaviour, but rather why it is predictable at most times. All the magical inquiries that have been made on the device suggest that there are few limits to the power of the Gate - anything is possible. Those who make a study of the gate always end up at the same conclusion - just as you think you understand the Gate, it does something you don't expect. Why doesn't that happen more often? Nobody knows. Or if they do, they aren't telling.
+__TOC__
+There are some things that are known about the Gate. One of the things that is especially interesting is how resistant it is to magical interference. The Gate does what it does, and it appears that no mortal or eternal force can change that. The potential that could be realized if conjunctions could be created, moved, or enlarged are enormous. There are magicians who have devoted their entire life to the attempt but there have never been any credible reports of success. There are a few claims from [[eternal|eternals]] that they have been able to influence the Gate - the creature [[Mazen]] has claimed on at least three prior occasions to have a power over the Gate for example - but none of these claims have ever been proven beyond a reasonable doubt. The opinion of most wise magicians is that the eternals are no more able to influence the Gate than they are - at best they might conceivably have the occasional awareness of an existing and hitherto unnoticed conjunction closely tied to their interests.
+
+The best theory that the Imperial magicians have is that the Gate does not create conjunctions - it only provides the means to access them. There are many theories on what creates the conjunctions, [[Urizen|Urizeni]] [[astronomancy|astronomancers]] have extensive star charts proving that the conjunctions can be shown, in retrospect at least, to be linked to the nature and movement of the stars. The [[Kallavesi]] shamans scoff at that, insisting that it is the [[Wintermark_culture_and_customs#Skein|skein]] of the heroes themselves that creates the conjunctions. I once met a [[the League|League]] [[mountebank]] who absolutely insisted that the conjunctions were a consequence of the four great rivers of the Empire, carrying the twists of fate across the land, creating links all along the way. It was a pretty theory - but there's little evidence for it.
+
+## The Final Conjunction of The Young Empress
+Empress Britta died in [[Skarsind]] when leading the Empire to take advantage of a [[Sentinel_Gate#Major_Conjunctions|major conjunction]] against the [[Thule]]. The conjunction was to Skarsind where a Thule force had recently returned to [[Skarsind#Gildermark|Gildermark]] following a failed assault on the Imperial stronghold at [[Skarsind#Solvihill|Solvi]].
+
+''Dunstan Irontongue'', [[General]] of the [[Wintermark_military_concerns#The_Fist_of_the_Mountains|Fist of the Mountains]], organised the defence of Skarsind when it was invaded by the armies of [[Otkodov]] in 373YE. His plan was to relieve pressure on the northern halls in the territory by pulling the attention of the Thule southwards. He focused his own troops on the well defended town of Solvi, in Solvihill, the base of operations for the campaign. Starting in 375YE, he lead a number of smaller sorties through the Sentinel Gate, often accompanied by members of the [[Imperial Military Council|Military Council]], [[Senator|senators]], [[Archmage|archmages]] and [[Cardinal|cardinals]] as is common to this day. There was nothing unusual about these conjunctions, nothing that was noted as strange at the time or after.
+
+In the weeks leading up to the Autumn Equinox of 376YE, it became apparent that a very unusual conjunction has occurred. As [[the Door]] became ascendant the Imperial prognosticators identified a huge conjunction, the largest they had ever found, big enough to take the entire assembled host of the Anvil heroes to Solvi. What was particularly notable was that it was the only major conjunction that took place during that summit; there are usually a number to choose from, but in this case the prognosticators were clear that this was the only one they could find.
+
+Imperial strategists didn't hesitate to seize the opportunity and seek to maximise the potential benefits. The normal debates of the Military Council during the [[Muster]] over which conjunctions to take were not needed. All the survivors of the summit confirm that there was only one, as a result the question of whether or not to take the conjunction was simply never considered. This caused some considerable grumbling in the Council; there were generals who felt that fate had cheated the Empire by not giving them the conjunction they personally wanted.
+
+Empress Britta was named field marshal for the battle, as was common at that time. A number of her advisers had suggested that the place for a successful [[the Throne|Throne]] is sitting on the Throne, not leading from the front. General ''Shank Ironhide'' in particular, was especially forthright, repeatedly arguing that the Empress should not be risking herself by her regular forays through the gate. But she was nothing it not impetuous and she heeded them not. 
+
+The opportunity to strike into [[Skarsind#Gildenheim|Gildenheim]], held the potential, to kill the command of two Thule armies that were stationed there. If successful, the strike would have thrown the two armies into disarray for a season, leaving them open to an assault in the coming season. This was a chance to potentially begin the reclamation of Skarsind, put the Thule on the back-foot. It should be pointed out that historians who have studied Britta's tragically short life claim that the battle was the really a chance to deliver a crushing blow to those who had repeatedly refused to back her in the various political houses of the Empire.
+
+Before the Gate was opened the understanding was that the people who would be able to pass through, would be split into four separate groups. The belief was that they would arrive and be in sight of each other and would need to surround the Thule command so that they could kill them before they could flee the battlefield. It appears however that the Imperial heroes had under-estimated the power of the Thule, each army commander had a single mighty war beast with them, a huge creature with a single horn rising from a heavy head. Some descriptions make the beasts sound like unicorns, but they are almost certainly mythical. What the Thule apparently had were a pair of "war rhinos", huge beasts bred in the far north for war, able to carry a single heavily armoured rider. The beasts proved devastating, repeatedly smashing through the Imperial lines and quickly turning the ambush into a rout. Of the many hundreds who accompanied Empress Britta to Solvi, less than half made it back, so great was the slaughter.
+
+For completeness sake I have attached the report created by the War Scouts office for the Military Council:
+
+The Thule offensive against Solvi has been turned back, thanks in no small part to the Empire's military units supporting the armies defending the town. Some of the Thule armies are returning to the settlement of Gildenheim. We believe the Warlock generals plan to await further instruction and information from the Dragons. The leaders of the two main armies the Talons of the Winds and the Cry of the Highest are camped near the settlement with their entourage.
+
+We have identified a single great conjunction, the largest ever found, that will allow us to surround the camp and slaughter the generals. The conjunction appears to be split into four parts, all beginning within a few minutes of each other on the Saturday morning. All of them going to Gildenheim, Gildermark. We have noted the presence of two large war beasts within the camp and advise Imperial heroes to take appropriate measures to counter these monsters.
+
+The heroes of Anvil are tasked with attempting the following objectives:
+
+Kill the Warlock generals of the Talons of the Wind and the Cry of the Highest, looting any winged missive from the Dragons that they have received.
+
+Retrieve any loot the Black Maggots might have taken from the recent campaign. 
+
+Push the Thule out of the woods and hold the gate for an hour, allowing the slaves within a chance to escape.
+
+
+## The Nature of the Conjunction
+''This section demonstrates some bias by the writer of the original historical research report''
+
+Since her death, there has been a small amount of discussion on the unique nature of the conjunction that claimed Empress Britta's life. Often the focus of that discussion is around the idea that the conjunction was ''responsible'' for her death in some way. The logic is as simplistic as it is faulty. The nature of conjunction was highly unusual - it was anomalous as some call it. Empress Britta died on the conjunction - therefore it must have been the conjunction that killed her.
+
+Even the [[mystic|mystics]] of the [[Kallavesa]] swamp ought to be able to see the flaw in such a theory. On the day Empress Britta died, her childhood friend, Maurika, had died just four hours earlier braving a small conjunction attempting to defeat some beast of [[Agramant]] that was troubling the [[Sermersuaq#Suaq_Wastes|Suaq Wastes]]. Maurika was a constant companion of Britta - always by her side. Everyone knew she would have died for her Empress in a heartbeat - and her skill with sword and shield had saved her friend on two occasions previously. Are we to imagine that Britta might have lived if Maurika had survived? Does that mean that the Howler killed Empress Britta? Once you play this simple game - you can argue that every drunken hero who overslept and missed the start of the battle was responsible for her death. Every mother or father who elected to stay behind with their child was responsible. There's no end to the strands of the net that connect Britta to every node that ultimately led to her death. Picking one out, purely because it was unusual, seems pointless.
+
+Meaningful correlations are a consequence not of physical causation but of personal motivation. It's more reasonable to blame Britta's political rivals - whose hostility to her goals drove her to push herself harder and harder in every battle, than it is to blame the Gate. While it might be harsh to say they wanted her dead - there were more than one senator who regretted her election and probably didn't weep when she died. They wanted to bring her down - and through their bloody provocations they led to her death.
+
+The point is that intent is everything in these matters - and one thing everyone sane who studies the Gate agrees on is that there is no intent to the conjunctions it links. There's no purpose to whatever force creates conjunctions, no rhyme or reason to it. The conjunction that led to Britta's death was unusual, but not significant.
+
+Anomalous conjunctions are simply that - anomalous. A deep study of the gate shows there have been scores of such things even in recent times. Sometimes a conjunction is so small that only one person can travel through it, sometimes they are massive. There have been conjunctions that scattered people over a wide area, and conjunctions that left the heroes trapped inside a stockade or building. For a long time it was believed that conjunctions could only take you to places that were visible under the stars - and then there were a whole set of conjunctions to tunnels under the [[Great Pits of Ennerlund]] to fight a group of wraiths that had escaped there when a pair of [[Sorin]] idolators ran amok. It was an absolute rule that conjunctions could only take you to places in the Empire... right up until people discovered conjunctions that took those who travelled directly into an actual regio. Not near one you understand, but actually in the regio itself.
+
+In the end the only thing we can really conclude about the nature of conjunctions is that there is nothing we can conclude about the nature of conjunctions. Just when you think you know what is going to happen - it will surprise you. And - like Britta - that can sometimes be terrible - and it can sometimes be wonderful. Have a care and plan as best you can is the advice I always give any who attempt it.
+## Further Reading
+* [[Sentinel Gate]] - in-character details of the Sentinel Gate.
+* [[Sentinel Gate design]] - a longer explanation of some of the out-of-character design philosophy for the Gate.
+* [[Conjunctions]] - advice for preparing for conjunctions

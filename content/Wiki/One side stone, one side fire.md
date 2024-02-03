@@ -1,0 +1,138 @@
+---
+revision_id: 99620
+revision_date: 2023-04-19T09:55:14Z
+categories:
+- Winds of Fortune
+- 384YE Spring
+- Recent History
+aliases:
+- One_side_stone,_one_side_fire
+---
+
+
+"It's finished!" said the ''koboldi'' enthusiastically, wiping its taloned hands on an old rag. 
+
+Ragna didn't say anything.
+
+"We're just buffing it up with some ground up tempest jade we had lying around because, well you know. But it's definitely finished now." The foreman seemed unaware that the runesmith hadn't commented, nor indeed had she asked about the half dozen ''koboldi'' moving over the surface of the door, clearly still hard at work. The little creature's normally dull red scales had also clearly been polished, and gleamed like a ruby in embers. The rest of the ''koboldi'' who weren't putting the final touches to the Red Iron Door also appeared to have shined up their scales, and it was a little like being in the middle of a pile of gemstones. 
+
+Ranga continued to not say anything.
+
+"Do you see there where we've included loops that allow ropes to be attached to it so it can be lowered into the pit? I'm very pleased with that, it was one of your people suggested it, it'll make it ''much'' easier to get it down to the bottom of the pit. Obviously that's the easy bit, but there's nothing wrong with making the easy bit super easy if you can, don't you agree? Plenty of time for difficult once we get to the hard bit!" 
+
+A frown crept across the ''koboldis little face and he kept glancing up nervously at Ragna as he spoke. He finally realised she wasn't replying. He peered at her face carefully.
+
+"Are you alright, Runesmith Ragna? Only your mouth is open and your eyes are even more open than I've ever seen them, and you haven't asked any questions for several minutes, and if you don't mind me saying so that's not like you?"
+
+Ragna swallowed and licked her lips. She cleared her throat.
+
+"It's... um... it's quite big," she said at last keeping her voice level only with an effort of will.
+
+"Oh that!" chuckled the ''koboldi'' foreman. "Yes, I suppose it is fairly impressive isn't it? We did say it was going to be. But don't you worry! We're very good at moving very large things about in tight spaces. That bit will be easy! A piece of piss as Master Bill likes to say! No the hard bit will be stopping the vast swarm of ''trogoni'' from gobbling us all up before we can find the right spot to install it! And then protecting us while we get it set up! I assume the Master has all that in hand, yes? Of course they do, what am I like!"
+
+The ''koboldi'' foreman chuckled again at his own foolishness. Ragna swallowed again, but didn't say anything. 
+
+The foreman stopped laughing, and started to look just a little bit worried.
+ 
+## Overview
+Ever since the [[Temeschwar#Lorenzo.27s_Deep_Pockets|grand sinkhole]] opened up in 381YE it has been a pestilence for the surrounding area, with groups of trogoni occasionally emerging from it to attack anyone in the surrounding area. When Adamant's koboldi visited the area they expressed alarm at the presence of so many large well developed mana sites near the sink hole. Everyone knows trogoni are attracted to these sites. According to the leader of the koboldi, the trogoni are breeding and it is only a matter of time, a year or two at most before a huge force of them boil up out of the ground to mines and mana sites across southern [[Hahnmark]] and [[Temeschwar]], and throughout northern [[Upwold]] and [[Miaren]].
+
+To avert this disaster, the [[Master of the Koboldi]] instructed them to create a great rune-marked door using 25 wains of [[mithril]] alloyed with 25 ingots of [[Materials#Green Iron|Green Iron]] and [[Materials#Orichalcum|Orichalcum]]. This door, this gate, could then be installed in the depths of the sinkhole to block the the single shaft that leads down into the depths where the trogoni thrive. The shaft was [[Delver_of_the_Depths#Trogoni_Burrows|posited by Snowstorm Henk]] when the [[orc]] scholar [[Delver_of_the_Depths#Exploration_of_the_Sinkhole|explored the sinkhole]] last Winter and its existence confirmed by the koboldi. Sealing the shaft will remove the risk of an attack by the trogoni for years to come - especially if the right kind of seal is applied. 
+
+Now the gate is complete, it is ready to be installed. To do that, the Empire will need to fight their way into the sinkhole. The gate can't be installed on the surface after all, the Empire will first have to descend into the depths to secure an area where the gate can be emplaced. The trogoni numbers increase the further down you go, so the size of the Imperial military force will determine where the gate can be installed. The more soldiers, mercenaries, and adventurers the Empire can convince to join the efforts, the deeper they will all be able to go. Such is the nature of the sinkhole, the further down it can be sealed, the richer the returns will be for everyone.
+
+## Where You Are
+* The Master of the Koboldi can announce the installation of the door at any point provided the Empire continues to enjoy Adamant's friendship
+* If the Empire wait more than three seasons, a ''massive army'' of trogoni will eventually boil out of the hole and attack everyone for miles around
+
+The installation of the Red Iron Door is not critical, but it is pressing. In theory it could be installed at any time - it is complete and ready to go. Installing it does require the skills of the koboldi to shape both metal and rock, so the Empire will need to have the support of the eternal [[Adamant]] but that doesn't seem in any jeopardy at the moment.
+
+The [[Master of the Koboldi]] can indicate that the installation is going ahead by making a [[Senate announcement]] to that effect. The expedition into the sinkhole will then become available to Imperial military units in the following downtime. This would ''not'' prevent the Master from also announcing a [[commission]] using their [[Master_of_the_Koboldi#Commission_stone_construction|power]].
+
+Of course there is the possibility that an entire army of trogoni could come boiling out of the hole at any moment. The original estimate was that it would be at least a year before that happened, but that calculation is three months old already. What is definite is that nothing will come out of the hole before the Winter Solstice, but after that all bets are off. If the Red Iron Door is not in place by the start of the Winter Solstice 384YE, then there is a chance of the trogoni emerging. Worse, the longer things go with nothing happening, the more the risk of an eruption will grow and the more trogoni there will be when they do finally emerge.
+
+## How Far I'll Go
+* Once the Master of the Koboldi makes their announcement the following ''Expedition to the Depths'' action will be available to Imperial military units
+* The Red Iron Door will seal the sinkhole; the question is how far down into the depths the ''koboldi'' can get before they are forced to seal the tunnels
+Thus, the question is just how far down the adventurers can get before they have to place the door. The greater strength of military units that go into the hole following the Spring Equinox, the further down the door will be placed. This has two main effects - it leaves more of the sinkhole to be exploited by Tobrytan Dunning, the [[Delver of the Depths]] and it also determines what kinds of treasure the adventurers are able to claim.
+
+The Expedition into the depths action will appear in the [[Military_unit#Take_Independent_Action|independent action]] dropdown in downtime after the Master declares that the door will be installed. [[Enchantment|Enchantments]] that improve the ability to undertake paid work or independent action will enhance military unites committed to the expedition. 
+
+A starting military unit that supports the action will not receive their usual production but will instead gain 3 ingots of weltsilver, 3 ingots of tempest jade, and 2 crystal mana. An upgraded or enchanted military unit will gain proportionally more. If there is enough combined force for the Empire to reach the lower levels of the sinkhole, at least 5000 strength or more, then the rewards for ''everyone involved'' will increase.
+
+
+Less than 5000 strength : Natural Caverns
+The adventurers will only be able to explore the [[Delver_of_the_Depths#Natural_Caverns|natural caverns]] - the highest level of the sinkhole - before opposition of the trogoni becomes too much. They will be able to seal the sinkhole, removing the threat of the trogoni boiling out of it, but at the cost of some of the more valuable veins of ore and much of the crystal mana. The [[Delver of the Depths]] will see a significant loss of income, losing 20 ingots of weltsilver, 10 ingots of tempest jade, and 6 mana crystals from their seasonal production.
+
+5000 - 10000 strength : Terunael Mineworkings
+The adventurers will make it down into the [[Delver_of_the_Depths#Terunael_Mineworkings|Terunael Mineworkings]] before the ''koboldi'' are forced to place the door. The sinkhole is sealed, removing the threat of the trogoni and creating an opportunity to expand the mineworkings, allowing the Delver of the Depths to produce even more tempest jade and weltsilver each season and allowing him to pay adventurers to recover even more. Unfortunately, some of wealth in the lower depths of the sinkhole will still be below the new seal and thus forever out of reach. That means the Delver of the Depths will still lose 6 mana crystals permanently from their production. Every military unit that took part in the expedition will gain 2 ''additional'' ingots of weltsilver and tempest jade in addition to the basic treasure they are guaranteed to recover.
+
+Over 10000 but less than 15000 strength : Ancient Tunnels
+The adventurers can reach the [[Delver_of_the_Depths#Ancient_Tunnels|ancient tunnels]] before the ''koboldi'' are forced to install the mithril door that will seal the shaft. Reaching the ancient tunnels will do much more than just remove the threat of the trogoni. In addition to an opportunity to develop the mineworkings as above, there will be a chance to explore the ancient tunnels which will allow the Delver of the Depths to harvest orichalcum and a small amount of mithril from the sinkhole. 
+
+Better still, every military unit that took part in the expedition will gain 2 ''additional'' ingots of orichalcum and 1 additional ingot of weltsilver and tempest jade on top of the treasure accrued reaching this point. In addition, the prognosticators expect a total of 10 wains of mithril to be recovered by the adventurers, distributed randomly between all the military units that take part in the expedition.
+
+Over 15000 strength
+If there are enough of them then the adventurers will be able to fight their way down to the [[Delver_of_the_Depths#Trogoni_Burrows|trogoni burrows]] near what is assumed to be the bottom of the sinkhole. The trogoni are expected to put up fierce resistance so the ''koboldi'' will not have long to install the Red Iron Door. Once done, the sinkhole will be sealed, removing the threat, but leaving an immense number of tunnels, passages, ruins, and caverns to explore deep beneath the earth. In addition to the opportunities above, there will be an opportunity to increase the amount of crystal mana provided to the Delver of the Depths. Every military unit that takes part will gain an additional 2 mana crystals as well as the treasure they have already collected, and five random military units will be lucky enough to find a ring of ilium somewhere in the dark passages.
+
+Finally, with so many underground tunnels still to explore, it will create a permanent new [[Military_unit#Take_Independent_Action|independent action]] for any military unit called Explore the depths. This opportunity will allow military units from the nations bordering the sinkhole - any Wintermark, League, Marches, or Navarr military unit - to explore the tunnels and recover metals and crystal mana rather than the normal production for independent action. Other nations' military units will also be able to explore the depths, but will do so less effectively.
+
+
+## We Know the Way
+* The Dawn, Marcher, Navarr, and Wintermark National Assemblies can all urge their people to support the expedition into the depths of the sinkhole
+* The League armies can also support the expedition into the depths by using their siege quality
+The expedition into the sinkhole is risky. There are literally monsters down there - but there's also great wealth. It's likely that the wealth on offer will be enough to attract some interest, but several Synod assemblies are in a position to encourage their citizens to join the expedition if they wish. 
+
+### Out From Under
+* The Marches National Assembly can urge their people to remove the threat to Upwold
+The sinkhole borders Upwold to the north. Several households were swallowed up when the land collapsed; others were forced to move away from the dangerous edge. The ''trogoni'' are not as much of a threat to the farms and market towns of the Marches, but their presence still makes the [[landskeeper|landskeepers]] nervous. It's unlikely the trogoni would be drawn to the mana crystals at [[Guardian_of_the_Prosperity_of_Afal#Afal-on-Ash|Afal-on-Ash]] (surely) but possibly it is better not to take the chance?
+{{Mandate|mandate=The Bloody Great Hole swallowed up more than a barrow load of Marcher soil when it opened up in Birchland. Lost time is never found, so lets make bloody sure there's no more surprises coming from down there. We send {named priest} with 25 doses of liao to urge Marchers to sort the problem out once and for all.|assembly=Marches National Assembly}}
+If the mandate is passed, then any Marcher military unit that supports the expedition into the depths of the sinkhole will receive additional payment from the grateful people of Upwold. Each such military unit will gain 24 rings in the form of actual money paid to them by the households, especially those of Birchland.
+
+### Echoes of the Past
+* The Navarr National Assembly can urge their people to preserve the Terunael Mineworkings
+It was the seers at the [[Miaren#The_Pool_of_Silver_Clouds|Pool of Silver Clouds]] that foresaw the opening of the sinkhole, and their foresight that allowed warning to be given to the folk living nearby. Since the exploration of the sinkhole depths discovered various tunnels, clearly dating back to Terunael times, there are some Navarr who feel that, as the heirs of that empire, they might bear a little responsibility for the threat of the ''trogoni''. Perhaps more importantly, given time to explore the Terunael mineworkings free from the threat of trogoni, the hole might just reveal a few more details about what it was the ancestors of the Navarr were doing down there. Plus of course there's the threat to Goldglades, and potentially even the city of Seren itself if the ''trogoni'' thirst for magic draws them to attack the [[Eternal Flame of Miaren]] for example.
+{{Mandate|mandate=We should embrace our past, and shoulder a little of the responsibility for the sinkhole. Now we have a chance to repair the damage, we should not be half-hearted in the attempt. We send {named priest} with 25 doses of liao to urge those Navarr who can to help the ''koboldi'' reach the lower depths of the sinkhole so that access to the ruins of our past may be preserved.|assembly=Navarr National Assembly}}
+If the Navarr National Assembly passes this mandate, then every Navarr military unit that takes part in the expedition will gain a +1 rank bonus that will improve both its contribution and its rewards. Furthermore, provided the expedition manages to accrue enough strength to make it to the Terunael Mineworkings (at least 5,000 strength) then a short report will be prepared for the [[Advisor on the Vallorn]] at the Summer Solstice providing some more details of what the Terunael were doing in the mineworkings.
+
+### Heroes of the Dark
+* The Wintermark National Assembly could enact a mandate urging Winterfolk heroes to venture into the depths of the sinkhole
+When the Dunsfall Sinkhole opened up, it was nearly catastrophic. Dunhearth Hall, Woodhall and several smaller halls were all evacuated in time to avoid major loss of life but only thanks to the foresight of the Navarr. Now there is the threat of a great horde of ''trogoni'' that could come boiling out of it at any time. There are many mana sites along the borders of the hole; Hahnmark is bolstered by [[Delver of the Depths|Lorenzo's Legacy of Vigilance]] (an ironic name given the circumstances); the mines that dot the hills and the mountains are rich in tempest jade and other materials the trogoni are drawn to. If the horde ''does'' come out it does not require a mystic to guess where it will attack first. But perhaps more than any of that the idea of risking life and limb descending into a dangerous dark hole in the ground to fight monstrous beasts that threaten your family, and your neighbours is exactly the kind of heroism that many Wintermarkers dream of.
+{{Mandate|mandate=The Dunsfall Sinkhole is a threat that needs to be faced by the bravest heroes in Wintermark, We send {named priest} with 25 doses of liao to urge those Winterfolk brave enough to risk the claws of the trogoni to make a name for themselves sealing the Sinkhole.|assembly=Wintermark National Assembly}}
+If the Wintermark National Assembly passes this mandate, then every Wintermark military unit that takes part in the expedition will gain a +1 rank bonus that will improve both its contribution and its rewards. Furthermore, if the expedition manages to secure the ancient tunnels (at least 10,000 strength) then the heroes of Wintermark will be able to recover some of the secrets hidden in the runes there which will provide additional opportunities to the [[Conduit_to_destiny|Runegrott Runeforge]] when it is completed.
+
+### A Glorious Adventure
+* The Dawn National Assembly could enact a mandate urging the champions of Dawn to seek glory fighting the unending horde of the trogoni
+Dawn is on the other side of the Empire from Lorenzo's Deep Pockets, and arguably has no dog in this race. On the other hand... the sinkhole is a massive dangerous hole in the ground that opens up into a maze of tunnels occupied by terrifying monsters that can shred steel armour. Its sunless depths probably hide secrets and wonders the like of which no knight has ever looked upon. Just to be one of the knights that ventures into the abyss would bring glory - but just imagine if they succeeded in reaching the bottom? Few ever have the chance for such glory in their lifetimes - the achievement would create a milestone that knights and knight-errants would seek to emulate for years to come.
+
+{{Mandate|mandate=Let the quest for glory be the blazing sun that guides you as you venture into the abyss! We send {named priest} with 25 doses of liao to urge those who seek glory to delve into the deeps beneath the world and defeat whatever evil they may find there!|assembly=Dawn National Assembly}}
+
+If this mandate is enacted, any military unit from Dawn that supports the expedition will gain a +1 rank bonus that increases both its effective strength and the rewards it receives. Furthermore, if the expedition manages to make it all the way down to the Trogoni Burrows, the special independent action will also be available to the Dawnish to take with full effect. Furthermore, if the true depths of the sinkhole are reached the knights will inspire and push their fellows to greater, more reckless acts and amount of mithril and ilium available to all the delvers will be increased by 10 wains and 5 rings respectively.
+
+### Fighting In Tight Spaces
+* The League armies can provide vital assistance to the expedition into the sinkhole
+When a chunk of the [[Temeschwar#Vardstein_Vale|Vardstein Vales]] fell into ''il Volpe's Arse'' there weren't all that many people who were particularly upset about it. The Vales are a howling wilderness when all's said and done. The prospect of hordes of mana-hungry horrors that can rip through stone as if it were hot wax though... that's a different story. Particularly given how their mouths must be watering at all the mana [[Lorenzo%27s_Legacy#The_Legacy_of_Loyalty|Lorenzo's Legacy of Loyalty]] provides. Still, there are few nations in the world, never mind the Empire, that can match the League's acumen for engineering. There are also few nations that have quite so much experience fighting in cramped quarters - many soldiers of the League armies grew up brawling in crowded streets, narrow alleys, and cramped flophouses. They could bring that expertise to bear in the expedition into the hole.
+
+The general of the [[Towerjacks]] or the [[Wolves of War]] (or both) could order their army to travel to any of the four territories that borders the hole - Miaren, Temeschwar, Upwold, or Hahnmark with instructions to [[Army_qualities#Siege|storm the depths]]. The soldiers will help investigate the depths of Lorenzo's Deep Pockets, providing invaluable assistance by securing passages, shoring up tunnels and also killing any trogoni foolish enough to come near.
+
+If they do so, then half their strength will be assigned as a bonus to the expedition, and any League military unit that supports the Expedition to the Depths action will gain +1 rank for both effective strength and production. Only the army's base strength will be used for this calculation; orders, enchantments, and military units supporting the army (rather than the opportunity) will have no effect on this bonus.
+
+However, while the army is helping with this opportunity, their effective strength will be halved in the event the territory they are defending is attacked. They will also be in danger from the trogoni - as they will be supporting the military units they won't lose any soldiers they will not be able to benefit from either natural resupply or emergency resupply while so engaged.
+
+
+### Alternative Mandates
+* There are no alternative mandates for this opportunity for nations other than the League, Wintermark, Navarr, and the Marches
+* It is not possible to submit an alternative mandate to dissuade treasure-hungry adventurers from flocking to the hole
+Unlike many similar opportunities, only the National Assemblies of those nations adjacent to the sinkhole can submit alternative mandates. Virtue assemblies could attempt alternative mandates but only the most strongly worded mandate in support of the efforts will have an effect. Given the pecuniary nature of the rewards on offer, few adventurous groups will be dissuaded from making the attempt because the Synod tells them not to.
+
+## The Secret of Red Iron
+* The koboldi have offered to share the secret of Red Iron Wards with Imperial mine and mana site owners
+Regardless of how successful the foray into the Sinkhole is, the ''koboldi'' will share the secret of crafting wards from ''Red Iron'' with the mine and mana site owners of the Empire. The material itself is relatively easy to make in small quantities, being a combination of green iron and orichalcum with small amounts of mithril. The red iron is crafted into the form of a circular seal, marked with [[Verys]] and [[Hirmok]], and placed into the depths of a mine or the heart of a mana site. Any mine owner of mana site owner in the Empire is able to produce one of these seals, protecting their mine or their mana site from all save the most determined of trogoni. In essence, this will mean that nobody in the Empire will need to worry about their mine or mana site being attacked by trogoni again - as long as they have such a seal in place.
+
+OOC Note: We don't plan to run any more plot involving ''trogoni'' going forward. There may still be the occasional quest to place a Red Iron seal in a location that has been overrun by the creatures, and they are certainly something you can use at your own player events, but from here on in we will assume that most Imperial mines and mana sites are protected from their voracious hunger.
+## Further Reading
+* [[Stone_and_stone#The_Red_Iron_Door|Stone and stone]] - Winter 383YE wind of fortune detailing the ''koboldi'' warning
+* [[Rocks and gravel]] - Summer 381YE wind of fortune describing the opening of the sinkhole
+* [[Delver_of_the_Depths#Lorenzo.27s_Deep_Pockets|Lorenzo's Deep Pockets]] - details the sinkhole, and the findings of Snowstorm Henk's preliminary exploration of its depths
+* [[Trogoni]]
+* [[Adamant]]

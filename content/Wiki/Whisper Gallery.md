@@ -1,0 +1,60 @@
+---
+revision_id: 80955
+revision_date: 2020-08-14T21:09:16Z
+categories:
+- Eternals
+aliases:
+- Whisper_Gallery
+---
+
+
+## Eternal of Night
+### Sobriquets
+The Whisper Gallery are also known as the ''Shadow Courtiers''; the two terms are used interchangeably.
+
+Specific shadow courtiers (assuming such a concept is relevant) claim to have their own names and demonstrate individual personalities and quirks. However, observers note that these names and personalities seem to lack stability - more than one magician has come away convinced that the courtier  she has just spoken to is the same being as a courtier they interacted with on a previous occasion, now with a different name and apparent personality.
+
+The [[Earl#Enchanters|enchanter]] Warwick de Alyons made a study of the Whisper Gallery and identified five distinct 'flavours' of courtier (see [[#Members of the Court|below]]). Modern magicians have found his notes relatively reliable. The enchanter himself disappeared one night from his locked bedchamber less than a month after he first presented his findings to the Conclave; his sleeping husband was undisturbed by whatever happened to him but later enacted a [[Declaration#Declaration of Enmity|declaration of enmity]] against the Courtiers, blaming them for the disappearance of his husband. The declaration stood for ten years before being overturned, allegedly in return for information leading to the recovery of tomes of Night magic believed lost during the purges of [[Emperor Nicovar]].
+
+The Whisper Gallery were again placed under enmity by the Imperial Conclave during the Summer Solstice 379YE for their role in the [[Bloody murder|heinous murder]] of a number of members of the [[Historical research#Department of Historical Research|Department of Historical Research]]. Both the enmity, and the threat from the Whisper Gallery to the civil servants of the Department, continue to this day.
+
+### Appearance
+The Whisper Gallery claim to be serpents (that is, their true form is that of winged snakes as distinct from the wyrm-form Night eternals who are more draconic). No magician has ever seen one assume their 'true form' however. Rather, they invariably appear as robed figures wearing full-face masks and gloves. Every part of their body is covered; some scholars have speculated that the shadow courtiers are composed entirely of living shadow inhabiting their garments rather than being physical beings. Some scholars have proposed that the Whisper Gallery as a whole might be a single entity, taking multiple forms; there does seem to be an odd continuity of knowledge among them, although this could be explained by a supernaturally developed method of communication or preternatural levels of intuition.
+
+Also unlike other Night eternals, the Whisper Gallery do not noticeably shift their shape - their appearance as robed, masked figures is constant. This supports supposition that the Whisper Gallery may not actually be eternals at all, but the constructs of another eternal using them as a mask. On more than one occasion both [[Sadogua]] and [[Lashonar]] have made comments that have been interpreted to suggest that they 'created' the whisper gallery in some fashion. If there is any truth behind this hints, it is clear that the Gallery has achieved independence from their creator, and on rare occasions where courtiers have been in the company of agents of these two eternals observers have claimed that they seemed ambivalent toward them - if not downright hostile. A similar hostility exists between the eternals of the Gallery and the ''Lady of Mysteries'' [[Sung]], whose fascination with the preservation of enigmas they appear to consider self-indulgent and the expression of a weak mind.
+
+They are rarely encountered individually; a meeting with the Whisper Gallery usually involves at least two of them and a [[#Members of the Court|Sommelier]]. When they gather together, they create an aura that encourages mystery, circumspection and secrecy in the mortals they meet with which can make audiences a less than straightforward affair.
+
+### Concerns
+The Whisper Gallery are obsessed with secrets. Unlike some other Night eternals, they are equally concerned with learning secrets and with ensuring that secrets ''remain'' secrets. They have also evidenced some interest in the way that the things individuals know (or believe they know) about each other influence their interactions and desires.
+
+The gallery collects secrets. While the courtiers themselves have referred to their "collection" the details of what form it takes seem to be fluid. They also act to preserve secrets - in the past agents of the Whisper Gallery have acted to destroy rare books containing esoteric knowledge, and even (allegedly) to assassinate scholars who have been probing into hidden lore.
+
+The Shadow Courtiers love to interact with mortals, discussing their hopes and dreams and their innermost secrets. Individual courtiers appear to have specific interests (see [[#|Courtiers]] below).
+
+### Boons
+On a mundane level, the Whisper Gallery are privy to an astonishing range of secrets. Before they will share something, however, they must usually be 'paid' with a secret of equal or greater value. They are known to employ mortal agents to uncover specific pieces of lore, or to protect those pieces of lore from being uncovered.
+
+The Shadow Courtiers are closely connected to the ritual [[Whispering Shadow Courtiers]], and often evoked when it is cast - they have been known to offer boons that allow this ritual to be performed more effectively, as well as mysterious boons that allow individuals to add specific pieces of information to the 'pool' of secrets the magic draws on. 
+
+The Whisper Gallery are also known to offer boons that enhance the ability to conceal people, places or things whether through ritual such as [[Masque of the Blinded Weaver]] or [[Shroud of Mist and Shadow]]; permanently remove memories with effects such as [[Cast Off The Chain of Memory]]; or invoke [[enchantment|enchantments]] or [[curse|curses]] that preserve secrecy, such as [[Secrets of the Empty Heart]].
+
+They are also known to have an interest in, and the ability to offer enhancements to, the [[night pouch]] spell (and by extension the ritual [[Secrets for the Shadow Courier]]). Some magicians have reported that they can be prevailed upon to deliver messages or even small items to anyone, anywhere in the world provided there is an area of shadow or darkness near the target.
+
+Finally, they are known to be fascinated by and perhaps even dimly aware of the many shapes that future events might take. They enjoy hearing the results of rituals such as [[Signs and Portents]], and occasionally are known to speak prophecy - although in such vague and mysterious terms that their pronouncements are invariably incomprehensible until after the event they describe has come to pass.
+
+### Members of the Court
+Warwick de Alyons wrote a short treatise on the Whisper Gallery called 'The Book of Whispering Shadows' in which he identified five specific 'flavours' of Shadow Courtier. Four of the courtiers are identified by the colour of their robe and their general interest - and by the fact that there are never two matching these descriptions in the same group. The courtiers do not answer to these names, nor are they names they give themselves; rather these are viewed as being titles that have more weight than whatever name the courtier is claiming at the time. 
+
+The fifth courtier (the Sommelier) seems to be a special case, and may actually be the form taken by some of the Courtiers' heralds.
+
+The Lover Clad in Crimson Robes: This courtier appears the most pleasant and engaging of the Shadow Courtiers. It is usually dressed in red, although Warwick mentions that sometimes the courtier appears in black or white robe but always with some scarlet element. It is fascinated by concepts of passionate romance, and by what motivates heroic (or villainous) deeds, especially those done in the name of love. In character it seems 'flighty' or impulsive, easily distracted, and apparently responds well to gifts of painting or sculpture.
+
+The Vizier Arrayed in the Raiment of Dawn: This courtier often takes the lead in situations where they are encountered as a group. It is usually dressed in yellow silk or gold, and with a mask to match. It encourages ambition, and is interested in the inner lives of leaders (especially but not restricted to senators; generals; cardinals and gatekeepers; archmages and grandmasters) and reformers. In character it seems easily angered, and occasionally flies into uncontrollable rages that subside as rapidly as they arose into gloomy introspection. It appreciates deference, politeness and being treated with respect.
+
+The Emerald Scholar in Sable Ribbons: This courtier is always wrapped in green and black, and seems the most cerebral and introverted of the identified courtiers. It often presents a scholarly or even priestly appearance, and seems fascinated by educated discussion and philosophical debate. It considers itself a poet, and is said to appreciate gifts of poetry or song; it favours tragedy over all other themes however. It collects secrets that lead to, or have resulted from, tragic failure or internal flaws. It is especially interested in those who are motivated by jealousy or anger, but never seems entirely satisfied with the results its agents achieve.
+
+The Incarnadine Minister: This courtier is usually in blue, and is often arrayed like a magician. It appreciates riddles, and is often the most reserved and distant of the identifiable courtiers. It is fascinated with magic, but never seems to perform any itself. It often answers questions with questions, and appears averse to making statements. It is known to consistently encourage those it meets to perform actions, without any concern for that the outcome might be (and often appears to offer material support although such rarely materialises). It is fascinated by secret lore, especially that of the distant past, or secrets that contradict widely-held belief. It is said to hoard such dangerous secrets in the same way a dragon hoards gold
+
+The Sommelier: The fifth identifiable courtier never speaks, and is usually dressed in white. While it wears mask and gloves like the other courtiers, it rarely wears a robe. More commonly it appears as a servant or retainer, often in a [[The League|League]] or [[Dawn|Dawnish]] style. It attends the other courtiers and their guests, bringing food and drink, arranging chairs and the like. It delivers payment, and is probably a herald rather than a true eternal. Also unlike the other Courtiers, flashes of skin may occasionally be seen beneath its clothing. When the Whisper Gallery wish to deliver a message, they will sometimes send a Herald attired in a similar manner to the Sommelier, usually with a message or gift on a silver platter.
+

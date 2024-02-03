@@ -1,0 +1,184 @@
+---
+revision_id: 105198
+revision_date: 2023-08-31T09:38:15Z
+categories:
+- Winds of Fortune
+- 385YE Summer
+- Recent History
+- Appraisal
+aliases:
+- Culling_the_threat
+---
+
+
+Naomi stared at the man studying his face. He looked surprisingly normal. Dressed in traditional Varushkan garb, nothing out of the ordinary there. His age was a little difficult to determine, but he was clearly past his prime. His facial features were strangely non-descript, little to mark him out, other than a tiny scar on his right cheek, that could almost have been a shaving cut it was so small. Convincing she thought to herself, he was totally convincing. 
+
+She could almost believe he was human. 
+
+The Varushkans had warned her about exactly that mistake. She ran through everything the cabalists had told her. Be polite and courteous, treat the Landgrave with respect and under no circumstances of any kind act like he was anything other than he appeared to be at any point. They'd been most emphatic on that point, warning her that she would invite disaster on everyone if she messed this up. She'd politely let them know that this was not the first time she'd engaged in diplomacy with something inhuman. They'd smiled and nodded at her and then repeated the warning again.
+
+Best get down to business she thought. The quicker she got started, the quicker this would be done. "My colleagues tell me you have a proposal for us to consider?" 
+
+The man paused and acknowledged the question with a brief nod of his head. She waited for him to speak, but he said nothing. She had the most unnerving feeling that he was studying her. She coughed slightly to cover her nerves.
+
+"Perhaps you would be kind enough to share it with me."
+
+"Of course" he responded with the briefest glimmer of a smile, his voice surprisingly melodious. "My sovereign liege has become aware that your lands are troubled by an infestation of Orcs from the East. The Lords of Dream have sent their slaves to crawl through the veins of the Drown Bark Forest, like maggots feasting on an open wound. One of the Ushkan wise ones informs us that you are tasked with finding a way to wash this wound clean. I am here to offer the aid of my liege in this matter."
+
+Naomi took a sip of water, to wet her mouth and carefully recalled what the cabalists had coached her to say. "On behalf of the Empty Throne I thank you for this gracious offer. Regrettably I am bereft of a way in which we might repay such kindness. Perhaps you could advise me how we might best demonstrate our deep gratitude to your liege for this generous act?"
+
+## Overview
+During the Spring Equinox, the [[Senator]] for [[Ossium]], Vesna Borkovna requested the [[Appraisal#The_Prognosticators_Office|Prognosticator's Office]] be instructed to "''appraise an opportunity to remove the under threat quality from Echofell and the Drownbark Forest in Ossium''" The [[Imperial Senate]] [[385YE_Spring_Equinox_Senate_sessions#Appraise_Improving_Ossium|agreed]] to do so, but no specific prognosticator was selected. After due consideration the Imperial Auditor, Gerard La Salle selected [[Appraisal#Naomi_of_Virtue.27s_Rest|Naomi of Virtue's Rest]] to take charge of the project.
+
+Three regions of Ossium are "[[Ossium#Under-threat|under-threat]]" by Druj insurgents and guerrillas. Despite the best efforts of the Empire, the orcs of [[the Mallum]] maintain a presence in the regions of Echofell, Drownbark Forest and the [[Ossium#Webwood|Webwood]]. The latter [[Territory#Regions|region]] is under the control of the [[Thule]], having been [[Powers_of_the_Imperial_Senate#Concedence|conceded]] to the northern [[orc|orcs]] as part of the [[Ratify treaty with Thule Winter 383YE|Winter treaty]] that secured their military aid in [[Sermersuaq]]. Presumably the Thule are discussing their own plans for rooting out the Druj presence in the northern woods; there is some speculation it might be connected to the "temple" of the [[Arhallogen|Spider King]] buried in its depths.
+
+Each of the two regions under Imperial control represents its own challenges. 
+
+The trackless depths of the [[Ossium#Echofell|Echofell]] are home to a disturbing number of unpleasant insects and poisonous creatures that seem to enjoy feasting on human and orc blood. The recent burst of [[Children in bloom|Spring magic across the Empire]] has encouraged the growth of these awful creatures, and left the tangled depths of the forests even more difficult to navigate. The region has barely been explored by Varushkan settlers, with a few scattered vales along the western edge of the woods. The only real defences that the Echofell possessed were in the form of the Tower of the Scorpion, now rubble. The main challenge here is that the border is so wide, and the region so wild, that there seems to be no way to secure it against the Druj, and little chance of rooting out all the hidden encampments the orcs have established in the trackless depths.
+
+The only major settlement in the [[Ossium#Drownbark Forest|Drownbark Forest]] is the small town that surrounds the [[Ossium#The_Palace_of_Orieb|Palace of Orieb]], where the [[Merchant-Boyar_of_the_Stinking_Market#Stinking_Market|Stinking Market]] now stands. Varushkan settlers have comparatively little experience dealing with the marshy terrain of the Drownbark Forest, and there are no other significant vales established here. The Drownbark Forest itself is as much marsh as woodland, a maze of shifting waterways, drifting islands, and ancient woodlands. The Druj are in their element, taking advantage of the wilderness to hide their camps, and to move around relatively easily. The sodden depths are also home to more dangerous creatures; [[marshwalkers]] for example who are likely to be roused by any significant construction here as well as the occasional [[Legendary_beasts#Hydra|hydra]] or even catoblepas. Rumours have also begun to spread of a horrible creature part-way between a spider, a crab, and an octopus that lairs somewhere in the depths of the forest and picks off small groups of travellers - some of the locals are concerned it might be a [[Varushkan_Monster#Sovereigns|sovereign]] or an agent of [[Dho'uala]].
+
+## Take the Fight to the Druj
+* The root of the problem is the border with the Forest of Ulnak
+* If the Forest of Ulnak were succesfully invaded the under threat quality would be permanently removed
+Naomi is quick to lay out what is by far the most obvious way to resolve the problem. The reason the regions of eastern Ossium are threatened by the Druj is that they directly border [[the Mallum]]. Take away the border, take away the problem.
+
+If the Empire invades the [[Forest of Ulnak]] with sufficient force to capture one or more neighbouring regions then the problem would be resolved. It would be impossible for the Druj to infiltrate Ossium from Ulnak if they needed to bring their armies through Imperial controlled regions in that territory. Moreover, it wouldn't be a temporary fix - any Druj partisans in Ossium who are cut-off would have to flee to Druj lands or risk being completely surrounded. Any that tried to remain could be mopped up relatively easily. The main problem is that such a force would be invading "blind". Despite the [[the Mallum|information provided]] by the [[Great Forest Orcs]], and that gathered by the brief [[383YE_Winter_Solstice_winds_of_war#Hexwood|foray into the Forest of Ulnak]] a few years ago, the Empire has no idea how many regions might need to be conquered to secure the entire border. A [[spy network]] could be used to get an idea of the scale of the task, but that is a matter for the [[Imperial Senate]] or the [[Imperial Spymaster]].
+
+Any invasion of the Forest of Ulnak would be a matter for the [[Imperial Military Council]], and Naomi leaves the required diplomacy to the people of Varushka. She is aware that both ''Fania Vessely-Vanek'' and her predecessor as [[Ambassador to Otkodov|Ambassador]] ''Yevgeni'' have discussed this matter with the Thule, who would surely also benefit from the eastern borders of Ossium being secured. Given the presence of an immense [[fortification]] somewhere in the territory, any invasion would be no "easy solution" - but it would work. Any region in Ossium that ceased to border a Druj controlled region in the Ulnak would permanently cease to be under threat.
+
+## Securing Echofell
+* Echofell could be secured through fortification or diplomacy
+The alternative to a full scale invasion is to look for way to secure the regions individually with a piece meal approach. Echofell was once the home of the Amber Scorpion clan of the Druj. The ruled the region from the Tower of the Scorpion and the first real engagement of the invasion took place here when Imperial forces besieged the tower during torrential rain. The tower was captured, but later destroyed during a Druj counter-attack.
+
+The Empire had a way to secure Echofell - by rebuilding the Druj fortification as the Tower of the Manticore, but that option seemed to have been lost when the tower was destroyed by the Druj. Naomi has spoken with the original architect and confirmed that the original plan is still possible, but of course the entire fortification would have to be rebuilt. Naomi has also considered some diplomatic alternatives - there are two groups in the area who might be persuaded to take responsibility for the Echofell, but the cost would not be cheap.
+
+### Tower of the Manticore
+
+
+Tower of the Manticore
+Commission Type: [[Fortification]]
+Location: Echofell, Ossium
+Cost: 80 wains of white granite, 40 wains of weirwood, 15 thrones, one year to construct
+Upkeep: 10 thrones a season; 5 Thrones a season while being built ''but see below''
+Effect: Removes the ''under threat'' quality from Echofell. Allows Dawnish and Varushkan military units to take the ''Into the Twisted Woods'' adventure.
+Time Limit: If the Tower of the Manticore is not commissioned by the end of the Autumn Equinox 385YE the opportunity is permanently lost
+
+* A new Tower of the Manticore could be constructed deeper into the Echofell to provide a base of operations from which to drive out any Druj incursions
+* It would require a commission, 80 wains of white granite, 40 wains of weirwood, 15 thrones in labour costs and take one year to construct
+* It would also provide a place for adventurers to gather to explore the lands beyond the Empire's borders
+During the 384YE Spring Equinox, veteran [[Dawn|Dawnish]] siege engineer ''Lise de Lionsgate'' presented a [[Beyond_this_dark_house#Tower_of_the_Manticore|proposal]] to rebuild the ruined Tower of the Scorpion as the Tower of the Manticore. She envisioned it not only as a defensive [[fortification]] to help secure the borders of Ossium. but as a permanent base of operations up on the borders of the Empire from which [[questing knight|questing knights]] and [[knight-errant|knights errant]] might adventure into the dark, unknown lands to the east and the north.
+
+The original fortification has since been destroyed by the Druj, so the drawings created by the Lise are no longer valid, however the skilful architect is prepared to make one final stab at the problem. She reworks her plans to create a vision for a new Tower of the Manticore that would be better situated to push out the Druj infiltrators skulking through the Echofell. The cost to construct this new tower is 80 wains of white granite, 40 wains of weirwood, and 15 thrones, and would take one year to complete. It would create a special rank one [[fortification]] in Ossium, one inspired by Druj techniques to increase all casualties it dealt during a battle by half. It would also remove the ''under-threat'' quality from the Echofell. In addition, it would once again make the option to ''Seek Glory in the Twisted Woods'' available to [[military unit|military units]] keen to explore the unknown lands that lie outside the Empire's north-western borders.
+
+This is a limited opportunity; it is ''only'' available until the end of the the Autumn Equinox. If the Tower is not commissioned, the passionate Lise has said she cannot endure further disappointment and will burn her notes and turn her back on Ossium for the foreseeable future.
+
+### Dealing With the Threat
+* Druj aggression and the dangers of the deep forest make building the Tower of the Manticore an expensive proposition
+* The Senate could pay for additional guards, or the military council could commit an army to the territory for as long as the fortification was being built
+
+Building the fortification is not as straightforward as it was, however. The Druj are still in Echofell, and the woods are still hostile to settlers and builders alike. Large amounts of valuable materials would need to be moved into the area, and large numbers of labourers secured for the construction work. It would also require the aid of engineers able to make head or tail of Lise's plans. These caravans and workers would all need careful protection. While there are plenty of warriors to [[Military_unit#Adventure_in_Varushka|protect caravans using the roads]] from the attentions of monsters, defending the construction site from Druj and dangerous beasts is a different matter.
+
+As such, from the point where the Senate commissioned the Tower of the Manticore, until project were completed, lapsed, or the commission was abrogated, an upkeep of 5 Thrones each season would be applied to the Senate. This would pay for mercenaries and sell-swords to protect the construction project from the dangers of the Echofell.
+
+Alternatively, if an [[Imperial army]] were stationed in Ossium on a [[Army_orders#Defending|defending order]] other than [[Army_orders#Give Ground|Give Ground]], and given explicit orders to defend the construction site, the Senate would not be required to spend any money that season.
+
+### The Dawnish Contingent
+* The Dawn national assembly could urge their people to help create the Tower of the Manticore
+
+Naomi has spoken extensively with Lise and the rest of her house. Lionsgate is enthused about the opportunity presented by the Tower of the Manticore, and believe that if they were given a mild push by the troubadours, the knights of Dawn might share their enthusiasm. She believes that the [[Dawn]] national assembly could urge both the questers and errants of their nation, and her fellow engineers, to offer their support to their Varushkan neighbours. After discussion with Lise and her friends, the following mandate has been prepared.
+
+{{Mandate|mandate=We have been glorious in victory, but the battle is not yet won. We send {named priest} with 25 doses of liao to encourage knights and witches to quest in Echofell. Where they spread fear, we will make flowers grow!|assembly=Dawn National Assembly}}
+Adventures in OssiumThese adventures are  available to military units in Ossium. In each case the listed rewards are for a standard military unit; one that is enchanted or upgraded receives proportionately more.
+
+Secure the Echofell: This [[adventure]] can be found on the independent action dropdown, and is available only to Dawnish characters, for as long as work proceeds on the Tower of the Manticore. A standard military unit will receive payment of 90 rings, and 5 random measures of forest materials, as a combination of payments from Varushkan employers and loot seized from the defeated Druj encampments.
+
+Seek Glory in the Twisted Woods: This [[adventure]] can be found on the independent action dropdown. It can only be taken by Dawnish or Varushkan characters. A basic military unit will receive 6 random herbs and 8 random forest resources from battling orcs, exploring the deep woods, poking around old ruins, and seeking out opportunities for glory - or in the case of the Varushkans, opportunities to raid the barbarians.
+
+Train the Dreamers of the Dark Forest: This [[adventure]] can be found on the independent action dropdown. It can only be taken by Varushkan or Highborn characters with a military unit if their national assembly passes the mandate. A basic military unit will receive 8 random herbs and 4 random forest resources from the grateful Dreamers as they are provided with spare weapons and armour and the training to use them effectively.
+
+If this mandate is enacted and the Tower of the Manticore is commissioned, then many knights-errant, questing knights and war witches of Dawn will make their way north to Ossium to help protect construction efforts there. There would be no need for additional effort from the Senate or the Military Council. It would also create a new adventure that would last until the Tower was completed called ''Secure the Echofell'', available to any Dawnish military unit that would provide money and forest resources to anyone who undertook it in the form of payment from Varushkan traders, and loot from fighting in the deep woods.
+
+However, until the Tower were completed, abandoned, or abrogated, no [[statement of principle]] that sought to move the glory-hunters of Dawn to undertake a similar action would result in a mandate.
+### Reservation of Benefits
+* There are two factions who live in or near the Echofell who might be persuaded to take charge of the situation
+The Varushkans are no strangers to the problems of deep woods, but they are much more experienced fighting [[Varushkan_Monster#Wolves|wolves]] and [[Thule]] than the cunning and stealthy Druj. There are however other people living in or near the Echofell who as much reason to be concerned about the Druj hiding in the depths of the forest. Naomi has made contact with two groups who could be convinced to drive root the Druj out of Echofell, but in both cases the proposal comes with some very serious risks or costs.
+
+### The Dreamers of the Dark Forest
+* The Dreamers of the Dark Forest are prepared to drive the Druj out of Echofell if they were given weapons and armour and trained to fight with them
+* The Imperial Senate would have to permit the act by using a Senate motion to authorise the supply of weapons and armour to the Dreamers
+* If that happens then the Varushkans, the Highborn, or both nations, could provide the Dreamers with what they need
+Amongst the remaining ''septs'' of orcs who have chosen not to relocate to [[Skarsind]] is a group that call themselves the Dreamers of the Dark Forest. It is possible they may be connected with the Great Forest Orcs, although they seem ignorant of any connection if one exists. This orc ''sept'' occupies parts of the Echofell near the Bonehives, and while they have little interest in working there they have a lot of interest in seeing the Druj driven out of the forest. The ''sept'' is small and insular, but thanks to a [[385YE_Spring_Equinox_Synod_judgements#Judgement_145|recent mandate]], there has been some effort to make contact with them. After speaking with the leaders of the Dreamers, Naomi has discovered that they could be convinced to fight the Druj at their own game, if they had the means to do so.
+
+The Dreamers have few if any weapons of war or experience in battle. They're eager to fight the Druj but lack the means or the training. The Highborn national assembly has reached out to support the people of Varushka as they treat with the orcs that share their wild nation with them. Naomi herself is from Highguard, and while discussing this project she contacts a number of [[unconquered]] of her acquaintance to discuss the issue with them. They point out that when the [[Imperial Orcs]] joined the Empire, Highborn soldiers supported them with gifts of weapons and armour. They suggest that it might be possible to kill two birds with one stone; help protect Echofell and encourage good relations with the independent orcs in Ossium.
+
+{{Mandate|mandate=Let us build up our fellows. We send {named priest} with 25 doses of liao to urge Highborn/Varushkan citizens to share what weapons and armour they can spare to arm the Dreamers of the Dark Forest. All that is worthwhile is shared with those who deserve it.|assembly=Highborn/Varushkan National Assembly}}
+
+This mandate could be passed by Varushkan Assembly or the Highborn Assembly or both. If either nation enacts the mandate, it will urge their citizens to support the defence of Ossium by providing the Dreamers with any weapons and armour they can spare - as the Highborn once provided weapons and armour to the Imperial Orcs. For the next year, military units from that nation will be able to undertake the action to Train the Dreamers to train them how to use the new arms they have been given.
+
+The risk with this approach is that it is impossible to determine what the long term effects of arming the Dreamers would be. Giving them weapons and armour should help to improve relations with them, it will certainly make them more positively inclined to either, or both, nations if they are supported in this way. But the sept have no interest at all in becoming Imperial citizens or in adopting the Way. They have their own religion, their own leaders and their own laws.
+
+They also have their own enemies and their own ambitions. They hate the Druj, but it is clear they don't think much better of Thule and they also loathe the Menrothat. If the Empire arm the Dreamers, they will definitely use those weapons on the Druj, but it's not certain they will stop there.
+
+They could also be a nuisance for the Empire. There aren't enough Dreamers to form an army, they could never muster that kind of strength. But there would be enough of them to seize the region if they were minded to do it. At that point, given how well they know the area, it would require an Imperial army to dislodge them.
+
+Since the Empire is not at war with the Dreamers, it is not technically illegal to arm them. However if relations with the Dreamers sour and the Empire ends up fighting them, then they will use those weapons to kill Imperial citizens. As a result, those in a position to do so have asked the the Imperial Senate to pass a motion authorising the supply of weapons and armour to the Dreamers. That way the decision can be taken by those best placed to assess the risks.
+
+If the Imperial Senate pass a motion declaring it is acceptable to arm the Dreamers and either Varushka or Highborn chose to arm them then the region would no longer be under threat. The mandates can be passed at any time before the end of the Autumn equinox, but they will not have any effect unless or until the Imperial Senate takes responsibility for the decision to arm the Dreamers.
+
+### The Orcs of the Frozen North
+* The Thule are prepared to deal with the Druj in Webwood and Echofell if the region is ceded to them
+The largest power in Ossium beside the Empire is the Thule, so naturally Naomi has made contact with them to see if they could offer aid in dealing with the problem. The Thule's position in Ossium has always been complex, they were part of an alliance with the Empire to help liberate Ossium from Druj rule - but they have been reluctant to anger the Druj too greatly and have refused to engage in further attacks on them. The Webwood, which is also under threat, is under Thule control but up to now, they seem to prefer to tolerate this status quo rather than risk moving against the Druj in force. 
+
+Sadly they are not prepared to provide assistance, claiming that the Empire has recently cooled on collaboration with the Thule, and that they are reconsidering their options as a result. However the Thule do offer to "deal with the Druj in Echofell and Webwood", if the Empire cedes Echofell to them. This comes as something of a surprise, since previously they have been eager to avoid sharing a border with the Druj. Perhaps gaining control of the Webwood has changed their calculations. In any case, they are at pains to stress that the Empire would have to formally cede the region to the Thule and they would require the Imperial Senate motion make explicit that this concession is permanent and represents the Empire giving up all claim to the land. There must be no talk of giving it away and then demanding it back again as soon as the Thule have dealt with the Druj.
+
+If the Empire cedes Echofell to the Thule, they will move to claim the region - and in doing so they will "deal with" the Druj in both Echofell and Webwood. They refuse to say how they will end the threat of the Druj, they will refuse to say anything other than that it will be done. They are clear that if this happens, then both Echofell and Webwood will be clear of Druj influence. The only region that the Empire would have to worry about would be the Drownbark Forest.
+
+Such an action would be problematic, it would make reduce Imperial control of the territory, making it very vulnerable if the Druj did attack. It would also anger [[Cathan Canae]], an eternal ally of the Empire who has made clear that she does not wish to see her ally cede any more territory to their enemies. Patient negotiation with the Immovable One might be able to mitigate this problem, but as ever with the Summer realm, nothing is guaranteed.
+
+## Securing the Drownbark Forest
+* Drownbark Forest could be secured through magic or diplomacy
+The Drownbark Forest is also threatened by the Druj, scores of whom are known to be lurking in the cold wet marshes that reach down to the Barren Sea. The land here was once claimed by the Bone Serpent Clan, one of the powerful clans of the Druj. The miserable town of Orieb was the seat of their power in the region. Many of the leaders of Bone Serpents were never accounted for during the invasion and the Burul Tepel and their assistants are believed to be responsible for the Druj insurgents skulking in the stinking fens.
+
+### Dripping Echoes
+* Dripping Echoes of the Fen could be used to nullify the activities of the Druj infiltrators each season
+* Conditions in the marshes mean that the ritual could be made permanent using ilium for a third of the normal cost
+* Making the ritual permanent runs the risk of angering whichever eternal's power the ritual calls on
+* The Conclave could have the Dean of the Lyceum or the Order of the Unfettered Mind try to find out which eternal is backing which night rituals
+In theory it might be possible to fortify the Drownbark Forest in the traditional way, using white granite. The problem is that the region is exceptionally marshy, making it a [[Commission#Marshes|poor place]] to undertake any significant construction. Some parts of the region are dry and firm underfoot - you could raise a castle there. But, unsurprisingly, those spots are furthest from the deep marshes, so a fortification wouldn't be enough by itself to drive the Druj out.
+
+What is needed to remove the threat of the Druj is a way to create a fortification in the marshes themselves. By good fortune, Imperial Lore includes a powerful ritual, [[Dripping Echoes of the Fen]], that creates a fortification. Naomi has discussed the ritual with her colleague, the Varushkan cabalist, [[Appraisal#Lutomysla_Niegoslava|Lutomysla Niegoslava]]. They have confirmed that the [[Night magic]] would work to suppress the effects of being "under threat" for as long as the ritual was in place. The ritual would also be fully effective at defending the region and territory as normal if it were attacked, so it would be doubly effective.
+
+Of course, it's a powerful ritual - magnitude 100 - which makes it expensive to cast: a minimum of 50 mana crystals are required. The effects would only last a single season; it could be cast each summit, but the Druj threat in the Drownbark Forest would only be neutralised for as long as the ritual was in place. However, Lutomysla claims to have studied the marshes in Ossium and she believes that there are significant quantities of [[ilium]] buried beneath the mud and waters of the murky fens. The prognosticator has calculated that it would be possible to make the ritual permanent using only a third of the normal amount of ilium as a result.
+
+Sadly, that is still 100 rings of ilium, but it might be cheaper than using white granite, and it would be quicker, since the entire work could be completed with a single ritual performed at Anvil. And the Empire would save money in the long run, since in this specific case the ritual would require no upkeep from the Imperial treasury.
+
+The other problem with this approach is that it risks angering whichever [[eternal]] the ritual calls on. Rituals that summon forces from another realm, soldiers or castles, require the assistance of an eternal. The things they summon always belong to ''someone'' who must agree to be bound by the terms of the ritual. Making a ritual like [[Knights of Glory]] or [[Frozen Citadel of Cathan Canae]] permanent risks going beyond the details of what was originally agreed. Since it permanently robs the eternal of those forces, any magicians who attempt it would be wise to get permission first. It's not essential - you can ask for forgiveness rather than permission, but then you must pay the price of angering the eternal.
+
+Unfortunately nobody knows whose power Dripping Echoes of the Fen calls upon. This is not uncommon - there are several rituals in Imperial Lore that must call on an eternal's power according to the laws of magic, but for which no details are now available. Some of the rituals in Imperial Lore are very old indeed, so it is possible that the details have been lost to time. It's also possible nobody ever knew - there are instances where an eternal will permit a ritual to call on their power without the magicians who created the ritual ever knowing. Such cases are rare - but not unknown. 
+
+The Empire could try diplomacy with every Night eternal, but a more practical solution might be to comb through the records of Night rituals in the [[Dean_of_the_Lyceum#The_Lyceum|Lyceum]]. There are two practical ways that could be done - the Conclave could use a [[declaration]] of [[concord]] to invite the [[Conclave order|order]] of the [[Unfettered Mind]] to look into the matter. If that happened the Order would publish their findings, letting everyone know what they had discovered about Dripping Echoes of the Fen and any other night rituals they come across. Alternatively the Dean of the Lyceum could use their declaration of [[Imperial lore]] to ask those magicians who work there and look to the Dean for leadership to look into the matter. If that happened, the magicians would furnish the Dean with a private report of their findings.
+
+### Drowning Trees
+* The Landgrave of the Still Deeps has offered the services of his liege in removing the Druj partisans in Drownbark Forest
+* In return for their aid, his liege demands the Senate allow their servants to drown much of the forest
+* The resulting flooding would destroy the Palace of Orieb and give Nearweald the marsh quality
+Naomi of Virtue's Rest is deeply uncomfortable with the concept of making deals with sovereigns and the monsters that haunt the dark places of [[Varushka]]. Still, she is focused on pursuing the most diplomatic avenues when it comes to solving problems, and the Varushkan National Assembly did vote to enact the mandate [[385YE_Spring_Equinox_Synod_judgements#Judgement_146|encouraging Varushkans]] to bargain with sovereigns and other inhuman entities. Her meeting with the self-professed Landgrave of the Still Deeps, within the walls of Orieb is short and to the point. The Landgrave has the demeanour of a quiet old man, but they claim that their liege has no love for the Druj and would be prepared to help the people of Ossium deal with them... for a price.
+
+The Empire would need to grant the Landgrave's sovereign permission to unleash the ''Castors of Wood and Water'' on the woods of Drownbark Forest. What this involves is not entirely clear, but according to the Landgrave much of the woods would be submerged beneath the waters of the Barren Sea as a result. Based on the description provided, the Civil Service calculate the region would no longer be forested. The Landgrave is clear that the [[Apothecary_of_Orieb#Palace_of_Orieb|Palace of Orieb]], would sink beneath the oncoming waters and be destroyed, but they claim that the [[Merchant-Boyar_of_the_Stinking_Market#Stinking_Market|Stinking Market]] would be able to move to avoid the deluge and [[Cabalist_of_the_Hollow_Stone#Marshstand_Skerry|Marshstand Skerry]] should be untouched. 
+
+The flooding would not be entirely confined to the Drownbark Forest. Nearweald would also be affected and would gain the marsh quality making it harder for the Empire to commission things in that region.
+
+In return, the Landgrave's sovereign will take the Druj from their hiding places in the marshes of the Drownbark Forest. Whatever happens after that, the Landgrave promises that those orcs who sink beneath the waters of the marshes will not return to the Drownbark Forest. Any Druj that try to infiltrate the region subsequently will suffer the same fate. The region would never be under threat from the Druj again.
+
+Legally, such an action would require the authorisation of the Imperial Senate, however the Landgrave is not an Imperial citizen and does not seem unduly concerned with Imperial law. They would accept a Senate motion indicating acquiescence to the deal, but they would also be happy to accept an appropriately worded statement of principle issued by the Varushkan or General Assembly. If either happens, then the Landgrave will know, and they will inform their sovereign who will complete their side of the bargain.
+
+The Landgrave refuses to name their sovereign, saying only that those who know will know.
+
+### Shadow's waiting (Conjunction)
+* A force of Druj are moving to destroy Marshstand Skerry
+* The Sentinel Gate will open at 21:00 on Saturday to the Broken Clearing, Drownbark Forest, Ossium
+* The ''Cabalist of the Hollow Stone'' is responsible for stopping the Druj
+Whilst the knights and yeofolk of the [[Gryphon's Pride]] were focused on setting up camps and resupplying in [[Ossium#Bittershore|Bittershore]] the schlacta of the [[Northern Eagle]] were spread across the territory; resting in vales and outpost to take advantage of the [[Varushka_military_concerns#Army_Orders|hospitality of the boyars]] of the Ossium. It was the inhabitants of one of these settlements that first spotted the force of orcs moving through the trees. The assumption by the residents of the outpost was that it was simply a group of Ossian orcs going about their business and it was only the keen eyes of ''Nadezhda Mutimirovna'' that picked out the cadre of Winter heralds accompanying them. Though it was only a small group of soldiers resting in the same outpost as ''Nadezhda'' they were able to follow along for long enough to uncover that the orcs were Druj, the heralds were those of Surut, and their ultimate destination was [[Cabalist_of_the_Hollow_Stone#Marshstand_Skerry|Marshstand Skerry]]. If the Druj are not stopped then they will destroy the stone which will drastically reduce the output of the sinecure.
+
+The Druj force is made up of warriors from across the [[Arkad]] along with a number of heralds of [[Surut|the Burnt Steward]]. Given that this is a direct threat to Marshstand Skerry it is the responsibility of the [[Cabalist of the Hollow Stone]]; Lutobor Branislavovich Glinka, to stop the Druj.

@@ -1,0 +1,119 @@
+---
+revision_id: 87472
+revision_date: 2022-03-16T15:53:50Z
+categories:
+- Winds of Fortune
+- 382YE Autumn
+- Recent History
+aliases:
+- Words_to_make_things_right
+---
+
+
+"Seven virtues Auden! What the hell are they doing here?"
+
+Auden glanced backwards, somewhat furtively, at the group, nearly two score in all, stood some distance behind him. They were clutching their bows again. Auden had told them not to do that. They sighed, inwardly, so Nell wouldn't hear, summoned up their courage and turned back to face her.
+
+"You said you needed some help... getting the harvest in..." Auden attempted a smile, to try and persuade Nell that all this was perfectly normal.
+
+"Too right I bloody did. Young Gendry's gone, taken the Throne's throne, and his brother with him. Gone for two years if he ever comes back at all. And now Lizzie Thresher has sliced her shin open from ankle to knee with a scythe and ain't fit to work for a month. So I'm three hands down... good hands mind - Gendry was one of my best. So I'll ask you again Auden of Fleece Ridge, and best you think carefully before you answer... What the hell are ''they'' doing here?"
+
+Nothing for it now - best to just come out and say it. "The assembly suggested we could pay them to work - keep 'em from raiding honest folk." 
+
+"Stealing Auden. Say what you mean, mean what you say." She draw herself up to her full height before continuing. "So the assembly wants me to hand over my money to pay a bunch of vagrant thieves do they? Is that it?" Nell shook her head, but Auden breathed a sigh of relief as her tone softened. "Look it's not a bad idea and all - and I'm sure in a generation they'll be close enough to be Marchers that it might actually work. Once they've settled down a bit... and put all them bows down... and learned how to actually use a flail... then I'm sure they'll be useful for something other than as bloody bird scarers. But until then... you best tell 'em to go back the way they came."
+
+Auden's head dropped though they'd expected this. Nell wasn't exactly the first to take the idea badly. They were just about to go when a sudden thought struck.
+
+"Did you say Elizabeth Thresher cut her leg... with a scythe?" A curt nod was all the encouragement they needed. "Then I think maybe... just maybe we might be able to help after-all..."
+
+
+## Overview
+Normally a [[Feni]] settlement will raid Imperial citizens once or twice a year at most, stealing a few cows or raiding a barn. With no permanent base of operations, the Feni currently active in [[Hahnmark]] and the [[Mournwold]] need to steal all their supplies and thus are having a much greater effect on the lands they move through than might previously be expected.
+
+There are Feni groups scattered over much of the Western Empire of course. Faded remnants of a foregone age, a spent force long before the Imperial dream was born, they have never have much to do with the Empire For the most part they keep themselves to themselves, living in small enclaves hidden away in dark forests and inhospitable marshes. By all accounts they possess little, living hand to mouth by hunting and foraging for the most part, but they occasionally carry out small raids on Imperial citizens stealing a few cows or raiding a barn. They are no match for the massed ranks of an [[Imperial army|army]] - they simply do not have the numbers to form up on the field, but despite that it is foolish to underestimate them. They are skilled [[Combat_skills#Marksman|marksmen]] and while few in number their [[Weapons_%26_armour#Bows|bows]] are deadly weapons that they can use for more than just hunting if pressed.
+
+It appears that when the [[Delver_of_the_Depths#Lorenzo.27s_Deep_Pockets|great sinkhole]] collapsed, it not only destroyed settlements in [[Hahnmark]], [[Upwold]], [[Temeschwar]], and [[Miaren]] but at least one Feni encampment hidden deep in the woods between the four territories. In the months following the collapse, a large group of Feni emerged from the hole and immediately split into two. 
+
+One group traveled south into Upwold and from there to the Mournwold. The other went north into Hahnmark. Both groups caused widespread disruption as they traveled. Bereft of their normal hunting grounds they were forced to raid farms and villages for supplies to survive. As a result their presence has had a much greater impact on the lands they move through than might normally be expected.
+
+During the Summer Solstice, the Imperial [[Imperial Senate|Senate]] [[Declare_Feni_group_to_be_foreigners|declared]] these Feni - who call themselves the Woods-that-fell - to be foreigners. It became legal to trade with them, and illegal to harm them. This bold move has not stopped the Feni raiding however, but it has gone some way toward reducing the disruption caused - and opened up new alternatives for dealing with them.
+
+## Crossing Hahnmark
+The northern band of Woods-that-fell Feni spent the Summer Solstice in [[Hahnmark#Southridge|Southridge]]. On the border with the Marches, this region of Hahnmark has always had Feni problems. The narrow gullies and scattered forests of the lightly populated region conceal at least one tribe, perhaps more. In the past, they have periodically launched small raids against the minor halls in southern Hahnmark, but rarely had a profound impact.
+### The Situation
+The addition of the Woods-that-fell to the mix, however, means this is no longer the case. The civil service estimate that during the Summer Solstice there were between five hundred and eight hundred Feni in the newcome tribal group, taking temporary refuge in the Southern gulleys. In a particularly outrageous move, they began ambushing travelers along the Blood Red Roads leading to [[Hahnmark#Kalpaheim|Kalpaheim]], taking supplies from merchants and causing some loss of life.
+
+During the Solstice, the heroes of Wintermark used the Sentinel Gate to engage in limited diplomacy with the northern band of the Woods-that-fell. The details are not common knowledge, but after the Solstice the raids in Hahnmark declined significantly in intensity and frequency. Once the Imperial Senate declared the Feni to be foreigners, a few bold entrepreneurs even made cautious contact with groups of raiders and offered to trade supplies with them, with some success.
+
+To be clear, the Feni have not stopped raiding - perhaps it is too ingrained in their culture. There has been some loss of life on both sides - but fewer people have died since the Summer Solstice as a result of the raids than in the preceding seasons. The Feni can have little doubt that if it wished to, Wintermark could wipe every single one of them out. That alone must be giving them pause.
+
+Six weeks ago, the Feni abruptly moved out of Southridge. Their numbers appear to have been swollen by some of the local Feni, and they are moving as quickly as possible cross-country in a roughly northerly direction. The band - around the size of half a dozen [[military unit|military units]] - gives Kalpaheim a wide berth, and avoids as many of the larger halls as they can. Despite this it is clear they have only a vague idea where they are going - their direction shifts abruptly every few days, making it difficult to predict their route. The intensity of the raids increases a little - but the Feni are maintaining a fast pace using the major [[trods|trod]] that runs north-east through Kalpamark and passes through the hills south of [[Hahnmark#Gulnar.E2.80.99s_Deeps|Gulnar's Deeps]].
+
+The obvious question is: where do they think they are they going?
+
+### Answers
+Thus far the diplomatic overtures of the Winterfolk towards the Woods-that-fell Feni have not been reciprocated. Actual negotiation has not been initiated by the Feni. Anyone who attempts to approach their main force is warned off with arrows - and killed if they press the issue. However, days before the summit begins there is sudden talk of one of the Feni coming to Anvil to talk to the leaders of the Mark.
+
+At first the talk is the normal mix of gossip and nonsense. It's the King of the Feni come to pledge fealty to the Queen of Wintermark. It's an [[eternal]], slipped its chains from the realms, and come spoiling for an argument. As more facts come out, it becomes clear that the truth is a little more prosaic. A lone figure, ''Kaukana'', an idealistic [[Suaq]] [[Wintermark_military_concerns#Grimnir|grimnir]], called ''Broken Wing'' by the [[Wintermark_culture_and_customs#Art_and_history|scops]] for his habit of healing birds and other injured animals he finds, is apparently coming to Anvil to speak on behalf of the Feni in Southridge.
+
+In fact, it is not even clear whether Kaukana actually speaks for the Feni. The healer hails from the northern parts of Sermersuaq and apparently has never even met the Feni. However he claims to know of them and states that the "Feni's patron is my good friend". He is reticent about the nature of this "friend" of his, however, which raises many questions in itself, but it appears to be the sole basis of his claim to speak for them.
+
+Kaukana intends to arrive in Anvil around one o'clock on Saturday and has been advised to head to the Artisans Arms first.
+
+Resupply in Mournwold, providing reassurance to Mournwolders that they have not been forgotten. Also to monitor Feni disarmament and transition from Barbarians to Foreigners. NO offensive actions unless attacked first.
+
+## Mournwold Wrangling
+The southern band of Feni from the Woods-that-fell remain camped on the [[Mournwold#Chalkdowns|Chalkdowns]] in the [[Mournwold|Mourn]]. Like their northern cousins they continue to raid - taking food and drink but also cattle and sheep where they can. The presence of the Bounders in Mournwold, specifically to ensure that the Feni do not cause too much trouble, contributes significantly to reducing the impact of these raids, however.
+
+Even more than the Winterfolk, the Marcher folk have made a number of attempts to engage the Feni in diplomacy attempting to find out what they want or how they might be persuaded to give up their raids. These meetings have been riddled with misunderstandings but it became clear that the Feni are raiding only to keep themselves from starvation. In response the Marcher [[Assembly#The National Assemblies|Assembly]] chose to pass a [[statement of principle]] urging [[farm|farmers]] of the Mourne to give the Feni honest employment.
+
+Good Walder teaches us to pay fair those who'll work. The Feni of the Wood-that-Fell are out of food, but we have a big harvest to bring in. Farmers of the Mourne should employ these folk and make sure they get enough to feed their people so they are not driven to theft.
+
+Heeding the words of the Marcher assembly, some of the [[Mournwold#Chaldkdowns|Chalkdown]] farms offer to pay the Feni to work bringing in the harvest - but the effects are limited. Yes the harvest is good, but there is no shortage of solid Marcher folk eager to do the work - most of whom are highly skilled and eager for the work. Few people are keen to see these folks go hungry so that these newcomers can take their place, especially given that the Feni know absolutely nothing of farming. Anyone who spends even a few minutes talking to them soon discovers that they have little interest in it and even less aptitude for it.
+
+Once it becomes clear that any effective employment would require the group to disperse across the territory, taking up work in small groups where it was available, rather than staying together, then the Feni lose interest completely. When they hunt or raid, they do so in large bands of thirty, forty, or more - in their ignorance they thought to turn up mob-handed and armed to "farm". Unsurprisingly that does not go well, but any suggestion that the group should disperse to help many farms are firmly rebuffed. These people have only survived by sticking together; frightened and defensive as they are it is impossible to persuade them to split up now.
+
+In the end the attempt to take a large band of several hundred people for whom hunting, gathering, and raiding is the only life they have ever known and convince them to disperse, give up their lifestyle, and take up farming is not successful. Maybe if the Marchers had years or decades to work on them it might be possible to turn Feni hunters into Marcher farmers - but it is not a solution to the current problem.
+
+It does not help that the Feni are clearly distrustful of the Marcher folk who live here, expecting to be attacked at any moment. That distrust is not completely unfounded. These Feni have survived for the last few seasons, albeit barely, by raiding the Mourn. They have attacked farms and taken whatever food they could get away with. More than a few Marchers who have suffered their depredations throw dark looks at the Feni as they pass - as well as at those who suggest that they be given a living. "You don't own it unless you can defend it" is the common rejoinder. Those Feni unlucky enough to venture too far into [[Mournwold#Freemoor|Freemoor]] in particular soon regret it. The people of [[Mournwold#Whittle|Whittle]] rally a number of their neighbours to form a makeshift militia well prepared to "welcome" Feni raiders. Their farms lose no produce; quite a few Feni are attacked and driven off before they learn to leave the environs of Whittle Hill well alone.
+
+The ex-Jotun thralls take an entirely different approach to the Feni. They refuse point-blank to fight the raiders. Instead they buy them off with sacks of grain and fruit. Several neighbouring [[orc]] farms will cooperate to leave "tribute" out for the raiders, who claim the goods without fighting and then withdraw. Only a few of the orcs' neighbours follow suit - most Marchers are critical, claiming that such propitiation is a crime against [[Prosperity]], [[Pride]], and even [[Vigilance]]. Worse, it smacks of the blasphemy of [[Malign Spiritual Presences#Peace|peace]]. The thralls shrug, and do it anyway.
+
+Despite the setbacks, not all is lost. Although attempts to find the Feni gainful employment are a failure, the dialogue does produce some tangible benefits. While for the most part the Woods-that-fell Feni have little of value to sell, it is clear that they are skilled at gathering valuable [[herbs]] and some are able to eke out a living selling what they can spare. Those who have the necessary skills devote their time to gathering herbs to exchange for food. The remainder are forced to continue raiding - but the raids are significantly reduced in number and impact. 
+
+### Questions
+During the Summer Solstice, Marcher folk met with the Feni of the Woods-that-fell and engaged in negotiation. As discussed, the initial plan - to employ the Feni as labourers on farms across the Mourn - has proven difficult to implement, but it has reduced the raiding and led to greater dialogue between the Feni and locals. As a result, the Feni now understand what being a foreigner means. They've spoken to their very distant cousins - the folk of [[Mournwold#Alderly|Alderly]] - and have a better grasp of their situation.
+
+Mostly, what they want is to be left alone, but in theory that too might be resolved. They raid to get the things they need to survive and feed themselves. In the right circumstances, Feni do not raid because they have no need to - the Feni deep in the woods of Alderly being a case in point.
+
+The Feni of the Woods-that-fell have lost one home, and for reasons that are not fully clear, there is no welcome for them in Alderly. The yeomen who live in and around the forest there are particularly insular even by the standards of the Marches. Many are considered to be little better than Feni themselves by their neighbours, despite semi-regular reassurance from the [[egregores|egregore]] that they are still Marchers. Despite this, there appears to be little rapport between the two groups. However one of the Marchers from Alderly, a [[The_Marches_military_concerns#Beaters|beater]] called ''Dyl'', has managed to persuade representatives of the Feni of the Woods-that-fell to meet with the [[steward|stewards]] of the Mourn at the next summit. Dyl's interest is purely self-interest - he just wants the problem of these new Feni solved for good so that everything can go back to the way it was before they came to the Mournwold.
+
+Representatives of the Woods-that-fell Feni are due to arrive in [[Casinea#Anvil|Anvil]] around five in the evening on Saturday. Dyl has indicated that he will try and get there a little earlier if possible, so that he has a chance to talk to the other Marchers before the Feni get there. Dyl has suggested that any Marcher with an interest in the thing should turn up - but suggests that it might be good to have "someone Imperial" there - like the [[Imperial Consul|consul]] perhaps - so that if something can be agreed then it can be "[[Ambassador#Treaty|sorted out proper]]".
+
+## A Red Harvest
+While the Senate has declared the Feni of the Woods-that-fell to be foreigners, they are continuing to act like bandits. The Senate's motion specifically references the Feni of the Woods-that-fell; it offers no protection to the Feni of Alderly - nor to the Marchers so obviously engaged in trading with and protecting them. Parts of the Empire may be set on negotiation with the Feni, but that doesn't mean it is too late to change course if they are minded to.
+
+While both the Feni bands in Hahnmark and Mourn are a nuisance, neither group represents a significant military threat. There is little doubt that one-on-one they are a threat to Imperial warriors, but they lack the numbers, equipment, or organisation to threaten an [[Imperial army]]. Indeed, had the Bounders wished this season they could have comprehensibly ended the threat of the Feni in Mournwold with only a few Imperial casualties.
+
+Traditionally the main problem with defeating the Feni is ''finding'' them. Pure-blood Feni prefer to dwell in dark forests or inhospitable marshes and are incredibly skilled at hiding their presence. Most attempts to send an Imperial army to root them out have completely failed to find them, even when employing the best scouts the Empire has. In fact it has long been hypothesized that the Feni must possess some kind of magic unknown to the Empire that they use to hide their homes from prying eyes.
+
+But neither of these Feni groups are effectively hidden. They are taking what steps they can to hide their camps, but whatever magic they normally employ to conceal themselves is nowhere in evidence. They are... to put it bluntly... sitting ducks. Nobody is sure what the Feni or their representatives attending Anvil are likely to say, but the blunt truth is that if the Empire does not like what it hears there is the other option.
+
+A single campaign army in either territory whose [[general]] explicitly includes instructions to destroy the Feni of the Woods-that-fell in their orders would easily break them. Imperial prognosticators have calculated that the army doing so would suffer no more than fifty casualties, dependent on the nature of the orders given. The Feni band would be wiped out, any that survived would be scattered and forced to flee, and the threat of any raids would end immediately.
+
+Of course it would not be legal to do that while the Feni are foreigners. It is true that some of their number are engaging in raiding, but there are plenty who are not. Any general considering taking the fight to the Feni would do well to consult with the head magistrate Stanislav Karkovich. But what the Senate has granted, it could revoke were it minded to do so. If the Imperatrix or the Senate declared the Feni to be barbarians then they could be wiped out without any legal complications at all.
+
+There is absolutely no need to resolve this matter in this way - a peaceful solution that avoids any loss of Imperial life would probably be preferable given how stretched the Empire is currently. But nobody should be under any illusion about the essential weakness of the Feni position should they start making demands.
+### Clearing Alderly
+It is not just the Woods-that-fell Feni who are exposed in this way. The Alderly Feni have not caused trouble this time, but they have in the past launched the occasional raid into [[Mournwold#Green March|Green March]], [[Mournwold#Chalkdowns|Chalkdowns]], and [[Mournwold#Golden Downs|Golden Downs]]. They have no respect for Imperial law or the Way, and folks who are not welcome are best advised not to wander into the woods alone. The Senate has offered no protection to this tribe - they are barbarians under Imperial law.
+
+Previous attempts to use military force to defeat the Alderly Feni - most recently in the time of [[Empress Giselle]] - have always met with failure. Whatever technique they use to conceal their presence has always protected them. In Spring, however, Imperial heroes intercepted a message sent from the Alderly Feni to the Woods-that-fell Feni that appeared to be a key of some kind to allow their cousins to penetrate the magic that protects their home. This message was passed to the [[Herald of the Council]] during the Summer summit. Imperial scouts and magicians have been able to confirm that the message would allow one or more Imperial armies to penetrate the defensive magics that protect the Alderly Feni from attack.
+
+As a result, any [[Imperial army]] taking appropriate [[Army orders|offensive]] orders in Mournwold whose [[general]] explicitly includes instructions to destroy the Alderly Feni in their orders could launch a surprise attack on their settlement. Imperial prognosticators have calculated that the army would suffer around 120 casualties, dependent on the nature of the orders given. Any Feni that didn't flee would be wiped out and the settlement would be destroyed. That might give the Empire some insight into how the Feni have managed to hide their settlement from the Empire for so long - as well as access to any herbs or other valuable resources that the Feni have stockpiled. Such a move would not be popular with the Marchers of Alderly, but it would ensure that no Imperial citizen would face the threat of raids from the Alderly Feni ever again.
+
+Any decision would need to be taken during the Autumn Equinox. The best information that the Empire has, is that the Feni will employ some means to alter the nature of the wards that protect their home when the new year turns. Once that happens, any opportunity to root the bandits from their forest stronghold will be lost for another generation.
+
+A single Imperial army in the Mournwold with suitable orders could destroy both the Feni of the Woods-that-fell, and those in Alderly, with an appropriately worded order.
+
+## Participation
+Any player with a [[military unit]] who took the [[Military unit#Take_Independent_Action|paid work]] action this downtime can roleplay that they helped defend a hall in Hahnmark or a farm in the Mourn against a Feni raid. The Feni attack by stealth, generally at night, and their focus is on looting food and drink rather than stealing animals or killing people. They flee if they encounter concerted resistance.

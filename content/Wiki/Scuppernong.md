@@ -1,0 +1,96 @@
+---
+revision_id: 99093
+revision_date: 2023-04-12T10:28:47Z
+categories:
+- Winds of Fortune
+- 384YE Winter
+- Recent History
+---
+
+
+The fire still crackled and the flames still danced, but it was clearly starting to die. For a moment he contemplated adding more firewood to the blaze, but glancing around only confirmed that the rest of the striding had gone to bed already. He was the last one awake - it was past time to let the fire go out he thought. Time for sleep. They were going to break camp in the morning, so Riona would have everyone up at dawn. He wouldn't be able to pull his weight if he was yawning his head off... again.
+
+"Vine". He spoke the word aloud though he was talking to himself. He repeated the word again, turned it over in his mouth, trying to imagine calling himself one.
+
+Avery had wanted to know what he thought of the idea and he'd promised her that he'd think on it. He'd been trying to think of something clever to say, wracking his brains for two days now and still nothing came. So here he was, sat on his own next to a dying fire.
+
+He reached for the firewood - if he was gonna be up all night, he might as well be warm. And that was when it hit him. The fire... it was dying. Without him to feed it, it would be out in an hour. He could keep it going of course... for a few more hours... if he kept feeding it with the last of the Striding's firewood.
+
+He stood up, stretched and yawned. He scooped up the bucket of dirt and threw it over the dying fire, the wet soil hissing and popping as it choked the life from the flames.
+
+It was a good metaphor. He'd tell Avery in the morning.
+
+
+## Overview
+At the Summer Solstice 381, the Navarri physick Timinion Splitroot died on the battlefield. His partner Gawain believed that there was no organisation of the healers within the nation, and elected to address that. At the next summit, he asked the healers to come and see him and proposed forming a new community of those dedicated to healing others. Slowly the idea spread to create an ideal that healers of the nation might aspire to emulate, not dissimilar to a [[guide]] or a [[brand]]. By 382 there were enough interested healers to hold their own meeting when the other councils met and they opted to call themselves vines. 
+
+A change of this kind cannot be achieved at Anvil however, if folk with the nation to embrace this vision, they need to tell them about it. This they have now done, passing a statement of principle regarding the matter and asking the Navarr Egregores, Avery Farkas, Cullain, and Darrach, to help spread the word to every steading and striding in the Empire and beyond.
+
+The egregores, loyal servants of the nation that they are, dutifully did as requested. The magic of the egregore bond makes change difficult... but not impossible. It is inimical to foreign influences but it allows for growth that is sympathetic with the collective vision of who the Navarr are as a people and when that happens it can even accelerate that change. So the egregores carry news of the vines everywhere the Navarr are to be found, to judge how others view the idea.
+
+Many people are fascinated - they've heard rumours of vines for a while now, but never anything from the egregore themselves, nor has the Navarr Synod spoken clearly on the matter before now. Now they finally have someone to talk to about the vines it turns out they have a few rather important questions... and even a few ideas of their own. The egregores do their best to keep a faithful record of the most important questions they are challenged and promising to raise the matter with the folk at Anvil to get some answers.
+
+## Who Bears the Costs?
+Healing can be an expensive art - a skilled physick can work wonders repairing wounds and healing cleaved limbs, but it takes time - time that is often not present in the heat of battle. To treat a wound quickly, a physick needs herbs. Likewise, a magician can use their personal mana to heal a small number of wounded allies, but they need expensive mana crystals if they are to use magic to cure more than a few. Apothecaries can create powerful potions that allow a wounded Navarr to treat themselves - but only if they have valuable herbs.
+
+Where are these resources to come from asks Shondra of Swift Tomes Striding? Shondra is a skilled apothecary whose potions have saved many lives, but she charges a handsome price for every draught she produces. As Shondra rather bluntly points it 'We already have a word to describe an apothecary who hasn't got any herbs left for their arts - that word is useless..."'' Shondra's view is that vines should, as a minimum, charge their patients what it costs for any valuable resources they use. That way the vine can use the money generated to buy more herbs, more mana crystals or whatever else they need - and thereby heal more people.
+
+Her view is far from universal though. Deewan of Nine Pines Steading prefers a different model - one of asking each patient to contribute what they can. He claims to make a good living this way, enough to lead a Prosperous life, whilst at the same time ensuring that never needs to turn a patient away. "''A rich broker will gladly pay their due if they understand the virtue of Prosperity..."'' Deewan argues that if Navarr Assembly can successfully encourage the Navarr people to spare what money they can to pay for the herbs, spells or rituals needed to heal them, then there may be the occasional shortfall, but there should be enough to ensure that everyone can be helped.
+
+Nye of the Treaden Path argues that both approaches fall short by focussing too much on the patient. Nye believes it is the responsibility of the healer to ensure that they have the things they need to practice their skills. The vines should serve the nation just as the thorns do - do they charge for their service? Or the guides? When asked how the vines might do this, Nye suggests that they organise to build up their herb gardens and mana sites, and agitate to get more sinecures and great works built. Vines must not focus on healing alone, they must also act politically to secure the resources they need. When challenged that this is not the job of the healer he replies bluntly ''"Why not? Healing is the art of treating the wounded body. Surely securing the herbs is just as important as applying them?"''.
+
+Predictably there is little in the way of consensus. However everyone agrees that if the vines plan to prosper from the charity of the Navarr in some way, then it would need the Navarr Assembly to make the expectation clear to everyone that they should support the vines accordingly. If the vines plan only to charge what their arts cost or if they aim to be as active politically as they are on the battlefield then that that would "only" require the agreement of the leadership of the vines at Anvil.
+
+## Who Do you You Heal?
+Imma Heartshrew, the draughir healer in Lants Striding is less concerned with where the herbs come from and more bothered about who gets healed. When people respond "the Navarr of course" she gives an exaggerated sigh and rolls her eyes. Obviously the vines should heal the Navarr, but she insists the problem demands rather more thought than ''that''. The Navarr often fight alongside their allies from other nations. Should they heal a wounded Marcher? Should they heal the wounded Marcher first? What if their wounds look more pressing than those of the Navarr? What if you come upon the battlefield and find your husband bleeding from a leg wound while next to him an Asavean lies dying? Who gets treated first? Imma offers a question she claims to put to all the students she teaches.
+
+You have three patients, each with serious traumatic wounds. The Navarr thorn has a broken leg, if it's not healed first she'll lose it and never walk again. The Marcher yeofolk has a punctured lung and is drowning in his own blood. If you don't aspirate him first, he'll be dead as a husk within minutes. The last patient is a Grendel paymaster with a gaping head wound. If he isn't healed first, he'll pass into a coma and never recover... and then his Moridun will attack the Striding in the morning and try to kill everyone. You have thirty seconds to choose... otherwise they all die...
+
+Imma has her own views of course, but she's not interested in putting those forward. Instead she wants to hear what those who want her to join the vines say. She claims she can teach an apprentice ''how'' to heal in a matter of months, but reckons it takes far longer to learn who to heal. She believes the vines can best serve the nation by providing a clean vision for how healers should employ their arts, ''who'' they should heal.
+
+Imma is not the only one with questions like this. Maire of the Leaping Salmon Steading wants to know if the vines should heal foreigners at all? And what about barbarians? If their goal is to heal the world of its maladies doesn't the world include the wounded on all sides? Maire's question is quite controversial - is she really suggesting that vines should heal the enemy? She refuses to be browbeaten however asking "Is a Druj slave my enemy? What about a Grendel merchant? A Jotun child? Are they my enemy? I've never been attacked by a patient in my care - have you?" 
+
+Maire's suggestion that she might treat a wounded Jotun produces considerable anger, but she claims that the Jotun only murder the Navarr, because the Navarr murder the Jotun... If the vines really want to ''"treat the maladies of the world"'', they need to treat the causes of violence... treating the wounded no matter who they are is one way to do that.
+
+Imma's questions are challenging while Maire's views are deeply controversial. But everyone agrees that the questions need answering - and they are looking to Anvil for that. They ask the egregore to raise these questions with the vines, see if they can agree on an answer and then let everyone know what it is.
+
+## What Do you Heal?
+The specific wording of the statement of principle arouses a lot of interest. Enis Splinterspear doesn't say that the vines should heal people - rather he urges them to ''heal the maladies of the world.'' It is quite an ambition - and it is that more than anything else that intrigues people. The idea of pairing up with another healer to treat people on the battlefield so that one of you can watch for enemies might be useful to the heroes of Anvil, but it's less relevant to a physick treating the sick in a surgery in Miaren. More broadly, many Navarr healers don't feel they need a special name for themselves, when healer will do perfectly well.
+
+But as Kisha of the Long Stride points out, being a guide is much more than just being a priest - being a vate is much more than just casting spells and rituals. If the vines are to mean something to folks beyond Anvil the name must evoke ideals and principles more profound and all-encompassing than simply being a healer. A few people claim that the vines are healers who are devoted to treating those who have been wounded fighting the vallorn - but that meets with some scepticism. The entire purpose of the Navarr nation is to oppose the vallorn... how has a Navarr healer who pledges themselves to treat the wounds caused by the vallorn gained any greater purpose? And besides, what should they do if they discover someone who was wounded by barbarians or just fell sick? Should they ''not'' treat that person to the best of their ability because the wound wasn't caused by the vallorn?
+
+But the idea that the vines might try to heal the maladies of the world presents such an astonishing vision that a lot of people find it genuinely electrifying. As Kisha says ''"We don't treat the wound... we treat the patient... what if the Empire is our patient and its maladies are wounds that we must close?"'' She says the vines should not seek to focus on the vallorn but to draw inspiration from it.
+
+The vallorn is an illness to be cured, an infection to be treated, a lesion to be sewn shut. But the vallorn is not the only wound that exists, war leaves deep scars and powerful curses can ravage the land destroying homes, poisoning waters and ruining lives. We should seek to draw the poison from these wounds so the world can heal.
+
+This vision of the vines presents a philosophical approach to life, one in which a vine is someone who dedicates themselves to solving the problems of the world. That could be trying to secure a lasting peace between the Thule and the Empire, trying to convince the Iron Confederacy to abandon slavery, or seeking a way to quiet the anger of the Black Plateau. If the vines embraced a vision like this then when someone claimed to be a vine it would say something much more profound, than simply "I am a healer".
+
+It is an appealing idea to many idealistic Navarr, but it is not without critics. Ginny Apgar who runs a wayhouse in Southmoor in the Barrens believes the Assembly has the whole thing on its head.
+
+A physick don't heal nobody... the body heals itself... Our job is to make the body strong enough for that to happen. If they're wounded, the best way to do that is with needle and thread, but I don't stop caring for my patient when the wound is closed. If the vines stood for finding ways to make everyone stronger, then that's something folks like me could embrace.
+
+This vision of a vine is someone who dedicates themselves to making folks stronger. That could be making sure that the striding has enough food to reach their destination, or it could mean finding more herbs for the healers, more resources for the artisans. It might be strengthening the nation, perhaps by helping the Navarr get another army, or maybe the Empire by trying to help them conquer another territory. The point is that when vines were not healing people, they'd be looking for ways to make those they were Loyal to stronger so that they can overcome the maladies of the world.
+
+People can't agree which of these two visions is the right one (or indeed if these are the only two options, there are plenty of others) but they all agree it definitely can't be both. As Ginny says, you can't bake a good cake using every spice in the pantry - what you leave out is as important as what you put in. What everyone agrees is that if the vines are to become a part of the Navarr in the way that guides, brands and vates are, then they need more than an oath to heal the wounded and more than a badge of office - they need a clear guiding purpose, a higher goal that they can aspire to, something that builds on their role as a healer.
+
+## Answers on a Postcard
+So what is a vine? It's a hard question to answer, and people across Navarr look forward to the egregores coming back and telling them what everyone at Anvil has decided. To enable that to happen, one or more of the egregores will attend the regular vines meeting at Anvil at the next summit. They hope to obtain answers to three specific questions, along with any further detail the vines can provide.
+
+# Who bears the costs?  - How will vines fund what they do? Will the nation support them - or should they dedicate themselves to ensuring the nation has the resources it needs to heal the wounded?
+# Who do you heal? - Sometimes a healer doesn't have the time to save everyone. How should those hard choices be made? And what about foreigners? What about barbarians? Who are the vines trying to save?
+# What do you heal? - Are the vines trying to cure the malaise of the world or devote making those they treat strong enough to survive? What is the overarching philosophy of the vines?
+
+The egregores will ask the vines to answer these questions as best they can. If discussing these issues leads to other important questions, they will record that also. The egregores plan to try to ensure every vine present has a chance to speak, and once a decision is arrived at, they will ask for a vote of the vines present to confirm it.
+
+If those answers are just about how the vines see themselves, then collective agreement is all that is needed. If the answers have implications for how the rest of the Navarr treat the vines, then those changes will only happen if the Navarr Assembly supports a suitably worded statement of principle with a greater majority, laying out clearly how members of the nation should act.
+
+## In the Green Light (Conjunction)
+* There is a conjunction to the depths of Brocéliande at 20:45 on Saturday evening
+* A group of injured Marchers have apparently become trapped by something very different to the vallorn
+* The Navarr egregore Avery will work with the ''vines'' to find volunteers to come to their aid
+This past season saw an unprecedented number of champions from almost all the Imperial nations [[One last song|push into the depths]] of [[Brocéliande]]. Not everyone who made that journey returned, and of those who did come back, many will bear the scars for the rest of their lives. One group of champions who did not return are a band of [[the Marches|Marchers]], who went missing somewhere along the northern borders of [[Brocéliande#Elerael|Elerael]]. The Marcher egregore has been in contact with Avery Farkas, one of the Navarr egregores, and shared their deep disquiet about this disappearance. They've asked Avery to gather a group of Navarr, including both those versed in the healing arts and doughty [[thorn|thorns]], who can travel through the Sentinel Gate to help the Marchers. There are other dangers than the vallorn in Brocéliande, and it seems the courageous Marchers may have fallen prey to a particularly malignant one. Avery, presumably, know more.
+
+## OOC Design
+This plot recognises the efforts the players have done to date to create a new [[archetype]] for the Navarr. Doing that is very deliberately difficult in Empire, it is meant to be a significant achievement. Unlike getting an appraisal, or casting a ritual, how to do it is not something we can set clear rules for. It definitely involves communicating your ideas to the nation using your national assembly, but it also requires the players to have a clear vision for what the archetype does in play - and for any new archetype that has to be more than just a character skillset. To be incorporated into the wider setting an archetype has to have an ideology or an approach, something that will give players good hooks for their character when they come to Empire. Some of the newer archetype pages that we have written recently for the Urizen, such as [[architect]] or [[sword scholar]] show the kind of information that is required.
+
+This wind of fortune is intended to give Navarr players an opportunity to communicate what vines are all about to the NPCs of their nation. Answers to the questions asked laid out here would provide the kind of information that Profound Decisions would need to create a good quality archetype page on the wiki. They're not the only questions that could be asked, but having clear answers on these issues would be sufficient for the vines to become a Navarr archetype, provided that the vines can ensure that they can communicate that clearly to the archetype.

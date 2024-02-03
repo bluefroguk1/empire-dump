@@ -1,0 +1,170 @@
+---
+revision_id: 106330
+revision_date: 2023-12-08T14:26:50Z
+categories:
+- Winds of Fortune
+- 383YE Winter
+- Recent History
+- Trade Winds
+aliases:
+- Faded_from_the_winter
+---
+
+
+Brigit straightened her back and eyed the horizon suspiciously. They were out there somewhere, she was sure of it. But wherever they were, they were long gone from here.
+
+There had been three of them according to Poppy Homespun. They'd given her quite a fright when she'd met them on the road to Sarcombe, but she'd calmed right down once she realized they were Navarr. They'd been friendly enough, stopping to chat with Poppy for a while. Shared a bit of small talk about the road... where it went, how far it was to the nearest Wayhouse, that sort of thing. All perfectly innocent. No reason for Poppy not to tell them everything she knew before they both went their separate ways.
+
+Nothing to worry about.
+
+Officially Brigit was beating the bounds... Every week brought more reports of bandits in the West of the Mourn. So here she was walking the boundaries of every farm and forest between Sarcombe and the edge of the Southmoor looking for any evidence that any of them had come this far East. All she'd caught so far was Will Shankers with what looked very suspiciously like a bird he'd had off Brian Tanner's lands. She'd sent him on his way with a flea in his ear... time enough for dealing with small time poachers when more pressing matters were not afoot.
+
+Nothing to worry about.
+
+So now here she was, stood in the remains of an overnight camp. It had been made and then unmade with meticulous care. The sod cut away to allow a small fire to be burned and then carefully replaced. Whatever bedrolls they'd used, they'd somehow managed to leave the ground unmarked. If Poppy Homespun hadn't told her exactly which way they'd gone, she'd never have found the camp. Brigit admired their skills, but then what else would you expect? A lot of Navarr prided themselves on their forestry skills... on never leaving a sign of their passing.
+
+Nothing to worry about.
+
+Except that Poppy Homespun had had to tell them exactly where the Wayhouse was. What Navarr striding would be travelling through the Mourn and not know about the Weary Walker Wayhouse at Southmoor? And what striding would make a camp out here in the cold and wet forests on the border between the Mourn and Liavathen? The Wayhouse was barely half an hours walk from here... yet, they'd chosen to make a camp here rather than spend the night in the warmth and safety of the Weary Walker?
+
+Almost as if they'd had no idea where the Navarr Wayhouse was when they asked. Almost as if instead of trying to ''find'' the Wayhouse they'd been trying hard ''not'' to find it...
+
+She cast her eyes back to the horizon, but it was a lost cause. Whoever they were... they were long gone from here. "All dangers... within and without" she muttered to herself. Best she get herself back to Sarcombe and sharpish, then she could let her friends in the Bell know what she'd seen here.
+## Overview
+For the last couple of years, the Empire has been facing an increasingly militant threat posed by a strange group known as the Heirs of Terunael. The Heirs appear to be primarily made up of [[Navarr]], or at least are able to pass as Navarr relatively easily. According to rumours, they claim to be descendants of the ancient nation of Terunael that fell long before the Empire rose. The heirs rarely attack the Empire directly; instead they use magic designed to rile up the [[vallorn]], stirring this ancient threat to action, so that it threatens the lands around its hearts. Thus far the Empire has been unable to eliminate the threat they pose. Again and again the Heirs have struck, each time they have been driven back, but each time they have come back stronger.
+
+Over the least year, the Heirs appear to have forged some kind of alliance with the [[eternal]] [[Yaw'nagrah]]. Perhaps the two share common aims - who knows what might create common ground for such twisted minds? The alliance has brought the Heirs new allies, as they received support from two groups loyal to the Green Mother - [[Urizen|Urizeni]] [[magical skills#magician|magicians]] and [[sentinel|sentinels]] from Greenfountain Spire in [[Morrow#Peregro|Peregro]] and [[cabalists]] from northern [[Volodmartz]] who call themselves the Cabal of the Green Mother. Working with their allies, the three groups [[Rise_of_Terunael|struck three territories simultaneously]], targeting [[Liathaven]], [[Hercynia]] and [[Therunin]] all at the same time.
+
+The Empire chose to [[383YE_Winter_Solstice_winds_of_war#Fire_and_Hemlock|concentrate their forces]] on defending Hercynia and Therunin. The Heirs and their allies are canny opponents, and they rarely take the field directly. Instead they prefer to act through magic, sabotage and subterfuge and leave the actual fighting to the vallornspawn. None-the-less they faced implacable opposition from the Empire's iron-hearted defenders and suffered catastrophic defeats.
+
+The actions of the Empire's military commanders have left the Greenfountain Spire and the Cable of the Green Mother exposed, while the Heirs of Terunael are reeling, fleeing westward towards Liavathan. Finally the Empire have the Heirs and their allies firmly on the backfoot. Now, with the information the [[Silent Bell (Sodality)|Silent Bell]] have been able to uncover, there is a chance to destroy the threat once and for all - if the Empire is willing to pay the price.
+
+
+## Dreams
+* Unsettling dreams targeting briars have been traced to an Imperial enchantment
+Over the last season, briars all over the Empire have been experiencing [[383YE_Winter_Solstice_winds_of_war#Fire_and_Hemlock|strange dreams]]. These night visions have featured pristine wilderness with the suggestion that they will be free to live as they wish there. Some experience dreams of acceptance and comradeship - something many of them have rarely known given the suspicion of some Imperial citizens towards those with Spring magic in their veins. The dreams vary but most report seeing the same unsettling image; a beautiful figure draped in flowers, arms outstretched to them calling them home.
+
+This figure is almost certainly Yaw'nagrah, known to some as the Mother of Briars. The dreams appear to be part of a concerted effort to appeal to the briars of the Empire, inciting them to reject the trappings of civilisation and come "home". The aim appears to have been to subvert Imperial citizens in the hope of spreading the poison of the Heirs of Terunael and their allies further. The dreams last for a season, before they fade, leaving behind only some remnants of Spring magic, a few flowers growing here and there from patches of briar bark.
+
+Thanks to the judgements of the Imperial Synod these efforts have convincingly failed. The greater majority of the General Assembly urging citizens to reject prejudice against briars seems to have directly undermined the core message of the dream. Rather than responding with fear, people have sought to emphasize Pride in their dealings with the briars, while the watchfulness of the [[Vigilance]] Assembly has helped to ensure that almost none have succumbed.
+
+Across the entire Empire, the number of briars who sought out the source of the strange dreams has been one or two at most. The scheme has been decisively thwarted and the Silent Bell believe that the Empire's enemies have abandoned their plans - at least for now. To ensure that such a thing cannot happen again, the Empire would need to find those responsible for the dreams and deal with them. Fortunately the assiduous work of the Empire's military leaders has created just such an opportunity.
+
+Notes:
+Unless otherwise specified, all conjunctions listed below have the following accessibility information:
+* Level of combat: [https://www.profounddecisions.co.uk/empire-wiki/Accessibility#Combat_Highly_Likely Combat Highly Likely]
+* Movement required: [https://www.profounddecisions.co.uk/empire-wiki/Accessibility#Location.2C_Terrain_and_Movement Free Ranging]
+
+None of these skirmishes are in an area affected by the [[Vallorn#Vallorn_Miasma|Vallorn miasma]].
+
+Depending on the number of Skirmish Team available, the size of the conjunctions might change between publication and when they run at the event. Details will be finalised Friday afternoon before time-in. Please check the conjunctions at the Sentinel Gate via a referee early Friday evening to confirm all details. This page will not be updated while onsite.
+### The Greenfountain Spire in Peregro
+* An opportunity exists to break the power of the Yaw'nagrah aligned spire
+Casting a powerful enchantment across the entire Empire is difficult and requires a huge amount of mana crystals or similar. The dreams ''cannot'' have been sent by Yaw'nagrah, because they are under [[Amity and enmity#Enmity|enmity]] by the Conclave. Eternals are powerful, but the power of enmity is greater still, forbidding their agents from entering the world uninvited and making it impossible for them to perform magic directly on the Empire or any territory it controls. The dreams ''must'' have been the result of a ritual performed by mortal wizards.
+
+The Greenfountain Spire is allegedly hidden somewhere in the tall pine forests that cover the mountain sides in Peregro. The Spire has long held an odd reputation, acting as a magnet for disaffected briars and anyone who struggles to find a place for themselves in Urizeni society. The magicians of the Spire are said to be masters of the Spring arts, with powers that rival those of the [[Archmage of Spring]], but the spire also houses large numbers of sentinels who train to fight alongside their spiremates.
+
+All the evidence that the Silent Bell have gathered points to the magicians of the Greenfountain Spire as the source of the dreams. They are known to encourage briars and others who are disaffected with the restrictions of modern life to come to the Spire. Crucially, there are rumours that the masters of their spire has mastery of an obscure ritual, one that allows them to send dreams to others. Clearly they have the motivation - if the rumours are true, then they also have the means.
+
+Conjunction
+WhereWhenSizeTime
+Beaten Branch Wayhouse, Peakedge Song, Therunin17:00 Saturday60 people20 minutes
+
+Such rituals are [[Ride_the_Noble_Steed|not uncommon in the Empire]], but they are almost invariably of the [[Night magic|Night realm]]. The Greenfountain Spire would not be able to cast a powerful Night ritual, there's no evidence that they have any experience with the Night realm. However if their dream ritual was of the Spring realm then it's likely they could have cast that enchanment over the whole Empire. It would have lasted a season, intensifying as the campaigning season got underway, but fading by the time the Winter Equinox begins. There would be little left after the ritual ended, perhaps some minor physical remnants of the Spring magic used to power the ritual at most.
+
+Now, as a result of the Empire's vigilance and the dedication of the military captains there is an opportunity to directly confront the Greenfountain Spire. The Civil Service has identified a conjunction of the Sentinel Gate close to Beaten Branch Wayhouse in Peakedge Song, Therunin. War scouts and Navarr stridings in the area have reported on the movement of a group of Urizeni magi and sentinels from Greenfountain Spire that left Perego in Morrow shortly after the Autumn Equinox. Understood to be led by the sentinel Agrippina of Green Fountain, the band headed through the passes into Therunin, only to disappear into the depths of the miasma of Sweetglades.
+
+Apparently, this band has now emerged from the heart of the vallorn in the territory openly displaying their allegiance to Yaw'nagrah, alongside a host of spawn, [[ettercap|ettercaps]] and vallorn-infested husks, for the most part. The force has already attacked settlements in the area and has strengthened its power during stops at Spring [[regio]] in the area. This opportunity will allow the heroes of the Empire to deal with the Spire. If enough of their powerful magicians can be killed, then that should ensure that there are no more dreams of Yaw'nagrah to trouble the Empire's sleep.
+
+## Rivers
+* The source of powerful Spring enchantments has been identified
+The recent conflicts in Hercynia and Therunin were made more perilous by the imposition of a terrible curse, [[Rivers Run Red]], that was brought down on both territories. Rivers Run Red poisons the water, encouraging rivers, streams and lakes to break their banks, and causing widespread flooding. Lowlands become mired with mud and marshes swell with still waters birthing swarms of venomous insects. All this while wounds fester and become infected threatening the life of anyone in the area.
+
+Fortunately, the Empire and their friends were able to counter these magics. The Brackensongs and their allies performed [[Rivers of Life]] to defeat the curse in Hercynica, while the [[Great Forest Orcs]] used the copy of the same ritual to save Therunin. Such rituals are expensive to perform, but they were essential to minimize the losses to the Empire when fighting the vallornspawn.
+
+This use of the Rivers Run Red curse marks a dangerous new development in the fight against the Heirs of Terunael and their foul allies. Rivers of Life is known to stir the vallorn to life, causing wild rampant growth. While the two rituals cancel each other out, it is not clear that Rivers Run Red wouldn't also cause similar problems in left to run its course. It is, after-all, a powerful Spring curse and one that floods the territory with [[Spring magic]]. The Empire has been able to stop both curses so far, but there are clear risks if this continues, both to the lives of Imperial citizens in the affected territories - and to what might happen to the vallorn if the curse were left to run amok.
+
+All things considered, it would be best for all concerned if the source of the curses could be definitively dealt with.
+### The Cabal of the Green Mother
+* An opportunity exists to break the power of the Yaw'nagrah aligned cabal
+The Silent Bell believe that they have identified the culprits - the Varushkan Cabal of the Green Mother. They have located a valuable witness, a young Navarr magician who observed a Varushkan cabal performing a powerful ritual at a Spring regio in Hercynia. The girl was able to remain hidden and thus observe the traitors at work, as they called on the power of Yaw'nagrah to help them bring a plague of pestilence and floods down over her homeland. There can be little doubt that what the girl observed was the Varushkan cabal at work, inflicting one of the Empire's most feared - and most [[interdiction|illegal]] - curses on Hercynia.
+
+Up to now the Cabal have been able to avoid an open confrontation with the Empire, but the solid military defence of Hercynia has left them with few places to hide. They have been forced to break cover and now the Empire has a chance to deal with them once and for all. Their position has been reported by a group of Grey Pilgrims who tipped off Imperial scouts to the presence in Summersend of a group of Varushkan schlacta and cabalists from Miechernya. Led by one Roman Andrevich and calling themselves the Twisting Hive, the scouts have been able to confirm that this group are the cultists of the Green Mother, that have acting as her harbingers and spread curses across the Empire.
+
+Conjunction
+WhereWhenSizeTime
+Gildenroad, Summersend, Hercynia16:30 Saturday60 people20 minutes
+
+At least one herald of Yaw'nagrah, along with ettercaps and foul spawn of the vallorn march along with Roman's force. Thanks to the swift reports the Civil Service have identified an opportunity at Gildenroad to confront the motley assemblage and end the threat they pose. The Twisting Hive present a formidable force and have numerous spawn at their command, it is expected that they will be well prepared for an attack and will fiercely defend the herald with them. Dealing with the herald, some kind of Child of the Green Mother, will no easy task, but it is likely to be essential before the cultists can be definitively dealt with.
+
+## Roots
+* The Senate could pass a law in support of the Conclave's declaration of enmity
+* The threat of Yaw'nagrah idolatry to the Empire could be broken
+Dealing with the cultists of the Yaw'nagrah in both Hercynia and Therunin will deal a major blow to the power and threat posed by them. If the Empire are successful the power of those groups will be broken and the threat they present will be ended. However the Silent Bell are convinced that these two cults are not the only servants of Barkspawner in the Empire... there are other groups, smaller, more secretive... for the moment. Such is the nature of their work, that the Silent Bell have far more leads then they could ever hope to pursue - scores of unsubstantiated rumours, endless accusations and countless tipoffs. To investigate them all would be a mammoth undertaking - and would need the full force of the law to be effective.
+
+While the eternal remains under [[amity and enmity#enmity|enmity]], it is illegal for Imperial citizens to consort with Yaw'nagrah but the [[Imperial Senate|Senate]] could go further and instruct the magistrates to take a more pro-active role in seeking out agents of the eternal of Spring. With a suitably worded [[Senate motion|motion]], similar to the [[Create_law_outlawing_the_Vyig|one used]] to make membership of the [[vyig]] a serious crime, they could encourage magistrates to investigate any rumours of involvement with Yaw'nagrah. The militia could check up on those who were rumoured to be known associates before the open attacks on Hercynia and Therunin, and take a proactive stance in rooting out the remaining influence of these eternals.
+
+Such an action would not be without cost - a thorough investigation of all Imperial magicians would have repercussions. The Empire have [[Stings_like_the_truth#War_of_Whispers|contemplated just such an action in the past]]... and shied away from it perhaps because the costs were too great. Fortunately the followers of Yaw'nagrah lack the subtlety and skill at hiding that the agents of the [[Whisper Gallery]] possess but even so any attempt to identify them would need to be intrusive if it was to be effective. The civil service estimate that the overall impact would be a loss of one mana crystal from every [[mana site]] in the Empire for the next two seasons, while the search was carried out.
+
+Doing so would root out almost every last tendril of the Green Mother from Imperial territories. Of course it is impossible to be certain that every mortal who has dealings with the Queen of the Forest could be identified and prosecuted, but many would be and that would neuter the eternals' efforts to corrupt the Empire. It would also send a clear message that the treasonous behaviour of those assisting Yaw'nagrah - for whatever reason - would no longer be tolerated. Some of Yaw'nagrah's followers would inevitably flee - either to Liavathen or even further beyond the Empire's borders - but the threat within the Empire would be broken for a lifetime.
+
+## Legacy
+* The Heirs of Terunaeal are disaffected Navarr who use the vallorn as a weapon
+* The opposition of Imperial heroes have thwarted their schemes in Hercynia and Therunin
+The true threat that has stirred the vallorn to life in recent times is not the cultists of Yaw'nagrah, but the Heirs of Terunael. These individuals appear to be disaffected Navarr, and many of them seem to be of the [[briar]] [[lineage]] - although whether this was the case before their close association with Yaw'nagrah is anyone's guess but far from being driven by a life-long mission to oppose the vallorn, they seem to pursue any method available to spread the infestation. It is the Heirs that have been the driving force behind rousing vallornspawn in the Navarr territories after the Autumn Equinox. Before that they were behind similar attempts in [[Brocéliande]], and they are known to have successfully stirred the vallorn to life in Liathaven on more than one occasion prior to that. It is not certain what their purpose might be, but it is clear that the Empire will not be safe until they are dealt with.
+
+Fortunately the stalwart resistance to their efforts in Hercynica and Therunin has forced them into the open. Nobody is sure how many Heirs there really are, but a number of them are believed to have fled West, seeing the relative safety of Liavathen. That is not a problem that can be dealt with now, but the Empire can deal with those that have not yet fled. Thanks to the vigilance of the Synod there are two opportunities to catch some of the Heirs before they can retreat to their boltholes.
+
+### Hercynica and Therunin
+* There is an opportunity to aid a Navarr wayhouse in Hercynia and gain information about the wherabouts of the Vate's Shelter artifact
+* There is an opportunity to rescue Winter adept vates imprisoned by the Heirs in Therunin
+The territories claimed by the Navarr have seen large numbers of engagements and sudden eruptions of violence arise over the last season. Fierce conflicts have been fought from Hercynia in the north to Therunin in the south-east, yet military forces of Navarr and their allies from the other nations have stymied the extent to which these recidivists have been able to inflict death and destruction on the Empire. Through the efforts of the Valiant Pegasus, the Grey Pilgrims, the Silent Bell, and numerous bands of warriors, the tide has slowly been turned against the foes that have lain hidden across the woods of the Empire.
+
+Conjunctions
+WhereWhenSizeTime
+Needlestead, Northpines, Hercynia15:00 Saturday60 people20 minutes
+Tower's Edge Holt, Upper Tarn Valley, Therunin15:30 Saturday60 people20 minutes
+
+A month before the Winter Solstice, as the snows started to land thick and heavy in [[Hercynia#Northpines|Northpines]], Navarr scouts in the Silent Bell report the movements of the ''Fellorich Striding'', Heirs of Terunael led by the [[brand]] ''Fenella Fellorich''. This [[striding]] are linked to many of the attacks in the Northpines and [[Hercynia#Summersend|Summersend]] in Hercynia, indicating that Fenella is perhaps coordinating activities of the Heirs in the territory from a hideaway in Needlestead. These reports are matched to an account received from the Marshstalker Steading of Summersend who report an attack on their [[wayhouse]] by the Fellorich shortly after the Autumn Equinox. The Marshstalkers were beset by the striding during a nighttime raid; whilst the attack was driven off at great cost, in the confusion an old heirloom was stolen from the wayhouse's meeting hall. An opportunity has been identified to strike against the Fellorich Striding, possibly eliminate their leader Fenella, and recover the lost item.
+
+The heirloom is known by the Marshstalkers as the ''Promise of Home'', an old [[Icon of the Witness]] that had been hallowed with true liao during the reign of Empress Teleri. If recovered, and returned to the Marshstalkers via the Navarr egregore, the steading has promised to travel to Anvil at the Spring Equinox. Following a call made by the Navarr national assembly the Marshstalkers have knowledge to share about [[Abraxus_Stone#The_Vate.27s_Shelter|The Vate's Shelter]], an [[Magic_items#Artefacts|artefact]] [[Abraxus Stone]] that was lost to the Navarr during the reign of [[Empress Brannan]], some 130 years ago.
+
+This past season, the Grey Pilgrims of Highguard have supported the military forces stationed in the area that are taking the fight to the traitorous Navarr and the existential threat posed by the vallorn's very nature. At Tower's Edge Holt, above the River Tarn in Therunin, the devout opponents of the vallorn report on an incident involving the Greenstride Steading and a coven of [[vate|vates]] skilled in the magics of the [[Winter magic|Winter Realm]].
+
+The Grey Pilgrims tell of a night time encounter with a member of the Frozen Steps coven, who stumbled into the light of their campfire while fleeing. The Frozen Steps coven are a small group of vates with an interest in the Winter Realm who were prominent at Anvil during the reign of Emperor Walker, over a decade ago. The young magician claims that their entire coven had been captured by the Greenstride Steading and were being interrogated and forced to perform rituals for their captors. Apparently the Greenstride Steading are eager to identify ways that the vallornspawn might be protected from winter magics such as the [[Ward of the Black Waste]], and are apparently forcing the Frozen Steps vates to help with their work.
+
+The Grey Pilgrims have attempted to scout the [[steading]], but there are far too many Heirs and vallornspawn in the area for them to attempt a rescue. Instead they reported the information to the Imperial prognosticators who have been identified an opportunity to rescue the vates and strike against the steading, with the potential to kill their leader, ''Clevorn Greenstride'', who is believed to be present.
+
+Note: None of these four skirmishes are run within an area under the effect of the Vallorn miasma.
+
+## Origins
+* The Empire has limited information about the situation in Liathaven
+* The spy network might be used to gather intelligence about the Heirs' activities there
+Whatever steps the Empire takes to fight the Heirs of Terunael, there remains one serious problem that has not yet been addressed. All the evidence of the last few years and all the rumours that the Silent Bell have gathered point to one unmistakeable conclusion. The origins of the Heirs of Terunael, the source of their power, the foutainhead from which so much misery and strife has flowed is in Liavathen.
+
+The Empire still controls two regions in the territory, but only just. The dreadful conflict that has raged between the Empire and the Jotun has reduced the Imperial presence in the territory to a handful of groups clinging on in the last few steadings. The Jotun control at least two regions in the north, but their own presence here has suffered almost as badly as the Navarr. There are also significant numbers of [[feni]] in the territory - exiles from [[the Marches]] - but it is hardly surprising that the Empire has no idea what these traditionally isolationist people are up to.
+
+The reality is that only the vallorn is really in control here - and only its creatures can move openly through the forest. Everyone else is just doing what they can to survive. Their situation has grown worse in recent months. The Heirs of Terunael are proactively trying to stir the vallorn to life - but their efforts are being hampered by the terrible Winter curse, [[Wither the Seed]], which renders things in Liathaven quiescent and barren. That will have limited the impact of what the Heirs have been able to achieve - but it will not have stopped them.
+
+The Silent Bell have identified a number of important leaders among the Heirs of Terunael in Hercynia and Therunin, but they believe the real leadership, the people ultimately in charge of this sinister cult, dwell in Liavathen. There have found records that suggest both Clevorn of Greenstride and Fenella of Fellorich both visited Liavathen at least once in their life. That is far from conclusive of course, the nature of the Navarr is to travel, but it proves they could have met the leader of the Heirs there. Perhaps more convincingly, this is the territory that many Heirs have fled to after being defeated by the Empire's military forces. Liavathen is the rock they choose to scurry back under when their schemes unravel.
+
+The most effective way to investigate the Heirs and what they are up to would be to station a significant force of scouts at the Liathaven [[spy network]] for a season. Given what the Empire now knows about the Heirs, given everything the Silent Bell have managed to unearth, then a scouting force could make use of that information to find out what is going on. How effective that operation would be would depend on the number, strength, and capabilities of the forces assigned to the task.
+
+
+UnitsOutcome
+5An idea of the scale of the Heirs of Terunael presence here and any changes that have taken place following their activities here last season.
+10Information on any response by the Jotun to the vallorn or the Heirs along with warning of whatever the Heirs are planning next.
+15Insight into the nature and identity of the leadership of the Heirs and an opportunity to send a significant force to try and take out that leadership.
+
+
+The results are cumulative, so if 15 military units in total are assigned then the players receive all the benefits listed on the table. They are also cumulative with the usual effects of a spy network - this information supplements, rather than replaces, the usual reports.
+
+If the Empire doesn't take this opportunity quckly, then the leads the Silent Bell have gathered will quickly lose their usefulness. The Empire could use the spy network to learn what is going on in the territory at any point, but the opportunity to gather specific information, and to potentially uncover opportunities to strike against the leadership of the Heirs, will be lost by the start of the Spring Equinox.
+## Resolution
+The Senate requested that [[383YE_Winter_Solstice_Senate_sessions#Request magistrates investigate followers of Yaw'nagrah|magistrates investigate]] the cults of Yaw'nagrah, leading to widespread disruption but hopefully rooting out some of the remaining idolators of this dangerous Spring eternal.
+## Further Reading
+* [[Rise of Terunael]] - the Autumn 383YE wind of fortune which laid out the Heirs' most recent stratagem
+* [[383YE_Winter_Solstice_winds_of_war#Fire_and_Hemlock|Fire and Hemlock]] - details the Empire's response to their plans
+* [[383YE_Winter_Solstice_winds_of_fortune#Briar_Prejudice|Briar Prejudice]] and [[383YE_Winter_Solstice_winds_of_fortune#Flowering_Briars|Briar Flowers]]- General briar updates
+* [[Abraxus_Stone#The_Vate.27s_Shelter|the Vate's Shelter]] - details what is known about the missing artefact
+* [[Yaw'nagrah]] - lays out some information about the Spring eternal

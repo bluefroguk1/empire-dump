@@ -1,0 +1,253 @@
+---
+revision_id: 106607
+revision_date: 2023-12-29T17:57:39Z
+categories:
+- Winds of Fortune
+- 385YE Summer
+- Recent History
+aliases:
+- The_horror_and_the_wild
+---
+
+
+"So as I hear it, this was four or five years ago during the big storm, the one that shook the mountains to their roots. You remember?"
+
+"Vaguely. I was down south in Delev at the time. I seem to remember it shook quite a few things loose. Something about the bones of heroes out near Wendell's Hope? Wasn't that..."
+
+Lyubov waved him off, clearly irritated by his attempt at a digression. Patrov took a long draw from his bottle, and shut his mouth.
+
+"Anyway. It seems that there was this team of wagon raiders, poking their noses around the foothills of Bredavoi as wagon raiders are wont to do. I heard it said they were looking for that mythical tunnel that goes under the mountains of Brez and comes out in Otkodov. A wagon raider who found ''that'' could get very rich, very quickly."
+
+Patrov scoffed but held his tongue. Every year people went up into the mountains trying to find that passage, and every year fewer of them came back than set out.
+
+"The storm caught them unprepared, like it caught most of us. Hailstones the size of rat, deafening thunder, blinding lightning, and the wind! A wind that was like the claws of the heavens themselves, seemingly bent on grabbing those hardy, hard-bitten folk and sending them tumbling down the mountainside like so many game pieces. They knew that if they didn't find shelter soon, they were finished. They clung to one another, and when it seemed like they were done for, one of them, the keen-eyed scout whose sight was clear despite her age, spotted an opening in the rock up ahead. A cave! They were saved!"
+
+A breeze down the chimney made the fire burn brighter for a moment, making shadows dance on the walls. Patrov sat with his bottle cradled between his knees, listening to Lyubov spin her tale.
+
+"They made it to shelter, and found that the cave was not only bigger than they had thought, but there was a tell-tale glittering in the rock that told them they were sitting on a vein of finest tempest jade. Fitting, really, given they found it during a storm. They had their tools with them, so they chipped a little bit of it away. They had nothing better to do, with the storm raging outside the cave like an angry lion. At least, they had nothing better to do until the youngest of them found an opening right at the back of the cave leading into tunnels and passages that wove their way down beneath the mountain."
+
+Lyubov paused and gazed into the fire.
+
+"Of course, the way I heard it, their grizzled old scout swore by the paragons that the opening hadn't been there when she'd checked the place out, but her companions scoffed and mocked her, claiming her eyes were failing her. She was adamant though nobody listened to her, and rather than explore the tunnels she sat by the faltering fire alone staring out into the storm and fretting."
+
+Patrov passed her the bottle, and she took a deep swig, and handed it back.
+
+"Anyway! They explored - cautiously because they were not entirely fools. They'd been up in the mountains looking for a passage so they had all the gear they would need. They were sure the tunnels were natural, and there was even more tempest jade down here. A Throne's bounty, richer than any they'd ever heard of even in the mountains of Brez. They made plans, I hear, to come back with miners and make themselves a fortune, but it was pretty clear that there was no way they had the resources they'd need to properly exploit it. They'd sit excitedly at the fire, tired and dirty, and their eyes would glitter as they talked about what they would do with their share of the wealth this place would bring, and all the while their old scout bit her tongue and worried."
+
+Lyubov stared into the fire again, as the wood cracked and popped. Patrov opened his mouth to encourage her to keep talking, but before he could say a word she continued.
+
+"Yet as I hear it they weren't alone in the tunnels. It started mildly at first; a few of them spoke of a feeling of being watched from the darkness. Then there were 'sightings' of things moving in the lower of the passages they'd explored. The youngest spoke of something touching their face, long spindly fingers like the legs of a spider scuttling over your cheek when you lie in the dark. They stopped exploring, and spent more and more time in that first cave, sitting around the fire, and all the excited talk of Prosperity dried up, and as often as not they sat in silence.
+
+"So you heard," said Patrov quietly.
+
+"So I heard," agreed Lyubov. She shook herself. "Anyway, even the most cursed of storms eventually ends, and this one was no exception. They came down the mountain, and went straight to Void where the cabalists gather. They sold the location of the cave to those dark-eyed wizards, and counted themselves fortune. The profit was nothing to what they might have had if they'd been able to take all that tempest jade, but it was still enough to pay for their failed expedition and fund several more. Although, I will tell you, they stayed away from the mountains of Brez after that. They'd had enough of eerie mountain caves."
+
+She sucked her teeth, and Patrov thought the story might be over.
+
+"And then... one by one... they started to disappear."
+
+Patrov blinked. He hadn't heard this part of the story before.
+
+"Not all of them. Some of them just died. Big strong Olag Gannovic in Zenith fighting with the Wolves of War. Delic Tarranova and good old Cali Arronovic in Ossium battling the Druj. Millyana in a misunderstanding over a cooked chicken at a wayhouse in Volodmartz. But the rest... the rest just vanished. The youngest, poor Villa who found the crack, stepped into the trees for a piss and never came back. Clever Danya Mallanitov vanished on patrol; just passed behind a tree and never came out the other side. One by one, it happened to all of them. Vilya. Yenna. Sulin. It was Keeravonovitch who realised that they were vanishing in order, youngest to eldest. By that time there were only a handful of them left. They split up, because why not? There was no point staying together. Perhaps if they went their separate ways whatever was hunting them might be confused."   
+
+Lyubov's voice faltered, and when she spoke again it was barely a whisper.
+
+"The other day I heard that old Roj Blakivna, the old rogue who founded that gang of wagon raiders, was reported as having gone missing on the Semmerlak. He got on a boat headed for Lacre and never got off at the other end. He was almost the eldest of the band. Almost. There was only one older than him. The scout who first spotted the cave in the first place, as the storm came down. And maybe, just maybe, it would have been better for them all if she never had, and they'd died on the mountainside, killed by the tempest."
+
+The fire had died down, filling the empty common room with shadows. Lyubov sighed, and stood up.
+
+"Anyway, that's what I heard," she said, her voice cracking with tiredness. "And if it's that cave up beneath Bredavoi that the folk of Void are seeking miners for I advise you to look elsewhere. Sutton Stone over in the Marches is always looking for good stonesmiths, I hear. Maybe you should go and find out if their pig flesh really is the best you'll ever taste. Good night, Patrov."
+
+He murmured his goodnights, and Lyubov squeezed his shoulder. On her way to the stairs she paused beside the guttering candle on the table by the door and for a moment he thought she was going to take it with her to light her way up to her room, but she obviously thought better of it. She passed the threshold and he heard the stairs creak. Then again. Then a noise like a long sigh. 
+
+Then nothing more.
+
+He remained in his chair until sunrise, and he never saw Lyubov Terrenavovic again.
+
+## Overview
+During the Winter Solstice, the Varushkan National Assembly upheld a statement of principle raised by Vaclav Mladenovich Kosti that urged the people to "reach out to the sentient creatures who have proven themselves through service and sacrifice with our armies". On the surface it seemed to encourage people to try and talk to the monsters of Varushka, to "consider their capacity for virtue". The Assembly followed it up with a [[mandate]], enacted by Vaclav themselves, that encouraged people to hunt out the dark powers of Varushka, and seek to make bargains with them. 
+
+Those who respond positively to the advice of the National Assembly generally do so in private. Even with the endorsement of the National Assembly, few want to make the details of their dark dealings public knowledge. The people of Varushka may not be evil, but the wolves that lurk near the roads and pray on those who are foolish enough to stray from them certainly are. Varushkans are not needlessly cruel, but they are often forced to make hard choices precisely because many of the sovereigns they share their lands with revel in cruelty. The powers that inhabit the dark places in Varushka are inhuman and most are unspeakably wicked. They offer power to those who bargain with them, but they exact a terrible price for that aid. So it is that those who chose to accept such deals, do so away from prying eyes. 
+
+Even so, a few stories begin to filter out of odd happenings across Varushka. A failing mining village that suddenly finds a vein of rich ore. A sick relative who undergoes a seemingly miraculous recovery. A beloved pet that returns without warning, caked in sour earth. A marvellous merchant whose wares seem to echo the unconscious desires of the people of an isolated town.
+
+Yet always and always there is a price to pay for these windfalls. There are whispered stories of deals gone awry. An entire vale in the shadow of [[Miekarova#The_Razors|the Razors]] disappears. A trader selling fine white furs from no familiar beast goes mad and butchers half an inn before being finally brought down. A lakeside [[Navarr]] [[wayhouse]] in [[Karov]] is swallowed by [[the Semmerlak]] overnight, forty people unaccounted for and nothing left behind but silent black waters where buildings once stood. 
+
+In Varushka, even the wise ones who deal with the darkness do not return unscathed. The unwise tend not to return at all.
+
+## The Beast of the Semmerlak
+
+* Dho'uala continues to cause trouble across the Semmerlak
+* Fleets belonging to Dawnish, Varushkan, and Holberg characters continue to have a -1 penalty to their production
+* The Senate could pass laws to try and mitigate the situation
+* Until the disruption of the Semmerlak is resolved, there are no opportunities to expand the ports that border it
+On the subject of the Semmerlak... last season work [[Underwater_sunshine#Kostjyas_Respite|was completed]] on [[Merchant Boyar of the Bittershore|Kostjyas Respite]], and in theory this should have prompted enthusiasm for expanding ports in the area or building new ones. Unfortunately, the [[Underwater_sunshine#Dark_and_Lonely_Water|ongoing disturbance]] apparently caused by the [[Varushkan_Monster#Sovereigns|sovereign]] [[Dho'uala]] has left people questioning whether it might not be better to move away from the shores altogether. The Varushkan national assembly offered to explain their understanding of the sovereign to their neighbours in Dawn, and merchants visiting [[Weirwater]] and [[Semmerholm]] have done just that. The Dawnish are sceptical at firsts, but the  [[Underwater_sunshine#Beavers|flooding]] at [[Semmerholm#Semmer.27s_Rose|Semmer's Rose]] makes them receptive to the Varushkan advice.
+
+During the Spring Equinox, an emissary of Dho'uala visited Anvil where they apparently spoke with the Varushkans responsible for overseeing the ports of the Semmerlak. Since then, several more messengers have emerged from the lake not at ports but onto the decks of ships plying their trade across the lake. These emissaries take the form of sodden, bloated dead sailors and terrify most of the mariners they speak to. In each case, their message is the same.
+
+In former times, those who needed no longer to live were cast, still living, into the lake. The emissaries of Varushka have said that that practice will resume, with condemned criminals being thrown into the lake to drown. There is little sign that it is actually taking place, however. If the people who live around the lake truly want to propitiate Dho'uala that practice must resume, and not just in Varushka. Likewise, foolish people are still taking things from the depths of the lake that they do not deserve, and giving back nothing in return. If this continues, the sovereign will continue to claim those who steal from her, and those who conspire with them.
+
+With these messages in mind, it is possible that the Imperial Senate might wish to take action to help propitiate the ''Light-in-the-Depths''. It would ''not'' be possible to combine multiple laws into a single Senate motion because, legally, it is possible that senators may wish to vote against one of the laws and not the other. As such it will take two motions to propose both these laws, should the Senate wish to do so. While these two laws are in keeping with the expressed desires of the creature of [[the Semmerlak]], and would presumably propitiate it, there's no way to tell for sure what impact if any they would have on the situation there.
+
+### Those Who No Longer Need To Live
+* The Senate can change the law so that criminals are drowned in the Semmerlak
+Throwing Imperial citizens or foreigners into the Semmerlak, alive, so that they drown is a [[List_of_Criminal_Offences#Crimes_against_the_Person|serious crime]]. It might not be a crime to do this with a barbarian, but there are precious few opportunities for that. Determination of who should be executed, and how they should be executed, is in the hands of the magistrates. However, the [[Imperial Senate]] could provide the magistrates with guidance as to how criminals in the territories bordering the Semmerlak should be treated. With a suitably worded [[Senate motion]], the magistrates of the north-east could be instructed to execute criminals in [[Holberg]], [[Semmerholm]], [[Weirwater]], [[Karov]], [[Karsk]], and [[Ossium]] by drowning. According to Varushkan records, common methods of execution in the past included being weighted down with chains or rocks and thrown from the deck of a boat; being bound and thrown from a clifftop; and being chained to a post at low-tide and claimed by the rising tide. The exact method would continue to be at the discretion of the magistrates however.
+
+Under normal circumstances, a criminal condemned to death is quickly and efficiently executed with a sword or axe. This would require the criminal to be transported to the Semmerlak and cast into its depths. The body would not be recoverable, which is likely to cause unhappiness among the families of condemned criminals. It also has unpleasant echoes of a sacrifice to an inhuman power, which may cause priests to look askance at the Senate if they pass such a law. On the other hand, the Imperial Synod has confirmed that it is not blasphemous to deal with dark powers; as long as they maintain this stance it's not clear what the virtuous case for condemning such behaviour might be.
+### Taking From the Depths
+* The Senate could make it illegal to steal from the depths of the Semmerlak
+The Senate could also pass a law making it a crime to take things from the depths of the Semmerlak. Taking, owning, or selling such items would be illegal, with such items being treated like any other illicit goods. Citizens are rarely in a position to determine if something is actually claimed by the horror of the deep water, so would be at pains to throw ''anything'' that comes out of the water with the possible exception of fish back into the lake. This would, unfortunately, include all the [[ilium]] currently being delivered to the [[Harbourmaster of the Semmerlak]]. They would not be able to purchase star metal from their ministry for as long as the law was in place.
+
+Passing such a law would also discourage fishing in the Semmerlak, at least to a degree. Most of those too afraid to take to the water would move elsewhere within their respective nations. Hardest hit would be Karov, Weirwater, and Semmerholm, where most of the fishing of the Semmerlak takes place. The outcome would be a loss of 2 thrones from each territory to the [[Imperial treasury]] each season.
+
+## Irina's Grove
+
+
+Irina's Grove
+Commission Type: [[Ministry]]
+Location: Skoremujac, Karov
+Cost: 16 weirwood, 6 thrones, three months to complete
+Effect:  Creates the title of Tender of the Warded Grove
+
+
+
+Tender of Irina's Grove
+Type: National position
+Appointment: Annual appointment; Unanimous decision of the Senators of Varushka
+Powers: Can purchase from the Bounty of Irina's Grove ministry
+Responsibilities: To ensure that the mora who make their home within the grove are kept trapped in their roles
+
+
+Bounty of Irina's Grove
+7 crowns6 drams each of bladeroot, marrowort, and true vervain
+17 crowns11 drams each of bladeroot, marrowort, and true vervain
+30 crowns17 drams each of bladeroot, marrowort, and true vervain
+46 crowns22 drams each of bladeroot, marrowort, and true vervain, and one dose of realmsroot
+65 crowns28 drams each of bladeroot, marrowort, and true vervain, and three doses of realmsroot
+* Irina's Grove requires a commission, 16 wains of weirwood, 6 thrones in labour costs, and three months to complete
+* Once complete this would create an Imperial title that has the power to purchase herbs from the inhabitants of Irina's Grove
+* This is an opportunity; there are several restrictions on where the commission may be built and the nature of the title it creates
+* This opportunity remains available until the end of the Summer Solstice 385YE
+Irina's Grove has stood in the forests of [[Karov#Skoremujac|Skoremujac]] since before there was an Empire. If the tales told in [[Karov#Skoremujac|Kolvy]] are to be believed then before the Vard came the Ushkans tended the place, and bargained with the thing that dwelt at its heart. Ownership and care has been passed down from group to disparate group over the centuries and most recently it has been cared for and guarded by the ''Adventurers of the Golden Grain''; a [[warden|warden fellowship]] who unfortunately died a few years ago while fighting a [[plaguewulf]] in [[Miekarova#Perumaki|Perumaki]]. 
+
+Following the mandate of the Varushkan assembly, a small band of hunters led by ''Gnierat Dobiegnivich Keradin'' egged each other on to explore the grove. Six of the eight came back, and confirmed that there are things living within the grove though they could not put into words exactly what they were. What they had at first taken for an incredibly insular outpost turned out to be a settlement of [[Varushkan_Monster#Mora|mora]] who appear to have found themselves trapped in a cycle of accepting offers of trade in exchange for [[herb|herbs]]. The hunters returned with packs full of herbs, rather than furs, and agreed that they were not interested in delving further into the mystery of Irina's Grove, being pleased to have escaped with their lives. Instead they suggest that someone else might wish to make a more formal arrangement to claim the bounty that can be gained from taking baskets of trinkets and other luxury goods there - making sure to keep to the paths - and receiving the bundles of herbs offered in return.
+
+The hunters warned that the illusion of a settlement is starting to break down, and suggest that the mora might soon revert to type. However, it might be possible to repair the paths that lead through Irina's Grove, and restore the buildings there, encouraging the shapechangers to continue their delusional pretence of being simple vale dwellers. Based on what Gnierat saw during his last visit through Irina's Grove he estimates that the pathways would require 16 wains of [[weirwood]] and four thrones in order to ensure the safety of the person appointed, ''Tender of Irina's Grove'', to trade with whatever it is that inhabits the dark woods.
+
+## Heart of the Tempest
+
+
+Tolvoli Slaughterhouse
+Commission Type: [[Ministry]]
+Location: Mieriada, Miekarova
+Cost: 12 weirwood, 3 thrones, three months to complete
+Effect: Creates the title of Tolvoli Butcher 
+
+
+
+Tolvoli Butcher
+Type: Varushkan national position
+Appointment: Annual appointment; Tally of the Votes
+Powers: Can exchange animal blood for unique consumables
+Responsibilities: Ensuring that the dubik near Tolvoli do not become a problem
+
+
+Blood of the Grove
+6 crowns1 Bloodwine Liquor
+13 crowns2 Bloodwine Liquor
+21 crowns3 Bloodwine Liquor
+
+Blackblood Thorn
+6 crowns1 Blackblood Thorn
+13 crowns2 Blackblood Thorn
+21 crowns3 Blackblood Thorn
+
+Darkwine
+70 rings1 Darkwine
+142 rings2 Darkwine
+216 rings3 Darkwine
+292 rings4 Darkwine
+* A pack of dubik have taken up residence among the ruins of the Heart of the Tempest
+* Cautious approach by wagon raiders has allowed blood to be exchanged for weird consumables
+* The wagon raiders need a lot more blood if they are to continue this arrangement
+Once upon a time, a college of magic stood in Miekarova. It's not clear that anyone ever uncovered the true story of what happened with it. As near as most people can tell, it started out as the "Hearth of the Tempest" and had a connection to [[Yaw'nagrah]], or perhaps [[Irra Harah]] or maybe even [[Arhallogen]]. The name changed to [[Miekarova#Heart_of_the_Tempest|Heart of the Tempest]], and a little more than a year after it was built the forest around the Heart [[The_flood_and_the_storm#Heart_of_the_Tempest|started to expand]] and there were rumours of creatures of the realm that sound to most people a lot like [[Varushkan_Monster#Wolves|dubik]] pressing beyond its bounds and harming people. The forest abruptly ceased expanding, and everyone assumed someone had done something and that was it all dealt with and moved on with their lives. The people at the vale of Tolvoli, in particular, breathed a heavy sigh of relief and went back to hunting, trapping, and drawing [[beggar's lye]] from the woods.
+
+By all accounts, however, even with the Heart of the Tempest gone the area was still soaked in fecund [[Spring magic]], and that kind of thing attracts attention. Stories began to percolate out of the magically woven woods that actual dubik were gathering there, slipping into the forest and nesting among the trees. A few ventured a little near Tolvoli, and had to be dealt with, but for the most part they seemed content simply to gather in the forest far from prying eyes.
+
+After hearing the words of the National Assembly, an enterprising gang of wagon raiders set out from Tolvoli to see if they could gain anything from the haunted groves around the Heart of the Tempest. They weren't fools; they took plenty of precautions and loaded themselves down with both wards and sharp axes. Of the dozen who set out, nine returned, and they would give no indication as to what happened to their three missing siblings beyond stating emphatically that it was important that no [[changeling]] ventured into the twisted, magical woods. They also came back on foot, without their wagons, but with samples of unique dark red liquor that they were able to sell for fairly large amount of money.
+
+It is well known that dubik feast on blood. It seems that while the dubik up near Tolovi prefer human blood, they are prepared to accept animal blood as long as it is fresh and steaming. The wagon raiders bought up a lot of sheep, goats, and oxen, transported them into the depths of Miekarova, and handed them over to the dubik. They say that the creatures used the blood to water a garden, and paid with unique magical potions and winter-infused thorns. Unfortunately, after only a couple of such trips, the wagon raiders had stripped Tolovi and the surrounding vales of every spare animal. So now they reach out to their neighbours, to the National Assembly that encouraged them to make contact with the dubik in the first place. They ask that a slaughterhouse and stockyard be built at Tolovi, that will allow more animals to be brought in and more magical potions to be acquired. 
+
+The structure they are proposing is relatively cheap; 12 wains of weirwood, 24 crowns in labour costs, three months to complete. It will create the title ''Tolvoli Butcher'', and in return for helping to secure animals to feed to the dubik, the butcher will be able to buy some of the potions the wagon raiders bring back. They'll be responsible for keeping an eye on the situation, and making sure that if the dubik become a problem they are dealt with. 
+
+There is one other consideration, of course. The dubik in the woods near Tolvoli have been fed a lot of blood, and no doubt have a taste for it. In the event their supply of animal blood is cut off, it is entirely possible they will leave their grove and seek out the much more potent, much more desirable blood of humans and orcs. With that in mind, the opportunity to build the Tolvoli Slaughterhouse is limited in that if it is ''not'' commissioned, and construction completed, by the start of the Winter Solstice the opportunity will be lost and the dubik will make their own arrangements.
+The Red HarvestAccording to the wagon raiders, the grove near Tolvoli produces three different types of elixir depending on the quality and quantity of the blood provided. ''Bloodvine Liquor'' is a sweet, thick, gloopy substance that provides additional power to a magician working [[Spring magic]], provided they spill copious amounts of their own blood in the casting. A ''Blackblood Thorn'' is razor-sharp and must be thrust into the skin when performing [[Winter magic]] to provide a burst of additional power, but leaves a stinging wound that may take some time to heal completely. ''Darkwine'' is a euphemistic name for a bitter alcoholic infusion that looks like blood and smells of honey, and grants vigorous health for a time. All three are tonics.
+
+## Speakers of the Void
+
+
+The Deep Place
+Commission Type: [[Ministry]]
+Location: Void, Brez, Volodmartz
+Cost: 10 white granite, 5 mithril, 45 crowns, three months to construct
+Effect: Creates the position of ''Bredavoi Emissary'' who is able to purchase tempest jade from the cabalists of Void
+Time Limit: If the Deep Place is not commissioned by the end of the Autumn Equinox 385YE, the opportunity is lost
+Opportunity: This commission has required elements; if any are not all fulfilled the commission does nothing
+
+
+
+Bredavoi Emissary
+Type: National or Imperial position
+Appointment: Any appropriate appointment method is acceptable but the title cannot have tenure
+Powers: Control a ministry allowing the purchase of tempest jade from the cabalists of Void
+Responsibilities: Serve as an emissary for the cabalists of Void if one is needed, keep people from poking into their business
+Opportunity: This title has required elements; if any are not all fulfilled the title does not gain some or all of its powers
+
+
+Deep Jade
+10 crowns12 tempest jade
+18 crowns24 tempest jade
+25 crowns36 tempest jade
+35 crowns60 tempest jade
+
+* Cabalists at Void are keen to exploit the tempest jade of the mountains of Brez
+* They have apparently made an agreement with a dark power to protect them as they explore the caves beneath the peaks
+* In return for assistance they will provide access to high quality tempest jade
+Even as Summer approaches, the high peaks of the mountains of [[Volodmartz#Brez|Brez]] are draped in snow. Even the Iron Roads have not rendered the foothills of the mountains entirely accessible. There are many dangers here, and the area is not well travelled - even the Iron Roads are not changing that particularly. As well as the wolves found throughout Varushka, the peaks and foothills are home to many poorly recorded [[regio]], primarily associated with the grim forces of [[Winter magic|Winter]]. The mountains are also known to be riddled with tunnels, caves, and passages, some of which are said to delve down to the very heart of the world, while others are home to a darkness so thick it pools like water.
+
+This is, of course, Varushka and where there is dark magic and eerie caves there is also wealth and opportunity. Down through the centuries these potent regio, and the relative isolation of the wilderness, have attracted many [[Varushka_magical_traditions#Cabalists|cabalists]] to settle vales here. The best known are probably those who live in the vale of [[Volodmartz#Void|Void]] in the western foothills. Most cabalists are happy to deal with "dark powers" at the best of times, and those of Void are no exception. With the explicit approval of the Synod, however, they are encouraged to push even further into the hidden places of the mountains. Stories have long held that there is something old and malignant in the darkness under the peaks - perhaps the same thing that is sometimes sensed at the Granites of Veltsgorsk. By all accounts, the cabalists have made contact with it or its servants.
+
+As is also the wont of many cabalists, they refuse point blank to tell anyone anything about what they are doing, what the creature is, or what bargain they have made with it. However, one of the outcomes is that they are now apparently sitting on quite a large supply of [[tempest jade]], a material that is very valuable for the creation of [[:Category:Paraphernalia|covenstones]] and many other items of interest to magicians. The magicians of Void are wealthy, but they don't have bottomless pockets and there is a limit to what they can achieve by themselves. 
+
+The cabalists need assistance establishing what they describe as a "deep chamber, down in the dark places." They require materials and expertise they simply cannot access; 10 wains of white granite, 5 wains of mithril, 45 crowns in labour costs. It will also require a Senate Commission, Imperial Wayleave, or similar - they require assistance from the civil service that they cannot get otherwise. Everyone involved in building... whatever it is... will need to do so in pitch blackness, and will be blindfolded on their way there and back. They are extremely shifty about what it is, but reassure those who raise concerns that it is unlikely to cause trouble for anyone else even if it goes wrong. Quite unlikely, anyway.
+
+In return for all this assistance, the cabalists of Void will recognise the ''Bredavoi Emissary''. This will be an Imperial title and frankly they aren't fussed how it is appointed, or whether it is Imperial or Varushkan in nature. They would prefer a magician, but again they don't really seem to care (although they specify that for reasons too complicated to go into they do not want the emissary to have [[tenure]]). Its responsibilities would be to serve as an emissary for the cabalists of Void when they need one, and to prevent anyone else nosing around in their business. In return, they would give the Emissary first refusal on all the tempest jade they bring out from under the mountains. The jade is by no means the main motivation for their excavations, but the wealth it represents will allow the cabalists to buy things that will help with their real interests.
+
+All of this raises a lot of questions, but the cabalists of Void are profoundly disinterested in answering any of them. They're also low on patience; if the Deep Place is not commissioned by the end of the Autumn Equinox 385YE, the opportunity is lost, and they will make alternative arrangements.
+
+## Conjunctions
+Not every effort to make a bargain with a dark power has gone well. There is news of two incidents that might require the intervention of some Imperial heroes, both in northern [[Weirwater]], and there may well be more in months to come.
+### Under Dock and Quay (Conjunction)
+AccessibilityThis conjunction is rated as [[Accessibility#Combat_Possible|combat possible]]. The encounter will also involve strong horror themes that might prove unsettling.
+* Something has happened to the people of the fishing village of Surlac in Sandling
+* An enigmatic message has been delivered to Culwich mentioning a Dawnish citizen named Areloe Larmallevés
+* A conjunction of the Sentinel Gate will allow a small group to visit the village at 23:00 on Friday evening
+* ''Areloe Larmallevés'' is responsible for finding out what is going on in Surlac
+The town - village really - of Surlac in Weirwater is a nowhere place. A double handful of houses on the shores of the Semmerlak, a day's hard walk from [[Weirwater#Culwich|Culwich]] in the shadow of the mountains. It bothers the wide world very little and in turn is rarely bothered itself. Except... in the last week before the Summer Solstice a rain-soaked yeofolk traveller arrives at Culwich to report that everyone in Surlac appears to have abandoned the place. Not disappeared, just left the village and en masse taken to camping in the hills above the town. Apparently something began picking them off one by one, and those who remained decided it was safer to put some distance between themselves and the lake. Nobody can quite agree on the details of the traveller themselves, but they remember the story they told. A couple of stout yeofolk are dispatched to investigate and so far none of them have come back.
+
+The most disturbing element of this is that when the traveller's room at the inn where they were staying is checked it is found to be empty, the windows that look out toward the Semmerlak thrown wide open despite the rain and the chill night air, and a folded piece of parchment left on the sill. It seems to be a page torn from a ship's log, one side covered in spidery writing accounting for the manifest of the ''Emily Rose'', wrecked on the rocks of Karov eighteen years ago. The other side has a simple message. "Surlac. Come and see. Areloe Larmallevés."
+
+Areloe Larmallevés is presumed to be a citizen of Dawn. Prognosticators are able to confirm that there is a [[Sentinel_Gate#Conjunctions|conjunction]] of the [[Sentinel Gate]] that will reach the little village of Surlac, in Sandling, in the territory of Weirwater, at eleven in the evening on Friday night during the Summit. Large enough to let five people visit the fishing village, should they wish to do so. Presumably Areloe Larmallevés will be able to gather a small group of companions to find out what is going on.
+
+### The Schlacta of Rot (Conjunction)
+* The Schlacta of Rot, also known as the Deadwood Knight, has emerged in the forests between Karov and Weirwater
+* Its challenge calls for a Varushkan and a Dawnish champion to face it or it will begin a murderous rampage
+* A conjunction of the Sentinel Gate has been identified at 20:45 on Saturday allowing 20 people to reach the Woods on the border of Karov, in Wickmoor, Weirwater
+* ''Vaclav Mladenovich Kosti'' is responsible for the challenge of the Deadwood Knight being met
+The ''Schlacta of Rot'' is a legendary figure in both southern Karov, and in Weirwater where it is known as the Deadwood Knight. Believed to be a powerful lieutenant of a sovereign, the schlacta is sometimes encountered on the border between Varushka and Dawn. Depending on who you ask, it was either an arrogant [[questing knight]] who fell foul of an unwise bargain, or a bloodthirsty schlacta who betrayed their [[boyar]] and their battle-siblings and was cursed forever as a result. A few tales suggest that ''both'' stories are true, and whatever else the creature is it partakes equally of sneering knight and murderous schlacta, donning the garb of one or the other as it suits them. Stories say that they either have the [[briar]] [[lineage]], or they have been horribly transformed to take on the qualities of the trees where they hunt, perhaps by the master of the dubik. Clad in their decayed heavy plate, they occasionally emerge from the deepest parts of the darkest woods to issue a ''challenge''. It seems that after a long absence, someone has made contact with the Schlacta and roused them from their sleep.
+
+The challenge is known to the vales of southern Karov and the villages of northern Weirwater. When the creature emerges, it calls for champions, one from Varushka and one from Dawn, to face a challenge of arms. Whichever is victorious, the ritual bloodshed brings a boon of prosperity to the territory of the victor and a commensurate curse to the territory of the loser. The creature itself appears to be immortal, able to endure the most terrible wounds without being ultimately defeated. As with several such beings it can be driven off, but not slain - or rather if it can be slain the method of doing so is unknown.
+
+There is a coda to the tale of the Schlacta of Rot, to the Deadwood Knight. The challenge appears to be a ban, geas, or binding laid on it to keep its malice limited. If that challenge is ''not'' met, it is free to begin preying on the folk on both sides of the border, slaughtering freely, and raising those it kills as shambling lackeys that hunger for living flesh. The more it kills, the more dangerous it becomes, and there are stories that on one tumultuous occasion, it was left alone long enough to "recruit" sufficient followers that it required an Imperial army to deal with it, and the woods of southern Karov and northern Weirwater remain sparsely settled to this day as a consequence. This urge to create unliving horrors, coupled with the fact it seems impossible to kill, causes some to theorise that it is an unliving pawn of the [[Varushkan_Monster#Sovereigns|Howling Queen]], a product of the foul venom of her [[plaguewulf|plaguewulfs]].
+
+A [[Sentinel_Gate#Conjunctions|conjunction]] of the [[Sentinel Gate]] has been identified that will allow a group of no more than twenty heroes to reach its hunting ground during the coming Solstice, on Saturday at quarter to nine. Troubadours and stzena alike stress that the challenge explicitly requires both a champion of Dawn and a champion of Varushka. If only one or the other turns up, the challenge is not met and the creature is free to begin its rampage of murder and sorrow. The civil service believe that responsibility for this conjunction lies with Vaclav Mladenovich Kosti, though they are expected to liaise closely with the Senators for Karov and Weirwater.

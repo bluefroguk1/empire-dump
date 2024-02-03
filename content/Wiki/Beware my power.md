@@ -1,0 +1,123 @@
+---
+revision_id: 86431
+revision_date: 2022-02-01T21:17:26Z
+categories:
+- Winds of Fortune
+- 380YE Winter
+- Recent History
+-  Winds of Magic
+aliases:
+- Beware_my_power
+---
+
+
+"What are you doing?"
+
+Ulysses was mindful and breathed out before answering. "I am looking at the sky."
+
+Iago left his position at the railings and sauntered casually over. He stood just a little too close to the Urizen stargazer, and theatrically shaded his eyes and stared up at the sky. Ulysees found the smell of him - and his wine - quite distracting.
+
+"Why? It's the middle of the night!"
+
+"Because only out here, in the open waters of the Bay, can I see the stars properly."
+
+Iago i Guerra shrugged and gulped down a mouthful of wine, smacking his lips enthusiastically as he did so. It made Ulysses' skin crawl. The Freeborn mariner belched, horribly, and looked pleased with himself.
+
+"Tepid wastrel," muttered Ulysses under his breath.
+
+"What?" Iago looked a little unsteady on his feet, but the stargazer had no doubt who would win if a fight broke out.
+
+"I said 'that's interesting'" he lied. He gestured with his spyglass.
+
+"The Wanderer is in alignment with ''both'' the Lock and the Key, while the Spider looks on. That is very significant."
+
+Iago looked disinterested. He peered owlishly at his empty goblet.
+
+"So?"
+
+Ulysses silently recited the virtues in reverse-alphabetical order, then asked:
+
+"What was the first lesson your master taught you?"
+
+Iago furrowed his brow. "I don't remember. I think it was 'Just because you're able to use magic doesn't mean you have to whip your wand out for everything.'"
+
+Ulysses blinked a few times. "How would that even work?" he asked.
+
+Iago shrugged. "He wasn't really talking about magic, if I'm honest. It was a euphemism."
+
+The tall stargazer looked back to the sky.
+
+"The first thing my master taught me was that creation exists between two mirrors. They reflect each other. The heavens reflect the earth, and the earth reflects the heavens. The stars do not shape magic, they represent it. I have no idea what it means but it worries me. Secrets, revelations, watchers ... I am uneasy."
+
+Iago nodded a few times as if he understood what the Urizen was saying and then out of the blue said: "I was turning my cards before we left port, and I noticed the Captain had changed. She has started wearing a mask, a silver one that  conceals most of her face. That's not normal. Its only there about half the time, mind. But then last night I went to the theatre and they were playing 'The Incongruous Rationale' and I noticed they had Vassa in a mask. The lad playing her was ... you know the monologue in Act Two?"
+
+"No. I have no idea what you are talking about."
+
+"The monologue in Act Two. All the words were the same, but the emphasis he was putting on them worried me. They did a twist at the end where she wasn't really there and ..."
+
+He shuddered. "Sarvosans are odd people, they are too clever for their own good sometimes. War, military matters, secrets, revelations, watchers. I don't like it"
+
+The Urizen stargazer and the Freeborn dramaturge shared a moment of gloomy camaraderie, and then Iago belched again and Ulysses wrinkled his nose. He closed his spyglass with an audible snap.
+
+"Well, I'm for bed. I'm sure it will all be clearer in the morning."
+
+"Really?" Iago peered at him.
+
+"No." And with that he turned away and stalked toward the stern.
+
+"I might just stay here and look at the stars for a bit," said Iago to nobody in particular. He pulled a flask of Madrugan peach brandy out of his sleeve, and took a swig, gazing upwards at the bright dome of the heavens.
+
+The ''Tannhauser Gate'' sped on through the night over a star-scattered sea.
+
+## Overview
+It would be difficult to miss the powerful [[Darkest night|shrouds cloaking the night sky across the entire Empire]]. Likewise, everyone in the Empire - and in several territories on the border - has felt the influence of the powerful [[enchantment]] of [[In brightest day|artistic inspiration]] woven with [[Night magic]].
+
+In addition to those large-scale effects, there are a scattering of other magical effects that Imperial citizens may be aware of in the run-up to the Winter Solstice. In no particular order then:
+
+## Storms and Castles
+Nobody in Spiral can miss the massive storms raised by Freeborn magicians that spring up off the coast. Ships travelling through the north-eastern Bay of Catazar are battered and beaten, although it is not entirely clear whether this includes any [[Grendel]] navies. It will certainly have had a deleterious effect on any [[fleet]] trying to trade out of that war-torn [[territory]]. There is also a good chance it has stymied the [[Asavean Archipelago|Asavean]] vessels bringing white granite to their [[orc]] allies in the ruins of [[Spiral#Apulus|Apulian]]. Indeed, a story is doing the rounds in [[Spiral#Ateri|Ateri]] that at least one Asavean galley was caught unawares by the storm and smashed to pieces against the southern cliffs.
+
+Likewise, it is difficult to miss the magical fortifications that have risen in the [[Dripping Echoes of the Fen|marshes]] of [[Kallavesa]] and [[Forge the Wooden Fastness|woodlands]] of [[Necropolis]]. The Circle of Endless Dark of [[the Marches]], and the Sussivari Frost Coven and Sherard Hunters of [[Wintermark]] continue to wield their powerful magic in service of the Empire. Neither [[territory]] came under attack from barbarian enemies this season - but if it had, these magical castles would have provided a significant impediment to attacking armies.
+
+## Peculiar resonance and the Sentinel Gate
+Civil servant magicians examining the [[Sentinel Gate]] - the miraculous device that allows Imperial heroes to fight the enemies of the Empire during the solstices and equinoxes - have reported some peculiar experiences when examining it. They can't confirm precisely what is going on, but it seems as if some of the [[Sentinel_Gate#Conjunctions|conjunctions]] of the gate appear to be... odd. Not odd in the sense that they may collapse unexpectedly or anything, but odd in that peculiar and hitherto-unremarked qualities appear to have infused them. For example, one conjunction appears to allow no immediate return through the gate until a second conjunction opens an hour later allowing ''only'' a return. They are monitoring the situation and suggest that any magician examining the Sentinel Gate with [[detect magic]], or leading their friends on an adventure with [[operate portal]], take reasonable precautions.
+
+As near as anyone can tell, these perturbations are a secondary effect of the red star falling, and should (with any luck) have abated entirely by the Spring Equinox.
+### OOC Note
+This event some of the conjunctions of the Sentinel Gate will follow slightly different rules than normal. You will always be appraised if the gate is expected to operate in a peculiar fashion when you perform detect magic to examine a conjunction, and the civil service have already quantified and recorded any peculiar effects that may accompany a [[Sentinel_Gate#Major_Conjunctions|major conjunction]]. Out of character, we are using the fall of the red star as an opportunity to run some slightly different formats of quest and battle.
+
+## The Rejuvenation of Cinion
+Over the last three months, a powerful magical effect from the Spring realm has fallen on the region of [[Spiral#Cinion|Cinion]], in Spiral. This magic appears to be quickly rejuvenating the injured, and healing the remaining effects of the unnatural fire that [[380YE_Spring_Equinox_winds_of_war#Fire_on_the_Mountains|scorched the region]] last Winter.  On the land itself, growth will be promoted and new green life will show. On individuals, old wounds heal and scars fade. There are even a few reports that soldiers injured by the fire that fell in Cinion who are on the other side of the Empire found the burn scars flake away to reveal clear skin underneath!
+
+Unfortunately, as with all Spring magic, the effect was somewhat unpredictable. Most of the ruined spires - including the fire-damaged ruins of Ossen's Spire - were completely overrun by vines and trees, torn apart as if by many decades of natural growth in the space of a season. Significant parts of Damakan's Forge were also destroyed, though in this case the more intact central parts of the spire were able to withstand the green onslaught - due largely to the efforts of a number of Urizen citizens who spent three months clearing undergrowth and cutting back hungry, destructive overgrowth.
+
+Despite the powerful magic, one small section of Cinion appears to have resisted the healing. A grove of blasted and burnt trees, no more than twenty-feet across, remains devoid of greenery. Magicians who have visited the area suggest that it is infused with the power of [[Winter magic]], and may be a nascent [[regio]] tied to the [[The_Thrice-cursed_Court|Thrice-cursed Court]]. A small group of [[Urizen magical traditions#Illuminates|illuminates]] have committed to keeping an eye on the place, to see what happens.
+### OOC Note
+Any character from Spiral can role-play that they were involved in stopping Damakan's Forge being overrun by greenery. Apart from the single clearing mentioned above, all sign of the fiery damage from Winter 380YE has been removed and the region is now hale and hearty. However, peripheral damage to Damakan's Forge has meant that any previous costing for [[commission|commissioning]] a [[runeforge]] has been rendered obsolete. If the Urizen wish to continue with this project they will need a new costing from the Civil Service.
+
+## An Unexpected Number of Babies
+It has been roughly nine months since the entire Empire was [[The_prime_colour_of_the_world|infused]] with potent [[Spring magic]]. The [[Hallow of the Green World]] has long since faded, but the after-effects are still being felt. Occasional patches of [[Realmsroot]] are still being uncovered, for example. Perhaps more noticeably there has been a dramatic upswing in the number of children being born to humans and orcs in every Imperial territory. All these children are possessed of a particularly strong constitution - there seems not to be a single sickly child among them. Almost all of the human babies have green eyes - although this does not appear to be the case with the [[orc]] babies although they are no less healthy and strong. There is some muttered concern that these children all bear the [[briar]] [[lineage]] - but given that blood touched by Spring magic almost never reveals itself at birth, there is no evidence to support this. Outside of the most traditional and conservative parts of the Marches and [[Navarr]], it hardly matters.
+
+## The Silver Mask
+The [[Dramaturgy#The_Personae|personae]], the ritual foci of the [[dramaturgy|dramaturgical tradition]], are mutable concepts. Over the centuries, common names and themes have changed and changed again. [[The Bishop]], for example, was known by another title before the formation of [[the League]], and some say the [[The_Bishop#The_Servant_with_Two_Masters|Servant With Two Masters]] only really solidified in its current form following the notorious case of Piero of Both Banks in first century [[Tassato]]. Now, the eddies have stirred once more.
+
+A new, minor persona of [[the Captain]] has emerged - the Silver Mask. It seems [[Dawn|Dawnish]] [[Dawn_magical_traditions#Guisers|guiser]] troupes first came up with the new persona, but the figure is proving popular with dramaturgists across the Empire and, of course, the crowd, who appreciate a good dose of irony to the violent justice in their entertainment. The Silver Mask is appearing with particular frequency in dramaturgy that draws on the purging of the [[Vyig]] or the Empire's hostility to the [[Whisper Gallery]] as inspirational material, as well as a particularly vindictive play penned by an anonymous playwright from Tassato that speculates on the many horrible ways the notorious Guillermo di Tassato might meet his fate.
+
+Some wide-eyed guisers and playwrights in Dawn and the League are also spinning wilder tales - that the Silver Mask is a persona ''incarnated'' in the world, that their stories of devious spies and hidden justice are not mere inventions but born from encounters with a mysterious, masked figure. No two actors can agree on exactly what this Silver Mask looks like, or any meaningful details about them other than they are, apparently, Dawnish. Most serious, sober citizens disregard the whole story as the typical dramatic excess of the actor.
+
+You can find more details about the new minor persona [[The_Captain#The_Silver_Mask|here]].
+
+## Tamarbode
+The region of [[Reikos#Tamarbode|Tamarbode]] in [[Reikos]] remains under the control of the Spring [[eternal]] [[Llofir]]. The only part of it that remains accessible to Imperial citizens is the [[mana site]] known as [[Reikos_Spoils_of_War#Tamar.27s_Toes|Tamar's Toes]], and people tasked with gathering the mana have complained of all sorts of rum experiences - being watched by peculiar creatures, their clothes being infested with rusts and moulds, and the brooding sense that if they deviate from the shortest path to and from the mana site there may be trouble. There are also scattered reports that the eerie fortification that rose from the Sign of Tamar itself is still present - a living castle of mushrooms and fungus drawn from the realm of Llofir that seems almost alive.
+
+On the plus side, the servants of Llofir seem to show no interest in leaving Tamarbode, neither to explore Reikos nor to poke around [[Brocéliande#Elerael|Elerael]] just over the border in [[Brocéliande]]. Both [[Highguard|Highborn]] [[magister|magisters]] and [[Navarr]] [[Navarr_magical_traditions#Vates|vates]] agree that whatever else one might say about Llofir, it is interested in the long game.
+
+## The Semmerlak
+There have been [[Turbulence|a few problems]] with [[the Semmerlak]] of late but as of the Autumn Equinox they have abated entirely. The waters are placid and remain unseasonably warm. Fisherfolk report bumper hauls, and the citizens who live near the shore experience a delightful "Indian Summer" of warm afternoons and pleasant nights. The odd folk of the waters return, and those [[Earl#Enchanters|enchanters]] and [[Varushka_magical_traditions#Volhov|volhov]] who speak to them say they are contrite and full of apologies for any recent unpleasantness. As near as anyone can tell, the "Lady of the Semmerlak" has been "rescued by brave and wise folk" from "a dreadful curse". Details are scant, but already storysmiths are beginning to speculate, and create fabulous tales of derring-do - or grim tales of cunning and cleverness, depending on whether one is on the southern or the northern shore.
+
+## A Hidden Conjunction
+And finally... the stars may be hidden, but that does not mean that there are not adventurous [[astronomancy|astronomancers]] prepared to take a boat out into the Bay of Catazar just to get a look at them. The ebb and flow of magic can be sensed by other means as well, manifesting in the unconscious decisions of which plays a [[dramaturgy|dramaturge]] selects, or the runes that come out of the [[Runes|rune master's]] bag (in this case, [[Diras]], [[Sular]], and [[Queros]] are turning up noticeably more often). Even the practitioners of [[blood magic]] can sense the whirling eddies of magical power - blood dripped into water swirls into the shape of a serpent, or gently expands until the entire basin is pale, and red, and opaque.
+
+But it is often easier to use the language of the astronomancer. In the wake of the crimson starfall, three powerful constellations have come into conjunction with [[the Wanderer]]. The [[The_Key_and_The_Lock#The_Key|Key]] and [[The_Key_and_The_Lock#The_Lock|Lock]] are in ascendance, and aligned with the [[The_Spider_and_The_Web#The_Spider|Spider]]. It is reasonably clear that this represents conspiracies and things being hidden - but also things being revealed. Magicians across the Empire have reported subtle shifts in the power of their rituals, and suspect that this careful reweaving of magical power may be reflected in the conjunction.
+### OOC Note
+This conjunction has no immediate effect on any rituals or other magic, but it provides an IC explanation to some of the recent changes to ritual magic as well as the change to the operation of a [[spy network]].

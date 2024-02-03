@@ -1,0 +1,93 @@
+---
+revision_id: 91208
+revision_date: 2022-06-03T20:45:46Z
+categories:
+- Winds of Fortune
+- 384YE Spring
+- Recent History
+aliases:
+- Dressed_in_smoke_and_fire
+---
+
+
+
+Genia Bourné leaned back in her cathedra and tried to relax but it was not easy. Everything was going exactly as she'd planned, but sadly the official seat of the Merchant Prince of House Bourné was designed to make the sitter look regal and intimidating, not comfortable. Still nothing great without suffering as the Marchers said she thought. Well, they probably didn't, they probably said something about potatoes, but the ''principle'' was the same. If you wanted to achieve something extraordinary there was a price to be paid. And right now that price was the stubborn pain she could feel growing in her back and shoulders.
+
+The pain was important though, another reminder that she was not as young as she'd once been. To be fair, she and Solomon were both getting on a bit. The Axou had been a stray when she'd taken him in. Just like she'd been all those years ago when House Bourné had taken her in. Now, if she died before him, he'd be the richest cat in Sarvos. Much as the thought of the caterwauling her grasping family would make when the will was read out gave her constant comfort, the grim reality was he just might make another Summer, but two was probably out of the question.
+
+No, amusing as it would be to leave everything to the cat, creating a legacy was a much better plan. With Sarvos becoming the City of Masks, it would exemplify style, elegance and sophistication. When artists and their wealthy patrons around the world thought of couture they would think of Sarvos. Giving up her network would be painful, but if helped secure Sarvos' position as the greatest city in the world then it would all be worth it.
+
+She reached forwards, gently scooped Solomon up, and put the old cat down in her lap so she could stroke him. It didn't ease the pain in her shoulders, but it did wonders for the pain in her heart. A few more minutes and she would be ready to receive the new Mirrored Maschieri... She'd been told they had some rather wonderful ideas for a masquerade and Genia was very much looking forward to hearing them.
+
+
+## Overview
+
+* Sarvos has become the City of Masks
+At the Summer Solstice 383YE, the [[The_Thrice-cursed_Court#Skathe|the Hag Queen]] cursed Sarvos, shattering every mirror in the Jewelled City. The curse did more than just shatter the city's mirrors, it tore the soul of the city, shredding its identity. What is the City of Mirrors... without any mirrors? Some feared that the City was doomed - superstition has long held that if the mirrors were shattered then the city would surely fall. 
+
+However the greatest city in the world is not so easily destroyed, and the people of Sarvos were soon at work 
+[[The DOOM that came to Sarvos|developing bold ideas to renew the city's identity and purpose]]. Support [[The winds of fashion|quickly coalesced around the ideas presented by House Bourné]] for Sarvos to become the City of Masks. After a short delay, the League National Assembly endorsed [[383YE_Winter_Solstice_Synod_judgements#Judgement_25|the mandate urging Sarvosans to embrace their new identity]] with a greater majority.
+
+Now Sarvos has become the City of Masks. The doom that threatened the city is gone, and the Hag Queen has lost. She destroyed the mirrors, hoping to mar the city's beauty.  In its place the city is fast gaining a new reputation as a place of elegance and refinement, renown for exquisite couture and high fashion, and famed for the grace and style of the people who live there. The city has always seen many visitors from foreign lands, only Siroc does more trade with far-flung lands. As the City of Masks, it is fast being talked about as the most elegant and sophisticated city in the known world.
+
+## The Docks
+* The title of Mayor of Caricomare has been transformed
+The doom hovering over the city may have played a role in [[The_winds_of_fashion#A_Little_Doom|the fires that recently tore through the rebuilt docks at Caricomare]]. Admittedly the more cynical Sarvosan might attribute the fires to the blatant corruption of the Carta du Incendio, but what is not in doubt is that the fires have ravaged an important area of the city that was only [[Repair_the_docks_at_Caricomare|recently renovated]].
+
+The occupants of Caricomare are soon hard at work rebuilding the dock front. The burned-out warehouses, shops and businesses are torn down and elegant new buildings are being constructed to replace them. But as the ash settles it becomes clear that something has changed in Caricomare. Ever since the restoration of this part of the city, the [[Mayor of Caricomare]] has enjoyed powerful support from the local businesses - providing them with a small income and number of votes to be wielded in the election of the [[Senator]] of Sarvos.
+__TOC__
+The position has always been constitutionally flawed, with the Court openly expressing regret that they did not strike it down at the time. That is now largely moot, since the source of the income is gone and with it, the support from local businesses that the title garnered from them. As a result, the civil service confirm that the Mayor of Caricomare will no longer receive an income from the docks (that will go to those who are paying to replace the burned buildings), nor will they receive any additional votes in Senatorial elections (as local businesses are no longer prepared to pass their votes to the Mayor).
+
+However, the Proud inhabitants of Caricomare are determined that the position of Mayor of Caricomare should continue to be treated with the respect the title deserves. To that end, they have made suitable arrangements to enable the Mayor to benefit from the large volumes of trade that pass through the rebuilt docks. As a result the Mayor can now use their title to acquire a range of valuable goods if they consider the prices worthwhile.
+
+The decision made by the inhabitants of Caricomare has fundamentally changed the powers of their Mayor. As a result, the Constitutional Court have ruled that it will no longer be constitutionally possible for the Senator of Sarvos to appoint the title by themselves, as was formally the practice. That option was the only way that the title could be appointed since it granted votes in the Sarvossian senatorial elections. Now that that is no longer the case, the closest legal equivalent method would be for the title to be a national position appointed by the Senate (meaning it could be elected by unanimous decision of League senators). The restriction that the title could only be held by a resident of Sarvos was likewise removed.
+
+The Court has updated the published guidance for the title, which fortuitously comes due for election at the forthcoming summit.
+
+Masks in Packs
+All Sarvosans, (that is League characters with a resource in Sarvos), who are prebooked for the next event will receive a ribbon for a magical mask in their pack. The mask has no beneficial abilities, but it does have an aura that will exert an influence on whoever wears it.
+
+In all cases the aura on the mask is new - but the mask itself could be a prized heirloom that has been in your family for generations, or it could be something with a dubious history that you recently acquired from a mountebank who cared more for a quick sale than a high price. You might want to hang on to your mask or you might just want to take the opportunity presented by the summit at Anvil to get the best price you can for it. If you don't want your character to own or have acquired one of the magical masks, you can simply cut up the ribbon to reflect that.
+
+## The Masks
+* Magic has settled on many of the masks of Sarvos, infusing them with peculiar auras
+Masks have always been important in the League. They are [[The_League_hearth_magic#Masks|a powerful hearth magic]] and it is well known that theatrical masks in particular can take on a personality all of their own. According to the salacious gossip some of the oldest theatrical masks have to be kept under lock and key, since they have grown so powerful they would easily overwhelm any actor foolish enough to don one.
+
+As the Spring Equinox sees Sarvos growing into its new role as the City of Masks, word soon spreads that the embrace of masks has had unexpected consequences. Something has happened to the masks of Sarvos. Some powerful magic has settled on them, infusing them with odd auras that influence those who wear them in unexpected ways. Not all the masks are affected, of course, perhaps no more than a hundred in all, but enough that it causes quite a storm of interest. 
+
+Some of the masks are treasured family heirlooms - beautiful hand-made pieces, each one a work of art in its own right. Several of them are night masks, the mirror masks first proposed by Genia Bourné. But some of them are simple things, a child's disguise, or a cheap doctor's mask. Since this is Sarvos, the masks are soon changing hands for a healthy sum, as those who have been fortunate enough to discover one in their house cash in on their windfall. Possession of one of these curious masks is soon a must-have item for any well-to-do Sarvosan.
+
+## The Masquerade
+* A celebratory masked ball is proposed for the Summer Solstice
+To celebrate the transformation of Sarvos and the triumph of the entire League over the spiteful Hag Queen, [[League Egregore|the Contessa and the Harlequin]] asked the new [[Mirrored Maschieri]] to plan a festival. The hope is that all the League will come together to celebrate this accomplishment and the plan is to hold some kind of masquerade at the coming Summer Solstice, a year to the day after [[Skathe]] first attacked the city.
+
+Rather than a traditional masked ball, which would be well-nigh impossible at Anvil, the Maschieri is working on plans for a ‘Feast of Fools’ styled carnival in which everyone is encouraged to take on a new identity through the wearing of masks. Those taking part will don masks to take on a completely new identity - it could be something that reflects the ambition of who you want to become - or just an opportunity to reflect on those goals. Participants could adopt one of the dramaturgical personae, or they might be guising as another character or guising as a more abstract concept. Those who do not or cannot wear masks are encouraged to take on the role of ‘The Fool’ and to act as storytellers, and commentators and engage the audience and others in the stories The League are telling.
+
+Those who have donned masks will be encouraged to disguise the meaning of notes and gifts which are given to each other during the festival. The messages may have codes hidden in them, secret meanings or other puzzles for the recipient. When guising as someone other than themselves, a Leaguer may have the Courage they otherwise would not to declare an affection or rivalry or deliver an unwelcome truth! For coin or reckoning those who have taken on the role of Fools may be happy to carry your message, provided they're well remunerated!
+
+The current plan appears to be to start the festivities at approximately 5pm on Saturday of the Summer Solstice - possibly with some dramatic entertainment. All the details are still being worked on, and while the Contessa has asked the new Maschieri to take the lead in organising the festivities, the hope is that everyone will share their ideas with them and then come together to celebrate the League's triumph. If the masquerade is a success and enjoys popular support, then the hope is that might become a regular Summer Solstice tradition.
+
+## The Schemas
+* There is an opportunity to secure magical schema for garments from around the world
+* The Brokers Office would be a folly requiring 30 wains each of white granite, weirwood, and mithril, and would cost 180 crowns, with an upkeep for 5 Thrones each season
+* The brokerage would allow the purchase of schema for mage robes, magical jewellery, and ritual foci from around the world
+Merchant Prince Genia Bourné di Sarvos has long enjoyed a reputation as one of the wealthy doyennes of Sarvos. Although she no longer attends Anvil, her carta is rich and prosperous, in part due to their possession of an improbably large number of unique magical [[Magic_items#Schema|schemas]] that allow their owner to learn how to create elegant magical robes and masks. Officially, the Bournés claim they came by their invaluable collection through trade, buying the schemas whenever the opportunity arose, although there are numerous salacious rumours suggesting that some of their first schemas were acquired through slightly less legal routes.
+
+Regardless of how they started out, the Bournés have amassed a fortune by establishing a network of brokers who seek out any opportunities to purchase rare schemas. These brokers can be found across the Empire and far beyond it. According to Genia, she has bought schemas from Asavea, Jarm, the Sarcophan Delves and even one from the Commonwealth once. Now that Genia is reaching retirement age, she is considering her legacy and would like to use her wealth to support the City that made her rich.
+
+To that end she is offering to put her established network of skilled brokers at the city's service. She proposes that the League commission a Brokers Office in Sarvos, perhaps in one of the new buildings being constructed on the dockfront at Caricomare. It would have to be Sarvos, since it needs access to the port facilities, but it could be anywhere in the city really. The Office is no small investment - it would require two seasons to construct and need 30 wains of white granite, 30 wains of weirwood, and 30 wains of mithril, and 180 crowns to commission. Once complete it would have an upkeep of 5 thrones a season. It would legally be a [[folly]] operated at least initially by representatives of House Bourné.
+
+Genia's network are potentially able to locate and purchase schemas for new [[:Category:Mage_Robes|mage robes]], [[:Category:Jewellery|magical jewellery]] and [[:Category:Foci|ritual foci]]. They are not able to obtain schemas for any other kind of magical items. The easiest way to ensure things continued to run smoothly would be for the titleholder to send a winged messenger to Genia outlining to her what kind of schema or schemas they might be interested in. Her network would then produce a short report for the best match for what the titleholder was looking for by the start of the next summit. The report will describe the powers of the schema they been able to find for sale and what the best price would be. The titleholder could then decide if they wanted to pay to buy the schema.
+
+Genia is at pains to stress that such things do not come cheap. A schema requires at least ten rings of ilium to make, anyone trying to buy one can expect to pay significantly more than that for a completed schema. They are a long term investment - and should be viewed as such. The advantage of her Broker's Office is that it would give the League a way to acquire new schemas without the expense of supporting an entire rune forge, not that it would be cheap.
+
+The title would have to be a national appointment by the Bourse. Genia Bourné is very clear on that point - her loyalty is to her carta, her city, and the League - and very definitely in that order. If she could limit the position to a Sarvosan she would... but the civil service are very clear with her that that is not constitutional. Having the Bourse appoint the position annually is the compromise that she is willing to accept to see her plan enacted. She is not shy about stating that she hopes whoever takes the title will ensure that the schemas and the knowledge they provide remains within the League. After all the Empire can still benefit from the schemas... just by buying the magical items the League makes rather than making them themselves.
+
+The opportunity to commission the Brokers Office will remain available for a year - after that Genia Bourné will make other arrangements for her legacy.
+
+## Further Reading
+* [[Sarvos]]
+* [[Mayor of Caricomare]]
+* [[The_League_hearth_magic#Masks|Masks]] - League [[hearth magic]] around masks
+* [[The winds of fashion]] - Winter 383YE Wind of Fortune detailing the beginning of the transition to City of Masks
+* [[The DOOM that came to Sarvos]] - Autumn 383YE Wind of fortune in which the DOOM is discussed

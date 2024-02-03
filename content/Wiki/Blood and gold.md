@@ -1,0 +1,97 @@
+---
+revision_id: 85659
+revision_date: 2022-01-22T16:24:57Z
+categories:
+- Winds of Fortune
+- 382YE Summer
+- Recent History
+aliases:
+- Blood_and_gold
+---
+
+
+
+Morgan's face was as blank as a slate, his voice was halting and confused "I don't understand... We've only got a few seasons to take advantage of the vallorn's weakness. Why are the Quiet Step there?"
+
+Bron sighed, but silently, to avoid upsetting Morgan. She reminded herself that this steading was deep in Hercynia. It was hardly surprising he couldn't understand what was going on. Heck her striding spent most of their life bringing news to the steadings and she couldn't understand it either.
+
+"I don't know Morgan. Apparently the Empress has command of the Quiet Step now - and the Black Thorns are close to breaking. I guess nobody was prepared to fight with us and we just didn't have the support?" She shrugged, all she really knew was the basic facts - everything else was just her best guess. At times like this it didn't seem enough.
+
+"Have we pissed everyone off? Surely they can see how ''urgent'' this is? It's now or never. I thought we'd fought hard to help the other nations - surely that counted for something?"
+
+"We have - I think. At least I thought we had. Look, the Quiet Step fought just about everywhere there was a fight these last ten years. We even went into Reikos when the place stank of the plague to help the Highborn. I don't claim to understand it Morgan - I don't know why. For whatever reason, it just wasn't enough - nobody took our side" Her heart sank - she'd told a dozen people the same news in the last two weeks and her heart had sunk every time she had to repeat it. Some people got angry, but Morgan's complete incomprehension was the worst. "There's nothing we can do about it..." her voice trailed off - she'd lost the will to go on talking.
+
+Morgan stopped to consider the last but when he spoke he had found certainty from somewhere. "No. No - that's not right. There's always ''something'' you can do."
+
+Bronwyn grimaced. "Morgan, you weren't there - I'm sure every Navarr wanted to fight the vallorn - but the Empire just wouldn't let us. That's how it is."
+
+"The only thing I know Bron is that ''nothing'' ever came to anyone for the wanting of it. If the vallorn were beaten by the Navarr just wanting it... it would have happened centuries ago. The only way we beat the vallorn is get out there and make it happen. We have to convince everyone else to want it as much as we do. Otherwise... we lose."
+
+"Right - and how do you propose to do that?" Bron was indignant - but her curiosity was piqued. They were fine words from the old priest but she suspected he had no more idea how to solve this than anyone else she'd spoken to. He was right about one thing though - they had to do ''something''. This wasn't a child's tale that ended with happily-ever-after. 
+
+
+## Overview
+Since discovering proof that the [[Vallorn#Vallorn_Miasma|foul miasma]] that accompanies the [[vallorn]] traps the souls of those caught in its grip causing them to rise up as [[Vallornspawn husk|husks]], the [[Assembly#General Assembly|General Assembly]] has passed a statement that the vallorn is the greatest spiritual threat to the Empire. This intervention has come at a timely moment. The current situation in [[Liathaven]] has presented an [[opportunity]] for the [[Navarr]] to take the fight to their ancient foe, but time is against them. Unless they can [[Start_a_fire|seize the moment]] the vallorn's weakness will likely pass and this chance may not return for many years. 
+
+Despite these events, it seems there is insufficient support for the Navarr to immediately take advantage of the opportunity. No Navarr [[Imperial army|army]] has been committed to the [[territory]] and the two [[The Marches|Marcher]] armies that were campaigning there last season have now withdrawn. For whatever reason, the Empire's eternal wars against their barbarian neighbours have take precedence. Whatever the reason, the reality is that this priceless opportunity to fight the vallorn is now almost certain to be missed unless the Navarr can change find friends in other nations to support them,
+
+The hard truth is that there is simply no way that the Navarr can fight the vallorn without the help of the Empire. The reason that the Navarr worked so hard to found the Empire centuries ago was in part because it represented the best possible chance to turn the tide. Now the words of the [[Assembly#The National Assemblies|Navarr Assembly]] present some opportunities for the nation to consider how that might be achieved.
+
+## A Fitting Testimony
+At the recent summit, Corey Wayfarer submitted a [[judgement]] to the Navarr Assembly calling for the Marcher [[General|generals]] whose armies supported the Navarr to be rewarded with a testimony.
+
+We recognise the support given to the Navarr in fighting the Vallorn by the Marches. As such we wish to reward the Generals of the Tusks and the Bounders with an appropriate Testimony
+
+Initially, this seems fairly straightforward and uncontroversial (apart from some Highborn magistrate requesting that the [[#Constitutional Court|judgement be ruled unconstitutional]] - a request that was summarily rejected). [[Testimony]] is a fine way to mark when an individual citizen's actions are noteworthy in a way that calls attention to their virtue. But assuming that the testimony did take place, then it doesn't seem like this statement really ''needs'' to be passed by the Assembly and then communicated by the civil service to every [[congregation]].
+
+But it does lead one [[Navarr_religious_beliefs|guide]], ''Morgan of Brock Bottom Steading'' to ask some pointed questions. Nearly one and a half thousand lives were lost in the [[382YE_Spring_Equinox_winds_of_war#Immolation_.28Liathaven.29|recent fighting]] in Liathaven and the majority of those were Marchers. Morgan was born a Marcher - so he's familiar with their views on the importance of ensuring the bodies of their fallen are buried on Marcher soil. Of course that's near impossible when fighting the vallorn, but he points out that that means that the deaths will have grieved them more than some may have understood.
+
+Morgan's query though is to politely question if the testimony is sufficient to thank the Marcher nation for their sacrifice? The concern is that such a gift may appear inadequate to convey the depth of the appreciation felt by many Navarr for the losses the Marchers suffered on their behalf. That fear is particularly acute at a time when the nation desperately needs friends and allies in other nations to try and press the advantage against the vallorn. 
+
+Morgan proposes that the Navarr go much further than this and has conceived a plan that would permanently repay the Marchers for their losses. His plan is not without flaws - it entails great sacrifice by the Navarr nation, but Morgan points out that when the [[Imperial Orcs]] gave the [[Crown of Three Tears]] back to [[Wintermark]] - the Winterfolk gave them [[Skarsind]] in thanks... Whereas when the Summer Storm helped the Navarr retake [[Hercynia]] - the Navarr reflected that debt by building a [[Keeper_of_the_Memorial_Gardens_of_Treji|memorial garden in Treji]]. Morgan's not unsubtle point is that perhaps it would have been more appropriate to build something for the ''[[orc|orcs]]''...
+### Upwold Wayhouse
+* A wayhouse could be built in Upwold and used to provide herbs to the Marches directly from the Navarr people
+With that in mind Morgan proposes that the Navarr nation commission and construct a wayhouse in Upwold, with an associated title to operate it. The folly would require 15 wains of weirwood and 30 crowns but it could be completed in a season. It would be useless by itself, but not if it were combined with the [[mandate]] that Morgan has suggested.
+
+The Navarr nation has a great wealth of herbs that we should share with our friends in other nations. We send ''named priest'' with 50 doses of liao to urge every Navarr striding and steading to send what seeds and cuttings they can spare to the new constructed wayhouse in Upwold.
+
+If that mandate were endorsed by the Navarr, then every Navarr herb garden would suffer a loss of 2 random herbs per season for the next year. But the farm owners of the Marchers could vote to appoint one of their own to the position to run the wayhouse. They could then share the bounty out among any Marchers who needed them. After a year the new herb gardens in the wayhouse would be established and production could continue in situ without need of further assistance by the Navarr. That would mean a sinecure that would produce 30 herbs a season for the Marchers in perpetuity.
+
+## Tight Belts
+The Navarr Assembly also passed a significant judgement submitted by Harwyn Hollowatcher, urging every citizen to tighten their belts and offer all possible support to resupplying the Black Thorns army. 
+
+
+Sacrifice is in our blood. We, the National Assembly, urge all citizens to tighten their belts and offer all possible support to resupplying the Blackthorn’s Army. The Empire needs out might at full strength sooner rather than later.
+
+There is general agreement on the principle of this - the Navarr should tighten their belts and do what they can to support their armies - although the subject of ''where'' those armies should be fighting does produce some impassioned debate. But at present there seems to be little anyone can do to help. The obvious way to resupply the army would be using weirwood to provide emergency resupply, however the [[Quartermaster General of the Imperial Armies]] has not made any announcements to permit that to happen.
+
+Assuming that problem could be resolved the question would be where to get the weirwood. The ''obvious'' answer to most Navarr would seem to be the [[Thimble]]. Although recently reduced, this vast weirwood forest in Therunin still produces 20 wains of weirwood every season. This wealth belongs to all the Navarr and is overseen on behalf of the nation by Idris Eternal. Doubtless some of it is already dedicated to important projects, but if the resupplying the Black Thorns is so important than surely that must come first? Then once the army is back up to strength what is left could be used to fund other projects such as the proposal by Morgan of Brock Bottom.
+### Tighter Belts
+* The Memorial Gardens at Treji could be ceded to the Imperial Orcs
+Of course, another thing the nation could do to tighten belts is to consider their assets. Morgan has openly questioned the value of the [[Keeper_of_the_Memorial_Gardens_of_Treji|Memorial Gardens at Treji]]. Not their economic value; everyone can see how valuable they are. But he argues that building a [[herbs|herbal]] [[sinecure]] for the Navarr is a poor way of thanking the Imperial Orcs for their sacrifice. His claim is that the garden memorialises the Orc dead, it ensures they won't soon be forgotten, but it does nothing to thank them for what they did. But if the [[Imperial Senate]] passed a motion making the title of ''Keeper of the Gardens'' an Imperial Orc appointment... then that would be a way of showing real gratitude. It would mean a few less herbs for the Navarr nation - but what's that compared to the help the Imperial Orcs could offer the Navarr right now?
+
+## The Greatest Threat
+* A powerful mandate could encourage support for Navarr action in Liathaven, before the opportunity is lost.
+Following the Assembly of Nine stating that the Vallorn are the greatest spiritual threat to the Empire AND that husks trap souls, we the Navarr Assembly believe that EVERY priest should preach that message to their congregation to warn off the threat.
+
+The Navarr National Assembly has spoken passionately of the need to impress on every citizen that the vallorn is the greatest spiritual threat to the Empire. Of course every Navarr already holds that view, so there is nothing to be gained by preaching that to Navarr congregations. That would be like preaching the importance of glory to the Dawnish. To have a significant effect, the Navarr could try to arrange for the [[Assembly#General Assembly|General Assembly]] - or the Assembly of the Nine - to pass the following mandate.
+
+Imperial forces facing our barbarian allies must take up defensive positions so that every soldier who can be spared may fight the vallorn. This current opportunity will not soon come again. It must be seized now, else it will be lost. We send ''named priest'' with 100 liao to remind the Empire that the barbarians have be driven back before but the time to strike the vallorn is now.
+
+If this mandate were passed then every [[military unit]] in the empire would suffer a loss of morale and support equivalent to a single rank if it didn't fight in support of an Imperial army in Liathaven over the next six months. Obviously there would be no penalties for any military unit that did fight there - but any Navarr unit that supported a Navarr army fighting in Liathaven would gain an additional rank for doing so.
+
+Thus far, neither the [[Imperial Military Council]] nor [[the Throne]] seem inclined to support a military campaign in Liathaven, not even to retake the territory from the Jotun, let alone defeat the vallorn. But the Navarr Assembly claims that the Assembly of the Nine are at least aware of the threat and such a mandate would give them a chance to put some weight behind their words.
+We believe that while it is important to reclaim Zenith from the Druj we must not do so at the expense of the human and orc souls trapped by the Vallorn in Liathaven.
+### Sentinels of Virtue
+At the same time, a statement of principle was passed in the [[Urizen]] assembly. Instead of urging their people to fight the Druj in Zenith, the Urizen priests urged them to face what they saw as a greater threat - the vallorn of Liathaven. This makes it clear that Urizen also identifies the need to fight the vallorn, even at the expense of delaying the recovery of Zenith from the Druj.
+While Zenith must eventually be liberated, our freedom must no come at the price of those souls lost to the vallorn in Liathaven. We must take advantage of this rare opportunity to free the slaves of the vallorn. The Urizen Assembly sends ''named priest'' with 50 liao to urge all our citizens to support the sacrifice and virtue of our soldiers and bend their will to the destruction of the vallorn in Liathaven and beyond.
+
+If such a [[mandate]] were passed, every Urizen [[military unit]] that did not support an Imperial army fighting in Liathaven over the next six months would suffer a loss of morale and support equivalent to a loss of 2 ranks.
+
+## Constitutional Court
+
+Submission: Imperial law makes clear that there are no legal restrictions on the placement of a testimony, which can be carried out by any individual priest as they deem appropriate. Existing legislation that provides for a prosecution of a priest under the laws governing abuse of powers has always proved more than adequate to govern the use of this important ceremony. De jure, the Imperial Synod do not possess the legal authority to authorise the use of a testimony and should not be permitted to pass judgements that give citizens the impression that that is the case.
+
+While such actions may appear inconsequential, they present two clear risks. That citizens who are not versed in the constitutional and legal limits of the Synod's powers, may be inhibited in their exercise of personal responsibility by the assumptions inculcated by judgements of this nature. And that repetition over time may lead to the establishment of a tradition governing the use of testimony which creates a de facto enhancement of the power of the Synod.
+
+Response: The Court notes Magistrate Abraham's concerns that this judgement represents an inappropriate extension of the powers of the Imperial Synod. His submission is rejected by three votes to one on the grounds that - as he well knows - judgements of the Synod are not subject to the scrutiny of the Constitutional Court.

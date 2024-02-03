@@ -1,0 +1,76 @@
+---
+revision_id: 97855
+revision_date: 2023-02-28T18:00:31Z
+categories:
+- Recent History
+- 384YE Winter
+- Military Council
+aliases:
+- Fire_on_fire
+---
+
+  
+
+## A Cloak of Shadows
+
+__TOC__
+This summit I have lost my brothers. My friends, my uncle. My adjutant and my mentor. I am heartbroken. And so I have Embraced the Living Flame. He will not soothe my sorrow but emblazon my passion - My passion to kill the Druj and take back the Empire. Zenith shall be free. I dedicate my orders to them. I dedicate it to the passion I pass onto you my Sky that we'll use to slaughter them all. We will plant flowers in their miasma and eradicate all evidence of their livery. I am the star of Semmerholm and these are my orders. I bring death to the Druj.
+Varushka we come to Zenith to fight a war. And the Druj send us cowards. They run and we will kill them as they run. We shall tear their limbs from their bodies, we will grind them into the dirt, and drown them in their Blood. And then the rest of the Mallum will face us and die.
+In the run up to the Autumn Equinox, the Empire snapped closed a trap around the neck of the Druj forces in Zenith. A force of Imperial soldiers lead by the Hounds of Glory conquered the shadow-haunted forests of Lustri, cutting the orc armies off from the Mallum. Seven Druj armies, trapped in Proceris and Occursion, panicked. Not used to being trapped, much more experienced at being the one closing the trap, they sought to escape. Their best hope to escape the territory with their miserable lives was a powerful [[Night magic]] enchantment that would allow their warriors to slip the noose closing around them. 
+
+During the Equinox, the heroes of the Empire poured through the Sentinel Gate to the [[The_darkest_road#Last_Light_of_the_Sun_.28Battle.29|Glade of Night Enshrouding]] in Occursion to thwart their desperate magic working. The heroes were victorious and the battle-magicians of the Tainted Basilisk and their allies among the [[Druj_lore#Ghulai|ghulai]] of [[Sarangrave]] were scattered, but not before they had managed to enchant four of the seven Druj generals brought to bay in Zenith. Half the Druj armies were left unprotected from the wrath of the Empire.
+
+Almost immediately, the Druj tried to flee north to Sarangrave. In addition to the strategic mastery that had trapped them in Zenith, the [[Citadel Guard]] had woven a gossamer-thin, steel-strong strand of magic around them, shackling their movement and ensuring that even those who made it through the suddenly-hostile forests of Lustri would not be able to venture further than the Sarangrave.
+
+The furious knights of the Eastern Sky, and the brutal warriors of the Golden Axe held fast in Lustri, and made the Druj pay for their desperate action. The woods are lonely, dark and deep, and made doubly dangerous by the magic of Imperial magicians. The Druj make great use of the wards and shrouds that turn the land against interlopers; for a change it was the orcs of the Mallum forced to contend with the [[Forge the Wooden Fastness|anger of the forests]]. The forest itself worked against the Druj, frustrating their attempts to flee, and offering protection to the Imperial soldiers fighting among the angry trees.
+
+It is difficult to say for certain how many orcs fell beneath those heavy boughs. Even those four armies protected by their coward's shroud – the Tainted Basilisk themselves, the Red Lizard, the Hidden Widow, and Deadly Blade - felt the sting of Imperial blades. Those armies without that arcane protection – the Arrow Viper, the Hidden Snake, and the Poison Blade – paid an incalculable price in blood with thousands slaughtered trying to flee across the borders into the Mallum. The tally is incomplete, but by a rough estimation perhaps as many as four thousand orcs died, despite their protections. Most of their bodies still lie where they fell, rotting among the roots of the ancient trees of Lustri.
+We have carried the Flame of Ambition into Lustri and as the craven Druj flee they will bleed. We strike first through Proceris and unite our forces then we finish this and claim Occursion No Matter the Cost and where the enemy no longer stand we will sow flowers that beauty may thrive in place of their horror.
+Sentinels and Scholars, you have bled, the other nations of the Empire have bled. Now we finish this and make Zenith whole once more. To those of you who joined us this year, thank you. I hope you will stay. Once we have done this, the healing can truly begin. Make me proud.
+## A Furious Blade
+The armies may have fled, but the battle for Zenith was by no means over. Dark magic still infused the marshes of Proceris; warbands of roving orcs and tormented souls still remained, eager to keep their grip on the lands they had conquered.
+
+The Dawnish soldiers of the Hounds of Glory lead the charge to purge the Druj from Zenith. Supported by the [[Clarity of the Master Strategist|clear eyes]] of the [[Citadel Guard]], [[Army_qualities#Indomitable_Glory|heedless of the cost]], they smash against the Druj remaining in Proceris, breaking through the mystical defences there by force of will as much as by force of arms.
+
+The fighting is bitter, but there is little doubt as to who will be the victory. The marshes of Proceris fall in short order, and after them the mountains of Occursion. The last of the shattered spires that still litter the heights of Zenith are freed from the grasp of the Druj at last.
+
+## A Banner of Flame
+Sisters, Siblings, Brothers, The Highguard National Assembly has spoken! The Crusade inspired mandate to tend to the Salvation and Liberation of the people of Urizen and tortured souls in Zenith has been endorsed by a greater majority, The military council stands with us in virtue and agree we will not allow Zenith to become a terrorised territory. This is the time of miracles and they happen because of your virtuous actions! Let your virtue spread among the people of Urizen, Let their famed beacons come alight once more with the fire of their virtue. The beacons will be seen as far as Sarangrave and the Barrens and light the souls of those who suffer under the yoke of the Druj. Let the stars re-align to reflect the virtue of Urizen and let the Druj know wherever they are - We are coming. For virtue
+The Highborn National Assembly has mandated that we root out the poisonous legacy of the Druj in Zenith. Send out our Unconquered. Find every trap, every tortured Soul, Every pillar of Blasphemous miasma. Let us bring salvation in our wake.
+With the influence of the Highborn Assembly, and with the Seventh Wave and Granite Pillar taking the lead, the focus in Zenith lies not in punishing the fleeing Druj armies – although make no mistake the Dawnish and the Varushkans ensure they pay a heavy price for their misdeeds. Rather the emphasis lies on reducing the damage they do to Zenith as they leave.
+
+The Empire has seen the spite of the Druj before – in [[Holberg]] and [[Reikos]] in particular. What they cannot control, they will often destroy. They have wrought a great deal of destruction in Zenith already, and nobody wants to see them wreak any more.
+
+The first target are the tormented souls. While some have already been laid to rest, many more remain to terrorize those who have survived the Druj occupation. Created during the Winter Solstice last year, most are forged from the spirits of Highborn and Urizen soldiers captured by the Druj. It seems the orcs intend them to remain behind – to seed Zenith with despair or to distract the Imperial armies from pursuing them into Sarangrave.
+
+The Vigilance of the Highborn encourages priests accompanying all the Imperial armies in Zenith to turn their attention to the task of freeing these unliving thralls from their bondage, or letting them pass at last beyond life into the Labyrinth. There are several pitched engagements – there are perhaps as many as a hundred tormented souls in Zenith, each one a match for many Imperial soldiers. They need to be rooted out, defeated, and exorcised.
+
+In the end, while not every tormented soul is dealt with, the vast majority are freed. The ones who remain are forced into hiding in the wastes between the spires, forced to lie low and lick their wounds. They may present individual threats in the future – but that will be a concern for Imperial heroes rather than armies.
+
+Then there are the Druj warbands who do not attempt to flee Zenith, but rather dig in like ticks. The orcs of the Mallum love to leave guerrillas and assassins behind, waiting in the wild places for the Empire to drop its guard so they can emerge without warning to raid and kill. Most recently the Empire has seen the threat of these left-behind warriors in Ossium, where their presence ensures that even with the armies driven away the defenders cannot rest easy.
+
+Vigilance triumphs over the malice of the Druj. The scouts of the Granite Pillar are particularly adept at locating the guerrilla camps the orcs attempt to establish in the far reaches of Lustri, in the caves beneath Occursion, and in the ruins of Proceris. Methodically they work, locating these lingering Druj, surrounding their camps, and putting an end to them. There are still scattered bands of Druj in Zenith – even the most vigilant cannot hope to trap all of them – but they are too busy looking to their own survival to think about presenting a large scale threat.
+
+Finally there are the miasma pillars, several of which still remain in the eastern territory. Until they are dealt with, Zenith will still labour under the stifling atmosphere of despair and terror that the Druj eventually weave over every land they conquer. Scouts from the Seventh Wave in particular are hard at work locating the pillars that anchor the miasma; they will also likely be places where remaining Druj will gather seeking to take advantage of the aura that surrounds them. At least this will make them easier to find, as one Highborn unconquered says with grim humour.
+
+## A Ruined Land
+Between the fleeing Druj armies, and the forces remaining behind to slow the liberation of Zenith, some Imperial soldiers fell and will not rise again. Zenith is freed, but in some ways the battle is only half over. The territory has been devastated by the Druj. Even as they invaded, they burned and broke anything they could not use. During the occupation, they ripped every shred of profit from the land that they could, forcing the conquered Urizen to work themselves to death to provide them with magical materials, crystal mana, and more. Over the last year, as the Empire has fought to drive them out, the Tainted Basilisk have desperately looted every magical resource they could get their hands on.
+
+Much of the population still lives – albeit in exile – thanks to the [[383YE_Spring_Equinox_winds_of_war#Zenith|actions of Imperial heroes]]. Some will be eager to take back their homes, but they will return to a land of shattered spires. Many have begun to establish new lives for themselves in Morrow, in Redoubt, and even in Highguard. Some may have little interest in coming back to see what the orcs have made of their once-beautiful halls. Others may need reassurance that the Druj will not return as quickly as they fled.
+
+Proceris in particular is now a stinking swamp, still poisoned with Druj malice, home to swarms of savage venomous bog octopuses from the Sarangrave. The great farms that once fed spires across Urizen are no more, and rebuilding them would represent a colossal undertaking. 
+
+Rebuilding Zenith will be no small task. The Synod and the Senate alike are exploring how best to restore Imperial rule of Zenith. The Urizen will no doubt  have their own ideas how the scars of Druj occupation might be alleviated. Yet while magic is potent, there are limits to what it can achieve. The marshes of Proceris are not going to go away any time soon. The memory of the Druj occupation will linger  for generations – and the fear that they might return one night when the defenders of Zenith have become complacent.
+
+For now, though, Zenith is secure.
+
+## Game information : Zenith
+The three unprotected Druj armies have suffered significant casualties, and even those armies with a cloak of shadows have not made it through Lustri unscathed. By contrast, the Empire has suffered only around three hundred casualties, primarily suffered during the attack on the night fortress at Proceris.
+
+The other impact of the Highborn mandate is that the Druj have been unable to apply the terrorized quality to the territory. Likewise, none of the regions of Zenith will have the under threat quality – the borders are as secure as those of any other Imperial territory.  Most of the tormented souls and many of the Druj warbands that stayed behind in Zenith have been destroyed. While individuals or small groups may remain, they do so to provide antagonists for future skirmishes or player events – they don't represent any kind of major threat to the people of Zenith.
+
+There are still miasma pillars in Zenith, anchoring the Druj miasma, which will need to be dealt with at some point before the territory is completely secure. However, unlike the influence of the , the Empire knows how to deal with this threat – ceremonies of [[consecration]] or [[Day magic]] rituals can deal with them and the [[The_darkest_road#Pillars_of_Despair|locations of several key pillars]] are already known. 
+
+The region of Proceris is still infused with Night magic that will enhance [[Dripping Echoes of the Fen]] targeting that region ''regardless of who casts it''. While it has offered additional protection to the Druj, that magic will also support Imperial covens who use the Night magic citadel there.
+
+Dealing with the legacy of the Druj, discussing spoils of war, and restoring Zenith as a territory, will all be addressed in more detail in the Winds of Fortune.

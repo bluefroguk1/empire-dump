@@ -1,0 +1,109 @@
+---
+revision_id: 85774
+revision_date: 2022-01-22T21:09:44Z
+categories:
+- Winds of Fortune
+- 382YE Spring
+- Recent History
+aliases:
+- Free_to_live
+---
+
+
+
+Joana grunted as she took the weight of the second beam on her shoulders. Damn but it was heavy. She gritted her teeth and set off towards the others, trying not to groan under the weight. She shot an envious look at her sister, who was walking easily since she was only carrying a single timber, but she accidentally caught her sister's eye and quickly looked away.
+
+"You know... you could just go and talk to her" Miju said. She smiled encouragement at her sister. 
+
+"I don't know what you're talking about" she retorted. She and her sister were thick as thieves, inseparable really, but still she regretted telling her about Beca.
+
+"Of course not... you're just carrying twice as much timber as everyone else to impress... who? Zemress?"
+
+Joana's cheeks flushed and she glanced quickly round. Taking the paragon's name in vain was shocking but it didn't look like anyone had heard.
+
+"Wash your mouth out Miju!" She tried to regain her composure but it wasn't easy when carrying so much damn weight. "I'm just doing what I can so that we can get this barn finished before dark is all."
+
+"Shush - she's coming."
+
+The two women walked on in silence as they passed the group coming the other way for another load. Joana shifted the balance on her shoulder, taking as much as she could in her hands so that the weight caused her muscles to stand out. She kept her eyes locked firmly forwards but at the last minute she dared to flash the briefest glance at the group as they passed her. She caught a brief glimpse of Becca i Cotreyo smiling and laughing with her friends and her mouth ran dry. Were they laughing at her? No it was just her imagination playing tricks on her surely. And then the group were gone.
+
+"For prosperity's sake Joana - just go and talk to her - ''tonight''."
+
+"Maybe.... Maybe when the barn is done."
+
+"That's what you said last week as well. Maybe we should ask if you can build a second barn - you know just by yourself. Then everyone on the Coast will fall in love with you!"
+
+They laughed together, Miju could always make her laugh. It was hard though - laughing while carrying so much weight. Worth it mind - she was sure now that Becca had noticed her this time. Tonight - she'd summon up her courage and talk to her tonight, she promised herself.
+
+
+## Overview
+In the summer of 381YE the Freeborn assembled a great armada of more than fifty vessels from all over the Empire to sail to Zemress islands and carry out a daring rescue of their cousins dwelling there. The year before, Immeldar i Ezmara i Erigo and the Freeborn assembly had recognised the inhabitants of the Isle of Zemress as having the right to see themselves as citizens of the Brass Coast. Now the Zemress Islanders were desperate - [[Shelter_from_the_storm|the Grendel had discovered their island]] and were set on conquering it and enslaving them all. Under the noses of the astonished Grendel navy, [[Desperate_affairs,_desperate_measures|the Empire carried out a daring rescue]], in fact so many captains took up the challenge that they were able to rescue not just the Islanders but bring with them all their possessions and belongings.
+
+Having arrived in the the Empire, the evacuees looked to the Imperial Synod for guidance on where they should settle. By unanimous agreement the Freeborn Assembly backed the statement by Mazo i Zabala i Erigo urging them to settle in Segura. As a territory of rolling grass and dry plains, Segura offers them a luxury in short supply on the Isle of [[Zemress]] - space. a huge influx of citizens will help revitalise the territory which was still struggling to recover from the conquest of the Lasambrian orcs. So two seasons ago they began to settle in [[Segura#Sobral Grasses|Sobral Grasses]] and [[Segura#Yellow Chase|Yellow Chase]], establishing [[farm|farms]] on land that has been left unclaimed for many years.
+
+We were heartened by the rescue of our cousins from the Isle of Zemress and we would welcome them in settling in Segura. We are certain that their resourceful skills and work ethic will contribute greatly to the Prosperity of the province and we will be happy to smooth their full integration back into the Empire.
+
+Had the Empire not done so much to help the Zemress Islanders, it might well have taken them a generation to establish themselves, but the scale of the armada assembled to evacuate the island has meant that they have been able to bring almost everything of value with them - even livestock. Of course the buildings had to be fired so that the Grendel could not claim them, but everything else of value has been brought with them and that has proved invaluable in helping them establish themselves all along the banks of the Scorrero and the Ambergris - the fast flowing tributary that flows down through the Chase until it joins its sister north of Sobral.
+
+Even so the new occupants have had to work tirelessly since landing, raising barns and farmsteads across the land. There is something truly impressive about the way the Zemress Islanders set about the task - if anyone had any concerns about how they were going to fit in they are soon dispelled when people see just how hard these people like to work. If anything, a few folk say, they need to learn to relax a little. The people of the Coast pride themselves on working hard - nobody here has any time for the lazy. But most folk work to live - to give themselves the wealth and prosperity they need to celebrate and live life to the full; "life is short - let it never be dull" is the famous motto of the Coast. The Zemress Islanders seem to have some kind of system where nobody is allowed to relax until someone else says so which causes a few raised eyebrows.
+
+If this were the only distinction, then it would not matter, but it is clear that the many decades that the Islanders have spent apart from the Brass Coast have changed them in more ways than are at first apparent. Not all of them have sworn to the egregore yet and those that have not do not seem to be in any hurry to do so. Those who talk to them about it suspect they are concerned with losing some of their own traditions - customs and beliefs that they feel have been important to their survival on their island and that they are not keen to give up. Add to that the rather difficult issue of their heritage - no-one has any idea which tribe these people are from - and there are clearly some difficult problems to overcome. 
+
+Still, the results of their industry are impressive - despite it being a mere two seasons since they landed, the Zemress Islanders have set to and raised hundreds of farms across the Sobral Grasses. What was once a barren land with only scattered signs of habitation is rapidly becoming a prosperous and busy landscape dotted by farmsteads surrounded by a blanket of dusty fields of yellow grain. Sadly the output of those farms is limited by lack of water and poor soil, but the Islanders have a proposal that might fix that. The situation in the Yellow Chase is more challenging - the land here is simply too arid and rocky for crops to grow at all and it is very hard to do more than keep a flock of sheep or goats alive. However the Islanders are not prepared to simply throw in the towel on the matter and have a proposal here to.
+
+## Opportunities
+### Yellow Grain
+The Zemress Islanders are already beginning to grow valuable crops on their new farms - but it is clear that these lands are not as fertile as those they are used to. Although better than Yellow Chase, the soil in the Sobral Grasses is parched from the long, dry summers so the crops are water-starved. To combat this, the  Islanders have proposed a great work they call the Iron Qanat - a system of reinforced irrigation ditches which they claim will transform the sandy soils of the Grasses into productive farmland that rivals the fertile lands of the Marchers to the north. 
+
+The Iron Qanat is an ambitious design that would provide water to every farm in the region allowing the Islanders farms to produce much more than they can possibly consume themselves. They are very keen to show their support for the Empire that rescued them from Grendel slavery so they would like to ensure this bounty can serve their new homeland best.
+
+The Qanat would not require any upkeep and would take only a season to complete but would need 50 wains of weirwood and 100 crowns. Once complete, it would be able to supply the Freeborn armies ensuring their supply was guaranteed. Unfortunately it would not be as effective as the [[the Marches|Marcher]] food stores - the Zemress Island crops are healthy and once irrigated the land here would be as fertile as any wold but they don't have the kind of mastery of the land that the Marchers possess. But the Qanat would still cause an immediate increase in the Freeborn [[Commission#Maximum_numbers_of_Imperial_Forces|capacity to support military forces]], allowing them to support one more [[Imperial army|army]] or [[Imperial navy|navy]] than they can currently do.
+
+The plan for Qanat is expansive but it also includes fresh irrigation channels for many other farms in the area including two of the most prominent - the Red Plains Farm and the Golden Terraces. As a result both the farm and the orchard would immediately be upgraded by one level. The only drawback might be the vulnerability of the system. The works and the surrounding farms would represent a valuable target to any plundering army and if the region were conquered then the Coast would immediately lose the benefits they provide which could be dangerous.
+
+To compensate for this flaw, the Zemress Islanders suggest an even more ambitious proposition involving an effective fortification at the key site where water is drawn from the river. The Water Tower as their proposal has been nicknamed would take a year to complete and would require 50 wains of weirwood, 50 wains of white granite, and 200 crowns. However it would provide all the benefits of the more Qanat but with an upkeep of 10 thrones per season it would also function as an effective [[fortification]] defending not just the irrigation system and the surrounding farms but the entire [[territory#region|region]] and [[territory]].
+
+### Black Locks
+The Scorrero river is the fastest flowing and most turbulent of all the great rivers that pour into the Bay of Catazar. In theory it is deep enough to be navigable, but in practice only the bravest captains are able to get far along the river due to the many rapids that must either be navigated with great danger or else laboriously navigated.
+
+To resolve this problem, the Zemress Islanders would like to construct a sequence of short canals each set with heavy black locks. The canals would be require a significant effort to construct, but the Islanders are keen to support this project with their own labour, again a reflection of their immense gratitude for the way the Empire sailed to their rescue. As a result the Black Locks would take three seasons to build and require a total of 40 wains of weirwood, 80 wains of white granite, and 240 crowns. However they would require no upkeep, since the maintenance could be funded by tolls from the ship captains using the locks to bypass the dangerous parts of the Scorrero as they navigate up and down stream.
+
+The reason to attempt such an impressive feat would be to connect the extensive network of new farms in the Sobral Grasses with the rest of the territory and the wider Empire - making trade much quicker and more efficient. If constructed, it would allow the Zemress Islanders to focus on expanding their farms safe in the knowledge that they could trade the food they were producing to buy the things they needed from ships captains. It would also make it easier for them to travel safely around the territory - allowing them to mingle and trade with their fellow Freeborn and also to make visits to any congregations that exist in the territory - something that is apparently very important to them.
+
+The civil service estimate that once complete the Black Locks would serve as an impressive [[great work]]. Trade with ships captains based in the territory would mean that every [[fleet]] in the territory would receive a total of 1200 rings split between them. In addition the Zemress Islanders are surprisingly pious people - apparently almost as devout as any [[Highguard|Highborn]] citizen and their tradition includes regular offerings to priests in exchange for sermons they find inspiring or uplifting. As a result every [[congregation ]]in the territory would receive a total of 500 rings, 20 liao and 40 votes in the Synod split between them.
+
+### Green Hills
+The Zemress Islanders have also attempted to settle the Yellow Chase, but thus far they have not had much success. The land here is rocky and uneven with arid dry soil. There have always been a few scattered farmsteads spread along the river bank, but they have never had a good reputation, with most assumed to profit from banditry and theft as anything else. There was some hope that the Zemress Islanders might be able to transform the situation, but it looks like this bleak region may be beyond even their industrious nature.
+
+Or may be not - for here to they have a plan. Having discussed the situation in the Chase with other Imperial citizens they have heard the story of how the eternal [[Llofir]] transformed the blasted territory of [[Reikos]], bringing new life and fertility to the area. Perhaps such a thing could be attempted here? 
+
+The Zemress Islanders have relatively few skilled magicians and none who are experienced at negotiating with [[eternal|eternals]] from the realm of [[Spring magic|Spring]]. Furthermore they are aware that the transformation of Reikos was not completely without cost and while they have been invited to settle here they are still cautious about doing anything that might upset their new neighbours.
+
+Thus, rather than act, they have instead sent a formal request to ask the Freeborn magicians of the [[Imperial Conclave|Conclave]] and the Spring [[Archmage]] to consider if anything might be possible. Perhaps the Conclave or the Archmage might find an eternal of Spring and somehow convince them to take an interest in the Yellow Chase hills. If not Llofir then perhaps one of the other Spring eternals such as [[Yaw'nagrah]] or [[Irra Harah]]?
+
+Obviously if such a thing is unwise, then the Zemress Island people will be forced to make do with what they have. However if the land here were transformed by the touch of a Spring eternal, then there is no reason that the Islanders couldn't transform it with all the same benefits that their activity in Sobral Grasses has wrought.
+
+## Problems
+In general the introduction of the Islanders to Segura has gone well, but it is not completely problem free. There are two issues that stand out, neither of which seems easy to resolve. In theory both problems might just go away with time - so they could just be ignored - but if they could be resolved it would definitely speed the integration of the newcomers.
+
+### Names
+For the Freeborn, the most profound problem presented by the newcomers is their name. Legally most people appear to be treating them as Freeborn citizens, despite the fact that many have not yet sworn to the egregore. But in the minds of some the question remains - "who are they?" Are they Erigo? Guerra? Riqueza? There was some hope initially that historical research might conveniently unearth their tribal heritage... but all attempts to solve the problem that way have failed.
+
+In fact... it's pretty likely that not all of these people were originally from the Coast. Their history is clear - their little island community was founded by Zemress when she was stranded there. But over the many years they dwelled there, there were times when shipwreck survivors would be washed up on the beaches of their island. Those people were welcomed into their community with open arms - regardless of gender or where they were from - and nobody now remembers who their ancient forebears were. Put bluntly there is simply no way now to tell which [[The Founders|Founder]] these people are descended from and no getting around the fact that some of them may not be descended from a Founder at all.
+
+The Zemress Islanders seem utterly unconcerned about the problem. They appear to expect to just ''join'' the Erigo tribe since Zemress was an Erigo. In fairness a common misconception for those who are not familiar with Freeborn traditions. When people explain that you have to marry into the tribe if you are a man - or be born into it if you are a woman - they laugh. At first because they assume that people are having a joke on them but then later because it appears to them to be the craziest idea they have ever heard. Many of them are married already and all of them have already been born - so they don't see how either option is much use to them.
+
+They don't seem particularly worried about the problem - presumably because they simply don't care about one of the most important traditions of the Brass Coast. They seem to consider it someone else's problem to solve. But it is a pressing matter for the egregores particularly - who seem reluctant to swear more of these people to the Coast as things lie unless the Freeborn can somehow solve this intractable problem.
+
+### Labels
+As the Zemress Islanders settle in to their new lives, they make efforts to get to know their neighbours and this soon leads to some frank exchange of views. The Islanders have been separated from the Empire for hundreds of years during which time they have had almost no access of any kind to liao. Despite this - or perhaps because of it - they are devout adherents of Virtue. Actually it would be more truthful to say that they are devout adherents of Prosperity, but they have somewhat reluctantly accepted that the other virtues are also important and the virtues play a central role in their lifestyle.
+
+Because of their religious focus, the Islanders are deeply shocked by the news that the [[Iron Confederacy]] has been invited to enter Imperial lands and slaughter the rebels who were sheltering in [[Feroz]]. The Islanders are apparently passionately devoted to the ideals of abolition and emphatically opposed to slavery. To their simplistic view, the problem is completely black and white. The Iron Confederacy are slavers - therefore they are bad people. The rebels are fighting against them - therefore they are good people. They had understood the Empire to share their belief in the fundamental immortality of slavery and believed that the Brass Coast in particular was devoted to this principle. The Iron Confederacy slaughter has horrified them and led some to openly question if they have made the right choice in coming to the Coast.
+
+They are ''utterly'' unmoved by the explanation that many of the rebels were [[Malign_spiritual_presences#Anarchy|Freedom]] heretic. In fact, it takes some time to explain what the idea of a [[Religious_crime#Heresy|heretic]] even is. In their minds these people were fighting for their freedom, if that is a virtuous action - and they feel very strongly that it is - then the idea that some part of an obscure doctrine they don't know or understand could declare that to be wrong frightens them badly. Their complete disinterest in Imperial [[The Doctrines of the Faith|doctrine]] is only part of the problem. These people have lived for decades without any access to [[liao]] - to them the entire point of the virtues is as a set of guiding principles - not as abstract spiritual forces. They are completely unable to appreciate the moral difference between fighting for freedom with sword and shield and fighting for freedom using powerful auras created by liao.
+
+Their concerns have a practical element. They have fled here to escape the [[Grendel]] who sought to enslave them. If they make some spiritual error and use the wrong [[aura]], will the Empire declare them heretics and allow the Grendel to come and enslave them? People assure them that that won't happen - but they are not particularly reassured. One of the reasons they felt sure they would feel at home in the Brass Coast is because they believed the Freeborn shared their commitment to ending the horrors of slavery - now many are second guessing that judgement.
+
+At present this deep concern has not translated into action - they have continued to build their farms and settle in the Sobral Grasses. But it has been sufficient to prevent any further integration with their neighbours. The slow trickle of people swearing oaths to the Freeborn egregore has completely stopped and some of the Islanders are questioning the decision, asking if perhaps there isn't another nation that might take them in. One whose understanding of the virtues and their role in the life of an honest person more closely reflected their own.
+## Limited Opportunities
+The two special [[commission|commissions]] - the [[#Yellow Chase|Iron Qanat]] and the [[#Black Locks|Black Locks]], remain available until the end of the Summer Solstice. After this it is likely enthusiasm will begin to wane, and the [[opportunity|opportunities]] may be lost. The opportunity remained available at the Autumn Equinox, and is likely to be available during the Winter Solstice, but after that there are no certainties.

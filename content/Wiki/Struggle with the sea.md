@@ -1,0 +1,162 @@
+---
+revision_id: 103669
+revision_date: 2023-07-23T18:45:37Z
+categories:
+- Winds of Fortune
+- 384YE Spring
+- Recent History
+aliases:
+- Struggle_with_the_sea
+---
+
+
+Madame Lupita took off her reading spectacles, closed her eyes, and squeezed the bridge of her nose. Tears dusted her eyelashes, but none fell. Her hand tightened on the letter, crumpling the fine paper. Efra, hovering nervously nearby, moved immediately to put his arm around her shoulders.
+
+"It's bad news then," he said gently. His wife nodded once, silently. She leaned into him, and he put his other arm round her. They stood like that for a numberless minute, before Madame Lupita straightened up.
+
+"It's Manni and Bernart. They made it as far as Bramar, but now they're stuck. They were meant to be meeting one of the Zemress islanders but... they never arrived. Frahn and the children are safe but nobody knows for how much longer. The news is that they're closing the borders. Anyone trying to cross is turned back. Or arrested."
+
+Efra cast about for something positive to say, then decided it was best to hold his tongue and just listen. He could tell that Madame Lupita- normally so strong and collected - was one wrong word away from breaking down completely, and if she went he knew he would follow her.
+
+"I can't bear it," said Madame Lupita. "I cant bear the thought of it. What were they thinking? They should have left months ago! They could have left as soon as Oran fell they..." She choked off.
+
+"You know how Bernart is," said Efra, picking his words carefully. "And you know how Frahn is. There's been no talking to either of them since.... well you know. And Manni caught between them and then there's the books and the shop and ..." He trailed off.
+
+"What are we going to do?" Her voice slipped a little, cracks that allowed the grief and fear welling in her heart to show through.
+
+"What ''can'' we do?" He asked gently. "What can ''any'' of us do?"
+
+"We can go and ''get'' them!"
+
+They both turned, Little Ahra stood in the door of the kitchen. In her hand she had the short blade Efra had given her for her birthday. Part of him marvelled again at how tall she was now. She'd shot up like a weed over Winter. She'd become so serious. And now here she was, with a knife in her hand, and he didn't know what to say.
+
+"I don't know..." he began but she cut him off.
+
+"We can go ''get'' them," she said again with absolute certainty. "Go get Uncle Barnart and Uncle Manni and Auntie Frahn and the cousins. And if any Grendel try to get in our way..." She didn't finish, but her eyes flashed, and she raised her little blade and set her face in the fiercest expression he had ever seen her wear, and for a moment he felt ashamed that it had fallen to his niece to say the things ''he'' should have been saying. Then his heart swelled with Pride and not for the first time he was certain that she would go far in life, his little niece.
+
+"You're right," he said. "Paragons keep us and save us. But you're right."
+
+
+## Overview
+The first part of the peace treaty with the Grendel has concluded. They are now in complete control of both [[Feroz]] and [[Spiral]], but the tenor of that control differs wildly between the two territories. While in the east ''Salt Lord Kaliact'' appears to be more interested in ensuring she maintains undisturbed access to the [[Legacy]], in the west ''Governor Rahab'' seems intent on wringing as much profit from the formerly Freeborn land as he can. It is possible he is in for a nasty surprise.
+## Those Who Can
+During the Winter Solstice, the Brass Coast National Assembly [[383YE_Winter_Solstice_Synod_judgements#Judgement_66|upheld a mandate]] to encourage the Freeborn of Feroz to abandon the [[territory]] to the Grendel. Finna i Fijadoz i Guerra was chosen to enact the mandate, and with a supply of liao and several capable assistants has done just that. The mandate urged those who could to quit the territory while it was still possible.
+
+As a consequence, the steady stream of people leaving western Feoz has become a torrent. Many Freeborn in the western regions of [[Feroz#Afarjasse|Afarjasse ]] and [[Feroz#Morajasse|Morajasse]] have left the territory by land, over the border into [[Madruga]] and [[Segura]]. While the Freeborn are not a charitable people by nature, there are ties of family and tribe that hold them together. Those refugees who have kin in Madruga or Segura are welcomed with open arms, and a place found for the others to pitch their tents. The [[Zemress islander|Zemress islanders]] in particular are making a concerted effort to offer a place at their table to anyone who is prepared to help them till their fields, in whatever capacity. The temples of priests dedicated to [[the Little Mother]] have opened their gates and strive to help those forced to abandon their homes to find new, prosperous lives, helping them to fend for themselves.
+
+Those Freeborn in the Cazar Straits, Fontargenta, and Oranseri are not as fortunate however. The treaty does not guarantee their ability to move, and Governor Rahab has little interest in allowing them to leave the territory. Fortunately, the open coastline of eastern Feroz offers an avenue of escape. Since nobody knows these treacherous waters better than the Freeborn, their [[fleet|fleets]] will be able to slip in under cover of darkness and smuggle their countryfolk out from under the noses of the Grendel. The [[orc|orcs]] will undoubtedly be furious, but by the time they realise what was happening it will be too late to do anything about it.
+
+It is, of course, going to be challenging to get everyone who wants to leave out of Feroz. In particular, the [[fortification]] of [[Feroz#Mora.27s_Rock|Mora's Rock]] in Morajasse is now garrisoned by Grendel soldiers. They are a little stretched, but with the end of the six month period of license for Freeborn citizens to quit Feroz from the western regions, they have sealed the border. The patrols ranging across the Seguran border looking for signs of Imperial raiders are now apparently intercepting and arresting any Freeborn found within half a day's travel of the border who cannot account for their presence. Most of those able to do so have already made the crossing, but not everyone has been so fortunate.
+
+## Evacuating Feroz
+Following the Spring Equinox, Imperial [[fleet|fleets]] and [[military unit|military units]] will be able to take part in a daring operation to smuggle anyone left in Feroz who still wants to leave out of the territory. This will be a risky endeavour, on a significantly larger scale than the [[Shelter_from_the_storm|rescue of the Zemress islanders]] in 381 YE. That ambitious plan involved running a Grendel blockade and open fighting, but it also involved only a single community living on a single island rather than a significant portion of the population of an entire Imperial territory. Some people will be able to escape by land, but the majority of those left behind will need to leave Feroz by sea. There will need to be enough ships to get everyone out - otherwise people who flee to the coast hoping to be rescued will be left behind to be captured and enslaved by the Grendel. 
+
+The more citizens that are able to flee Feroz, the less profit Governor Rahab will be able to wring from the territory in the coming months. It will likely damage any attempts to negotiate with the governor in the future and certainly will weaken him politically and economically. There will be a permanent loss in the taxation revenue Feroz provides to whoever controlled it. However the civil service are confident that while there would be disruption in Segura and Madruga, once this died down the taxation of both territories would be increased by the new businesses, farms, and fleets that would find homes there.
+Governor Rahab is Going to be PissedWhatever else happens, if either of the actions needed to evacuate Feroz is a success, Governor Rahab is going to suffer a financial hit and is going to be seething. This will be no more "friendly" economic opportunities in Feroz. However, as long as the mission remains reasonably stealthy, he won't be able to convince other Grendel that the Empire have violated the treaty. After all, part of Rahab's responsibility is to oversee the conquered territory - and anything he can't deal with is ''his'' problem.
+### Victory or Defeat
+There will be two additional options accessible to characters who own a [[fleet]] or [[military unit]] personal resource during the coming downtime. The actions are evaluated separately, but both contribute to the overall success of the scheme to evacuate Feroz. Each venture relies on stealth - avoiding the Grendel and moving with precision (but [[#Unsubtle Action|see below]]). Each provides a different production to those supporting it, and the [[Quartermaster General of the Imperial Armies|Quartermaster General]] could choose to further supplement these rewards by assigning the guerdon to either or both of these actions. 
+
+This project is an all-or-nothing proposition. At the moment, the Empire has the advantage of surprise. Once that advantage is gone, the Grendel will be much more alert. They will reinforce their borders and take greater pains to ensure Imperial ships do not have unfettered access to the coastline of Feroz. Any future attempt to liberate people from Feroz will require action by [[Imperial army|Imperial armies]].
+
+## Across the Borders
+* For military units, the ''Evacuate Feroz'' option appears in the spy network dropdown menu
+* Military units that support this action will help Imperial citizens escape Feroz by land
+* A standard military unit that supports this action receives 6 crowns in payment from grateful citizens
+Not everyone can make it easily to the coast. There are people in Afarjasse and Morajasse who, for whatever reason, have still not made it out of the territory. Likewise, there are subjects of the Grendel in western Oranserai and Fontargenta who did not have the opportunity to try and leave afforded by the treaty. These people need assistance from Imperial military captains. For some this assistance will mean help crossing the border into Madruga or Segura. For others it will require an actual escort - Imperial military units crossing unseen into Feroz to help these people escape. 
+
+The action allowing a military unit to help "Evacuate Feroz" appears on the ''spy network'' dropdown. A military unit that takes this action will not receive their normal production, but they will at least be paid - even desperate Freeborn will expect to pay for assistance getting out of Feroz. A standard military unit will earn 6 Crowns for their role in evacuating Feroz, with enchanted or upgraded forces receiving commensurately more money.
+The Penumbral WatcherThe ''Evacuate Feroz'' actions appear in the spy network dropdown but there is no actual [[spy network]] involved. As such the [[Penumbral_Watcher#Shadow_Well|Shadow Well]] power of the [[Penumbral Watcher]] - which specifically supports spy networks - can't be used to support them. The power will however work normally on the [[Bones_in_the_ocean#A_Cuckoo.27s_Egg|special spy network]] created in Feroz with the aid of the corsairs of Shantarim.
+Due to the requirement for stealth, only [[enchantment|enchantments]] that make a resource more effective at supporting a [[spy network]] (such as [[Sharp Eyes of the Corsair]]) will help.
+### Overland Success
+The total military strength applied to ''Evacuate Feroz'' will determine how successful the plan is. The result is calculated separately to the plan to evacuate people by sea, and broadly effects the western, inland parts of the territory.
+* Inconclusive (less than 5000 strength): Many families are able to escape, but the majority are left behind. There continue to be a number of Imperial citizens in the western regions, and much larger numbers trapped in the western parts of Oranserai and Fortargenta.
+* Success (5,000 or more strength): Most of the citizens of the western regions are able to reach safety in Segura.  but there are still be some people in south-western Oranserai and in Fortargenta who remain subject to the Grendel. The evacuation will cause some short-term disruption, primarily in Segura, and ultimately increase the costs to the Senate for operating the territory. It will however also see a lot of new people creating new lives there. As a result the taxation revenue paid by Segura will increased by 15 Thrones each season. Governor Rahab's profits will take a significant dip.
+* Major Victory (10,000 or more strength): The evacuation (by land at least) is a complete success. While a handful of families will still be left in westeren Feroz, the majority will have escaped. After the disruption is taken into account, this will increase the taxation provided by Segura by 20 Thrones each season. In addition, among the evacuees will be workers at the [[Feroz#The_Spice_Gardens_of_Feroz|Spice Gardens of Feroz]] and the offices of the [[Vizier of the Incarnadine Satchel|Incarnadine Satchel]], bringing cuttings and expertise that will create an [[opportunity]] related to establishing herb gardens in Segura. Governor Rahab will need to bring in slaves if he wishes to operate the [[farm|farms]] and [[herb garden|herb gardens]] of western Feroz; his profits will be significantly reduced. If the sea evacuation has also been a ''Total Victory'' then he will be ruined financially.
+
+## Over the Sea
+* For fleets, the ''Evacuate Feroz'' option appears in the new ''stealth mission'' dropdown menu
+* Fleets that support this action will help Imperial citizens escape Feroz from the coast
+* A standard fleet that supports this action receives 6 crowns in payment from grateful citizens
+While most of Feroz is technically sweeping grasslands, these plains are only lightly populated. The majority of the population live along the coast, in bustling port towns, or on the islands that are a bastion of [[corsair]] families. There is little chance for most of these people to make it to the border with Madruga; they will need to be evacuated by sea. This is a serious undertaking; there are a ''lot'' of people in Feroz and only so many Imperial ships prepared to make the dangerous journey into Grendel territory. 
+
+The action allowing a fleet to help "Evacuate Feroz" appears on the new ''stealth mission'' dropdown. A fleet that takes this action will not receive their normal production, but as with the military units they will receive payment from grateful Freeborn. A standard fleet will earn 6 Crowns for their role in evacuating Feroz, with enchanted or upgraded forces receiving commensurately more money.
+
+Unfortunately, due to the requirement that ships supporting this action operate with stealth, only [[enchantment|enchantments]] that make a fleet more effective at supporting a [[spy network]] will help. No such ritual currently exists in [[Formulaic_ritual#Imperial_Lore_and_the_Ritual_List|Imperial lore]], which makes this endeavour even more challenging. 
+### Seaborne Success
+A standard fleet with neither enchantment nor upgrades provides 100 strength to the ''Evacuate Feroz'' action. The result is calculated separately to the plan to evacuate people by land, and focuses on helping people escape the coastal parts of the territory.
+* Inconclusive (less than 5000 strength): Many families are able to escape, especially those from the corsair families of the Cazar Straits, but the majority are left behind. There continue to be a number of Imperial citizens along the coast of Feroz, with large numbers trapped in the port towns of Oranserai and Fortargenta.
+* Success (5000 or more strength): There are sufficient fleets operating in Feroz to evacuate most of the population of the Cazar Straits before the Grendel know what is happening. While some families in other parts of the territory are able to escape, many more are left behind. The evacuation will cause some short-term disruption, primarily in Madruga, and ultimately increase the costs to the Senate for operating the territory. It will however also see a lot of new people creating new lives there. As a result the taxation revenue paid by Madruga will increased by 10 Thrones each season. Governor Rahab's profits from Feroz will be reduced, but he will ultimately be able to weather the economic damage.
+* Significant Victory (10000 or more strength): The evacuation of Cazar Straits is a complete success, and the majority of Imperial citizens in Fontargenta will be able to find safety, but while some of the people in the Grendel stronghold of Oranseri will make it to safety, the majority will be left behind due to Grendel vigilance. This will significantly increase the taxation in Madruga, to 17 Thrones per season. The people evacuated from Fortargenta will include several agricultural specialists and vintners, who will offer an [[opportunity]] to establish new vineyards in Madruga. This will have a major impact on Governor Rahab's profits. 
+* Total Victory (15000 or more strength): The evacuation of Feroz will be a total success - at least by sea. There will be only a handful of Imperial citizens left in the eastern parts of the territory. This will significantly increase the taxation of Madruga by 30 Thrones each season once the initial disruption has subsided. In addition to a new opportunity to settle the vintners of Fortargenta, there will be an opportunity for the people of Oranseri to swell the towns along the Madrugan coast. Governor Rahab's profits will be slashed - he will struggle to make any money at all in the short term, and if the land evacuation has also been a ''Major Victory'' then he will be ruined financially.
+
+## Deeper Strategy
+All of the preceding assumes that the entire strategy is based solely on military units and fleets engaging in Feroz. There are several other opportunities that might help to get Imperial citizens out of the Grendel territory.
+### Unsubtle Action
+* The Synod could urge the captains of the Empire to fight where needed, changing the emphasis from stealth to speed and bold action
+* Supporting the evacuation would become an ''independent action'' rather than a stealth action
+* Freed of the need to avoid Grendel vessels, any fleet taking part in the action would receive a +1 rank bonus
+Currently, the plan in Feroz is to undertake a stealthy approach and avoid trouble with the Grendel as much as possible. The Imperial Synod could consider freeing Imperial citizens from the yoke of the Grendel to be a greater concern than the Senate's peace treaty. The treaty has two [[Ratify_treaty_with_the_Grendel_Autumn_383YE|points]] that are relevant here. That "''No raiding will take place from either side against the other''" and that "''any altercation that involves citizens of the Empire or the Grendel in the others territories should be dealt with between the ambassadors in the first instance''." 
+
+"Raiding" in this instance is poorly defined, and there is a strong argument that while it would create a diplomatic incident it would by no means automatically break the treaty. With that in mind the Freeborn assembly could choose to pass the following [[mandate]] if they wished.
+{{Mandate|mandate=The people trapped in Feroz - Freeborn and otherwise - must be freed. It is important that the treaty be respected, but if the choice is between the letter of the law and the safety of our siblings then the virtuous choice is to do what is needed to help our families. We send {named priest} with 50 doses of liao to urge those who would evacuate the people of Feroz to avoid conflict wherever possible - but to not balk should it be necessary to fight for the freedom of our people.|assembly=Brass Coast National Assembly}}
+
+If this mandate were passed, then the two options to "''Evacuate Feroz''" would no longer appear in the spy network/stealth mission dropdowns but would appear in ''paid work''/''take independent action'' dropdowns instead.  These actions would provide the same production, and be evaluated using the same metric as the current actions, but there would be a crucial difference. The fleets and military units that undertake these actions will benefit from enchantments that empower paid work and privateering such as [[Blood and Salt]] and [[Merciless Wrath of the Reaver]]. Furthermore, because there is much less emphasis on stealth and avoiding the Grendel patrols, any fleet taking part of the evacuation receives +1 rank bonus to their effectiveness.
+
+The drawback is that this ''will definitely'' create a diplomatic incident. While these fleets will avoid fighting wherever possible, they will certainly be engaged. The Grendel are certain to demand reparations from the Empire, the amount commensurate to how much strength is contributed to this specific action. But the chances of freeing everyone currently trapped in Feroz will be significantly increased.
+### Diplomatic Incident
+At the moment, any diplomatic repercussions of the evacuation of Feroz will only affect the Empire's relationship with Governor Rahab. With this mandate, there will be direct confrontation between Imperial forces and the Grendel which will lead to consequences for the peace treaty. However, the Grendel are nothing if not practical and self-serving. Their diplomats can tell the difference between privateer raids and an audacious effort to free ones' family members from a conquered territory. While there ''will'' be a diplomatic incident, the Grendel's first instinct will be to demand reparations from the Empire rather than extreme action such as voiding the peace treaty. This will likely take the form of monetary or material payments, or diplomatic concessions, and the Empire's diplomats will have the opportunity to negotiate with their opposite numbers among the southern orcs before they do anything extreme.
+
+### Diplomacy
+* The Commonwealth has offered aid in Feroz if the Ambassador asks for it
+* The Asavean priests at the Temple of Balo and the Black Bull are prepared to help evacuate people from Feroz if the Assembly of the Nine offers certain assurances
+* The current Ambassador to the Commonwealth is Lucia Sanguineo di Tassato
+In the wake of the Winter Solstice, representatives of two foreign nations have cautiously approached the civil service with an offer of aid.
+
+The [[Commonwealth]] maintains an embassy in [[Madruga#Siroc|Siroc]] and has a small garrison there. The leading diplomat attached to the embassy, Mila Eisenfalke, has clandestinely made it known that if the [[Ambassador to the Commonwealth]] gives the word (via [[Call Winged Messenger|Winged Messenger]]) she will be able to call on 1,000 strength worth of [[military unit|military units]] and 500 strength worth of [[fleet|fleets]] to aid the evacuation of Feroz. Should the Brass Coast National Assembly [[#unsutble action|encourage actual confrontation]] with the Grendel, she will be able to add an additional 750 strength to the fleet action (for a total of 1,250 additional strength). 
+
+Mila is not asking for anything specific in return - at least not at the moment. They are simply prepared to offer their aid to a fellow signatory of the Liberty Pact in an act designed to liberate a subject people. However, reading between the lines, the Commonwealth considers this offer of aid to be a ''favour'', one they expect to be able to call in at some future point to secure Imperial assistance on a similar scale, in a similar degree.
+
+More surprisingly, a message is smuggled out of the [[Feroz#The_Temple_of_Balo_and_the_Black_Bull|Temple of Balo and the Black Bull]] in [[Feroz#Oran|Oran]]. It's not entirely clear how the Asavean priests of the temple have gotten wind of the plan to evacuate Feroz - not what exactly they know about it. Most likely one of the Freeborn taking shelter at the temple has made them aware of the general gist. Regardless, they are offering their aid to get Freeborn out of Feroz. They cannot provide much in the way of military might, but their trading vessels are able to travel freely in Feroz. If the priests of Balo and the Black Bull speak, the captains of those ships will listen. 
+
+Unlike the Commonwealth ambassador, however, the priests want something concrete in return. They want an assurance from the [[Assembly of the Nine]] that when (not if) Oran is once again controlled by the Empire the Temple of Balo and the Black Bull will be left unmolested. Furthermore, they expect an assurance that the Plenum will not find out that they have aided the Empire at risk of the good relations between Asavea and the Grendel. If the Assembly of Nine uphold a [[statement of principle]] to that effect with a [[greater majority]], then the effort to get people out of Feroz by fleet will receive a bonus of 2,000 strength and regardless of how successful that is, many families of Freeborn currently in Oran will be able to escape to Madruga. This will certainly damage Rahab's profits in the city, and will most likely shut down [[Everything_has_a_price#A_New_Destination|Imperial access to the port of Oran]] for the foreseeable future. It will however also provide an [[opportunity]] during the Summer Solstice to improve the docks of Siroc.
+
+### Sarcophan Magic
+* The Imperial Conclave can secure a ritual text from a cabal of Sarcophan magicians that helps fleets perform covert action
+* The magicians want the Golden Voyage disseminated to them
+* If the Conclave does this during the current summit, the eternal Sadogua will deliver the ritual text
+While there are magical ways to enhance military units working with a spy network, no such magic currently exists in the Empire for supporting a fleet engaged in clandestine activity - at least not in a codified form. While there is still time to prepare an [[arcane projection]] to allow such magic to be used, such methods are expensive. Shortly before the Autumn Equinox, however, a message is received for the [[Penumbral Watcher]] - currently vacant - from a toad-faced herald of the [[Sadogua|Brother of Wizards]]. Without going into too much detail, the herald explains that if the [[Imperial Conclave]] want it, the Father of Bats can serve as a go-between to secure for them a copy of a ritual text employed in the [[Sarcophan Delves]] that uses [[Night magic]] to support a fleet engaged in covert action.
+
+The magicians who have the text - a coterie called the ''Haaienvermijders'' (literally the ''Shark Dodgers'')  - want payment of course. Specifically they want the Imperial Conclave to use a [[declaration]] of [[dissemination]] to share with them a ritual text of "Andreas i Sol-Devorador i Erigo's [[Golden Voyage]]" as the eternals' servant calls it. If this takes place during the current summit, whether on Friday or Saturday, the Globbersnotch will be able to pass on the text from the Sarcophan magicians. He will deliver it to the Penumbral Watcher - assuming one is appointed by the Conclave - as soon as he can so that it can be used before the summit ends. For his part, the Brother of Wizards merely asks that the Conclave make the ritual part of Lore - Imperial or Urizen - before the end of the year. And maybe thank him when they do so?
+
+The full details of the ritual text are unavailable, but the civil service speculate that it will likely be somewhere around the tenth magnitude based on the vague description provided by the herald and does not draw on the power of an eternal.
+
+### Afar Hills Rescue
+* A group of Zemress islanders who have been helping people evacuate Feroz has been caught behind enemy lines
+* There is a conjunction of the Sentinel Gate that may allow a stealth mission to rescue them
+* Success will grant additional support to the plan to evacuate Feroz
+* The civil service suggests that Ahshen i Fiel i Guerra - the Hand of Guerra - might organise such a mission
+Among those most enthusiastic about getting people out of Feroz have been several groups of [[Zemress islander|Zemress islanders]] - themselves rescued by the Empire from the grasp of the Grendel. For the last six months they have been not only helping evacuees from Morajasse and Afarjasse, but also making secretive forays into western Fontargenta and Oranseri to smuggle families out of the Grendel-held regions of Feroz. While the Grendel may suspect what they have been up to - indeed Governor Rahab has placed a bounty on their heads if they could be caught in Grendel territory - the treaty prevented them doing anything about it while they were in the ceded regions. Unfortunately, that provision of the treaty is now over. 
+
+While most of the islanders were able to get back across the border into Segura before it was closed, two of them were not so lucky. The pair - Mira and Ira i Tracado i Zemress - were expecting to meet a small number of refugees from Bramar, and were unable to make it to safety before the borders closed. News has reached their family in the Brass Coast that they are somewhere in the woods of western Afarjasse, within spitting distance of the border. Unfortunately, patrols from Mora's Rock ''know'' they are there and are actively searching for them.
+
+A conjunction of the Sentinel Gate will take a small group to the Afar Hills on the Seguran border, close to the suspected location of the i Tracado allowing a rescue to be mounted. This will require stealth and cunning - direct armed confrontation with the Grendel is likely to create a diplomatic incident. The civil service suggest that the [[Hand of Guerra]] might take responsibility for overseeing the rescue effort - they are after all responsible for aiding refugees 
+
+Success and Failure: If Mira and Ira are captured by the Grendel, they almost certainly face a one-way trip to the salt mines of the Broken Shore. While the orcs may respect their audacity, Governor Rahab wants to send a clear message to "his" conquered Freeborn that there will be severe consequences for trying to escape Feroz.
+
+Successfully rescuing the pair, however, will provide not only their expertise to the plan to evacuate Feroz, but that of their fellow Zemress islanders. As such it will provide a 1,000 strength bonus to the military unit action (regardless of whether it is stealthy or overt).
+
+
+## Join the Army
+Abandoning Feroz is a bitter blow to Freeborn Pride. To be convinced to give up their homes, people are forced to acknowledge that the Empire do not expect the territory to be recovered any time soon. It is only possible to do that with a clearly worded mandate urging everyone to accept that unpalatable truth. 
+
+At the same summit that the Brass Coast Assembly were urging the Freeborn to abandon Feroz, they also upheld a [[statement of principle]] by Rocio i Fijadoz i Guerra which said that Feroz was not lost and was "waiting." It is not clear how the Assembly intended the statement to be read, but the wording causes confusion among those who hear it because it appears to flatly contradict their understanding of the mandate.
+
+Finna's statement is backed with the power of liao to motivate people and change minds - and so trumps the statement of principle and takes effect. The statement of principle fails to have an impact because the Freeborn Assembly have just successfully persuaded them that Feroz is in fact lost and that they should pack up all their belongings and leave. As such the statement does not open up opportunities for wider benefits.
+
+## Further Reading
+* [[Pebbles drawn from a heap]] - dealing with the Grendel situation in Spiral
+* [[To curb those raging appetites]] - Winter 383YE Wind of Fortune discussing the situation in Feroz
+* [[From the sieve of your hands]] - Winter 383YE Wind of Fortune discussing the situation in Spiral
+* [[Bones in the ocean]] - Winter 383YE Wnd of Fortune dealing with the Isle of the Osseini and the future of the justicars
+* [[Everything has a price]] - Winter 383YE Wind of Fortune detailing wider implications of the Grendel peace treaty especially with regards to trade between the Empire and the orcs.
+* [[Ratify treaty with the Grendel Autumn 383YE#Treaty|The treaty]] - details the provisions of the Autumn 383YE peace treaty

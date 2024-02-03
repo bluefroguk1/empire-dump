@@ -1,0 +1,129 @@
+---
+revision_id: 106395
+revision_date: 2023-12-15T10:58:02Z
+categories:
+- The League
+- Gazetteer
+- Imperial Territory
+---
+
+Build strong city walls and the world must come to you - and it ''will'' come to you, if only to marvel at your walls.
+
+
+## Overview
+[[The League history#Origins of the League|Settled]] at the same time as [[Dawn]], the town remained free of any outside control until well after the founding of the Empire. Proud of its independence, Holberg eventually joined [[the League]] in 136YE under a riot of political strife in the [[Imperial Senate|Senate]]. The lands that surrounded the city were under the control of barbarian orcs until they were driven back in an epic five year war of conquest by Dawnish nobles and forces loyal to them. But Holberg itself was never conquered; the city was protected by a dozen high walls and the Dawnish armies had little taste for a lengthy siege. When the city was convinced to side with the Empire by League diplomats, it also successfully requested the Senate assign the territory to the League. Dawnish senators were incandescent with fury but there was nothing they could do and Holberg became the prosperous fourth city of the League.
+
+In the decades that followed Holberg grew rich and prosperous. The lands around the city possessed a rich agricultural heritage, well known for their fine vineyards. 
+
+## Recent History
+In 346YE, however, barbarians attacked the territory, sacked the vineyards, burnt the hardwood groves so precious to the city's crossbow makers, and laid siege to the walled city. The Senate remained paralysed throughout this time, unable to secure funding and forces to raise the siege and in the end the territory was lost to the orcs and remained under Orc rule for over thirty years.
+
+By early 377YE, the [[fortifications|walls of Holberg]] were in a sorry state. The [[Imperial Senate]] [[Build Holberg defences|passed a motion]] to supply emergency aid to the citizens of the city, following a plan suggested by the master engineer Rhiner Van Hesselman. Money and resources supplied to the city allowed for emergency repairs to be made to the walls, while herbs and medical supplies helped to counter the insidious effects of [[Druj]] poisons. Despite the fact that the city was under siege, heroic action meant that the defences were restored to full strength.
+
+In Summer 378YE, the defenders had been [[378YE_Summer_Solstice_winds_of_war#The_Siege_of_Holmauer|forced back to defensive positions]] within the upper city. The Druj, made overconfident by earlier victories, pressed their advantage in Autumn ... with [[378YE_Autumn_Equinox_winds_of_war#The_Walls_of_Holfried|disastrous consequences for the barbarians]].
+
+Over Winter 378YE, Holberg was liberated by a massive force of Imperial troops. The Druj fortress of Rebeshof was devastated, and the barbarian invaders driven back to the northern forests. At the same time, however, their magicians unleashed a [[Thunderous Tread of the Trees|dreadful curse]] on Holberg, causing malignant spirits to animate aggressive trees throughout the area.
+
+In Spring 383YE, the Imperial Senate decided to encourage the Sand Fisher orcs of Ossium to move to Misericorde. They have since settled in, building several villages along the shore, and begun to explore the marshes of Ennerlund, Rebeshof, and the Morass. Their presence has brought with it [[A_dream_that_can_last|a number of benefits and opportunities]].
+
+The [[Light upon the water#Sodden Ground|torrential magical rains]] of 384YE were not kind to Holberg. [[#Utterlund|Utterlund]] is now a marsh as well as a forest. The rains caused some of the worst flooding seen at the [[Great Pits of Ennerlund]] since [[#Ennerlund|Ennerlund]] first reverted to being part of [[#The Morass|the Morass]], but the Bourse seat weathered the worst of it without permanent damage. Unexpected aid came  in the shape of the Sand Fisher orcs. Once it becomes clear what is happening, they enthusiastically pitched in, working hard under directions from their neighbours to shore up flood defences and dig channels for the water to drain away, helping to ensure that any flooding of the city itself, or any of the smaller estates scattered around the territory, was minimized. 
+
+Is Holberg cursed?[[Empress Giselle]] met her end here and [[Emperor Hugh]] spent much of his reign trying to get support to retake the city. Some claim that when [[Empress Britta]] decided to concentrate her efforts on the western Empire it was as much due to her belief in the curse as it was about any amount of residual nationalism. According to the scandalous [[Sarvos|Sarvosian]] novel ''The Waters of Rebeshof'', the curse was the work of a [[Weirwater]] [[weaver cabal]] seeking vengeance for the humiliation of the Dawnish. No evidence to support these scurrilous claims has ever come to light.
+
+## Major Features
+
+### The City of Holberg
+Holberg itself has never fallen - even the Empire was only able to "conquer" it because the burghers of the city opened the gates to them. Famous for its engineers, builders and architects, the city is immensely fortified and defenders held out against barbarian attack for over thirty years. The only approach to the city that remained viable during the extended siege was through a narrow pass that leads over the mountains and into Dawn. Now Holberg is back in Imperial hands the people look forward to their newly appointed Senator rebuilding the city to its former glory. 
+
+Holberg has always been a vital part of the League. The city is notorious for its inventive brilliance, its ability to think of ingenious solutions to problems. Holberg invented the crossbow, but it is not inventions it is known for, so much as the ability of the inhabitants to use what they have to find solutions never before seen. Many Holberghians see life as a complex puzzle, one for which they are seeking the solution. They do not respect flights of fancy - but these people have found ways to build a city on a mountainside. They are utterly pragmatic but ingenious with it.
+
+There is also an emphasis on learning and study that is found nowhere else in the Empire outside Urizen. Holberg already had its own university when it joined the League, something the other cities soon copied. It does not have great libraries to rival [[Urizen]] or [[Highguard]] - although it has more than its fair share of specialists such as the bookbinders of [[Holberg spoils of war#Ledger Domain|Leger Domain]] - but it is a centre of excellence for tutelage, particularly in practical skills like engineering and surgery. There have been several free companies from Holberg whose reputation as siege engineers was unrivalled throughout the Empire. Holberg gives the League a scholarly excellence that allows it to hold its own with rival nations like Urizen - they may not have been able to retake the lowlands without help from the Empire, but they ensured that the city did not fall to the Druj.
+
+One of the finest engineering guilds in Holberg is [[Holberg spoils of war#Wunderkind|''Wunderkind'']]. With a legacy that reaches back to the time before Holberg was part of the Empire, the engineers of Wunderkind were known for centuries for the creation and design of everything from toys to fountains to siege engines and crossbows - and everything in between. The Grand Clocktower - a unique wonder in the Empire, a mechanical time-keeping device on a massive scale, was built by the founders of the guild.
+
+Holberg is also known for its doctors - many of whom gave their lives fighting on the front lines. The warrior-healer of Holberg is already becoming a popular mythopoetic figure and characters such as the late physick and apothecary [[Holberg spoils of war#Doctor Ventner's Greenhouse|Doctor Ventner]] are appearing in plays and pamphlets as far south as [[Sarvos]].
+
+### The [[Great Pits of Ennerlund]]
+The Great Pits of Ennerlund are a Bourse resource located (unsurprisingly) in [[#Ennerlund|Ennerlund]]. Custodianship of the Pits is an [[Imperial Title]] that brings with it a Seat on the [[Imperial Bourse]]. It produces 27 Imperial wains of mithril every season. Control is allocated to any Imperial citizen by open auction during the Autumn Equinox. The Pits were severely damaged by the Druj during the last months of their occupation, and repaired at great expense to the Empire. The lower levels are in constant danger of flooding due to the spread of marshland into Ennerlund, placing an increased demand on the Imperial treasury.
+
+
+### Holmauer Park
+During the Druj occupation, the suburbs of [[#Holmauer|Holmauer]] were reduced to rubble choked with [[vermin]] - both the four-legged and two-legged kind. In Spring 380YE Katarzyna Von Carstein - a [[Principalities of Jarm|Jarmish]] immigrant now a citizen of [[the League]] - presented a bold proposal to [[Reclaimers|reclaim]] the ruins. The [[Imperial Senate]] agreed with her ambitious plan, although the [[Construct_the_Park_of_Holberg|construction]] took at least twice as long as first estimated. Over time the shattered wasteland was cleared and the [[territory#region|region]] laid out as broad parkland. In contrast to the cramped, bustling, brick-and-stone aesthetic of the city proper, Holmauer became a gentle, restful area of open parks and well-maintained orchards dotted with buildings of white granite and fine marble.
+
+
+This changed catastrophically in Summer 378YE when the park was cursed by agents acting on behalf of [[The_Thrice-cursed_Court#Skathe|the Hag Queen]]. Over the course of less than a week almost every plant, flower and tree suffered under the blight becoming defiled and withered, a corruption of what they were before. Well, [[In_the_garden_of_defiance#Trees_and_Flowers|''almost'' every plant, flower and tree]] - but that is a separate issue. The Wunderkind Woods at the heart of the park are believed to have been the starting point for the blight - a belief reinforced by the fact there is now a strong [[Winter magic|Winter]] [[regio]] located in the centre surrounded by barren land. Only the memorial grove and the [[Keeper_of_the_Imperial_Menagerie#Imperial_Menagerie|Imperial Menagerie]] survived untouched.
+
+Steps were taken to recover from the curse. The waters were cleansed by donations from [[Highguard|Highborn]] [[business|businesses]], and the Pavilion on Looking Glass Lake became a powerful focal point for League defiance - supported by the [[Patron of the Pavilion]]. Most of the park continues to show signs of defilement, however, as detailed in the [[In the garden of defiance]] Wind of Fortune.
+
+Close to the entrance from the city of Holberg is placed a plaque bearing the names of all the citizens who contributed funds to pay for the creation of the park. That, at least, remains untouched by the malignancy spread across the once-beautiful gardens.
+
+OOC Note: [[#Holmauer Park|Holmauer Park]] was originally a [[great work]] that provided additional income to [[business|businesses]], but this income was lost when the park was [[In_the_garden_of_defiance|ravaged by curses]] during the Summer Solstice 383YE.
+
+### Lorenzo's Legacy of Courage
+Spread across the entire territory, even in the wild woodlands of [[#Misericorde|Misericorde]] and the sodden marshes of [[#The Morass|the Morass]] are a sequence of red stone [https://en.wikipedia.org/wiki/Stele stelae]. Adorned with axes and roses, and surmounted with a paid of butcher's cleavers, their bases are engraved with phrases celebrating [[Pride]], [[Loyalty]], and [[Courage]] around the base. The keystone for this [[great work]] stands outside ''Wunderkind'' in the city proper. [[Construct Lorenzo's Legacy of Courage |Commissioned]] in Autumn 381YE with the use of an [[Bearer_of_an_Imperial_Wayleave|Imperial Wayleave]]  by Lorenzo “La Volpe” Macelliao von Temeschwar, these [[Lorenzo's_Legacy#The_Legacy_of_Courage|crimson monoliths]] help to harness the flows of mana through Holberg.
+
+### Bloody Great Sausages
+Following an [[opportunity]] presented in the lead-up to the Spring Equinox 382YE by the ''Right Virtuous Company of Provisioners and Victuallers'', and with the investment of Lorenzo “La Volpe” Macelliao von Temeschwar, the sausage production and distribution networks of Holberg have been greatly enhanced. Holberg sausage is now readily available everywhere the [[Lorenzo's Legacy#Blood Red Roads|Blood Red Roads]] reach, and the Senate has appointed a [[Custodian of the Bloody Great Sausage]] to ensure Holberg victuals remain at a high standard.
+
+## Regions
+### Holfried
+* Quality: City
+This is where the great fortified city of Holberg stands. It is one of the greatest fortifications in the Empire and was the only reason that the defenders managed to withstand the siege of hostile barbarians for a little over thirty years.(OOC Note: The walls of Holberg are a rank 4 [[Fortifications|fortification]]).In Spring 378YE the Imperial Senate arranged the creation of a cemetery at the foot of the southern wall. Marcher soil and apple trees were imported and watered with waters taken from streams in [[Mitwold]], [[Upwold]] and [[Bregasland]].
+
+### Holmauer
+* Quality: Parkland
+The sprawling suburbs of Holmauer are a region unto themselves. Outside the walls of Holberg proper, they were devastated by decades of war, cannibalised by the barbarians and citizens of Holberg alike to shore up their [[fortification|fortifications]]. Makeshift barricades gave way to increasingly sophisticated fortresses, and then to rubble. The walls of Holmauer finally ceased to be a consideration in the Autumn of 378YE - a shattered casualty of the ebb and flow of battle against the Druj.
+
+After the liberation,a few refugees sought to regain their homes in Holmauer, but in most cases literally nothing remained. The priests of [[Holberg spoils of war#The Eastern Front|the ''Eastern Front'']] did what they can to help these homeless unfortunates - and ministered likewise to the few survivors who, like them, stayed behind even as the outer city collapsed around their ears. Rebuilding the suburbs of Holberg represented an immense undertaking, especially in the absence of the walls that once protected them. During the Spring Equinox 380YE, the [[Imperial Senate]] [[commission|commissioned]] a project to [[Construct_the_Park_of_Holberg|restore Holmauer]], turning the region into a [[#Holmauer Park|great park]] as per the [[Reclaimers#The_Park|ambitious plans]] of architect Katarzyna Von Carstein. Following a long delay, work finally began on the park shortly after the Autumn Equinox 380YE, but stalled over Winter. For a long time, the only part of the park open to the public was the [[Keeper of the Imperial Menagerie|Imperial menagerie]], but work was finally completed shortly before the Winter Solstice 381YE.Holmauer is no longer a broken ruin, but rather a beautiful stretch of parkland dotted with clusters of aesthetically pleasing buildings, homes, and businesses. It presents a highly desirable alternative to the cramped conditions in the city proper, and real estate here in Holmauer is very much in demand.
+
+### Misericorde
+* Qualities: Forest, Sand Fishers
+The northernmost region of Holberg, these dark forests were once a haunt of bandits and brigands – the bandit “warlord” Graffler made his base of operations here – and have a poor reputation as a result. After Graffler's death, some of the bandits were forced by necessity to fight for their survival against the Druj - the most committed of whom have since sought [[clemency]] and formed a [[Holberg spoils of war#The Revelry|military company in service of the League]]. Misericorde touches the shores of [[the Semmerlak]], but there has never been much fishing here - the banks of that great lake just across the river are part of [[the Mallum]] (claimed by the [[Druj]], and to the west by the folk of [[Semmerholm]]. Still, it is not impossible that a small port could be constructed here - especially if the Mallum were freed from Druj domination.
+
+Since the retreat of the Druj, there have been stories of [[Reclaimers#The_Twisted_Briars_of_Misericorde|odd activity]] in Misericorde and neighbouring [[#Utterlund|Utterlund]].
+
+In Spring 383YE, the Imperial Senate voted to encourage the Sand Fisher [[orc|orcs]] of [[Ossium]] to move to Misericorde. With the aid of the civil service, they swiftly made the journey and established several new villages along the shores of [[the Semmerlak]]. They are now an uncommon but unremarkable sight across the marshes of Rebeshof, Ennerlund, and the Morass; their fishing boats now ply the waters north-west of Misericorde and they have made some inroads into the forest here.
+
+### Utterlund
+* Quality: Forest, Marsh
+The forests of Utterlund are tamer than those of Misericorde. At one time they served as a hunting preserve and the were the site of several cultivated [[Forest|woodland preserves]] such as the beautiful [[Holberg spoils of war#Sorensdromen|Sorensdromen]] that in addition to being places of natural wonder produced valuable [[Materials#Natural_Materials|raw materials]] for use in several industries. Owned and worked by local people, many forest workers were enslaved by the barbarians during the Druj invasion and suffered greatly at the hands of the [[orc|orcs]]. During the [[Light upon the water#Sodden Ground|terrible magical storms]] of 384YE, Utterlund finally surrendered to the spreading waters of [[#The Morass|the Morass]], meaning the region is now marshy. The powerful [[Spring magic]] [[enchantment]], [[Hallow of the Green World]], performed [[Children in bloom|after the Winter Solstice 384YE]] actually helped the trees of Utterlund weather the change better than might have been expected. Subtle changes mean that the [[forest]] groves here continue to be productive.
+
+### Ennerlund
+* Quality: Marsh
+The [[#Great Pits of Ennerlund|Great Pits]] can be found here. Most of the region as dotted with light woodland, although great swathes of it have been clear-cut by loggers and by labourers associated with the mithril mine - indeed the area directly surrounding the mine works was entirely stripped of trees long ago and is sometimes referred to as the "Ennerlund Wastes". With the Druj are gone, the area slowly recovered - new mines such as [[Holberg spoils of war#Uitgang|Uitgang]] have been opened, for example.Unfortunately, the malice of the eastern orcs saw extensive damage to the dykes and barriers of [[#the Morass|the Morass]], leading to the slow spread of the marsh northwards. Following an [[The_prime_colour_of_the_world#Problems_with_the_Morass|Empire-wide influx]] of [[Spring magic]], the entire region was reclaimed by bogs. The Great Pits were preserve thanks to powerful new pumps that keep them operational, but it also marked the loss of the last bits of good quality farmland in the territory.
+
+### Rebeshof
+* Quality: Marsh
+A wide plain, once dominated by an unsightly fortification built over the several decades by the orc invaders with looted stone. Human slaves were used to work the remaining farms here, providing food to their conquerors. In Winter 378YE the fortress was destroyed by Imperial armies during the liberation of Holberg.
+
+Rebeshof was originally marshland. It was drained at great expense by the people of Holberg between 18YE 20YE. During their occupation, the Druj destroyed many of the dikes and dams that held back [[#the Morass|the Morass]], and in the time since the farmland here has slowly been reclaimed by the waters of the southern marshes. The situation was exacerbated by the sheer amount of Spring magic laid over the territory during the war with the Druj. Following the Spring Equinox 380YE, in combination with the effects of [[The prime colour of the world|Empire-wide Spring magic]], the marshes finally reclaimed Rebeshof.
+
+### The Morass
+* Quality: Marsh
+In the past, the Morass has been partially drained. Since the territory of Holberg fell the waters have risen and the swampy land expanded, turning most of the region back into boggy marsh and drowning a great many [[farm|farms]] that once exploited the naturally fertile soil of the reclaimed land, such as the old pear orchards of [[Holberg_spoils_of_war#Kröger Steading|Kröger Steading]]. There have been several reports of [[marshwalkers]] in the last decade although whether these were natural creatures or part of the Druj forces is unclear -but  the Druj took every opportunity to exploit their presence during the occupation.In an act of spite, the Druj also destroyed the old dykes and river-barriers that kept the Morass in check; by the Spring of 382YE, it had spread to encompass the entirety of [[#Rebeshof|Rebeshof]] and [[#Ennerlund|Ennerlund]], devastating the former farmlands that had been reclaimed over decades of hard work  by the people of Holberg.
+
+
+
+## OOC Notes
+* As of the beginning of Spring 379YE the Empire controls all regions of Holberg except Misericorde which has been ceded to the Sand Fishers. Holberg remains an Imperial territory however.
+* All [[farm|farms]] in Holberg suffer a penalty of 36 rings production each season due to the lack of good quality farmland in the wake of the [[The_prime_colour_of_the_world#Problems_with_the_Morass|expansion of the Morass]]. With the establishment of the Sand Fishers, however, every farm in Holberg also receives an additional bounty of 2 random herbs each season from [[A_dream_that_can_last#Green_Shoots|trade with the orcs]].
+* Holfried is a level four [[fortifications|fortification]].
+* The [[Lorenzo's_Legacy#Blood_Red_Roads|Blood Red Roads]]  provide a total of 337 rings shared between all League owners of a [[business]] in Holberg.
+* [[Great_work#Multiple_Great_Works|Between them]] the [[Lorenzo's_Legacy#Blood_Red_Roads|Blood Red Roads]] and the [[Custodian_of_the_Bloody_Great_Sausage|Bloody Great Sausage]] provide a total of 661 rings shared between all League owners of a [[farm]] in Holberg.
+* [[Lorenzo's_Legacy#The_Legacy_of_Courage|Lorenzo's Legacy of Courage]] is a [[great work]] that provides 37 crystal mana each season, spread amongst those citizens of Holberg who own [[mana site|mana sites]].
+* [[#Holmauer Park|Holmauer Park]] was a great work that provided additional income to businesses in Holberg, but it was effectively [[In_the_garden_of_defiance|destroyed]] during the Summer Solstice 383YE
+* The level one fortification at Holmauer was destroyed in Autumn 378YE, along with the last remaining coherent structures in Holmauer.
+* The level one fortification at Rebeshof was destroyed in Winter 378YE.
+* Attempting to build a permanent [[fortification]] in one of the regions with the marsh quality is likely to encounter additional difficulties.
+* A list of the [[spoils of war]], that were allocated by the [[Imperial Military Council|Military Council]] at the Summer Solstice 379YE, can be found [[Holberg spoils of war|here]].
+
+The Frieze of Flowers
+Constructed during the [[Iron and wine|legendary celebrations]] following the coronation of [[Empress Lisabetta]], the Frieze of Flowers is a breathtaking work of art that covers an entire wall of the Casequo Gallery in the heart of [[#Holfried|Holfried]]. Painstakingly crafted from the finest materials, inlaid with dragonbone, orichalcum, and tempest jade, it is a true wonder that combines modern artistic techniques with traditional sensibilities. It is a delight of autumnal colours, invoking [[Prosperity]] and [[Ambition]].
+
+The central part of the frieze depicts the Empress, triumphant, with a backdrop showing the rebuilt walls of Holberg, and surrounded by symbols associated with her early life (the image of the Seven Mirrors for example), and coronation (fields of white and gold flowers). She rests one hand on the mane of a mighty lion, its head bowed but its strength undiminished by its expression of respect.
+
+There are many other subtle touches however, relating to the past and future not only of Holberg, but of the League and the Empire itself. In one part, depicting the armies of the League taking back Holberg, is a image of the late General Giovanni Saverio di Sarvos. By contrast, around the borders of the frieze are images of the present and the future - the four Senators of the League in the corners, and the Cardinals of Prosperity, Ambition, and Vigilance; the Imperial Inquisitor; the Ambassadors to Asavea and Faraden; the Imperial Consul; and the Grandmaster of the Golden Pyramid along the top and bottom edges.
+
+The frieze was created by an affiliation of Holberg artists and citizens, partially commissioned by Aureliana Saverio di Sarvos and Othello von Holberg, and created with permission from Benedict Parelli of the Empress's household and the consent of the Senator of Holberg.
+
+

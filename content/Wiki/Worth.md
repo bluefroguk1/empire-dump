@@ -1,0 +1,27 @@
+---
+revision_id: 73506
+revision_date: 2019-06-07T19:04:53Z
+categories:
+- Imperial Orcs
+---
+
+
+Worth is a quality possessed by many objects that is based on the history of an item; who made it, what happened to it and how it came to be in the Orc’s possession. It is based on a belief that a person’s unique personal effects are imbued with qualities related to that person during important moments. One of the reasons worth is important is because the inherent [[Imperial_Orcs_hearth_magic#Worth|hearth magic]] means that the items affect the owner as much as the owner affects the item. The worth of an item becomes stronger the more people who value and use it, and so the objects with the greatest worth are usually heirlooms that are passed down from generation to generation. 
+
+Few Imperial Orcs would sell an item that had worth for money. Selling an item often damages its worth, so it is more common for them to be won in battle or passed from one generation to another rather than bought and sold. Items of worth are given to children once they are old enough to recount its history accurately, or they may be given as gifts to spouses and trusted allies and friends who had done great service or favour. Worth is gained when an item is won in battle, so the story of some heirlooms begins this way.
+
+Because items lose worth if they are bought, some orcs prefer to perform a bold or dangerous service for an artisan in exchange for a powerful magical item, rather than purchase it with money. In this way the item begins with some history and worth, reflecting the deed that won the item as well as the skill and reputation of the one who made it. Only the original acquisition of an item is affected in this way, since the worth is based on how the item came to be in your possession. Magical items with worth are commonly taken back to the original artisan to have the enchantment reworked once it fails, a practice that is seen as adding a small amount to the worth of the item, rather than detracting from it, even if the artisan is then paid for his time. 
+
+When in good spirits, Imperial Orcs will occasionally tell the history of one or more items they possess, recounting its worth to those present. There is a great art to this recounting of worth, so most orcs who do not have the skill of it will keep their story brief and say only a few lines. If the tale sounds worthy then those present may press them for more details. A few orcs are especially skilful at recounting tales, and if they know the worth of an item they may step in and recount the full history. These individuals are sometimes given worthy items to keep by other orcs, as their skill ensures the worth of an item is remembered.
+
+It is commonly believed that leaving behind a large number of items of worth is a critical step in becoming an ancestor. Taking an item in battle adds to its worth, but it is not enough to simply acquire them. To be effective the items must derive worth from your actions and the deeds you put them to. There is another common belief that carrying items of worth helps to strengthen the connection between an orc and their ancestors - in particular any ancestors whose history the items are connected with. This is particularly relevant to orc [[Imperial Orcs magical traditions#Ancestors and Rituals|ritual magicians]] who use items of worth from older ritualists who have died to help preserve a link to their spirits that is important to the practice of ritual magic.
+
+Every Spring Equinox, Imperial Orcs arcoss the Empire celebrate the [[Night of Worth]] - a festival dedicated to telling the stories connected to their most valued objects.
+
+## Imperial Relics
+The first legions were given old weapons and spare armour to train with when they joined the Empire. These are regarded as valuable heirlooms and items of exceptional worth. While the Empire considered them to be of little value, the Orcs considered them to be items they had won through their determined refusal to remain slaves, thus giving them much greater value than was represented by their physical form. Better still, those items which showed signs of use brought with them the additional worth of weapons and armour used by previous generations of Imperial citizens, strengthening the connection the Orcs felt to their new Empire. The worth of these items only increased over time - a discarded sword given to an orc became the sword that orc wielded in battle as she carved out an identity for the Imperial Orc nation, and was passed down to heirs of succeeding generations.
+
+Many of these items are still maintained and passed from one orc to another. Weapons and armour too old to stand further repair are often hung on tent walls as ornamentation or passed to young orcs to train with in the hope that they will gain some of the courage and strength that the equipment has experienced.
+
+Most of these old items are ripped and torn or pitted with rust, their appearance hopelessly affected by the rigours of age and hard use. Orcs regard these signs of age as a necessary improvement for a thing to gain worth and care little for the aesthetics. To an Imperial Orc, the idea that the appearance of an item is more important than the history and noted deeds of the item is seen as incomprehensibly vain and superficial. As a result their appearance is usually a motley collection of clothing and items that have been worn and used for decades. 
+

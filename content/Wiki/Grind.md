@@ -1,0 +1,71 @@
+---
+revision_id: 101314
+revision_date: 2023-05-31T20:53:54Z
+categories:
+- Recent History
+- 385YE Spring
+- Military Council
+---
+
+  
+
+
+## Nothing Changes
+Not long after the Winter Solstice, forty thousand Jotun warriors crash into Bradon's Jasse from Liathaven. They strike south out of Liaven's Glen, five armies of Jotun orcs with the southern king's own Fist of Ulven leading the way. It is as if the forest moves, a throng of crimson banners. These are not the Lasambrian Jotun, although the Hierro march with them. A great horde of Jotun orcs, an implacable hammer wielded by an iron fist with one aim in mind; to smash Fort Braydon.
+
+With the armies come several thousand Summer knights from the Fields of Glory. Terrible and beautiful in their own way, the faerie wield axes of runed gold, and unbreakable shields, and raise burning standards of fire where they fight. They greet each dawn, and each dusk, with roaring horns that bring with them for a moment the echo of the Summer realm. Scattered reports say [[A_wandering_fire#Recover_the_Spear_of_Bounty_from_Allok_Surefoot|Allok Surefoot]], the godhi who now serves as the champion of [[Hayaak|the Hawk Lord]] fights alongside them with the irresistible Spear of Bounty.
+Corsairs! What cowardice our enemy shows! They talk of standing fast, but flee before our courage and might! Let us take this opportunity to inspire each other, to rebuild our supplies and prepare for our next great task. It is wise to hone our strength. Bigger challenges await.
+
+When the younger sibling falters, the elder sibling steps into their place. The warriors of the hills are hewn from stone, but we are forged of adamant. To war once more! To war!
+
+Now is our time to protect the gains we have made and defend Kahraman. But we must remain Vigilant to attack and Give ground when necessary.
+
+The forests of the east fell before us as the great oak Eygasar fell before Ulven. The fortress of Braydon will fare no better. And if the cruel spears of the Navarr are raised before us, we shall cut them to bloodied stumps and let the fire take them all!
+
+When last we drove the Lasambrians from Kahraman they wrote on the walls of Damata that they would return. Let them come, we will give ground and lead them onto our spears.
+
+At the Queen's command, at the word of the Jarl of Jarls, we fight in the south! In memory of Skallahn we fight! For the honour of Kalsea we fight! Shatter the glass shields of the Freeborn, grind the hills of Braydon to dust, and burn across the Jade grasslands until Kahraman is Narkyst once more!
+The furious warriors of the Fist of Ulven are in the vanguard, but it is the warbands of the Jotun champions who are at the forefront of each engagement. The Empire has seen many of them before. Here, the banners of the rich Jarl of Alftanes, and the cunning Jarl of Keirheim are here – north and south united in the drive to make Kahraman their own. Here is the raven-skull banner of Helma Skutasdottir, whose battle-might is matched only by her wisdom. It is said that Raðljóst himself whispers in her ear and guides her warband to victory.
+
+Here, too, are the many banners of the Ice Fishers of Ldansk, last seen during the [[382YE_Summer_Solstice_winds_of_war#A_Light_in_the_Darkness_.28Sermersuaq.29|conquest of Sermersuaq]], marking the bound fellowship of minor clans and lesser Jarls always seeking to engage the mightiest Imperial champions in lethal combat. They are not the only champions who have come south. The Howling Bear standard of Yanya Uranduln is raised alongside the walrus banner of Eisa Winterborn's yegarra, the two warbands swollen by eager young warriors after their victories in the north.
+
+There are stranger allies as well. Stephen of Sarcombe, has returned to Kahraman with the treacherous scions of the Mournwold. With pikes and halberds, they are at the forefront of the battle to take Braydon's Jasse, and do not stray too far from the borders of the Mourn. His lieutenants press west when the rest of the Jotun look to the south, seeking a way through the mountains. He is unsuccessful; there is an irony that his own scheme to break the defence of Kahraman means that the Jotun armies cannot easily assault Serra Briante and reach the rich bounty of mithril there.
+
+Perhaps they will find a way in time; the last of the champions fighting with the Jotun are those who bear the mountain-banner of the Kahraman peaks. Once they were little more than bandits, but the Jotun persuaded them to come down from the peaks and take the Choice. Even as the armies march into Braydon's Jasse, they use their knowledge of the high places to raid the mines at Briante and harry the caravans out of Serra Damata. They may have embraced the ways of the Jotun, but under command of their champion Geht Ahan they seem to have more in common with the Corazón than the children of the faðir.
+
+There is nothing new in all this, not really. The champions of the Jotun and their warbands fight alongside the armies, just as the champions of the Empire bring their warbands to fight alongside the Imperial armies. What is different, what is new, is that it seems ''all'' the great Jotun champions are here. Their warriors number in the thousands, and they are much more mobile and adaptable than the armies they fight behind. Their motives are a little different as well; where the armies come to conquer the champions seek to uphold their honour, display their heroism, seek the glory that will carry them across the Howling Abyss. They are unpredictable, independent, and dangerous. 
+==A Hedge of Spears==  
+The Empire is not taken unawares. The orcs wrote their promise on the walls of Damata and everyone knows the Jotun keep their promises. Three Imperial armies are still in Kahraman when the Jotun arrive. 
+
+The Red Wind Corsairs marshal their strength, ready to face the next attack from the west, adapting quickly when the assault comes from an unexpected direction. 
+
+Still thirsty for the blood of the western orcs, the Black Thorns and the Quiet Step move quickly to support Fort Braydon. They know they will receive no quarters from the Jotun, who despise them more than any Imperial nation. They have no mercy of their own to offer, not for the western orcs. 
+
+Rather than face the Jotun where they are outnumbered, Imperial forces strike and withdraw. They avoid any attempt to bring them into a toe-to-toe confrontation that will only give the advantage to the invading orcs. They give ground whenever they are pressed, drawing the orcs south. 
+
+The Empire has seen this strategy before, fighting the Jotun. The rage and the fury comes like a storm, and sometimes the best thing to do is allow it to blow itself out. To bring the tempest where you want it to be.
+
+This strategy is sound, but leaves the beleaguered, exhausted defenders of Fort Braydon overwhelmed. There is a brief siege, but the fort cannot hold. Stories say it is Gudmunder Arasonn, the King of Narkyst himself, who breaks the siege, shattering the weirwood gate with the might of the [[Cathan Canae|Mistress of Blizzards]]. The Ulvenwar pour through the opening, the Iron Host and the Skjaldrborn close on their heels, and it is all over. Some of the Freeborn garrison is able to retreat alongside the Red Wind Corsairs, but the rest are trapped inside the walls. Those who do not surrender meet their deaths in battle with the fur-mantled orc warriors of the southern king.
+## Nestor's Bounty Once More
+After the fortress falls, the Jotun press southward, quickly conquering the whole of the Jasse. Barely pausing for breath, they strike down out of the hills onto the plains of Jade Range. 
+
+The Jotun pour down onto the Jade Range. It is [[Down_that_road#At_Nestor.27s_Bounty|barely six months]] since Imperial soldiers and Lasambrian warriors fought over [[Kahraman#Jade_Range|Nestor's Bounty]]. The people have barely finished rebuilding from the last time, when war comes to them again.
+
+War changes, though, sometimes. Last time, the conquerors came from the west, this time from the north, Last time it was the Lasambrian Jotun who came to Nestor's Bounty; this time it is the Jotun of Narkyst that lead the way. Last time, they faced the soft Choice of the Lasambrians. This time, those Freeborn who fight, die. Those who do not fight, face the same Choice offered in Sermersuaq, between harsh oaths of servitude and the merciless bite of the axe.
+
+The Red Wind Corsairs help as many of the residents escape as they can before they fall back, while the Black Thorns and the Quiet Step delay the Jotun. Battle is sporadic; the Navarr try to lead the Jotun astray, confuse them, lure them into ambushes and then retreat. As the Empire gives ground, the orcs close an iron fist around the town. The battle is over almost before it begins. 
+## Pause for Breath
+With Nestor's Bounty under their control, the Jotun pause. The Hierro and the Southern Bear spread east and west, quickly overcoming the remaining defences. The families of the Jade Plains flee, or fight. Few accept the Choice, unless there is no other way. These are a proud people, and many of them hold their liberty and their dignity as their most valuable possession.  
+
+As they so often do, the ghodi raise burial mounds over the fallen. Freeborn warriors are treated with the same respect as the orcs who fell fighting them. Navarr bodies are consigned contemptuously to mass graves, without a marker. Sometimes their bodies are piled unceremoniously on pyres and burned. Do the Jotun know the insult they do their fallen enemies? They Jotun do not conceal how much they despise the heirs of Terunael.
+
+The respite lasts ten days and then the Jotun begin to push south again. Their advance is more cautious. The Fist of Ulven reinforce Nestor's Bounty and Fort Braydon, while the Skjaldrborn and the Hierro take the lead now. They balance the urge to conquer with the need to ensure they can hold what they take. Armed camps are established at key locations, and they stop enthusiastically following the Navarr into traps. 
+
+As the new year dawns, as the Spring Equinox approaches, the Jotun stand a little short of complete control of Jade Range.
+
+## Game Information
+Braydon's Jasse, and Fort Braydon, are both in the hands of the Jotun. They have also made major gains in Jade Range – eight-tenths of the region is under orc control.
+
+Fortunately, the destruction caused by Stephen means the Jotun can't attack both Braydon's Jasse and Serra Briante in the same season. With Braydon's Jasse under their control, they are now free to try and take the mithril mine at Serra Briante if they wish, but even if they bring overwhelming force they won't be able to attack Serra Damata in the same season with the same force.
+## Battle Opportunity
+A [[Sentinel_Gate#Major_Conjunctions|major conjunction]] of the [[Sentinel Gate]] has been identified that will allow heroes of the Empire to reach Kahraman during the upcoming Spring Equinox. Details of the conjunction are being prepared by the civil service, but it is believed to involve the gathering of Jotun champions in some way.

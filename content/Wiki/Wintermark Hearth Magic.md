@@ -1,0 +1,101 @@
+---
+revision_id: 98924
+revision_date: 2023-04-09T21:12:01Z
+categories:
+- Hearth Magic
+aliases:
+- Wintermark_hearth_magic
+---
+
+
+## Overview
+In the world of Empire, formal magic is the application of learning and willpower to create supernatural effects. There is another form of magic, however which does not require the user to be a magician. Hearth magic employs the innate natural magic of the world to produce subtle but significant effects in much the same way that a compass needle always points true north. The magic is not based on the abilities of a magician, but relies on the innate mystical properties of the world. Hearth magic is usually subtle rather than potent, and where formal magic is predictable and reliable, hearth magic is none of these things.
+
+While the principles that underlie hearth magic are common throughout the world, in Wintermark there are certain specific practices, customs, or traditions that draw on the power of the world's innate magic. Often these proud customs are nothing more than traditions - but sometimes their practice taps into some facet of the world resulting in a truly magical effect.
+
+You can learn more about hearth magic, what it is and how it works, [[hearth magic|here]].
+## Runes
+The Winterfolk discovered the use of [[runes]], and shared that knowledge with the Empire when they joined. The runes represent a potent [[magical tradition]], but their use is by no means restricted to magicians. Beyond their immediate use in magic, they are also powerful symbols in their own right and are employed by people across Wintermark for countless purposes. 
+
+A baker might bake the [[Pallas|rune of wealth]] into the crust of a loaf of bread, while a farmer might scratch the [[Bravash|rune of fertility]] onto the handle of their plow. A tailor will think nothing of working the runes of wisdom and revelation into the hem of a garment he is sewing, while a woodcutter may quickly carve the rune of weakness into the trunk of a tree before taking her rune-marked axe to it. As a consequence, the baker's loaf might last a little longer before becoming stale, the farmer's field more fruitful, the thane wearing the tailor's tunic might find unlooked for moments of inspiration, and the woodcutter may find that it takes a little less effort to fell her tree.
+
+One reasonably well-known method of harnessing the hearth magic represented by the runes is the creation of [[Technology#Runeboxes_and_Runebound_Chains|runeboxes]]. These weirwood or mithril alloy boxes are marked with the [[Verys|Rune of Might]] and the [[Diras|Rune of Secrecy]] to produce containers that are practically indestructible.
+
+Runes in Play
+While the use of runes in mundane crafting won't have any mechanical game effect, you can roleplay that a loaf of bread with a rune on it stays fresh for longer; that a rune-carved axe is particularly sturdy or never needs sharpening or cleaning, or that a tunic embroidered with runes means that you experience occasional flashes of inspiration or increased confidence. The effects of runes are subtle, but very real in the world, and you can choose how that affects your roleplaying.
+
+Runes can also directly influence your roleplaying when you interact with them. Having a personal [[Irremais|rune of wisdom]], perhaps on an amulet, that you study for a few moments before making decisions can provide a cool character moment as well as buying you time to think things through.
+
+Fortune telling with runestones is a simple activity that any [[mystic]] or similar character can use to add mysticism to a scene. It can also be used as a way to give someone advice that is backed up in-character with the power of hearth magic. Combining a little cold-reading with suitably mysterious pronouncements is a tried-and-true method of providing often eerily prescient-appearing in-character divinations.
+
+## Animals and Birds
+The Winterfolk seek to draw on the laudable spiritual qualities that some animals symbolise. The three Wintermark traditions each have different ways of invoking this hearth magic. The Kallavesi create cunning animal masks that they wear when they want to draw on the animal's positive qualities. A magician might wear a bird mask to draw on the animals' wisdom, while a warrior might wear a bear or boar mask to draw on the creature's courage. The Suaq paint images of the animals on their clothing and equipment, or decorate their homes with icons and images of particularly favoured beasts. The Steinr work the images of animals into jewellery, and give people nicknames that draw on the symbolism of the animals they respect.
+
+Birds are especially well-regarded in Wintermark; the Kallavesi in particular regard them as astute and powerful creatures. In addition to their spiritual qualities, every part of a bird contains magic. Their feathers help provide inspiration while their bones bring good health. Winterfolk often carry the hollow bones of a bird in a pouch. These are stroked with crossed fingers for luck at times of stress or when a wish is made.
+Animals and birds in Play
+The virtuous associations of birds are described [[Wintermark_culture_and_customs#Birds_and_feathers|here]], while some of the qualities symbolised by animals are listed as part of [[Totem_magic#Spirit_Animals|spirit magic]]. Adding feathers, bones, or painted animals to your costume is the common way to evoke this hearth magic, and working them into ritual magic even if you are not a practitioner of totem magic can make any ritual feel more Wintermark. 
+
+This hearth magic explicitly gives you an in-character reason to change how you play your character. When you want to roleplay in a certain way, studying or touching an animal symbol, or donning the mask of an animal,  can be used as a prompt to adopt the quality it represents. Masks in particular can create a profound change in your characterisation if you wish - effectively allowing you to play a pleasant or mild-mannered character most of the time except when you don your boar mask and become a confident and resolute warrior.
+
+When you're describing someone, comparing them to an animal or bird can make your description more evocative.
+
+## Coins
+In pre-Imperial times, the silver and gold coins minted by the kings and queens of Wintermark were stamped with the rune [[Gralm|Rune of Destiny]] on one side and the [[Ull|Rune of Chance]] on the other, in recognition of their role as bearers of good fortune. Even if it is only a matter of a few rings, one or more coins given as a gift can bring fortune to the recipient. There is no particular hearth magic around paying someone what they are owed, only a coin that is unexpected or unlooked for brings good luck. One way some Winterfolk achieve this is by slipping in an extra coin when paying someone as a show of support for a job well done. This promotes a custom in Wintermark where some folk avoid counting coins paid to them by someone they trust in the hope of gaining good fortune.... Of course, if someone ''does'' count coins you have given them it implies they don't trust you and think it more likely you will have short-changed them than hidden a gift of good fortune in your payment.
+
+The people of the Mark use coins to [[Wintermark_political_leadership#Leading_a_territory|choose their leaders]]. Anyone may vote with a single ring, but those who want to show particular support use a coin of higher denomination. The more valuable the coin, the more good fortune it brings to the candidate. After the election, the coins themselves are given to the [[Wintermark_religious_beliefs#Stormcrow|stormcrows]] to be distributed to the poorest. The good fortune accrued stays with the chosen candidate, however, even if they don't become Senator.
+
+When folk in Wintermark wish a person ill, they may give them or pay them in curse coins, which bring bad luck to the recipient. The more numerous or valuable the cursed coins, the worse the luck. Curse coins are normal coins that have been blackened with soot, so they are readily visible to anyone who is paying attention, but one is easily overlooked in a pouch. Once the coin has been accepted, the curse cannot be removed by cleaning the soot off - the coin must be given to another to move the curse to them or else washed clean in the blood of an enemy, otherwise the curse remains. Wintermark folklore contains many stories of Suaq Icewalkers tricking people into accepting cursed coins or planting them on an enemy unawares.
+
+Coins in Play
+Not counting coins you are handed is a great way to demonstrate your trust for the person giving them to you, while pointedly counting them all out and double-checking your sums is a way for any Wintermark character to pointedly insult someone. Slipping someone a few extra coins without drawing attention to it may not have an immediate payoff, but can result in a moment of drama when the recipient realises what you've done.
+
+Curse coins are a straightforward way to let someone know you're unhappy with them. A recipient might be tricked into accepting a curse coin in a pouch given in payment, but they work best when given openly.
+
+A true Wintermark hero might choose to accept a curse coin, knowing they have wronged the giver and hoping thereby to find some way to mend their skein. Whether you trick another into taking the coin from you, or attempt to wash the coin in blood, lifting the curse can be a great part of any hero's story. Leaning in to the roleplaying around curse coins is a great way to create drama for yourself and others, even if that just means roleplaying that any misfortune that falls on your head is a result of the cursed coin.
+
+## Names
+Naming something can imbue that person or object with power - provided it is done judiciously and truthfully. Parents often pick a name for a child that they hope will guide their path in life, naming them for a hero they particularly identify with. More important than a personal name, though, is the heroic name granted by the [[Wintermark_culture_and_customs#Scops|scops]]. This is a name that commemorates a great deed or expresses the recipients [[heroism|heroic]] nature, and it is always delivered in front of an audience of as many Winterfolk as possible so that they may witness the naming and grant it even more significance.
+
+It is not just people who receive names - giving an identity to an object or place can also help to shape it. Steinr runesmiths in particular often name the items they craft in the understanding that doing so may imbue the item with a special power. Imperial techniques for creating [[Magic_items#Artefacts|artefacts]] are still based on the methods claimed by the Steinr, such that it is impossible to create an artefact without naming the item fashioned as part of the process. Likewise, it is impossible to [[hallow]] an item without naming it in some way. Traditionally the Steinr will give an item an evocative personal name such as "Foe-Smasher" or "Shieldbreaker" while the Suaq and Kallavesi usually avour more descriptive titles like "The Cup of Dreams" or "The Crown of Three Tears".
+
+Another powerful example of the importance of names lies with [[eternal|eternals]] - most of whom have more than one name. [[Eleonaris]] is known as the Sovereign in Scarlet and Gold, but also as the Lion of Summer and the Lady of Pennants and many other names. [[Wintermark_magical_traditions#Icewalkers|Icewalkers]] and others who deal with such beings are advised to proceed with caution. That the Lion of Summer is the same being as the Lady of Pennants is a fact that is long established and well understood - but the name an eternal chooses to use at any given moment may be important and significant - and it is imprudent to fail to acknowledge that fact.
+
+Some [[Wintermark_magical_traditions#Mystics|mystics]] claim that just as a citizen of [[the League]] may take on another identity by [[The_League_hearth_magic#Masks|donning a mask]], so an eternal may take on another identity by donning a name. Those same magicians claim that most mortals are actually no different to eternals in this respect - just less careful.
+
+Names in Play
+Names are serious business for Winterfolk.  You can learn more about Wintermark names [[Wintermark_people#Names|here]], and more about the heroic names given by scops [[Wintermark culture and customs#Scops|here]]. Naming objects is also a significant action - [[Ilium#Creating_Artefacts|artefacts]] and [[hallow|hallowed items]] always have names but it is entirely appropriate for your character to name objects that have great significance to them.
+
+That is not to say that Winterfolk name every little item they own - only the most significant and important objects deserve names and once you give an item a name, it is rare and dangerous to change it. But as with runes, it is perfectly acceptable to roleplay that your named sword keeps an edge better than an unnamed sword, or that anything drunk from the named goblet that represents your love of your family tastes a little sweeter.
+
+## Crafting
+If Urizen is the home of scholastic magic in the Empire, then Wintermark is the original home of the artisan. Isenbrad, one of the most renowned scions of the nation was famous for his skill as a smith. Inga Tarn, the nations favourite hero was noted as the child of a blacksmith. The art of the crafter, whatever their calling is known to encompass a powerful hearth magic. The longer an artisan labours over their work, the more intricate the designs, the more beautiful the piece, the greater the effect. The people of Wintermark prize such artistry, knowing that beautiful things can be potent in unexpected and unlooked for ways.
+
+Wintermark artisans often name the things they create, for [[#names|names]] are known to carry power and purpose. In fashioning of an item, and giving it a name, some Winterfolk believe that something of the artisan becomes part of the item. More common is the view that the choices that are made in creating and naming an important piece, are crucial and represent vital forks in the craftsperson's skein. It is not just the making of an item that is significant, but who it is intended for. All of these things are profound acts that carry great weight. A sword named ''Trollslayer'' that is gifted to a promising young warrior doesn't just affect the skein of the craftsman who forged it, it also sets the chosen bearer on a new path.
+
+The provenance of the materials used is important. The ideal components are those a crafter has gathered themselves, but just as good are those gifted for the purpose by an ally. Some will seek out the rarest materials for their work, emphasising the heroism with which they are acquired. A Suaq hunter might chase a mythical red narwhal across the floes for years to capture its horn. Kallavesi mystics seek the perfect moment to cut the heartwood from a weirwood tree. A nugget of gold taken by trickery from a trolls hoard is more valuable than one simply dug from the earth. 
+
+Ultimately though, it is the artistry itself that is crucial for this forking of the skein. The more detailed the piece, the more elegant the work, the more the personality of the artist is reflected in their work - the more potent the resulting hearth magic. 
+
+Crafting in Play
+While a [[magic items|magic item]] has simple rules for the materials needed to craft it, artisans are encouraged to roleplay how they made their item in ways that evoke more magical methods. Talking about how you mined the iron to make the steel for a blade by hand in a haunted mine, or how your sister hunted an albino deer across the tundra of Sermersuaq to get the hide for a suit of leather armour, can help turn an otherwise mundane magic item into something special. These tales don't need to be grandiose but it took your character a month or two to fashion that item - you're encouraged to make up a story about that.
+
+Giving a magic item a name is a commonplace idea, but in Wintermark tradition it is the artisan who names the item. By giving a magic item an evocative name, especially an item you are making for someone else, you create a story around it. Telling someone "this is the sword Foecutter, if you take it up you will be called on to fight the enemies of Wintermark" is immediately a more memorable interaction than just handing over a [[Blacksmith's Wage]]. This works just as well if you are making magic items to sell - spelling out the name and the provenance of the item, and the way you hope it will influence the skein of the person who bonds to it, can make an otherwise straightforward transaction into a roleplaying moment. Use the name of your magic item if you [[create bond|bond]] it to someone, and encourage them to use that name when referring to the item.
+
+With the assistance of someone with the [[hallow]] skill, you can further reinforce the naming element of Wintermark hearth magic. Any item that is hallowed not only gains an [[aura]] that helps to make it unique, but you must give the item a name that is recorded on the accompanying ribbon.
+
+If you are acquiring an item, then ask the crafter how they made it, where they got the materials, and so on. If a Wintermark crafter gives you a named item, then it's up to you to work that name into your character's actions. Saying something like "Thanks to my sword Foecutter, which helps me fight the enemies of Wintermark, I ended up going toe-to-toe with the Jotun champion" is a great way to bring out this element of your nation's hearth magic.
+
+Finally, if you're playing a Wintermark character, always remember that items fashioned by Wintermark artisans are just that little bit better than the items other nations churn out. They might have the same rules effects... but an [[Apprentice%27s_Blade|apprentice's blade]] made by a Wintermark smith especially for your character will never rust or lose its edge. It will never turn in your hand or stick in the scabbard when you need it most. You're wielding a weapon forged by one of the finest smiths in the mortal world, so treat it with appropriate respect!
+
+## Witnessing
+Everyone knows that promises have power, but the Winterfolk know that ''real'' power lies in vows that are ''witnessed''. Speaking an oath may be powerful, but when one speaks that oath in front of a group, or when a promise is witnessed, the power of that declaration may become something more profound. Only a fool would break such an oath lightly.
+
+Words can carry meaning even where none was intended. Empty boasts are dangerous if they fork your skein onto a path of action to which you later do not commit. Such boasting can bring ruin down on a would-be hero, even if they knew their words were false when they spoke them. The power of witnessing is such that it compels a person to make good on their boasts - or to suffer the consequences. [[Wintermark_religious_beliefs#Stormcrow|Stormcrows]] have a particular calling to serve as witnesses to what their people say and do, and to remind them not to claim they will do things they have no intention of doing. 
+
+Witnessing in Play
+Doing things in public is a strong way to create drama. Taking the opportunity to swear oaths, declare intentions, or demand recompense somewhere public not only draws out this hearth magic but creates opportunities for other people to get involved in what is going on. Bear in mind that you're asking for other peoples attention with this kind of roleplaying so aim to keep things short and sweet rather than let these scenes drag on.
+
+Another way this hearth magic works out in play is through commemorating or marking significant deeds. While the scop has a specific role around witnessing and celebrating heroism, any Wintermark character can make up a story or pen a short poem lauding someone for what they've done in play and perform those pieces when the opportunity presents itself.
+
+If you do say you are going to do something - and somebody calls you on it - then embracing your own words creates a better story for everyone then recanting them. It doesn't matter if you regret what you've said - indeed the more you regret it, the more dramatic the roleplaying is likely to be.
+

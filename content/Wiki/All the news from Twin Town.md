@@ -1,0 +1,182 @@
+---
+revision_id: 102942
+revision_date: 2023-07-03T14:28:52Z
+categories:
+- Winds of Fortune
+- 383YE Autumn
+- Recent History
+aliases:
+- All_the_news_from_Twin_Town
+---
+
+
+"I suppose... there's that old place of my aunts?"
+
+"Great Aunt Ephigenia's Folly?"
+
+Benjamin sighed. "I wish you wouldn't call it that. It implies she didn't know exactly what she was doing. I still maintain that entire 'mix up' with the will was a calculated move. A final reckoning against the people who made her miserable when she was alive."
+
+"Short of putting your hand in your pocket for a fistful of mana, I suppose we'll never know."
+
+The Merchant-Prince snorted.
+
+"If I had that much mana to spare, I'd not be wasting it on disturbing Auntie Ephigenia. Can you imagine what she'd say if she knew we'd wasted... however much that much mana costs."
+
+Galstone finished his cereal and lent back in his chair.
+
+"You know what the problem will be," he began with a certain ominous-yet-familiar tone.
+
+"Oh for goodness..." Benjamin threw his half-eaten crumpet down in disgust.
+
+"I'm just saying. It's in Regario. The Mestran rags will all claim we're trying to put one over on them and steal the Consul for our own nefarious ends."
+
+"Paragons preserve us! Not everything is about putting one over on the Mestrans!"
+
+"Well you know what they're like..." 
+
+Benjamin interrupted Galstone before he could elaborate on what Mestrans were like, slamming his palm down on the table with a loud crack that rattled all the breakfast crockery.
+
+"The damn building is falling down! It's in a great place! It's got its own little dock, it's got oodles of space, and it's ''right there''! Honestly, what do you expect me to do? Track down the mighty spirit N'gel herald of Lashonar and bribe him to build a magic floating Consulate that hovers over the city equidistant between both banks?"
+
+Galstone made placating gestures.
+
+"I know, I know. I'm just being nonconstructive." he paused them and frowned "I don't suppose we could suggest fitting it in at the Mint could we? That might work?"
+
+Benjamin rolled his eyes.
+
+"There's precious little room on the island as it is. Can you imagine Liselotte's face if we suggest adding a Consulate and a dozen staff? That ghastly statue of il Volpe's practically tipped the island up and sank the whole damn place in the Vassa it's that overcrowded. What's next? Pontoons? Bridges? Building it underwater? A dual Consulate with offices on either side of the river so you need a boat to go and check the files in the other city? No. Bugger that. I'm going to suggest Ephiginia's place and if any Mestrans start complaining I shall be ''very ironic'' at them until they shut up."
+
+Galstone grabbed a slice of toast and chewed it thoughtfully for a moment, turning the matter over in his head.
+
+"You couldn't build it underwater anyway." he said at last, suppressing his smirk in the face of Benjamin's frustrated frown. "Everyone knows orcs can't swim."
+## Overview
+While the people of [[Sarvos]] and [[Holberg]] are dealing with the curses that have [[The DOOM that came to Sarvos|shattered their mirrors]] and [[In the garden of defiance|withered their gardens]], and while the people of [[Temeschwar]] are making preparations for further attacks, the people of the twin-cities of [[Tassato#Tassato_Mestra|Mestra]] and [[Tassato#Tassato_Regario|Regario]] are dealing with their own pressing matters. Building their prestige. Arguing with their rivals. Plotting against the thugs on the other side of the river. Advancing their political agendas. Protecting the good name of the League. Things like that.
+
+Known as some of the most articulate and diplomatic people in the Empire, Tassatans delight in wordplay almost as much as they enjoy beating their rivals in a political manoeuvre. The twin cities remain fractious - but while the Senator for Tassato is widely considered to have the "worst seat in the Senate" by most citizens of the League, even the citizens of Regario are forced to grudgingly accept that Cesare Sanguineo Rezia Di Tassato does an adequate job of representing the city. For a Mestran, obviously. Likewise, the Mestrans are forced to concede that the Barossas - Natalia and Gabriel - appear to be doing an adequate job leading the armies of the League. For Regarians, obviously. While the other cities appear fractious, or under siege, Tassato appears to be enjoying a period of relative peace and prosperity. For a given value...
+
+With that in mind the citizens have turned their attention toward improving the status of the twin-cities in the Empire by offering their uniquely Tassatan brand of diplomacy.
+
+## The Imperial Consulate
+* A proposal has been made to construct an Imperial Consulate
+During the Spring Solstice 383YE, the Senate voted to amend the powers of the [[Imperial Consul]] to make them a [[Senate_session#Member_of_the_Senate|member of the Senate]]. It seems as if the position of Consul has been controversial since its inception in the Summer of 379YE, with questions asked about the remit of its authority and its purpose in the wider Empire. For now though, it seems that most people have accepted that the Consul both deals with diplomatic incidents that do not involve the foreign nations the Empire has appointed [[Ambassador|ambassadors]] to deal with, and serves as a liaison between the diplomatic corps and the Senate.
+
+Yet it seems that the Consul has always struggled to do their job. The Great Forest Orcs and the orcs of the Mournwold alike have tended to ignore the Consul. The Grendel preferred the company of the Imperial Fleet Master. The Thule wanted to deal mostly with the Varushkans, even before they grudgingly agreed to embassies between Otkodov and the Empire. Even the Feni seemed largely disinterested in the Consul during the recent unpleasantness in Mournwold and Hahnmark.
+
+The typical Tassatan loves politics of all kinds, and that includes international diplomacy. It's no coincidence the [[Regario Dossier]] - the Empire's foremost espionage agency - is based in Tassato. Sadly, however, none of the Empire's foreign embassies were built in the city, something that rankles with the intrigue-and-politics minded citizens on both banks of the Vassa. There's the [[Tassato#The_Jarmish_Lodge|Jarmish lodge]], but that hardly counts (and anyway there are significantly fewer Jarmish folk living there since the Empire became a signatory to the [[Ratify Liberty Pact|Liberty Pact]]). With that in mind, and marking the increased prestige of the Imperial Consul, a respected Merchant-Prince ''Benjamin de Tassato Regario'' of the Featherwick Guild - the publishers of one of the cities better regarded broadsheets - has come forward with a proposal.
+
+One of the things the Featherwick Guild has identified is that the office of Imperial Consul lacks gravitas. Each of the ambassadors is responsible for an [[embassy]], but the Imperial Consul... is not. They have no offices, precious little staff, no ''address'' from which to discharge their responsibilities. All of this contributes to the lack of respect that the Consul experiences when dealing with foreign powers. The fact that Tassato has no significant embassies within its bounds makes it ideal for addressing this issue. If the Senate wants foreigners to take the Imperial Consul more seriously, argues Prince Benjamin, they should arrange for an Imperial Consulate to be built.
+### Establishing the Consulate
+* An Imperial Consulate could be built in Tassato Regario, providing several benefits for the Imperial Consul.
+* The commission would cost a senate motion, 25 wains of weirwood, 15 wains of white granite, and 80 Crowns in labour  costs.
+It so happens that the Featherwick Guild has the perfect site in mind. A stone's throw from the University of Tassato, in [[Tassato#Tassato Regario|Regario]], is a four storey building that belonged to Prince Benjamin's great aunt. Following her death - she very intentionally died without disposing of the premises - a decades long fight between her relatives over who would take custody of the prime real estate erupted. Now, everyone who might have had a claim on the building is either dead or has moved to the country to get away from their relatives. The building is falling apart - nobody has made any effort to maintain it in thirty years. Indeed, the place is becoming reasonably dangerous to passers by and is likely to fall down within the next few years.
+
+The Senate could declare the building derelict, and refurbish it as the Imperial Consulate. It stands on the eastern banks of the Vassa, and was built to incorporate a small private dock that would make it ideal for meeting with dignitaries from foreign nations if it was expanded slightly. The building foundations are good and the lower levels are sturdy enough. It could provide an ideal residence for the Consul, as well as rooms for a dozen staff - a staff hand-picked by the civil service from some of the finest diplomatic minds in Tassato.
+
+Establishing the Imperial Consul would require 25 wains of weirwood and 15 wains of white granite to repair the building and expand the docks, as well as 80 Crowns in labour costs. Work would take three months, and it would require a Senate Motion to commission - and it would count against the Senate's limited number of commissions for the season when it was built. It would have an upkeep of 5 Thrones each season, just like any other embassy. The benefits to the Imperial Consul - who would be given custody of the building as it was commissioned of course - would be fourfold.
+
+* First, they would have finely appointed apartments in the finest city in the Empire that would be for their exclusive use. It is easy to under-estimate the benefits of such arrangements, but they are important, especially when dealing with foreign powers. It is difficult for the Consul to impress visitors with the power and commitment of the Empire without the accoutrements of state to dignify that.
+
+* Second, with the establishment of the Consulate, and the provision of offices for a support staff chosen from the diplomatic corps and the most articulate graduates of Tassato University, the Imperial Consul would be able to receive a regular briefing on the Empire's diplomatic status. The briefing would in theory contain any information about the various barbarian and foreign nations the Empire did not have an existing ambassador to deal with, but it would also contain rough overviews of the relationship between the Empire and the nations they ''did'' have an Embassy with. While not as in depth as the briefings received by the individual Ambassadors, it would certainly help the Consul discharge their duties as a liaison between the ambassadors and the Senate.
+
+* Third, while the Consul has no legal authority to deal with [[Axos]], the [[Commonwealth]] and the others, most foreign nations understand that there is more to politics than dealing with an ambassador. As such, the Consul would gain a unique version of the [[Ambassador#Mercantile_Support|mercantile support]] benefit the ambassadors enjoy. Merchants and those seeking favour from every foreign nation with which the Empire has established an Embassy would send representatives to Tassato to visit the Consulate. This would create a series of ministries that would allow the ambassador to acquire trade goods from those merchants at a reasonable price. They would not be on the same scale as the ministries enjoyed by the specific ambassadors, but the Consul would have many more of them to choose from.
+
+* Finally, the existence of a Consulate would cement the Consul's prestige and status in the Empire. As such, all those people who regularly discount the Imperial Consul would begin to take the title seriously, dealing with them just as a foreign nation would deal with an ambassador.
+
+### Solving the Ambassadorial Problem
+* The Imperial Consul could be given the ability to appoint the Empire's Ambassadors
+The Featherwick Guild have spent nearly a century of observing Imperial politics and writing about what they have seen. One of the things they have seen recently is that the Senate sometimes struggles with the need to appoint the nine ambassadors it has created over the last few years. The process is described by Prince Benjamin as "clunky". A lifelong devotee of the virtue of Wisdom, he has a proposal for the Senate. Right now, it requires a Senate motion to propose an ambassador title be appointed - even though everyone knows the ambassador's term is coming to an end - then the actual appointment takes place in the ''next'' Senate session.
+
+Benjamin's proposal is that the Senate amend the powers of the Imperial Consul to allow them to appoint the ambassadors by [[Senate_announcement|announcement]]. The Senate would continue to appoint the Consul - and Benjamin is under no illusion that they would need to choose their candidates for such a powerful post very carefully - but it would free the senators from the constant cycle of appointment they in which they are currently trapped. As with [[historical research]], in an emergency or if the Consul was not in a position to appoint an ambassador, a Senator could still raise the motion to do so via the existing method.
+
+This is somewhat similar to the proposal Jereboam of Sanctuary made in Autumn last year that [[Tested_again_and_again#Virtuous_Diplomacy|ambassadors should be appointed by the General assembly]] but it represents a significantly smaller transfer of power from the Senate, to a Senate appointed position. As such Prince Benjamin and his supporters do not believe it would constitute a [[Senate_motion#Constitutional_Vote|Constitutional vote]].
+
+Obviously, the [[Imperial Fleet Master]] would remain a [[Imperial Military Council|Military]] appointment and not something for the Consul to worry about - unless the Senate changed that separately - but Prince Benjamin doesn't really count the Fleet Master as a ''proper'' ambassador whatever the [[Grendel]] may say.
+
+If the Senate chose to pursue this path, they could combine the amendment to the Consul's powers with the same motion required to commission the Consulate.
+
+As of Summer 385YE, this opportunity to amend the powers of the Imperial Consul to appoint ambassadors is no longer available.
+
+### Limited Opportunity
+The opportunity to establish the Imperial Consulate remains available until the end of the Spring Equinox 384YE. There is no time limit on the suggestion that the Imperial Consul might appoint the Imperial Ambassadors. 
+
+## A Fifth City
+* A statement of principle during the Summer Solstice suggested that Seren might become the fifth city of the League.
+During the Summer Solstice, Alfredo Barossa presented a [[statement of principle]] before the League national assembly that encouraged the city of Seren to secede from the Navarr nation and become the fifth city of the League. Having achieved a [[greater majority]], the statement was duly circulated among the priests of the four cities. Inevitably, word of Alfredo's words reached the people of Seren themselves. The statement has received a mixed reception, to put it mildly.
+
+It is not clear what the author of the judgement intended, but some both in the League and among the Navarr are concerned that it is nothing more than mockery of Seren's ambitions. As the bitter pundit ''Ruffio Telemsca di Mestra'' wrote in his regular newspaper column "''We expect better of our bishops - even ill-bred Regarian bishops - than to demean the Ambition and Pride of our fellow Imperial citizens.''" Others, however, have chosen to take the statement at face value, and a series of heated discussions have broken out in various salons and coffee shops across the cities. Nowhere has this debate been more heated than Tassato. The western city shares a border with Miaren, and Navarr traders and merchants are a common sight on both sides of the river. A lecture at the School of Epistemology about historical efforts to encourage other cities to join the League - some of them reaching back as far as the original formation of the nation when both Siroc and Meade were allegedly invited to join Aldones' ambitious endeavour - these discussions have widened to include the entire topic of other cities joining the League. 
+Seren was a great city when Temeschwar was no more than a collection of hovels, before Sarvos knew what a mirror was, when Tassato was just two fishing villages throwing fish heads at each other, and Holberg a nervous little hill fort huddling against the side of the mountain and hoping the orcs wouldn't spot it.
+The problem, as Tassatan pundits on both sides of the river agree, is that it is not enough for a city to join the League. There are a number of limitations placed on large settlements by the requirement for food and water (among other things). For Seren, or Meade, or Siroc, or Kalpaheim to join the League, the entire territory of Miaren, or Mitwold, or Madruga, or Hahnmark would need to secede. This is simply inconceivable. Even more inconceivable is the idea that any of these cities - each a keystone of the culture to which they belong - may see that they had more in common with the League than with their own nations.
+
+The example of Temeschwar is raised several times, but most historians agree that the northernmost of the League cities had already grown far from its Varushkan roots long before the formation of the League. One need merely look to the example of [[Empress Giselle]] and her ill-fated efforts to convince the aldermen and dhomiro of Meade and Siroc to join the League, and how disastrously that turned out for her, to see the folly of trying to "steal" cities just because they ''are'' cities. A Navarr city would never prosper in the League - because at its heart it would still be Navarr.
+
+That is not to say that if the people of Siroc did eventually decide they had more in common with their League cousins to the north and the south that the League would turn them away. Far from it! But that desire to join the League would need to come from within, and would need to be so widespread that the entire territory chose to leave their former nation and become citizens of the League - something that could never be forced even with the new Senate power of relinquishment. As the early Sarvosan philosopher ''Iset Benedictus Saravos'' said after her visit to the White City "''It is not stone that makes a city, but people.''"
+
+As the discussions begin to die down, however, there are some positive suggestions made in the light of the Barossa statement. Both come from the people of Tassato - possibly because the people of Temeschwar, Sarvos, and Holberg have their own concerns at the moment, more pressing than questions of Navarr cities.
+
+### Road to Seren
+* The towns of Tagliano and Holt would be excellent places for markets to improve trade between Tassato and Seren.
+* Construction would require 50 wains of weirwood, 30 wains of white granite, 160 crowns, and take six months.
+* Benefits would be felt by businesses in Tassato and forests in Miaren.
+The town of [[Tassato#Madeiras|Tagliono]] stands square on the road from Tassato to Seren. Much of its wealth comes from supplying wood to builders and boatwrights. Since the [[Lorenzo%27s_Legacy#Blood_Red_Roads|Blood Red Roads]] were established it has also proved a popular place for navarr merchants and traders to visit. Many of the inns there are operated by the ''Woodward Road Guild'' under the guidance of Merchant-Prince ''Olivia Tagliasta von Tassato'', and it is she that has put forward a proposal to the Tassato Chamber of Commerce - and to the Navarr merchants who regularly visit Tagliono.
+
+If the Navarr are to realise their grand vision of elevating Seren to the ranks of the great cities of the Empire, then it behooves the people of the most ambitious and proud city of the League to support that endeavour. Especially as it presents an opportunity for profit. What she proposes is that the people of Tassato expand the warehouses at Tagliono, and establish a market specifically aimed toward increasing the flow of Navarri lumber into Tassato. At the same time, the Navarr would build markets and warehouses of their own, but in southern Miaren. "''Building anything requires a number of factors to fall into alignment,''" she quips "''Chief among which is a shitload of money. The people of Tassato have that money.''"
+
+The project would require 50 wains of weirwood, 30 wains of white granite, 160 crowns in labour costs, and take six months to complete. It could be established with either a [[Senate motion]] or a [[Bearer of an Imperial Wayleave|Imperial Wayleave]]. The market would function as not one but two [[great work|great works]], one centred in Tagliona and the other in [[Miaren#Holtford|Holt]] in Miaren. 
+
+While both were operational, every [[business]] in Tassato would receive a seasonal share of 60 measures of forest resources - [[Materials#Iridescent Gloaming|Iridescent Gloaming]], [[Materials#Dragonbone|Dragonbone]], [[Materials#Ambergelt|Ambergelt]], and [[Materials#Beggar's Lye|Beggar's Lye]], none of which are particularly common in the markets of Tassato. At the same time, the [[forest|forest owners]] of Miaren would share a seasonal bounty of 54 crowns - money they could potentially use to acquire the resources needed to complete one of the [[Comes_a_time#Legacy|ambitious projects]] proposed to transform Seren. Even after Seren's transformation were complete, these markets would continue to bring added prosperity to the two neighbouring cities - and hopefully cement stronger ties of friendship between the two people.
+
+### The Mestran Hills Mutual Association
+League TitleProduction
+6 crowns18 random herbs
+13 crowns 30 random herbs
+20 crowns42 random herbs
+37 crowns52 random herbs1 wain of weirwood
+55 crowns60 random herbs2 wains of weirwood
+
+* A mutual association in the hills east of Tassato could benefit both the League and Navarr.
+* Construction would cost 15 wains of mithril, 10 wains of weirwood, 50 crowns, and take three months.
+* Two Imperial titles would be created; a League title overseeing a herb ministry and a Navarr title overseeing a metal ministry.
+The guilds that own most of the mines in the hills above Tassato Mestra are old, traditional, and a little set in their ways. As a consequence, it comes as something of a surprise when a week after the ''Woodward Road Guild'' lays out its proposals for Tagliano, the ''Forge and Furnace Fellowship'' throws its own hat (metaphorically) into the ring. The ancient Merchant-Prince ''Cassandra di Mestra'' recently passed away and has been succeeded by the significantly younger and more ambitious ''Gemma Stewart of Tassato''. A second-generation orphan child of Mournwold refugees, Gemma is something of a success story in Tassato - working her way up from a house of the [[The_Little_Mother|Little Mother]], through the mines, to secure a place as the Prince of one of the richest mining guilds in the city. Since she took her place in Tassatan politics, Gemma has publicly committed herself to changing the fortunes of Tassato and tapping into the rich veins of ore she is convinced still lie beneath the hills above the city.
+Navarr TitleProduction
+6 crowns12 random ingots
+13 crowns 20 random ingots
+20 crowns28 random ingots
+37 crowns35 random ingots1 wain of mithril
+55 crowns40 random ingots2 wains of mithril
+
+Her proposal is for a mutual association, formed by five of the mining guilds, and working in conjunction with the apothecaries of Seren to the enrichment of both cities. Seren has few mines, but it has an abundance of herbalists and healers of all types. Mining is dangerous work - and despite the efforts of the [[Master_of_the_Clearing_House#Tassato_Apothecary_Clearing_House|Apothecary Clearing House]] there is still a significant need for healing herbs on both sides of the river.
+
+Her plan involves building a trading post - an inn, warehouses, and residences - at the base of the hills in western Madeiras. The mining guilds - lead by the ''Forge and Furnace Fellowship'' of course - would divert ore directly from the mines to the trading post for sale to Navarr merchants prepared to travel the extra miles from Tagliano. Half the buildings would be given over to the Navarr, who would use them to sell herbs to the Tassatan mining guilds at a reasonable price.
+
+Gemma's proposal would require 15 wains of mithril (to lay tracks to transport the ore) and 10 wains of weirwood. Labour would cost 50 crowns, and it would take three months to complete construction, It could be [[commission|commissioned]] with a [[Senate motion]] or an [[Bearer of an Imperial Wayleave|Imperial Wayleave]]. Once complete it would create not one but ''two'' [[Imperial title|Imperial titles]]. One would be appointed by business owners of the League - perhaps called something like ''Representative of the Mestran Hills Association'' - while the other would be appointed by the [[herb garden]] owners of Navarr - perhaps ''Representative of the Miaren Herbalist Fellowships''. Both would be annual Bourse titles, and each would control a [[ministry]]. If any decisions needed to be made about the Madieras Mutual Association, they would need to make them together - unanimous decisions of both the League and Navarr title holders.
+
+### Limited Opportunity
+Both the Road to Seren and the Metran Hills Mutual Association opportunities will remain available until at least the end of the Winter Solstice 383YE. After that, it is likely that the impetus of the original statement will have faded along with interest in these commissions.
+
+## Little Mournwold
+* There are still a number of Marchers living in Tassato
+Ever since the [[Some_to_misery_are_born#The_Saga_of_Whittle|decision]] of the Tassato Chamber of Commerce to accept the refugees from [[Mournwold#Whittle|Whittle]] in their city during the Winter Solstice of 380YE, there has been an enclave of folk from the [[The Marches|Marches]] living in Tassato Mestra. Originally made up solely of villagers from Whittle, who had been forced from their homes by the Jotun advance, it is now the home of a thriving number of Marcher folk. While the bulk are from the Mournwold, there are people settled in Little Mournwold from as far afield as [[Bregasland]] and [[Upwold]]. They are a hard working people in the main, always happy to do a good day's work for a good wage. Most stay for only a few months at a time, returning to their homes in the west after they have made enough money or grown bored of the city.
+
+Others, however, stay. They settle down with Tassatan partners. They find that they enjoy working in a Guild more than they enjoyed working on a farm, or in a mine. They come to realise that actually there is only a fine gradation of difference between their lives back home, and their lives in the big city. By inches, they slowly become Tassatans. In turn, they bring Marcher food, Marcher festivals, and Marcher ideals to the people of Tassato. This is actually nothing new - over the centuries there have been periods where immigration from the Marches into Tassato has waxed and waned, and for the most part the city has been made the stronger for it.
+
+Right now, however, the people of Little Mournwold are having troubles of their own. After years of trying to find a peaceful resolution to the problem posed by the people of Whittle, the Marcher assembly has had enough. They have issued a [[statement of principle]] giving the Whittle folk [[383YE_Summer_Solstice_Synod_judgements#Judgement_106|an ultimatum]]. Reject their hateful practices or face the consequences. For many of the former Whittle folk living in Tassato, this is less about spiritual practices and more about the Whittle folk's refusal to accept that orcs can be their neighbours. Some of the other Marcher immigrants are conflicted - the Whittle folk are proud and stubborn but they shed blood to free the Mournwold from the Jotun. Surely there must be another way?
+
+Merchant-Prince ''Mariana von Mestra'', of the Wildriver Crossing Guild, works closely with many of the Marcher folk living in Little Mournwold. She has been impressed with their work ethic, and their no-nonsense attitude, and listening to them grumble about the plight of the Whittle folk she has come up with a possible solution - one that she openly admits will prove very controversial.
+
+During their exile in Tassato, the people of Whittle kept pretty much to themselves. They worked hard. They did not spread "hateful" teachings. They didn't cause any trouble for anyone. Their dislike of orcs is unfortunate, but it is also understandable. The problem, she argues, is not entirely of the making of the Whittle folk. Perhaps the famously articulate people of Tassato could reach out to the Whittle folk not to force them to abandon their traditions, but to offer them a home where they would not be required to accept orcs as their neighbours?
+
+{{Mandate|assembly=League National Assembly|mandate=The people of Whittle are not evil, they are misguided. Their hatred of orcs is founded on decades of fighting the Jotun and not just their faith. Their embrace of hatred is no more problematic for civilised folk than the false idols of the Asaveans. As such the League assembly sends {named priest} with 50 doses of liao to offer the Whittle folk sanctuary in Tassato, in the Little Mournwold district that they helped to found. While the people of Tassato accept orcs as citizens of the Empire, there are no orcs vying to become citizens of the League and so the Whittle folk may live peacefully in Tassato Mestra without compromising their beliefs - as long as they accept that preaching the false virtue of Hatred will not be tolerated.}}
+
+If the League assembly passes this mandate - and it will require a [[greater majority]] thanks to the [[Mercy is weakness|intervention of the Wisdom assembly]] and the [[sword scholar|sword scholars]], then some of the Whittle folk who sought sanctuary in Tassato in the past will do so again. Not everyone will heed the invitation to sanctuary, but the young and the old and the least dedicated amongst them would accept the fact that their time in the Mournwold was over. They would return to their residences in Little Mournwold with their families. Some would remain behind of course - the dyed-in-the-wool fanatics who preferred a martyr's death to possible compromise - but many would be saved.
+
+This option is not without consequences. The Whittle Folk would lose access to the fine quality [[mine]] they operate beneath Whittle Hill. The green iron paid each season to the Tassato Chamber of Commerce would dry up - but given that if the Whittle folk are arrested there would be little chance of the green iron continuing to flow this seems like a minor price. Indeed, Prince Mariana has suggested that once the Whittle folk were settled, they could be encouraged to turn their expertise loose on some of the old mine workings above Tassato Mestra - potentially improving the prosperity of their League neighbours in a different way.
+
+Obviously, the mandate would also entail accepting known heretics into the League. But Merchant-Prince Mariana is adamant that these people are misguided and not evil - her argument is that away from the orcs they hate there would be plenty of opportunity to slowly wean them away from their spiritual crutch and help them embrace the ways of the League. As long as the League does not attempt to assimilate orcs before the Whittle folk have been convinced to put aside their hatred - optimistically this will take at least thirty years or so - then there should be little chance of a recurrence of the problems they are currently causing in the Marches.
+
+Further details about the situation of the Whittle folk can be found [[In_the_flat_field|here]].
+
+## The poor choice
+* There has been an incident in the quarries of Enterio
+A week before the Autumn Equinox there is a rumour of an incident in the quarries of the [[Arratan Gamble]]. Details are sketchy, but some of the more excitable gossips are already pushing the belief that this is absolutely the work of ''The Fellowship of the Red and Gold Mask'', who obviously must be trying to work to remove the [[Highguard|Highborn]] holder of the seat Ames of [[Reikos]]. The Fellowship is a shadowy secret society that may well not exist outside the pages of lurid novels and melodramatic plays. Allegedly they are a cultish cabal made up of members of prominent guilds from both Tassato Mestra and Tassato Regario motivated by a crazed desire to punish any "outsider" who meddles in the feud between Regario and Mestra - in this case by taking a Bourse seat they imagine should remain in the hands of the League alone. 
+
+Stories are confused - there is breathless talk of murder and sabotage as well as claims of open rioting among the workers there - which are likely exaggeration. The [[egregores]] of the League (and presumably the seat of the Arratan Gamble) will have more information on what actually occurred with the valuable [[white granite]] seat at the upcoming summit.

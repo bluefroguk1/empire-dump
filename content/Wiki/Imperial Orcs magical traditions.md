@@ -1,0 +1,41 @@
+---
+revision_id: 106613
+revision_date: 2023-12-29T17:58:22Z
+categories:
+- Magic
+- Imperial Orcs
+- Archetype
+aliases:
+- Imperial_Orcs_magical_traditions
+---
+
+Much of the magical arts of the Imperial Orcs were lost during the generations in which they were enslaved. Since winning their freedom, they have experimented freely as well as employing techniques, spells and rituals learned from other nations. Urizen in particular was adamant that the orcs needed to learn magic and arranged for [[Urizen_magical_traditions#Mages|Urizen mages]], [[Wintermark_magical_traditions#Runesmiths|runesmiths]] and [[Wintermark_magical_traditions#Icewalkers|icewalkers]] from Wintermark, and [[Varushka_magical_traditions#Volhov|volhov]] and [[Varushka_magical_traditions#Cabalists|cabalists]] from Varushka to teach the orcs.
+
+## Ancestors and Rituals
+Learning ritual magic proved a painstaking process for the Imperial Orcs. Attempts to incorporate loud passionate drumming to get the blood pumping in the way some barbarian nations perform rituals seems to draw the attention of the ancestors in much the way battle does. These ancestors were hostile and disruptive as is the way with many [[Imperial Orcs religious beliefs#Imperial Orc ancestors|Imperial Orc ancestors]] and this made mastering ritual magic incredibly difficult. For a while some mages worried that the orcs might simply be incapable of mastering the art at all.
+
+Eventually the shamans discovered a way to solve their problems using a combination of two powerful Imperial Orc hearth magics. The first is to encourage as many members of the ritualists' legion to be present as possible while performing a ritual, along with banners and flags bearing the legion symbols. The presence of the legion members and their symbols helps to reinforce the sense of identity and belonging that all orcs feel and increases the chances that one of the legion's ancestors will be able to return to watch the ritual.
+
+By itself this is not sufficient; to be effective it must be combined with the second hearth magic, employing [[worth]] to ensure the right ancestor is called. Shamans and ritualists keep dozens of items of worth from older ritualists who have died. These trinkets are rarely weapons, magical implements are common but the best items are bone talismans, pieces of bone of varying size taken from a dead shaman's body and carved or etched with the story of their worth. The icewalkers were able to teach the orcs techniques to invoke the names of these ancestors while presenting bone talismans and other items of worth linked to them. When done right it ensures that that ancestor comes to witness the ritual and if the participants have chosen wisely then even the shamans receive advice and help at best or relative quiet at worst.
+
+Shamans took an interest in ritual magic from the start, but this ability to gain moments of clarity and lucidity has served to make ritual magic even more appealing. As a result many seek out any opportunity to perform ritual magic.
+
+## Warcasters
+The highly physical traditions of the Wintermark [[Wintermark magical traditions#Runesmiths|runesmiths]] appealed to some orcs who adopted a similar approach. As their confidence with magic developed they began to craft their own approach to battle magic and moved away from the runesmiths' emphasis on magical runes. What the warcasters wanted was a way to use magic whilst clearly remaining part of their legion. Two core approaches have developed, but regardless of the tactics they favour, all warcasters strive to be disciplined soldiers, used to fighting shoulder-to-shoulder in the thick of battle.
+ 
+Some warcasters favour the best mage armour they can acquire, a heavy rod and a large shield. Unlike most Imperial Orcs, warcasters favour the kite shields more commonly seen among the [[Dawn|Dawnish]] and [[Highguard|Highborn]]. They also favour offensive spells that [[repel]], [[entangle]] or [[paralysis|paralyse]] their foes - many practice delivering a paralysis or entangle spell so as to get the best defensive benefit from their shields. These warcasters seek to fight alongside their legion comrades in toe-to-toe engagements with their enemies.
+
+Other warcasters prefer to fight in the second rank, eschewing a shield and instead claiming the right to carry the legion standard. The logic for this honour is clear - the standard marks their location for the rest of their legion, but is less of an encumbrance than it might be for a warrior as it still leaves a hand free to cast spells. Warcasters who favour this combat style master support magic such as spells that [[mend]] or [[heal]] their fellow soldiers.
+
+
+## Oathwrights
+The Oathwright tradition grew out of Imperial Orc experiences with the [[create bond]] spell. They began to question what exactly was happening when a bond was forged between an orc and an item. Discussions with several of the [[Varushka_magical_traditions#Volhov|volhov]] tutoring the orc magicians led them to question how the bonding interacted with the concept of [[Worth|worth]], and to become fascinated by the oaths and promises that served as the underpinning of some [[Varushka_hearth_magic|Varushkan magic]].
+
+The common attitude that a bond is simply a practical application that allows an individual to use a magic item is seen as naïve by these orcs. Imperial Orc items, especially magical items, often have worth and the decision to create a bond between a person and an item is not a decision to be made or unmade lightly. Oathwrights believe that the bond between an item and a person affects them both, items may gain worth by being owned and bonded to the right person and the right item affects an individual's hopes of becoming an ancestor.
+
+Bonds between individuals are even more important and oathwrights take a special interest in these. They often help people craft oaths, offering words of caution and advice and helping them to create vows that are articulate but precise. All magicians can create bonds, but most Imperial Orcs prefer to seek out an expert in the field. Oathwrights take their responsibilities very seriously and often counsel against foolhardy oaths or question an individual about situations where they might feel compelled to break their oath. The best charge for their services, expecting to be paid for their time and their wisdom.
+
+Their interest in oaths, agreements and bargains made them a natural fit for serving as diplomats to the [[eternal|eternals]], where they work hard to extract binding promises from these powerful supernatural beings to aid the Empire and the Imperial Orcs.
+
+
+

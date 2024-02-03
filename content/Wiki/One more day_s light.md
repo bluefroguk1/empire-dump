@@ -1,0 +1,138 @@
+---
+revision_id: 85401
+revision_date: 2022-01-20T21:29:46Z
+categories:
+- Winds of Fortune
+- 383YE Spring
+- Recent History
+aliases:
+- One_more_day's_light
+---
+
+
+Tomas stands in the light Winter rain, and the tears flow unheeded down his face. He is looking at the lake and at the ruins that poke from its dark surface. It is early twilight - dawn or dusk it hardly matters. He takes a deep breath and wipes the tears away, resolving to be strong.
+
+The young woman beside him, who is no longer really a young woman at all, touches his arm with one bark-sheathed finger, her face gentle but concerned.
+
+"Is everything alright, Tomas," Mira asks in a quiet voice that nonetheless is clearly audible over the rain and distant thunder. Her eyes are deep pools of vibrant green. Pale flowers grow in her hair, and she has an aura both of tranquility and watchfulness.
+
+Tomas shrugs helplessly.
+
+"I'd hoped..." he begins then falls silent, overwhelmed with emotion. Mira's touch becomes firmer, her presence reassuring. He gulps down his feelings, almost choking on the sorrow and the pain. 
+
+"I'd hoped there would be something of them here still," he says. He sounds lost. "But there isn't. Not really."
+
+Mira gives him a sad smile. She knows all about the loss of those who are loved - she still remembers it. At least for a little while longer.
+
+"They are not forgotten," she says gently. "Even I can sense the echo of what happened here."
+
+He nods, but it is scant reassurance. He closes his eyes, lets the profound sense of certainty wash over him. He is free, he knows, because of their sacrifice. ''They'' are free. Would it really have brought him solace if their ghosts had lingered here? If he had looked out toward the ruins and seen the pale phantoms of his mother and father, his sister, waiting for him? Trapped? Bound? Vulnerable to the despite of tyrants, or the ignorance of pilgrims?
+
+No. He knows it wouldn't. But it doesn't stop him feeling that stab of pain again, the same one he felt when the news that the Keep was gone and that the plan had been successful. It is a familiar ache. Time has barely dulled it.
+
+After another moment, he draws another deep breath - cleanly this time - and draws on the strength he carries around and within him.
+
+"''Let me have the strength of Inga Tarn''", he thinks. "''There are people who need sanctuary and I will help them find it.''"
+
+He opens his eyes, ready to face the challenges ahead. He is suddenly impatient to get moving, and not just because of the blood that pumps in his veins.
+
+Tomas reaches out and takes Mira's hand, and together they begin to pick their way down through the woods. As the ruins disappear from sight behind the hill, neither of them looks back.
+
+## Every Day is Darker
+* The Druj have sent a tormented yeofolk with a message for the people of Dawn
+After the Druj "peace" overture to the Urizen was so soundly rebuffed, there was no further communication from the orcs of the Mallum until shortly after the last of the orc armies retreated from [[Ossium]]. A solitary messenger arrives in [[Semmerholm]] - a terrified [[Yeofolk of Dawn|yeofolk]] by the name of ''Ramsey''. He is half dead when he arrives, and has been horribly mutilated. Discovered barely conscious on the road, he is taken to safety by a patrol who mistake him for an escaped slave - but he has not escaped. Rather he has been intentionally set free to deliver a message.
+
+The Druj will allow the Empire and their allies to hold Ossium, for now. But the next time an Imperial army crosses a border into the Mallum, there will be consequences. The Druj know the Empire as a whole does not care about their own people, but they suspect the Dawnish in particular may feel differently. For every army that attacks a Druj territory, one in every ten Dawnish prisoners in Dawnguard will be killed. They will suffer before they die, and they will know that if they accept Kaela's Gift another will be killed in their place. They will start with the yeofolk, who they understand some of the nobles of Dawn at least claim to care about.
+
+Furthermore, at the moment the children of Dawn are safe. They are kept under close watch but they are neither harmed not set to work in the forests and mines of the Mallum. If even a single army enters the Mallum, however, this state of affairs will come to an immediate, and irrevocable, end.
+
+The Druj will watch with interest to see how much the nobles of Dawn care about their people, and how much influence they have over their Imperial "allies".
+
+Ramsay is feverish and sick when he is found, but thanks to the healing hands of a Dawnish witch, he survives - something the Druj had perhaps not counted on. he is able to provide some information about the situation in Dawnguard - the children are still being kept in relative comfort in Drycastle and every week two randomly chosen yeofolk are allowed to  visit them for an hour to ensure they are safe. The adults are worked mercilessly by the orcs however - not only in Dawnguard itself but also in other parts of the Barrens. While some have taken Kaela's Gift to escape, most are refusing to give in to the terror of the Druj. They cannot fight the orcs directly - if anyone does then everyone is punished - but they resist as best they can. At the very least they try to keep hope alive, but it is fading fast. The Druj, claims Ramsay, are becoming crueller and it is getting harder to imagine that there is any help coming - harder and harder to get through each terrible day.
+
+But perhaps there ''is'' help coming...
+Declaration of Neutrality for the eternal Irra Harah 
+Declaration of Amity for the eternal Irra Harah 
+
+## A Sliver of Light
+* There is an opportunity to raid deep into the Druj-controlled Barrens to rescue children and other slaves.
+* With sufficient support, the raid could also be used to strike a blow against the Druj.
+During the Winter Solstice, the [[Imperial Conclave]] received an offer from the Spring [[eternal]] [[Irra Harah]]. Following a [[Nowhere_and_everywhere#Irra_Harah|parley]] with [[archmage]] Ser Fabienne De Miel, the ''Prince with a Thousand Foes'' offered its aid in rescuing the children of [[the Barrens]] - especially the children of [[Dawn]] held by the [[Druj]] at Drycastle in [[The_Barrens#Dawnguard|Dawnguard]]. To do so - to work directly with the Empire - the eternal would not only need the current declaration of [[Amity and enmity#Enmity|enmity]] against it to be overturned, but it would need to be granted [[Amity and enmity#Amity|amity]].
+
+After a great deal of often heated debate, the Conclave agreed. Irra Harah was [[382YE_Winter_Solstice_Conclave_sessions#Neutrality_:_Irra_Harah|reconciled with the Conclave]], and then following a second passionate discussion, [[382YE_Winter_Solstice_Conclave_sessions#Amity_:_Irra_Harah|granted amity]]. Since the end of the Winter Solstice, agents both mortal and magical have been actively preparing the way for a strike into the Barrens to steal away the young [[Yeofolk of Dawn|yeofolk]] who are incarcerated there as prisoners of the [[the Mallum|Mallum]] orcs. In the process, however, it is clear that the same paths provided by ''Shackle Smasher'' might allow for something more ambitious to be attempted if the Empire were so inclined.
+### Papa Otec's Children
+It has been clear for some time that Irra Harah has a number of friends - or agents - within the Empire. The [[Suaq]] [[Wintermark_military_concerns#Grimnir|grimnir]] ''Kaukana Broken Wing'' is obviously one of them, but there are several others. The people who [[Foggy_mountain_top#Briars_and_Hares|brought aid]] to the refugees of [[Zenith]] and the [[Mournwold]] a few years ago - those who wore the symbol of the hare - likely represent another group. The [[Great Forest Orcs]] and their secretive human allies are believed likewise to have a close relationship with the ''Thorn of the Ancestors''. While Irra Harah was judged an enemy of the Empire these friends and agents maintained a low profile - now that the eternal has been granted amity they are less reticent to come forward and offer help. They are not stupid however; for the most part they conceal their identities as best they can knowing that when the Conclave restores their judgement of enmity against  the ''Guard of the Young'' - as they almost certainly will - they may have to face the repercussions of openly acknowledging their friendship with the Spring eternal.
+
+In addition to the mortals, a dozen supernatural servants of Irra Harah have been busy scouting the eastern Empire, and preparing routes whereby Imperial heroes will be able to move into the Barrens - without giving enough warning to the Druj of what is coming. At least one of those routes passes ''through'' the [[Great Forest of Peytaht]] - the haunted and terrible forest that it is said exacts a terrible toll from those who pass through. Yet the Children of Papa Otec believe they can bring Imperial heroes through safely - at least this one - and likewise escort those freed from bondage safely through the dark places to Reikos.
+
+Another route passes from Semmerholm into Dawnguard by secret ways - too narrow and rarefied for armies but perfectly suited to courageous heroes. According to the Children, these hidden routes might also allow particularly daring heroes to reach others in need of aid - perhaps even as far afield as Saltmarsh of even the Plains of Teeth.
+
+## Mission of Mercy
+* Imperial [[military unit|military captains]] can launch a secretive foray into the Barrens to rescue the children of Dawn
+* With sufficient support the foray may secure additional objectives.
+Any character with a [[military unit]] can support the foray into the Barrens. The option to engage in the "Mission of Mercy" will appear on the [[Military_unit#Perform_Reconnaissance|scouting]] dropdown after the event. Magic that enhances a military unit's effectiveness when supporting a [[spy network]] such as [[Sharp Eyes of the Corsair]] will be helpful, but rituals that empower a warband to work with an army or fortification, or to perform independent action (for example) will not help with this opportunity.
+
+The foray is not immediately dangerous, but the degree of success will depend on the amount of military strength gathered.
+
+* If at least 5,000 military strength is assigned to support the action, the children held in Drycastle will be freed. They will be brought to safety in [[Semmerholm]] and [[Reikos]], and then reunited with their families.
+
+* If at least 7,500 military strength is assigned to support the action, not only will the children held in Drycastle be freed, but the foray will be able to free slaves across Dawnguard. The children of Papa Otec estimate perhaps a fifth of all those Dawnish captured in the fall of Drycastle would be recovered. At the same time, any orc children belonging to the Great Forest Orcs or the nations that used to be their allies, would be rescued and brought to safety in Reikos and Semmerholm. 
+
+* If at least 10,000 military strength is assigned to support the action, in addition to the results outlined above, the foray would be able to free prisoners from the Heart of Peytaht, Carmine Fields, and Murderdale. This would amount to another fifth of all those Dawnish captured in the fall of Drycastle, but would also include as many as a thousand orcs - cousins to the orcs of the Great Forest - kept in bondage by the Druj. The raid would also disrupt the [[The_Barrens#Eaves_of_Peytaht|Eaves of Peytaht]], securing 10 wains of weirwood in the process which would be collected by the Archmage of Spring as the liaison between Empire and the Children of Papa Otec.
+
+* If at least 15,000 force is assigned, the number of Dawnish prisoners released would not be significantly increased, but there would be an opportunity to free slaves from [[The_Barrens#Bitter_Strand|Bitter Strand]] and the [[The_Barrens#The_Plains_of_Teeth|Plains of Teeth]], as well as to disrupt production at the mithril mine known as [[The_Barrens#The_Fangs|the Fangs]]. Transporting large amounts of mithril from that deep into the Barrens to somewhere the Empire can reach would be unfeasible, but the damage done would likely halve the amount of mithril produced by the Druj there for the next year. At the same time, the Empire would free at least another a thousand orc slaves - again most likely Great Forest Orcs and former allies - the majority of whom would join their cousins in Therunin. However at least some of the orcs freed would likely wish to stay behind and fight the Druj - and with the aid of Irra Harah they would be able to find sanctuary in [[The_Barrens#The_Untrod_Groves|the Untrod Groves]].
+### Rewards
+* The foray is focused on freeing people, not acquiring loot. No rewards are received by default.
+* The Imperial Guerdon could be offered to this action.
+As the foray is focused on rescuing people, no individual rewards will be received by [[military unit|military units]] that support it. It would be possible for the [[Quartermaster General of the Imperial Armies]] to decide to award the [[Military_unit#Imperial_Guerdon|Imperial Guerdon]] to military units taking this opportunity.
+
+## The Fires of the Righteous
+* Two Imperial Armies are in a position to help support this foray; the Winter Sun and the Seventh Wave
+While the foray into the Barrens requires a stealthy approach, there are two Imperial armies that might be able to offer their support. While the two armies may have different motivations, the method for helping the ''mission of mercy'' is the same for both.
+
+The [[general]] of the army must remain on the [[Army_orders#Defending|defensive]] in an Imperial territory for the coming season, and must include in their orders a clear encouragement to support the foray into the Barrens. If they do so then half the military strength of their army will be committed to the quest to free those enslaved in the Barrens. The presence of [[enchantment|enchantments]] on the army will not effect their contribution to the opportunity, but any military unit assigned to support them will provide its full military strength, including enchantments such as [[Raise the Standard of War]] that help when supporting an army, to the ''Mission of Mercy'' opportunity.
+
+The choice should not be taken lightly. If the army is engaged by enemy forces in the territory they are in while half the soldiers are sneaking around in the Barrens then its military military strength - along with that of any military units assigned to support them - will be halved.
+
+Assuming the army does not come under attack this season, it will still be eligible for [[Casualties#Natural_Resupply|natural resupply]].
+### The Winter Sun
+As with the raid on Beoraidh, the [[Imperial_Orcs_military_concerns#The_Winter_Sun|Winter Sun]] possess a [[Army_qualities#Freedom_Fighters|powerful drive]] to help free those who live in chains. It would not be difficult for the [[general ]]of the Winter Sun to encourage their soldiers to offer their aid in freeing those trapped in cruel durance under the Druj. Unfortunately, the general ''cannot'' both support the ''mission of mercy'' and engage in ''escorting the orcs'' - it must pick one or the other if it chooses to aid either. If the general attempts to support both, then neither will benefit but the confusion caused will still result in the strength of the army being halved if it comes under attack.
+
+If the army does participate, though, and the foray achieves sufficient military force that it creates a band of rebels in the Barrens, they will be left with the certainty that the Winter Sun helped them to achieve their freedom. They would see the Imperial Orcs, and the general of the Winter Sun especially, as potential allies against the Druj. While this has no rules effect, it might lead to further interactions between the Winter Sun and these rebels - assuming the foray creates any.
+### The Seventh Wave
+The [[Highguard|Highborn]] army of the [[Highguard_military_concerns#The_Seventh_Wave|Seventh Wave]] has plenty of reasons to despise the Druj. More than any other Imperial nation except perhaps the Urizen, the Highborn know what it is like to be under the boot of the Mallum orcs. While the soldiers of the other Highborn armies might wish to help, however, only the Seventh Wave is in a position to do so. Possessing as it does many unconquered, scouts, skirmishers and magicians used to operating in small groups in enemy territory, the general could support the foray into the Barrens in the same way that the Winter Sun can.
+
+If the army does participate, then regardless of how successful the overall mission is, the general of the Seventh Wave will receive a report on the military situation in the Barrens including details of the enemy campaign armies in the territory; significant local fortifications; and other potentially useful strategic and tactical information about the situation in the Barrens. They would not also receive a scouting report for whatever territory they are defending however - either the Barrens or the territory they are in, not both.
+
+## Than To Curse the Dark
+* During the Spring Equinox, a force of Imperial heroes could make a strike into the Barrens to support the foray
+* The area the conjunction will take place in is ''not'' under the effect of a [[Druj miasma]]
+* The civil service suggests the [[Archmage]] of Spring should coordinate the strike force if the opportunity is to be exploited, in conjunction with the war scout.
+The children of Papa Otec have identified one objective that could benefit from immediate Imperial attention. According to them, the Druj are giving the ruins of Dourfell Keep - and indeed the whole middle of [[The_Barrens#Hope.27s_Rest|Hope's Rest]] - a wide berth. Indeed, some of Irra Harah's chosen suggest that Imperial captains might also wish to stay away from the place - the sacrifice of the folk who lived there has left the area infused with energies that might prove even more unsettling to people from the Empire than they do to the Mallum orcs.
+
+However, since the liberation of a number of slaves from the Eaves of Peytaht, the Druj have set a watch over the Forest to ensure that similar tactics will not work again. Part of that watch is based at ''Dourfell Chase'' - a wooded area in the north-west of Hope's Rest. The original fortress was a small keep used by the Dourfell briars - the Druj have put it to a darker purpose. If it were neutralised, however, then it would not only blind the Druj in that area but also provide a potential base of operations for any Imperial heroes moving into the territory - and a rallying point for slaves to be lead through the Forest of Peytaht to Reikos.
+
+The problem is the garrison. Fortunately, one of the Children of Papa Otec - a Dawnish yeofolk named ''Jocelyn'' - has identified a [[Sentinel_Gate#Conjunctions|conjunction]] of the [[Sentinel Gate]] that will allow a team of heroes to gain access to the area. 
+
+Conjunctions
+WhereWhenSizeTime
+Dourfell Chase, Hope's Rest, The Barrens15:00 Saturday75 people20 minutes
+
+### Objectives
+There are three potential objectives that can be achieved here.
+
+If the fort can be cleared of Druj, then it will weakened their patrols along the Eaves of Peytaht as well as serving as a base of operations, providing a bonus equal to 1,000 military strength to the subsequent foray.
+
+If it can be secured without any Druj escaping to bring news of the raid to their fellows elsewhere in the Barrens, the orcs will likely remain blissfully unaware for up to a month. This will increase the bonus it provides to an effective 2,000 military strength.
+
+Finally, if a magician bearing the Spring archmage's staff stands in the keep and casts [[operate portal]] while invoking the name of [[Irra Harah]], the eternal will be able to claim the fort, shrouding it in greenery and briars to create an effect somewhat similar to that produced by [[Forge the Wooden Fastness]] - albeit on a smaller scale. This will provide a further 1,000 military strength for the project but will also provide the children of Papa Otec with a lasting sanctuary in the Barrens.
+### Complications
+Regardless of the situation in the Barrens, the fort itself is not under the effect of a [[Druj miasma]], so no additional precautions will need to be taken in this regard. The Children of Papa Otec are cagey about why and how this is, saying only that it is not a matter for concern. Apparently the Druj struggle to maintain such a shroud in the Barrens anyway, and the repercussions of the destruction of Dourfell Keep make it even more difficult.
+
+If the mission is to be a complete success, then as the Children of Papa Otec describe it not even one Druj may escape. Given that this is a tall order, the civil service suggest that the Archmage of Spring - as the formal liaison between the Empire and Irra Harah - may wish to take responsibility for arranging the team of heroes. They further encourage the archmage to liaise with the war scout, who has been interrogating Papa Otec's scouts and may have gleaned more pertinent tactical information.
+
+## Invasion
+If the Empire invades [[the Barrens]] after the Spring Solstice, this would not affect the opportunity. An invasion would distract the Druj somewhat - but it would also put them on high alert. There would be no net change to the opportunity or to the threat to Dawnish prisoners.
+
+## Limited Opportunity
+The chance to make this daring foray into the Barrens is only available following the Spring Equinox. After that, the preparations made by Papa Otec's Children will no longer be useful and their efforts wasted.
