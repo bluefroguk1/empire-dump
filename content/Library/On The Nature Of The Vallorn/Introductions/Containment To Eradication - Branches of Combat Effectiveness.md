@@ -14,30 +14,30 @@ can be repaired without local stridings to walk them and more importantly the
 [[The Vallorn|the Vallorn]] there. We may have push back the [[Vallorn]] there but without people
 in the [[Territory|territory]] the trods [[Will|will]] fray once more.
 
-Another avenue to explore in defeating the Vallorn is the aid of Eternals. It has
+Another avenue to explore in defeating [[The Vallorn|the Vallorn]] is the aid of Eternals. It has
 been proven that a boon from [[Surut]] can be especially effective against
 vallornspawn (and any other nearby vegetation) and [[Llofir]] has previously
 offered his [[Assistance|assistance]] (though he was placed under Enmity before this could
 be investigated further) The [[Winter]] [[Eternal]], [[Kaela]], has also voiced dislike of
-the existence of the Vallorn as it has no end. In opposition to this is the hand
-of Yaw'nagrah - she has repeatedly tampered with the Vallorn, creating new
+the existence of the [[Vallorn]] as it has no end. In opposition to this is the hand
+of Yaw'nagrah - she has repeatedly tampered with [[The Vallorn|the Vallorn]], creating new
 and deadlier vallornspawn.
 
 While these paths are of a grander scale there are also precautions that many
-can take if they are to enter an area of Vallorn or plan to aid people who have
+can take if they are to enter an area of [[Vallorn]] or plan to aid people who have
 travelled through one.
 
 **The Miasma**
-The illness wrought by the Vallorn will pass through your skin and so there is
+The illness wrought by [[The Vallorn|the Vallorn]] [[Will|will]] pass through your skin and so there is
 no way outside of [[Magic|magic]] to fully protect yourself from its effects. This miasma
-will seep through mouth and nose protection and so covering your face will
+[[Will|will]] seep through mouth and nose protection and so covering your face [[Will|will]]
 not stop the infection. However it may make breathing easier and also stop
 spores entering your lungs directly, potentially slowing infection, which is why
 the [[Navarr]] take the field often with mouth coverings. Given time the miasma
 will seep in and envenom you anyway. You will need to be prepared. Make sure that you have anti-venoms to remove the effects where you can but in the
 miasma they will return. If possible do not engage within the miasma.
 
-Once you have left an area of Vallorn infestation get yourself checked by a
+Once you have left an area of [[Vallorn]] infestation get yourself checked by a
 physik for Green Lung, it is a fatal condition as the miasma attacks the lungs. It
 can be cured by drinking an infusion of [[Bladeroot]] but in advanced cases [[Spring]]
 [[Magic|magic]] such as the [[Blood of the Hydra]] would be needed to regrow and restore
@@ -50,7 +50,7 @@ venoms.
 
 **Fighting Vallornspawn**
 Vallorn husks are resilient, the plant life that puppets them regenerating
-quickly so even if a husk is chopped down they will get back up. The main way to [[Combat|combat]] this effect is to use venomous attacks through blade venoms, magic weapons or battle magic. For the average husk hitting them only once in such a manner will be enough to see them defeated for good.
+quickly so even if a husk is chopped down they will get back up. The main way to [[Combat|combat]] this effect is to use venomous attacks through blade venoms, [[Magic|magic]] weapons or battle [[Magic|magic]]. For the average husk hitting them only once in such a manner will be enough to see them defeated for good.
 
 Dryads also need to be envenomed to disable their ability to regenerate but
 they will also need to be cut down, their bodies being hardier than average husks.
@@ -67,41 +67,41 @@ Should the worst happen and one of you fall then the body must be retrieved for 
 
 **Items That Aid in the [[Fight]]**
 
-There are several items that are of use in the fight against the Vallorn that people should familiarise themselves with to aid in their battle preparations:
+There are several items that are of use in the [[Fight|fight]] against the Vallorn that people should familiarise themselves with to aid in their battle preparations:
 
 *[[Imperial Roseweald]]* - This [[Herb|herb]] allows a trained physic to remove the effects of venoms. This is of obvious use in removing the effects of a Vallorn miasma. However, within a miasma you will suffer re-infection.
 
 *[[Bloodharrow Philtre]]* - This is an [[Apothecary|apothecary]] [[Potion|potion]] that you can drink that will have the same effects as [[Imperial Roseweald]] administered by a physic. This is a very useful [[Potion|potion]] to carry with you. This can be recognised as follows - This translucent red liquid has tiny white particles suspended in it. It has a spicy scent, and a tiny amount on your tongue or your finger tingles unpleasantly for a moment.
 
-*Maledict's Medicament* - This is an apothecary potion that you can drink that removes the effects of venoms mundane and magical as well as effects that will weaken you. It is a deep crimson liquid has a thin layer of scummy froth atop it. It smells unpleasant and has an oily texture. A drop on your tongue makes you salivate - it is vile and you will feel a strong urge to spit the mixture out.
+*Maledict's Medicament* - This is an apothecary [[Potion|potion]] that you can drink that removes the effects of venoms mundane and magical as well as effects that will weaken you. It is a deep crimson liquid has a thin layer of scummy froth atop it. It smells unpleasant and has an oily texture. A drop on your tongue makes you salivate - it is vile and you will feel a strong urge to spit the mixture out.
 
-*[[The Sovereign]] Specific* - This is a wonderful potion that cures all ill effects
+*[[The Sovereign]] Specific* - This is a wonderful [[Potion|potion]] that cures all ill effects
 and as such if you have been injured and envenomed can save your life. It's a
 clear liquid that seems almost to sparkle when it is shaken or held up to the
 light. It smells fresh and a little minty. A drop on your tongue will reveal it to
 have a vibrant, pleasant taste.
 
-*[[Oil of Blackthorn]]* - This oil is a blade venom which you can coat a weapon
+*[[Oil of Blackthorn]]* - This oil is a blade [[Venom|venom]] which you can coat a weapon
 with. This will allow you to strike down a Vallorn Husk. Note that this dries
 quickly on [[The Blade|the blade]] and will only stay effective for 10 seconds.
 
 *[[Abraxus Stone]]* - This item has the sole purpose of protection against the
-Vallorn. When you are healed in any way venom is purged from your body.
+Vallorn. When you are healed in any way [[Venom|venom]] is purged from your body.
 Additionally, the item makes you immune to the effects of the Vallorn miasma.
 You can't catch Green Lung and should you fall to the Vallorn you will not rise
 as a Husk.
 
 *Scorpion's Stings & [[Barbed Spear]]* - These weapons allow those without
-magic to envenom their enemies.
+[[Magic|magic]] to envenom their enemies.
 
-*[[Singing Stones]]* - While the people of Navarr have only discovered one of these
+*[[Singing Stones]]* - While the people of [[Navarr]] have only discovered one of these
 stones its ability to bind multiple covens together to cast anti-Vallorn [[Rituals|rituals]] is
 priceless.
 
 **[[Rituals]] of Use in Fighting the Vallorn**
-The ritualists of [[The Empire|the Empire]] have a few rituals at their disposal for fighting the Vallorn and this number will hopefully grow given all we are learning of this vile threat.
+The ritualists of [[The Empire|the Empire]] have a few [[Rituals|rituals]] at their disposal for fighting the Vallorn and this number will hopefully grow given all we are learning of this vile threat.
 
-*[[Ascetic Star of Atun]]* - This [[Day]] [[Ritual|ritual]] allows a [[Magician|magician]] to cure venom from potentially a large number of people.
+*[[Ascetic Star of Atun]]* - This [[Day]] [[Ritual|ritual]] allows a [[Magician|magician]] to cure [[Venom|venom]] from potentially a large number of people.
 
 *[[Ward of the Black Waste]]* - This [[Winter ritual]] allows you to ward an area against the Vallorn. Any such creature of any size will be weakened within the ward allowing you to cut them down without them getting back up.
 
@@ -117,4 +117,4 @@ The ritualists of [[The Empire|the Empire]] have a few rituals at their disposal
 
 *[[Wither the Seed|Wither The Seed]] and The Arc of Skuld* - While placing Winter curses on a territory is highly inadvisable the nature of Winter will slow the progress of the overwhelming [[Spring magic]] that is the Vallorn. [[Wither the Seed|Wither The Seed]] and the [[Thule]] ritual Arc of Skuld are two means to this end but should be only used in the direst of circumstances.
 
-There is currently no codified way to reverse the effects of Wither The Seed but the people of Navarr are currently working on solutions, especially to [[Combat|combat]] the blight placed on Broceliande.
+There is currently no codified way to reverse the effects of [[Wither the Seed|Wither The Seed]] but the people of [[Navarr]] are currently working on solutions, especially to [[Combat|combat]] the blight placed on Broceliande.

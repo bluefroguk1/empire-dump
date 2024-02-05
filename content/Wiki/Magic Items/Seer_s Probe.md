@@ -14,7 +14,7 @@ The wand is of most use to investigators and scholars, who enhance their persona
 ## Rules
 Wands
 * Effect: Three times each day you can cast [[Detect Magic]] or [[Voice for the Dead]] as if you know them and without spending any mana.
-* [[Materials]]: Crafting a [[Seer]]'s Probe requires three measures of iridescent gloaming, five ingots of tempest jade, nine ingots of weltsilver, and three measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Seer]]'s Probe requires three measures of [[Iridescent gloaming|iridescent gloaming]], five ingots of tempest jade, nine ingots of weltsilver, and three measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
 “I'm so cold, captain, .. I..I can't feel my legs.  I think I must be done for.”
 “Nonsense, lass.  The surgeons are working on you now, the best money can buy.  You'll be right as thronepence in no time.  But I need you to concentrate now, and tell me how many enemy warriors there were in the pass.  Hmm?  Can you do that for your old Captain?”
 “It's hard...hard to remember.  I can't see anything, Captain.  Why can't I see anything?”

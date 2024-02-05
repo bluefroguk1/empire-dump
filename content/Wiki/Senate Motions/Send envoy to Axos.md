@@ -26,5 +26,5 @@ To send an envoy to [[Axos]] to attempt to initiate diplomatic relations and att
 * The [[Senate]] has not chosen to assign any money to support this position.
 ### [[Campaign outcome|Campaign Outcome]]
 * It is unclear who has been appointed to this position.
-The civil service can provided the individual appointed with the name of a known contact in Axos so that they may initiate communication with them via Winged Messenger.
+The civil service can provided the individual appointed with the name of a known contact in [[Axos]] so that they may initiate communication with them via Winged Messenger.
 __NOTOC__

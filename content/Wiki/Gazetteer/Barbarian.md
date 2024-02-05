@@ -9,10 +9,10 @@ revision_id: 106264
 
 ## Overview
 [[Barbarians]] are people that are not part of [[The Empire|the Empire]], that [[The Empire|the Empire]] is currently at [[War|war]] with.
-There are several distinct [[Barbarian|barbarian]] powers which represent hostile nations. The barbarians are designed to look cool in massive numbers in [[Battles|battles]]; to provide immersive, exciting and dramatic [[Combat|combat]] encounters; and to allow a range of interactions outside of [[Combat|combat]]. Most of the [[Barbarian|barbarian]] powers that currently surround the Empire are orcs. 
-Players are not able to play barbarian [[Characters|characters]] - by definition, they are not welcome on the playing field, however everyone has the [[Opportunity|opportunity]] to play a barbarian by volunteering to monster a battle or quest.
+There are several distinct [[Barbarian|barbarian]] powers which represent hostile nations. The barbarians are designed to look cool in massive numbers in [[Battles|battles]]; to provide immersive, exciting and dramatic [[Combat|combat]] encounters; and to allow a range of interactions outside of [[Combat|combat]]. Most of the [[Barbarian|barbarian]] powers that currently surround [[The Empire|the Empire]] are orcs. 
+Players are not able to play [[Barbarian|barbarian]] [[Characters|characters]] - by definition, they are not welcome on the playing field, however everyone has the [[Opportunity|opportunity]] to play a [[Barbarian|barbarian]] by volunteering to monster a battle or quest.
 ## The Orcs
-There are a large number of scattered [[Groups|groups]] of orcs, but three of [[The Nations|the nations]] neighbouring the Empire are large enough that they are considered threats to the Empire.
+There are a large number of scattered [[Groups|groups]] of orcs, but three of [[The Nations|the nations]] neighbouring [[The Empire|the Empire]] are large enough that they are considered threats to [[The Empire|the Empire]].
 * The [[Jotun]] are warlike but honourable, and occupy a large swathe of land to the west of [[Wintermark]] and [[The Marches]].
 * The [[Druj]] are a comparatively small nation that uses fear to exert influence over a number of smaller orc nations. They are found in the swamps and forests to the east of [[Dawn]] and [[Highguard]] and known for their treachery and their love of terror-tactics.
 * The [[Grendel]] are a sea-faring nation with a love for wealth and power. They hail from Attar and the Broken Shore, lands to the south and east of the [[Bay of Catazar]].

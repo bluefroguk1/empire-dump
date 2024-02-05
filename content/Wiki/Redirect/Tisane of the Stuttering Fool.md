@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tisane of the Stuttering Fool
 aliases: ['Tisane_of_the_Stuttering_Fool']

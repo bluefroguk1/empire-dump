@@ -17,4 +17,4 @@ Proposal for the disbursement of funds for resupply of Imperial ArmiesProposed b
 ### Date
 * [[Autumn]] 380YE
 ### Progress
-* 115 thrones 4 crowns disbursed to [[Senator]] Feroz
+* 115 thrones 4 crowns disbursed to [[Senator]] [[Feroz]]

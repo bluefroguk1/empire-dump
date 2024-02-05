@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Profound Decisions management team
 aliases: ['Profound_Decisions_management_team']
 draft: False

@@ -21,7 +21,7 @@ While [[The Military|the military]] unit is [[Enchanted|enchanted]] the characte
 Season Duration
 [[Downtime]] buff
 ### Additional Targets
-This ritual can affect additional military units controlled by members of the same [[Banner|banner]]. Each additional military unit increases the magnitude by 6. The character who controls each unit must be present throughout the ritual.
+This ritual can affect additional military units controlled by members of the same [[Banner|banner]]. Each additional [[Military unit|military unit]] increases the magnitude by 6. The character who controls each unit must be present throughout the ritual.
 ## Description
 TBC
 ## Common Elements

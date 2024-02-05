@@ -28,19 +28,19 @@ The "Grain Side" is the hair side of the animal and is most commonly used for ca
 Right - lets dive right in - first I cut the leather to the area of the face I wanted to cover. It is a good idea to measure the face first and add the extra leather for the nose. Add a little extra for contingency. 
 600px|thumb|left|Leather cut to shape 
 The first step is to soak the leather. When you moisten leather the fibres swell and soften. This makes the perfect mix for moulding leather. I put 
-the leather into bowl of water flesh side up, waited for the air bubbles to  form on the flesh side -  when the last air bubbles leave the leather it will be ready. 
+the leather into bowl of water flesh side up, waited for the air bubbles to  form on the flesh side -  when the last air bubbles leave the leather it [[Will|will]] be ready. 
 ### Tip: It can take some time for the bubbles to leave, so tap the leather gently (whilst in the water) and if no new bubbles form after a few minutes then it's ready.
 600px|thumb|left|Soaking the leather 
 I took the leather and put it on the face of the person the mask is for. You can also use a plaster face or even a polystyrene one but the real thing is better. 
 600px|thumb|left 
-I moulded the mask to the face by stretching the leather This can be done by kneading the leather with your thumbs. As it dries it will retain its shape, and the thicker the leather the more time it takes. This can take a long time and a lot of patience, but remember that but every time you apply direct heat to leather you run the risk of it warping or cracking. To speed up the process, as I had to hold the leather in place 
+I moulded the mask to the face by stretching the leather This can be done by kneading the leather with your thumbs. As it dries it [[Will|will]] retain its shape, and the thicker the leather the more time it takes. This can take a long time and a lot of patience, but remember that but every time you apply direct heat to leather you run the risk of it warping or cracking. To speed up the process, as I had to hold the leather in place 
 until it was fairly dry, you can put it in an area with warm circulating air, like an airing cupboard. If you're short of time, very gentle heat with a hairdryer can work, but it can risk damaging your leather. 
 Once the leather is fairly dry I finished it moulding it with my fingers. I aided this process by wetting small areas like the eye sockets and stretching 
 the leather further. 
 Once I was happy with the shape, I put it in the oven at its minimum settings, and waited until the leather was starting to get fairly rigid.
 ### Note from the art team
 While Gary had good results from this, in our experience ovens are so variable that you can risk damaging the leather irreversibly by baking it. We would suggest air drying in a warm, well ventilated area as a safer and more reliable alternative.
-If you can put the mask on a former like a plaster face or even just draped over a tin this will help to the mask to keep it shape as it hardens.
+If you can put the mask on a former like a plaster face or even just draped over a tin this [[Will|will]] help to the mask to keep it shape as it hardens.
 ## After Baking
 600px|thumb|left 
 I trimmed the mask to the required shape - this took a while to get right and I spent extra time making sure the eyes holes were in the right place. 

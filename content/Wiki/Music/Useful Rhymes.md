@@ -20,13 +20,13 @@ These rhymes are spoken all over [[The Empire|the Empire]] and often nations hav
 [[Ambition]] to make this the best life you've had
 [[Vigilance]] always, and seeing things true
 Empire's future depends upon you.
-Pride - know the great stuff your nation has done.
-Prosperity - help everybody have fun
-Wisdom - your words should be clever, but brief
-Courage - strong heart kicks an orc inna teef.
-Loyalty - keep to your [[Family|family]] strong
-Ambition - keep going, you'll never go wrong.
-Vigilance - keep your friends faithful and true.
+[[Pride]] - know the great stuff your nation has done.
+[[Prosperity]] - help everybody have fun
+[[Wisdom]] - your words should be clever, but brief
+[[Courage]] - strong heart kicks an orc inna teef.
+[[Loyalty]] - keep to your [[Family|family]] strong
+[[Ambition]] - keep going, you'll never go wrong.
+[[Vigilance]] - keep your friends faithful and true.
 Empire's future depends upon you.
 ### Nation Rhymes
 Here is Varuskha, who keep to the light,

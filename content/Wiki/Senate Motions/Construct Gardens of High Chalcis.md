@@ -11,13 +11,13 @@ revision_id: 86722
 __NOTOC__
 I, Rhesa, [[Exarch]] of the Scions of Ravensfell and [[Highguard]] [[Civilian Commissioner]], [[Will|will]] this season be commissioning the rebuilding of the [[Gardens of High Chalcis]] in Chalcis Mount in [[Reikos]].
 It [[Will|will]] [[Cost|cost]] 80 wains of [[Weirwood|weirwood]] and produce 120 [[Herbs|herbs]], and increase the [[Prosperity|prosperity]] of [[Reikos]].
-It will be overseen by the Master Botanist of High Chalcis. The position will be appointed by the [[Highguard]] Senators and can be revoked by the Highguard national [[Assembly|assembly]], [[General|general]] [[Assembly|assembly]], or assembly of nine.
-Approved by the [[Civilian Commissioner]] of Highguard
+It [[Will|will]] be overseen by the Master Botanist of High Chalcis. The position [[Will|will]] be appointed by the [[Highguard]] Senators and can be revoked by the [[Highguard]] national [[Assembly|assembly]], [[General|general]] [[Assembly|assembly]], or [[Assembly|assembly]] of nine.
+Approved by the [[Civilian Commissioner]] of [[Highguard]]
 __NOTOC__
 ### Overview
-* A [[Great work]] in Reikos to take advantage of the [[Opportunity|opportunity]] that presented itself after the reclaiming of the [[Territory|territory]]
-* This motion was approved by the Civilian Commissioner of Highguard using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
-* The [[Great work|great work]] will provide a bounty of 120 herbs spread amongst those citizens of Reikos who own [[Herb|herb]] gardens each season, following attendance at the [[Anvil]] Summit
+* A [[Great work]] in [[Reikos]] to take advantage of the [[Opportunity|opportunity]] that presented itself after the reclaiming of the [[Territory|territory]]
+* This motion was approved by the [[Civilian Commissioner]] of [[Highguard]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* The [[Great work|great work]] [[Will|will]] provide a bounty of 120 herbs spread amongst those citizens of [[Reikos]] who own [[Herb|herb]] gardens each season, following attendance at the [[Anvil]] Summit
 ### Date
 * [[Summer]] 380YE
 ### [[Cost]]
@@ -25,9 +25,9 @@ __NOTOC__
 * 6 months to construct
 ### Progress
 * 50 wains of weirwod and 100 crowns provided by Rhesa, Exarch of Ravensfell after Summer Solstice 380YE.
-* 30 wains of weirwood and 60 crowns provided by Rhesa, Exarch of Ravensfell after [[Autumn]] Equinox 380YE.
+* 30 wains of [[Weirwood|weirwood]] and 60 crowns provided by Rhesa, Exarch of Ravensfell after [[Autumn]] Equinox 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* Once complete, this great work will create the ceremonial title of Master Botanist of High Chalcis.
+* Once complete, this [[Great work|great work]] will create the ceremonial title of Master Botanist of High Chalcis.
 * The [[Gardens of High Chalcis]] were completed shortly before the [[Winter]] Solstice 380YE.
 ### Constitution
-The title of Master Botanist of High Chalics was the subject of extensive [[Scrutiny]] and the final decision was that the title could not be created as this was not a power available to a Civilian Commissioner. The [[Senator]] for Reikos would be responsible for dealing with any threats or decisions regarding a great work in their territory.
+The title of Master Botanist of High Chalics was the subject of extensive [[Scrutiny]] and the final decision was that the title could not be created as this was not a power available to a [[Civilian Commissioner]]. The [[Senator]] for [[Reikos]] would be responsible for dealing with any threats or decisions regarding a [[Great work|great work]] in their territory.

@@ -18,15 +18,15 @@ Four little plough boys marching off to  [[War|war]]
 Pitchforks boldly held before
 One forgot his  pouch and one forgot his sack
 Four little ploughboys had to march right back 
-Three  little ploughboys marching off to war
+Three  little ploughboys marching off to [[War|war]]
 Pitchforks boldly held before
 One forgot his ink and one forgot his pen 
 Three little ploughboys turned around again
-Two little ploughboys marching off to war
+Two little ploughboys marching off to [[War|war]]
 Pitchforks boldly held before
 One forgot his hawk and one forgot his hound
 Two little ploughboys had to turn around
-One little ploughboy marching off to war
+One little ploughboy marching off to [[War|war]]
 Pitchfork boldly held before
 'Now it's getting dark come in,' his mummy said
 One little plough boy went home to his bed

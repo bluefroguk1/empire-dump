@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Assignment of The Brilliant Shore
 aliases: ['Assignment_of_The_Brilliant_Shore']

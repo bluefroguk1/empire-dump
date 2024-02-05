@@ -11,7 +11,7 @@ revision_id: 86058
 __NOTOC__
 To authorise the [[Ambassador to the Iron Confederacy]] to invite the Duke Guiscard of the [[Iron Confederacy]] to send his forces into [[Feroz]] to deal with the [[Iron Confederacy]] rebels, and then immediately withdraw.Proposed by [[Feroz]], seconded by [[Upwold]].
 ### Overview
-* The [[Ambassador]] to the Iron Confederacy has been authorized by the [[Imperial Senate]] to invite Duke Guiscard of Kalino to send troops into Feroz.
+* The [[Ambassador]] to the [[Iron Confederacy]] has been authorized by the [[Imperial Senate]] to invite Duke Guiscard of Kalino to send troops into [[Feroz]].
 * Passed
 ### Date
 * [[Winter]] 381YE

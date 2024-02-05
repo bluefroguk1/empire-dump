@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Assemblies of the Synod
 aliases: ['The_Assemblies_of_the_Synod']

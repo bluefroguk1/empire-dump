@@ -18,5 +18,5 @@ That [[The Senate|the Senate]] grant funding to provide resources to [[The Acade
 ### [[Cost]]
 * 5 Thrones
 ### Progress
-* Complete; and funds were disbursed to Simiel of the Shattered Tower, the [[Senator]] for Bastion.
+* Complete; and funds were disbursed to Simiel of the Shattered Tower, the [[Senator]] for [[Bastion]].
 __NOTOC__

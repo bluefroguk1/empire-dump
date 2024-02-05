@@ -21,15 +21,15 @@ As to [[War|war]] we go
 Those we love and [[Ties that Bind|ties that bind]] us
 Onward through the snow
 Foul enchantments cannot charm us
-As to war we go
+As to [[War|war]] we go
 Nor can [[Curse|curse]] or witchcraft harm us
 Onward through the snow
 At our footfall all shall fear us
-As to war we go
+As to [[War|war]] we go
 Foes [[Will|will]] quail to venture near us
 Onward through the snow
 If I fall upon the [[Morrow|morrow]]
-As to war we go
+As to [[War|war]] we go
 Raise a cup for me in sorrow
 Onward through the snow
 Though cruel death may yet divide us

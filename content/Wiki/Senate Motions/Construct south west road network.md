@@ -22,6 +22,6 @@ A road network connecting Anduz to [[Tassato]], partly self-funded.''Proposed by
 ## Progress
 * 20 thrones provided by Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after [[Winter]] Solstice 381YE.
 * 20 wains of [[White granite|white granite]] provided by Qusay i Kalamar i [[Guerra]] after Winter Solstice 381YE.
-* 60 wains of white granite provided by Qusay i Kalamar i [[Guerra]] after [[Spring]] Equinox 381YE.
+* 60 wains of [[White granite|white granite]] provided by Qusay i Kalamar i [[Guerra]] after [[Spring]] Equinox 381YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * When completed this [[Great work|great work]] [[Will|will]] increase income of farms and businesses in the territories of [[Segura]] and [[Madruga]].

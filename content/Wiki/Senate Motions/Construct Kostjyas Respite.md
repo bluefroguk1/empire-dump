@@ -24,11 +24,11 @@ I am Kostjya of Cabal Lyktan and the Wulfen Reavers, holder of an Imperial Wayle
 ## Progress
 CommissionProgress|Kostjyas_Respite
 ## Outcome
-* Establishes a port town in Ossium, on the shores of [[The Semmerlak]], named ''Kostjyas Respite''. 
+* Establishes a port town in [[Ossium]], on the shores of [[The Semmerlak]], named ''Kostjyas Respite''. 
 * The [[Opportunity|opportunity]] specifies the town [[Will|will]] occupy the same cove that the [[Druj]] launched rafts from to attack [[Semmerholm]] during the reign of [[Empress Varkula]]
-* Once completed, the port on the Bittershore will remove the under-developed quality from the region of Bittershore
-* It will also create an [[Imperial Title|Imperial title]] - ''Merchant-[[Boyar|boyar]] of Bittershore''
+* Once completed, the port on the Bittershore [[Will|will]] remove the under-developed quality from the region of Bittershore
+* It [[Will|will]] also create an [[Imperial Title|Imperial title]] - ''Merchant-[[Boyar|boyar]] of Bittershore''
 * The well worn path to elect such a title would be either [[Appointment by the Senate|appointment by the Senate]] or through [[The Bourse|the Bourse]] via [[Tally of the Votes]], as decided by the bearer of the Imperial Wayleave 
 * The title would serve for a year, receive access to a [[Ministry|ministry]] allowing the purchase or measures, [[Herbs|herbs]] and mana crystals, and have responsibility for ensuring the [[Prosperity|prosperity]] of the new port.
-* ''Kostjyas Respite'' will increase the taxation to the [[Imperial treasury]] by 20 Thrones per season, spread between the territories on the Semmerlak.
-* The new port town will create new [[Opportunities|opportunities]] once work was complete. Options will be presented to expand the docks at Lacre in [[Semmerholm]]; at Korotny in [[Karov]]; and at Ivarsgard in [[Karsk]]. There would even be a possibility to create a similar dock in Misericorde or Utterlund, allowing the wealth of [[Holberg]] to spread across the Semmerlak.
+* ''Kostjyas Respite'' [[Will|will]] increase the taxation to the [[Imperial treasury]] by 20 Thrones per season, spread between the territories on [[The Semmerlak|the Semmerlak]].
+* The new port town will create new [[Opportunities|opportunities]] once work was complete. Options will be presented to expand the docks at Lacre in [[Semmerholm]]; at Korotny in [[Karov]]; and at Ivarsgard in [[Karsk]]. There would even be a possibility to create a similar dock in Misericorde or Utterlund, allowing the wealth of [[Holberg]] to spread across [[The Semmerlak|the Semmerlak]].

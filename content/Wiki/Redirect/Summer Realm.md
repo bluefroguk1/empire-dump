@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Summer Realm
 aliases: ['Summer_Realm']

@@ -12,7 +12,7 @@ The world of Empire is known to touch six other planes of existence. These are h
 Eternals have distinct personalities, but most respond positively to mortals who demonstrate personality traits in keeping with those  common to the [[Lineage]] associated with their [[Realm|realm]].
 The [[Imperial Conclave]] has the power to set the status of various Eternals with regards to [[The Empire|the Empire]] via a [[Declaration]] of [[Alignment]]. A list of the current status of all Eternals can be found here.
 ### Eternals Interested in [[The Empire|the Empire]]
-This list of eternals is not exhaustive; rather it lists some of those beings who have shown a special interest in the Empire since its formation.
+This list of eternals is not exhaustive; rather it lists some of those beings who have shown a special interest in [[The Empire|the Empire]] since its formation.
 Anchor|Eternals of [[Spring]]
 {|
 ! scope="col" style="width: 320px;" | [[Eternal]] of Spring
@@ -35,7 +35,7 @@ The creature known as Capradan, the Horned Hunter, is a being of the [[Spring Re
 Anchor|Eternals of [[Summer]]
 {|
 |-
-! scope="col" style="width: 320px;" | Eternal of Summer
+! scope="col" style="width: 320px;" | [[Eternal]] of Summer
 ! Concerns
 |-
 |Eleonaris, Queen of [[The Fields of Glory|the Fields of Glory]]
@@ -57,7 +57,7 @@ Anchor|Eternals of [[Summer]]
 |Magic, [[Enchantment|enchantment]]
 |
 |-
-|Rhianos, Regent of the Eternal sea
+|Rhianos, Regent of the [[Eternal]] sea
 |The sea, seafarers, [[Adventure|adventure]]
 |
 |-
@@ -67,7 +67,7 @@ Anchor|Eternals of [[Summer]]
 Anchor|Eternals of [[Autumn]]
 {|
 |-
-! scope="col" style="width: 320px;" | Eternal of Autumn
+! scope="col" style="width: 320px;" | [[Eternal]] of Autumn
 ! Concerns
 |-
 |The [[Lictors]], the Chainbound

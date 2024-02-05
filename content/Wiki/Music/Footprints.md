@@ -16,6 +16,6 @@ You leave [[Footprints|footprints]] in the snow - - -
 On [[The Battlefield|the battlefield]], midst the hue and cry - - - 
 You looked death in the face and were not afraid to die - - - 
 In the Labyrinth, you know where to turn - - - 
-Footprints that you made in life [[Will|will]] [[Guide|guide]] your return. - - -
+[[Footprints]] that you made in life [[Will|will]] [[Guide|guide]] your return. - - -
 Oh - - - - -, wherever you go - - - -
-You leave footprints in the snow - - -
+You leave [[Footprints|footprints]] in the snow - - -

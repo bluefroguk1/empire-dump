@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: El oficial de enlace imperial con los sacerdotes de Balo y el toro negro
 aliases: ['El_oficial_de_enlace_imperial_con_los_sacerdotes_de_Balo_y_el_toro_negro']

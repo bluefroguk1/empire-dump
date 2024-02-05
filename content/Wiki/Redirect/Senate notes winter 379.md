@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Senate notes winter 379
 aliases: ['Senate_notes_winter_379']

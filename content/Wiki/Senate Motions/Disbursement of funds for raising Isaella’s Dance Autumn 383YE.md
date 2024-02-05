@@ -14,7 +14,7 @@ It is half-complete through self-funding, and if [[The Senate|the Senate]] is wi
 A request to disburse funds starting at 300 thrones going up in 50 [[Throne|throne]] increments.
 ''Proposed by [[Hercynia]], seconded by [[Miaren]].''
 ## Overview
-* This followed on from a previous motion to raise a third Navarr army
+* This followed on from a previous motion to raise a third [[Navarr]] army
 * Passed at 300 thrones
 ## Date
 * [[Autumn]] 383YE

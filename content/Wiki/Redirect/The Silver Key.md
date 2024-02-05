@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Silver Key
 aliases: ['The_Silver_Key']

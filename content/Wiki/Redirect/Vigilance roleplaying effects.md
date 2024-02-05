@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Vigilance roleplaying effects
 aliases: ['Vigilance_roleplaying_effects']

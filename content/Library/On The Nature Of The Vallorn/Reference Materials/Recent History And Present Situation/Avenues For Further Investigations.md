@@ -18,21 +18,21 @@ Other locations within [[The Empire|the Empire]] that are [[Worth|worth]] consid
 
 **Historical Figures**
 
-In the Historical Treaties compiled by Morfran Ravenswatch in 172YE other historical figures are mentioned that could be researched One is Pyre Blackroot whose diaries spoke of the life of [[Navarr]] including tales of his grandmother, Niyril of Hercyniand who took on the name Nightshade when she became an early member of the nation of [[Navarr]]. Another is [[General]] Brawdwr Gryphonstand and his army the Bronze Gryphon, it is said that the [[General]] met Navarr herself. Finally, the ancient Firstdance [[Striding|striding]], especially their early [[History|history]] and the lives of Ffion and Enthis (and her partner Prys)
+In the Historical Treaties compiled by Morfran Ravenswatch in 172YE other historical figures are mentioned that could be researched One is Pyre Blackroot whose diaries spoke of the life of [[Navarr]] including tales of his grandmother, Niyril of Hercyniand who took on the name Nightshade when she became an early member of the nation of [[Navarr]]. Another is [[General]] Brawdwr Gryphonstand and his army the Bronze Gryphon, it is said that the [[General]] met [[Navarr]] herself. Finally, the ancient Firstdance [[Striding|striding]], especially their early [[History|history]] and the lives of Ffion and Enthis (and her partner Prys)
 
 **STORIES OF STAR**
 
-There are stories of Star, the compatriot of Navarr and [[Thorn]], that have yet to be widely shared. The people who are likely most knowledgeable of these tales are the now freed Artisans of Treji, in particular Eirwen Stones Rest if she could be found.
+There are stories of Star, the compatriot of [[Navarr]] and [[Thorn]], that have yet to be widely shared. The people who are likely most knowledgeable of these tales are the now freed Artisans of Treji, in particular Eirwen Stones Rest if she could be found.
 
 **MORE INFORMATION ON [[Abraxus Stones|ABRAXUS STONES]]**
 
-Following the historical research into [[Abraxus]] Stones there are still two routes of further investigation that could be explored. Firstly, the material components used in the creation of the Sarcophan variant of the talisman. This information could be potentially procured through diplomatic relations with the [[Sarcophan Delves]].
+Following the [[Historical research|historical research]] into [[Abraxus]] Stones there are still two routes of further investigation that could be explored. Firstly, the material components used in the creation of the Sarcophan variant of the talisman. This information could be potentially procured through diplomatic relations with the [[Sarcophan Delves]].
 
-Secondly, the talisman known as the Swan's Chalice. Discussions with the [[Ylenrith]] could yield more information on the [[Eternal|eternal]]'s involvement in not only that particular [[Abraxus Stone]] but the nature of the talismans in general.
+Secondly, the talisman known as the Swan's Chalice. Discussions with the [[Ylenrith]] could yield more information on the [[Eternal|eternal]]'s involvement in not only that particular [[Abraxus Stone]] but the nature of the talismans in [[General|general]].
 
 **QUESTIONS FOR [[Leviathan|LEVIATHAN]]**
 
-The [[Ritual|ritual]] Swim Leviathan's Depths is a very valuable [[Resource|resource]] in discovering information about the past, however the questions asked during the casting should be kept very precise and in accordance with the wording of the ritual itself. Some potential questions to ask include:
+The [[Ritual|ritual]] Swim [[Leviathan]]'s Depths is a very valuable [[Resource|resource]] in discovering information about the past, however the questions asked during the casting should be kept very precise and in accordance with the wording of the ritual itself. Some potential questions to ask include:
 
 *"Why did the Terun unravel the [[Trods|trods]]?"*
 
@@ -40,7 +40,7 @@ It is probable that the people of Terunael saw what they had created with their 
 
 *"Why did all eight Terunael cities feel sufficiently threated at the same time to enact the Great Ritual?"*
 
-The cities of Terunael were widespread, they spanned not only the Empire as we know it today but into lands beyond. It begs the question how and why all eight of the cities chose to enact the Great Ritual at the same time. Evidence we have so far suggests that the cities came to their own decisions over whether it was time or not to put their plan into action or not.
+The cities of Terunael were widespread, they spanned not only [[The Empire|the Empire]] as we know it today but into lands beyond. It begs the question how and why all eight of the cities chose to enact the Great Ritual at the same time. Evidence we have so far suggests that the cities came to their own decisions over whether it was time or not to put their plan into action or not.
 
 Did the decision of one city force the hands of the others or were they all feeling sufficiently overwhelmed at the same time? It's possible that by asking these questions we can paint a better picture of the Terun cities in those moments before the Fall.
 
@@ -50,25 +50,25 @@ We know that [[Emperor Nicovar]] was exacting in his destruction of information,
 
 *"Why are the people of [[Tsark]] so secretive?"*
 
-There is a lot that we do not know about the [[Mountains of the Moon]] and the people of [[Tsark]] that perhaps could be learned through diplomatic effort. It may prove difficult due to their insular nature however. I cannot help but wonder what caused them to be closed off. This is of particular interest to me as the trail of Terunael refugees from Kaban leads through Axos and into the Mountains.
+There is a lot that we do not know about the [[Mountains of the Moon]] and the people of [[Tsark]] that perhaps could be learned through diplomatic effort. It may prove difficult due to their insular nature however. I cannot help but wonder what caused them to be closed off. This is of particular interest to me as the trail of Terunael refugees from Kaban leads through [[Axos]] and into the Mountains.
 
 ### THE [[Assistance|ASSISTANCE]] OF OTHER ETERNALS
 
-Beyond the use of Swim Leviathan's Depths and speaking with Ylenrith about [[Abraxus Stones]] there are other eternals we could seek information from.
+Beyond the use of Swim [[Leviathan]]'s Depths and speaking with Ylenrith about [[Abraxus Stones]] there are other eternals we could seek information from.
 
 **[[Llofir]]**
 
-While the Empire turned its back on [[Llofir]]'s offers of aid in favour of fighting the eternal's presence in [[Reikos]] the eternal voiced its understanding that it cannot be both an ally and an enemy at the same time it could be one and then the other.
+While [[The Empire|the Empire]] turned its back on [[Llofir]]'s offers of aid in favour of fighting the [[Eternal|eternal]]'s presence in [[Reikos]] the [[Eternal|eternal]] voiced its understanding that it cannot be both an ally and an enemy at the same time it could be one and then the other.
 
-With some effort we could work to secure the information Llofir obtained while its heralds walked the trods and can discuss ways in which the eternal could aid us going forward.
+With some effort we could work to secure the information [[Llofir]] obtained while its heralds walked the trods and can discuss ways in which the [[Eternal|eternal]] could aid us going forward.
 
 **[[Kaela]]**
 
-Having voiced her dislike of the Vallorn it is possible that we could seek aid and advice from the eternal on how to end the Vallorn for good.
+Having voiced her dislike of [[The Vallorn|the Vallorn]] it is possible that we could seek aid and advice from the eternal on how to end the [[Vallorn]] for good.
 
 **[[Phaleron]]**
 
-It is very difficult, but not impossible, to obtain documents from [[The Celestial Library]] and it is possible it has more books that are relevant to Terunael and the Vallorn.
+It is very difficult, but not impossible, to obtain documents from [[The Celestial Library]] and it is possible it has more books that are relevant to Terunael and [[The Vallorn|the Vallorn]].
 
 **[[Roshanwe]]**
 
@@ -76,16 +76,16 @@ The eternal of discovery can be contacted through the [[Combing the Beach]] ritu
 
 ### DIPLOMATIC OPTIONS
 
-Terunael spread into lands beyond ours and as such there is information on the Vallorn and Terun civilisation outside our lands that could be procured through diplomatic effort.
+Terunael spread into lands beyond ours and as such there is information on the [[Vallorn]] and Terun civilisation outside our lands that could be procured through diplomatic effort.
 
-**Axos**
+**[[Axos]]**
 
 We have already received a good deal of information through our dealings with the Axou and have some research from them outstanding. If these positive interactions continue then we should be able to share information with increased trust and freedom.
 
 **The [[Thule]]**
 
-An arguably more difficult route to undertake however we have already secured some information from The [[Thule]] in the form of the [[Ritual Text of The Arc of Skuld|ritual text of the Arc of Skuld]]. The ritual details not only the people of Terunael and their actions but also what happened when a star fell upon the Vallorn. Should diplomatic relations continue on a good footing we could potentially learn more from the Dragons.
+An arguably more difficult route to undertake however we have already secured some information from The [[Thule]] in the form of the [[Ritual Text of The Arc of Skuld|ritual text of the Arc of Skuld]]. The ritual details not only the people of Terunael and their actions but also what happened when a star fell upon [[The Vallorn|the Vallorn]]. Should diplomatic relations continue on a good footing we could potentially learn more from the Dragons.
 
 **[[Ossium]] and The [[Great Forest Orcs]]**
 
-The only Vallorn heart we do not know the precise location of is that of Beantol Dol in [[The Mallum|the Mallum]]. While we can speculate on where it is we could get a better idea of the lay of the land from the people of the now [[Liberated|liberated]] [[Ossium]], or perhaps from the Great [[Forest]] Orcs who have in the past offered to map [[The Mallum|the Mallum]] for the Empire.
+The only [[Vallorn]] heart we do not know the precise location of is that of Beantol Dol in [[The Mallum|the Mallum]]. While we can speculate on where it is we could get a better idea of the lay of the land from the people of the now [[Liberated|liberated]] [[Ossium]], or perhaps from the Great [[Forest]] Orcs who have in the past offered to map [[The Mallum|the Mallum]] for [[The Empire|the Empire]].

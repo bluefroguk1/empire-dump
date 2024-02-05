@@ -12,7 +12,7 @@ There are various versions of this song that are suitable for several nations.
 This first acapella version ([http://m.youtube.com/watch?v=XAJSO35MYC8 [[Daddy Fox]], Muldoon' Picnic]) would be great for [[The Marches]] or [[Dawn]] whereas this version ([http://m.youtube.com/watch?v=_zCZ33FQE90 The Fox, Nickel Creek]) would be more suited to [[The League]] or [[The Brass Coast]] perhaps.
 A pdf of [[The Marches|the Marches]]/[[Dawn]] version can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/6/6c/[[Daddy Fox|Daddy_Fox]].pdf here]. 
 ---------
-[[Marches]]/Dawn version
+[[Marches]]/[[Dawn]] version
 1. [[Daddy Fox]] went out on a chilly [[Night|night]]
 With a ring tong dilly dong kyro me
 Prayed for the moon to give him light

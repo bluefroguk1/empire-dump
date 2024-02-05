@@ -14,4 +14,4 @@ A [[Radiant Orb|radiant orb]] is almost always highly polished to maintain a ref
 ## Rules
 Paraphernalia
 * Effect: Members of the coven who are performing a [[Day ritual]] they have mastered may use weltsilver in place of crystal mana. Every two measures of weltsilver spent count as one crystal mana.
-* [[Materials]]: Crafting a Radiant Orb requires seven ingots of tempest jade, four ingots of weltsilver and three measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Radiant Orb]] requires seven ingots of tempest jade, four ingots of weltsilver and three measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

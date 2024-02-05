@@ -15,4 +15,4 @@ Among the [[Freeborn]], by stark contrast, they are usually dyed a deep red or y
 ## Rules
 Vestments
 * Effect: You gain three ranks of fortitude.
-* [[Materials]]: Crafting an [[Alabaster Cerement|alabaster cerement]] requires seven measures of beggar's lye, six measures of ambergelt, and three measures of dragonbone. It takes one month to make one of these items.
+* [[Materials]]: Crafting an [[Alabaster Cerement|alabaster cerement]] requires seven measures of beggar's lye, six measures of [[Ambergelt|ambergelt]], and three measures of dragonbone. It takes one month to make one of these items.

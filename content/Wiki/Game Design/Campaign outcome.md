@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Campaign outcome
 aliases: ['Campaign_outcome']
 draft: False
@@ -18,13 +18,13 @@ RitualVictoryCasualties
 [[Knights of Glory]]+2000+2000
 [[Quickening Cold Meat]]+1000+1000
 * [[Rituals]] that increase the fighting strength of an army are added on first
-Some rituals increase [[The Military|the military]] fighting strength of an army, either for purposes of calculating victory, [[Casualties|casualties]], or both. If such a [[Ritual|ritual]] is in place, then this is the first modifier added.
-The table shows the rituals in [[Imperial lore|Imperial Lore]] with the modifiers they provide.
+Some [[Rituals|rituals]] increase [[The Military|the military]] fighting strength of an army, either for purposes of calculating victory, [[Casualties|casualties]], or both. If such a [[Ritual|ritual]] is in place, then this is the first modifier added.
+The table shows the [[Rituals|rituals]] in [[Imperial lore|Imperial Lore]] with the modifiers they provide.
 ## Military Units
 * [[Imperial armies]] benefit from having military units assigned to support them
 * A starting [[Military unit|military unit]] adds 100 fighting strength
 * The fighting strength for military units is added second
-The fighting strength of every [[Military unit|military unit]] that is assigned to support an army is added to the total military fighting strength for purposes of victory and inflicting casualties. A starting military unit has a fighting strength of 100. Each additional rank of improvement increases the fighting strength by 20.
+The fighting strength of every [[Military unit|military unit]] that is assigned to support an army is added to the total military fighting strength for purposes of victory and inflicting casualties. A starting [[Military unit|military unit]] has a fighting strength of 100. Each additional rank of improvement increases the fighting strength by 20.
 Military units do not suffer casualties like an army, they are always at full strength regardless of any campaigns they participate in.
 ## Orders
 TypeOrderVictoryCasualties
@@ -43,12 +43,12 @@ RitualCasualties
 [[Rivers Run Red]]+100%
 [[Rivers of Life]]-50%
 * Miscellaneous effects are applied at the same time as orders
-Other effects may influence the campaign and are applied at this time. Examples include the rituals [[Rivers Run Red]] and [[Rivers of Life]].
+Other effects may influence the campaign and are applied at this time. Examples include the [[Rituals|rituals]] [[Rivers Run Red]] and [[Rivers of Life]].
 ## [[Fortifications]]
 * Fortifications in a [[Territory|territory]] add their fighting strength to the side that controls them
 * A [[Fortification|fortification]] that isn't attacked adds its fighting strength only for calculating victory
 * A [[Fortification|fortification]] that is attacked adds its fighting strength for casualties and twice its strength for calculating victory
-A basic Fortification has a maximum of 3000 fighting strength, larger fortifications are stronger. If the region the fortification is in is not attacked, then whichever side controls it adds the strength of the fortification to their total but only for calculating victory. The fortification does not cause any casualties if it is not attacked.
+A basic [[Fortification]] has a maximum of 3000 fighting strength, larger fortifications are stronger. If the region the [[Fortification|fortification]] is in is not attacked, then whichever side controls it adds the strength of the [[Fortification|fortification]] to their total but only for calculating victory. The fortification does not cause any casualties if it is not attacked.
 If the region the fortification is in is attacked, then it adds its fighting strength to the total for causing casualties and adds twice its fighting strength to the total for the side that controls it for calculating victory.
 A fortification takes a share of casualties as if it were an army, but only if the region it is in is attacked. Any fortification that falls below 1000 fighting strength is destroyed, regardless of its size.
 ## Total Strength
@@ -68,8 +68,8 @@ If the victorious side includes some armies with attack orders and some armies w
 * An army inflicts 10% of its military fighting strength as casualties
 * Casualties are divided amongst the armies based on the orders submitted
 * Some orders and some rituals affect the number of casualties taken
-Both sides in a campaign will inflict casualties on each other. The total military fighting strength of each side is recalculated using only the modifiers that apply for causing casualties. The base figure for the total casualties inflicted is 10% of this score.
-If the enemy force includes more than one army, then the casualties are divided between the armies according to the orders submitted. Armies that submit attacking orders will take a greater share of the casualties than armies which are defending. The final ratios are based on a qualitative [[Judgement|judgement]] of the in-character description of the orders submitted.
+Both sides in a campaign [[Will|will]] inflict casualties on each other. The total military fighting strength of each side is recalculated using only the modifiers that apply for causing casualties. The base figure for the total casualties inflicted is 10% of this score.
+If the enemy force includes more than one army, then the casualties are divided between the armies according to the orders submitted. Armies that submit attacking orders [[Will|will]] take a greater share of the casualties than armies which are defending. The final ratios are based on a qualitative [[Judgement|judgement]] of the in-character description of the orders submitted.
 Casualties are then adjusted based on the orders submitted and the presence of any appropriate rituals. Modifiers to casualties are stated in percentage adjustments. All percentages are added together and then applied as a single adjustment to calculate the final total for the number of casualties incurred.
 The final casualties incurred are applied to each army, reducing its remaining fighting strength.
 ## Calculations
@@ -85,23 +85,23 @@ The fighting strength of any army that falls below 20% of its maximum value auto
 * [[Imperial army]] 2: 1500 fighting strength, Cautious Advance, supported by 40 military units
 * [[Barbarian]] army 1: 7500 fighting strength, Heroic Stand, [[Quickening Cold Meat]]
 * [[Barbarian]] army 2: 4000 fighting strength, Solid Defence
-* Barbarian army 3: 2000 fighting strength, Give Ground
-* Territory [[Curse]]: Rivers Run Red
+* [[Barbarian]] army 3: 2000 fighting strength, Give Ground
+* Territory [[Curse]]: [[Rivers Run Red]]
 ### Victory
-* Imperial army 1: 6200 ((3500 * 120%) + 2000)
-* Imperial army 2: 4400 ((1500 + 4000) * 80%)
-* Barbarian army 1: 10750 ((7500* 130%)+1000)
-* Barbarian army 2: 4000
+* [[Imperial army]] 1: 6200 ((3500 * 120%) + 2000)
+* [[Imperial army]] 2: 4400 ((1500 + 4000) * 80%)
+* [[Barbarian]] army 1: 10750 ((7500* 130%)+1000)
+* [[Barbarian]] army 2: 4000
 * Barbarian army 3: 1200 (2000 * 60%)
 The total Imperial fighting strength for purposes of victory is thus 10,600. The total barbarian total is 15,950. The [[Barbarians|barbarians]] win by 5350 - gaining 5 victory points. All of which are spent reducing casualties. The Imperial side do not gain any victory points.
 ### Casualties
-* Imperial army 1: 3500 fighting strength
+* [[Imperial army]] 1: 3500 fighting strength
 * Imperial army 2: 5500 fighting strength (1500 + 4000)
 * Barbarian army 1: 8500 fighting strength (7500 + 1000)
 * Barbarian army 2: 4000 fighting strength
 * Barbarian army 3: 2000 fighting strength
 The Imperial total is 9,000, so the baseline figure for casualties inflicted is 900. The Barbarian total is 14,500, so the baseline figure for their casualties inflicted is 1450.
-The plot team decide to split casualties evenly to the Imperials, inflicting 725 casualties to each attacking army. The casualties suffered by the barbarian forces are divided evenly between the barbarian armies. The effects of the orders and the Rivers Run Red ritual are then applied to find the final casualty figures.
+The plot team decide to split casualties evenly to the Imperials, inflicting 725 casualties to each attacking army. The casualties suffered by the barbarian forces are divided evenly between the barbarian armies. The effects of the orders and the [[Rivers Run Red]] ritual are then applied to find the final casualty figures.
 The victory points gained by the defending barbarians reduces their casualties by a further 5%.
 * Imperial army 1: 1595 (725 * 220%)
 * Imperial army 2: 1160 (725 * 160%)
@@ -113,12 +113,12 @@ The casualties suffered by Imperial army 2 are so severe that it falls below 100
 * Imperial army 1: 5000 fighting strength, Overwhelming Assault
 * Imperial army 2: 4000 fighting strength, Overwhelming assault  
 * Barbarian fortification: 3000 fighting strength
-* Territory [[Curse]]: Rivers of Life
+* Territory [[Curse]]: [[Rivers of Life]]
 ### Victory
 * Imperial army 1: 6000 (5000 * 120%)
 * Imperial army 2: 4800 (4000 * 120%)
 * Barbarian fortification: 6000 (3000 * 200%)
-The total Imperial fighting strength for purposes of victory is thus 10800. The total barbarian total is 6000. The Imperial forces win by 4800 - gaining 4 victory points. They will need to accrue 6 more victory points to take the fortification.
+The total Imperial fighting strength for purposes of victory is thus 10800. The total barbarian total is 6000. The Imperial forces win by 4800 - gaining 4 victory points. They [[Will|will]] need to accrue 6 more victory points to take the fortification.
 ### Casualties
 * Imperial army 1: 5000 fighting strength
 * Imperial army 2: 4000 fighting strength

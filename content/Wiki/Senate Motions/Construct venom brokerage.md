@@ -11,7 +11,7 @@ revision_id: 85799
 __NOTOC__
 To build a brokerage in [[Miaren]] for the acquisition of [[Herbs|herbs]], blade venoms, and Scorpion Stings. Appointed by Navarri Senators.''Proposed by [[Miaren]], seconded by [[Therunin]].''
 ## Overview
-* In response to an [[Opportunity|opportunity]] provided by the brokers of [[Navarr]] to build a brokerage in Miaren dedicated to providing tools to [[Fight|fight]] [[The Vallorn|the Vallorn]].
+* In response to an [[Opportunity|opportunity]] provided by the brokers of [[Navarr]] to build a brokerage in [[Miaren]] dedicated to providing tools to [[Fight|fight]] [[The Vallorn|the Vallorn]].
 * Passed.
 ## Date
 * [[Spring]] 382YE

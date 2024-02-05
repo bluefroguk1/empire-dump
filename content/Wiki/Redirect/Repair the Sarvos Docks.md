@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Repair the Sarvos Docks
 aliases: ['Repair_the_Sarvos_Docks']

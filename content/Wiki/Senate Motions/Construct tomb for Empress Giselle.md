@@ -14,7 +14,7 @@ This tomb [[Will|will]] have a position appointed by [[The League|the league]] n
 This position, [[Guardian]] of the Tombs, [[Will|will]] receive [[Liao|liao]] and votes in [[The Synod|the Synod]].
 Proposed by [[Temeschwar]], Seconded by [[Sarvos]]
 ### Overview
-* A [[Sinecure]] in Temeschwar
+* A [[Sinecure]] in [[Temeschwar]]
 * This motion dealt with the current controversy over the location of [[Empress Giselle]] detailed here
 * Passed
 ### Date
@@ -24,5 +24,5 @@ Proposed by [[Temeschwar]], Seconded by [[Sarvos]]
 ### Progress
 * 10 wains of [[White granite|white granite]] and 20 crowns provided by 
 ### [[Campaign outcome|Campaign Outcome]]
-* The sarcophagus of Empress Giselle has been moved to Temeschwar.
-* This [[Sinecure|sinecure]], once complete, will create [[The League|the League]] national title of Guardian of [[The Tomb|the Tomb]]
+* The sarcophagus of [[Empress Giselle]] has been moved to [[Temeschwar]].
+* This [[Sinecure|sinecure]], once complete, [[Will|will]] create [[The League|the League]] national title of Guardian of [[The Tomb|the Tomb]]

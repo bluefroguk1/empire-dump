@@ -40,10 +40,10 @@ See the 384YE [[Spring]] Equinox [[Winds of Fortune|winds of fortune]] and the w
 | [[Wintermark]] || 42
 |}
 ## [[Battles]]
-At the event we [[Will|will]] be running two large [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. Each of the two battles must have at least 104 and at most 111 force weight sent on it.
-We will update this page with the battle force weightings soon.
+At the event we [[Will|will]] be running two large [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles [[Will|will]] be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. Each of the two battles must have at least 104 and at most 111 force weight sent on it.
+We [[Will|will]] update this page with the battle force weightings soon.
 The [[Sentinel Gate]] opens at 11:00 am - regardless of whether anyone is ready or not! If you are playing then make sure you arrive in plenty of time before this so your weapons can be checked.
-If you are [[Monstering|monstering]] then you need to make your way to the monster area between 9:30 and 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed. If you turn up after 10:30 you will be turned away.
+If you are [[Monstering|monstering]] then you need to make your way to the monster area between 9:30 and 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed. If you turn up after 10:30 you [[Will|will]] be turned away.
 The winds of [[War|war]] now provide information about the battle [[Opportunities|opportunities]] at the forthcoming event.
 ## Dusk
 * For this event we are defining dusk as beginning at 20:50 and ending at 21:50
@@ -55,17 +55,17 @@ Toilet blocks are marked on the map with a T symbol. The main blocks are the one
 ## Site Map
 The site map is opposite; the [[Camp planner]] for each camp will have their own layout for their camp, showing where all the tents they know about are to be pitched. If you are bringing an IC tent, please make sure you contact your [[Camp planner|camp planner]] before the event to let them know what you are bringing. If you do not know where you are supposed to be camping, then please speak to the Camp planner on arrival at your nation's camp.
 ## [[Accessibility]] Camps
-The areas marked with a wheelchair are the out-of-character camps that are for use by participants with additional accessiblity needs. We have increased the size of the main [[Accessibility|accessibility]] camp opposite the Marcher camp this year to try to ensure that there is enough space for everyone. In addition we will try to manage the space to allow participants with accessibility needs who are not stopping on site to park here when they come and go each day. Please let the crew know if you need to camp or park here.
-There are five disabled toilet facilities, one near monster, one near each accessibility camp and one in the in-character area in the toilet blocks opposite Mhorish.
+The areas marked with a wheelchair are the out-of-character camps that are for use by participants with additional accessiblity needs. We have increased the size of the main [[Accessibility|accessibility]] camp opposite the Marcher camp this year to try to ensure that there is enough space for everyone. In addition we will try to manage the space to allow participants with [[Accessibility|accessibility]] needs who are not stopping on site to park here when they come and go each day. Please let the crew know if you need to camp or park here.
+There are five disabled toilet facilities, one near monster, one near each [[Accessibility|accessibility]] camp and one in the in-character area in the toilet blocks opposite Mhorish.
 ## Drop Off Point
 No vehicles are allowed on site after 6pm on Friday as [[The game|the game]] has started by this point. We have created a vehicle drop off point near the main entrance to [[The League|the League]] and [[Navarr]] camp. This is purely for vehicles that are not driving onto the site but wish to park as close to the entrance as possible so that they can unload from here. You must move your vehicle from the drop off point to the main camping/parking area once you have finished unloading your vehicle.
 ## [[Traders]]
 The following [[Traders|traders]] are already booked for the event. We anticipate that the majority of our traders who booked for the [[Autumn Equinox 2019]] will book for the Winter Solstice in the coming weeks. 
 * [http://www.chowsemporium.co.uk/ Chows Emporium] [[Costume]], leather gloves, products related to drinking and accessories.
-* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica costume and artefacts.
-* [https://www.facebook.com/Craeftigan1/?pnref=lhc Craeftigan] Beautiful weapons and costume that are perfect for Empire.
+* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica [[Costume|costume]] and artefacts.
+* [https://www.facebook.com/Craeftigan1/?pnref=lhc Craeftigan] Beautiful weapons and [[Costume|costume]] that are perfect for Empire.
 * [http://www.darkbladeuk.co.uk Darkblade] Leather Stuff.
-* [https://www.facebook.com/Das-Shoppe-649766365145562/ Das Shoppe] New and second hand costume, leatherwork, weapons, props and furniture. Trade ins welcome.
+* [https://www.facebook.com/Das-Shoppe-649766365145562/ Das Shoppe] New and second hand [[Costume|costume]], leatherwork, weapons, props and furniture. Trade ins welcome.
 * [http://www.eldritch.com/ Eldritch] Weapons and armour. 
 * Gem’s Trading Co - Costumes and leatherwork. Fine quality tailored garments and LRP props. Also a wide range of hand made leather items and missile weapons supplied by Arrow Kaster available to order.
 * Hardy & Sweet Weapons and LARP supplies

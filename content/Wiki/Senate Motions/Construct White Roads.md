@@ -24,4 +24,4 @@ To construct the White Roads of Virtue's Path in [[Bastion]], [[Necropolis]], an
 ## Progress
 CommissionProgress|White_Roads
 ## Outcome
-* Once complete the White Roads [[Will|will]] function as great works that increase the income of farms and businesses in the territories of Bastion, Necropolis, and Reikos
+* Once complete the White Roads [[Will|will]] function as great works that increase the income of farms and businesses in the territories of [[Bastion]], [[Necropolis]], and [[Reikos]]

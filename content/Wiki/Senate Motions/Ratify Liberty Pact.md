@@ -33,11 +33,11 @@ We agree to maintain positive working relationships with all signatory nations. 
 3.Abolition
 We agree to work towards the abolition of slavery throughout the entire world.
 ### Rights of Signatories
-We, the undersigned nations, agree that we will all be conferred the following rights -
+We, the undersigned nations, agree that we [[Will|will]] all be conferred the following rights -
 1. [[Assembly]]
-Any signatory nation may call a meeting of the pact's membership if they have an issue to discuss. Each nation will send at least one representative. Nations calling a meeting must give a minimum of one season's notice to the other signatories.
+Any signatory nation may call a meeting of the pact's membership if they have an issue to discuss. Each nation [[Will|will]] send at least one representative. Nations calling a meeting must give a minimum of one season's notice to the other signatories.
 2. Voting
-Any motion must be voted upon by all of the signatory nations in attendance at that meeting. Motions require a majority to pass and abstention is not permitted. Signatories not present will be counted as voting against any tabled motions. All signatory nations have a single vote and all votes have equal weight.
+Any motion must be voted upon by all of the signatory nations in attendance at that meeting. Motions require a majority to pass and abstention is not permitted. Signatories not present [[Will|will]] be counted as voting against any tabled motions. All signatory nations have a single vote and all votes have equal weight.
 3. Recommendations for New Membership
 Any nation in the world may petition for membership of the International Liberty Pact. They will be invited to send representatives to a meeting of the existing signatories where the nation’s inclusion will be discussed and then voted upon.
 4. Amendment
@@ -52,5 +52,5 @@ Katya of Kantor, Grand Illarch, [[Axos]]
 [[General]] Elsbeth, [[General]] Council of the [[Commonwealth]]
 Timov, Priest Representative of the Republic of [[Sumaah]]
 Eska Crowspeaker, [[The Empire]]
-Ianthe of Suns of Couros, The Empire
+Ianthe of Suns of Couros, [[The Empire]]
 -->

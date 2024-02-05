@@ -22,12 +22,12 @@ In the [[Autumn|autumn]] are full grown
 Fields that grow with barley high 
 In their turn must fallow lie 
 Wicker men to ashes burn 
-Turn the circle, turn the sun
+[[Turn the Circle|Turn the circle]], turn the sun
 Long days full of warmth and light 
 All must end with gentle [[Night|night]] 
 Here's the wound no art can [[Heal|heal]] 
-Turn the circle, turn the wheel
+[[Turn the Circle|Turn the circle]], turn the wheel
 Wounded, weary, sick and sore 
 Lay down now to rise no more 
 To the land that gave you birth 
-Turn the circle, turn the earth
+[[Turn the Circle|Turn the circle]], turn the earth

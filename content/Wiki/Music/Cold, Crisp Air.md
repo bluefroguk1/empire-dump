@@ -22,22 +22,22 @@ To you I’ll fly,
 Send my heart across the [[Cold, Crisp Air|cold, crisp air]].
 The towers steep,
 Hold [[The Key|the key]],
-Send my heart across the cold, crisp air.
+Send my heart across the [[Cold, Crisp Air|cold, crisp air]].
 My studies long,
 [[Will]] play their part,
-So he’ll know that I will soon be there.
+So he’ll know that I [[Will|will]] soon be there.
 Behind me a note,
 On which I wrote,
 How I long to be in your arms,
 Light fills the sky,
 To you I’ll fly,
-Send my heart across the cold, crisp air.
+Send my heart across the [[Cold, Crisp Air|cold, crisp air]].
 A flash of light,
 An answer true,
-Send my heart across the cold, crisp air.
+Send my heart across the [[Cold, Crisp Air|cold, crisp air]].
 I turn to leave,
 My life and [[Spire]],
-And I know that I will soon be there.
+And I know that I [[Will|will]] soon be there.
 My father said,
 We cannot wed,
 Still, I long to be in your arms,

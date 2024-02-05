@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast icons and artistry
 aliases: ['Brass_Coast_icons_and_artistry']

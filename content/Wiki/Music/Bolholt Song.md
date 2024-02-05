@@ -31,7 +31,7 @@ In all [[The Empire|the Empire]] none so fair
 ''Bolholt! Bolholt!''
 Bolholt lads are stout and strong
 Handsome as the day is long
-''Courage, pride and loyalty''
+''[[Courage]], [[Pride|pride]] and [[Loyalty|loyalty]]''
 ''Marcher yeomen are we''
 Fearsome foes wait on the field
 ''Bolholt! Bolholt!''
@@ -39,7 +39,7 @@ Still we'll [[Fight|fight]] and never yield
 ''Bolholt! Bolholt!''
 Raise the [[Banner|banner]] up on high
 Now they'll hear the battle cry
-''Courage, pride and loyalty''
+''[[Courage]], [[Pride|pride]] and [[Loyalty|loyalty]]''
 ''Marcher yeomen are we''
 Time to put aside your plough
 ''Bolholt! Bolholt!''
@@ -47,5 +47,5 @@ March with me to battle now
 ''Bolholt! Bolholt!''
 On to victory or death
 Never fail while we draw breath
-''Courage, pride and loyalty''
+''[[Courage]], [[Pride|pride]] and [[Loyalty|loyalty]]''
 ''Marcher yeomen are we''

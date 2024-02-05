@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Imperial_LeftBar
 draft: False
 revision_date: 2024-01-29 10:49:35+00:00

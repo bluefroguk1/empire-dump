@@ -20,8 +20,8 @@ Wool, calico, linen, leather.
 Colours
 Plain flat colours, mostly the soft colours of natural dyes or unbleached cloth. The palette is autumnal suggesting natural dull blues, greys, browns/rusts, mustards and greens, dull reds etc. especially at the lower end of the social scale. Wealthier Marchers may use deeper, brighter shades.
 ## Clothing
-Marchers favour plain clothes, tunics, simple hoods, hose and shirts. Wealthier [[Characters|characters]] might wear finer robes, cotehardies or a simple doublet, but even then plain wool or heavy linen [[Will|will]] be more appropriate than fancy patterns or embroidery. Medieval re-enactments are a great source of inspiration for the look and feel of [[The Marches territories|the Marches territories]] - although unlike history, its [[Worth|worth]] noting that Marches society is gender neutral. Marcher leg wear is practical and slim fitting. Close fitting trousers are practical and easy to come by or make. Hose, either joined or split, are worn with [https://en.wikipedia.org/wiki/Braies braies] and a long shirt. An extremely simple untailored cut for shirts fits the Marches very well: Full in the body and sleeve, possibly gathered at neck and wrist. Doublets are popular in the Marches, a snug-fitting buttoned jacket that is shaped and fitted to the body. It can be worn over the shirt or under another layer of clothing. They tend to be short and simple – fancy slash work doesn't really fit the Marchers practical approach.
-A woollen or heavy linen overdress such as a [[Kirtle]] or [[Cotehardie]] over a shirt or shift is be a good alternative to shirts and hose. The look is long, lean and smooth and laced to fit. Back lacing shows higher status and gives a better line. Side lacing is more common. It would be rare to see a gathered skirt (common to Tudor kirtles) in the Marches.
+Marchers favour plain clothes, tunics, simple hoods, hose and shirts. Wealthier [[Characters|characters]] might wear finer robes, cotehardies or a simple doublet, but even then plain wool or heavy linen [[Will|will]] be more appropriate than fancy patterns or embroidery. Medieval re-enactments are a great source of inspiration for the look and feel of [[The Marches territories|the Marches territories]] - although unlike history, its [[Worth|worth]] noting that Marches society is gender neutral. Marcher leg wear is practical and slim fitting. Close fitting trousers are practical and easy to come by or make. Hose, either joined or split, are worn with [https://en.wikipedia.org/wiki/Braies braies] and a long shirt. An extremely simple untailored cut for shirts fits [[The Marches|the Marches]] very well: Full in the body and sleeve, possibly gathered at neck and wrist. Doublets are popular in [[The Marches|the Marches]], a snug-fitting buttoned jacket that is shaped and fitted to the body. It can be worn over the shirt or under another layer of clothing. They tend to be short and simple – fancy slash work doesn't really fit the Marchers practical approach.
+A woollen or heavy linen overdress such as a [[Kirtle]] or [[Cotehardie]] over a shirt or shift is be a good alternative to shirts and hose. The look is long, lean and smooth and laced to fit. Back lacing shows higher status and gives a better line. Side lacing is more common. It would be rare to see a gathered skirt (common to Tudor kirtles) in [[The Marches|the Marches]].
 Marchers prefer pouches to pockets – bollock or kidney pouches or leather bags are perfect. Belts are often very long, wrapped round, looped at the front and left to dangle. The typical clothing of  monks and friars consists of a traditional plain [[Monk|monk]]'s habit.
 Plain White Shirts.jpg
 Spilling the Tea.jpg
@@ -79,7 +79,7 @@ Mummer.jpg
 Marcher Musicians.jpg
 ## Weapons and Armour
 ### Weapons
-The classic Marcher fighting unit is a block of bills and other polearms recruited from the yeomanry. Two handed swords are common for richer [[Characters|characters]] in heavier armour, as well as warhammers, maces or poleaxes. Any historical weapons from the Hundred Years [[War]] and the War of the Roses are typical: poleaxes, bills and other polearms are iconic; warhammers, bollock daggers, axes, falchions and mauls. 
+The classic Marcher fighting unit is a block of bills and other polearms recruited from the yeomanry. Two handed swords are common for richer [[Characters|characters]] in heavier armour, as well as warhammers, maces or poleaxes. Any historical weapons from the Hundred Years [[War]] and the [[War]] of the Roses are typical: poleaxes, bills and other polearms are iconic; warhammers, bollock daggers, axes, falchions and mauls. 
 Field of Arms.jpg
 Billy Columny.jpg
 Bill Column.jpg
@@ -101,7 +101,7 @@ MarcherThugs.jpg
 ### [[Mage]] Armour
 [[Mage Armour|Mage armour]] is often from similar [[Materials|materials]] - fabric, leather and possibly pieces of chain mail - in both natural and household colours, but is more likely to be adorned and decorated with elements of no immediately obvious use.
 [[Landskeeper]] with a Hat.png
-Furious Landskeeper.jpg
+Furious [[Landskeeper]].jpg
 Rosamund_Mage_Armour.jpg
 Coal-Eyed Battlemage.jpg
 ### Shields
@@ -118,7 +118,7 @@ Impish and Sitting.jpg
 Balston Household.jpg
 Not All Gloom And Doom.jpg
 ## Camps
-Gates and doors are traditionally decorated with woven bundles of grain on either side, the respect shown to the land prevents evil doers from entering. The hearth is where food taken from the land is prepared. It is the core of a Marcher home and should always be kept clean, ideally decorated with fresh cut flowers to prevent food cooked there causing a poison of the blood. Poor March Folk or those on campaign will make do with bundles of grass or common meadow flowers.
+Gates and doors are traditionally decorated with woven bundles of grain on either side, the respect shown to the land prevents evil doers from entering. The hearth is where food taken from the land is prepared. It is the core of a Marcher home and should always be kept clean, ideally decorated with fresh cut flowers to prevent food cooked there causing a poison of the blood. Poor March Folk or those on campaign [[Will|will]] make do with bundles of grass or common meadow flowers.
 Marcher Camp.jpg
 Shanks_Awning.jpg
 [[Herb]] Business.jpg
@@ -133,11 +133,11 @@ CM-130726-0034.jpg
 MG0690.jpg
 MarchesChild4.jpg
 MarcherFamily.jpg
-[[General]] tips for costume for children: 
-* Robes that stop at knee - mid-calf will be less of a trip hazard
+[[General]] tips for [[Costume|costume]] for children: 
+* Robes that stop at knee - mid-calf [[Will|will]] be less of a trip hazard
 * Headgear that can be very simply retied is great
 * Avoiding things that can pull around the neck is wise (strings on cloaks/hats on cords/ tabards that don't secure under the arms
-* Wider neck holes, sleeves and armholes will help with getting costume on and off, and leave room for growth
+* Wider neck holes, sleeves and armholes [[Will|will]] help with getting [[Costume|costume]] on and off, and leave room for growth
 *[https://neheleniapatterns.com/produkt/kinder-des-mittelalters-mae1215/?lang=en Patterns for Medieval children's clothes]
 *[https://revivalclothing.com/product-category/all-products/childrens-clothing/ Revival Clothing's Premade items for children]
 The Marches Links

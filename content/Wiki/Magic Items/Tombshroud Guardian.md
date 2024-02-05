@@ -14,5 +14,5 @@ Building on these legends, the [[Imperial Orcs]] call this armour a ''Shaman's B
 ## Rules
 Medium Armour
 * Effect: Twice per [[Day|day]] you may use the unstoppable skill as if you know it without spending any hero points.
-* [[Materials]]: Crafting a [[Tombshroud Guardian]] requires thirteen ingots of weltsilver, five measures of ambergelt, three ingots of [[Orichalcum|orichalcum]] and three measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Tombshroud Guardian]] requires thirteen ingots of weltsilver, five measures of [[Ambergelt|ambergelt]], three ingots of [[Orichalcum|orichalcum]] and three measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
 "You'll have plenty of time to sleep when you're dead.  Until then, on your feet, soldier!"

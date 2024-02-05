@@ -17,7 +17,7 @@ The Master of Works is responsible for overseeing the maintenance and improvemen
 The Master of Works can  repair fortifications. The [[Materials|materials]] required to repair the [[Fortification|fortification]] are provided by the Master of Works. 
 To use this power, the Master of Works provides an announcement to the Civil Service, who present the decision to the Senate. No voting is possible by the Senate at this point, as the power has been delegated to the Master of Works. The [[Imperial Synod]] may, however, choose to exercise their [[Veto]] over the Master's decision.
 ### Improve Fortifications
-The Master of Works can improve an existing [[Fortification|fortification]]. The [[Materials|materials]] required to improve the new fortification are provided by the Master of Works. 
+The Master of Works can improve an existing [[Fortification|fortification]]. The [[Materials|materials]] required to improve the new [[Fortification|fortification]] are provided by the Master of Works. 
 To use this power, the Master of Works provides an announcement to the Civil Service, who present the decision to the Senate. No voting is possible by the Senate at this point, as the power has been delegated to the Master of Works. The [[Imperial Synod]] may, however, choose to exercise their [[Veto]] over the Master's decision.
 When the title was created, this power was unlimited. In Spring 380YE the Senate chose to amend this power in response to an [[Administrative motion|administrative motion]].
 ## [[Appointment]]

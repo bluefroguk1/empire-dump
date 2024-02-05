@@ -19,14 +19,14 @@ We [[Will|will]] bring light,
 Our own stars to [[Guide|guide]] us,
 Lighting all before us.
 Lightstones of the mountains, 
-We will bring light,
+We [[Will|will]] bring light,
 There need be no darkness,
 Light [[The Way]] before us.
 Guardians of [[The Empire|the Empire]],
-We will bring light,
+We [[Will|will]] bring light,
 Push back our enemies,
 See them flee before us.
 Fear not the darkness,
-We will bring light,
+We [[Will|will]] bring light,
 Push back the shadows,
 See them flee before us.

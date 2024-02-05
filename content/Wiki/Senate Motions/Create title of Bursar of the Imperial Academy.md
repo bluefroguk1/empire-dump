@@ -16,7 +16,7 @@ That [[The Senate|the Senate]] agree the creation of the [[Imperial Title|imperi
 ### [[Cost]]
 * Stipend: 6 Thrones annually, distributed as 1 [[Throne|throne]] and 4 crowns each season.
 ### [[Campaign outcome|Campaign Outcome]]
-* The Imperial Title of [[Bursar of the Imperial Academy]] was created.
+* The [[Imperial Title]] of [[Bursar of the Imperial Academy]] was created.
 * The title [[Will|will]] be appointed annually by the Senate during the Winter Solstice summit as a result of procedural vote.
 * Titus Hopkirk was appointed to the title.
 ### Voting

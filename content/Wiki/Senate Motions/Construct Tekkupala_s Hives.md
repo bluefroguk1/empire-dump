@@ -9,9 +9,9 @@ revision_id: 104923
 ---
 
 __NOTOC__
-To [[Commission|commission]] a [[Sinecure|sinecure]] in Wittal, [[Kallavesa]]; Tekkupala's Hives. This [[Sinecure|sinecure]] [[Will|will]] produce unique drugs and be built with the permission of the Keeper of the Bones Hives of [[Varushka]] whose bees [[Will|will]] build the hives of [[Kallavesa]]. The sinecure will be held by the Tender of Tekkupala's Hives, appointed by the senators of [[Wintermark]], as a national title. 
+To [[Commission|commission]] a [[Sinecure|sinecure]] in Wittal, [[Kallavesa]]; Tekkupala's Hives. This [[Sinecure|sinecure]] [[Will|will]] produce unique drugs and be built with the permission of the Keeper of the Bones Hives of [[Varushka]] whose bees [[Will|will]] build the hives of [[Kallavesa]]. The [[Sinecure|sinecure]] [[Will|will]] be held by the Tender of Tekkupala's Hives, appointed by the senators of [[Wintermark]], as a national title. 
 ## Overview
-* Constructs a sinecure in Kallavesa as per the [[Thousands or more]] wind of fortune
+* Constructs a [[Sinecure|sinecure]] in [[Kallavesa]] as per the [[Thousands or more]] wind of fortune
 * Passed
 ## Date
 * [[Summer]] 385YE
@@ -23,4 +23,4 @@ To [[Commission|commission]] a [[Sinecure|sinecure]] in Wittal, [[Kallavesa]]; T
 ## Progress
 CommissionProgress|Tekkupala%27s_Hives
 ## Outcome
-* Now completed the [[Wintermark]] national title of Tender of Tekkupala's Hives will be appointed annually each [[Autumn]] Equinox by the Senators for Wintermark
+* Now completed the [[Wintermark]] national title of Tender of Tekkupala's Hives [[Will|will]] be appointed annually each [[Autumn]] Equinox by the Senators for [[Wintermark]]

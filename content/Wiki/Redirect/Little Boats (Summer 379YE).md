@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Little Boats (Summer 379YE)
 aliases: ['Little_Boats_(Summer_379YE)']

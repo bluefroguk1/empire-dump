@@ -19,11 +19,11 @@ Proposed by [[Weirwater]], Seconded by [[Semmerholm]]
 ### Date
 * [[Summer]] 380YE
 ### [[Cost]]
-* The size of the sinecure is unknown, but standard costs apply
+* The size of the [[Sinecure|sinecure]] is unknown, but standard costs apply
 ### Progress
 * 25 thrones disbursed to [[Senator]] [[Weirwater]]
 * 10 wains of [[White granite|white granite]] and 20 crowns provided by Valentin Ivarovich Severyan after Summer Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* There are certain necessary details missing from this motion, [[Senator]] Weirwater may decide on these.
-* A small cathedral has been built close to the tourney grounds of Laroc in The Chase region of Astolat.
+* There are certain necessary details missing from this motion, [[Senator]] [[Weirwater]] may decide on these.
+* A small cathedral has been built close to the tourney grounds of Laroc in The Chase region of [[Astolat]].
 * The cathedral is overseen by the [[Dean of Laroc Cathedral]].

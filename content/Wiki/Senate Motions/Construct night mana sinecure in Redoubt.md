@@ -21,4 +21,4 @@ Announced by the Arcane [[Architect]]
 ### Progress
 * 20 ingots [[Iridescent gloaming|iridescent gloaming]], 10 wains of [[Mithril|mithril]], 10 wains of [[Weirwood|weirwood]], 5 mana crystals, and 30 crowns supplied by Vitore van [[Temeschwar]], the Arcane [[Architect]].
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, [[Penumbral Watcher]] [[Will|will]] create a new [[Imperial Title|Imperial title]] appointed by [[Declaration]] of [[Candidacy]] in [[The Conclave|the Conclave]]
+* This [[Sinecure|sinecure]], [[Penumbral Watcher]] [[Will|will]] create a new [[Imperial Title|Imperial title]] appointed by [[Declaration]] of [[Candidacy]] in [[The Conclave|the Conclave]]

@@ -25,8 +25,8 @@ To construct a new seminary to celebrate the life of the exemplar [[Zemress]] an
 * 15 wains of [[Weirwood|weirwood]], and 1 wain of [[Mithril|mithril]] received from Adan i DelToro i [[Riqueza]] after the [[Spring]] Equinox 383YE.
 * 45 crowns contributed by the [[Zemress]] islanders after the Spring Equinox 383YE.
 * 15 wains of [[White granite|white granite]] contributed by the [[Sumaah Republic]] after the Spring Equinox 383YE.
-* 14 wains of mithril provided by Adan i DelToro i [[Riqueza]] after the [[Summer]] Solstice 383YE.
+* 14 wains of [[Mithril|mithril]] provided by Adan i DelToro i [[Riqueza]] after the [[Summer]] Solstice 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * [[Will]] create a seminary in [[Madruga]]
 * While [[Materials|materials]] have been gathered, the motion to create the seminary [[Will|will]] still lapse at the start of the Winter Solstice 383YE if it has not been completed.
-* the Seminary of Zemress was completed after the Summer Solstice 383YE.
+* the Seminary of [[Zemress]] was completed after the Summer Solstice 383YE.

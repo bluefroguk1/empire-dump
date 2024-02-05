@@ -10,12 +10,12 @@ revision_id: 85937
 
 Membership of the organisation known as the [[Vyig]] is illegal. Furthermore, possession of [[Vyig]] tattoos is illegal and such tattoos [[Will|will]] be defaced in addition to any other punishment.''Proposed by [[Temeschwar]], seconded by [[Tassato]].'' 
 ### Overview
-* Creating a [[Law|law]] making it illegal to be a member of the criminal organisation known as the Vyig.
+* Creating a [[Law|law]] making it illegal to be a member of the criminal organisation known as the [[Vyig]].
 ### Date
 * [[Winter]] 378YE.
 ### [[Cost]]
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-* The Vyig organisation is outlawed.
-* Having Vyig tattoos is made a crime, and the default punishment is that the tattoos [[Will|will]] be defaced.
+* The [[Vyig]] organisation is outlawed.
+* Having [[Vyig]] tattoos is made a crime, and the default punishment is that the tattoos [[Will|will]] be defaced.
 __NOTOC__

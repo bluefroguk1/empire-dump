@@ -18,4 +18,4 @@ Amount in thrones requested to be set on [[The Senate|the senate]] floor but mus
 ### Date
 * [[Autumn]] 379YE.
 ### Progress
-* 420 Thrones disbursed to [[Senator]] Weirwater
+* 420 Thrones disbursed to [[Senator]] [[Weirwater]]

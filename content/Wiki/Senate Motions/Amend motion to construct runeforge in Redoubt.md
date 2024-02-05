@@ -16,4 +16,4 @@ Proposed by [[Kahraman]], Seconded by [[Necropolis]]
 ### Date
 * [[Spring]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The services of the Asavean [[Architect|architect]] have been engaged for the construction of the runeforge
+* The services of the Asavean [[Architect|architect]] have been engaged for the construction of the [[Runeforge|runeforge]]

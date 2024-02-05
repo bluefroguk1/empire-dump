@@ -25,12 +25,12 @@ So when flames took hold of the old heart, left them open to the sky.
 With my banners riding so high, my knights all armed in steel
 And from my [[Pride]] and [[Courage]] comes the power that I wield
 Once around the labyrinth, I died beneath my tree
-Now my scions rise on phoenix wings, for all of Dawn to see
+Now my scions rise on phoenix wings, for all of [[Dawn]] to see
 My [[War|war]] cry rends the morning skies, I am here
 No longer sheltered and kept close, now I stride out without fear
 My fruit I cast so widely ‘neath, [[The Empire|the Empire]]’s blazing sky
-I led [[The Way|the way]], and I lead [[The Way|the way]], to the future and for Pride
+I led [[The Way|the way]], and I lead [[The Way|the way]], to the future and for [[Pride]]
 With my banners riding so high, my knights all armed in steel
-And from my Pride and Courage comes the power that I wield
+And from my [[Pride]] and [[Courage]] comes the power that I wield
 Once around the labyrinth, I died beneath my tree
-Now my scions rise on phoenix wings, for all of Dawn to see
+Now my scions rise on phoenix wings, for all of [[Dawn]] to see

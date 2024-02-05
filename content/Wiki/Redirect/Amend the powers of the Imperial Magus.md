@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Amend the powers of the Imperial Magus
 aliases: ['Amend_the_powers_of_the_Imperial_Magus']

@@ -12,7 +12,7 @@ __NOTOC__
 To construct a [[Potion|potion]] lab in [[Miaren]], dedicated to [[Murit]]
 Proposed by [[Miaren]], Seconded by [[Hercynia]]
 ### Overview
-* A [[Folly]] built in Miaren
+* A [[Folly]] built in [[Miaren]]
 * Passed
 ### Date
 * [[Winter]] 380YE
@@ -21,4 +21,4 @@ Proposed by [[Miaren]], Seconded by [[Hercynia]]
 ### Progress
 * 5 wains of [[White granite|white granite]] and 10 crowns provided by Llewellyn Leafstalker after Winter Solstice 380YE. 
 ### [[Campaign outcome|Campaign Outcome]]
-* The alchemical workshop has been built in Holtford in Miaren.
+* The alchemical workshop has been built in Holtford in [[Miaren]].

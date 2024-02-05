@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: FreeToUseImageLinks
 draft: False
 revision_date: 2014-10-16 17:29:29+00:00

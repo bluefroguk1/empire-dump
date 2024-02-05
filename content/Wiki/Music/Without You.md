@@ -14,11 +14,11 @@ Recording is [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music
 Dark are the skies [[Without You|without you]]
 I shall have no sleep
 All [[Night|night]] my vigil keep
-The tide shall not turn without you
-No fire shall burn without you
+The tide shall not turn [[Without You|without you]]
+No fire shall burn [[Without You|without you]]
 I'll wait by the shore
 Until you come once more
-Here I must stay without you
+Here I must stay [[Without You|without you]]
 Another [[Day|day]] without you
 Silent and alone
 While you are [[Gone|gone]]

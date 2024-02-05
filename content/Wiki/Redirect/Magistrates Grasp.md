@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Magistrates Grasp
 aliases: ['Magistrates_Grasp']

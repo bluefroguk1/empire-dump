@@ -20,10 +20,10 @@ The [[Enchantment|enchantment]] restores the target to a semblance of health for
 * They are no longer dying, and may use all their abilities as if they were still alive, with the exception of unstoppable and fortitude.
 * The lingering effects of fatal poisons are removed when this ritual is completed; all other conditions must be dealt with as normal, either before or after the ritual is performed.
 * They experience a powerful [[Roleplaying effect]]; they are imminently aware of their coming demise, and that time is slipping away from them - if they want to achieve anything they must act ''now''.
-*  When reduced to 0 hits; with 5 seconds of [[Appropriate roleplaying|appropriate roleplaying]]; if the Enchantment is removed; or after ten minutes in any event, the character dies permanently.
+*  When reduced to 0 hits; with 5 seconds of [[Appropriate roleplaying|appropriate roleplaying]]; if the [[Enchantment]] is removed; or after ten minutes in any event, the character dies permanently.
 * When the ritual ends, the character is dead and their spirit cannot be contacted with either [[Voice for the Dead]] nor called back with [[Whispers through the Black Gate]].
 A character cannot ever be targeted by ''[[Last Breath Echoes]]'' more than once.
-This enchantment ''cannot'' be made permanent with [[Ilium]].
+This [[Enchantment|enchantment]] ''cannot'' be made permanent with [[Ilium]].
 ### OOC Elements
 Nothing can prevent the final demise of the character once this ritual is performed on them; they [[Will|will]] be dead in at most ten minutes. In case of any conflict, this rule takes precedence; the ritual does not 'cure' the terminal state it simply allows a dead character a chance to go out 'with a bang'. A [[Referee|referee]] [[Will|will]] be very strict with the duration of this ritual. 
 ## Description

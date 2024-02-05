@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Ritual use of ilium
 aliases: ['Ritual_use_of_ilium']

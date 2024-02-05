@@ -24,8 +24,8 @@ To rebuild the Aviary - Ishal which is in Skymark. To create the [[Imperial Titl
 ## Progress
 * 20 wains of [[Weirwood|weirwood]], 10 wains of [[White granite|white granite]] and 60 crowns provided by Vauraus Korppitkotka after Summer Solstice 383YE.
 ## Outcome
-* Once complete the Aviary of Ishal would create an [[Imperial Title|Imperial title]] - the Raven [[Seer]], a national Wintermark position serving for a year.
-* The [[Mystics|mystics]] at Ishal have asked for it to be a [[Senate]] [[Appointment|appointment]] with the understanding that the senators of Wintermark [[Will|will]] take conference with the [[Kallavesi]] mystics and appoint the title based on their recommendation. In particular, the people of Ishal are insistent that the [[Raven Seer]] must be a [[Mystic|mystic]] and should be a [[Kallavesi]]. 
+* Once complete the Aviary of Ishal would create an [[Imperial Title|Imperial title]] - the Raven [[Seer]], a national [[Wintermark]] position serving for a year.
+* The [[Mystics|mystics]] at Ishal have asked for it to be a [[Senate]] [[Appointment|appointment]] with the understanding that the senators of [[Wintermark]] [[Will|will]] take conference with the [[Kallavesi]] mystics and appoint the title based on their recommendation. In particular, the people of Ishal are insistent that the [[Raven Seer]] must be a [[Mystic|mystic]] and should be a [[Kallavesi]]. 
 * The Raven [[Seer]] would receive a bounty of 5 doses of [[Goosewhisper Infusion|goosewhisper infusion]] each season to use as they see fit. 
 * In addition, they would be able to purchase up to nine additional infusions from apothecaries who dwell at Ishal
-* The Raven Seer would also take custody of an old [[Ritual|ritual]] developed over a century ago during the reign of [[Emperor Nicovar]] named ''The Parliament of Owls''.
+* The [[Raven Seer]] would also take custody of an old [[Ritual|ritual]] developed over a century ago during the reign of [[Emperor Nicovar]] named ''The Parliament of Owls''.

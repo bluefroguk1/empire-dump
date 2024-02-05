@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tincture of the Whipped Cur
 aliases: ['Tincture_of_the_Whipped_Cur']

@@ -9,10 +9,10 @@ revision_id: 56765
 
 A [[Wassail]] is a Marcher tradition performed at every harvest.
 ### [[Wassail]] Song
-Media:wassail.mp3 A traditional Wassail song [[Sung|sung]] by Muldoon's Picnic and a pub full of people. Used with permission.
+Media:[[Wassail|wassail]].mp3 A traditional [[Wassail]] song [[Sung|sung]] by Muldoon's Picnic and a pub full of people. Used with permission.
 [http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Dunstan/Wassail_Song_132.jpg Sheet Music]
 Learning resources: (if in doubt, learn the tune, if you can hold a harmony have a go at one of the harmony parts!)
-* File:wassail-tune.mp3
+* File:[[Wassail|wassail]]-tune.mp3
 * File:wassail-alto.mp3
 * File:wassail-tenor.mp3
 * File:wassail-bass.mp3

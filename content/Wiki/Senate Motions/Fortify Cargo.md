@@ -25,8 +25,8 @@ __NOTOC__
 ## Progress
 * 40 wains of [[White granite|White Granite]] received from Thanmir Hrafnar after the Spring Equinox 382YE.
 * 20 wains of [[Mithril]] and 13 Thrones received from Ariadne after the Spring Equinox 382YE.
-* 24 white granite, 20 mithril, and 13 Thrones received from Edmundo of Damakan's Forge after the [[Summer]] Solstice 382YE.
-* 16 wains of White Granite and 32 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity|opportunity]].
+* 24 [[White granite|white granite]], 20 [[Mithril|mithril]], and 13 Thrones received from Edmundo of Damakan's Forge after the [[Summer]] Solstice 382YE.
+* 16 wains of [[White granite|White Granite]] and 32 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity|opportunity]].
 ## [[Campaign outcome|Campaign Outcome]]
-* The time to construct this Fortification has been significantly reduced by the aid of Jarmish magicians; no further reduction in time to construct is possible.
-* When complete, the Axos-designed fortification [[Will|will]] inflict half again as many [[Casualties|casualties]] presuming that the Axou are free to offer their [[Assistance|assistance]] to the garrison.
+* The time to construct this [[Fortification]] has been significantly reduced by the aid of Jarmish magicians; no further reduction in time to construct is possible.
+* When complete, the [[Axos]]-designed [[Fortification|fortification]] [[Will|will]] inflict half again as many [[Casualties|casualties]] presuming that the Axou are free to offer their [[Assistance|assistance]] to the garrison.

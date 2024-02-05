@@ -24,5 +24,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Heroic Deeds
-Even in a nation of [[Heroes|heroes]], the Green Shield are famed throughout Wintermark for their heroic deeds, and their presence has turned the tide of battle more than once. The soldiers of the Green Shields are capable of impossible deeds, and their spirit is undiminished in the face of any threat. They know that the hero's tale ends with a good death and they are ready to pay with their lives if they must. Their esprit de corps is peerless and their commitment to battle means they are prepared to make any sacrifice to achieve what must be done. This allows their general to issue unique orders, taking enormous risks where necessary.
-RecentElections|General_of_the_Green_Shield|the title of General of the Green Shield
+Even in a nation of [[Heroes|heroes]], the [[Green Shield]] are famed throughout [[Wintermark]] for their heroic deeds, and their presence has turned the tide of battle more than once. The soldiers of the Green Shields are capable of impossible deeds, and their spirit is undiminished in the face of any threat. They know that the hero's tale ends with a good death and they are ready to pay with their lives if they must. Their esprit de corps is peerless and their commitment to battle means they are prepared to make any sacrifice to achieve what must be done. This allows their [[General|general]] to issue unique orders, taking enormous risks where necessary.
+RecentElections|General_of_the_Green_Shield|the title of [[General]] of the [[Green Shield]]

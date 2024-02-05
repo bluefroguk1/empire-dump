@@ -15,4 +15,4 @@ In [[The League|the League]] it is often called a ''Pigskin Jacket'', and is esp
 ## Rules
 Light Armour
 * Effect: Twice per [[Day|day]] you may use the unstoppable skill as if you know it without spending any hero points.
-* [[Materials]]: Crafting a Spiritskin Coat requires eleven measures of [[Ambergelt|ambergelt]], five measures of beggar's lye, five ingots of [[Weltsilver|weltsilver]] and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Spiritskin Coat]] requires eleven measures of [[Ambergelt|ambergelt]], five measures of beggar's lye, five ingots of [[Weltsilver|weltsilver]] and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

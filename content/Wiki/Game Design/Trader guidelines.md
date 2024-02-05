@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Trader guidelines
 aliases: ['Trader_guidelines']
 draft: False
@@ -17,9 +17,9 @@ At present, due to the popularity of [[The game|the game]] with players and [[Tr
 There are two options for anyone who wishes to sell non-food/drink items for OOC money, either a standard trader or a peddler. Both options require you to purchase a player ticket and follow all the normal guidelines for a player. A pedlar may then go about the camp and sell their goods as they choose. If you want to have a trade pitch for a tent in the main market place then you to pay a small additional charge for a pitch and follow the additional guidelines for a trader.
 Peddlers can sell out of their own tent as a peddler, anywhere within the nation camps, provided you avoid setting up too close to the official marketplace. Alternatively, a peddler can sell off a blanket or cart etc in the marketplace as long as they are not obstructing the traders set up in the marketplace or in a place that would spoil [[The game|the game]] for players. Please keep any non-IC looking items from spoiling the view and ambiance of players. Please contact our trader liaison if you want any additional information about pedling.
 ## [[Conduct]]
-All participants at Profound Decisions events, including all traders and caterers, must follow our guidelines for [[Conduct]] and [[Language|language]]. If you break the rules, even unknowingly, then you [[Will|will]] get a formal warning. Any subsequent breach of the rules [[Will|will]] result in you being refused entry to any future Profound Decisions events. For this reason, it is essential that you ensure that you have read and understood all the conduct and language rules.
+All participants at Profound Decisions [[Events|events]], including all traders and caterers, must follow our guidelines for [[Conduct]] and [[Language|language]]. If you break the rules, even unknowingly, then you [[Will|will]] get a formal warning. Any subsequent breach of the rules [[Will|will]] result in you being refused entry to any future Profound Decisions [[Events|events]]. For this reason, it is essential that you ensure that you have read and understood all the conduct and language rules.
 ## Trader Liaison
-Our trader liaisons exist to help with trading queries between and at events. Their role is to be a first point of contact and ensure that we provide you with effective support so that you can trade successfully at our events. Our current trader liaisons are [mailto:angel@profounddecisions.co.uk Angel] and Tanis.
+Our trader liaisons exist to help with trading queries between and at [[Events|events]]. Their role is to be a first point of contact and ensure that we provide you with effective support so that you can trade successfully at our events. Our current trader liaisons are [mailto:angel@profounddecisions.co.uk Angel] and Tanis.
 ## Trade Items
 Any items sold for OOC money at our events must comply with all standard legal requirements. For example, if you are selling hand-made soaps then they need to comply with the statutory regulations on testing and registration of your products.
 ### Weapon
@@ -36,18 +36,18 @@ You may arrive on site at any time from the Wednesday before the event onwards. 
 ### Tents
 All tents in the IC area must conform to the rules for tents published in the basic [[Costume]] guidelines. Specifically it is not possible to put dome tents or party tents in the IC area.
 ### [[Costume]]
-All traders must wear costume that is suitable for [[The setting|the setting]] while in the IC area. 
+All traders must wear [[Costume|costume]] that is suitable for [[The setting|the setting]] while in the IC area. 
 ### Departure
 You may bring vehicles onto the site and begin taking your stall down as soon as the event ends at 3pm on the last [[Day|day]]. Please do not start taking your stall down before this time as it disrupts the event for players.
 ## Electricity
 ### Provision
-Generators are not permitted in the IC area so we provide power to all traders with a pitch at the event. The price for this is included in the pitch fee, but you will need to supply your own 25m extension cable. This power is intended to run lights and small low power utility devices - you cannot use our power supply for electrical heating at an event.
+Generators are not permitted in the IC area so we provide power to all traders with a pitch at the event. The price for this is included in the pitch fee, but you [[Will|will]] need to supply your own 25m extension cable. This power is intended to run lights and small low power utility devices - you cannot use our power supply for electrical heating at an event.
 ### Usage
 Traders with a small pitch may have up to 200 watts, traders with a large pitch may have up to 400 watts. You cannot run a kettle, toaster or any electrical device that produces heat.
 ### Connections
 Do not plug anything into any socket outlet until it has been checked by a member of the Profound Decisions electrical team. Electrical team members can be contacted via GOD or via the [[Event crew|event crew]] on the radio. Remember, there are a lot of traders and it may take a short period of time to get a member of the team to your location.
 ### Safety
-If the PD crew electricians are not happy with the safety of a device then you will not be allowed to use it. You will not be able to use the device at the event and will need to secure any such items in your trader vehicle.
+If the PD crew electricians are not happy with the safety of a device then you [[Will|will]] not be allowed to use it. You [[Will|will]] not be able to use the device at the event and will need to secure any such items in your trader vehicle.
 ## Booking and Prices
 ### Account
 To trade at our events your account on our website must be approved by our trader liaison. Once that is done you will be able to use the regular website to book tickets and a pitch to trade at events.

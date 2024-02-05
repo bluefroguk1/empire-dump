@@ -17,7 +17,7 @@ Self-funded to build a [[Sinecure|sinecure]] in Foracci known as the Pelican Tow
 ## Date
 * [[Spring]] 384YE
 ## [[Cost]]
-* Standard Sinecure costs apply
+* Standard [[Sinecure]] costs apply
 ## Progress
 CommissionProgress|Pelican_Tower
 ## Outcome

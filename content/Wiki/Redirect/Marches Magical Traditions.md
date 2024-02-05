@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Marches magical traditions
 aliases: ['Marches_magical_traditions']

@@ -18,6 +18,6 @@ To protect the civil service [[Historical research|historical research]] departm
 ## Progress
 * Unknown
 ## [[Campaign outcome|Campaign Outcome]]
-* Increased security for the civil servants associated with the department of Historical research should prevent further murders.
-* This protection should maintain the current level of historical research availability. [[The Empire]] has the resources to arrange two research projects each season.
+* Increased security for the civil servants associated with the department of [[Historical research]] should prevent further murders.
+* This protection should maintain the current level of [[Historical research|historical research]] availability. [[The Empire]] has the resources to arrange two research projects each season.
 __NOTOC__

@@ -20,5 +20,5 @@ To construct a [[Great work|Great Work]] in [[Reikos]]. This is to be an artific
 ## Progress
 * 40 wains of [[White granite|white granite]] and 10 thrones provided by Nira of Cantiarch's Hold after Spring Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* This seminary is now complete, it [[Will|will]] provide a benefit to the owners of mana sites in Reikos. It will not create an [[Imperial Title]].
+* This seminary is now complete, it [[Will|will]] provide a benefit to the owners of mana sites in [[Reikos]]. It [[Will|will]] not create an [[Imperial Title]].
 * The exact nature of the bounty is unclear; this is a necessary detail that must be provided by the [[Senator|senator]].

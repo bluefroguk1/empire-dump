@@ -21,4 +21,4 @@ These shall pass onwards when we are forgotten
 Who'll sing the anthem and who'll tell the story
 [[Will]] the line hold [[Will|will]] it scatter and run
 Shall we at last be united in [[Glory|glory]]
-Only remembered for what we have done
+[[Only Remembered For What We Have Done|Only remembered for what we have done]]

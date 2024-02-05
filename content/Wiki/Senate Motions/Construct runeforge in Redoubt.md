@@ -25,8 +25,8 @@ Proposed by [[Zenith]], Seconded by [[Upwold]]
 * 12 months to construct
 ### Progress
 * 15 wains of [[Mithril|mithril]], [[White granite|white granite]] and [[Weirwood|weirwood]], and 12 Thrones provided by Edmundo, Achillies of Damakan's forge, Thomas of [[Upwold]] and Asael of Cantiarch's Hold after Spring Equinox 381YE, and one seasons construction has been completed.
-* 45 wains of mithril, white granite and weirwood, and 33 Thrones provided by Edmundo, Achillies of Damakan's forge, Thomas of Upwold and Asael of Cantiarch's Hold after [[Summer]] Solstice 381YE.
+* 45 wains of [[Mithril|mithril]], [[White granite|white granite]] and [[Weirwood|weirwood]], and 33 Thrones provided by Edmundo, Achillies of Damakan's forge, Thomas of [[Upwold]] and Asael of Cantiarch's Hold after [[Summer]] Solstice 381YE.
 ### Amendment
 * Following an amendment to this motion the Asavean [[Architect|architect]], Almodin Oktístis, has begun work on this construction
 ### [[Campaign outcome|Campaign Outcome]]
-* The runeforge, once complete, [[Will|will]] create a new [[Imperial Title]], the [[Seer of the Spiral Sword]] appointed by the [[Imperial Bourse]]
+* The [[Runeforge|runeforge]], once complete, [[Will|will]] create a new [[Imperial Title]], the [[Seer of the Spiral Sword]] appointed by the [[Imperial Bourse]]

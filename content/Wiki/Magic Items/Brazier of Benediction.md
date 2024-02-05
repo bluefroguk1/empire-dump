@@ -14,5 +14,5 @@ A priest who uses one of these handy talismans is able to create - or remove - s
 As with almost all priestly regalia, a [[Brazier of Benediction]] is often hallowed with an [[Aura|aura]] that helps the priest to fulfil their chosen role. Popular choices include all those hallows which encourage a priest to rouse, recruit, exalt, or [[Empower|empower]] other people in the name of Virtue.
 ## Rules
 Regalia
-* Effect: When you perform or cooperate with the performance of the Consecration skill, you may spend up to three additional doses of Liao to increase the strength of the ceremony by the same amount.
+* Effect: When you perform or cooperate with the performance of the [[Consecration]] skill, you may spend up to three additional doses of [[Liao]] to increase the strength of the ceremony by the same amount.
 * [[Materials]]: Crafting a [[Brazier of Benediction]] requires five measures of [[Ambergelt|ambergelt]], five ingots of [[Green iron|green iron]], three ingots of [[Orichalcum|orichalcum]], and five measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

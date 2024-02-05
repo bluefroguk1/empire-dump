@@ -24,4 +24,4 @@ __NOTOC__
 ## Progress
 CommissionProgress|Skallahn_Spy_Network
 ## Outcome
-* Once complete, Imperial military units [[Will|will]] be able to support the spy network.
+* Once complete, Imperial military units [[Will|will]] be able to support the [[Spy network|spy network]].

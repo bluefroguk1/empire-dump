@@ -12,16 +12,16 @@ Arrangements for the effects, body and goods of the late [[Empress Britta]] to b
 ''Proposed by [[Necropolis]], seconded by [[Sermersuaq]].''
 ### Overview
 * Arrangements for the body of the late [[Empress Britta]] to be laid to rest in the [[Kallavesi]] marshes
-* Arrangements for her effects to be laid to rest in Necropolis
+* Arrangements for her effects to be laid to rest in [[Necropolis]]
 * Appropriate monuments to be erected in both locations
 * Create [[Imperial Title]] [[Guardian]] of Britta's Shrine.
-* Passed at 7 Thrones with 12 votes against, money distributed to Necropolis
+* Passed at 7 Thrones with 12 votes against, money distributed to [[Necropolis]]
 ### Date
 * Passed [[Winter]] 376YE (Easter 2013).
 ### [[Cost]]
 * 10 [[White granite|White Granite]] 
 ### Progress
-* Paid by Adamah, [[Senator]] for Necropolis, in [[Spring]] Equinox [[Downtime|downtime]]
+* Paid by Adamah, [[Senator]] for [[Necropolis]], in [[Spring]] Equinox [[Downtime|downtime]]
 * [[Ruth]] of the Cenotaph appointed by the Highborn
 ### Production
 * [[Sinecure]] providing 10 [[Synod]] Votes and 5 [[Liao]]

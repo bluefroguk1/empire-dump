@@ -19,11 +19,11 @@ The creature made a ghastly rattling, coughing noise and its body convulsed and 
 Prince Zamashka realized with a combination of disgust and unease that the twisted creature was trying to laugh.
 ## Overview
 During the [[Winter]] Solstice, the rules of the wasteland - eternals of Winter - offered [[Opportunities|opportunities]] to win their favour with tribute of [[Dragonbone|dragonbone]]. Some of their boons were won by representatives of [[The Empire|the Empire]]; some were won by other nations. Some of the boons have already been put into action; others have not yet been received.
-On the last [[Day|day]] of Winter, a number of heralds visited [[The Empire|the Empire]] to reveal the detail of which of the many offered boons had been won by which of the peoples invited to attend the [[Eternal|eternal]] courts. The heralds say that between [[The Nations|the nations]], thirteen-hundred measures of dragonbone were given in tribute, the lions share gifted by the people of the Empire ... but they were not the only folk to win boons.
+On the last [[Day|day]] of Winter, a number of heralds visited [[The Empire|the Empire]] to reveal the detail of which of the many offered boons had been won by which of the peoples invited to attend the [[Eternal|eternal]] courts. The heralds say that between [[The Nations|the nations]], thirteen-hundred measures of dragonbone were given in tribute, the lions share gifted by the people of [[The Empire|the Empire]] ... but they were not the only folk to win boons.
 * The boon of the ''Keeper of [[Tharim]]’s Throne''  was gifted to the Royal Houses of [[Dawn]]. Gui de Lusignan is named as the chosen of Tharim.
 * The power of ''[[Skathe]]’s Vengeance'' was gifted to the Scions of [[Atun]] and [[Atuman]]. It [[Will|will]] be directed at High Lady Suriad, Salt Lord of Dubhtraig.
-* The knowledge to call forth the ''Black Wind'' was gifted to the Scions of Terrunel. The text detailing the ritual will be delivered to Drefa Brackensong.
-* The gift of a ''portrait'' commissioned by the Lady Skathe was gifted to the descendants of the Sorcerer-Kings. Grand Ilarch Oana of the line of Issyk will receive this boon.
+* The knowledge to call forth the ''Black Wind'' was gifted to the Scions of Terrunel. The text detailing the ritual [[Will|will]] be delivered to Drefa Brackensong.
+* The gift of a ''portrait'' commissioned by the Lady Skathe was gifted to the descendants of the Sorcerer-Kings. Grand Ilarch Oana of the line of Issyk [[Will|will]] receive this boon.
 * The ''Raging Fire of [[Surut]]'' was been gifted to the Masters of the High Peaks. It shall fall upon their enemies in [[Spiral]].
 * The ''Destruction of the Walls'' has been gifted to the descendants of the Sorcerer-Kings. It shall fall upon the Court of [[The Fountain|the Fountain]] at their command.
 * The power to ''shake the earth'' has been claimed by the tribes of the Dragon. It shall fall upon the deep places of Areshan.
@@ -31,16 +31,16 @@ On the last [[Day|day]] of Winter, a number of heralds visited [[The Empire|the 
 * The ''Cruel Blessing of [[Agramant]]'' has been claimed by the sons and daughters of Naguerro and Hierro. It shall fall upon the head of Baroness Jaqueline duMoi, [[General|general]] of the Wolves of Kobol, in the territory of Kalino.
 * The ''Hunt that plagues the Dreams of an Army'' has been gifted to the the descendants of the Sorcerer-Kings. It shall fall upon the head of Gabriel Barossa and the [[Wolves of War]].
 * The ''Gift of [[Sorin]]’s Blood'' has been made to the Princes of [[Jarm]]. It has been granted to Zamashka, Prince of Votika.
-* The ''power to call forth the servants of Sorin to ride the cold meat'' has been granted to the tribes of the Dragon 
+* The ''power to call forth the servants of [[Sorin]] to ride the cold meat'' has been granted to the tribes of the Dragon 
 * The use of the ''Dragonbone Eye'' has been granted to Zamashka, Prince of Votika.
-* The ''grim legion'' will [[Fight|fight]] in the name of the tribes of Kallivesi and [[Suaq]]. It has stridden forth to Liaven's Glen to slay the [[Jotun]].
+* The ''grim legion'' [[Will|will]] [[Fight|fight]] in the name of the tribes of Kallivesi and [[Suaq]]. It has stridden forth to Liaven's Glen to slay the [[Jotun]].
 * The ''Shield of [[Wisdom]]'', which is named "Measure" has been gifted to the Princes of Jarm. It lies now at the hand Zamashka, Prince of Votika.
-* ''Ten more years of life'', the gift of Sorin, has been granted to the Princes of Jarm and claimed by Zamashka, Prince of Votika.
+* ''Ten more years of life'', the gift of [[Sorin]], has been granted to the Princes of Jarm and claimed by Zamashka, Prince of Votika.
 * The ''power to abandon mortality'' and join the Queen of Silence has been granted to the descendants of the Sorcerer-Kings. Tisia of the line of Maykop has taken her place among the ranks of the Grim Legion. 
 * The use of ''[[Rangara]]’s Cauldron'' has been granted to the Princes of Jarm. It has been claimed by Zamashka, Prince of Votika.
 * The ''[[Wisdom]] of Rangara'' has been granted to the tribes of the Dragon. It has been granted to Hinodir of the Bright Orb.
 Tharim, the Bound King, deems the Winter Solstice to have been a success, and thanks the people of the mortal [[Realm|realm]] for their tribute.
 ## Significance
-Several of these boons have already been implemented, others will fall into place over the coming months. In certain cases those boons may prove tricky to use - in particular, the claiming of a boon from Agramant apparently by the Hierro orcs of [[Segura]] causes a difficult legal situation.
+Several of these boons have already been implemented, others will fall into place over the coming months. In certain cases those boons may prove tricky to use - in particular, the claiming of a boon from [[Agramant]] apparently by the Hierro orcs of [[Segura]] causes a difficult legal situation.
 Of the other claimants, only Zamashka, Prince of Votika is well-known. An extremely powerful Magician-Prince of Jarm, and a leader of the Southern Alliance, Votika is known to be a [[Grandmaster|grandmaster]] of the lore of winter and a wily and dangerous player of [[The game|the game]] of princes.
-Of particular concern to the Empire are the threats to the Court of [[The Fountain|the Fountain]] in [[Redoubt]], and to the person of Gabriel Barossa and the Wolves of [[War]] - especially as these threats apparently come from the people of [[Axos]] who were believed to be at least somewhat friendly to the Empire. No doubt there is more going on here than meets the eye!
+Of particular concern to [[The Empire|the Empire]] are the threats to the Court of [[The Fountain|the Fountain]] in [[Redoubt]], and to the person of Gabriel Barossa and the Wolves of [[War]] - especially as these threats apparently come from the people of [[Axos]] who were believed to be at least somewhat friendly to [[The Empire|the Empire]]. No doubt there is more going on here than meets the eye!

@@ -24,4 +24,4 @@ Proposed by [[Morrow]], Seconded by [[Hercynia]]
 ### Progress
 * 15 wains of [[White granite|white granite]], 5 wains of [[Weirwood|weirwood]] and 5 thrones provided by Ariadne after Spring Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This [[Great work|great work]], the Grand Conservatory of Music, provides 15 [[Liao]] and 30 votes in the [[Imperial Synod]] spread amongst the citizens of Redoubt dedicated to Pride who own congregations each season, following attendance at the [[Anvil]] Summit.
+* This [[Great work|great work]], the Grand Conservatory of [[Music]], provides 15 [[Liao]] and 30 votes in the [[Imperial Synod]] spread amongst the citizens of [[Redoubt]] dedicated to [[Pride]] who own congregations each season, following attendance at the [[Anvil]] Summit.

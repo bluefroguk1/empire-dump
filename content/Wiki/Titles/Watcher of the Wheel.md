@@ -13,11 +13,11 @@ revision_id: 99876
 ## Responsibilities
 The Watcher has no particular responsibilities; they simply receive a bounty of [[Vis]]. If the Tower were to be threatened in any way, it would be the responsibility of the Watcher to deal with those threats.
 ## Powers
-### Vis
+### [[Vis]]
 The [[Watcher of the Wheel]] gains custodianship of a [[Sinecure]]. They receive an income of one portion each of warm ashes, vital honey, crystal fire, and heart's blood each season.
 ==[[Appointment]]== 
 As with all titles created by the Arcane [[Architect]], the [[Appointment|appointment]], replacement, or removal of the Watcher is made by the [[Declaration|declaration]] of [[Candidacy|candidacy]] as part of a [[Conclave session]]. Any Imperial citizen may hold the title.
-The Watcher of the Wheel serves until they are replaced by another [[Magician|magician]] using the [[Declaration]] of [[Candidacy]]. As a title in [[The Conclave|the Conclave]], they cannot be revoked.
+The [[Watcher of the Wheel]] serves until they are replaced by another [[Magician|magician]] using the [[Declaration]] of [[Candidacy]]. As a title in [[The Conclave|the Conclave]], they cannot be revoked.
 ## Tower of the Watcher
 In the northern woodlands of Madeiras, in [[Tassato]], there is a tower overgrown with ivy. A solitary [[Weirwood|weirwood]] tree grows inside it, reaching up to the heavens, its branches protruding through the walls. According to some old tales, it was once owned by a [[Troupe|troupe]] of enigmatic dramaturgists who engaged in dubious rites to win the approval of one or more of the [[Night]] eternals. 
 The late Richard of [[Holberg]] designed amendments to the structure that harness the powerful flows of mana through the area.

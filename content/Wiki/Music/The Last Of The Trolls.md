@@ -19,12 +19,12 @@ In the stone halls they burn, many great fires, in stone halls the forge their s
 Whilst I walk alone in the mountains and mist, with no true friend but my tears.
 They hunt me with dogs in the rain and the snow, they hunt me with torches by [[Night|night]],
 For those men who are small can never stand tall, whilst trolls still walk in the light.
-Oh I am the last of the trolls, so learn well the words of my song,
+Oh I am [[The Last Of The Trolls|the last of the trolls]], so learn well the words of my song,
 For the singing [[Will|will]] fade, and the silence shall last, when I am finally gone.
 Oh the [[Runes|runes]] I have made and the [[Magic|magic]] I dreamed, was an ancient and powerful thing.
 But the world it has turned and the [[Magic|magic]] is gone, only left in the words that I sing.
 Now the people of old are buried and gone, torn down by mortal fears.
 And the conqueror’s crown glitters so cold, borne down by frozen tears.
-Oh I am the last of the trolls, so learn well the words of my song,
-For the singing will fade, and the silence shall last, when I am finally gone.
+Oh I am [[The Last Of The Trolls|the last of the trolls]], so learn well the words of my song,
+For the singing [[Will|will]] fade, and the silence shall last, when I am finally gone.
 When I am finally gone...

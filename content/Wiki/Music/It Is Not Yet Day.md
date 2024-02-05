@@ -46,13 +46,13 @@ Verse 5
 Tell me that the night is long
 Tell me that the moon is gleaming
 Fill my glass, I’ll sing a song 
-And we'll keep the music [[Streaming|streaming]] [Hold G]
+And we'll keep the [[Music|music]] [[Streaming|streaming]] [Hold G]
 Until all the songs are [[Sung|sung]]
 Chorus
 Coda
 Tell me that the night is long
 Tell me that the moon is glowing
 Fill my glass I'll sing a song
-And we'll start the music...
-Start the music...
+And we'll start the [[Music|music]]...
+Start the [[Music|music]]...
 Start the music flowing!

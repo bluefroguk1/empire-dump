@@ -23,14 +23,14 @@ To appoint ambassadors to [[Foreign Nations|foreign nations]] to pursue trade in
 * [[The Senate]] has not chosen to assign any powers or functions to these positions
 * The Senate has not chosen to assign any money to support these positions
 ### Progress
-The purpose of these positions appears to be closer to trade envoys, than to actual ambassadors - the Senate appears to wish these positions to find a way to allow [[The Empire|the Empire]] to trade for bulk raw materials with neighbouring powers.
+The purpose of these positions appears to be closer to trade envoys, than to actual ambassadors - the Senate appears to wish these positions to find a way to allow [[The Empire|the Empire]] to trade for bulk raw [[Materials|materials]] with neighbouring powers.
 The civil service have provided those appointed with the names of known contacts in the foreign powers so that they may initiate communication with them via Winged Messenger.
 It is possible that a trade [[Embassy|embassy]] might be built to allow regular trade to be automated. This would require significant investment of bulk resources - the civil service strongly recommend that this construction does not begin without firm agreements with a foreign power on trade terms first.
 ### Election
 At the event the following people were appointed to theses positions by the Senate.
 * Constanza Barassadi di Tasssato of [[The League|the league]] for the Principalities of [[Jarm]]
-* Adnanna Dionati of [[The League|the League]] for the Asavean Archipelago
-* Braganza i Arco of [[The Brass Coast|the Brass Coast]] for the Faraden
+* Adnanna Dionati of [[The League|the League]] for the [[Asavean Archipelago]]
+* Braganza i Arco of [[The Brass Coast|the Brass Coast]] for the [[Faraden]]
 * Destain of Derondell of [[Dawn]] for the [[Commonwealth]]
 * Elisir of [[Urizen]] for the Suma Republic
 ### [[Campaign outcome|Campaign Outcome]]

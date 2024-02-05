@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Skull in the Clouds
 aliases: ['The_Skull_in_the_Clouds']

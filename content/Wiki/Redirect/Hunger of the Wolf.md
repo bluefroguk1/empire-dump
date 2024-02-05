@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Hunger of the Wolf
 aliases: ['Hunger_of_the_Wolf']

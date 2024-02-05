@@ -13,9 +13,9 @@ Season|Winter|150
 ### Performing the [[Ritual]]
 Casting time|10 The ritual can only be performed in a [[Regio]]. It cannot be performed by a [[Coven|coven]] who is drawing on the power of that [[Regio|regio]] to enhance their ritual.
 ### Effects
-At the completion of the ritual, the target Regio is destroyed.
+At the completion of the ritual, the target [[Regio]] is destroyed.
 ## Description
-This ritual ends a Regio permanently. In theory, a regio might be recreated, but there is no guarantee of this. The circumstances that caused the destroyed regio to form [[Will|will]] need to recur, and it [[Will|will]] take about the same amount of time. A lonely graveyard might eventually generate another [[Winter]] regio, but it is likely to take as many decades as the original regio took to form, perhaps longer; there is a theory that [[Events|events]] that helped [[Empower|empower]] the original regio do not influence the formation of a later regio.
+This ritual ends a [[Regio]] permanently. In theory, a [[Regio|regio]] might be recreated, but there is no guarantee of this. The circumstances that caused the destroyed regio to form [[Will|will]] need to recur, and it [[Will|will]] take about the same amount of time. A lonely graveyard might eventually generate another [[Winter]] regio, but it is likely to take as many decades as the original regio took to form, perhaps longer; there is a theory that [[Events|events]] that helped [[Empower|empower]] the original regio do not influence the formation of a later regio.
 To all intents and purposes, the regio is [[Gone|gone]] forever.
 Any portal attached to the regio is also destroyed; this usually means that any chamber or hidden [[Realm|realm]] associated with the regio is also destroyed.
 The magical practice of using this ritual to target the Imperial Regio at [[Anvil]] is interdicted.

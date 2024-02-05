@@ -11,7 +11,7 @@ revision_id: 94625
 __NOTOC__
 To [[Expand the Kruidenkenner Magazjin|expand the Kruidenkenner Magazjin]] at Crown’s Quay. 
 This [[Will|will]] create no [[New Imperial titles|new imperial titles]] but [[Will|will]] significantly enhance the existing ministries of the [[High Herbalist of Sybella]] in [[Highguard]], the [[Master of the Clearing House]] in [[The League|the League]], the [[Vizier of the Incarnadine Satchel]] in [[The Brass Coast|the Brass Coast]], and the [[Kruidenkenner Trademaster]]. 
-This will require a civilian [[Commission|commission]]. This is the last season that this [[Opportunity|opportunity]] will be available.
+This [[Will|will]] require a civilian [[Commission|commission]]. This is the last season that this [[Opportunity|opportunity]] [[Will|will]] be available.
 ''Proposed by [[Segura]], seconded by [[Madruga]].''
 ## Outcome
 * [[Expand the Kruidenkenner Magazjin]] in [[Necropolis]] in line with the [[Opportunity|opportunity]] presented by the Kruidenkenner [[Guild|guild]] of herbalists

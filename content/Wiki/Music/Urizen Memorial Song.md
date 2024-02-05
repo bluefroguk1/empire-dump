@@ -30,8 +30,8 @@ We are all human, our spirits live on,
 Though these vessels who were our companions are gone.
 We are all human, our spirits live on,
 Though these vessels who were our companions are gone.
-Where there is darkness, we will make light,
-We will lead others on the path that is right,
+Where there is darkness, we [[Will|will]] make light,
+We [[Will|will]] lead others on the path that is right,
 Though the price may seem high, life is never lost,
 When given in earnest, here in our sight. 
 We are all human, our spirits live on,
@@ -41,5 +41,5 @@ Though these vessels who were our companions are gone.
 Follow the Paragons, follow [[The Way|the Way]],
 Follow your loved ones into the fray,
 Each [[Day|day]] is a battle for control of the self,
-We will triumph ourselves over death one day.
+We [[Will|will]] triumph ourselves over death one day.
 Edit the categories appropriately. This is important.

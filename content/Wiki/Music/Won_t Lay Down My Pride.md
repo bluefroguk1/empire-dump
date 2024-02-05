@@ -14,9 +14,9 @@ Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki
 Won't Lay Down My [[Pride]]
 ''By Nicassia of Phoenix Reach''
 A [[Sentinel]] went out the [[Gate|gate]],
-Pride, soldier, Pride,
+[[Pride]], soldier, [[Pride]],
 To battle [[Thule]] tribes was her fate,
-I won't lay down my Pride.
+I won't lay down my [[Pride]].
 They met them on a windswept field,
 Pride, soldier, Pride,
 They fought to make our enemies yield,

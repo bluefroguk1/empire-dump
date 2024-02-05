@@ -17,11 +17,11 @@ To create the new [[Sinecure|sinecure]] of the Sylvi Hrafn Crystal Henge, to pro
 * 10 wains of [[Mithril|mithril]] and 2 thrones
 * Time: 3 months
 ### Progress
-* 10 wains of [[Mithril|mithril]] and 2 thrones supplied by Jorma Steelhail, [[Senator|senator]] for Skarsind after Autumn Equinox 378.
+* 10 wains of [[Mithril|mithril]] and 2 thrones supplied by Jorma Steelhail, [[Senator|senator]] for [[Skarsind]] after Autumn Equinox 378.
 ### [[Campaign outcome|Campaign Outcome]]
-* When complete, the sinecure [[Will|will]] automatically create the title of [[Guardian of the Cairn]].
+* When complete, the [[Sinecure|sinecure]] [[Will|will]] automatically create the title of [[Guardian of the Cairn]].
 ### Constitution
 * Sinecures are usually life-time appointments. 
-* The title will be a national position, appointed by unanimous decision of the senators for [[Wintermark]].
-* The title can be revoked by the [[Wintermark]] [[Assembly]], the [[General]] [[Assembly]] and the Assembly of Nine.
+* The title [[Will|will]] be a national position, appointed by unanimous decision of the senators for [[Wintermark]].
+* The title can be revoked by the [[Wintermark]] [[Assembly]], the [[General]] [[Assembly]] and the [[Assembly]] of Nine.
 __NOTOC__

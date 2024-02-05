@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Winterskin Tonic
 aliases: ['Winterskin_Tonic']

@@ -15,9 +15,9 @@ The Oblivion [[Sentinel]] is responsible for maintaining a watch over the [[Blac
 ## Powers
 ### Alert to the Plateau
 The Oblivion [[Sentinel]] benefits from a unique gift from [[Sung]]; the [[Eternal|eternal]] [[Will|will]] ensure that [[The Sentinel|the Sentinel]] is always alerted to any significant change in the [[Black Plateau]].
-### Gift from Sung
-The Oblivion Sentinel receives a single ''feather talisman'' each season, a simple magical trinket that smooths [[The Way|the way]] towards seeking her counsel on matters of mystery.
+### Gift from [[Sung]]
+The [[Oblivion Sentinel]] receives a single ''feather talisman'' each season, a simple magical trinket that smooths [[The Way|the way]] towards seeking her counsel on matters of mystery.
 ## [[Appointment]]
-The Oblivion Sentinel is appointed during the [[Autumn]] Equinox each year. It is selected by unanimous decision of the [[Urizen]] [[General]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Military Council]] instead.
-The title can be held by any Urizen citizen. [[The Sentinel]] serves until the next scheduled election. They can be revoked by the [[General]] [[Assembly]], the Urizen [[National Assembly]], and by the [[Assembly of the Nine]].
+The Oblivion [[Sentinel]] is appointed during the [[Autumn]] Equinox each year. It is selected by unanimous decision of the [[Urizen]] [[General]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Military Council]] instead.
+The title can be held by any [[Urizen]] citizen. [[The Sentinel]] serves until the next scheduled election. They can be revoked by the [[General]] [[Assembly]], the [[Urizen]] [[National Assembly]], and by the [[Assembly of the Nine]].
 RecentElections|Oblivion_Sentinel

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Camp planner
 aliases: ['Camp_planner']
 draft: False
@@ -33,15 +33,15 @@ Nation Facebook GroupCamp Planner Email
 * Camp planners aim to publish the camp plan for the event one week before it begins
 * Only contact your own nation's camp planner about the camp plan for the event
 If you are planning to pitch one or more tents in the in-character area at the event, you must let the camp planner for you nation know well beforehand. This may be as simple as filling in a row on a public spreadsheet, but it varies from nation to nation. You need to contact the camp planner, either on Facebook or by email, and let them know the number and size of any tents you are bringing.
-Our camp planners are all members of the relevant nation Facebook group. They will post there 4-6 weeks before each event, to remind people to let them know what tents they are bringing. You can also contact them via their official Profound Decisions email accounts. All contact details are below.
-If you are planning to bring tents you want to pitch in the in-character area then you must let us know two weeks before the event to ensure that space is allocated for them. You will need to let your camp planner know which of the tents you are bringing are required and which are optional (see below) so that they can allocate the space available accordingly. The camp planners for each nation will publish a camping map on the nation's Facebook group one week before the event and will send this by email to anyone who requests it.
+Our camp planners are all members of the relevant nation Facebook group. They [[Will|will]] post there 4-6 weeks before each event, to remind people to let them know what tents they are bringing. You can also contact them via their official Profound Decisions email accounts. All contact details are below.
+If you are planning to bring tents you want to pitch in the in-character area then you must let us know two weeks before the event to ensure that space is allocated for them. You [[Will|will]] need to let your camp planner know which of the tents you are bringing are required and which are optional (see below) so that they can allocate the space available accordingly. The camp planners for each nation [[Will|will]] publish a camping map on the nation's Facebook group one week before the event and will send this by email to anyone who requests it.
 All our camp planners work together, collaboratively, to produce a single camp plan for the event. Please only contact your own nation camp planner about the camp plan. If there any issues that you think could affect neighbouring camps, then discuss those with your camp planner. They will share any relevant issues with the camp planning team.
 ## Optional and Required Tents
 * Required tents include all tents for roleplaying in and any tents that need to be on the IC field for any [[Accessibility|accessibility]] reason (mobility, fatigue, childcare, etc)
 * Optional tents include any tents that could move to an OC field if required because they are just used for sleeping or storing equipment and aren’t needed for any [[Accessibility|accessibility]] reason
 * You won’t be asked to justify or explain your choices - just mark your tent as optional or required with your camp planner
 * If we run out of space, camp planners will more some or all of the sleeping tents labelled as optional to the adjacent overflow fields
-There are new rules in operation for in-character camping in 2023. When you let your camp planner know what tents you are planning to bring, you must let them know which tents are required and which are optional. Required tents are all tents for roleplaying in and any tents that need to be on the in-character field for any accessibility reason (mobility, fatigue, childcare, etc). Optional tents include any tents that could move to an OC field if required because they are just used for sleeping or storing equipment and aren’t needed for any accessibility reason. You won’t be asked to justify or explain your choices - just let the camp planner know if the tent as optional or required as appropriate.
+There are new rules in operation for in-character camping in 2023. When you let your camp planner know what tents you are planning to bring, you must let them know which tents are required and which are optional. Required tents are all tents for roleplaying in and any tents that need to be on the in-character field for any [[Accessibility|accessibility]] reason (mobility, fatigue, childcare, etc). Optional tents include any tents that could move to an OC field if required because they are just used for sleeping or storing equipment and aren’t needed for any [[Accessibility|accessibility]] reason. You won’t be asked to justify or explain your choices - just let the camp planner know if the tent as optional or required as appropriate.
 If we run out of space, then our camp planners will move some or all of the sleeping tents labelled as optional to the adjacent overflow fields. These fields are not in-character and don't form part of the [[Anvil]] game area, but they are adjacent to [[Anvil]] to keep walking distances to a minimum. If we only need to move a few tents, then we will ensure we aren't moving the same tents each time.
 ## Camp Setup
 * You must make sure you camp in the indicated area
@@ -56,7 +56,7 @@ It is important to keep in mind that our camp planners are treated as players du
 * Camp planners will remind players pitching in the in-character area to clear their camp at the end of the weekend
 * Your camp planner can provide advice on how to dispose of your rubbish and will have spare rubbish bags if you need them
 You must make sure you clear all your rubbish at the end of the weekend and put it in one of the skips provided. Your camp planner will remind you to clear your camp before the end of the weekend. They can tell you where the skips are located and provide advice on the best way to dispose of your rubbish if you need any help. They also have spare refuse bags available if you need them to bag your rubbish.
-## Accessibility
+## [[Accessibility]]
 * Please make sure your camp planners is aware of any accessibility needs you have
 * Please make sure your camp planner is aware of any other out-of-character issues you have
 * If your accessibility needs include electricity for a CPAP machine, please contact admin to let them know

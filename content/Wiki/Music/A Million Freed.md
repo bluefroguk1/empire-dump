@@ -46,9 +46,9 @@ I close my eyes to see
 Every night I lie in bed
 This great [[Ambition|ambition]] fills my head
 A million slaves are keeping me awake
-(A million freed, a million freed)
+([[A Million Freed|A million freed]], [[A Million Freed|a million freed]])
 I think of what the world could be
 One where everyone is free
-A million freed is all it's gonna take
+[[A Million Freed|A million freed]] is all it's gonna take
 A million freed from the chains we're gonna break
 From the chains we're gonna break.

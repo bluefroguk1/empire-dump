@@ -22,5 +22,5 @@ Title appointed by [[Declaration]] of [[Candidacy]] within ConclaveProposed by [
 * The [[Imperial Title]] Arcane [[Architect]] was created.
 * The title was amended by [[The Senate|the Senate]] in [[Spring]] 380YE to restrict the use of the power to once per season.
 ### Constitution
-* It is the decision of the Constitutional Court that any mana sinecures constructed by this Imperial Title [[Will|will]] be appointed a [[Declaration]] of [[Candidacy]] within [[The Conclave|the Conclave]].
+* It is the decision of the Constitutional Court that any mana sinecures constructed by this [[Imperial Title]] [[Will|will]] be appointed a [[Declaration]] of [[Candidacy]] within [[The Conclave|the Conclave]].
 __NOTOC__

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Creation a lottery
 aliases: ['Creation_a_lottery']

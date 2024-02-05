@@ -13,7 +13,7 @@ Announcement: I wish to [[Commission|commission]] [[Historical research|historic
 Announced by Siân [[Eternal]], [[Advisor on the Vallorn]].
 ### Overview
 * [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service.
-* Historical Research request announced by the Advisor on [[The Vallorn|the Vallorn]] using the legal powers to announce historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the Advisor on [[The Vallorn|the Vallorn]] using the legal powers to announce [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * Summer 381YE
 ### [[Campaign outcome|Campaign Outcome]]

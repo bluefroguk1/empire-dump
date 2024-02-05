@@ -9,8 +9,8 @@ revision_id: 107437
 
 ## Overview
 Over the past 5 years, alongside working hard on supporting out of character access needs, Profound Decisions and its volunteer teams have begun to increase the range of [[Accessibility|accessibility]] needs met by its various plots and the encounters and activities within them. This document aims to make it much clearer and easier to find the information you need to discover what provisions we have made and to understand how to request further adjustments to help you enjoy [[The game|the game]]. 
-Our [[General|general]] information on [https://www.profounddecisions.co.uk/[[Accessibility|accessibility]] the out-of-character factors that impact accessibility like the site, ground conditions, structures and hygiene] are currently available on the central Profound Decisions website. The map showing the location of the various accessible camping areas is published with the details for the specific event - under [[Event Information]] in the sidebar. This page deals specifically with the efforts we are making to make the plot we run more accessible.
-You can mail our accessibility team on [mailto:accessibility@profounddecisions.co.uk accessibility@profounddecisions.co.uk] at any point on the run-up to an event to ask for help or information.
+Our [[General|general]] information on [https://www.profounddecisions.co.uk/[[Accessibility|accessibility]] the out-of-character factors that impact [[Accessibility|accessibility]] like the site, ground conditions, structures and hygiene] are currently available on the central Profound Decisions website. The map showing the location of the various accessible camping areas is published with the details for the specific event - under [[Event Information]] in the sidebar. This page deals specifically with the efforts we are making to make the plot we run more accessible.
+You can mail our [[Accessibility|accessibility]] team on [mailto:[[Accessibility|accessibility]]@profounddecisions.co.uk accessibility@profounddecisions.co.uk] at any point on the run-up to an event to ask for help or information.
 ## What is a plot?
 For the purposes of this document we can consider a “plot” at Empire to be a series of encounters, activities or [[Events|events]] instigated by Profound Decisions, and designed to increase roleplaying [[Opportunities|opportunities]] on the field.
 [[The Way|The way]] Profound Decisions generated plot reaches its players at Empire is broadly (although not exhaustively) covered by the list below
@@ -25,26 +25,26 @@ Because access needs are individual, there is no such thing at Empire as an “a
 The information we provide is limited to the things that we, as game organisers control, other players actions may sometimes - especially in relation to [[Combat|combat]] - create additional accessibility issues.
 ### Who and how to ask?
 Anyone may ask a [[Referee|referee]], [[Egregore|egregore]] or member of the GOD team for accessibility information about a plot line, at any time (including, but not limited to, when carrying out an in-character conjunction check). You do not need to use the [[Magician|magician]] skill of [[Detect Magic|detect magic]], and you do not need to explain anything about your reasons for asking so long as it is for out of character purposes.
-You will need to have a good way of describing the plot you are interested in so that the person assisting you is able to find the information. The kind of things that will help us identify a plot are listed below in descending order - the most effective ways are listed first.
+You [[Will|will]] need to have a good way of describing the plot you are interested in so that the person assisting you is able to find the information. The kind of things that [[Will|will]] help us identify a plot are listed below in descending order - the most effective ways are listed first.
 * Any details about a conjunction such as time or location
 * A ribboned item linked to the plot
 * The name of a specific NPC you have interacted with
-* The title of a wind of fortune or wind of war related to the plot
-* A [[General|general]] description of events that have happened so far
+* The title of a wind of fortune or wind of [[War|war]] related to the plot
+* A [[General|general]] description of [[Events|events]] that have happened so far
 ### Questions about a specific plot
 There are a number of questions you can ask about a plot you are engaged with or considering engaging with, including, but not limited to:
 * Where on the site an activity is going to take place
 * When an activity is going to take place
 * What intensity of [[Combat|combat]] is expected
 * What light levels you can expect
-* Whether there will be documents to read
+* Whether there [[Will|will]] be documents to read
 * Whether the whole activity is wheelchair accessible
 * Whether seating is available
 * Whether the activity has any phobia warnings listed against it
 * Any other questions that relate to your specific access needs 
 * Whether a high degree of word/maths or logic reasoning or motor control is needed for puzzles
 It is important to note that we will do our best to have the answers for these questions ready, but we won’t always have all answers in advance, so there may be a delay whilst we check something if we can’t answer immediately, especially if it relates to a need that we have not considered.
-The questions best fit with plots that take place “off Anvil”, but might also apply to an audience with an [[Eternal|eternal]] in the Hall of Worlds, or a planned delegation visit to the Hub, for example.
+The questions best fit with plots that take place “off [[Anvil]]”, but might also apply to an audience with an [[Eternal|eternal]] in the Hall of Worlds, or a planned delegation visit to the Hub, for example.
 ### Getting Help Accessing Plots
 You may also ask your egregore for help accessing ongoing plots that you are pursuing or are involved with. They will be able to give you some advice on existing plots - and also feed back to the writers on the kind of changes or improvements that would make a plot more accessible. For example “I’d like to be involved with the negotiations with the [[Jotun]] but I can't easily walk more than a few hundred yards” is the sort of guidance that we will try to incorporate into our planning to make an encounter responsive to an individual's needs.
 ### Getting Help Accessing GOD
@@ -56,7 +56,7 @@ This sort of proxying only affects out-of-character processes, like interacting 
 It is absolutely acceptable to ask for a change to an encounter to enable you to attend it. We have moved outside encounters inside, changed lighting levels, changed times; and will make every effort to adjust an encounter for someone who is closely following a plot, if we discover their access needs in time. [[Egregores]], referees or GOD can help you organise this. It will not always be possible, especially as sometimes different needs conflict, but if we can accommodate a change we will.
 For the moment, it will be left up to the refs and plot teams to decide what can be offered on a case-by-case basis. We’ll pay attention to how well we are doing at meeting these requests, and implement a more rigid protocol if we are not doing well.
 ### Moving the [[Regio]]
-If you are looking to do a [[Ritual|ritual]] that uses the [[Regio|regio]] but any of members of your ritual team would find the distance to the regio a significant problem, then you may arrange with a referee or with GOD to do the ritual elsewhere. We can ref the ritual at any suitable location that doesn't pose a problem. We can't move the props or the sound FX system or any of the regio equipment - but a referee can come to your camp or to an appropriate location and treat that as the regio if that is needed.
+If you are looking to do a [[Ritual|ritual]] that uses the [[Regio|regio]] but any of members of your ritual team would find the distance to the [[Regio|regio]] a significant problem, then you may arrange with a referee or with GOD to do the ritual elsewhere. We can ref the ritual at any suitable location that doesn't pose a problem. We can't move the props or the sound FX system or any of the [[Regio|regio]] equipment - but a referee can come to your camp or to an appropriate location and treat that as the [[Regio|regio]] if that is needed.
 ### [[Signs and Portents]]
 [[Signs and Portents]] is a ritual which gives each participant a vision. These are handed out by the referee on slips of paper to be read and then returned to the referee. If this is a significant problem the referee may read the vision text to the recipient who has the [[Opportunity|opportunity]] to make notes during the reading.
 ### The problem with having to ask
@@ -73,18 +73,18 @@ Some [[Confusion|confusion]] arises because the term “non-combatant” can mea
 This is the most common meaning of the term “non-combatant” and it tells us nothing about the access needs of the player. People playing "characters who do not [[Fight|fight]]" may go on [[Battles|battles]], skirmishes, quests and encounters. They risk their character when they do so, and may be hit, or need to run away.
 ### The “Non-Contact” Gesture
 The non contact gesture means putting your hand in the air. If you do this then your character falls to 0 hits, and all other players should avoid hitting you if they possibly can. PD cannot guarantee that you will not be hit, but every effort will be made to avoid doing so by those around you.
-### Fight Classifications and the “Non-Contact” Gesture
-At Empire, our off Anvil encounters will be marked as:
+### [[Fight]] Classifications and the “Non-Contact” Gesture
+At Empire, our off [[Anvil]] encounters will be marked as:
 * Combat Highly Likely
 * Combat Possible
 * Combat Suitable For Cadets
 * Combat Unlikely or Contained
 These designations each have a different description about the likelihood (not severity) and containment of fighting, the conclusions we make about the risks of using the gesture, and how you should use the classifications to assess whether the experience fits your needs.
 ### Combat Highly Likely
-No one should go on a battle, skirmish or encounter that is marked as “combat highly likely” if it is likely to be important to their safety to be able to use the “non-contact” gesture successfully. The level of combat planned for these types of activity is high and there is a high chance that those around might not see the gesture in time to avoid hitting someone. Those players wishing not to fight, and neither prepared or able to flee or take hits if a fight breaks out near them should not go on battles, skirmishes or quests marked combat highly likely.
+No one should go on a battle, skirmish or encounter that is marked as “combat highly likely” if it is likely to be important to their safety to be able to use the “non-contact” gesture successfully. The level of combat planned for these types of activity is high and there is a high chance that those around might not see the gesture in time to avoid hitting someone. Those players wishing not to [[Fight|fight]], and neither prepared or able to flee or take hits if a [[Fight|fight]] breaks out near them should not go on battles, skirmishes or quests marked combat highly likely.
 The non-contact gesture can still be used by anyone if they find themselves injured, panicked or in a situation where they can use the gesture to make themselves safe and avoid escalating to the point of needing a FIRST AID call.
 ### Combat Possible
-It is acceptable to go on an encounter marked combat possible if you plan to use the non-contact gesture. However players should be aware that the likelihood of a fight breaking out near them will be higher than in Anvil. The risk of being hit because someone didn’t see the gesture is also higher than it would be in Anvil. It also follows that bleeding out and losing the character as a result of using the gesture are also far higher than in Anvil, so you will be risking your in-character safety in the same way that combat characters will.
+It is acceptable to go on an encounter marked combat possible if you plan to use the non-contact gesture. However players should be aware that the likelihood of a fight breaking out near them will be higher than in [[Anvil]]. The risk of being hit because someone didn’t see the gesture is also higher than it would be in Anvil. It also follows that bleeding out and losing the character as a result of using the gesture are also far higher than in Anvil, so you will be risking your in-character safety in the same way that combat characters will.
 If you choose to go on a quest marked combat possible with the intention of using the non-contact gesture then you need to be prepared for both the in-character and out-of-character dangers.
 ### Combat Suitable For Cadets
 An encounter marked as combat suitable for cadets is quite likely to feature combat with NPCs, but the encounter has been written and the NPCs have been chosen and briefed to create a physical [[Challenge|challenge]] that is appropriate for younger participants who have not yet passed their [[Test of Arms]]. Such quests are expressly designed to be accessible for [[The Academy|the Academy]]'s cadets. 
@@ -112,7 +112,7 @@ If you feel someone is criticising your choices as a player rather than as a cha
 ## Distance
 ### Location, Terrain and Movement
 Every encounter that is planned to take place off Anvil will always have a location specified for it. This information will tell you where the encounter is located, which could be an encounter tent, the field or the woods. This gives you the first sense of distance and terrain.
-In general (though poor weather may affect this) the terrain is as follows
+In [[General|general]] (though poor weather may affect this) the terrain is as follows
 * Woodland - Can be difficult underfoot with rough terrain, tangled undergrowth, ditches and other obstacles, whether free-ranging or limited.
 * Field - Ground is uneven, especially in some parts with obstacles and some trip hazards.
 * Encounter Tent - Flat ground on a slight inclination; will not normally include obstacles.
@@ -132,7 +132,7 @@ We are moving towards a standard whereby most in-character documentation produce
 Sometimes the plot writers produce documentation whose value as a prop is more important than the information contained within it. Whilst we will aim to consider readability, these props may feature ageing, smaller text, fancy calligraphy or actual handwriting which will make the documents harder to read. 
 We appreciate that it seems like it should be easy to offer large print options either on request, or attached to every document. For a wide range of reasons this is not as simple as it might seem. However we are exploring other things we may do to improve options around accessible documentation in future.
 ### Pre-event documents
-A large amount of written information is made available prior to events, with information about plot-lines that characters can discuss and act upon in the field. Focusing specifically on the documents that change every event - the winds of war and winds of fortune - we know that this can be an accessibility issue.
+A large amount of written information is made available prior to [[Events|events]], with information about plot-lines that characters can discuss and act upon in the field. Focusing specifically on the documents that change every event - the winds of [[War|war]] and [[Winds of Fortune|winds of fortune]] - we know that this can be an accessibility issue.
 Currently, to make this more accessible we do the following:
 * Detailed IC accounts are separated visually from factual summaries so that people can decide how much written information they want to access
 * Overview pages offer a couple of sentences summarising all the content so that people can choose which to read further
@@ -147,7 +147,7 @@ We know that one of the biggest access issues of Empire is the size of the field
 We know that there is also a perception that our NPCs appear at significant locations such as the Hall of Worlds or the Hub, and opportunities to talk to them are gained by the people who are most able to be checking those places frequently. Additionally, the scarcity of opportunities to interact with NPCs can favour those who find it easiest to be alert and/or functioning at their best at a moments notice. We believe there is some truth in that perception and are working to change it:
 These are the things that are already in place:
 * NPCs are usually given a brief which discourages them from speaking with “the people who are nearest” - they may actually be looking for a named character, or they may be told to go and “find [[Grimnir|grimnir]] in [[Wintermark]]” or “wise ones in [[Varushka]]” or “monster hunters in [[Dawn]]” - so the frequency with which they engage only with the people at the location where they arrive on the field is decreasing, to the point where we aim for it to become a rarity
-* We have explored a method of plot delivery which is best described as “have your name and most common location placed in a box if you’d like this type of NPC to visit you” - communicated via winds of fortune. This was successful in terms of high levels of engagement, though challenging in crew time to follow up. We will probably do more of this, although recognise that as an IC solution, it may not suit some characterisations. 
+* We have explored a method of plot delivery which is best described as “have your name and most common location placed in a box if you’d like this type of NPC to visit you” - communicated via [[Winds of Fortune|winds of fortune]]. This was successful in terms of high levels of engagement, though challenging in crew time to follow up. We will probably do more of this, although recognise that as an IC solution, it may not suit some characterisations. 
 * When someone is engaged in a plot, NPCs often give them ritual tokens, or agree to pay message costs for them to notify us of suitable times for an NPC to come to them. Alternatively we might notify them of a time via a letter to initiate a plot, and ask them to send a message if that time is not convenient. Again, this in-character method will not suit everyone, it is perfectly acceptable to ask an egregore to discuss a change of time of an NPC visit instead if the change is needed for access reasons.
 * If we have been targeting plot at a person or group, and they are not available on the field, when an NPC goes looking for them without a pre-arranged [[Appointment|appointment]], the NPC will usually aim to work out why that is (are they doing something in-character where they can’t be disturbed or are they meeting their out-of-character needs) if the reasons is out-of-character, the NPC will usually return at another time, sometimes at a future event. 
 We know that even with these elements in place, Anvil can be daunting to face for people with either fatigue or mobility issues, so we will also explore other things we can do in the future.

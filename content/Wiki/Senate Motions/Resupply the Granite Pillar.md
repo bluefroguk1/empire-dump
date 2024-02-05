@@ -17,11 +17,11 @@ revision_id: 85831
 ### [[Cost]]
 * Standard resupply costs apply.
 ### [[Campaign outcome|Campaign Outcome]]
-* Unlimited resupply of the Granite Pillar is authorized by the [[Imperial Senate]] until end of [[Summer]] 378.
+* Unlimited resupply of the [[Granite Pillar]] is authorized by the [[Imperial Senate]] until end of [[Summer]] 378.
 ### Progress
 ### Autumn Equinox 377
-* 20 Wains of [[Mithril|mithril]] supplied by [[Ruth]], [[General]] of the Granite Pillar.
-* 10 Wains of [[Weirwood|weirwood]] supplied by [[Ruth]], [[General]] of the Granite Pillar.
+* 20 Wains of [[Mithril|mithril]] supplied by [[Ruth]], [[General]] of the [[Granite Pillar]].
+* 10 Wains of [[Weirwood|weirwood]] supplied by [[Ruth]], [[General]] of the [[Granite Pillar]].
 * Army strength of the Granite Pillar increased
 ### Constitution
 When no limitations are placed on the extent or duration of [[Senate]] authorization to resupply an army, the assumption is that the maximum possible limits apply; the [[Senator|senator]] may supply any amount of [[Mithril|mithril]] or [[Weirwood|weirwood]] up to a year after the motion is passed.

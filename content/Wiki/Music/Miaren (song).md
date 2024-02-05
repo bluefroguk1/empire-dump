@@ -11,14 +11,14 @@ revision_id: 24506
 Original Song by Jamie Wakefield  (https://soundcloud.com/jamie-wakefield/[[Miaren|miaren]]) 
 [[Chords]]:  Stanza 1&2 -  C#m E A C#m A F#m C#m,  Stanza 3 - A C#m A E, A G#m F#m B,  Stanza 4 – C#m E C#m E A F#m C#m,  Bridge - A G#m F#m B x2, Coda - C#m E C#m E A F#m C#m x2.
 Verse 1
-[[Miaren]], Miaren,
+[[Miaren]], [[Miaren]],
 [[Will]] we meet again,
 At journey's end,
-Miaren?
+[[Miaren]]?
 Oh dream, oh jewel,
 Of Terunael,
 Do tell me when,
-Miaren.
+[[Miaren]].
 How I recall,
 Your towers of yore,
 That once filled the blue skies,

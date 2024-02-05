@@ -17,7 +17,7 @@ Commissioning a mana [[Sinecure|sinecure]] to be overseen by the [[Curator of th
 ## Date
 * [[Spring]] 384YE
 ## [[Cost]]
-* Standard Sinecure costs apply
+* Standard [[Sinecure]] costs apply
 ## Progress
 CommissionProgress|Twilight_Demesne
 ## Outcome

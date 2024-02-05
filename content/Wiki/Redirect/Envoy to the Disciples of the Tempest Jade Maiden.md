@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Envoy to the Disciples of the Tempest Jade Maiden
 aliases: ['Envoy_to_the_Disciples_of_the_Tempest_Jade_Maiden']

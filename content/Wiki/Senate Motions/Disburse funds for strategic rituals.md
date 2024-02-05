@@ -20,10 +20,10 @@ Disbursal of funds for the intention of funding of the purchase of Mana to be us
 ### Overview
 * Passed in principle
 * Passed at 95 Thrones
-* Money to be distributed to Senator Morrow
+* Money to be distributed to [[Senator]] [[Morrow]]
 ## Spring 378YE
-Disbursal of funds with the intent of use to be casting strategic rituals on armies.
+Disbursal of funds with the intent of use to be casting strategic [[Rituals|rituals]] on armies.
 ''Raised by [[Redoubt]], seconded by [[Madruga]].''
 ### Progress
-* 25 Thrones disbursed to Senator Redoubt
+* 25 Thrones disbursed to [[Senator]] [[Redoubt]]
 __NOTOC__

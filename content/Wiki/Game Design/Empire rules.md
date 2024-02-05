@@ -24,11 +24,11 @@ Safety is important to ensure that [[Events|events]] are as safe as possible. Ev
 ThreeColIconImage|file=FreebornFamily.jpg|link=Groups
 Players creating [[Characters|characters]] together can create a concept for a group to link those characters together. There are special rules some types of groups, called [[Bands|bands]] in Empire.
 ## [[Skills]]
-ThreeColIconImage|file=LeagueCrossbowman.jpg|link=Skills
-A character is defined by the Skills that they possess. You can purchase any skill you want for your character, though some skills must be bought first.
+ThreeColIconImage|file=LeagueCrossbowman.jpg|link=[[Skills]]
+A character is defined by the [[Skills]] that they possess. You can purchase any skill you want for your character, though some [[Skills|skills]] must be bought first.
 ## [[Magic]]
 ThreeColIconImage|file=MagicStaff.jpg|link=[[Magic]]
-Magicians are able to wield the force of Magic, using it to drive enemies away or [[Mend|mend]] shattered weapons and bones. Read this section if you are interested in playing a [[Magician|magician]].
+Magicians are able to wield the force of [[Magic]], using it to drive enemies away or [[Mend|mend]] shattered weapons and bones. Read this section if you are interested in playing a [[Magician|magician]].
 ## [[Resource]]
 ThreeColIconImage|file=RingsAndCoins.jpg|link=Resource
 Resources provide a character with wealth and precious resources. Every character in Empire may control campaign resources and a single personal resource.

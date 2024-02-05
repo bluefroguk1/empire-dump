@@ -20,13 +20,13 @@ Though he prayed and rang his bell
 The priest said it was well
 Her arms were all too feeble
 Though she claimed to love me so
-The sovereign stretched out its hand
+[[The Sovereign|The sovereign]] stretched out its hand
 She sighed and let me go
 This land is all too shallow
 It is [[Painted|painted]] on the sky
 And it trembles like the wind-shook rain
-When the sovereign rides by
+When [[The Sovereign|the sovereign]] rides by
 For ever and for always
 I pray remember me
 Upon the moors, beneath the stars
-In the sovereign's company
+In [[The Sovereign|the sovereign]]'s company

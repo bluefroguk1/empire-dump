@@ -19,10 +19,10 @@ Instrumental
 Trumpet call and battle cry
 Raise the standard up on high
 Victory or else we die
-Now have no fear, fight with me for [[Glory|glory]] here
+Now have no fear, [[Fight|fight]] with me for [[Glory|glory]] here
 Instrumental 
 Take your weapons in your hand
 Shield to shoulder now we stand
 Never yield a foot of land
-Now have no fear, fight with me for glory here
+Now have no fear, [[Fight|fight]] with me for [[Glory|glory]] here
 Instrumental

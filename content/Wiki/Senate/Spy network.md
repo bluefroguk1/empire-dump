@@ -9,15 +9,15 @@ revision_id: 107309
 ---
 
 ## Overview
-[[The Empire]] uses spy networks to spy on [[Barbarian|barbarian]] territories and armies. There is only a small [[Cost|cost]] to build and upkeep a [[Spy network|spy network]] but to operate them requires military units be assigned to support them, exactly as if the [[Military unit|military unit]] were supporting an [[Imperial army]]. The more military units are assigned to a [[Spy network|spy network]], the more information about the [[Territory|territory]] is produced. It is not currently possible to construct a spy network which can be supported by fleets without an appropriate [[Opportunity]].
+[[The Empire]] uses spy networks to spy on [[Barbarian|barbarian]] territories and armies. There is only a small [[Cost|cost]] to build and upkeep a [[Spy network|spy network]] but to operate them requires military units be assigned to support them, exactly as if the [[Military unit|military unit]] were supporting an [[Imperial army]]. The more military units are assigned to a [[Spy network|spy network]], the more information about the [[Territory|territory]] is produced. It is not currently possible to construct a [[Spy network|spy network]] which can be supported by fleets without an appropriate [[Opportunity]].
 ## [[Senate]] Commissions
-The [[Imperial Senate]] can pass motions to create a new spy network. There is no benefit to having two spy networks in a territory.
+The [[Imperial Senate]] can pass motions to create a new [[Spy network|spy network]]. There is no benefit to having two spy networks in a territory.
 ### Costs
 * [[Materials]]: 10 [[Weirwood|weirwood]] and 30 crowns
 * Time: 3 months to construct
 * Upkeep: 2 thrones per season
 ### Limitations
-An Imperial spy network can only be constructed in a Territory adjacent to a region controlled by [[The Empire|the Empire]]. For example, to construct a new spy network in [[Hordalant]] the Empire would need to control one of West Ranging or Westwood in [[Liathaven]] or North Fens or Grey Fens in [[Bregasland]].
+An Imperial [[Spy network|spy network]] can only be constructed in a Territory adjacent to a region controlled by [[The Empire|the Empire]]. For example, to construct a new spy network in [[Hordalant]] [[The Empire|the Empire]] would need to control one of West Ranging or Westwood in [[Liathaven]] or North Fens or Grey Fens in [[Bregasland]].
 It is not necessary to know the name of a territory to create a spy network there; the civil service [[Will|will]] do their best to ensure it goes in the right place if at all possible.
 ## Military units
 Once complete any Imperial citizen can assign a [[Military unit]] they control to support the spy network. The more military units that are assigned to operate a spy network, the more information is produced. 
@@ -26,8 +26,8 @@ StrengthOutcome
 1000Details of any [[Fortifications|fortifications]] in the area and the details of armies including their approximate fighting strength, the actions they are taking, and the names of any significant military commanders. More detail about the territory including an overview of trading links and connections to adjacent territories.
 1500A thorough overview of the territory, enough to produce a detailed strategic map showing the locations of fortifications and any [[Bourse|bourse]] resources present.
 The results are cumulative, so if 1500 strength in total is assigned then the players receive all the benefits listed on the table.
-A copy of the information gained is provided to every player who assigned a military unit to the spy network in the form of an out of character report. In addition they receive any other resources that are made available (such as shares in the Imperial Guerdon.)
-Each upgrade a military unit has adds an additional 20 strength to the overall tally.
+A copy of the information gained is provided to every player who assigned a [[Military unit|military unit]] to the spy network in the form of an out of character report. In addition they receive any other resources that are made available (such as shares in the Imperial Guerdon.)
+Each upgrade a [[Military unit|military unit]] has adds an additional 20 strength to the overall tally.
 ## Decommissioning a Spy Network
 While [[The Senate|the Senate]] could simply stop paying the upkeep on the spy network, doing so reveals its location to the owners of that territory. Alternatively, the [[Imperial Senate]] can choose to pass a motion to decommission the spy network. This costs 5 thrones and takes a season; during this time military units cannot be assigned to the spy network. At the end of the season, the spy network is clandestinely rolled up without the owner of the territory being any the wiser.
 #lst:Archive:All_Commissions|spynetworks

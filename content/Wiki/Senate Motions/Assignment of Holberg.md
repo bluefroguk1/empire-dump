@@ -15,5 +15,5 @@ That [[Holberg]] be allocated to [[The League|the League]]''Proposed by [[Semmer
 ### Date
 * [[Spring]] 379YE
 ### [[Campaign outcome|Campaign Outcome]]
-* Holberg has been assigned to the [[League]], and can elect a [[Senator]].
+* [[Holberg]] has been assigned to the [[League]], and can elect a [[Senator]].
 __NOTOC__

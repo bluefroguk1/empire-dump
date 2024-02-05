@@ -25,4 +25,4 @@ Proposed by [[Sermersuaq]], Seconded by [[Hahnmark]]
 * 15 wains of [[White granite|white granite]], 5 wains of [[Weirwood|weirwood]], and 5 thrones provided by Atte Arrow-Tongue Metsastajason after Spring Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
 * Work on this [[Commission]] has been completed now that explicit permission from the current owner of the Hall of White Ravens has been received by the civil service.
-* The Legion's Rookery is now complete. It provides a share 12 [[Liao]] and 25 votes in the [[Imperial Synod]] spread amongst those citizens of Skarsind who own congregations each season, following attendance at the [[Anvil]] Summit
+* The Legion's Rookery is now complete. It provides a share 12 [[Liao]] and 25 votes in the [[Imperial Synod]] spread amongst those citizens of [[Skarsind]] who own congregations each season, following attendance at the [[Anvil]] Summit

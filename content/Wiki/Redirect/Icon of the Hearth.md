@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Icon of the Hearth
 aliases: ['Icon_of_the_Hearth']

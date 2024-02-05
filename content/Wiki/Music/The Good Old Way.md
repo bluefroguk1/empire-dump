@@ -25,7 +25,7 @@ We're marching on [[The Good Old Way|the good old Way]]
 Chorus x 2
 For I have a sweet hope of [[Glory|glory]] in my soul
 For I have a sweet hope of [[Glory|glory]] in my soul
-For I know I have and I feel I have a sweet hope of glory in my soul
+For I know I have and I feel I have a sweet hope of [[Glory|glory]] in my soul
 Our conflicts here though great they be
 Shall not prevent our victory
 If we but strive and watch and pray

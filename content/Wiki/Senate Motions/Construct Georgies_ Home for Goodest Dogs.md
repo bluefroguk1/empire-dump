@@ -16,9 +16,9 @@ That [[The Senate|the Senate]] [[Commission|commission]] the construction of a [
 ## Date
 * [[Winter]] 382YE
 ## [[Cost]]
-* This Sinecure uses standard costs.
-* The size of the commission has not been specified.
+* This [[Sinecure]] uses standard costs.
+* The size of the [[Commission|commission]] has not been specified.
 ## Progress
-* 10 wains of [[White granite|white granite]] and 20 crowns provided by Victor van Holberg after the Winter Equinox 382YE.
+* 10 wains of [[White granite|white granite]] and 20 crowns provided by Victor van [[Holberg]] after the Winter Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Sinecure [[Will|will]] create an [[Imperial Title]], [[Custodian of the Kennels]].
+* When complete, the [[Sinecure]] [[Will|will]] create an [[Imperial Title]], [[Custodian of the Kennels]].

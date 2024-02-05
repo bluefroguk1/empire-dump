@@ -26,4 +26,4 @@ Proposed by [[Zenith]], Seconded by [[Sarvos]]
 * 25 wains of [[Weirwood|weirwood]], 25 wains of [[White granite|white granite]] and 12 thrones supplied by Tanwyn Ankarien after Summer Solstice 380YE.
 * Construction has begun in Limus, Cargo, [[Redoubt]] (near the Jarmish [[Embassy|embassy]]).
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, this Embassy [[Will|will]] automatically create a new [[Imperial Title|Imperial title]] of [[Ambassador to Axos]]
+* Once completed, this [[Embassy]] [[Will|will]] automatically create a new [[Imperial Title|Imperial title]] of [[Ambassador to Axos]]

@@ -16,4 +16,4 @@ In response to concerns raised to the Department by Solus, [[High Exorcist]] of 
 ## Date
 * [[Spring]] 383YE
 ## Outcome
-* Research document was provided to the Minister for Historical Research, and eventually made public knowledge.
+* Research document was provided to the Minister for [[Historical research|Historical Research]], and eventually made public knowledge.

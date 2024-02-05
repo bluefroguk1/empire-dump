@@ -10,7 +10,7 @@ revision_id: 23583
 
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Dawn|dawn]].jpg
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:[[Dawn]]-regions.png
-640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-dawn-texture.jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Dawn|dawn]]-texture.jpg
 ### See Also
 * [[Astolat]]
 * [[The Barrens]]

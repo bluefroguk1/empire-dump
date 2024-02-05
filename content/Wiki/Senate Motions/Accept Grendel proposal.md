@@ -16,5 +16,5 @@ After this, further negotiations may occur with this Salt Lord and/or others.Pro
 * [[Winter]] 378YE
 ### Constitution
 * This is not a legal restriction, but a [[Statement of Principle|statement of principle]] by the [[Imperial Senate]].
-* The Grendel remain [[Barbarians|barbarians]], and raiding their fleets remains perfectly legal.
+* The [[Grendel]] remain [[Barbarians|barbarians]], and raiding their fleets remains perfectly legal.
 __NOTOC__

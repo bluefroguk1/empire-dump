@@ -17,4 +17,4 @@ To disburse [[Senate]] funds intended to resupply the Imperial ArmiesProposed by
 ### Date
 * [[Spring]] 380YE
 ### Progress
-* 250 Thrones disbursed to [[Senator]] Bregasland
+* 250 Thrones disbursed to [[Senator]] [[Bregasland]]

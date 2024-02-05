@@ -9,7 +9,7 @@ revision_id: 94587
 
 Traditional [[Wisdom|wisdom]] in [[The Marches|the Marches]] is often contained in pithy, short phrases full of meaning that contain practical advice. These [[Proverbs|proverbs]] are often admonitions or advice. There are many more of these than any one person could hope to collect.
 Widespread sayings include: 
-* [[Pride]] in small things, [[Loyalty|loyalty]] to great ones. People should take [[Pride|pride]] in what they do, but be loyal to their nation, rather than taking a pride in their nation's achievements but being loyal to themselves.
+* [[Pride]] in small things, [[Loyalty|loyalty]] to great ones. People should take [[Pride|pride]] in what they do, but be loyal to their nation, rather than taking a [[Pride|pride]] in their nation's achievements but being loyal to themselves.
 * When a dog barks, you don't bark back. Loud, angry words or taunts shouldn't be answered in kind.
 * Sword and shears [[Both cut alike|both cut alike]]. Soldiers and farmers both do important jobs.
 * Know a body by their March; judge'em by their company. A variant of 'Don't judge a book by its cover'

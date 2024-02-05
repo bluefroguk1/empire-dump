@@ -27,4 +27,4 @@ Construct the Cathedral of [[The Navigators|the Navigators]], a Temple of [[The 
 CommissionProgress|Cathedral_of_the_Navigators
 ## Outcome
 * 50 thrones disbursed to the [[Senator]] for [[Temeschwar]]
-* Once the Cathedral of [[The Navigators|the Navigators]] is completed [[The Bishop|the Bishop]] of the Navigators [[Will|will]] be able to be appointed by the [[General Assembly]]
+* Once the Cathedral of [[The Navigators|the Navigators]] is completed [[The Bishop|the Bishop]] of [[The Navigators|the Navigators]] [[Will|will]] be able to be appointed by the [[General Assembly]]

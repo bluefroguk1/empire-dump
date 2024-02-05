@@ -14,13 +14,13 @@ ThreeColIconImage|file=Empire-map-illus.gif|link=[[Maps]]
 A number of different maps of [[The Empire|the Empire]] and its environs exist.
 ## [[Gazetteer]]
 ThreeColIconImage|file=PoliticalMapY2E1.png|link=[[Gazetteer]]
-The Empire is made up of many territories, each of which has their own page.
+[[The Empire]] is made up of many territories, each of which has their own page.
 ## [[Barbarians]]
 ThreeColIconImage|file=OrcsCharging.jpg|link=[[Barbarian]]
-The enemies of the Empire are classified as barbarians, including the [[Jotun]] and the [[Druj]] orcs.
+The enemies of [[The Empire|the Empire]] are classified as barbarians, including the [[Jotun]] and the [[Druj]] orcs.
 ## [[Foreign Nations]]
 ThreeColIconImage|file=Bay_of_Catazaar.png|link=[[Foreign Nations|Foreign nations]]
-Not every nation outside the Empire is an enemy. A number of smaller nations, and a handful of large nations equal in power to the Empire, maintain diplomatic relations.
+Not every nation outside [[The Empire|the Empire]] is an enemy. A number of smaller nations, and a handful of large nations equal in power to the Empire, maintain diplomatic relations.
 ## [[Realms]]
 ThreeColIconImage|file=AutumnRune.jpg|link=Realms
 Beyond the mundane world exist six magical Realms infused with the power of [[Magic|magic]].

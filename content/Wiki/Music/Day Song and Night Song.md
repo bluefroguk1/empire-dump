@@ -28,7 +28,7 @@ When the dark is falling
 When the sun is setting low
 When the evening skies are [[Burning|burning]]
 Leave them all and dance with me
-When the evening skies are burning
+When the evening skies are [[Burning|burning]]
 Leave them all and dance with me
 Listen to me calling
 Now the moonlight's on the snow

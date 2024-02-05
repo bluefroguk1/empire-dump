@@ -24,4 +24,4 @@ Proposed by Asolat, Seconded by [[Weirwater]]
 * This [[Commission|commission]] has lapsed
 ### [[Campaign outcome|Campaign Outcome]]
 * There are necessary details missing from this motion, [[Senator]] [[Astolat]] may decide on these.
-* This ministry, once completed, [[Will|will]] create a Dawnish national position.
+* This [[Ministry|ministry]], once completed, [[Will|will]] create a Dawnish national position.

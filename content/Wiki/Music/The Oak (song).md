@@ -40,7 +40,7 @@ What grows when the black rain burns?
 Chorus
 Instrumental
 Verse 5
-For seven generations the oak trees grow
+For seven generations [[The Oak|the oak]] trees grow
 (The limbs, the veins, the head and the heart)
 The roots reach deep to the rocks and bones
 (The earth, the roots, the leaves and the bark)

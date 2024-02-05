@@ -10,7 +10,7 @@ revision_id: 104919
 
 __NOTOC__
 To construct the Tolvoli Slaughterhouse in [[Miekarova]]. A [[Ministry|ministry]] to sate the dubik of [[Miekarova]]. Limited time [[Opportunity|opportunity]], fully self-funded.
-* Constructs a slaughterhouse in Miekarova as per the [[The horror and the wild]] wind of fortune
+* Constructs a slaughterhouse in [[Miekarova]] as per the [[The horror and the wild]] wind of fortune
 * Passed
 ## Date
 * [[Summer]] 385YE

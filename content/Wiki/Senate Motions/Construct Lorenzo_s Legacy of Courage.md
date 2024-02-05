@@ -20,7 +20,7 @@ To construct a [[Great work|Great Work]] in [[Holberg]] for the production of ma
 * 10 Thrones
 * 3 months to complete
 ## Progress
-* 40 wains of mithril and 10 thrones provided by Lorenzo “La Volpe” Macelliao von [[Temeschwar]]
+* 40 wains of [[Mithril|mithril]] and 10 thrones provided by Lorenzo “La Volpe” Macelliao von [[Temeschwar]]
 ### Outcome
-* Lorenzo's [[Legacy]] of [[Courage]] was completed in Holberg shortly before the [[Winter]] Solstice 381YE.
-* The great work [[Will|will]] provide 37 crystal mana each season, spread amongst those citizens of Holberg who own a [[Mana site|mana site]].
+* Lorenzo's [[Legacy]] of [[Courage]] was completed in [[Holberg]] shortly before the [[Winter]] Solstice 381YE.
+* The [[Great work|great work]] [[Will|will]] provide 37 crystal mana each season, spread amongst those citizens of [[Holberg]] who own a [[Mana site|mana site]].

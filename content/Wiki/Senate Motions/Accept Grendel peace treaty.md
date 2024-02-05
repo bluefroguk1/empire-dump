@@ -16,5 +16,5 @@ To accept the terms of the peace treaty with the [[Grendel]] Salt Lords.Proposed
 * Defeated [[Summer]] 379YE
 ### [[Campaign outcome|Campaign Outcome]]
 * The terms of the treaty were not accepted.
-* The Grendel delegation had already left [[Anvil]]; it is not clear if they are aware the treaty has been declined.
+* The [[Grendel]] delegation had already left [[Anvil]]; it is not clear if they are aware the treaty has been declined.
 __NOTOC__

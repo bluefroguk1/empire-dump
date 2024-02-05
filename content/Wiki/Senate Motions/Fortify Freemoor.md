@@ -24,9 +24,9 @@ To build a fort in Freemoor in the Mourn.''Proposed by [[Miekarova]], seconded b
 ## Progress
 * 29 wains of [[White granite|white granite]] provided by Nikolovich Drakov after [[Winter]] Solstice 381YE.
 * 16 thrones provided by Nikolovich Drakov after the [[Spring]] Equinox 382YE.
-* 16 wains white granite and 4 thrones effectively provided due to the Silent [[Sentinel]] [[Opportunity|opportunity]].
-* 15 wains of white granite provided by Landon of Longridge after the Spring Equinox 383YE.
-* 5 wains of white granite provided by Orrick of House Bolholt after the Spring Equinox 383YE.
+* 16 wains [[White granite|white granite]] and 4 thrones effectively provided due to the Silent [[Sentinel]] [[Opportunity|opportunity]].
+* 15 wains of [[White granite|white granite]] provided by Landon of Longridge after the Spring Equinox 383YE.
+* 5 wains of [[White granite|white granite]] provided by Orrick of House Bolholt after the Spring Equinox 383YE.
 * 15 wains of white granite provided by Orrick of House Bolholt after the [[Summer]] Solstice 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Fortification of Landskeepers Bulwark is now complete.
+* The [[Fortification]] of Landskeepers Bulwark is now complete.

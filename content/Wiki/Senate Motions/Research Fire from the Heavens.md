@@ -13,9 +13,9 @@ To research “[[Fire from the Heavens]]”, an [[Enchantment|enchantment]] from
 Announced by Ioseph, [[Minister of Historical Research]].
 ### Overview
 * [[Historical research]] concerning this topic has been commissioned through the civil service.
-* [[Historical research|Historical Research]] request announced by the [[Minister of Historical Research]] using the legal powers to announce historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the [[Minister of Historical Research]] using the legal powers to announce [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Winter]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* A historical research report [[Will|will]] be delivered to the Minister at the [[Spring]] Equinox.
+* A [[Historical research|historical research]] report [[Will|will]] be delivered to the Minister at the [[Spring]] Equinox.
 * The report [[Will|will]] be published publicly after the Spring Equinox.

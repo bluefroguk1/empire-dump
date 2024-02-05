@@ -20,8 +20,8 @@ To create the Inquisitorial Court which shall be a body in [[The Synod|the Synod
 ### [[Cost]]
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-* One [[Virtue Inquisitor|virtue inquisitor]] [[Imperial Title|Imperial title]] was created in each virtue assembly and the assembly of [[The Way|the Way]].
+* One [[Virtue Inquisitor|virtue inquisitor]] [[Imperial Title|Imperial title]] was created in each virtue [[Assembly|assembly]] and the [[Assembly|assembly]] of [[The Way|the Way]].
 ### Constitutional Court
-* The constitutional court notes that it would also have been appropriate to give the virtue inquisitors the [[Inquisitor|inquisitor]] power of the [[Imperial Inquisitor]] - to perform an Inquisition each season without the need for a vote in the [[Synod]], and in addition to any existing judgements they have raised normally. 
+* The constitutional court notes that it would also have been appropriate to give the virtue inquisitors the [[Inquisitor|inquisitor]] power of the [[Imperial Inquisitor]] - to perform an [[Inquisition]] each season without the need for a vote in the [[Synod]], and in addition to any existing judgements they have raised normally. 
 * The constitutional court further notes that it would be appropriate to extend the power of inquisitor's [[Judgement|judgement]] to the [[Imperial Inquisitor]] as well.
 __NOTOC__

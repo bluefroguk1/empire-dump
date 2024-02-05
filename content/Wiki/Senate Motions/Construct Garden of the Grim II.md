@@ -14,9 +14,9 @@ To raise a [[Herb|herb]] [[Sinecure|sinecure]] in [[Miekarova]] to be called the
 Self Funded
 Proposed by [[Miekarova]], Seconded by [[Volodmartz]]
 ### Overview
-* A Sinecure in Miekarova
+* A [[Sinecure]] in [[Miekarova]]
 * Passed
-* This followed a previous, failed motion to construct the sinecure
+* This followed a previous, failed motion to construct the [[Sinecure|sinecure]]
 * This [[Commission|commission]] was announced after the maximum number of commissions had been authorised, but was announced in case one of the previous commissions had been subject to [[The Synod|the synod]]'s [[Veto|veto]]. The [[Veto|veto]] was not employed and so this [[Commission|commission]] was not authorised
 ### Date
 * [[Winter]] 380YE

@@ -15,8 +15,8 @@ This was apparently a follow on from Asenath of Felix Watch [[Past life vision|p
 Announced by the Minister for [[Historical research|Historical Research]]
 __NOTOC__
 ### Overview
-* Historical Research concerning this topic has been commissioned through the civil service
-* Historical Research request approved by the [[Minister of Historical Research]] using the legal power to approve historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service
+* [[Historical research|Historical Research]] request approved by the [[Minister of Historical Research]] using the legal power to approve [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Winter]] 380YE
 ### [[Cost]]

@@ -14,7 +14,7 @@ In [[Wintermark]] it is traditional to finish a stormguard beneath the raging cl
 ## Rules
 Shields
 * Effect: You gain one additional rank of the endurance skill and one additional point of personal mana.
-* [[Materials]]: Crafting a [[Stormguard Bulwark|stormguard bulwark]] requires seven ingots of [[Orichalcum|orichalcum]], three ingots of tempest jade and six measures of iridescent gloaming. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Stormguard Bulwark|stormguard bulwark]] requires seven ingots of [[Orichalcum|orichalcum]], three ingots of tempest jade and six measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
 The makeshift camp was nothing to speak of, little more than blankets propped up on spears to keep off the endless rain, and five of the six Sentinels of Coppermount [[Spire]] slept fitfully. Theodora, the implacable [[Changeling|changeling]], had decried the idea of drawing lots for the watches when [[Night|night]] fell, and so it had fallen to her to take the mid-watch. She stared angrily out into the darkness, her sharp eyes watching for any disturbance of the moonless night’s shadows and her sharp ears listening for any hint of the gryphons they had come down into the valleys to hunt.
 The landslide that had buried the six of them and half their travelling kit, forcing them to abort the hunt, had left her covered in clinging mud and in a dark mood that would not leave her until she had fought something. It was bad enough that when the young gryphon had attacked the group she had been trapped up to her shoulders in mud, face-down in a river of rainwater, fighting to breathe.
 After the fourth turn of the glass, in the dead of night, the rain stopped as suddenly as it had started. The dripping from the rain-soaked shelter came irregularly, a pitter-patter that only stoked her irritation further. 
@@ -23,7 +23,7 @@ She heard wingbeats pass overhead, though she saw no hint of it. It must have co
 It would catch only its death, Theodora swore to herself.
 She listened to it circle not far overhead, showing no sign that she knew it was there. It wouldn’t attack if it knew there was someone awake, so she sat perfectly still, ready to turn and face it, and waited for the wingbeats to stop.
 They did.
-She spun and raised her Stormguard Bulwark, and the beast crashed talons-first into her. It yowled in frustration and pulled itself to its feet at the same time as she recovered her stance, and the two faced off against one another. Never try to take a gryphon on alone, Castor had told her when they set out. The over-cautious old fish might as well have slapped her in the face.
+She spun and raised her [[Stormguard Bulwark]], and the beast crashed talons-first into her. It yowled in frustration and pulled itself to its feet at the same time as she recovered her stance, and the two faced off against one another. Never try to take a gryphon on alone, Castor had told her when they set out. The over-cautious old fish might as well have slapped her in the face.
 She took a step toward it – there was no darting in and out in this mud – and held her shield out at the extent of her reach. It was lighter and more mobile than she was; best find out what it thought its range was. Another step and it slashed at her shield. Good.
 She feinted a lunge towards it, and when its counter-slash met only air, it faltered. She knocked it across the beak with her rod, and it shook its head.
 Then, with a flap of its great wings, it pounced on her.

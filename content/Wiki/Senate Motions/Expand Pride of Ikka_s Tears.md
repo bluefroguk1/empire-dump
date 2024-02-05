@@ -23,5 +23,5 @@ To expand the [[Mithril|mithril]] [[Mine|mine]] the [[Pride]] of Ikka's Tears, i
 ## Progress
 CommissionProgress|Expand_Pride_of_Ikka%27s_Tears
 ## Outcome
-* Once complete the Pride of Ikka's Tears [[Will|will]] produce 22 wains of [[Mithril]] each season
-* This [[Senate motion|Senate Motion]] authorises both the expansion of the [[Mine|mine]] itself and the infrastructure required to bring the mithril safely south to Atalaq, which [[Will|will]] increase the upkeep of the mine by  6 thrones.
+* Once complete the [[Pride]] of Ikka's Tears [[Will|will]] produce 22 wains of [[Mithril]] each season
+* This [[Senate motion|Senate Motion]] authorises both the expansion of the [[Mine|mine]] itself and the infrastructure required to bring the [[Mithril|mithril]] safely south to Atalaq, which [[Will|will]] increase the upkeep of the [[Mine|mine]] by  6 thrones.

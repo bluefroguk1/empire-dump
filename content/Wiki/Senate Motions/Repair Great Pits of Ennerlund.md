@@ -21,10 +21,10 @@ To repair the pits of Enderlund.Proposed by [[Sermersuaq]], seconded by [[Mitwol
 * Upkeep: If the Great Pits are restored, their standard upkeep would apply.
 ### Progress
 * 250 Thrones provided by Bridget Eastville of [[The Marches]] after Spring Equinox 379YE.
-* The Great Pits were initially predicted to begin producing [[Mithril|mithril]] again after Spring Equinox 380YE, with the first resources being delivered at [[Summer]] 380YE. Following the extensive haunting of the mines, this prediction has been pushed back a season; the pits [[Will|will]] begin producing [[Mithril|mithril]] again after the Summer Solstice 380YE, with the first mithril received in time for the [[Autumn]] Equinox.
+* The Great Pits were initially predicted to begin producing [[Mithril|mithril]] again after Spring Equinox 380YE, with the first resources being delivered at [[Summer]] 380YE. Following the extensive haunting of the mines, this prediction has been pushed back a season; the pits [[Will|will]] begin producing [[Mithril|mithril]] again after the Summer Solstice 380YE, with the first [[Mithril|mithril]] received in time for the [[Autumn]] Equinox.
 ### Outstanding
 * No more money
 * 6 months of work
 ### [[Campaign outcome|Campaign Outcome]]
-* At the moment the Great Pits are producing no mithril. If they were repaired, their full pre-destruction production of 27 wains of mithril a season would be restored.
+* At the moment the Great Pits are producing no [[Mithril|mithril]]. If they were repaired, their full pre-destruction production of 27 wains of [[Mithril|mithril]] a season would be restored.
 __NOTOC__

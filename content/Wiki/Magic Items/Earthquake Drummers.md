@@ -26,7 +26,7 @@ The young [[Guardian|guardian]] stood bolt upright, a bead of sweat forming on h
 "A guardian in the front rank near me called a [[Challenge|challenge]] to the largest of the orcs, who came straight at them, ma'am. "
 "...do carry on..."
 "The orc was carrying two hammers, ma'am. Shouldn't have been much trouble to an experienced shieldmaiden. [[Barbarians]] armed like that usually concentrate of beating your shield away, and don't bother with the parry that much. But this one had some [[Magic|magic]] on them. Battered her shield for a second, no longer, then she was barrelling backwards through the ranks, causing an awful mess. That first orc came through the gap in the line, and others followed. It caught her on the ground, and smashed her face in, begging your pardon ma'am."
-"In [[The Empire|the Empire]] we call such weapons "Earthquake Drummers". A few in [[Wintermark]] carry then, a [[Warden|warden]] or two also. I have heard worse. And seen such errors before. That is not [[Courage]], that is foolishness.  And how many others fell?"
+"In [[The Empire|the Empire]] we call such weapons "[[Earthquake Drummers]]". A few in [[Wintermark]] carry then, a [[Warden|warden]] or two also. I have heard worse. And seen such errors before. That is not [[Courage]], that is foolishness.  And how many others fell?"
 "I do not know ma'am. A fair few."
 "And you left your assigned position, am I right?"
 "Yes, ma'am. I ignored the orcs who'd broken the line, and stepped into the gap in the front rank, ma'am. The front line must stand as one, and others would kill those who'd come through."

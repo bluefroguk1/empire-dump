@@ -16,4 +16,4 @@ TextCovenstone
 Paraphernalia
 * Effect: Once per [[Day|day]] the coven may perform a [[Night ritual]] that does not count towards their daily limit of [[Rituals|rituals]] performed.
 * [[Materials]]: Crafting [[The Flickering Flame|the Flickering Flame]] requires five ingots of [[Tempest jade|tempest jade]], five measures of [[Iridescent gloaming|iridescent gloaming]], three ingots of [[Ambergelt|ambergelt]] and six measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
-Nothing is ever as it seems with the rituals of Night, flights of passion wax and wane as secrets transform into mysteries.
+Nothing is ever as it seems with the [[Rituals|rituals]] of Night, flights of passion wax and wane as secrets transform into mysteries.

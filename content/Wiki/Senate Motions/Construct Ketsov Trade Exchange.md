@@ -17,7 +17,7 @@ __NOTOC__
 ## Date
 * [[Spring]] 383YE
 ## [[Cost]]
-* This Ministry uses non-standard costs
+* This [[Ministry]] uses non-standard costs
 * 8 wains of [[White granite|white granite]]
 * 8 wains of [[Weirwood|weirwood]]
 * 32 crowns in labour costs
@@ -25,4 +25,4 @@ __NOTOC__
 ## Progress
 * 8 wains of [[Weirwood|weirwood]], 8 wains of [[White granite|white granite]], and 32 crowns provided by Vitaly Grigorovich Dukov after the Spring Equinox 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Ministry will create an [[Imperial Title]], [[Burgher of Ketsov]]
+* When complete, the [[Ministry]] [[Will|will]] create an [[Imperial Title]], [[Burgher of Ketsov]]

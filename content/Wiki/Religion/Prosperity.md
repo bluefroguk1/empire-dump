@@ -8,7 +8,7 @@ revision_id: 82487
 ---
 
 ## The Path of [[Prosperity]]
-To the one without virtue, [[Prosperity]] is oft misunderstood as the pursuit of wealth and luxury, yet neither the wealthy miser, gluttonous sot, or lucky gambler can truly be called prosperous. True Prosperity is the culmination of effort and labour, sweat and toil, and celebrating the fruits of that labour. The prosperous are: the farmer who toils to bring in the harvest and enjoys their bounty; the [[Magician|magician]] who strives to master a [[Magic|magic]] and then uses their newfound art; the merchant who competes fiercely for each coin they earn and then spends it in celebration. True Prosperity enriches those around them as well as the individual, and so what may seem the pursuit for the sake of the self is to the benefit of the many.
+To the one without virtue, [[Prosperity]] is oft misunderstood as the pursuit of wealth and luxury, yet neither the wealthy miser, gluttonous sot, or lucky gambler can truly be called prosperous. True [[Prosperity]] is the culmination of effort and labour, sweat and toil, and celebrating the fruits of that labour. The prosperous are: the farmer who toils to bring in the harvest and enjoys their bounty; the [[Magician|magician]] who strives to master a [[Magic|magic]] and then uses their newfound art; the merchant who competes fiercely for each coin they earn and then spends it in celebration. True [[Prosperity]] enriches those around them as well as the individual, and so what may seem the pursuit for the sake of the self is to the benefit of the many.
 ### Guidance on the Path
 Through meditation on the [[Auras of Prosperity]], and careful study of the tales of [[Paragons and Exemplars|paragons and exemplars]], the priests of [[The Way|the Way]] have gleaned [[Insight|insight]] into the heart of the virtue and how best to pursue it. There are collections of parables, tales, sayings and teachings that distill this for Imperial citizens to learn from. The following are a handful of teachings and sayings deemed to be essential to understanding the path:
 * Strive, toil, and claim the just rewards of your labours.
@@ -17,7 +17,7 @@ Through meditation on the [[Auras of Prosperity]], and careful study of the tale
 * The Prosperous are not selfish; all that is worthwhile is shared with those who deserve it.
 * Despise the thieving bandit, the lazy wastrel, the grasping miser, and those who take without giving.
 ## [[Paragons and Exemplars]]
-Paragons and exemplars of Prosperity are considered reasonably easy to identify owing to their efforts and labour, and how they use - or share - the fruits of those labours. Recognised Paragons and Exemplars of Prosperity include:
+[[Paragons and Exemplars|Paragons and exemplars]] of [[Prosperity]] are considered reasonably easy to identify owing to their efforts and labour, and how they use - or share - the fruits of those labours. Recognised [[Paragons and Exemplars]] of Prosperity include:
 * The legendary [[Paragon|paragon]] [[Good Walder]] of [[The Marches|the Marches]].
 * The exemplar known as [[The Little Mother]], whose tireless work helped to establish the importance of charitable deeds in [[The League]].
 * The exemplar [[Long Tom Goodfellow]], the healer and brewer whose [[Legacy|legacy]] still encourages pilgrimages today.

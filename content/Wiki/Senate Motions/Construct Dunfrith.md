@@ -16,7 +16,7 @@ Approved by the [[Civilian Commissioner]] of [[Wintermark]]
 __NOTOC__
 ### Overview
 * A [[Sinecure]] in Wood Heath, [[Hahnmark]]
-* This motion was approved by the [[Civilian Commissioner]] of Wintermark using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This motion was approved by the [[Civilian Commissioner]] of [[Wintermark]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Autumn]] 380YE
 ### [[Cost]]
@@ -24,6 +24,6 @@ __NOTOC__
 ### Progress
 * 12 wains of [[Weirwood|weirwood]] and 24 crowns supplied by Thanmir Hrafnar after Autumn Equinox 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, once completed, [[Will|will]] create Wintermark national position of [[Guardian of Dunfrith]]
+* This [[Sinecure|sinecure]], once completed, [[Will|will]] create [[Wintermark]] national position of [[Guardian of Dunfrith]]
 ### Constitution
-* Although the announcement states that that the sinecure is to be overseen by Ham, son of Brigantia, the Senators of Wintermark are in no way bound to elect Ham to the position.
+* Although the announcement states that that the [[Sinecure|sinecure]] is to be overseen by Ham, son of Brigantia, the Senators of [[Wintermark]] are in no way bound to elect Ham to the position.

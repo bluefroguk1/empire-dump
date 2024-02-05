@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Abraxus Stone
 aliases: ['The_Abraxus_Stone']

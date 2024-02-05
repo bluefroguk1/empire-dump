@@ -85,7 +85,7 @@ You can work your [http://www.personal.utulsa.edu/~marc-carlson/jennifer/buttons
 400px|thumb|left|And here's one I made earlier
 I'm still waiting for the buttons to arrive for the blue velvet one, so photos [[Will|will]] have to wait too.
 ### Wearing it
-Wear it belted over a close-fitting pair of trousers or hose, and you'll look very swish. A narrow charity shop belt (about 1/2 inch wide) with a plain brass buckle will set you back about £1 and looks very authentic with it - in my opinion more so than a broader one. 
+Wear it belted over a close-fitting pair of trousers or hose, and you'll look very swish. A narrow charity shop belt (about 1/2 inch wide) with a plain brass buckle [[Will|will]] set you back about £1 and looks very authentic with it - in my opinion more so than a broader one. 
 ### Got an extra £5? Make Harry happy by making some shoulder or headwear
 Buy 1m of nice wool and use one of the patterns on [http://www.virtue.to/articles/hoodlum.html this page]  to make yourself a hood or chaperon.
 ### Got an extra £20 and want something really useful and special?

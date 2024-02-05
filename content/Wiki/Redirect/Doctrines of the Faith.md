@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Doctrines of the Faith
 aliases: ['Doctrines_of_the_Faith']

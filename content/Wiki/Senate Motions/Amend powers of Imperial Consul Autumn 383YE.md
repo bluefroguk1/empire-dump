@@ -12,7 +12,7 @@ __NOTOC__
 To amend the title of [[Imperial Consul]] to allow the [[Appointment|appointment]] of Ambassadors by unanimous decision of the [[Imperial Consul]].
 ''Proposed by [[Kahraman]], seconded by [[Upwold]].''
 ## Overview
-* Motion to amend the title of Imperial Consul to grant them the power to appoint Ambassadors in line with recent proposals
+* Motion to amend the title of [[Imperial Consul]] to grant them the power to appoint Ambassadors in line with recent proposals
 * Failed
 ## Date
 * [[Autumn]] 383YE

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Decoction of the Hungry Moon
 aliases: ['Decoction_of_the_Hungry_Moon']

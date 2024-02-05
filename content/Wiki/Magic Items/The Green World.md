@@ -14,4 +14,4 @@ revision_id: 48001
 ## Rules
 Paraphernalia
 * Effect: Once per [[Day|day]] the coven may perform a [[Spring ritual]] that does not count towards their daily limit of [[Rituals|rituals]] performed.
-* [[Materials]]: Crafting [[The Green World|the green world]] requires five ingots of tempest jade, five measures of ambergelt, three ingots of weltsilver and six measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting [[The Green World|the green world]] requires five ingots of tempest jade, five measures of [[Ambergelt|ambergelt]], three ingots of weltsilver and six measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

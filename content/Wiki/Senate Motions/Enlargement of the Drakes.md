@@ -23,4 +23,4 @@ To [[Commission|commission]] the enlargement of the Imperial Marcher army the [[
 ## Progress
 CommissionProgress|Enlarge_Drakes
 ## [[Campaign outcome|Campaign Outcome]]
-* When completed the Drakes [[Will|will]] become a large army.
+* When completed the [[Drakes]] [[Will|will]] become a large army.

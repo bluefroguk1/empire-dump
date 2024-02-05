@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Soldier_s coat
 aliases: ["Soldier's_coat"]

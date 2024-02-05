@@ -20,7 +20,7 @@ In addition, while the [[Congregation|congregation]] remains [[Enchanted|enchant
 [[Downtime]] buff
 Season Duration
 ### Additional Targets
-This ritual can affect additional congregations provided the congregations are all controlled by [[Characters|characters]] from the same [[Sect|sect]]. Each additional congregation increases the magnitude by 14. The character who controls each congregation must be present throughout the ritual.
+This ritual can affect additional congregations provided the congregations are all controlled by [[Characters|characters]] from the same [[Sect|sect]]. Each additional [[Congregation|congregation]] increases the magnitude by 14. The character who controls each [[Congregation|congregation]] must be present throughout the ritual.
 ## Description
 TBC
 ## Common Elements

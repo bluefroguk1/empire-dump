@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Dawn Icons and Artistry
 aliases: ['Dawn_Icons_and_Artistry']

@@ -37,12 +37,12 @@ See the 383YE [[Summer]] Solstice [[Winds of Fortune|winds of fortune]] and the 
 | [[Wintermark]] || 47
 |}
 ## [[Battles]]
-At the event we [[Will|will]] be running two large [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. 
+At the event we [[Will|will]] be running two large [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles [[Will|will]] be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. 
 The [[Sentinel Gate]] opens at 11:00 am - regardless of whether anyone is ready or not! If you are playing then make sure you arrive in plenty of time before this so your weapons can be checked.
-If you are [[Monstering|monstering]] then you need to make your way to the monster area between 9:30 and 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed. If you turn up after 10:30 you will be turned away.
+If you are [[Monstering|monstering]] then you need to make your way to the monster area between 9:30 and 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed. If you turn up after 10:30 you [[Will|will]] be turned away.
 At this event, the best estimate of the fighting strength of each nation provided by the civil service is as follows. of their options, which nations could take [[The Battlefield|the battlefield]] together. Each of the two battles must have at least 87 and at most 90 force weight sent on it.
 ## Site Map
-The site map is opposite; the camp coordinators for each camp will have their own layout for their camp, showing where all the tents they know about are to be pitched. If you do not know where you are supposed to be camping, then please speak to them on arrival at your nation's camp.
+The site map is opposite; the camp coordinators for each camp [[Will|will]] have their own layout for their camp, showing where all the tents they know about are to be pitched. If you do not know where you are supposed to be camping, then please speak to them on arrival at your nation's camp.
 {| class="wikitable" style="width:30%; float: left; margin: 10px;"
 |-
 ! Nation !! [[Camp planner|Camp Planner]]
@@ -77,10 +77,10 @@ The following [[Traders|traders]] have booked for the event.
 * [http://www.battle-ready.com/ Battle Ready] Hand crafted leather goods.
 * [https://www.bespokepewter.com Bespoke Pewter] Empire Specific and [[General|general]] medieval pewter badges and dress accessories.'
 * [http://www.chowsemporium.co.uk/ Chows Emporium] [[Costume]], leather gloves, products related to drinking and accessories.
-* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica costume and artefacts.
-* [https://www.facebook.com/Craeftigan1/?pnref=lhc Craeftigan] Beautiful weapons and costume that are perfect for Empire.
+* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica [[Costume|costume]] and artefacts.
+* [https://www.facebook.com/Craeftigan1/?pnref=lhc Craeftigan] Beautiful weapons and [[Costume|costume]] that are perfect for Empire.
 * [http://www.darkbladeuk.co.uk Darkblade] Leather Stuff.
-* [https://www.facebook.com/Das-Shoppe-649766365145562/ Das Shoppe] New and second hand costume, leatherwork, weapons, props and furniture. Trade ins welcome.
+* [https://www.facebook.com/Das-Shoppe-649766365145562/ Das Shoppe] New and second hand [[Costume|costume]], leatherwork, weapons, props and furniture. Trade ins welcome.
 * [http://www.eldritch.com/ Eldritch] Weapons and armour. 
 * [http://gems-costumes.co.uk/ Gem’s Trading Co] Costumes and leatherwork. Fine quality tailored garments and LRP props. Also a wide range of hand made leather items and missile weapons supplied by Arrow Kaster available to order.
 * Hardy & Sweet Weapons and LARP supplies

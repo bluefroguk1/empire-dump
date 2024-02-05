@@ -16,7 +16,7 @@ Elect a new [[General|general]] from available Dawnish candidates.''Procedural M
 ### Nominees
 * Clarence Oswald of House Arwood was the sole nominee
 ### [[Campaign outcome|Campaign Outcome]]
-* Clarence Oswald of House Arwood was appointed General of the [[Golden Sun]] army.
+* Clarence Oswald of House Arwood was appointed [[General]] of the [[Golden Sun]] army.
 ### Voting
 {| class="wikitable"
 |-

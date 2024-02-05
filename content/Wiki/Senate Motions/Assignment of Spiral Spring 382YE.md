@@ -18,4 +18,4 @@ __NOTOC__
 ### Date
 * [[Spring]] 382YE
 ### [[Campaign outcome|Campaign Outcome]]
-* [[Spiral]] has been assigned to Urizen, and has elected a [[Senator]]
+* [[Spiral]] has been assigned to [[Urizen]], and has elected a [[Senator]]

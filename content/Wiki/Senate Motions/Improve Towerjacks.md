@@ -19,11 +19,11 @@ To disburse funds to improve the [[Towerjacks]] providing the Engineer quality.
 * As detailed in the [[Opportunity|opportunity]].
 * 50 wains of [[Mithril]]
 * 100 crowns
-* Requires the Towerjacks to spend a season in [[Holberg]] (see below)
+* Requires the [[Towerjacks]] to spend a season in [[Holberg]] (see below)
 ## Progress
 CommissionProgress|Improve_Towerjacks
 ## Outcome
-* As outlined in the opportunity, completing the improvement to the Towerjacks requires them to return to [[Holberg]] for a season once the [[Materials|materials]] are provided. The [[General]] must order them to enter the city in triumph through the Holmauer [[Gate]] and make a grand procession through the streets of the city they fought for so many years to save. 
+* As outlined in the [[Opportunity|opportunity]], completing the improvement to the [[Towerjacks]] requires them to return to [[Holberg]] for a season once the [[Materials|materials]] are provided. The [[General]] must order them to enter the city in triumph through the Holmauer [[Gate]] and make a grand procession through the streets of the city they fought for so many years to save. 
 * This can be done while the army is resting and recuperating.
-* The army has until the start of the Spring Equinox 385YE to return to Holberg.
-* Once complete, the Towerjacks gain the Engineer quality in place of their existing Siege quality.
+* The army has until the start of the Spring Equinox 385YE to return to [[Holberg]].
+* Once complete, the [[Towerjacks]] gain the Engineer quality in place of their existing Siege quality.

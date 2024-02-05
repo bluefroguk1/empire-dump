@@ -31,6 +31,6 @@ Forge your name upon the field
 Though some may fall beneath the shadow
 With shattered sword and splintered shield
 Those you leave [[Will|will]] call you homeward
-Those you leave will sing your names
-We will keep the hearth fire [[Burning|burning]]
+Those you leave [[Will|will]] sing your names
+We [[Will|will]] keep the hearth fire [[Burning|burning]]
 Bravest [[Heroes|heroes]], seek your fame.

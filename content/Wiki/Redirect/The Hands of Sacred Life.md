@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Hands of Sacred Life
 aliases: ['The_Hands_of_Sacred_Life']

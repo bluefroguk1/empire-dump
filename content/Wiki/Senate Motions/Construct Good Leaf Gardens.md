@@ -13,7 +13,7 @@ To construct a [[Sinecure|sinecure]], Good Leaf Gardens, to be stocked by Navarr
 ## Overview
 * [[Commission]] a [[Wayhouse|wayhouse]] in [[Upwold]], a [[Folly]] that, with [[Imperial Synod]] support [[Will|will]] function as a [[Sinecure]] intended to share [[Navarr]] herbs with [[The Marches]].
 * This [[Opportunity]] is the result of a suggestion by Morgan of Brock Bottom [[Steading]] following a [[Statement of Principle]] by Corey Brackensong.
-* The accompanying [[Mandate]] was raised in the [[Navarr]] National [[Assembly]]. Brat Umbral Path has provided the [[Liao]] to enact the [[Mandate|mandate]], so Good Leaf Gardens [[Will|will]] function as a Sinecure.
+* The accompanying [[Mandate]] was raised in the [[Navarr]] National [[Assembly]]. Brat Umbral Path has provided the [[Liao]] to enact the [[Mandate|mandate]], so Good Leaf Gardens [[Will|will]] function as a [[Sinecure]].
 * Passed in principle.
 ## Date
 * [[Autumn]] 382YE
@@ -25,5 +25,5 @@ To construct a [[Sinecure|sinecure]], Good Leaf Gardens, to be stocked by Navarr
 ## Progress
 * 15 wains of [[Weirwood|weirwood]] and 30 crowns provided by William Talbot after the Autumn Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The commission creates an [[Imperial Title]], a Natonal position in the [[Marches]], called ''[[Steward of Good Leaf Gardens]]''.
+* The [[Commission|commission]] creates an [[Imperial Title]], a Natonal position in the [[Marches]], called ''[[Steward of Good Leaf Gardens]]''.
 [[Senate motion|Senate Motion]]

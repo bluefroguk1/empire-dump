@@ -18,8 +18,8 @@ The [[Music|music]] of [[The Marches|the Marches]] is drawn primarily from the f
 *[[Down to Earth]], a song about the importance of good earth and common sense to the Marchers!
 * Many people in the [[Marches]] [[Will|will]] know one version of a [[Wassail]]
 ### Musical traditions
-After every harvest, Marcher farmers perform a traditional ceremony, a [[Wassail]], to scare away evil spirits from the fields and ensure a good crop for the coming year. There are more details on the wassail in the Marcher brief.
-In the Marches, misdeeds are sometimes rewarded with a public shaming using noise, music, even satirical performance of some kind, called Rough Music. Some chants are known throughout the Marches such as those below (usually interspersed with verses detailing the misdeed), some songs/performances are written especially for the occasion!
+After every harvest, Marcher farmers perform a traditional ceremony, a [[Wassail]], to scare away evil spirits from the fields and ensure a good crop for the coming year. There are more details on the [[Wassail|wassail]] in the Marcher brief.
+In [[The Marches|the Marches]], misdeeds are sometimes rewarded with a public shaming using noise, [[Music|music]], even satirical performance of some kind, called Rough [[Music]]. Some chants are known throughout [[The Marches|the Marches]] such as those below (usually interspersed with verses detailing the misdeed), some songs/performances are written especially for the occasion!
 * "Ran tan tan, raise your hand, a sin to us is a sin to the land"
 * "Old Fred Thatcher (insert name of miscreant), we know your name, Old Fred Thatcher, you are to blame, Old Fred Thatcher, we know your shame, Old Fred Thatcher, we know your name!"
 __TOC__
@@ -32,13 +32,13 @@ __TOC__
 ### [[Autumn]]
 * [[Bringing in the Sheaves]] medium harvest song (not the hymn)
 * [[John Barleycorn]] medium folk song
-* Wassail easy call and response, and lots of versions
+* [[Wassail]] easy call and response, and lots of versions
 *[[Harvest Time]] - song about the land and Britta's lost army
 ### [[Winter]]
 *[[Drive the Cold Winter Away]]
 ### Funeral Songs
 * [[Marcher Dirge]] - a bit heretical
-*[[Turn the Circle]] -  a song which can be sung as a round
+*[[Turn the Circle]] -  a song which can be [[Sung|sung]] as a round
 * [[Carts Come Home]] - easy song about bring back Marcher dead from the wars
 * [[Only Remembered For What We Have Done]] - medium harmony song 
 * [[Lay me Low]] - medium difficulty harmony song
@@ -48,7 +48,7 @@ __TOC__
 ### One for the kids
 * Whose Pigs Are These? a fun round
 * [[Chants for naughty children]]
-### Songs about notable people/entities in the Marches
+### Songs about notable people/entities in [[The Marches|the Marches]]
 * [[Jack in the Green]] - a song about the [[Marches Egregore]]
 * [[The Culloch Boar]] - tells of the origins of the Culloch [[Banner|banner]]
 ### More Songs
@@ -63,7 +63,7 @@ __TOC__
 * [[Pretty Ploughboy]] - easy song about saving the lad you love from the [[War|war]]
 * [[Silent Giants]] - easy song about standing stones
 ### Instrumentation and tunes
-Songs are usually unaccompanied in the Marches, typically sung in raucous harmony rather than using instruments. However sometimes drums, accordions, guitars, fiddles, and whistles/recorders are used. For instrumental music, look to the very heavy rhythms of trad English music (the kind of tunes used to accompany morris dancing would be perfect).
+Songs are usually unaccompanied in the Marches, typically [[Sung|sung]] in raucous harmony rather than using instruments. However sometimes drums, accordions, guitars, fiddles, and whistles/recorders are used. For instrumental [[Music|music]], look to the very heavy rhythms of trad English music (the kind of tunes used to accompany morris dancing would be perfect).
 * The Chicken Dance - dance tune often brought out at hen parties and other festivities, by Cora and Kit [http://www.northshield.co.uk/KitsTunes/Ceilidh_tunes/The_Chook_Dance.pdf score], [http://www.northshield.co.uk/KitsTunes/Ceilidh_tunes/Chook_dance_faster.mp3 recording]
 * The Bond Ring - dance tune for weddings and other bondings, by Cora and Kit [http://www.northshield.co.uk/KitsTunes/Ceilidh_tunes/The_Bond_Ring_Dance.pdf score], [http://www.northshield.co.uk/KitsTunes/Ceilidh_tunes/[[Bondring]].mp3 recording]
 ### Other performance traditions

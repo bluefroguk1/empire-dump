@@ -20,7 +20,7 @@ Granted the ability to use the defence of Unwelcome Visitor within the Senate bu
 * Irontide Isk was nominated; there were no other contenders.
 * Irontide Isk was appointed to the title
 ### Constitution
-The [[Imperial Senate]] has given the [[Assembly]] of [[Loyalty]] the ability to revoke [[The Captain|the Captain]] of the Senate Guard. The Constitutional Scholars point out that this is in ''addition'' to the ability of the Assembly of Nine and the [[General]] Assembly to revoke the title. The Senate can give additional assemblies the power to revoke a title, but they cannot create a title in such a way that they remove the ability of an assembly to revoke it.
+The [[Imperial Senate]] has given the [[Assembly]] of [[Loyalty]] the ability to revoke [[The Captain|the Captain]] of the Senate Guard. The Constitutional Scholars point out that this is in ''addition'' to the ability of the [[Assembly]] of Nine and the [[General]] [[Assembly]] to revoke the title. The Senate can give additional assemblies the power to revoke a title, but they cannot create a title in such a way that they remove the ability of an [[Assembly|assembly]] to revoke it.
 ### Voting
 {| class="wikitable"
 |-

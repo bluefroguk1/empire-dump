@@ -13,12 +13,12 @@ To amend the power of the [[Quartermaster General of the Imperial Armies]] to ha
 ### Overview
 * The Quartermaster [[General]] of the [[Imperial armies|Imperial Armies]] loses the power to speak in [[The Senate|the Senate]].
 * The Quartermaster [[General]] gains the ability to address the [[Senate]].
-* The Quartermaster General's stipend is adjusted.
+* The Quartermaster [[General]]'s stipend is adjusted.
 ### Date
 * Spring 378YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The powers of the Quartermaster General were modified.
-* In the final outcome, the Quartermaster General's stipend was removed.
+* The powers of the Quartermaster [[General]] were modified.
+* In the final outcome, the Quartermaster [[General]]'s stipend was removed.
 ### Voting
 {| class="wikitable"
 |-

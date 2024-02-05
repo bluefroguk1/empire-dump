@@ -28,22 +28,22 @@ To Shelomit, his guiding light
 ([[Vigilance]] guide our faithful watch)
 The Highborn call he did accept
 In [[Casinea]] he found himself
-(Vigilance guide our faithful watch)
+([[Vigilance Guide Our Faithful Watch|Vigilance guide our faithful watch]])
 A prosperous touch upon his brow
 Would bring his hand to Mount Uphaz
-(Vigilance guide our faithful watch)
+([[Vigilance]] guide our faithful watch)
 Within [[The Mountain|the mountain]] omens bright
 The skull of Susa he unearthed
-(Vigilance guide our faithful watch)
+([[Vigilance Guide Our Faithful Watch|Vigilance guide our faithful watch]])
 With [[Horse|horse]]'s [[Courage|courage]] laid he stones
 His Watch to last forever more
-(Vigilance guide our faithful watch)
+([[Vigilance]] guide our faithful watch)
 O Shelomit she lifted him
 Till he stood tall as [[Atuman]]
-(Vigilance guide our faithful watch)
+([[Vigilance Guide Our Faithful Watch|Vigilance guide our faithful watch]])
 The Highborn they did heed her call
 To Felix pledged their [[Loyalty]]
-(Vigilance guide our faithful watch)
+([[Vigilance]] guide our faithful watch)
 His creed did spread among the wise
 Inwards they looked and knew themseves
 (Vigilance guide our faithful watch)

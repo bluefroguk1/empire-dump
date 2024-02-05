@@ -20,5 +20,5 @@ The [[Imperial Orc Wayleave]] announcement by Palerictus Krunk, announcing the c
 ## Progress
 * 10 [[Mithril|mithril]] and 20 wains provided by Palerictus Krunk after Summer Solstice 383YE.
 ## Outcome
-* When complete this Sinecure [[Will|will]] create an [[Imperial Title|Imperial title]], [[Smith of Ashes]]
-* The size of the sinecure has not been defined. This necessary detail can be determined by the Bearer of the Imperial Wayleave.
+* When complete this [[Sinecure]] [[Will|will]] create an [[Imperial Title|Imperial title]], [[Smith of Ashes]]
+* The size of the [[Sinecure|sinecure]] has not been defined. This necessary detail can be determined by the Bearer of the Imperial Wayleave.

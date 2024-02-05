@@ -16,9 +16,9 @@ The Custodian receives a stipend from the kennels. In return they are expected t
 ## Powers
 __TOC__
 ### Custodian's Stipend
-The Custodian of the Kennels receives an income of 19 crowns, 8 rings each season from the kennels.
+The [[Custodian of the Kennels]] receives an income of 19 crowns, 8 rings each season from the kennels.
 ==[[Appointment]]== 
-The Custodian of the Kennels is appointed by unanimous decision of the senators of [[The League]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead. 
+The [[Custodian of the Kennels]] is appointed by unanimous decision of the senators of [[The League]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead. 
 The title can only be held by a citizen of [[The League|the League]]. The Custodian is appointed annually, during the Spring Equinox. They can be revoked by the [[General]] [[Assembly]], the [[League]] [[National Assembly]], and by the [[Assembly of the Nine]]. 
 ## Kennels of Holfried
 Built in the upper city itself, the kennels are regularly referred to as ''Georgie's House'' by the locals in honour of a beloved animal belonging to the Withering Gaze [[Coven|coven]], who financed the construction. They are a combination of kennels, training school, and dogs home. The kennels take in as many of the cities' strays as they can, and pay a number of young apprentices to roam the streets looking for animals to rehome. Some of the more enterprising apprentices make extra money locating and returning lost pets and animal companions in return for rewards. 

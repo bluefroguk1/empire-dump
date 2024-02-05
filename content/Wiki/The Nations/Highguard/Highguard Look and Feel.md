@@ -25,8 +25,8 @@ Black with a white contrast is most common but where there is colour, it is like
 The Highborn dress in simple, practical lines – wearing long, layered robes and tunics in starkly contrasting colours, most often simple layers of [[Black and white|black and white]] or sometimes using black or white as a contrast to different colours. Decorative mosaics and fabrics with complex geometric patterns are popular.
 Some Highborn may choose to wear a dress rather than a robe. [[Highguard]] dresses are constructed along simple but formal lines in dark fabrics. They often have a high neckline or standing collar; lengthwise they always come at least to the ankle.
 Veils are commonly worn by all genders both in funeral rites and on other sombre occasions. They set the wearer apart, offering anonymity and a sense of de-personalisation.  They are often worn when distasteful actions, or those associated with a rank or position of authority rather than an individual, have to be undertaken
-Some Highborn, particularly those in authority, wear hoods or cowls, usually in the colours of their chapter.
-Highborn [[Costume|costume]] is elegant and flowing, long layered robes and tunics, dark coloured in starkly contrasting colours, most often simple layers of black and white or sometimes using black or white as a contrast to different colours.  The Highborn are a militant people and this is often reflected in their dress.
+Some Highborn, particularly those in authority, wear hoods or cowls, usually in the colours of their [[Chapter|chapter]].
+Highborn [[Costume|costume]] is elegant and flowing, long layered robes and tunics, dark coloured in starkly contrasting colours, most often simple layers of [[Black and white|black and white]] or sometimes using black or white as a contrast to different colours.  The Highborn are a militant people and this is often reflected in their dress.
 Weighing [[Judgement]].jpg
 Scarred [[Exarch]].jpg
 Veil, Shawl and Stole.jpg
@@ -51,7 +51,7 @@ Circlet of Scamp.jpg
 Chains of [[Loyalty]].jpg
 ### Priests
 Highborn priests usually dress in white or dark robes with decoration in a stark colour to stand out.
-A common element of Highborn priestly costume is a [https://en.wikipedia.org/wiki/Stole_(vestment) stole] - a band of cloth worn round the neck and shoulders that hangs down over the front of the body. Commonly these are decorated with a Chapter symbol, and a symbol important to the character's personal faith or [[Sect|sect]].
+A common element of Highborn priestly [[Costume|costume]] is a [https://en.wikipedia.org/wiki/Stole_(vestment) stole] - a band of cloth worn round the neck and shoulders that hangs down over the front of the body. Commonly these are decorated with a [[Chapter]] symbol, and a symbol important to the character's personal faith or [[Sect|sect]].
 Jared Pointing at Face.jpg
 Shattered Sermon.jpg
 Overjoyed Olyvar.jpg
@@ -72,7 +72,7 @@ Archers Looking At Something.jpg
 Highborn Battlemage.jpg
 Highborn [[Mage]] Gorget.jpg
 ### Shields
-Large kite or heater shields are common. They are usually decorated in a uniform design with the chapter emblem in stark contrast.
+Large kite or heater shields are common. They are usually decorated in a uniform design with the [[Chapter|chapter]] emblem in stark contrast.
 Shield in a Crowd.jpg
 A Shattered Tower Shield.jpg
 A Tower Shield.jpg
@@ -87,17 +87,17 @@ Would Woodwych Watch.jpg
 Certain with a Surcoat.jpg
 Shattered Surcoat Shield.jpg
 ### [[Unconquered]]
-The Unconquered serve as scouts, often operating far behind enemy lines. Most avoid the distinctive high contrast clothing favoured by most Highborn in favour of something more concealing and many wear lighter armour or forego armour altogether.
+The [[Unconquered]] serve as scouts, often operating far behind enemy lines. Most avoid the distinctive high contrast clothing favoured by most Highborn in favour of something more concealing and many wear lighter armour or forego armour altogether.
 Vigilant [[War]].jpg
 Unconquered_Style.jpg
-Green Unconquered.jpg
+Green [[Unconquered]].jpg
 ### Weapons
 Highborn warriors prefer to [[Fight|fight]] in close formation and prefer weapons suited to this style; short swords, spears, and bows.
 Warrior Priest.png
 Highborn Weaponry.jpg
 Virtuous [[General]].jpg
 ## Chapters
-Members of the same chapter [[Will|will]] often adopt a uniform look using identical or matching items like surcoats. The visual unity emphasizes the unity of purpose and helps a chapter project power. Even without obvious Chapter symbols, a lot can be achieved with matching colour schemes and pieces of costume. Of all the nations, the Highborn have the strongest tendency to form shield walls and [[Fight|fight]] in close-order formations.
+Members of the same chapter [[Will|will]] often adopt a uniform look using identical or matching items like surcoats. The visual unity emphasizes the unity of purpose and helps a chapter project power. Even without obvious Chapter symbols, a lot can be achieved with matching colour schemes and pieces of [[Costume|costume]]. Of all the nations, the Highborn have the strongest tendency to form shield walls and [[Fight|fight]] in close-order formations.
 Sepulchre of the Red Sun.jpeg
 Speaking Sentinels.jpg
 Highborn Bears.jpg
@@ -114,4 +114,4 @@ Highborn Destiny.jpg
 ## Camp
 Shattered Tower Shrine.jpg
 Jachins 3.jpg
-Highguard Links
+[[Highguard]] Links

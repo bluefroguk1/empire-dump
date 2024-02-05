@@ -24,5 +24,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Mercenary
-The Wolves of War make extensive use of mercenaries recruited from across [[The Empire|the Empire]], making them one of the most versatile of the [[Imperial armies]].
-RecentElections|General_of_the_Wolves_of_War|the title of General of the Wolves of War
+The [[Wolves of War]] make extensive use of mercenaries recruited from across [[The Empire|the Empire]], making them one of the most versatile of the [[Imperial armies]].
+RecentElections|General_of_the_Wolves_of_War|the title of [[General]] of the Wolves of [[War]]

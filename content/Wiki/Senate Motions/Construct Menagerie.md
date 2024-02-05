@@ -10,7 +10,7 @@ revision_id: 86459
 
 __NOTOC__
 Create an Imperial Menagerie in Holmauer, [[Holberg]] to house the tame rakshasa gifted to the [[Empress Lisabetta]] by the Eastern [[Principalities of Jarm]]. This enclosure for the rakshasa named 'Flocki' by the [[Children|children]] of [[Holberg]] [[Will|will]] provide a suitable environment for the housing of this unique creature and [[Will|will]] ensure a regular bounty of [[Winter]] [[Vis]], and the substance known as 'Tears of the Rakshasa', produced when the creature is happy. Self-funded by the House of Seven Mirrors.
-The Menagerie will be managed by the '[[Keeper of the Imperial Menagerie]]', a lifetime [[Appointment|appointment]] made by [[The Throne]] and revocable by the [[General]] [[Assembly]] and [[Assembly]] of Nine.
+The Menagerie [[Will|will]] be managed by the '[[Keeper of the Imperial Menagerie]]', a lifetime [[Appointment|appointment]] made by [[The Throne]] and revocable by the [[General]] [[Assembly]] and [[Assembly]] of Nine.
 Proposed by [[Morrow]], Seconded by Conscience
 ### Overview
 * Passed
@@ -25,4 +25,4 @@ Proposed by [[Morrow]], Seconded by Conscience
 ### Progress
 * Unknown
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, this will create the [[Imperial Title]] of [[Keeper of the Imperial Menagerie]] responsible for caring for the rakshasa, providing a regular income of Winter [[Vis|vis]] and rakshasa tears.
+* Once completed, this [[Will|will]] create the [[Imperial Title]] of [[Keeper of the Imperial Menagerie]] responsible for caring for the rakshasa, providing a regular income of Winter [[Vis|vis]] and rakshasa tears.

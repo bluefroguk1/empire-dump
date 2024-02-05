@@ -10,7 +10,7 @@ revision_id: 23584
 
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Highguard|highguard]].jpg
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:[[Highguard]]-regions.png
-640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-highguard-texture.jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Highguard|highguard]]-texture.jpg
 ### See Also
 * [[Bastion]]
 * [[Casinea]]

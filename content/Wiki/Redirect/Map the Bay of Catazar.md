@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Map the Bay of Catazar
 aliases: ['Map_the_Bay_of_Catazar']

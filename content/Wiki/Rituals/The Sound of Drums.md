@@ -20,7 +20,7 @@ Season Duration
 ### Additional Targets
 This ritual can affect additional [[Characters|characters]] from the same [[Banner|banner]]. Each additional character increases the magnitude by 9. Additional [[Characters|characters]] must be present throughout.
 ## Description
-When the drums pound and the horns are blown, those under this [[Enchantment]] find it difficult to rein in their enthusiasm. Their hearts beat faster, and their limbs ache to be wielding their weapons. They can shrug off blows that would incapacitate a lesser warrior, even drawing on the fierce love of battle that the enchantment creates to drive them back to their feet, ready to [[Fight|fight]] again.
+When the drums pound and the horns are blown, those under this [[Enchantment]] find it difficult to rein in their enthusiasm. Their hearts beat faster, and their limbs ache to be wielding their weapons. They can shrug off blows that would incapacitate a lesser warrior, even drawing on the fierce love of battle that the [[Enchantment|enchantment]] creates to drive them back to their feet, ready to [[Fight|fight]] again.
 This ritual is occasionally used on battlefield healers, but there have been incidents where some of those healers were unable to resist the urge to get involved in the fighting, often with tragic consequences for themselves and their allies. 
 ## Common Elements
 This ritual usually involves [[Music|music]], most commonly drumming. A common element involves synchronizing the beat of the drums to the heartbeat of the target, and then slowly accelerating as the ritual moves towards its climax.

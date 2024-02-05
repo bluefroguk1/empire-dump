@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Winter Archmage to address Senate
 aliases: ['Winter_Archmage_to_address_Senate']

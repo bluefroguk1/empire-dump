@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Streaming
 draft: False
 revision_date: 2023-08-07 12:16:44+00:00
@@ -36,7 +36,7 @@ Streaming or videos run by [[Traders|traders]] to promote trading must follow th
 ## Content
 * All promoted content must conform to all our [[Online|online]] and [[Conduct|conduct]] guidelines
 * Anything you post on our forums must include material specifically about Empire
-All content that is promoted in an Empire space must comply with our [[Online]] rules, the rules for [[Conduct]], equality and diversity, and [[Language|language]]. This includes out-of-game issues like being negative about other larp systems or kit-shaming others. If the content you have linked to violates our rules, then the post will be removed by the moderators. 
+All content that is promoted in an Empire space must comply with our [[Online]] rules, the rules for [[Conduct]], equality and diversity, and [[Language|language]]. This includes out-of-game issues like being negative about other larp systems or kit-shaming others. If the content you have linked to violates our rules, then the post [[Will|will]] be removed by the moderators. 
 There are streams for many similar or related hobbies, such as cosplay, reenactment, or [[General|general]] LRP, but if you regularly promote your channel on our groups then any linked content must be relevant to Empire players. That means it must include material that is specifically about Empire as a substantial part of the stream, blog, or post. People subscribe to Empire groups to talk, in the main, about things that relate to Empire, so we’d ask that you respect that and help keep that focus. Please contact mods@profounddecisions.co.uk if you’re unsure.
 All the standard rules restricting in-character content apply to any streamed content that you promote. That means that you must not push in-character agendas or controversial in-character opinions on any content you promote in an Empire group. Anything that would cause other [[Characters|characters]] to take issue with what you are saying or oppose what you are doing should be avoided. Most out-of-character discussions are fine, as is reasonable in-character material that is not controversial or contentious such as singing IC songs or telling legendary stories.
 Anything that reproduces material drawn directly from [[The wiki|the wiki]] is fine, provided there is no editorialising. So it is acceptable to record a Wind of [[War]] for example, provided that you don't then also include your own character's views or recommendations as part of that.

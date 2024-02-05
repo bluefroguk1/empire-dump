@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Rules changes 2013
 aliases: ['Rules_changes_2013']

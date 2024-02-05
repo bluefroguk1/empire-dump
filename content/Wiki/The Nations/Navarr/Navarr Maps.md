@@ -10,7 +10,7 @@ revision_id: 24262
 
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Navarr|navarr]].jpg
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Navarr|navarr]]-regions.png
-640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-navarr-texture.jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Navarr|navarr]]-texture.jpg
 ### See Also
 * [[Brocéliande]]
 * [[Hercynia]]

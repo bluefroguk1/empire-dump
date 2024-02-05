@@ -14,12 +14,12 @@ revision_id: 107301
 *You can only be bonded to one item of each form at once
 *Most [[Magic|magic]] items last up to four [[Events|events]]
 Almost all [[Magic Items|magic items]] require you to be bonded to them to use them. Magicians can cast [[Create Bond]] to bond a character to an item, or an artisan can bond a character to any item that they know how to make. A bond lasts as long as the [[Magic|magic]] of an item endures, or until a [[Magician|magician]] breaks the bond using the [[Create Bond]] spell.
-Personal magic items fall into one of three forms: weapons, armour, and talismans. You can only ever be bonded to one weapon, one suit of armour, and one talisman at any one time.
+Personal [[Magic Items|magic items]] fall into one of three forms: weapons, armour, and talismans. You can only ever be bonded to one weapon, one suit of armour, and one talisman at any one time.
 ''E.g. Your character is bonded to a [[Shieldbreaker]] weapon. You cannot become bonded to a Giant's Maul two-handed axe because both of these items are weapons.''
-A character who has purchased the artisan skill can make at least one magic item before every event. Magic items last for a single year from the [[Day|day]] of creation. This means that they can be used at the following four [[Events|events]] before the magic is lost.
+A character who has purchased the artisan skill can make at least one [[Magic|magic]] item before every event. [[Magic Items|Magic items]] last for a single year from the [[Day|day]] of creation. This means that they can be used at the following four [[Events|events]] before the [[Magic|magic]] is lost.
 ## Non-bonded Items
-*Some magic items are activated and do not need to be bonded
-A very small number of rare magic items can be used without the user needing to be bonded to them. Usually these items are one-shot items that require activation by the wielder to invoke the magic stored in them. It is not possible to bond to these items.
+*Some [[Magic Items|magic items]] are activated and do not need to be bonded
+A very small number of rare [[Magic|magic]] items can be used without the user needing to be bonded to them. Usually these items are one-shot items that require activation by the wielder to invoke the magic stored in them. It is not possible to bond to these items.
 You should always assume that an item requires bonding unless the explicitly told otherwise. The [[Detect Magic]] spell [[Will|will]] tell the caster if an item does not require bonding to use.
 ## Artefacts
 *Artefacts are permanent magic items made by artisans using [[Ilium|ilium]]
@@ -50,14 +50,14 @@ One-Handed Weapons
 *You must have a weapon in hand and be actively using it to use its magical abilities
 Most weapons are magic items designed to be held in the hand and wielded, presented or used. Weapons and implements are the most common weapons, but this type also covers icons, ritual staves and musical instruments.
 Paired weapons and arcane weapons are a single magic item that consists of two one-handed weapons or a one-handed weapon and an implement respectively. They are intended to be used together, and count as a single object for purposes of bonding.
-A ritual staff is designed to be used by a ritualist during the performance of a ritual. It must be a phys-rep of a staff that is over 42” long and up to 84” long. It does not need to be a weapon safe implement and you do not need the battle [[Mage|mage]] skill to bond to and make use of these items, but you do need to have the battle mage skill to use it as a weapon. You do need the battle mage skill to bond to and use a regular magical staff.
+A ritual staff is designed to be used by a ritualist during the performance of a ritual. It must be a phys-rep of a staff that is over 42” long and up to 84” long. It does not need to be a weapon safe implement and you do not need the battle [[Mage|mage]] skill to bond to and make use of these items, but you do need to have the battle [[Mage|mage]] skill to use it as a weapon. You do need the battle [[Mage|mage]] skill to bond to and use a regular magical staff.
 Icons and musical instruments are magic items designed to be held in the hands that are used by a character with the [[Dedication|dedication]] skill. The phys-rep for a musical instrument must be a musical instrument more complex than a triangle, and it must be played by the character bonded to it as part of the [[Appropriate roleplaying|appropriate roleplaying]] used to activate its powers. An icon must be a phys-rep of a piece of religious imagery appropriate to [[The Way|the Way]] - ideally including an image of a [[Paragon|paragon]] or exemplar. In both cases, there is no minimum size for the phys-rep but they must be ''wielded'' to be used. That is, they must be held in one hand that is not being used to hold anything else for as long as it takes to use them. A magical icon or musical instrument may ''not'' be used as a weapon or implement, even if they are weapon safe.
 ### Armour
 ArmourSkills Needed to Bond
 Light Armour
 Medium Armour
 Heavy Armour
-Mage RobesMagician
+[[Mage]] RobesMagician
 Mage ArmourMagician, Battle Mage
 VestmentsDedication
 *Armour includes all magic items that cover the body
@@ -103,14 +103,14 @@ Any magician can perform a spell that breaks the bond between an item and a char
 If the character or item is not present when the break bond spell is cast then the power of the item for the day is automatically used, as is the character’s ability to use an item of that type for that day.
 ## Schema
 * A schema describes the method of creating a single magic item
-* A schema requires Ilium to create
+* A schema requires [[Ilium]] to create
 * An artisan can use a schema they possess to learn how to make the item it describes
 * It is not possible to copy a schema
 * A schema can be destroyed with the [[Words of Ending]] ritual as if it were an artefact
 A schema (plural:''schemata'') is a rare, magical item that contains all the details necessary to create a magic item. Schemata are made at a [[Runeforge]]. Most (though not all) schemata include a description of the item, including all the rules, and at least some in-character commentary on the item.
 A character who has the physical schema can learn how to make the item it describes by buying the extra item skill or using an empty item slot. This follows all the other rules for learning a skill during time-in. The schema must be taken to GOD or shown to a [[Referee|referee]] to allow the item it describes to be mastered in the field. 
-Every schema is a permanent item, but it requires the rare material Ilium to create. A schema needs 10 rings of ilium to create.
-The [[Imperial Senate]] can raise a motion to add a schema to the list of items any citizen can learn to make. If the motion passes, it costs 10 thrones to distribute the knowledge contained in the schema. The schema must be handed over to the civil service, and is destroyed in the process. If [[The Senate|the Senate]] chooses to make the knowledge in a schema public knowledge, any character can learn to make the item and its details will be added to [[The wiki|the wiki]]. The [[Senate]] could devolve this power to another body (such as the [[Imperial Conclave]]).
+Every schema is a permanent item, but it requires the rare material [[Ilium]] to create. A schema needs 10 rings of [[Ilium|ilium]] to create.
+The [[Imperial Senate]] can raise a motion to add a schema to the list of items any citizen can learn to make. If the motion passes, it costs 10 thrones to distribute the knowledge contained in the schema. The schema must be handed over to the civil service, and is destroyed in the process. If [[The Senate|the Senate]] chooses to make the knowledge in a schema public knowledge, any character can learn to make the item and its details [[Will|will]] be added to [[The wiki|the wiki]]. The [[Senate]] could devolve this power to another body (such as the [[Imperial Conclave]]).
 ## Further reading
 * Artisan
 * [[Downtime]]

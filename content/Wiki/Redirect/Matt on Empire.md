@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Matt on Empire
 aliases: ['Matt_on_Empire']

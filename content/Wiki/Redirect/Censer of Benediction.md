@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Censer of Benediction
 aliases: ['Censer_of_Benediction']

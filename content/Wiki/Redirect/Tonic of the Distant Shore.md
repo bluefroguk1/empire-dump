@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tonic of the Distant Shore
 aliases: ['Tonic_of_the_Distant_Shore']

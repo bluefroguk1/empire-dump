@@ -16,9 +16,9 @@ The [[Imperial Orcs]] would like to use their Wayleave for a [[Weirwood|weirwood
 ## Date
 * [[Winter]] 382YE
 ## [[Cost]]
-* This Sinecure uses standard costs.
+* This [[Sinecure]] uses standard costs.
 * The size of the [[Commission|commission]] has not been specified.
 ## Progress
 * 12 [[Weirwood|weirwood]] and 24 crowns received from Giacomo Corvinoscuro after the Winter Solstice 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Sinecure [[Will|will]] create an [[Imperial Title]], Keeper of Emilio's Herbarium
+* When complete, the [[Sinecure]] [[Will|will]] create an [[Imperial Title]], Keeper of Emilio's Herbarium

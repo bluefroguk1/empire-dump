@@ -17,12 +17,12 @@ The [[Reeve of Greenforest Fair]] is responsible for overseeing the monthly fair
 ### [[Ministry]]
 Wealth of the Fair
 9 Crowns3 measures each of beggar's lye, [[Ambergelt]], [[Dragonbone]], and [[Iridescent gloaming]] and 5 random [[Herbs|herbs]]
-20 Crowns6 measures each of beggar's lye, ambergelt, dragonbone, and iridescent gloaming and 10 random herbs
-40 Crowns9 measures each of beggar's lye, ambergelt, dragonbone, and iridescent gloaming, 10 random herbs, and 2 vials of vital honey
+20 Crowns6 measures each of beggar's lye, [[Ambergelt|ambergelt]], dragonbone, and [[Iridescent gloaming|iridescent gloaming]] and 10 random herbs
+40 Crowns9 measures each of beggar's lye, [[Ambergelt|ambergelt]], dragonbone, and [[Iridescent gloaming|iridescent gloaming]], 10 random herbs, and 2 vials of vital honey
 As a [[Ministry]], the title of [[Reeve of Greenforest Fair]] allows the holder to purchase measures at a set price. The Reeve spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
-SuitabilityThe Reeve of the Greenforest Fair is intended to be held by a yeofolk, the task of haggling over coins and measures is unsuitable for a noble. If the title is held by a character who is a noble, or they become one during their [[Tenure|tenure]], then the player must email admin@profounddecisions.co.uk to let us know to turn off production of the ministry.
+SuitabilityThe Reeve of the Greenforest Fair is intended to be held by a yeofolk, the task of haggling over coins and measures is unsuitable for a noble. If the title is held by a character who is a noble, or they become one during their [[Tenure|tenure]], then the player must email admin@profounddecisions.co.uk to let us know to turn off production of the [[Ministry|ministry]].
 ## [[Appointment]]
-This title is appointed during the Autumn Equinox. The Reeve of Greenforest Fair is a national position appointed by [[The Synod|the Synod]]. It is elected by [[Judgement]] of the Dawnish [[Assembly]].
+This title is appointed during the Autumn Equinox. The [[Reeve of Greenforest Fair]] is a national position appointed by [[The Synod|the Synod]]. It is elected by [[Judgement]] of the Dawnish [[Assembly]].
 The title can be held by any Dawnish citizen. They can be revoked by the [[General]] [[Assembly]], the [[Dawn]] [[National Assembly]], and by the [[Assembly of the Nine]].
 Responsibilities Expectation
 RecentElections|Reeve_of_Greenforest_Fair

@@ -18,15 +18,15 @@ The [[Weakness|weakness]] condition prevents the target from using any [[Heroic 
 You must assume that the target has taken the effect.
 The effect lasts until cured by the [[Purify]] spell, or a similar [[Potion|potion]] or [[Magic|magic]].
 ## Sample [[Spellcasting]] Vocals
-* By what creeps, what crawls, by what does not; let all that grows recede and rot!  - WEAKNESS
-* Oh mist-filled pits, dark, dank, unclear; touch all before me with frost-fingered fear! - WEAKNESS
-* [[Kyrop]] drain the strength from your bones - WEAKNESS!
+* By what creeps, what crawls, by what does not; let all that grows recede and rot!  - [[Weakness|WEAKNESS]]
+* Oh mist-filled pits, dark, dank, unclear; touch all before me with frost-fingered fear! - [[Weakness|WEAKNESS]]
+* [[Kyrop]] drain the strength from your bones - [[Weakness|WEAKNESS]]!
 * Drowned Man drag you down in the darkness - WEAKNESS!
-* By magic's might, be stripped of all your powers - WEAKNESS!
+* By [[Magic|magic]]'s might, be stripped of all your powers - WEAKNESS!
 * May [[Winter]]'s cold grip your hateful heart - WEAKNESS!
 * The winds of winter reap your strength for their hosts! - WEAKNESS Suggested by Lucas Palmer
 ## Common Elements
-* [[Rune]] Magic: The rune of Weakness, [[Kyrop]] is unsurprisingly invoked in conjunction with this invocation.
+* [[Rune]] [[Magic]]: The rune of Weakness, [[Kyrop]] is unsurprisingly invoked in conjunction with this invocation.
 * [[Astronomancy]]: [[The Drowned Man]], the astronomantic [[Constellation|constellation]] associated with endings and with curses, is commonly invoked with the weakness spell.
 * [[Dramaturgy]]: A Dawnish [[Witch|witch]] might echo the terrifying roar of the chimera, or the dire spirit of the manticore when casting this spell.
 * Other traditions: This spell has a strong resonance for the [[Realm|realm]] of Winter.

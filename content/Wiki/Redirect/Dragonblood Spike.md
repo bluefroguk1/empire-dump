@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Dragonblood Spike
 aliases: ['Dragonblood_Spike']

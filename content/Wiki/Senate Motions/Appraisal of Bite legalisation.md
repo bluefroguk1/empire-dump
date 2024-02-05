@@ -12,7 +12,7 @@ __NOTOC__
 To use the power of [[Appraisal|appraisal]] to assess the economic impact of legal bite production.''Proposed by [[Sarvos]], seconded by [[Temeschwar]].''
 ## Overview
 * Commissions an [[Appraisal]] from the civil service, relating to the illegal drug known as "bite".
-* Only one appraisal may be carried out each season.
+* Only one [[Appraisal|appraisal]] may be carried out each season.
 * Failed
 ## Date
 * [[Winter]] 382YE

@@ -13,12 +13,12 @@ revision_id: 102552
 Arthurian high medieval, chivalric, courtly, 'high' culture, battle anthems, tales of love, [[Glory]], and tragedy. 
 [[Dawn]] draws on the more formal folk and classical traditions of Shakespearean/Elizabethan period, for example madrigals, as well as fantastical folk tales from the English or Irish tradition.
 ### Commonly known songs
-[https://docs.google.com/document/d/14LO1G-ncE_LoSdE1ra6vqeqn_Lw2WNho97_kELNIjCg/edit?usp=sharing Dawn Songbooks, Songs and Signposts] A player collated list of songs, recordings and songbooks that are available for other players to use. Suggestions are welcome. The songs listed on [[The wiki|the wiki]] are to be considered the most commonly known songs in the nation. This document is to provide further resources and signposting to songbooks of interest to Dawnish performers and singers.
+[https://docs.google.com/document/d/14LO1G-ncE_LoSdE1ra6vqeqn_Lw2WNho97_kELNIjCg/edit?usp=sharing [[Dawn]] Songbooks, Songs and Signposts] A player collated list of songs, recordings and songbooks that are available for other players to use. Suggestions are welcome. The songs listed on [[The wiki|the wiki]] are to be considered the most commonly known songs in the nation. This document is to provide further resources and signposting to songbooks of interest to Dawnish performers and singers.
 * [[Sweet Kate]] - medium difficulty madrigal for 3 female voices 
 * [[Dawnish War Song]] - medieval song with drums and other instruments
 * Britta's [[Glory]] - Verse-chorus [[War|war]] song
 ### A musical tradition
-All sensible knights understand that for their glory to continue after death, you rely on the skill and [[Conviction|conviction]] of minstrels and [[Storytellers|storytellers]]. What better way to earn glory and reputation than to let them see your deeds for themselves? Therefore it is not uncommon for questing knights to invite along the best minstrel they can find to accompany them on a quest - it goes without saying that the safety of the minstrel is paramount. The best singers and storytellers have a song or tale ready for the victory feast the same evening, and direct retellings of glorious [[Battles|battles]] and the valour of Dawnish knights in either victory or death are always enthusiastically received!
+All sensible knights understand that for their [[Glory|glory]] to continue after death, you rely on the skill and [[Conviction|conviction]] of minstrels and [[Storytellers|storytellers]]. What better way to earn [[Glory|glory]] and reputation than to let them see your deeds for themselves? Therefore it is not uncommon for questing knights to invite along the best minstrel they can find to accompany them on a quest - it goes without saying that the safety of the minstrel is paramount. The best singers and storytellers have a song or tale ready for the victory feast the same evening, and direct retellings of glorious [[Battles|battles]] and the valour of Dawnish knights in either victory or death are always enthusiastically received!
 ### One for the kids
 * [[Five Little Ploughboys]]
 * [[Chants for naughty children]]
@@ -27,12 +27,12 @@ All sensible knights understand that for their glory to continue after death, yo
 * [[When I Am Laid]]
 ### Wedding [[Music]]
 * [[Wedding Air]]
-### Songs about notable people/entities in Dawn
+### Songs about notable people/entities in [[Dawn]]
 * [[The Ballad of Sir Alain]], written for a knight killed in glorious battle
 * [[Sir Isobel]], a traditional Dawnish song which has had a recent rise in popularity
 * [[The Novarion Phoenix]], written about a Dawnish house
 * [[Sir Colwyn]], a recently-written song about a Dawnish knight.
-* [[Onward to Glory I Go]], an adaptable song of glory, popular amongst questing knights.
+* [[Onward to Glory I Go]], an adaptable song of [[Glory|glory]], popular amongst questing knights.
 * [[The Flowers of Auvanne]], an old song written by [[Elayne Silverlark]] for which the original tune has been lost.
 ### Further examples
 ### Songs
@@ -52,7 +52,7 @@ All sensible knights understand that for their glory to continue after death, yo
 *[[Sweet, Stay Awhile]] - Elizabethan love song, medium
 ### Instrumentation and tunes
 * Anything vaguely courtly using recorders, plucked strings, single drums, harps, autoharp, or similar.
-* [[Elizabethan recorder music]] - very appropriate for Dawn, especially if played on recorders or harp with a single drum.
+* [[Elizabethan recorder music]] - very appropriate for [[Dawn]], especially if played on recorders or harp with a single drum.
 ### Other performance traditions
 * Courtly dances.
 ### How to adapt your repertoire

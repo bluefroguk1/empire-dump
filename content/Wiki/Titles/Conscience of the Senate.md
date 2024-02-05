@@ -18,9 +18,9 @@ The Conscience is intended to observe [[Senate]] affairs; to speak on behalf of 
 ### One Year Only
 The Conscience serves for up to one year, unless removed from office early. In addition, no person may hold the seat of the Conscience more than once in their lifetime. This restriction is historical in nature, put in place when the post was first created to limit the power of the Conscience.
 ### Lay Person
-The Conscience must be a lay-person; this means that if the appointee has a [[Congregation]], they must give up their membership of their assembly and lose the ability to participate in the [[Business|business]] of the [[Imperial Synod]] for as long as they serve.
+The Conscience must be a lay-person; this means that if the appointee has a [[Congregation]], they must give up their membership of their [[Assembly|assembly]] and lose the ability to participate in the [[Business|business]] of the [[Imperial Synod]] for as long as they serve.
 ### [[Proxy]]
-As with many Imperial titles, the Conscience of the Senate may appoint a [[Proxy]] following the normal rules. The proxy must be legally eligible to hold the title so they may not preside over a [[Congregation]], and must never have held the title of Conscience of the Senate previously. However being the proxy for the Conscience of the Senate does not then prevent someone from holding the full title at a later date.
+As with many Imperial titles, the [[Conscience of the Senate]] may appoint a [[Proxy]] following the normal rules. The [[Proxy|proxy]] must be legally eligible to hold the title so they may not preside over a [[Congregation]], and must never have held the title of [[Conscience of the Senate]] previously. However being the [[Proxy|proxy]] for the [[Conscience of the Senate]] does not then prevent someone from holding the full title at a later date.
 ## Powers
 The Conscience enjoys many of the same powers as a [[Senator]] with the advantage that they do not need to worry about re-election. Some Consciences decline to use these powers, seeing their role as more ceremonial; others take full part in the business of the Senate, engaging in spirited debates with their fellow senators.
 ### Member of the Senate
@@ -30,10 +30,10 @@ The Conscience may cast vote on any majority motion that is brought before the S
 ### Proposal
 The Conscience may propose a single motion for consideration by the Senate each summit.
 ### Voice of Virtue
-The Conscience may abstain from any vote in the Senate. The conscience will often be called on to speak on matters relating to the Synod.
+The Conscience may abstain from any vote in the Senate. The conscience [[Will|will]] often be called on to speak on matters relating to the Synod.
 ## [[Appointment]]
-The [[Cardinal of the Way]] may appoint any citizen to be the Conscience, provided that that citizen has never held the position previously. It is frowned upon to name a conscience from the same nation as the [[Cardinal|cardinal]]. If the Conscience controls a congregation, they face additional restrictions.
-The conscience may hold the seat for no longer than a year, or until a new cardinal of the Way is appointed and chooses to name a replacement. For example, if a Conscience were appointed during the [[Winter]] Solstice, they would serve until the end of the Winter Solstice the following year, or until a new cardinal was appointed who wanted to replace them.
-They can be revoked by the [[General]] Assembly, the Assembly of the Way, and the [[Assembly of the Nine]].
+The [[Cardinal of the Way]] may appoint any citizen to be the Conscience, provided that that citizen has never held the position previously. It is frowned upon to name a conscience from the same nation as the [[Cardinal|cardinal]]. If the Conscience controls a [[Congregation|congregation]], they face additional restrictions.
+The conscience may hold the seat for no longer than a year, or until a new [[Cardinal of the Way|cardinal of the Way]] is appointed and chooses to name a replacement. For example, if a Conscience were appointed during the [[Winter]] Solstice, they would serve until the end of the Winter Solstice the following year, or until a new [[Cardinal|cardinal]] was appointed who wanted to replace them.
+They can be revoked by the [[General]] [[Assembly]], the [[Assembly]] of [[The Way|the Way]], and the [[Assembly of the Nine]].
 RecentElections|Conscience_of_the_Senate 
 Senate Further Reading

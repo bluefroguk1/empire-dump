@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Magical Traditions
 aliases: ['Navarri_Magical_Traditions']

@@ -9,7 +9,7 @@ revision_id: 100948
 ---
 
 ## Definition
-A [[Mana site|mana site]] represents a location where flows of [[Magic|magic]] are particularly strong. A practised individual can use solutions of rare salts placed strategically throughout the area to cause mana crystals to form. The flows of [[Magic|magic]] tend to move as they ebb and flow so the methods used to catch them must be continuously adjusted. Many different methods of measuring or focusing the natural flows of magic are used, the most common being mirrors, geometric solids, lenses, and objects such as windchimes whose movements can be interpreted to determine any adjustments that need to be made.
+A [[Mana site|mana site]] represents a location where flows of [[Magic|magic]] are particularly strong. A practised individual can use solutions of rare salts placed strategically throughout the area to cause mana crystals to form. The flows of [[Magic|magic]] tend to move as they ebb and flow so the methods used to catch them must be continuously adjusted. Many different methods of measuring or focusing the natural flows of [[Magic|magic]] are used, the most common being mirrors, geometric solids, lenses, and objects such as windchimes whose movements can be interpreted to determine any adjustments that need to be made.
 ## Production
 A [[Mana site|mana site]]  produces 7 mana crystals.
 Total Money SpentAdditional Crystals
@@ -19,10 +19,10 @@ Total Money SpentAdditional Crystals
 302 rings4 crystal mana
 -->
 ## [[Downtime]] Options
-A mana site produces mana automatically. For a time it was possible to obtain additional crystals from a mana site by using the rare alchemical product known as the White Seed. This material was only available from the [[Principalities of Jarm]], and with the collapse of relations between the two nations it is no longer available.
+A [[Mana site|mana site]] produces mana automatically. For a time it was possible to obtain additional crystals from a [[Mana site|mana site]] by using the rare alchemical product known as the White Seed. This material was only available from the [[Principalities of Jarm]], and with the collapse of relations between the two nations it is no longer available.
 ## Upgrades
-A mana site can be upgraded using [[Mithril]] obtained from [[The Bourse|the Bourse]]. The first time a mana site is upgraded, the owner receives one additional mana crystals from then on, the second time a mana site is upgraded, the owner receives two additional mana crystals. Production increases continue to alternate in this way every time the mana site is upgraded.
-To upgrade a mana site requires Imperial wains of [[Mithril|mithril]] equal to the level the mana site is being upgraded to. So the first upgrade of a starting level 1 mana site costs 2 Imperial wains of mithril, from 2 to 3 costs 3 Imperial wains, etc.
+A [[Mana site|mana site]] can be upgraded using [[Mithril]] obtained from [[The Bourse|the Bourse]]. The first time a mana site is upgraded, the owner receives one additional mana crystals from then on, the second time a mana site is upgraded, the owner receives two additional mana crystals. Production increases continue to alternate in this way every time the mana site is upgraded.
+To upgrade a mana site requires Imperial wains of [[Mithril|mithril]] equal to the level the mana site is being upgraded to. So the first upgrade of a starting level 1 mana site costs 2 Imperial wains of [[Mithril|mithril]], from 2 to 3 costs 3 Imperial wains, etc.
 ## Diversification
 A mana site cannot be diversified.
 ## [[Rituals]]

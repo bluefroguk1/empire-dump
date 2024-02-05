@@ -14,10 +14,10 @@ Creates the [[Imperial Title|Imperial title]] of Whip of Jarm, title for life, a
 This motion was submitted only as part of an unusual deal to secure resources for [[Casinea]]'s subsequent motion.
 Proposed by [[Miaren]], Seconded by [[Segura]] 
 ### Overview
-* Commissions the construction of a great work to integrate former slaves into Jarm.
+* Commissions the construction of a [[Great work|great work]] to integrate former slaves into Jarm.
 * Motion was Withdrawn 
 ### Date
 * [[Winter]] 379YE
 ### [[Cost]]
-* The motion would have had all the standard costs of creating a great work
+* The motion would have had all the standard costs of creating a [[Great work|great work]]
 __NOTOC__

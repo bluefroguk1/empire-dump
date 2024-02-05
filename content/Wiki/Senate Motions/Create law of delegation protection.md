@@ -16,6 +16,6 @@ Any delegations from [[Barbarian|barbarian]] nations who arrive on the field at 
 ### [[Cost]]
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-* This law appears to extend the status of foreigner to any barbarian delegation that reaches the field at [[Anvil]].
+* This law appears to extend the status of foreigner to any [[Barbarian|barbarian]] delegation that reaches the field at [[Anvil]].
 * The law was amended during the [[Winter]] Solstice 378YE.
 __NOTOC__

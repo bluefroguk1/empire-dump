@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Marches lineage and species attitudes
 aliases: ['Marches_lineage_and_species_attitudes']

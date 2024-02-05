@@ -14,6 +14,6 @@ That the [[Territory|territory]] of [[Karsk]] be allocated to an Imperial Nation
 ### Date
 * [[Winter]] 378YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The territory of Karsk is now part of the nation of [[Varushka]].
+* The territory of [[Karsk]] is now part of the nation of [[Varushka]].
 * It is noted that the territory is still not secure - the [[Thule]] still control three of the seven regions.
 __NOTOC__

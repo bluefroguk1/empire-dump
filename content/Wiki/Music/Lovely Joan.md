@@ -38,5 +38,5 @@ He called, he called, but it was all in vain
 Young Joan she never looked back again.
 So all [[League]] men come and listen to me
 Never trust a maid for her beauty
-She'll rob you of your horse and ring
+She'll rob you of your [[Horse|horse]] and ring
 And leave you to rage in the meadows green.

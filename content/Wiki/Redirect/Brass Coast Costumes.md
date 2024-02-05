@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast costumes
 aliases: ['Brass_Coast_costumes']

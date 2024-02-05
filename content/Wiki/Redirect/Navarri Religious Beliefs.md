@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Religious Beliefs
 aliases: ['Navarri_Religious_Beliefs']

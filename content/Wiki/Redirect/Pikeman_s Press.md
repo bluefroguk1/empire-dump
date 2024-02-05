@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Pikeman_s Press
 aliases: ["Pikeman's_Press"]

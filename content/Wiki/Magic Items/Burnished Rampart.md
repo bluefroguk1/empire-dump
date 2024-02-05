@@ -15,4 +15,4 @@ A [[Burnished Rampart]] may be engraved with the [[Rune|rune]] [[Pallas]], often
 ## Rules
 Shields
 * Effect: You may repair this shield by expending a hero point and spending at least five seconds of uninterrupted [[Appropriate roleplaying]] involving handling the item. If the shield is struck with a blow while using this ability, the blow is considered to have struck your arm as usual and you must begin the [[Appropriate roleplaying|appropriate roleplaying]] again. If you are attacked or make an attack while using this ability the attempt fails and you must begin the roleplaying again.
-* [[Materials]]: Crafting a Burnished Rampart requires fourteen ingots of orichalcum and three measures of iridescent gloaming. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Burnished Rampart]] requires fourteen ingots of orichalcum and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

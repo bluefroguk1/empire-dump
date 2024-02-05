@@ -23,4 +23,4 @@ TBC
 TBC
 ## Army Quality : Fast
 The [[Fire of the South]] is able to move quickly over long distances. This is not just a quality of speed - moving thousands of soldiers overland is a daunting logistical prospect. Within [[The Empire|the Empire]], the army takes advantage of the [[Trods]] whenever it can, supplementing their magical endurance with forced [[Marches|marches]] and expertly organised baggage trains. 
-RecentElections|General_of_the_Fire_of_the_South|the title of [[General]] of the Fire of the South
+RecentElections|General_of_the_Fire_of_the_South|the title of [[General]] of the [[Fire of the South]]

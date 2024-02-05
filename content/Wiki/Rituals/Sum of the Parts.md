@@ -15,7 +15,7 @@ Casting time|2 Target Character.
 The ritual also requires the participation of up to three additional [[Characters|characters]], who must be present throughout, and must be both aware and willing. 
 [[Enchantment|enchantment]]
 ### Effects
-When the ritual is complete, each of up to three participants sacrifices one global hit for the duration of the [[Enchantment]]. These hits cannot be recovered by any means until the next sunrise, even if the ''[[Sum of the Parts]]'' enchantment ends prematurely.
+When the ritual is complete, each of up to three participants sacrifices one global hit for the duration of the [[Enchantment]]. These hits cannot be recovered by any means until the next sunrise, even if the ''[[Sum of the Parts]]'' [[Enchantment|enchantment]] ends prematurely.
 A single target gains three additional ranks of Endurance. Participants in this ritual cannot also be the target of this ritual, although contributors can be either participants or targets.
 The participants contributing endurance experience the [[Roleplaying effect|roleplaying effect]] of lethargy and tiredness. By contrast, the target of the ritual experiences the roleplaying effect of being infused with great waves of energy and vitality that fill them with confidence in their abilities, especially their ability to lead others. 
 [[Day]] Duration

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: League lineage and species attitudes
 aliases: ['League_lineage_and_species_attitudes']

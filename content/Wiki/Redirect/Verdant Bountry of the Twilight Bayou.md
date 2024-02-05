@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Verdant Bountry of the Twilight Bayou
 aliases: ['Verdant_Bountry_of_the_Twilight_Bayou']

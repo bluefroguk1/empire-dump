@@ -11,7 +11,7 @@ revision_id: 87897
 __NOTOC__
 Create the [[Imperial Title]] of [[Basilisk of the Bourse]], with responsibilities to help [[The Bourse|the Bourse]] seat holders to act with Virtue. 
 Once per summit the Basilisk may raise an automatic [[Inquisition]] of any member of the [[Bourse]]. This is in addition to any other judgements. 
-Appointed by the [[Assembly]] of Nine, revocable by the [[General]] [[Assembly]] and the Assembly of Nine.
+Appointed by the [[Assembly]] of Nine, revocable by the [[General]] [[Assembly]] and the [[Assembly]] of Nine.
 ''Proposed by [[Casinea]], seconded by [[Skarsind]].''
 ## Outcome
 * Create a new [[Imperial Title|Imperial title]] with the power to inquisit bourse seat holders

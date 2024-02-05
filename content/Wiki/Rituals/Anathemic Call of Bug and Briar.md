@@ -14,8 +14,8 @@ Season|Spring|16
 Casting time|2 At the end of the ritual one of the contributors is chosen to deliver the [[Curse|curse]] with a pronouncement of doom.
 [[Curse|curse]]
 ### Effects
-This ritual creates a Curse that is delivered to a target with a pronouncement of doom: one contributors is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head. 
-While under the curse, the target experiences a [[Roleplaying effect]]; they often suffer from itchy skin, and are regularly targeted by biting or stinging insects when they are in a natural setting.
+This ritual creates a [[Curse]] that is delivered to a target with a pronouncement of doom: one contributors is chosen to deliver the [[Curse|curse]], and they must do so within fifteen minutes or it falls on their own head. 
+While under the [[Curse|curse]], the target experiences a [[Roleplaying effect]]; they often suffer from itchy skin, and are regularly targeted by biting or stinging insects when they are in a natural setting.
 While under the curse the target loses half of any production that would have been provided by a [[Farm]], [[Forest]] or [[Herb garden]] [[Resource|resource]].
 The additional production provided by an [[Enchantment]] such as [[Rampant Growth]] or [[Gathering the Harvest]] is not affected by this curse.
 Year Duration
@@ -26,4 +26,4 @@ This Curse focuses the fecund energies of the [[Spring]] [[Realm|realm]] onto a 
 Several eternals of Spring are known to have the power to remove this curse - and to deliver their own variants of it - especially Yaw'nagrah and [[Llofir]]. Unfortunately, both are more inclined to encourage the curse than to discourage the supernatural growth it causes; it generally requires a great deal of effort to encourage them to assist. By contrast, some eternals of [[Winter]] (notably [[Kaela]]) are more than happy to help remove the effect... but this rarely leaves the resource in question any more productive.
 During the Spring Equinox 381YE, then-[[Archmage of Spring]] Rosamund Holt raised a [[Declaration]] of [[Concord]] suggesting that the common name of the ritual was "stupid" and should be changed. The [[Imperial Conclave]] agreed.
 ## Common Elements
-As with many curses, this ritual often involves a recitation of the grievances against the target, casting aside food or Forest resources, invoking the [[Rune|rune]] [[Bravash]], or calling on the names of eternals such as Yaw'nagrah or [[Llofir]].
+As with many curses, this ritual often involves a recitation of the grievances against the target, casting aside food or [[Forest]] resources, invoking the [[Rune|rune]] [[Bravash]], or calling on the names of eternals such as Yaw'nagrah or [[Llofir]].

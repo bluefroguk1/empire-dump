@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Assign funds to protect historical researchers
 aliases: ['Assign_funds_to_protect_historical_researchers']

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Construct Steel Rings of Sarvos
 aliases: ['Construct_Steel_Rings_of_Sarvos']

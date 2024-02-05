@@ -14,4 +14,4 @@ It can take months for a skilled artisan to create an [[Icon of the Steward]]. T
 ## Rules
 Icons
 * Effect: While you are wielding this icon you can perform the consecrate ceremony as if you knew it.
-* Materials: Crafting an Icon of the [[Steward]] requires no special materials. It takes two months to make one of these items.
+* [[Materials]]: Crafting an Icon of the [[Steward]] requires no special [[Materials|materials]]. It takes two months to make one of these items.

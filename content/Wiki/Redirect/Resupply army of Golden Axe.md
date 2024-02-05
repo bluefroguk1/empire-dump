@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Resupply army of Golden Axe
 aliases: ['Resupply_army_of_Golden_Axe']

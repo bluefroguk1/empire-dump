@@ -12,10 +12,10 @@ __NOTOC__
 To disburse funds for the rebuilding of [[Holberg]]
 Proposed by [[Holberg]], Seconded by [[Tassato]]
 ### Overview
-* This follows on from a previous motion to disburse funds, after a motion to construct a [[Great work]] in Holberg
+* This follows on from a previous motion to disburse funds, after a motion to construct a [[Great work]] in [[Holberg]]
 * Passed
 * Passed at 75 thrones
 ### Date
 * [[Winter]] 380YE
 ### Progress
-* 75 thrones disbursed to [[Senator]] Holberg
+* 75 thrones disbursed to [[Senator]] [[Holberg]]

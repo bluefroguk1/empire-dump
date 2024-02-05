@@ -27,4 +27,4 @@ The Winterfolk strive to commit deeds worthy of a name, to earn a name. This nam
 ### Naming resources
 * [http://www.regia.org/members/names.htm Saxon names]
 * [http://www.behindthename.com/names/usage/finnish Finnish names]
-Wintermark Links
+[[Wintermark]] Links

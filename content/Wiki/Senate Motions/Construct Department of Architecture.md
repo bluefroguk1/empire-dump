@@ -17,14 +17,14 @@ A motion to construct the [[Temeschwar]] University Department of Architecture. 
 * [[Winter]] 384YE
 ## [[Cost]]
 * As per the wind of fortune
-* 60 wains of white granite
-* 30 wains of weirwood
+* 60 wains of [[White granite|white granite]]
+* 30 wains of [[Weirwood|weirwood]]
 * 180 crowns
 * Six months to complete
 ## Progress
 CommissionProgress|Temeschwar_University_Department_of_Architecture
 ## Outcome
-* Now that construction is complete the Master of Rings [[Will|will]] be available to appoint by [[Tally of the Votes]] for the first time at the [[Summer]] Solstice 385YE
+* Now that construction is complete the [[Master of Rings]] [[Will|will]] be available to appoint by [[Tally of the Votes]] for the first time at the [[Summer]] Solstice 385YE
 ## Constitutional Notes
-* The motion specifies that the title can be revoked by [[The League|the League]] assembly, [[General Assembly|General assembly]], and Assembly of Nine. This is not possible for a title appointed by the Tally of the Votes. 
+* The motion specifies that the title can be revoked by [[The League|the League]] [[Assembly|assembly]], [[General Assembly|General assembly]], and [[Assembly]] of Nine. This is not possible for a title appointed by the [[Tally of the Votes]]. 
 * After much discussion the Constitutional Court have chosen to ask for an [[Administrative motion|administrative motion]] at the [[Spring]] Equinox to clarify this.

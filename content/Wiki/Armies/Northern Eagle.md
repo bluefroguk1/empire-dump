@@ -23,5 +23,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Guerilla
-The Northern Eagle contains a number of expert mountaineers, ex-prospectors and other specialists who serve as scouts, and have a significant advantage over less-experienced armies when fighting in mountains, forests and marshes. Once they establish a presence in a territory, they can prove extremely hard to dislodge.
-RecentElections|General_of_the_Northern_Eagle|the title of [[General]] of the Northern Eagle
+The [[Northern Eagle]] contains a number of expert mountaineers, ex-prospectors and other specialists who serve as scouts, and have a significant advantage over less-experienced armies when fighting in mountains, forests and marshes. Once they establish a presence in a territory, they can prove extremely hard to dislodge.
+RecentElections|General_of_the_Northern_Eagle|the title of [[General]] of the [[Northern Eagle]]

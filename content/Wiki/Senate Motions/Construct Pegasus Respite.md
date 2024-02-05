@@ -11,7 +11,7 @@ revision_id: 94627
 __NOTOC__
  To build the Pegasus Respite as a [[Sinecure|sinecure]]. The title ‘[[Medical Officer of the Pegasus Respite]]’ to be appointed by the Highborn national [[Assembly|assembly]]. 
 It [[Will|will]] [[Cost|cost]] 14 wains of [[Weirwood|weirwood]] and 28 crowns, fully self funded. [[Herbs]] produced [[Will|will]] go to the battle physicks of [[Highguard]] to serve [[The Empire|the Empire]]. 
-The House of the Proffered Hand will have a former slave rehabilitation wing on the premises, to aid the convalescent hospital’s work.
+The House of the Proffered Hand [[Will|will]] have a former slave rehabilitation wing on the premises, to aid the convalescent hospital’s work.
 ''Announced by Nathaniel of Balthazar’s Vineyard, [[Bearer of an Imperial Wayleave]]''
 ## Outcome
 * Construct a [[Sinecure]] in Chalcis Mount, [[Reikos]]
@@ -26,4 +26,4 @@ The House of the Proffered Hand will have a former slave rehabilitation wing on 
 ## Progress
 CommissionProgress|Pegasus_Respite
 ## [[Campaign outcome|Campaign Outcome]]
-* Once completed this [[Commission|commission]] will be overseen by the title [[Medical Officer of the Pegasus Respite]].
+* Once completed this [[Commission|commission]] [[Will|will]] be overseen by the title [[Medical Officer of the Pegasus Respite]].

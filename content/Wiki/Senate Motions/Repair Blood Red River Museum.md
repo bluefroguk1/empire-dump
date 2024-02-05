@@ -25,6 +25,6 @@ That [[The Senate|the senate]] authorise the repair and rebuilding of the Blood 
 ## Progress
 CommissionProgress|Repair_Museum_in_Tassato
 ## Outcome
-* The Blood Red River Museum will remain a [[Great work|great work]] of [[Pride]]. 
+* The Blood Red River Museum [[Will|will]] remain a [[Great work|great work]] of [[Pride]]. 
 *The [[Curator of the Blood Red River]] cannot be appointed by unanimous vote of [[The League|the League]] senators, as it provides votes in [[The Synod|the Synod]]. The Constitutional Court prepared an [[Administrative motion|administrative motion]] to clarify this which was passed by the [[Imperial Senate]].
-*Work has been completed on the repairs and the [[Imperial Title]] of Curator of the Blood Red River will be appointed at the Summer Solstice 385YE
+*Work has been completed on the repairs and the [[Imperial Title]] of [[Curator of the Blood Red River]] [[Will|will]] be appointed at the Summer Solstice 385YE

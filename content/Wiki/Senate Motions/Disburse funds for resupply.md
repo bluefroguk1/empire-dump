@@ -16,4 +16,4 @@ Motion for the dispersement of funds with the intention to resupply the Imperial
 ### Date
 * [[Autumn]] 379YE.
 ### Progress
-* 150 Thrones disbursed to [[Senator]] Bregasland
+* 150 Thrones disbursed to [[Senator]] [[Bregasland]]

@@ -13,7 +13,7 @@ It is not clear why this wand, which requires so little in terms of special [[Ma
 ## Rules
 Wands
 * Effect: You may cast, or swift cast, the [[Heal]] spell as if you know it.
-* [[Materials]]: Crafting an acolyte's mercy requires no special materials. It takes two months to make one of these items.
+* [[Materials]]: Crafting an acolyte's mercy requires no special [[Materials|materials]]. It takes two months to make one of these items.
 Sutin rolled the wooden rod around his hands, his thumb absently caressing the thin chains that wrapped tightly around its length. They had been crafted from the manacles that had bound his grandfather in years past, melted down and reshaped at his request.  It had taken him months to complete the task the artisan had demanded of him, gathering wood from the [[Forest|forest]] where his grandfather had fallen fighting for freedom and chains of iron from the ruined [[Mine|mine]] where he had slaved.
 He had never been able to grasp the intricacies of healing [[Magic|magic]], his heart was full of the lust for battle; shattering the weapons of his foes and turning the blood of his enemies thick with poison, yet it had always pained him to watch kin die beside him with no means to help them. He clutched the wand tightly in his hands, the reflected firelight flickering along the metal. 
 He mused upon the words of his father, a skilled healer who had saved countless lives, and felt an echo of them whisper in his spirit, along with the touch of a departed hand on his shoulder.

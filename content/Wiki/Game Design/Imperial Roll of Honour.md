@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Imperial Roll of Honour
 aliases: ['Imperial_Roll_of_Honour']
 draft: False

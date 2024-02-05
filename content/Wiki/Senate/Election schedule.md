@@ -17,9 +17,9 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 ## Winter
 ### National Election
 * [[Senator]] for [[Astolat]]
-* Senator for [[Bregasland]]
-* Senator for [[Hercynia]]
-* Senator for [[Kallavesa]]
+* [[Senator]] for [[Bregasland]]
+* [[Senator]] for [[Hercynia]]
+* [[Senator]] for [[Kallavesa]]
 * Senator for [[Madruga]]
 * Senator for [[Miekarova]]
 * Senator for [[Necropolis]]
@@ -34,9 +34,9 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Ambassador to the Iron Confederacy]]
 * [[General]] of the [[Burning Falcon]]
 * [[General]] of the [[Golden Axe]]
-* General of the [[Green Shield]]
-* General of the [[Strong Reeds]]
-* General of the [[Towerjacks]]
+* [[General]] of the [[Green Shield]]
+* [[General]] of the [[Strong Reeds]]
+* [[General]] of the [[Towerjacks]]
 * General of the [[Winter Sun]]
 * [[Apothecary of Orieb]]
 * [[Cabalist of the Hollow Stone]]
@@ -64,7 +64,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Voice of the House of Barbs
 * [[Champion of Loyalty]]
 * [[Champion of Pride]]
-### [[Cardinal]] Appointment
+### [[Cardinal]] [[Appointment]]
 * [[Conscience of the Senate]]
 * [[Gatekeeper of Prosperity]]
 * Curator of the Printer's [[Guild]] Museum
@@ -103,7 +103,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Senator for [[Reikos]]
 * Senator for [[Segura]]
 * Senator for [[The Barrens|the Barrens]]
-### Senate Appointment
+### Senate [[Appointment]]
 * [[Advisor on Orc Affairs]]
 * [[Ambassador to Faraden]]
 * [[Ambassador to Otkodov]]
@@ -132,7 +132,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[High Bard of the Empire]]
 * [[Voice of the Twin Roses]]
 * [[Champion of Prosperity]]
-### [[Cardinal]] Appointment
+### [[Cardinal]] [[Appointment]]
 * [[Gatekeeper of Ambition]]
 * [[Gatekeeper of Vigilance]]
 * [[Imperial Chaplain Consular]]
@@ -205,7 +205,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Woundbinder of the Mark]]
 ### Throne Appointment
 * Queen's Rose
-### Synod Judgement
+### Synod [[Judgement]]
 * [[Cardinal of Courage]]
 * [[Cardinal of Wisdom]]
 * [[Imperial Inquisitor]]
@@ -218,7 +218,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Prelate of Adelmar's Shrine
 * [[Champion of Ambition]]
 * [[Champion of Vigilance]]
-### Cardinal Appointment
+### [[Cardinal]] Appointment
 * [[Gatekeeper of Courage]]
 * [[Gatekeeper of Wisdom]]
 ### [[Conclave]] Order Vote
@@ -249,7 +249,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Northbound Trademaster]]
 ### Other
 * Keeper of Brock's Toll
-* Knight-protector of Summer
+* [[Knight-protector]] of Summer
 ## [[Autumn]]
 ### National Election
 * Senator for [[Casinea]]
@@ -278,7 +278,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Spear of the Seven]]
 * [[Steward of the Nabarr]]
 * Tender of Tekkupala's Hives
-### Synod Judgement
+### Synod [[Judgement]]
 * [[Cardinal of Loyalty]]
 * [[Cardinal of Pride]]
 * Inquisitor of [[Ambition]]
@@ -292,7 +292,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Watcher of Ratibor's Torch
 * [[Champion of Courage]]
 * [[Champion of Wisdom]]
-### Cardinal Appointment
+### [[Cardinal]] Appointment
 * [[Gatekeeper of Loyalty]]
 * [[Gatekeeper of Pride]]
 ### Military Council Appointment
@@ -303,7 +303,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Legate of the Imperial Auxiliaries]]
 * [[Oblivion Sentinel]]
 * [[Wisdom of the Tenebrous Path]]
-### Conclave Order Vote
+### [[Conclave order|Conclave Order]] Vote
 * [[Shuttered Lantern]]
 * [[Silver Chalice]]
 ### Bourse Auction
@@ -313,7 +313,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Legacy]]
 * [[Overseer of the Gloaming Road]]
 * [[Sunless Depths]]
-* [[Arbiter]] of the Rogue Declaration
+* [[Arbiter]] of the Rogue [[Declaration]]
 * [[Delver of the Depths]]
 * [[Elosian Architect]]
 * First Imperial Wayleave
@@ -322,7 +322,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 ### Bourse Vote
 * [[Brilliant Star]]
 * [[Eternal Shafts of Time]]
-* Pride of Ikka's Tears
+* [[Pride]] of Ikka's Tears
 * [[Singing Caves]]
 * [[Castellan of Spiral Castle]]
 * [[Bargainer of the Iron Tower]]
@@ -332,4 +332,4 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Tolvoli Butcher]]
 ### Other
 * [[Emissary to the Celestial Library]]
-* Knight-protector of Autumn
+* [[Knight-protector]] of Autumn

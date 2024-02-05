@@ -20,8 +20,8 @@ And defies us all
 We can see it in our past
 Blood [[Will|will]] out and joy [[Will|will]] battle
 Though we work in different ways we're [[Bringing in the Sheaves|bringing in the sheaves]]
-(Chorus) - Bringing in the sheaves, we're bringing in the sheaves. 
-Though we work in different ways we're bringing in the sheaves
+(Chorus) - [[Bringing in the Sheaves|Bringing in the sheaves]], we're [[Bringing in the Sheaves|bringing in the sheaves]]. 
+Though we work in different ways we're [[Bringing in the Sheaves|bringing in the sheaves]]
 Though we started from the land
 Some of us do roam abroad
 The hand upon the gliding plough is not for everyone
@@ -33,12 +33,12 @@ What lay dormant in the soil
 Is wakened by the kiss of [[Summer|summer]]
 So the fruits of yesteryear become the years new corn
 Every stem has at its core, part of those who went before
-In turn they will be kept in store by bringing the sheaves
+In turn they [[Will|will]] be kept in store by bringing the sheaves
 (Chorus)
 In conclusion bear in mind
 What example has begun
 What today you do in kind has power for everyone
-True strong aims will pass along
+True strong aims [[Will|will]] pass along
 To your daughters and your sons
 So may they in years to come be bringing in the sheaves
 (Chorus)

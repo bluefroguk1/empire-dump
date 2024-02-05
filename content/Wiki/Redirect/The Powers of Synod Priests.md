@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Powers of Synod Priests
 aliases: ['The_Powers_of_Synod_Priests']

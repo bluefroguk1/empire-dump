@@ -24,5 +24,5 @@ __NOTOC__
 * 12 thrones in ongoing upkeep
 ### Progress
 * 20 wains of [[White granite|white granite]] and 5 thrones provided by Brother Ibrahim the South Paw after Winter Solstice 380YE.
-* 40 wains of white granite and 7 thrones provided by Sammual of the Cohort of the Winter Bear after [[Spring]] Equinox 381YE.
-* 100 wains of white granite and 33 thrones provided by Sammual of the Cohort of the Winter Bear after [[Summer]] Solstice 381YE.
+* 40 wains of [[White granite|white granite]] and 7 thrones provided by Sammual of the Cohort of the Winter Bear after [[Spring]] Equinox 381YE.
+* 100 wains of [[White granite|white granite]] and 33 thrones provided by Sammual of the Cohort of the Winter Bear after [[Summer]] Solstice 381YE.

@@ -14,4 +14,4 @@ These weapons were among the first weapons crafted by the Imperial Orc artisans 
 ## Rules
 Two-Handed Weapons
 * Effect: Once per [[Day|day]] you may call IMPALE with this two-handed weapon.
-* [[Materials]]: Crafting a Reaving Mattock requires seven ingots of tempest jade. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Reaving Mattock]] requires seven ingots of tempest jade. It takes one month to make one of these items.

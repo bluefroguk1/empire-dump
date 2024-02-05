@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Bloodharrow Philtre
 aliases: ['Bloodharrow_Philtre']

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Ratify treaty with Salt Lord Kalliact
 aliases: ['Ratify_treaty_with_Salt_Lord_Kalliact']

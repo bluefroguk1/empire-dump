@@ -17,8 +17,8 @@ To construct the "Garden of the Imperial Auxiliaries" in Coursmouth, [[Necropoli
 * [[Summer]] 384YE
 ## [[Cost]]
 * Standard costs apply
-* The costs for the sinecure have not been defined in the motion so the civil service assumes minimum size (10 wains)
+* The costs for the [[Sinecure|sinecure]] have not been defined in the motion so the civil service assumes minimum size (10 wains)
 ## Progress
 CommissionProgress|Garden_of_the_Imperial_Auxiliaries
 ## Outcome
-* Once completed the sinecure [[Will|will]] create the [[Imperial Title]] of [[Legate of the Imperial Auxiliaries]].
+* Once completed the [[Sinecure|sinecure]] [[Will|will]] create the [[Imperial Title]] of [[Legate of the Imperial Auxiliaries]].

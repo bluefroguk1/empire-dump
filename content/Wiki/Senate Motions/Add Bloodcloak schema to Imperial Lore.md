@@ -21,4 +21,4 @@ To add the [[Bloodcloak]] schema to [[Imperial lore|Imperial Lore]].Raised by [[
 ## Progress
 * 10 thrones and the schema provided by Lofyn Blood-cloak after [[Winter]] Solstice 381YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Bloodcloak has been  [[Imperial lore]], allowing any Imperial citizen to learn how to make it.
+* The [[Bloodcloak]] has been  [[Imperial lore]], allowing any Imperial citizen to learn how to make it.

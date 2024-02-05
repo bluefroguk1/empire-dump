@@ -17,4 +17,4 @@ Proposed by [[Spiral]], Seconded by [[Sermersuaq]]
 ### Date
 * [[Summer]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The Legacy is now National and is due for [[Appointment|appointment]] at the [[Autumn]] Equinox 380YE
+* The [[Legacy]] is now National and is due for [[Appointment|appointment]] at the [[Autumn]] Equinox 380YE

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Echoes of Glory
 aliases: ['Echoes_of_Glory']

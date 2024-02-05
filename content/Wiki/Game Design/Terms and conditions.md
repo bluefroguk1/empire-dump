@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Terms and conditions
 aliases: ['Terms_and_conditions']
 draft: False

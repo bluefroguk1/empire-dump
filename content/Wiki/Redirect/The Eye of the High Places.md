@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Eye of the High Places
 aliases: ['The_Eye_of_the_High_Places']

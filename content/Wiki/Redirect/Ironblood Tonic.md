@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Ironblood Tonic
 aliases: ['Ironblood_Tonic']

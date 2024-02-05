@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Information for 7-10 year olds
 aliases: ['Information_for_7-10_year_olds']
 draft: False
@@ -21,8 +21,8 @@ Children should dress in [[Costume|costume]] appropriate for their character. Fo
 Parents are encouraged to keep their children with them while roleplaying on site and to involve their children in what they are doing. You should return to your own camp or to the OOC area if your child ceases to enjoy the roleplaying.
 ## A character but no [[Skills|skills]]
 The intention for Empire is to create a world in which children play children as realistically and credibly as possible. We intend to try to make the experience of being a child in the world of Empire as epic as possible, but children are not great [[Heroes|heroes]] risking their lives to save [[The Empire|the Empire]], they ''merely'' have the chance to become one as they grow up in [[The game|the game]].
-Because of this, children are expected to create a character on our system. However children cannot have [[Skills|skills]] or resources until their character passes the [[Test of Citizenship]]. There is no lower age limit, although most graduates are around 11 or older. We intend to deliver a game aimed at our young players that is based around their [[Characters|characters]] and what they want to learn and do and is not contingent on skills or resources.
-Until they pass their [[Test of Citizenship]], young players have no skills, so they may utilise the [[Apprentice Ability]]
+Because of this, children are expected to create a character on our system. However children cannot have [[Skills|skills]] or resources until their character passes the [[Test of Citizenship]]. There is no lower age limit, although most graduates are around 11 or older. We intend to deliver a game aimed at our young players that is based around their [[Characters|characters]] and what they want to learn and do and is not contingent on [[Skills|skills]] or resources.
+Until they pass their [[Test of Citizenship]], young players have no [[Skills|skills]], so they may utilise the [[Apprentice Ability]]
 ## [[Characters]] are non-combatants
 Children of this age cannot participate in a [[Fight|fight]] without the express prior agreement of a member of our [[Referee|referee]] team. This is only likely to be forthcoming for children taking part in supervised IC activities arranged for children; they [[Will|will]] not be allowed to take [[The Battlefield|the battlefield]]. Fights on the main field are likely to be rare at Empire, but if one does start, then your child should know to leave the immediate area by the most effective route, to ensure their own safety.
 Parents may allow their children to spar with other children using a suitable phys-rep for a child’s sparring weapon (like the wooden sword that Arya uses in the first series of Game of Thrones).

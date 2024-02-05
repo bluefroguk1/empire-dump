@@ -16,4 +16,4 @@ Disbursement of funds for [[Wintermark]] army. Hopefully for the last bloody tim
 ### Date
 * [[Winter]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* 362 Thrones and 4 Crowns were disbursed to the [[Senator|senator]] for Hahnmark.
+* 362 Thrones and 4 Crowns were disbursed to the [[Senator|senator]] for [[Hahnmark]].

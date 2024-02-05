@@ -24,4 +24,4 @@ TBC
 TBC
 ## Army Quality : Cunning
 Originally perhaps better known for their scouts, following the Winter Solstice 381Y, they refocused their purpose toward more aggressive tactics, employing cunning strategies to confound and slaughter their foes. This shift in emphasis was effected with the [[Assistance|assistance]] of the [[Eternal]] known as the Spider King - heralds and creatures loyal to [[Arhallogen]] sometimes accompany or support the army.
-RecentElections|General_of_the_Quiet_Step|the title of [[General]] of the Quiet Step
+RecentElections|General_of_the_Quiet_Step|the title of [[General]] of the [[Quiet Step]]

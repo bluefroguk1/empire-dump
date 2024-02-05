@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Prosperity roleplaying effects
 aliases: ['Prosperity_roleplaying_effects']

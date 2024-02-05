@@ -17,11 +17,11 @@ To use the Asavean [[Architect]] to construct a gaming house and casino in [[Tem
 * [[Spring]] 382YE
 ## [[Cost]]
 * Standard costs apply.
-* 40 wains white granite
+* 40 wains [[White granite|white granite]]
 * 10 Thrones labour costs
 * Three months to construct
 ## Progress
-* 40 wains of white granite and 10 Thrones received from Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after Spring Equinox 382YE.
+* 40 wains of [[White granite|white granite]] and 10 Thrones received from Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after Spring Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * This [[Commission]] [[Will|will]] be overseen by Almodin Oktístis, Priest of the Builder.
-* As a Great work, Loenzo's Great Game [[Will|will]] provide additional income to business owners in Temeschwar.
+* As a [[Great work]], Loenzo's Great Game [[Will|will]] provide additional income to business owners in [[Temeschwar]].

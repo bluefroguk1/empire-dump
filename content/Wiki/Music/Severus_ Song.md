@@ -29,7 +29,7 @@ But you can drink and sing and do what you like,
 As long as you're up in the morning. 
 Severus leads from the front of his [[War|war]] band
 Training Sentinels row on row,
-It doesn't matter if you're new to Urizen,
+It doesn't matter if you're new to [[Urizen]],
 As long as you're against the foe.
 Fighting's hard in the snow storms and hail,
 Dying's hard in the wind and rain,
@@ -48,6 +48,6 @@ Who walk in the mountains,
 Come bring your weapons,
 And bring your wiles, 
 Come keep the boarders,
-And the passes of Urizen,
+And the passes of [[Urizen]],
 The Severed are marching
 Home again.

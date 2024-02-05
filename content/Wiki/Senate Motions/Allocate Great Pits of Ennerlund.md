@@ -17,5 +17,5 @@ Proposed by [[Holberg]], Seconded by [[Therunin]]
 * [[Winter]] 379YE
 ### [[Campaign outcome|Campaign Outcome]]
 * The [[Great Pits of Ennerlund]] is expected to be finished being repaired after the [[Summer]] Solstice 380YE, with the first [[Mithril|mithril]] being received by the seat at the [[Autumn]] Equinox 380YE
-* [[The Bourse]] seat associated with the Great Pits of Ennerlund [[Will|will]] be auctioned at the Autumn Equinox 380YE.
+* [[The Bourse]] seat associated with the [[Great Pits of Ennerlund]] [[Will|will]] be auctioned at the Autumn Equinox 380YE.
 __NOTOC__

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Icons and Artistry
 aliases: ['Navarri_Icons_and_Artistry']

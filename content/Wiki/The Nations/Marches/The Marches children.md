@@ -15,8 +15,8 @@ Most Marcher children are given a poppet each year. Looking after the poppet is 
 When a child passes the tests of adulthood, there is a celebration. Not unlike a birthday, gifts are given and some parents present their children with a weapon so that the child may [[Fight|fight]] for [[The Marches|the Marches]] when needed and with a tool so that they may work the land in the mean time. These items are often heirlooms and have been passed along generations of families. There are a few regional variations upon this, but the principles are the same. Some well-wishers give a gift of symbolic jewellery representing the items instead.
 ### Things every child should know
 *Give people a hand. Hard work is the secret to respect in the [[Marches]]. If you see people you know who are working hard, offer to give them a hand. If they include you in what they are doing, they'll treat you with more respect and you may learn something useful.
-*Hue and cry. In the Marches, people work together to stop criminals. Keep your eyes open for anyone up to no good and give a shout if you see it.
+*Hue and cry. In [[The Marches|the Marches]], people work together to stop criminals. Keep your eyes open for anyone up to no good and give a shout if you see it.
 *Shunning. You must never shun another child, but if you are told that someone is shunned then you should make an effort to ignore them and not talk to them.
 *Sport. When you're not working, get a ball and some friends and have a game. Don't worry about the rules, worry about winning!
 *Traditions. If you see someone breaking the Marchers' traditions always speak up and let others know that something is wrong. 
-The Marches Links
+[[The Marches]] Links

@@ -22,9 +22,9 @@ To create a [[Herb garden|herb garden]] [[Sinecure|sinecure]] in [[Wintermark]] 
 * Upkeep: None
 ### Progress
 * 12 wains of [[Weirwood|weirwood]] supplied by Hengest Dun of [[Wintermark]] after Winter Solstice 378
-* 24 crowns supplied by Hengest Dun of Wintermark after Winter Solstice 378
+* 24 crowns supplied by Hengest Dun of [[Wintermark]] after Winter Solstice 378
 ### [[Campaign outcome|Campaign Outcome]]
-* When complete, the sinecure [[Will|will]] automatically create the [[Imperial Title]] of [[Master Apothecary]].
+* When complete, the [[Sinecure|sinecure]] [[Will|will]] automatically create the [[Imperial Title]] of [[Master Apothecary]].
 ### Constitution
 * Sinecures are life-time appointments.
 __NOTOC__

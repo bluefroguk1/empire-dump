@@ -19,5 +19,5 @@ Proposed by [[Volodmartz]], Seconded by [[Karsk]].
 ### Progress
 * 25 wains of [[Weirwood|weirwood]], 25 wains of [[White granite|white granite]] and 12 thrones provided by Vuk The Wolfeater after Summers Solstice 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The embassy [[Will|will]] be complete from the start of the [[Autumn]] Equinox
+* The [[Embassy|embassy]] [[Will|will]] be complete from the start of the [[Autumn]] Equinox
 * [[The Senate]] has already appointed the first [[Ambassador to Otkodov]].

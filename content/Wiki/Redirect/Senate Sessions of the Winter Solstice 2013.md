@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Senate Sessions of the Winter Solstice 2013
 aliases: ['Senate_Sessions_of_the_Winter_Solstice_2013']

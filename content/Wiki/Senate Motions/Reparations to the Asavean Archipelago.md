@@ -15,5 +15,5 @@ Disbursal of money with the intention of giving 50 wains of [[Weirwood]] to the 
 ### Date
 * [[Summer]] 378YE
 ### Outcome
-* While the gift was passed in principle, no funds were allocated from the [[Imperial treasury|Imperial Treasury]] to pay for the purchase of weirwood
+* While the gift was passed in principle, no funds were allocated from the [[Imperial treasury|Imperial Treasury]] to pay for the purchase of [[Weirwood|weirwood]]
 __NOTOC__

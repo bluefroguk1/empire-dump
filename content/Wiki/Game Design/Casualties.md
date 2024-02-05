@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Casualties
 draft: False
 revision_date: 2021-02-10 20:01:50+00:00
@@ -31,9 +31,9 @@ Wains SpentBenefits
 41-6015 points/wain
 61-8010 points/wain
 81-1005 points/wain
-The [[Imperial Senate]] may pass a motion to authorize the use of [[Mithril|mithril]] or [[Weirwood|weirwood]] - to speed up the resupply of an [[Imperial army]] or navy. In the case of an army, these [[Materials|materials]] represent weapons and armour as well as tents, wagons, siege equipment and other supplies. For a navy they include repairs to existing warships as well as new vessels, shipboard weapons, food and materials for the ships and their crews, and other supplies. This represents a concerted effort by [[The Empire|the Empire]] to bring the target force back up to full strength. Emergency resupply, like natural resupply, takes a season to complete.
+The [[Imperial Senate]] may pass a motion to authorize the use of [[Mithril|mithril]] or [[Weirwood|weirwood]] - to speed up the resupply of an [[Imperial army]] or navy. In the case of an army, these [[Materials|materials]] represent weapons and armour as well as tents, wagons, siege equipment and other supplies. For a navy they include repairs to existing warships as well as new vessels, shipboard weapons, food and [[Materials|materials]] for the ships and their crews, and other supplies. This represents a concerted effort by [[The Empire|the Empire]] to bring the target force back up to full strength. Emergency resupply, like natural resupply, takes a season to complete.
 Emergency resupply can be used with any force that is not engaged in a campaign that season. If the force takes part in a campaign - either attacking, being attacked or being part of a larger force that attacks, then any attempt to use emergency resupply fails.
 When a motion of emergency resupply passes, any imperial citizen may contribute resources and money towards the resupply of that army before the start of the next summit.  A citizen who provides wains to resupply an army must also provide the appropriate amount of money at the same time.
-In a single season, the first 20 wains of mithril or weirwood restore 25 army strength for each wain allocated. The next 20 wains provide an additional  20 army strength each, and so on up to a maximum of 100 wains in a single season. In addition to materials, emergency resupply costs 2 crowns per wain. The rate of emergency resupply resets each season so the mithril and weirwood spent in a subsequent season is not affected by earlier actions.
+In a single season, the first 20 wains of [[Mithril|mithril]] or [[Weirwood|weirwood]] restore 25 army strength for each wain allocated. The next 20 wains provide an additional  20 army strength each, and so on up to a maximum of 100 wains in a single season. In addition to [[Materials|materials]], emergency resupply costs 2 crowns per wain. The rate of emergency resupply resets each season so the [[Mithril|mithril]] and [[Weirwood|weirwood]] spent in a subsequent season is not affected by earlier actions.
 Following a decision of the [[Imperial Senate]], it is the responsibility of the [[Senator]] (or other agent of [[The Senate|the Senate]], such as the [[Quartermaster General of the Imperial Armies]]) to call for a moment of silence honouring the dead after any motion for emergency resupply is passed. Unless the [[Senate]] imposes additional restrictions, a [[Senator]] authorized to oversee the resupply of a specific [[Imperial army]] can do so freely for a year following the passage of the motion.
 [[War]] Further Reading

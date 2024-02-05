@@ -40,7 +40,7 @@ There at the borderlands army met army
 Great deeds were done and they won great renown
 Long nights they fought, and the orc tribes were vanquished
 But [[Gone|gone]] was brave Inge and lost was the crown
-A tear for the Skarsind, lost land and lost people
+A tear for the [[Skarsind]], lost land and lost people
 A tear for the hero in battle [[Laid low|laid low]]
 A tear for the shame, till at last we take vengeance
 With steel in our hands, and their blood on the snow.

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Landkeeper_s Oath
 aliases: ["Landkeeper's_Oath"]

@@ -10,12 +10,12 @@ revision_id: 98812
 ## Definition
 A [[Forest|forest]] represents an area of woodlands that are harvested to gain magical [[Materials|materials]]. It shouldn't be a [[Farm|farm]] or a garden - if that is what you want to take then we would recommend you choose the [[Farm|farm]] [[Resource|resource]] or a [[Herb garden|herb garden]] resource instead. 
 ## Production
-Upon taking a [[Forest|forest]], you must choose one of [[Ambergelt|ambergelt]], beggar's lye, [[Dragonbone|dragonbone]], or [[Iridescent gloaming|iridescent gloaming]]. A forest produces 12 measures of the chosen material.
+Upon taking a [[Forest|forest]], you must choose one of [[Ambergelt|ambergelt]], beggar's lye, [[Dragonbone|dragonbone]], or [[Iridescent gloaming|iridescent gloaming]]. A [[Forest|forest]] produces 12 measures of the chosen material.
 ## [[Downtime]] Options
-It is possible to harvest additional [[Materials|materials]] from a forest during any given season. You may spend 6 crowns to have the forest produce an additional 5 measures of the same material as it would naturally produce.
+It is possible to harvest additional [[Materials|materials]] from a [[Forest|forest]] during any given season. You may spend 6 crowns to have the [[Forest|forest]] produce an additional 5 measures of the same material as it would naturally produce.
 ## Upgrades
 A forest can be upgraded using [[White granite]] obtained from [[The Bourse|the Bourse]]. Each time a forest is upgraded, the owner receives an additional 2 measures from then on.
-To upgrade a forest requires Imperial wains of [[White granite|white granite]] equal to the level the forest is being upgraded to. So the first upgrade of a starting level 1 forest costs 2 Imperial wains of white granite, from 2 to 3 costs 3 Imperial wains, etc.
+To upgrade a forest requires Imperial wains of [[White granite|white granite]] equal to the level the forest is being upgraded to. So the first upgrade of a starting level 1 forest costs 2 Imperial wains of [[White granite|white granite]], from 2 to 3 costs 3 Imperial wains, etc.
 ## Diversification
 A forest can be diversified to sacrifice production of one material for another. To diversify a forest costs one [[Throne|throne]]. Each time a forest diversifies, the owner chooses a different resource from the list for forests; the forest produces 2 measures of the new material at the expense of 2 less of the original material. A forest can be diversified multiple times (but no more than once per season), and each time it is diversified, the owner can choose any of the three resources the forest would not normally produce.
 ## [[Rituals]]

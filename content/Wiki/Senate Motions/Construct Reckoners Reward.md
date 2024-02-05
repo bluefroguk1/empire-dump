@@ -13,7 +13,7 @@ To be built in [[Sarvos]]
 [[Cost]] of 12 wains of [[Mithril]], 3 ThronesProposed by [[Tassato]], seconded by [[Karov]]. 
 ### Overview
 * A [[Sinecure]] in [[Sarvos]] which provides Mana Crystals.
-* The holder of the sinecure [[Will|will]] be appointed by unanimous decision of [[The League]] senators.
+* The holder of the [[Sinecure|sinecure]] [[Will|will]] be appointed by unanimous decision of [[The League]] senators.
 * Passed at 10 Thrones
 ### Date
 * [[Autumn]] 379YE.
@@ -28,6 +28,6 @@ To be built in [[Sarvos]]
 ### Autumn Equinox 380
 * This [[Commission|commission]] has lapsed
 ### [[Campaign outcome|Campaign Outcome]]
-* When completed, this sinecure [[Will|will]] automatically create [[The League|the League]] national [[Imperial Title]] of The Book Keeper.
+* When completed, this [[Sinecure|sinecure]] [[Will|will]] automatically create [[The League|the League]] national [[Imperial Title]] of The Book Keeper.
 ### Constitution
-* No information is provided as to where in Sarvos the sinecure will be constructed. The [[Senator|senator]] may decide this.
+* No information is provided as to where in [[Sarvos]] the [[Sinecure|sinecure]] [[Will|will]] be constructed. The [[Senator|senator]] may decide this.

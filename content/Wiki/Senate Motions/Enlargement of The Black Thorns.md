@@ -24,4 +24,4 @@ Proposal to increase the size of the Navarri army of the [[Black Thorns]] to tha
 ### Progress
 * 200 thrones disbursed to [[Senator]] [[Therunin]]
 * 50 wains of [[Mithril|mithril]] and 15 thrones provided by Caerwyn after Summer Solstice 380YE.
-* 50 wains of mithril and 10 thrones provided by Caerwyn after [[Autumn]] Equinox 380YE.
+* 50 wains of [[Mithril|mithril]] and 10 thrones provided by Caerwyn after [[Autumn]] Equinox 380YE.

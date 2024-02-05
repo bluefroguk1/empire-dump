@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast Religious Beliefs
 aliases: ['Brass_Coast_Religious_Beliefs']

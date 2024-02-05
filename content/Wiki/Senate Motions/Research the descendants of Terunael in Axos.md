@@ -12,9 +12,9 @@ __NOTOC__
 The [[Advisor on the Vallorn]] would like to [[Commission|commission]] the ongoing expedition in [[Axos]] by the Imperial Researcher, Eilian Sweetwater. To advise that they investigate the descendants of Terunael and the fallen citadel of Soloha. Announced by Sian [[Eternal]], Advisor on [[The Vallorn|the Vallorn]].
 ### Overview
 * [[Historical research]] concerning this topic has been commissioned through the civil service.
-* [[Historical research|Historical Research]] request announced by the Advisor on the [[Vallorn]] using the legal powers to announce historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the Advisor on the [[Vallorn]] using the legal powers to announce [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Winter]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* A historical research report [[Will|will]] be delivered to the Advisor at the [[Spring]] Equinox.
+* A [[Historical research|historical research]] report [[Will|will]] be delivered to the Advisor at the [[Spring]] Equinox.
 * The report [[Will|will]] be published publicly after the Spring Equinox.

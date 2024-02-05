@@ -9,7 +9,7 @@ revision_id: 105885
 ---
 
 __NOTOC__
-To build Stones from Blood, a mana [[Ministry|ministry]] for the [[Navarr]] vates council. This is to support the [[Navarr]] vates in organisation and in providing mana for national [[Rituals|rituals]] such as Dance of Navarr and [[Thorn]]. It is expected the holder [[Will|will]] take an oath.
+To build Stones from Blood, a mana [[Ministry|ministry]] for the [[Navarr]] vates council. This is to support the [[Navarr]] vates in organisation and in providing mana for national [[Rituals|rituals]] such as Dance of [[Navarr]] and [[Thorn]]. It is expected the holder [[Will|will]] take an oath.
 ## Overview
 * Creates a [[Ministry|ministry]] in [[Therunin]] for the purchase of mana crystals 
 * Passed
@@ -23,4 +23,4 @@ To build Stones from Blood, a mana [[Ministry|ministry]] for the [[Navarr]] vate
 ## Progress
 CommissionProgress|Stones_from_Blood
 ## Outcome
-* Once complete, the Factor of Stones from Blood to oversee the ministry [[Will|will]] be available to appoint by the senators of Navarr
+* Once complete, the Factor of Stones from Blood to oversee the [[Ministry|ministry]] [[Will|will]] be available to appoint by the senators of [[Navarr]]

@@ -22,7 +22,7 @@ Shone light on our work so all would know,
 With the Twins’ assent, we’d end the foul torment,
 We’d make [[Spiral]] a place we’d once again call home. 
 The Ritualists took up the task,  
-Talk of the madness of the Black Plateau,
+Talk of the madness of the [[Black Plateau]],
 To mark out the vital sign,
 Bring to bear Poise and Arête both:
 Gather up the mana: lay it out with chord,
@@ -30,21 +30,21 @@ Bring all you can bring to make it so,
 Now by Virtue’s light, we must get it right,
 We’d make [[Spiral]] a place we’d once again call home.
 The Sentinels took up the task,
-Talk of the madness of the Black Plateau,
+Talk of the madness of the [[Black Plateau]],
 To consider every foe,
 Bring to bear Poise and Arête both:
 [[Highguard]] played the madmen at our captains’ word,
 The Cultist’s dance performed just so,
 Sword and [[Rod and Shield|rod and shield]] were bound to make them yield,
-We’d make Spiral a place we’d once again call home.
+We’d make [[Spiral]] a place we’d once again call home.
 The [[Urizen]] went out the [[Gate|gate]],
-Talk of the madness of the Black Plateau,
+Talk of the madness of the [[Black Plateau]],
 Now to use what they had learned,
 Bring to bear Poise and Arête both:
 Madmen rushed the circle as we laid it down,
 As inside, so without, we fought the foe,
 For our blood they cried, even as they died.
-We’d make Spiral a place we’d once again call home.
+We’d make [[Spiral]] a place we’d once again call home.
 With our [[Archmage]] at the fore,
 Talk of the madness of the Black Plateau,
 And the [[General]] close at hand,
@@ -52,7 +52,7 @@ Bring to bear Poise and [[Arete]] both:
 [[Egregore]] stepped forward to the circle’s heart, 
 As Eudaemon pulled the [[Magic|magic]]’s flow, 
 Nicassia repelled them, Vulpes struck them down, 
-To make Spiral a place we’d once again call home.
+To make [[Spiral]] a place we’d once again call home.
 Now don’t rest your mind too soon,
 Talk of the madness of the Black Plateau,
 Though a great wound has been healed,

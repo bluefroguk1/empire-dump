@@ -22,8 +22,8 @@ To create the [[Sinecure|sinecure]] of Origen's Rest, to be appointed by [[The S
 * 27 wains of [[Weirwood|weirwood]] were allocated to this project by Cesare Sanguineo Rezia Di [[Tassato]] in [[Autumn]] 378YE
 * The conservatory [[Will|will]] be completed by [[Winter]] 378YE
 ### Constitution
-While the intention of the motion is to benefit the [[Anvil]] Hospital, the citizen who receives the [[Sinecure|sinecure]] will be free to decide how to use the bounty of [[Herbs|herbs]] they receive.
+While the intention of the motion is to benefit the [[Anvil]] Hospital, the citizen who receives the [[Sinecure|sinecure]] [[Will|will]] be free to decide how to use the bounty of [[Herbs|herbs]] they receive.
 ### [[Campaign outcome|Campaign Outcome]]
-* The conservatory will be based in [[Zenith]].
-* The creation of the Sinecure creates an [[Imperial Title]] which is assigned by the [[Senate]].
+* The conservatory [[Will|will]] be based in [[Zenith]].
+* The creation of the [[Sinecure]] creates an [[Imperial Title]] which is assigned by the [[Senate]].
 __NOTOC__

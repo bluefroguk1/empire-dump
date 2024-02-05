@@ -16,15 +16,15 @@ Does it tell of virtue or sin
 Darling what am I to do?
 [[The Night of a Thousand Torches|The night of a thousand torches]]
 They came for them in they’re beds
-The night of a thousand torches
+[[The Night of a Thousand Torches|The night of a thousand torches]]
 So cold they wished they were dead
 To clear the city it is their way
 Into winters depth they are cast
 Any they find whose skin is stained
 The time to hide is past
-The night of a thousand torches
+[[The Night of a Thousand Torches|The night of a thousand torches]]
 They came for us in our beds
-The night of a thousand torches
+[[The Night of a Thousand Torches|The night of a thousand torches]]
 So cold we wished we were dead
 Proud red stag upon your skin
 A sign of your disgrace

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Cunning Puissance of the Leaping Hare
 aliases: ['Cunning_Puissance_of_the_Leaping_Hare']

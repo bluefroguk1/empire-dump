@@ -15,4 +15,4 @@ In some parts of [[Highguard]] they take the form of a polished bowl in which th
 ## Rules
 Icons
 * Effect: While you are wielding this icon you can perform the [[Anointing|anointing]] ceremony as if you knew it.
-* [[Materials]]: Crafting an [[Icon of the Pilgrim]] requires no special materials. It takes two months to make one of these items.
+* [[Materials]]: Crafting an [[Icon of the Pilgrim]] requires no special [[Materials|materials]]. It takes two months to make one of these items.

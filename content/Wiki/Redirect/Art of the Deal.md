@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Art of the Deal
 aliases: ['Art_of_the_Deal']

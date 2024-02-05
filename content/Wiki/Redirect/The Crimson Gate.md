@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Crimson Gate
 aliases: ['The_Crimson_Gate']

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast History
 aliases: ['Brass_Coast_History']

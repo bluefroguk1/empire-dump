@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Hearth Magic
 aliases: ['Navarri_Hearth_Magic']

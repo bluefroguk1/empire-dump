@@ -14,8 +14,8 @@ The [[Custodian of the Lost]] is an [[Imperial Title]] appointed by [[The Concla
 The [[Custodian of the Lost]] has a responsibility to help people harmed by magical curses or by exposure to celestial forces.
 ## Powers
 ### Bequests
-The Custodian of the Lost receives 108 rings each season from bequests made by the families of former patients.
+The [[Custodian of the Lost]] receives 108 rings each season from bequests made by the families of former patients.
 ## [[Appointment]]
-The [[Appointment|appointment]], replacement, or removal of the Custodian of the Lost is made by the [[Declaration|declaration]] of [[Candidacy|candidacy]] as part of a [[Conclave session]]. Any Imperial citizen may hold the title.
-The Custodian of the Lost serves until they are replaced by another [[Magician|magician]] using the [[Declaration]] of [[Candidacy]]. As a title in the [[Conclave]], they cannot be revoked. 
+The [[Appointment|appointment]], replacement, or removal of the [[Custodian of the Lost]] is made by the [[Declaration|declaration]] of [[Candidacy|candidacy]] as part of a [[Conclave session]]. Any Imperial citizen may hold the title.
+The [[Custodian of the Lost]] serves until they are replaced by another [[Magician|magician]] using the [[Declaration]] of [[Candidacy]]. As a title in the [[Conclave]], they cannot be revoked. 
 RecentElections|Custodian_of_the_Lost

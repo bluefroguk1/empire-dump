@@ -10,7 +10,7 @@ revision_id: 85915
 
 To build a [[Fortification]] in [[Tassato]]''Proposed by [[Tassato]], seconded by [[Feroz]]'' 
 ### Overview
-* The creation of a new [[Fortification|fortification]], The Rezia [[Redoubt]], in Tassato Mestra.
+* The creation of a new [[Fortification|fortification]], The Rezia [[Redoubt]], in [[Tassato]] Mestra.
 * Passed at 250 Thrones
 ### Date
 * Passed [[Autumn]] 378YE
@@ -19,10 +19,10 @@ To build a [[Fortification]] in [[Tassato]]''Proposed by [[Tassato]], seconded b
 * Time: 1 year
 * Upkeep: 10 Thrones
 ### Progress
-* 20 wains of white granite provided by Cesare Sanguineo Rezia Di Tassato after Autumn Equinox 378YE.
-* 20 wains of white granite and 10 Thrones provided by Cesare Sanguineo Rezia Di Tassato after [[Winter]] Solstice 378YE.
-* 20 wains of white granite and 10 Thrones provided by Cesare Sanguineo Rezia Di Tassato after [[Spring]] Equinox 379YE.
+* 20 wains of [[White granite|white granite]] provided by Cesare Sanguineo Rezia Di [[Tassato]] after Autumn Equinox 378YE.
+* 20 wains of [[White granite|white granite]] and 10 Thrones provided by Cesare Sanguineo Rezia Di [[Tassato]] after [[Winter]] Solstice 378YE.
+* 20 wains of [[White granite|white granite]] and 10 Thrones provided by Cesare Sanguineo Rezia Di Tassato after [[Spring]] Equinox 379YE.
 * 20 wains of white granite provided by Cesare Sanguineo Rezia Di Tassato after [[Summer]] Solstice 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The fortification is now complete.
+* The [[Fortification|fortification]] is now complete.
 __NOTOC__

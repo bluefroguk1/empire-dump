@@ -21,9 +21,9 @@ To raise a [[Dawn]] Army to [[Muster|muster]] in [[Semmerholm]].''Proposed by [[
 ### Progress
 * 500 Thrones disbursed to [[Senator]] [[Weirwater]].
 * 60 wains of [[Mithril|mithril]] supplied by Valentin Ivarovich Severyan after the Spring Equinox 379YE.
-* 60 wains of mithril supplied by Valentin Ivarovich Severyan after the [[Summer]] Solstice 379YE.
-* 65 wains of mithril supplied by Valentin Ivarovich Severyan after the [[Autumn]] Equinox 379YE.
-* 76 wains of mithril and 19 Thrones supplied by Valentin Ivarovich Severyan after the [[Winter]] Solstice 379YE.
+* 60 wains of [[Mithril|mithril]] supplied by Valentin Ivarovich Severyan after the [[Summer]] Solstice 379YE.
+* 65 wains of [[Mithril|mithril]] supplied by Valentin Ivarovich Severyan after the [[Autumn]] Equinox 379YE.
+* 76 wains of [[Mithril|mithril]] and 19 Thrones supplied by Valentin Ivarovich Severyan after the [[Winter]] Solstice 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* A new Dawnish army [[Will|will]] [[Muster|muster]] in Semmerholm.
+* A new Dawnish army [[Will|will]] [[Muster|muster]] in [[Semmerholm]].
 __NOTOC__

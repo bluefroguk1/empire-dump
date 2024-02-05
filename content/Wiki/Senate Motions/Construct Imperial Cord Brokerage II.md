@@ -11,13 +11,13 @@ revision_id: 94613
 __NOTOC__
 To construct a [[Weirwood|weirwood]] [[Ministry|ministry]] in Seren, [[Miaren]], the Invisible Cord Brokerage, to provide guaranteed prices as a hedge for independant [[Weirwood|weirwood]] [[Traders|traders]].''Proposed by [[Miaren]], seconded by [[Karov]].''
 ## Overview
-* [[Commission]] a [[Ministry]] in Seren, Miaren that draws on an [[Opportunity]] presented by the [[Broker|broker]] of [[Navarr]]
+* [[Commission]] a [[Ministry]] in Seren, [[Miaren]] that draws on an [[Opportunity]] presented by the [[Broker|broker]] of [[Navarr]]
 * Passed
 ## Date
 * [[Summer]] 383YE
 ## Costs
 * This motion uses non-standard costs
-* 16 wains of weirwood 
+* 16 wains of [[Weirwood|weirwood]] 
 * 32 crowns
 * Three months to complete
 ## Progress

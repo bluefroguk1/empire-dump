@@ -15,9 +15,9 @@ Please see the [[Winds of Fortune|winds of fortune]] and the winds of [[War|war]
 For a list of what official elections are due to take place (and other changes to [[Current Imperial titles|Current Imperial Titles]] as they occur during the event) refer to the 380YE [[Autumn]] Equinox [[Imperial Elections|Imperial elections]] page
 For the official civil service timetable of [[Events|events]] occurring throughout the Autumn Equinox, please refer to this external link
 ## [[Battles]]
-At the event we [[Will|will]] be running two large [[Jotun]] [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. 
-The fighting begins at 11:00 am - but if you are playing the battle then you will need to [[Muster|muster]] up before this time and if you are [[Monstering|monstering]] then you need to make your way to the monster area for 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed.
-Both these battles will feature [[Jotun]] opponents - if you have any [[Costume|costume]] that is appropriate for the Jotun please bring that with you when you come to monster.
+At the event we [[Will|will]] be running two large [[Jotun]] [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles [[Will|will]] be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. 
+The fighting begins at 11:00 am - but if you are playing the battle then you [[Will|will]] need to [[Muster|muster]] up before this time and if you are [[Monstering|monstering]] then you need to make your way to the monster area for 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed.
+Both these battles [[Will|will]] feature [[Jotun]] opponents - if you have any [[Costume|costume]] that is appropriate for the [[Jotun]] please bring that with you when you come to monster.
 ### National Weightings - [[Autumn Equinox 2016]]
 {| class="wikitable"
 |-
@@ -48,8 +48,8 @@ All [[The Nations|the nations]] are much bigger than the numbers listed - the nu
 For this event we have decided to try out a new approach to [[Monstering|monstering]]. As a result, rather than advertising a set of times that players could volunteer at - we are asking everyone who is enthusiastic to volunteer to help with some extra monstering to volunteer to play [[Grendel]] at 6:00pm on Saturday.
 We want to stress that this is a request to people to volunteer - unlike the battles there is absolutely no obligation to volunteer to monster. But our hope is that enough players will volunteer to [[Fight|fight]] alongside our full time monster crew that we will be able to deliver a great skirmish at this time.
 The skirmish is at
-* 18:00 Saturday - Grendel
-Of course anyone who wants to do some npcing will be welcome at any time - but 6pm Saturday is when we really need people - put the word around! The players will be fighting the Grendel, so if you have any Grendel costume please bring it with you when you come. We expect the slot to last between 60 and 90 minutes at most.
+* 18:00 Saturday - [[Grendel]]
+Of course anyone who wants to do some npcing will be welcome at any time - but 6pm Saturday is when we really need people - put the word around! The players will be fighting the [[Grendel]], so if you have any [[Grendel]] [[Costume|costume]] please bring it with you when you come. We expect the slot to last between 60 and 90 minutes at most.
 ## Caterers
 * Mhorish
 * Right Wok
@@ -63,8 +63,8 @@ There are two disabled toilets at the event, one is part of the showers next to 
 ## [[Traders]]
 The following [[Traders|traders]] have booked for the event.
 * Cantrips Handmade, new and used clothing, accessories and jewellery, fabric and trims and IC camp accessories.
-* [http://www.chowsemporium.co.uk/ Chows Emporium] Costume, leather gloves, products related to drinking and accessories.
-* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica costume and artefacts.
+* [http://www.chowsemporium.co.uk/ Chows Emporium] [[Costume]], leather gloves, products related to drinking and accessories.
+* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica [[Costume|costume]] and artefacts.
 * [http://www.darkbladeuk.co.uk Darkblade] Leather Stuff.
 * [https://www.facebook.com/Das-Shoppe-649766365145562/ Das Shoppe] New and second hand costume, leatherwork, weapons, props and furniture. Trade ins welcome.
 * [http://www.eldritch.com/ Eldritch] Weapons and armour.

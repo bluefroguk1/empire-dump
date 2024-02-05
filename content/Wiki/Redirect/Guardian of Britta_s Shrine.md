@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Guardian of Britta_s Shrine
 aliases: ["Guardian_of_Britta's_Shrine"]

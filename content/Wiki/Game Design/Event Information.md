@@ -17,7 +17,7 @@ Please make sure that you have entered your car registration number on your PD a
 If you have claimed the concessionary ticket price, please make sure that you email a copy of your proof of eligibility to the head office or bring a copy with you to the event.
 ## Arrival Times
 Players are allowed on site from 13:00 hrs (1pm) on the Thursday before the event starts. There is an additional charge of £10 to arrive one [[Day|day]] early; this is paid on the gate and MUST be paid separately. There is a card reader, but the signal is variable so it may be quicker to pay with cash.
-The gate will close at approximately 10pm and will open again at 10am on Friday morning. If you are arriving after this time, there will be a number on the gate that you can call and security will open the gate to allow you in.
+The gate [[Will|will]] close at approximately 10pm and [[Will|will]] open again at 10am on Friday morning. If you are arriving after this time, there [[Will|will]] be a number on the gate that you can call and security will open the gate to allow you in.
 ## Time in
 Empire begins at 6pm on Friday and ends at 1 am that [[Night|night]]. On Saturday time in begins at 10 am and ends at 1am. 
 On the last day of an event time in begins at 10 am and ends at 3pm. 
@@ -73,7 +73,7 @@ Mhorish will be serving tasty, filling, hot meals from the kitchen next to the S
 ** Burger, sausage, bacon, black pudding, fried egg, and cheese.
 Meal tickets are currently £7 per meal, so cheaper to buy in advanced. We also offer a 50p discount if you bring your own food receptacle and cutlery and/or drink receptacle.
 ### Pizza Yule Love
-Delicious 12" pizzas starting from £8.00 and cooked in ninety seconds. The new menu includes three types of veggie pizzas and the option for vegan cheese as well as their monster nachos that's enough to feed 4 hungry Larpers which comes in meat, veggie or vegan options goes down a storm at other events.
+Delicious 12" pizzas starting from £8.00 and cooked in ninety seconds. The new menu includes three types of veggie pizzas and the option for vegan cheese as well as their monster nachos that's enough to feed 4 hungry Larpers which comes in meat, veggie or vegan options goes down a storm at other [[Events|events]].
 ### Smokey Hole
 Smokey Hole will be serving good quality burgers and sausages from their stall on the edge of the Varushkan on the road leading to GOD. Breakfast is bacon sausage or vegan bap for £4, or £5 with a coffee. Lunch is a huge cumberland sausage for £6.50, 6 oz cheeseburger for £7.50, or carvery roast pork bap with apple sauce for £6. Dinner is BBQ pulled pork baps with cheese.
 ### Yuleys Bratwurst

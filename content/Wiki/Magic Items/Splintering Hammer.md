@@ -14,4 +14,4 @@ These weapons are popular in [[Dawn]] and among the [[Imperial Orcs]]. A heavy h
 ## Rules
 Two-Handed Weapons
 * Effect: Once per day you may call [[Shatter|SHATTER]] with this two-handed weapon.
-* [[Materials]]: Crafting a Splintering Hammer requires five ingots of orichalum, ten ingots of tempest jade, three ingots of green iron, and three measures of [[Ambergelt|ambergelt]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Splintering Hammer]] requires five ingots of orichalum, ten ingots of tempest jade, three ingots of green iron, and three measures of [[Ambergelt|ambergelt]]. It takes one month to make one of these items.

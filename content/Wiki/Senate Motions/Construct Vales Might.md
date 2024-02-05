@@ -12,7 +12,7 @@ __NOTOC__
 I, the [[Civilian Commissioner]] of [[Wintermark]], [[Commission|commission]] the construction of Vales Might, a [[Sinecure|sinecure]] in Woodheath, [[Hahnmark]] to produce crystal mana. Approved by the [[Civilian Commissioner]] of [[Wintermark]]
 ### Overview
 * A [[Sinecure]] that produces mana crystals in Woodheath, [[Hahnmark]]
-* This motion was approved by the Civilian Commissioner of Wintermark using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This motion was approved by the [[Civilian Commissioner]] of [[Wintermark]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Winter]] 380YE
 ### [[Cost]]
@@ -22,4 +22,4 @@ I, the [[Civilian Commissioner]] of [[Wintermark]], [[Commission|commission]] th
 ### Progress
 * 12 wains of [[Mithril|mithril]] and 3 thrones provided by Tyr Brenna after Winter Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, the construction [[Will|will]] automatically create a new national title, [[Keeper of the Crystal Vale]] within Wintermark.
+* Once completed, the construction [[Will|will]] automatically create a new national title, [[Keeper of the Crystal Vale]] within [[Wintermark]].

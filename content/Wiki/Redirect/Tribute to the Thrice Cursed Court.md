@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tribute to the Thrice Cursed Court
 aliases: ['Tribute_to_the_Thrice_Cursed_Court']

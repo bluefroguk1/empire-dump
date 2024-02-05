@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tranquil Nostrum
 aliases: ['Tranquil_Nostrum']

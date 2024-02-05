@@ -14,7 +14,7 @@ Children born into or adopted into noble houses are often given positions of res
 ### Things every child should know
 * A [[Challenge|challenge]] lost makes you a better opponent next time - Do not be afraid of failing, as long as you learn from it.
 * Follow your heart but use your head. - Be true to yourself but make sure you think things through and ask the advice of those who can help.
-* Learn from [[Heroes|heroes]], do not copy them - Heroes past and present have much to respect, but make sure you know how and why they accomplished their great deeds, not just that they did.
+* Learn from [[Heroes|heroes]], do not copy them - [[Heroes]] past and present have much to respect, but make sure you know how and why they accomplished their great deeds, not just that they did.
 * There is no honour in letting someone win - Giving away your victory dishonours both you and your opponent. Once the [[Glory]] fades, they [[Will|will]] not thank you.
 * Be proud of your achievements, however small - A small deed done today may lead to a greater one tomorrow.
 * Know what your name means - Who are you named after? Be ready to tell anyone who asks a story about your namesake.

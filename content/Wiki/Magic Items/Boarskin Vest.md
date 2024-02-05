@@ -26,6 +26,6 @@ Isolde stepped back to her seat where the other Dawnish met her with grins and c
 He hadn't even spoken yet, and the villagers were impressed. But even as he took a breath and opened his mouth, the tavern's door clattered open.
 A slight-framed woman snorted irritably as she tried to navigate the doorway, but the great curves of trophy mammoth-ivory that were bound to her shoulder-plates made the whole affair rather tricky. Finally in the warm embrace of the hall's interior, she stomped across the intervening space to the bar itself, her armour covered in layers of thick mammoth-hide leather with clattering ivory-charms dangling from every hem. The Winterfolk woman gruffly ordered a drink, and it was only when the innkeeper had laid it down before her and she'd had a chance to gulp back a refreshing swig that she realised the whole place was staring at her. When she turned in her seat, the bear-clad orc was actually still gaping.
 “What?” she demanded, confused.
-When it became clear that their gazes were on the great rack of mammoth-tusks bound across her shoulders, the Winterfolk shrugged.
+When it became clear that their gazes were on the great rack of mammoth-[[Tusks|tusks]] bound across her shoulders, the Winterfolk shrugged.
 “It got in my way.”
 Then she turned back to her drink. The orc, chastened, quietly sat back down, and the other two veterans stared into their flagons without a further word.

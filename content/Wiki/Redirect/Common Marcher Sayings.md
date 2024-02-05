@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Common Marcher Sayings
 aliases: ['Common_Marcher_Sayings']

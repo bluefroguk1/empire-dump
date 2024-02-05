@@ -18,10 +18,10 @@ To [[Commission|commission]] the [[Great work|great work]] ‘The Iron Qanat’ 
 ## [[Cost]]
 * Non-standard costs apply as detailed here.
 * 50 wains [[Weirwood|weirwood]]
-* 100 crowns labour cost
+* 100 crowns labour [[Cost|cost]]
 * Three months to construct
 ## Progress
-* 50 wains of weirwood and 100 crowns provided by Alexios i [[Zemress]] i [[Riqueza]] after Summer Solstice 383YE.
+* 50 wains of [[Weirwood|weirwood]] and 100 crowns provided by Alexios i [[Zemress]] i [[Riqueza]] after Summer Solstice 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * The basic Iron Qanat would allow [[The Brass Coast|the Brass Coast]] to support an additional army or navy. In addition the Red Plains [[Farm]] and the Golden Terraces would immediately be upgraded by a level (assuming they were in Imperial hands)
-* The Iron Qanat has been built in the Sobral Grasses as proposed by the Zemress islanders who provided the [[Opportunity]].
+* The Iron Qanat has been built in the Sobral Grasses as proposed by the [[Zemress]] islanders who provided the [[Opportunity]].

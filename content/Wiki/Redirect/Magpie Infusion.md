@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Magpie Infusion
 aliases: ['Magpie_Infusion']

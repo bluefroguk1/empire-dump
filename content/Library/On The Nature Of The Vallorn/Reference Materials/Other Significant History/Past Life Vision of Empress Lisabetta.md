@@ -22,7 +22,7 @@ There was then a voice from the visionary's right, from behind a curtain, which 
 
 The visionary said that they would [[Fight|fight]] with [[The Empire|the Empire]], and were not going to hang back, adding that with the death of [[The Empress|the Empress]], [[The Empire|the Empire]] was a fragile thing.
 
-Bedevere said that they couldn't transmit those orders to the army, asking how, by the virtue of [[Pride]], could they [[Fight|fight]] alongside the Marchers? The visionary asked "Is [[Dawn]] part of the Empire?" Bedevere paused and quietly answered,
+Bedevere said that they couldn't transmit those orders to the army, asking how, by the virtue of [[Pride]], could they [[Fight|fight]] alongside the Marchers? The visionary asked "Is [[Dawn]] part of [[The Empire|the Empire]]?" Bedevere paused and quietly answered,
 
 "Yes. Yes." The visionary asked again, saying that Bedevere needed to answer more clearly, and Bedevere said "Yes!".
 
@@ -38,6 +38,6 @@ Livia's soul was also examined with the rite of [[Insight]] before and after the
 
 The [[Coven|coven]] of the [[Spire]] of Auric Horizon also performed divination [[Rituals|rituals]] on Lisabetta after the vision to gain information about her past life and corroborate the vision.
 
-The [[Day]] divination [[Ritual|ritual]] indicated that the vision happened 300 to 400 years ago, and showed a [[Merrow|merrow]] woman seeing Lisabetta as she is now, reflected in a mirror. She builds a delicate machine part with a crystal in it. Earl Nimue de Gavim (possibly "de Gauvain") contemplates it.
+The [[Day]] divination [[Ritual|ritual]] indicated that the vision happened 300 to 400 years ago, and showed a [[Merrow|merrow]] woman seeing Lisabetta as she is now, reflected in a mirror. She builds a delicate machine part with a crystal in it. [[Earl]] Nimue de Gavim (possibly "de Gauvain") contemplates it.
 
-The [[Night]] divination ritual showed a [[Merrow|merrow]] standing on a hill overlooking a [[Forest|forest]], with [[War|war]] raging below. If she leads with a shield, she will be stuck behind allowing others to take what is rightfully hers. If she leads with the sword instead, she will betray those who rely on her shield for protection. There is a golden glow in the centre of the [[Forest|forest]] for the one who first gets there, with a name that sounds like Seren.
+The [[Night]] divination ritual showed a [[Merrow|merrow]] standing on a hill overlooking a [[Forest|forest]], with [[War|war]] raging below. If she leads with a shield, she [[Will|will]] be stuck behind allowing others to take what is rightfully hers. If she leads with the sword instead, she [[Will|will]] betray those who rely on her shield for protection. There is a golden glow in the centre of the [[Forest|forest]] for the one who first gets there, with a name that sounds like Seren.

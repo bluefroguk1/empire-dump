@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Calls
 draft: False
 revision_date: 2023-07-01 10:03:25+00:00
@@ -30,7 +30,7 @@ Some common queries about how calls work can be found in the [[Rules FAQ]].
 * Monstrous creatures are not affected by calls
 There is no way to resist an effect in Empire, but calls never affect over-sized monstrous creatures. A monstrous creature that is phys-repped with a bulky all-encompassing full-body costumes is not affected by calls. Player-characters (all PCs) always count as human-sized - no matter what [[Costume|costume]] they are wearing.
 Large or broad-shouldered creatures - like ogres - do not count as monstrous creatures and are affected by calls normally. Iconic monsters such as the [[Thule]] [[War|war]] beast count as monstrous, as do the much smaller ice-giants, and some of the larger [[Drakes|drakes]] fielded by the [[Grendel]].
-Monstrous creatures cannot be healed using regular methods. It requires time or specific [[Ritual|ritual]] magic to [[Heal|heal]] a monstrous creature.
+Monstrous creatures cannot be healed using regular methods. It requires time or specific [[Ritual|ritual]] [[Magic|magic]] to [[Heal|heal]] a monstrous creature.
 ## Heroic Calls
 *Heroic calls usually represent physical blows of great strength or skill
 Heroic calls are most commonly used to represent physical blows of great strength or skill. A highly trained warrior may strike down an enemy with their poleaxe, while a huge [[Ogre|ogre]] might [[Shatter|shatter]] a shield with their club.
@@ -53,7 +53,7 @@ The effects of CLEAVE and IMPALE are the same, but medium or heavy armour [[Will
 * If you block or parry the blow, the call has no effect but is not expended. You must not attempt to parry an arrow or bolt with a weapon.
 If you are hit with an IMPALE then you have been hit with a blow that is heavy or precise enough to disable you with a single strike. All arrows and bolts cause IMPALE without needing to be called. 
 If you are hit in the torso then you are reduced to zero global hits and are dying.
-If you are hit in a limb then you lose the use of that limb. You must roleplay accordingly: you might fight on with the loss of an arm, but you must drop anything that was held in that hand. You may defend yourself from the ground with the loss of a leg, but you cannot kneel, hop, or move around.
+If you are hit in a limb then you lose the use of that limb. You must roleplay accordingly: you might [[Fight|fight]] on with the loss of an arm, but you must drop anything that was held in that hand. You may defend yourself from the ground with the loss of a leg, but you cannot kneel, hop, or move around.
 If you are hit by an IMPALE in the head or neck, or if the blow strikes the actual phys-rep of heavy armour that you are wearing, then you only lose one hit as if you had been hit by a normal blow.
 anchor|STRIKEDOWN
 ### STRIKEDOWN
@@ -66,8 +66,8 @@ You must fall to the ground at most two steps from where you were last struck. T
 *After your opponent spends five seconds of appropriate roleplaying delivering a fatal blow, you die.
 If you are dying, (or terminal) and another character spends at least five seconds of appropriate roleplaying for delivering a fatal blow to your character and calls EXECUTE then you are immediately killed.
 You are not vulnerable to EXECUTE purely because you are paralyzed, nor are are you affected if the other party does not spend at least five seconds to carry out the execution. You can only be executed by another character with your consent if you are not dying or terminal or they have not spent five seconds roleplaying the execution.
-## Magic Calls
-*Magic calls usually represent magical effects that debilitate or weaken the target
+## [[Magic]] Calls
+*[[Magic]] calls usually represent magical effects that debilitate or weaken the target
 *You must strike the target with a wand, rod or staff
 Magic calls are most commonly used to represent the malign effects of spells, [[Rituals|rituals]], and powerful [[Magical Items|magical items]]. A skilled battle [[Mage|mage]] may cast a spell to [[Repel|repel]] an enemy, while a wraith might [[Curse|curse]] a target with the touch of its wicked blade.
 To deliver a magic call, you must touch your target with a wand, rod, or staff. If your victim parries or dodges the strike, then they are not affected by some spells.
@@ -75,9 +75,9 @@ As the effects of the magic calls [[Venom|VENOM]] and [[Weakness|WEAKNESS]] cann
 ### [[Curse|CURSE]]
 *You are cursed and should see a ref for details when it is appropriate to do so
 *The effect lasts until cured
-CURSE does not immediately affect your character; you are aware that you have been cursed but may continue to fight and act normally. See a [[Referee|referee]] for more details once you are able to do so without interrupting your roleplaying.
+[[Curse|CURSE]] does not immediately affect your character; you are aware that you have been cursed but may continue to [[Fight|fight]] and act normally. See a [[Referee|referee]] for more details once you are able to do so without interrupting your roleplaying.
 ### [[Entangle|ENTANGLE]]
-*You may not move your feet but you may otherwise move and fight normally
+*You may not move your feet but you may otherwise move and [[Fight|fight]] normally
 *You are entangled even if you parry the blow with a weapon or shield
 *The effect lasts 10 seconds
 [[Entangle|ENTANGLE]] makes it impossible for your character to move their feet for ten seconds. You may otherwise move and fight normally.
@@ -87,39 +87,39 @@ CURSE does not immediately affect your character; you are aware that you have be
 *The effect lasts 10 seconds
 You are held in place by magical force. You cannot move at all. You may talk and drink a [[Potion|potion]] if you are fed one, but you cannot take any other actions. This effect lasts ten seconds.
 If you block or parry the strike then you are not paralysed.
-MASS PARALYSE will always affect you, holding you in place for ten seconds, regardless of whether you are equipped with a shield.
+MASS PARALYSE [[Will|will]] always affect you, holding you in place for ten seconds, regardless of whether you are equipped with a shield.
 anchor|REPEL
 ### [[Repel|REPEL]]
 *You must move away from the caster at a brisk walk or faster
 *You are repelled even if you parry the blow with a weapon or shield
 *The effect lasts 10 seconds or until you have retreated for 20’
-REPEL represents a magical force that drives you away from the caster. You must move away from them at a brisk walk or faster. The effect lasts for ten seconds or until you have retreated more than for 20' (6m).
+[[Repel|REPEL]] represents a magical force that drives you away from the caster. You must move away from them at a brisk walk or faster. The effect lasts for ten seconds or until you have retreated more than for 20' (6m).
 If you cannot move away from the caster due to the presence of an obstacle, you must move as far as you can and then be pressed against the obstacle for the remainder of the ten second duration. While pressed against the obstacle you may talk but may take no other actions including blocking with a shield or parrying a blow. 
 ### [[Shatter|SHATTER]]
 *Any weapon, implement, or shield struck is broken and useless
 *Shattered items can be repaired with the [[Mend|mend]] spell or with artisan's oil
-SHATTER represents a magical force (or mighty blow) that is powerful enough to break weapons and shatter shields. Any weapon, implement, or shield struck by a SHATTER call is broken and useless. If you are using a shield that is difficult to discard, then any further blow that strikes the shattered shield counts as if it had struck you on your arm.
+[[Shatter|SHATTER]] represents a magical force (or mighty blow) that is powerful enough to break weapons and [[Shatter|shatter]] shields. Any weapon, implement, or shield struck by a [[Shatter|SHATTER]] call is broken and useless. If you are using a shield that is difficult to discard, then any further blow that strikes the shattered shield counts as if it had struck you on your arm.
 ### [[Venom|VENOM]]
 *Your bleed time drops to thirty seconds
 * If you block or parry the blow, the call has no effect but is not expended
 *The effect lasts until cured
-*When using the VENOM call, you must assume that the target has taken the effect
-A character will normally bleed to death in three minutes if they are reduced to zero hits. A character who is struck by VENOM will instead bleed to death in thirty seconds if they are reduced to zero hits.
-If you are dying and have less than thirty seconds to live when you are hit by venom, then you should continue with your current count - gaining the venom condition ''never'' increases the time remaining if you were already dying.
+*When using the [[Venom|VENOM]] call, you must assume that the target has taken the effect
+A character [[Will|will]] normally bleed to death in three minutes if they are reduced to zero hits. A character who is struck by [[Venom|VENOM]] [[Will|will]] instead bleed to death in thirty seconds if they are reduced to zero hits.
+If you are dying and have less than thirty seconds to live when you are hit by [[Venom|venom]], then you should continue with your current count - gaining the venom condition ''never'' increases the time remaining if you were already dying.
 The fortitude skill lists how long it takes for a character with the skill to bleed to death when affected by venom.
-The victim remains affected by venom until they are cured by the [[Purify]] spell or a similar potion or magic.
+The victim remains affected by venom until they are cured by the [[Purify]] spell or a similar [[Potion|potion]] or magic.
 ### [[Weakness|WEAKNESS]]
 *You may not use any heroic [[Skills|skills]], use any mana, or activate any enchantments or [[Magic Items|magic items]] that are not ''always on''
 * If you block or parry the blow, the call has no effect but is not expended
 *The effect lasts until cured
-*When using the WEAKNESS call, you must assume that the target has taken the effect
-WEAKNESS prevents the victim from using any [[Heroic skills|heroic skills]], enchantments, or mana. Magical items or enchantments that are "always on" work normally, but you cannot use any ability that must be activated while under the effect. You may otherwise move and fight normally.
-The victim remains affected by weakness until they are cured by the [[Purify]] spell or a similar potion or magic.
+*When using the [[Weakness|WEAKNESS]] call, you must assume that the target has taken the effect
+[[Weakness|WEAKNESS]] prevents the victim from using any [[Heroic skills|heroic skills]], enchantments, or mana. Magical items or enchantments that are "always on" work normally, but you cannot use any ability that must be activated while under the effect. You may otherwise move and fight normally.
+The victim remains affected by [[Weakness|weakness]] until they are cured by the [[Purify]] spell or a similar [[Potion|potion]] or magic.
 ## Mass Calls
 *MASS is an area effect call that expands the effect of another call to everyone within a 20' cone in front of the caster
 MASS calls represent the most potent effects in [[The game|the game]] and they are the only calls that can be used at range. They are commonly caused by [[Rituals|rituals]], though there are powerful unnatural creatures in the world that can cause MASS effects.
 MASS is always used with another call immediately following it. It indicates that the call affects everyone in a ninety-degree arc in front of and up to 20' (6m) away from the caster. 
-For example, MASS REPEL causes everyone within the area of effect to be affected by the REPEL call.
+For example, MASS [[Repel|REPEL]] causes everyone within the area of effect to be affected by the [[Repel|REPEL]] call.
 ## Safety Calls
 Safety calls are out-of-character calls used to indicate that there is a safety issue that needs to be immediately addressed. Everyone who hears a safety call must immediately stop whatever they are doing and follow the safety call as appropriate.
 ### FIRST AID

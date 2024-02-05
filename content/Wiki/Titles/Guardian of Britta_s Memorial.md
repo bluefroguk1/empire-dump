@@ -18,10 +18,10 @@ During the Winter Solstice 383YE the [[Imperial Senate]] voted to amend the shri
 The Guardian oversees the memorial dedicated to the virtue of the dead Empress, and ensures the [[Eternal|eternal]] flame is not extinguished.
 ## Powers
 ### A Portion of [[Liao]]
-The sinecure provides five doses of Liao to the Guardian each season, to be used as they see fit.
+The [[Sinecure|sinecure]] provides five doses of [[Liao]] to the Guardian each season, to be used as they see fit.
 ### Voice in the Synod
 The Guardian of Britta's Memorial may sit in the [[Imperial Synod]], and possesses 10 votes in Synod affairs (or an additional 10 votes if they already have a [[Congregation]]). They may use these votes in any [[Assembly|assembly]] they are eligible for.
 ## [[Appointment]]
 The Guardian is a virtue position which is appointed by [[Judgement]] of the [[Courage]] [[Assembly|assembly]] at the Spring Equinox.
-The title can be held by any Imperial citizen. They can be revoked by the [[General]] Assembly, the Assembly of Courage, and the [[Assembly of the Nine]].
+The title can be held by any Imperial citizen. They can be revoked by the [[General]] [[Assembly]], the [[Assembly]] of [[Courage]], and the [[Assembly of the Nine]].
 RecentElections|Guardian_of_Britta%27s_Memorial

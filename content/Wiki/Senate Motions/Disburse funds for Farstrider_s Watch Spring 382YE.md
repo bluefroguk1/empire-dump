@@ -16,4 +16,4 @@ Motion to disburse [[Senate|senate]] funds intended for the purpose of building 
 ## Date
 * [[Spring]] 382YE
 ## Outcome
-* Funds disbursed to [[Senator]] Mournwold.
+* Funds disbursed to [[Senator]] [[Mournwold]].

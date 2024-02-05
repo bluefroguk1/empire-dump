@@ -23,4 +23,4 @@ To ratify a treaty with the [[Iron Confederacy]] as written below.''Proposed by 
 * The treaty establishes a change to [[The Law|the law]].
 ## Treaty
 [[The Empire]] agrees to provide copies of the [[Maps|maps]] of the [[Bay of Catazar]] featuring all [[Iron Confederacy]] and [[Grendel]] lands.
-[[The Empire]] hereby bans all sale and/or gifting of [[Liao|liao]] to the Iron Confederacy via ports or the Suranni-Imperial border, thus rendering any such trades being performed by Imperial citizens illegal.
+[[The Empire]] hereby bans all sale and/or gifting of [[Liao|liao]] to the [[Iron Confederacy]] via ports or the Suranni-Imperial border, thus rendering any such trades being performed by Imperial citizens illegal.

@@ -14,7 +14,7 @@ To [[Commission]] a [[Sinecure|sinecure]] "The Teneberous path" in [[Hercynia]] 
 An army is a ship without a rudder, an arrow without a bow without an intent to wield it. This proposed [[Sinecure|sinecure]] is to inspire [[Wisdom|wisdom]] to the Thorns of [[Navarr]] to those who desire to wield a [[General]]'s [[Banner|banner]].
 This [[Senate]]'s duty is not to the titles of this room but to the people we serve.
 ## Overview
-* Motion to construct a Sinecure that produces mana crystals in [[Hercynia]]
+* Motion to construct a [[Sinecure]] that produces mana crystals in [[Hercynia]]
 * Passed
 ## Date
 * [[Winter]] 383YE
@@ -26,4 +26,4 @@ This [[Senate]]'s duty is not to the titles of this room but to the people we se
 ## Progress
 CommissionProgress|The_Tenebrous_Path
 ## Outcome
-* Once complete the title [[Wisdom of the Tenebrous Path]] [[Will|will]] be available to appoint as a Navarr national title by the generals of Navarr
+* Once complete the title [[Wisdom of the Tenebrous Path]] [[Will|will]] be available to appoint as a [[Navarr]] national title by the generals of [[Navarr]]

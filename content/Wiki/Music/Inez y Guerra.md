@@ -24,18 +24,18 @@ Inez y [[Guerra]]
 Every word she spoke was treasure, when she smiled it brought me joy
 Every soul aboard adored her, first mate down to cabin boy
 Though she scorned both shield and armour
-Inez y Guerra
+[[Inez y Guerra]]
 When she fought no foe could harm her
-Inez y Guerra
+Inez y [[Guerra]]
 If I were a wealthy Captain, with a ship upon the sea
 I would sail a golden galleon,'Fair Inez' her name would be
 Like a ship upon the ocean 
-Inez y Guerra
+[[Inez y Guerra]]
 Beauty in her every motion
-Inez y Guerra
+Inez y [[Guerra]]
 With a hold packed full oftreasure, home upon the storm I'd ride
 I would lay it at her feet if only she would be my bride
 Though I never could deserve her-
-Inez y Guerra
+[[Inez y Guerra]]
 All my lifelong days I'll serve her 
 Inez y Guera

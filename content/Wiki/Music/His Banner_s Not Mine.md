@@ -11,8 +11,8 @@ revision_id: 74531
 This song is popular in various parts of [[The Empire|the Empire]], and the nationalities of the lovers are often changed to suit the audience.
 Lyrics by Daisy and Jude, [[Music|music]] traditional Scottish as [[Sung|sung]] by the Poozies.
 A pdf of the tune and lyrics can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/5/5a/His_Banner%27s_Not_Mine.pdf here]. 
-His [[Banner|banner]]'s not [[Mine|mine]], not [[Mine|mine]], not mine
-His banner's not mine, bonny though the colours be
+His [[Banner|banner]]'s not [[Mine|mine]], not [[Mine|mine]], not [[Mine|mine]]
+His banner's not [[Mine|mine]], bonny though the colours be
 I saw him in the market square
 In the sunlight standing there
 A bonny boy with flaxen hair 
@@ -21,7 +21,7 @@ Next [[Day|day]] I buckled on my shield
 And lifted up my sword to wield 
 Who should I see there on the field
 But the lad that was so dear to me...
-His banner's not mine, not mine, not mine
+His banner's not [[Mine|mine]], not mine, not mine
 His banner's not mine, bonny though the colours be
 My love he is a Marcher born
 And to a Dawnish [[Earl]] I'm sworn

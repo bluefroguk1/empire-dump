@@ -12,7 +12,7 @@ Words and tune by Claire Sheridan. [https://soundcloud.com/herecosyouare-1/18-ri
 Comical song, in the style of popular tavern songs, by Nicassia of Phoenix Reach.
 [[18 Rings|18 rings]], [[18 Rings|18 rings]],
 All I've got of all I had 
-Is 18 rings.
+Is [[18 Rings|18 rings]].
 Oh when I ran a [[Business|business]],
 I ate and drank full well,
 But that was all in [[Mournwold]]

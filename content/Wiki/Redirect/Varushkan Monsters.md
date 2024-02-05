@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Varushkan Monsters
 aliases: ['Varushkan_Monsters']

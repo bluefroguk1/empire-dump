@@ -10,25 +10,25 @@ revision_id: 96578
 
 ## Overview
 A [[Senate motion]] is the primary way that the [[Imperial Senate]] carries out its [[Business|business]]. The [[Speaker for the Senate]] [[Will|will]] read out the wording of a motion, before it is discussed, so it is vital to keep the wording as concise as possible.
-The legal implications of any [[Senate motion]] begin with the precise wording of a motion. The [[Senator|senator]] who proposes a motion is responsible for the execution of the motion if it is passed by [[The Senate|the Senate]], so the civil service [[Will|will]] take guidance from the [[Senator|senator]] who proposed the motion to complete any necessary details that are omitted from the wording of the original motion. The more details that are left off a [[Senate]] motion, the more freedom the senator has to set those details later, if the motion is passed.
+The legal implications of any [[Senate motion]] begin with the precise wording of a motion. The [[Senator|senator]] who proposes a motion is responsible for the execution of the motion if it is passed by [[The Senate|the Senate]], so the civil service [[Will|will]] take guidance from the [[Senator|senator]] who proposed the motion to complete any necessary details that are omitted from the wording of the original motion. The more details that are left off a [[Senate]] motion, the more freedom the [[Senator|senator]] has to set those details later, if the motion is passed.
 For both these reasons it is important to consider the wording of a motion carefully. This page lays out the necessary details for most [[Senate Motions|Senate motions]].
 ## Posterity
-The wording of the motion is recorded for posterity in the Imperial archives, so those citizens with an eye to their place in [[History|history]] will want their wording to have a pleasing cadence. Some proud senators have been known to employ [[Freeborn]] scriveners or [[Wintermark]] stormcrows to give the wording of their motion more impact.
+The wording of the motion is recorded for posterity in the Imperial archives, so those citizens with an eye to their place in [[History|history]] [[Will|will]] want their wording to have a pleasing cadence. Some proud senators have been known to employ [[Freeborn]] scriveners or [[Wintermark]] stormcrows to give the wording of their motion more impact.
 ## Amendments
-The wording of a senate motion may change after it has been submitted, based on advice the proposer has received from the Constitutional Court, the civil service, the [[Magistrates|magistrates]], and other citizens. It is not possible to alter the wording of a motion once the motion is read out on the floor of the Senate. At that point the wording is fixed and cannot be changed; the proposer will not be able to submit a new or altered motion during that summit even if they withdraw their motion.
+The wording of a [[Senate motion|senate motion]] may change after it has been submitted, based on advice the proposer has received from the Constitutional Court, the civil service, the [[Magistrates|magistrates]], and other citizens. It is not possible to alter the wording of a motion once the motion is read out on the floor of the Senate. At that point the wording is fixed and cannot be changed; the proposer [[Will|will]] not be able to submit a new or altered motion during that summit even if they withdraw their motion.
 ## Necessary Details
 Many motions have a number of necessary details which are required for the civil service to enable the motion to be carried out. For example, a [[Commission|commission]] to construct a [[Fortification|fortification]] cannot proceed until it is clear ''where'' the [[Fortification|fortification]] is to be built.
-A senator is free to determine any of the necessary details that are omitted from their proposed motion. Shrewd senators have been known to deliberately omit details from a motion to try to avoid a hostile reception by the Senate. 
-The Constitutional Court may [[Veto|veto]] a motion if the necessary details provided by a senator would breach the spirit of the Constitution, regardless of when they are specified. If the additional details mean that the Constitutional Court would require a constitutional vote to pass the motion - and it was not passed with a constitutional vote on the [[Day|day]] - then it will be rejected.
+A [[Senator|senator]] is free to determine any of the necessary details that are omitted from their proposed motion. Shrewd senators have been known to deliberately omit details from a motion to try to avoid a hostile reception by the Senate. 
+The Constitutional Court may [[Veto|veto]] a motion if the necessary details provided by a [[Senator|senator]] would breach the spirit of the Constitution, regardless of when they are specified. If the additional details mean that the Constitutional Court would require a constitutional vote to pass the motion - and it was not passed with a constitutional vote on the [[Day|day]] - then it [[Will|will]] be rejected.
 ### [[Commission]]
 * Location
 * [[Cost]]
 * Nature
 * [[Imperial Title]]
-The [[Imperial Civil Service|Imperial civil service]] need to know the rough location where the Commission is to be raised or built - usually the [[Territory]] and region are sufficient.
-Some commissions have a standard [[Cost|cost]] for [[Mithril|mithril]], [[Weirwood|weirwood]] and [[White granite|white granite]], for example a new [[Imperial army]] requires 250 wains of [[Mithril|mithril]], so this detail is fixed. If the commission can be of variable size, then the necessary details include how much [[Bourse]] [[Materials|materials]] will be used to complete the commission.
+The [[Imperial Civil Service|Imperial civil service]] need to know the rough location where the [[Commission]] is to be raised or built - usually the [[Territory]] and region are sufficient.
+Some commissions have a standard [[Cost|cost]] for [[Mithril|mithril]], [[Weirwood|weirwood]] and [[White granite|white granite]], for example a new [[Imperial army]] requires 250 wains of [[Mithril|mithril]], so this detail is fixed. If the [[Commission|commission]] can be of variable size, then the necessary details include how much [[Bourse]] [[Materials|materials]] will be used to complete the [[Commission|commission]].
 A [[Sinecure]] is a very [[General|general]] term, only marginally more specific than a word like "building" or "construction". It is used by [[The Empire|the Empire]] to describe any construction designed to produce a fixed income. The civil service need to have a clear idea of the nature of any commission that is being built, where that is not clear. A concise overview on the nature and purpose of a commission may be relevant to the Senate's decision to pass a motion; a more detailed description can be provided to the civil service later.
-Any commission that requires the creation of an [[Imperial Title|Imperial title]] to oversee the new commission will also require the necessary details for the new Imperial title.
+Any commission that requires the creation of an [[Imperial Title|Imperial title]] to oversee the new commission will also require the necessary details for the new [[Imperial Title|Imperial title]].
 ### Disbursement
 * Amount
 * Recipient
@@ -37,7 +37,7 @@ If the recipient is omitted, then the disbursement will be given to the senator 
 The Senate cannot legally direct how the recipient might spend Senate funds, but it is still advisable to make the Senate's expectation clear in the wording of the motion, as [[The Synod|the Synod]] do have the power to punish citizens whose actions fall short of what is legitimately expected of them.
 ### Emergency Resupply
 * Army
-* Cost
+* [[Cost]]
 A motion to resupply an [[Imperial army]] should specify which army is to be resupplied.
 ### [[Historical research|Historical Research]]
 * Subject
@@ -50,13 +50,13 @@ Any senator who wishes to change Imperial [[Law]] is well advised to consult the
 * [[Appointment]]
 * [[Tenure]]
 * [[Revocation]]
-A motion to create a new Imperial title must specify what legal powers, if any, the title will have authority to use. 
+A motion to create a new [[Imperial Title|Imperial title]] must specify what legal powers, if any, the title will have authority to use. 
 The necessary details include the method of [[Appointment|appointment]], to allow civil servants to determine which political house will appoint the position and whether it will be an Imperial or national position. They also need to know the tenure, how long an elected citizen may hold the title before need to be reelected and which assemblies in the [[Imperial Synod]] may revoke a citizen who holds the title.
-Many commissions automatically cause the creation of an appropriate Imperial title - for example raising a new Imperial army causes the creation of a new Imperial title for the [[General|general]] of that army. Many of these Imperial titles have long-standing traditional methods of appointment, tenure and [[Revocation|revocation]]. Any new Imperial title that has unusual powers, appointment, tenure, or revocation is likely to be subject to close [[Scrutiny|scrutiny]] by the Constitutional Court.
+Many commissions automatically cause the creation of an appropriate [[Imperial Title|Imperial title]] - for example raising a new [[Imperial army]] causes the creation of a new Imperial title for the [[General|general]] of that army. Many of these Imperial titles have long-standing traditional methods of [[Appointment|appointment]], tenure and [[Revocation|revocation]]. Any new Imperial title that has unusual powers, [[Appointment|appointment]], tenure, or [[Revocation|revocation]] is likely to be subject to close [[Scrutiny|scrutiny]] by the Constitutional Court.
 The Senate cannot legally direct what the holder of the title should do, nor how they will do it, but like a disbursement, it is still worthwhile to set out the responsibilities of the office. The [[Synod]] is expected to use the stated responsibilities of an Imperial title to inform any [[Judgement|judgement]] made against the citizen who holds the office.
 The powers of an Imperial title are not part of the necessary details, any legal powers that a title will have must be specified in the wording of the motion passed by the [[Imperial Senate]].
 ## Responsibilities
-The business of the Senate is focused on [[The Law|the law]], determining what the law is, how it will be applied, etc. While it is common for a Senate motion to include an explanation of what responsibilities they believe accompany a motion, the law cannot be used to dictate how citizens employ the powers they have been given.
-For example, if a senate motion is passed to disburse funds to a senator with the intention that they be used to purchase additional Bourse [[Materials|materials]] to complete a commission, the money becomes the legal property of the senator at the point where they receive it. The law cannot stipulate how the funds must be used.
+The business of the Senate is focused on [[The Law|the law]], determining what the law is, how it will be applied, etc. While it is common for a [[Senate motion]] to include an explanation of what responsibilities they believe accompany a motion, the law cannot be used to dictate how citizens employ the powers they have been given.
+For example, if a [[Senate motion|senate motion]] is passed to disburse funds to a senator with the intention that they be used to purchase additional Bourse [[Materials|materials]] to complete a commission, the money becomes the legal property of the senator at the point where they receive it. The law cannot stipulate how the funds must be used.
 Wording that aims to provide direction of this kind is treated as part of the responsibilities of the motion. These carry no legal weight, but it is still advisable to make the Senate's expectation clear in the wording of the motion, as the [[Imperial Synod]] do have the power to punish citizens whose actions fall short of what is legitimately expected of them.
 Senate Further Reading

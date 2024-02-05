@@ -23,8 +23,8 @@ To raise the [[Towerjacks]] as an Imperial [[League]] army. We [[Will|will]] req
 ### Progress
 * 200 Thrones disbursed to [[Senator]] [[Holberg]]
 * 65 wains of [[Mithril|mithril]] supplied by Ros Jordan after the Summer Solstice 379YE.
-* 60 wains of mithril supplied by Ros Jordan after the [[Autumn]] Equinox 379YE.
+* 60 wains of [[Mithril|mithril]] supplied by Ros Jordan after the [[Autumn]] Equinox 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The Towerjacks, a League army incorporating many siege experts, [[Will|will]] [[Muster|muster]] in Holberg.
-* When the army is raised, it will automatically create the [[Imperial Title]] of [[General]].
+* The [[Towerjacks]], a League army incorporating many siege experts, [[Will|will]] [[Muster|muster]] in [[Holberg]].
+* When the army is raised, it [[Will|will]] automatically create the [[Imperial Title]] of [[General]].
 __NOTOC__

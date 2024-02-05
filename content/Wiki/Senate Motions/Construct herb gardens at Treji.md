@@ -19,6 +19,6 @@ To create a [[Sinecure|sinecure]], the Memorial Gardens of Treji to the [[Summer
 * The [[Sinecure]] [[Will|will]] produce 6 [[Bladeroot|bladeroot]], 6 [[True Vervain|true vervain]], 2 [[Cerulean Mazzarine|cerulean mazzarine]], 2 [[Imperial Roseweald|imperial roseweald]], and 2 doses of [[Marrowort|marrowort]] per season.
 ### Constitution
 * Sinecures are normally life-time appointments.
-* This is a national sinecure, and can be revoked by the [[Navarr]] National [[Assembly]], [[General]] [[Assembly]], or [[Assembly of the Nine]].
-* This sinecure is regarded as unconstitutional because it uses an inappropriate method of [[Appointment|appointment]]. The motion was not struck down by [[Magistrates|magistrates]] at the time and the construction has already been approved. No future sinecure using this [[Appointment|appointment]] method will be approved by the constitutional court.
+* This is a national [[Sinecure|sinecure]], and can be revoked by the [[Navarr]] National [[Assembly]], [[General]] [[Assembly]], or [[Assembly of the Nine]].
+* This [[Sinecure|sinecure]] is regarded as unconstitutional because it uses an inappropriate method of [[Appointment|appointment]]. The motion was not struck down by [[Magistrates|magistrates]] at the time and the construction has already been approved. No future [[Sinecure|sinecure]] using this [[Appointment|appointment]] method [[Will|will]] be approved by the constitutional court.
 __NOTOC__

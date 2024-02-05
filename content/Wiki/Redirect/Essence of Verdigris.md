@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Essence of Verdigris
 aliases: ['Essence_of_Verdigris']

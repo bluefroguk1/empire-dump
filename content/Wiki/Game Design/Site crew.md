@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Site crew
 aliases: ['Site_crew']
 draft: False
@@ -21,7 +21,7 @@ There are five very distinct teams that form the site crew. The largest and most
 ### Site set-up and take-down
 The head of the site set-up and take-down team is Morgan Wilkinson. Morgan is responsible for organizing and deploying everyone in the team before and after each event. Much of the work begins before the event. We have a big list of jobs to do, most of which involve putting up or taking down tents of all sizes, up to the larger marquees. 
 With all that work it’s really important that we know when you intend to arrive on site – what day and also, if possible what time, so that we can put you in a suitable team with a list of jobs to do.
-Training is on the job. Don’t worry, we’re all volunteers and every event poses new challenges and learning experiences for all of us! Your team leader [[Will|will]] have a list of jobs and, if you’re new to the Redcaps, they will ensure you are trained up on all the different jobs you’re expected to do.
+Training is on the job. Don’t worry, we’re all volunteers and every event poses new challenges and learning experiences for all of us! Your team leader [[Will|will]] have a list of jobs and, if you’re new to the Redcaps, they [[Will|will]] ensure you are trained up on all the different jobs you’re expected to do.
 ### Traffic Management
 The traffic management team are responsible for directing players who arrive on site and showing them where to park. The work begins on Thursday morning of each event to get everything prepared to receive the first players at midday. After the event ends, the traffic team are needed to help direct traffic to ensure that everyone can get off safely. The traffic team is run by Wayne Newton.
 The [[Gate|gate]] closes late on Thursday evening and then again on Friday evening after time-in. Once Wayne closes the gate then the crew are free to play the rest of the event or carry on [[Crewing|crewing]] in other areas of the game. At time out the team then assist in getting players safely off site following our one way system.
@@ -34,7 +34,7 @@ The set dressing team is led by Freya Wilson. They are responsible for set-dress
 Crew on the team need to have a good eye for dressing a set, but experience is not required, provided you can follow direction. Anyone who has a good imagination or some artistic [[Skills|skills]] is welcome. You need to be able to get to the site early to get the tents dressed or be able to stay after the event has finished to help put everything away as a minimum, but if everyone is done on time, then you won't be called on during the event.
 ### Hygiene
 The hygiene team is led by Athena Wride and Tim Knight. This is the least glamorous job on the crew, but also one of the most essential! They are responsible for cleaning the toilets and restocking them with paper every day. Without the team keeping the facilities serviceable, the event would soon [[Grind|grind]] to a halt.
-We use chemical recirculation toilets, which must be cleaned carefully to avoid contamination with the wrong chemicals. You don't need any previous experience in cleaning, but you will need to be able to follow directions. If you are a member of the team, then you don't need to arrive early or stay late, but you will need to be up early each day to join the team as they service each unit.
+We use chemical recirculation toilets, which must be cleaned carefully to avoid contamination with the wrong chemicals. You don't need any previous experience in cleaning, but you [[Will|will]] need to be able to follow directions. If you are a member of the team, then you don't need to arrive early or stay late, but you [[Will|will]] need to be up early each day to join the team as they service each unit.
 ### Sparkies
 The Sparky team is led Ian Roper. The team run out the cables that provide the power to GOD, monster, caterers, [[Traders|traders]] and the various game areas. The work is surprisingly physical, drums of electrical cable are heavy and they need to be painstakingly rolled out and rolled back in again for every event. 
 The team work to a plan laid down by trained electricians, so you don't need to be qualified to help out but you do need to have a good understanding of practical electrics so that you can spot potential issues before any problems develop. Like most other members of the site crew you will need to be able to get to site early to get everything ready and ideally be able to stay after the event has finished to help take everything down but unless you are a senior member of the team then you won't be called on during the event.

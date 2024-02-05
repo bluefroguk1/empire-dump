@@ -12,12 +12,12 @@ revision_id: 97500
 The position was established by a motion of the [[Imperial Senate]] during the [[Spring]] Equinox 379YE. At the time, there were some concerns from the Constitutional Court about [[The Way|the way]] the [[Sinecure]] involved was presented, which were resolved in [[The Senate|the Senate]] during the [[Autumn]] Equinox 379YE.
 The museum itself was constructed to provide a suitable venue to display the extensive collection of unique and historical artifacts gathered by the Printer's [[Guild]]- a [[League]] [[Guild]] that provides printing services throughout [[The Empire|the Empire]], and publishes the popular Pledge newspaper. 
 ## Responsibilities
-The Curator of the Printer's Guild Museum is responsible for maintaining the museum itself, and for acquiring new exhibits. If anything were to threaten the good operation of the museum, it would be the responsibility of the Curator to address those problems.
+The Curator of the Printer's [[Guild]] Museum is responsible for maintaining the museum itself, and for acquiring new exhibits. If anything were to threaten the good operation of the museum, it would be the responsibility of the Curator to address those problems.
 ## Powers
 ### Point of [[Pilgrimage]]
-The Printer's Guild Museum of Wonders is a [[Sinecure]] overseen by the Curator who receives 6 [[Liao]] and 12 votes in the [[Imperial Synod]]. These votes can be used in any and all appropriate assemblies for which the Curator is eligible.
+The Printer's [[Guild]] Museum of Wonders is a [[Sinecure]] overseen by the Curator who receives 6 [[Liao]] and 12 votes in the [[Imperial Synod]]. These votes can be used in any and all appropriate assemblies for which the Curator is eligible.
 ## [[Appointment]]
-The [[Cardinal of Prosperity]] appoints the Curator of the Printer's Guild Museum. As an [[Imperial Title|Imperial title]], it may be held by any Imperial citizen. 
+The [[Cardinal of Prosperity]] appoints the Curator of the Printer's [[Guild]] Museum. As an [[Imperial Title|Imperial title]], it may be held by any Imperial citizen. 
 While the assumption with most sinecures is that the Curator hold the position until they die or step down, the Curator is appointed by a [[Cardinal]]. As such, when a new [[Cardinal]] of [[Prosperity]] is appointed they may choose to name a replacement. The Curator can be revoked by a lesser majority of either the [[General]] [[Assembly]], or the [[Prosperity]] [[Virtue assembly|virtue assembly]].
 ## The Printer's Guild Museum of Wonders
 Situated just off the western bank of the river Vassa, in [[The League|the League]] city of [[Tassato]] Mestra, the home of the Printers Guild Museum of Wonders is an impressive building.

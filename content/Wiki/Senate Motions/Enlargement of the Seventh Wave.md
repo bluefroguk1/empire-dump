@@ -22,6 +22,6 @@ Enlarge the Highborne army the [[Seventh Wave]].''Proposed by [[Reikos]], second
 * Six months to complete
 ## Progress
 * 50 wains of [[Mithril|mithril]] and 100 Crowns provided by Cadeus of the Shattered Tower after the Autumn Equinox 382YE.
-* 50 wains of mithril, 12 Thrones, and 4 Crowns provided by Cadeus after the [[Spring]] Equinox 383YE.
+* 50 wains of [[Mithril|mithril]], 12 Thrones, and 4 Crowns provided by Cadeus after the [[Spring]] Equinox 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Seventh Wave is now a large army.
+* The [[Seventh Wave]] is now a large army.

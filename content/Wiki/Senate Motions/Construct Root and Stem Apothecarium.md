@@ -17,12 +17,12 @@ __NOTOC__
 ## Date
 * [[Spring]] 383YE
 ## [[Cost]]
-* This opportunity uses non-standard costs
+* This [[Opportunity|opportunity]] uses non-standard costs
 * 8 wains of [[Weirwood|weirwood]]
 * 16 crowns in labour costs
 * 3 months to construct
 ## Progress
 * 4 wains of [[Weirwood|weirwood]] provided by William Lowther after the Spring Equinox 383YE.
-* 4 wains of weirwood and 2 Thrones provided by [[Will]] Talbot after the Spring Equinox 383YE.
+* 4 wains of [[Weirwood|weirwood]] and 2 Thrones provided by [[Will]] Talbot after the Spring Equinox 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * When complete, the [[Ministry]] [[Will|will]] create an [[Imperial Title]], [[Master of the Root and Stem]]

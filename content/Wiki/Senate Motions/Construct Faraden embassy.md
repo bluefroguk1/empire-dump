@@ -15,14 +15,14 @@ To build an [[Embassy]] to [[Faraden]] in Anduz ([[Segura]]) We are asking for f
 ### Date
 * [[Winter]] 378YE
 ### Costs
-* [[Materials]]: 20 wains of [[Weirwood]] and 20 wains of [[White granite|White Granite]] (This is less than the Standard [[Cost|cost]] for an embassy)
+* [[Materials]]: 20 wains of [[Weirwood]] and 20 wains of [[White granite|White Granite]] (This is less than the Standard [[Cost|cost]] for an [[Embassy|embassy]])
 * Time: 1 season
 * Upkeep: 5 Thrones
 ### Progress
 * Funds disbursed to [[Senator]] [[Therunin]]
-* Before the Faraden [[Will|will]] recognise the embassy, the Towers of Anduz [[Will|will]] need to be rebuilt.
+* Before the [[Faraden]] [[Will|will]] recognise the [[Embassy|embassy]], the Towers of Anduz [[Will|will]] need to be rebuilt.
 * 20 wains of [[Weirwood|weirwood]] and 18 wains of [[White granite|white granite]] supplied by Caerwyn after [[Spring]] Equinox 379YE
-* 2 wains of white granite supplied by Caerwyn after [[Summer]] Solstice 379YE
+* 2 wains of [[White granite|white granite]] supplied by Caerwyn after [[Summer]] Solstice 379YE
 ### [[Campaign outcome|Campaign Outcome]]
-* When the embassy was complete, it will create the [[Imperial Title]] of [[Ambassador to Faraden]].
+* When the [[Embassy|embassy]] was complete, it [[Will|will]] create the [[Imperial Title]] of [[Ambassador to Faraden]].
 __NOTOC__

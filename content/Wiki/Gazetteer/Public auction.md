@@ -22,7 +22,7 @@ At the end of the [[Auction of the Seats]] a single dose of true [[Liao|liao]] i
 The [[Public auction|public auction]] is held on Saturday, and the timing and location can be found in the [[Event schedule|event schedule]] and on signs around [[Anvil]]. [[The Senate]] is the preferred location, but occasionally another meeting or event [[Will|will]] take precedence and the auction [[Will|will]] move to another suitable location.
 ### Auctioneer
 The proceedings are lead by an auctioneer, who is usually an [[Agent of the Bourse]], a member of the Civil Service. Their role is a fine balance of keeping order, ensuring fair access to the auction for all present, and hosting a time-honoured Imperial spectacle.
-Another [[Agent of the Bourse]] will usually be responsible for recording the the winning bids, taking the money, and giving out the purchased items.
+Another [[Agent of the Bourse]] [[Will|will]] usually be responsible for recording the the winning bids, taking the money, and giving out the purchased items.
 ### Participation
 All Imperial citizens are eligible to bid in the auction and it is usually a busy and fast-paced affair. Bids are settled using [https://en.wikipedia.org/wiki/Auction#Driven_by_bidders_only an open ascending price auction].
 The usual format is as follows:
@@ -32,4 +32,4 @@ The usual format is as follows:
 * The winner goes immediately to the auction clerk to pay and have their [[Appointment|appointment]] recorded
 Bidding is usually in thrones and crowns. Only mana crystals are accepted in the auction for the position of [[Arbiter]] of the Rogue [[Declaration]]. Citizens are asked to have payment ready when bidding in order to keep things moving smoothly.
 [[Bourse]] Further Reading
-* Scaling back the public auction
+* Scaling back the [[Public auction|public auction]]

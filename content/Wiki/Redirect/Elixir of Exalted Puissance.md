@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Elixir of Exalted Puissance
 aliases: ['Elixir_of_Exalted_Puissance']

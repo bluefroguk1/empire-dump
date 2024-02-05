@@ -9,7 +9,7 @@ revision_id: 94628
 ---
 
 __NOTOC__
- A mana [[Sinecure|sinecure]], ‘[[Forest]] of Defiance’, creating the title ‘[[Dauntless Warrior]]’, using 10 wains, appointed by all Imperial Orc senators, appointed for life, revocable by the Imperial Orc national [[Assembly|assembly]], the [[General]] [[Assembly]], or the Assembly of Nine.
+ A mana [[Sinecure|sinecure]], ‘[[Forest]] of Defiance’, creating the title ‘[[Dauntless Warrior]]’, using 10 wains, appointed by all Imperial Orc senators, appointed for life, revocable by the Imperial Orc national [[Assembly|assembly]], the [[General]] [[Assembly]], or the [[Assembly]] of Nine.
 ''Announced by Palerictrus Krunk, Bearer of an [[Imperial Orc Wayleave]]''
 ## Outcome
 * Construct a mana [[Sinecure]] in [[Skarsind]]

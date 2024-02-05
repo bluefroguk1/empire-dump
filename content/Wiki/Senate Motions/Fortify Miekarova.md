@@ -21,5 +21,5 @@ Permission to raise a fortress in the [[Territory|territory]] of [[Miekarova]] t
 ### Progress
 None
 ### [[Campaign outcome|Campaign Outcome]]
-This would have allowed the construction of a rank one [[Fortification|fortification]] in Miekarova.
+This would have allowed the construction of a rank one [[Fortification|fortification]] in [[Miekarova]].
 __NOTOC__

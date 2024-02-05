@@ -18,12 +18,12 @@ He takes a bite from every onion
 Puts his spoon right in your soup
 And all the poultry that he eats
 Could fill a chicken coop!
-When Uncle Vyig comes to dinner...
+When [[Uncle Vyig]] comes to dinner...
 He goes through all your clothing
 And borrows just one boot
 He helps himself to gloves and hats
 And the socks right off your foot!
-When Uncle Vyig comes to dinner...
+When Uncle [[Vyig]] comes to dinner...
 He sits right by the fire
 And leaves you all to freeze
 His bones are scrawny, thin and cold

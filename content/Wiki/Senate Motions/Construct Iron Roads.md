@@ -19,7 +19,7 @@ To build the Iron Roads across [[Varushka]]. [[Cost]] 200 WG, 400 Cr, 1 year to 
 ## [[Cost]]
 * Non-standard costs apply as detailed here.
 * 200 wains of [[White granite]]
-* 400 crowns labour cost
+* 400 crowns labour [[Cost|cost]]
 * one year to construct
 ## Progress
 CommissionProgress|Iron_Roads

@@ -11,8 +11,8 @@ revision_id: 85730
 To remove the [[Aura|aura]] of [[Vigilance]] from [[The Senate|the Senate]] and to make it illegal for an [[Aura|aura]] to be emplaced on the [[Senate]] building without prior explicit permission from the Senate
 ''Proposed by [[Zenith]], seconded by [[Hercynia]].''
 ### Overview
-* Remove the aura of [[Vigilance]] from the Senate
-* Make it illegal for an aura to be placed on the Senate building without prior explicit permission from the Senate
+* Remove the [[Aura|aura]] of [[Vigilance]] from the Senate
+* Make it illegal for an [[Aura|aura]] to be placed on the Senate building without prior explicit permission from the Senate
 * Passed unanimously
 ### Date
 * Passed [[Winter]] 376YE (Easter 2013).

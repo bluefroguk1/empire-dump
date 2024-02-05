@@ -41,7 +41,7 @@ Though still he strive to win renown
 ''Fa la latten da latten da latten da lanky down dilly''
 A filthy beggar knight was he
 Fa la etc
-A dreadful curse of poverty
+A dreadful [[Curse|curse]] of poverty
 Fa la etc
 But he fought on both strong and proud
 His back unbent, his head unbowed 
@@ -50,10 +50,10 @@ In battle he commanded well
 Fa la etc
 No single Dawnish soldier fell
 Fa la etc
-But through his curse he lived alone
+But through his [[Curse|curse]] he lived alone
 Condemned to dwell in pain alone
 Fa la etc
-A year passed ere his curse was done
+A year passed ere his [[Curse|curse]] was done
 Fa la etc
 His pains were healed, his quests were won
 Fa la etc

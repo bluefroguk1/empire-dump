@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Oakenhide Tonic
 aliases: ['Oakenhide_Tonic']

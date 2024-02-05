@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: League religious beliefs
 aliases: ['League_religious_beliefs']

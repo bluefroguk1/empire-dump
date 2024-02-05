@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Economic Interests
 aliases: ['Navarri_Economic_Interests']

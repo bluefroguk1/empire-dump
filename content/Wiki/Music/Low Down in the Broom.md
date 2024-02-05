@@ -21,4 +21,4 @@ And it's [[Low Down in the Broom|low down in the broom]], waiting in the broom f
 3. I took hold of his hand and gaily sang my heart
 And now that we're together I know we never shall part
 Oh no, my love no never, such a thing could never be
-And it's low down in the broom, waiting in the broom for me
+And it's [[Low Down in the Broom|low down in the broom]], waiting in the broom for me

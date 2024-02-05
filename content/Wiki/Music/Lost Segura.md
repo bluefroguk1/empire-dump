@@ -22,13 +22,13 @@ Carry my heart to lost [[Segura]]
 Tell it I'll keep the vow I made
 To the city of my Kin - and once again
 Sip wine by its river and drowse in its shade
-Aaaa, lost Segura...
-After Segura was recaptured in 378, new lyrics for this [[Freeborn]] song were penned by Estana I Mestiere I [[Guerra]], [[General]] of the [[Red Wind Corsairs]].
-Breathe free the wind from sweet Segura,
+Aaaa, [[Lost Segura|lost Segura]]...
+After [[Segura]] was recaptured in 378, new lyrics for this [[Freeborn]] song were penned by Estana I Mestiere I [[Guerra]], [[General]] of the [[Red Wind Corsairs]].
+Breathe free the wind from sweet [[Segura]],
 Rich spice now fills our senses, fiercely as it grows.
 Fruit freshly comes to bloom, oh what sweet perfume.
 The scent of freedom carried as triumph glows.
-Ooooh, sweet Segura, we vowed that we would find you, chains cast aside and victory shared.
+Ooooh, sweet [[Segura]], we vowed that we would find you, chains cast aside and victory shared.
 Ooooh, sweet Segura, my heart has never lost you, we are returned and here to stay.
 Freedom returns to sweet Segura,
 in [[Glory|glory]] and love our cities [[Will|will]] rise.

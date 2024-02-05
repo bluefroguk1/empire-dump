@@ -13,7 +13,7 @@ To disburse funds for and modernise the pumps of Syrene's [[Wisdom]]. This [[Wil
 ## Overview
 * Commissions improvements to Syrene's [[Wisdom]] in [[Casinea]]
 * The [[Opportunity]] is detailed in the [[Wake up crying]] Wind of Fortune.
-* Until completed, Syrene's Wisdom [[Will|will]] produce only 4 rings of [[Ilium|ilium]] each season
+* Until completed, Syrene's [[Wisdom]] [[Will|will]] produce only 4 rings of [[Ilium|ilium]] each season
 * Passed
 ## Date
 * [[Autumn]] 384YE
@@ -26,6 +26,6 @@ To disburse funds for and modernise the pumps of Syrene's [[Wisdom]]. This [[Wil
 ## Progress
 CommissionProgress|Improve_Syrene%27s_Wisdom
 ## Outcome
-* Once complete, the [[Mine|mine]] will be more efficient. The amount of ilium that can be extracted from Syrene's Wisdom will increase by 2 rings each season going forward. 
-* Additional access to silver and other precious metals will also provide a new source of [[Prosperity|prosperity]] to the nearby town. 
+* Once complete, the [[Mine|mine]] [[Will|will]] be more efficient. The amount of [[Ilium|ilium]] that can be extracted from Syrene's [[Wisdom]] [[Will|will]] increase by 2 rings each season going forward. 
+* Additional access to silver and other precious metals [[Will|will]] also provide a new source of [[Prosperity|prosperity]] to the nearby town. 
 * Even better, the engineers are confident that their new, robust system will be better able to deal with future flooding, greatly reducing the chance of loss of life in the mines.

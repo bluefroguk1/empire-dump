@@ -13,7 +13,7 @@ I, Merel [[Eternal]] of [[Navarr]], use my [[Historical research|Historical Rese
 Announced by the [[Advisor on the Vallorn]]
 ### Overview
 * [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service.
-* Historical Research request announced by the Advisor on [[The Vallorn|the Vallorn]] using the legal powers to announce Historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the Advisor on [[The Vallorn|the Vallorn]] using the legal powers to announce [[Historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Spring]] 381YE
 ### [[Cost]]

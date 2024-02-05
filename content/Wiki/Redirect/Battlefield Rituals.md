@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Battlefield Rituals
 aliases: ['Battlefield_Rituals']

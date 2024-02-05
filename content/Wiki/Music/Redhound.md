@@ -18,8 +18,8 @@ He put his neck upon the line.
 And in the midst of battle,
 It is sure that he'll be found.
 He's a hero of [[The Empire|the empire]],
-And his name is Redhound.
-He's Redhound. ''(x3)''
+And his name is [[Redhound]].
+He's [[Redhound]]. ''(x3)''
 Verse 2
 You all have heard the tale,
 Of how he slew Harku Long Axe,
@@ -28,7 +28,7 @@ With a cunning [[Night|night]] attack.
 But, I'll tell you of the last days,
 Of his people, strong and proud,
 Of the Counted Sorrows [[Striding|striding]],
-And the vengeance of Redhound.
+And the vengeance of [[Redhound]].
 He's Redhound. ''(x4)''
 Chorus
 Running at full speed.
@@ -54,7 +54,7 @@ Verse 4
 “My place is here”, our hero cried,
 But his [[Thorn|thorn]]-[[Brand|brand]] cut him off. He said, 
 “[[The Marches]] must know of this foe,
-Or the Empire [[Will|will]] be lost.
+Or [[The Empire|the Empire]] [[Will|will]] be lost.
 “And one more thing I ask you,
 If a father is allowed,
 Take [[My Child|my child]] with you to safety,
@@ -74,17 +74,17 @@ Chorus
 Verse 6
 Through cunning and through trickery,
 Our hero did escape.
-Saved the daughter. Saved the Empire.
+Saved the daughter. Saved [[The Empire|the Empire]].
 ''(slow)''
 But his people met their fate.
 In honour of their sacrifice,
 He built a stony mound.
-For each loss, he placed a Jotun skull 
+For each loss, he placed a [[Jotun]] skull 
 All slain by him – Redhound.
 Coda
 And his legend [[Will|will]] continue,
 For his [[Courage|courage]] knows no bounds.
-He's a hero of the empire,
+He's a hero of [[The Empire|the empire]],
 And his name is Redhound.
 ''(fast)''
 Chorus to end.

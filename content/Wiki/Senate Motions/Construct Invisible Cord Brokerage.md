@@ -12,7 +12,7 @@ __NOTOC__
 Motion to construct a [[Weirwood]] [[Ministry|ministry]] in Seren, [[Miaren]], a National [[Bourse]] position, in order to provide the option for citizens to sell at a guaranteed price to a trusted [[Broker|broker]], should they prefer this to the fluctuating prices of the Public Bourse Auction.
 ''Proposed by [[Miaren]], Seconded by [[Temeschwar]]''
 ## Overview
-* [[Commission]] a [[Ministry]] in Seren, Miaren that draws on an [[Opportunity]] presented by the broker of [[Navarr]]
+* [[Commission]] a [[Ministry]] in Seren, [[Miaren]] that draws on an [[Opportunity]] presented by the broker of [[Navarr]]
 * Failed
 ## Date
 * [[Spring]] 383YE

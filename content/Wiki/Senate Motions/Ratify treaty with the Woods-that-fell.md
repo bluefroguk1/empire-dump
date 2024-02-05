@@ -20,4 +20,4 @@ To ratify the treaty with the southern Woods-That-Fell [[Feni]] [[Tribe|tribe]].
 ## Progress
 * Landon of Longridge donated 10 Thrones to the [[Imperial treasury]] to cover the costs involved in this treaty.
 ## [[Campaign outcome|Campaign Outcome]]
-* In the absence of an [[Ambassador]], it is the responsibility of the [[Imperial Consul]] to inform the [[Feni]] of military action. (OOC Note: The Imperial Consul can email Profound Decisions at plot@profounddecisions.co.uk to inform them that the bag of food is being left at the [[Crossroads|crossroads]]. No other information can be included in this instruction).
+* In the absence of an [[Ambassador]], it is the responsibility of the [[Imperial Consul]] to inform the [[Feni]] of military action. (OOC Note: The [[Imperial Consul]] can email Profound Decisions at plot@profounddecisions.co.uk to inform them that the bag of food is being left at the [[Crossroads|crossroads]]. No other information can be included in this instruction).

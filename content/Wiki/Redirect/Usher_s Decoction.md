@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Usher_s Decoction
 aliases: ["Usher's_Decoction"]

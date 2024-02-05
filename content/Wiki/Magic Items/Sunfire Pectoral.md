@@ -14,4 +14,4 @@ Wearers often seem to be energetic and passionate, and are especially vocal abou
 ## Rules
 [[Mage]] Armour
 * Effect: You gain one additional point of personal mana and one additional rank of endurance.
-* [[Materials]]: Crafting a Sunfire Pectoral requires four measures of iridescent gloaming, four ingots of orichalcum and eight ingots of green iron. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Sunfire Pectoral]] requires four measures of [[Iridescent gloaming|iridescent gloaming]], four ingots of orichalcum and eight ingots of green iron. It takes one month to make one of these items.

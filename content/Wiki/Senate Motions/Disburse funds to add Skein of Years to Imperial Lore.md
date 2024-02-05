@@ -18,5 +18,5 @@ Disbursal of funds to place a [[Ritual|ritual]] developed by the halls of knowle
 ### Progress
 * 10 Thrones disbursed to [[Senator]] [[Morrow]]
 ### Outcome
-Adding a ritual to [[Imperial lore|Imperial Lore]] requires a [[Declaration]] of Imperial Lore from the [[Imperial Conclave]]. These funds are intended to pay for the ritual to be added, pending the decision of [[The Conclave|the Conclave]].
+Adding a ritual to [[Imperial lore|Imperial Lore]] requires a [[Declaration]] of [[Imperial lore|Imperial Lore]] from the [[Imperial Conclave]]. These funds are intended to pay for the ritual to be added, pending the decision of [[The Conclave|the Conclave]].
 __NOTOC__

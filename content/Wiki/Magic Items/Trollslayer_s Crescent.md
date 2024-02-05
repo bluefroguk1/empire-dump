@@ -26,22 +26,22 @@ Death-dealing axes-bright, star-metalled, blood-guzzlers,
 rainbow-like bladed, so keen-edged and sharp.
 Long-ago troll-slaying, monster-fell ancestors,
 nation-like following, down ages of time."
-Verse after verse came, in praise of the first [[Heroes|heroes]], and the nation of Steinr, the formation of [[Wintermark]] and of all that had come since, verses added with every new tale that the hall told of its heroes. Then the scop turned to the visitors, and in particular to a burn-scarred figure who had stayed at the back.
+Verse after verse came, in praise of the first [[Heroes|heroes]], and the nation of [[Steinr]], the formation of [[Wintermark]] and of all that had come since, verses added with every new tale that the hall told of its [[Heroes|heroes]]. Then the scop turned to the visitors, and in particular to a burn-scarred figure who had stayed at the back.
 "Hard-hammering, cold-quenching, white-forging weapon-craft, 
 tablet-like twisting, builds blade fast as light.
 Mistress of runesmiths-work, bone-carver, iron-worker,
 Karlsdottir, crafter, the finest of smiths.
 Long-toiling effort makes greatest of greatest gifts,
-Trollslayer's Crescent, blade bonded for war!
+Trollslayer's Crescent, blade bonded for [[War|war]]!
 Mighty makes mightier, great Kolti Koltisson, 
 Hero stands taller, the thane of our hall."
 The entire hall erupted as the rune-smith bowed, her name remembered now for as a long as the hall should endure. The scop smiled. Maybe it wasn't his best work, but he'd polish it later. After this much beer had flowed, no-one ever remembered the new verses anyway. 
 But they all knew the last one, always the last and always shouted by everyone, passed down the line of scops who had [[Sung|sung]] in this hall since [[The Empire|the Empire]] was founded. This was not a verse for harp, this was a verse for hammered tables and smashed drinking horns.
 "Axe-ready [[Glory|glory]]-torn, [[Wintermark]] newly-born,
-bonded like sword-edge, a nation for war.
-Ice-crafty [[Suaq]]-scouts, Steinr-line weapons high,
+bonded like sword-edge, a nation for [[War|war]].
+Ice-crafty [[Suaq]]-scouts, [[Steinr]]-line weapons high,
 storm-crows amongst us, wise [[Kallavesi]].
 [[First Empress]] came to us, [[Wisdom]] she spoke to us
 Empire like thanes-hall, nine nations as one.
-Soul-singing, gathered here, heroes of Kolti's hall! 
+Soul-singing, gathered here, [[Heroes|heroes]] of Kolti's hall! 
 These are our stories, they say who we are."

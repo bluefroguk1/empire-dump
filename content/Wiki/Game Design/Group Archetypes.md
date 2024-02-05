@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Group Archetypes
 aliases: ['Group_Archetypes']
 draft: False
@@ -22,7 +22,7 @@ See also: [[Archetype]]
 | Brass Coast towns always have at least one parador, a communal social house of [[Business|business]], [[Music|music]], story-telling, drinking and dance. They are often formed of a number smaller Families working together.
 |-
 |Hakima
-|Hakima are highly-organised groups of [[Magic|magic]]-users whose [[Loyalty|loyalty]] is to the [[Tribe|tribe]], not their family. They are taken to be wise.
+|Hakima are highly-organised groups of [[Magic|magic]]-users whose [[Loyalty|loyalty]] is to the [[Tribe|tribe]], not their [[Family|family]]. They are taken to be wise.
 |-
 ||Corsair
 |Freeborn corsairs are [[Traders|traders]] and privateers who deal with - and raid - [[Barbarian|barbarian]] shipping in the [[Bay of Catazar]].
@@ -58,7 +58,7 @@ See also: [[Archetype]]
 ### [[Imperial Orcs]]
 {|
 |Legion
-|Most [[Imperial Orcs]] are soldiers in one of the two Imperial Orc armies with the rest of their legion, fighting the enemies of [[The Empire|the Empire]]. For an Imperial Orc, their legion, their army, and the Empire itself were fundamental to their identity.
+|Most [[Imperial Orcs]] are soldiers in one of the two Imperial Orc armies with the rest of their legion, fighting the enemies of [[The Empire|the Empire]]. For an Imperial Orc, their legion, their army, and [[The Empire|the Empire]] itself were fundamental to their identity.
 |-
 |Reavers
 |Orcs who are not part of the Legions, they often work as prosperous mercenaries
@@ -86,7 +86,7 @@ See also: [[Archetype]]
 |A group of landskeepers with a shared interest may form a circle, often to protect and support the inhabitants of a certain region or territory.
 |-
 |Market Town
-|Market towns send representatives all over the Empire and beyond to secure deals, acquire trade goods, and negotiate contracts. They are rich, and their wealth brings a power of its own that may yet prove to be a match for that of the Households. They may be led by an Alder.
+|Market towns send representatives all over [[The Empire|the Empire]] and beyond to secure deals, acquire trade goods, and negotiate contracts. They are rich, and their wealth brings a power of its own that may yet prove to be a match for that of the Households. They may be led by an Alder.
 |-
 |Monastery
 |Monks minister to the spiritual welfare of the folk around their [[Monastery|monastery]], largely ignoring Household boundaries. They divide their time between study of the Imperial Faith and working the farmlands claimed by the [[Monastery|monastery]].
@@ -94,10 +94,10 @@ See also: [[Archetype]]
 ### [[Navarr]]
 {|
 |Striding
-|These are travelling groups that largely follow the established routes of the [[Trods|trods]] around the Empire. Walking the trods is necessary to weaken [[The Vallorn|the vallorn]] to allow the [[Navarr]] to attack it. The Navarr encourage individuals to choose the [[Striding|striding]] that is travelling in the direction they want to go, a philosophy that underpins their approach to life. 
+|These are travelling groups that largely follow the established routes of the [[Trods|trods]] around [[The Empire|the Empire]]. Walking the trods is necessary to weaken [[The Vallorn|the vallorn]] to allow the [[Navarr]] to attack it. The [[Navarr]] encourage individuals to choose the [[Striding|striding]] that is travelling in the direction they want to go, a philosophy that underpins their approach to life. 
 |-
 |Steading
-|A group of settled Navarr, whose responsibility can include ensuring no one stumbles into nearby [[Vallorn]]'s embrace.
+|A group of settled [[Navarr]], whose responsibility can include ensuring no one stumbles into nearby [[Vallorn]]'s embrace.
 |}
 ### [[Urizen]]
 {|
@@ -105,7 +105,7 @@ See also: [[Archetype]]
 |Spires of magicians are carved into a hilltop or the side of a mountain peak. [[Spires]] tend to specialise: a given [[Spire|spire]] might be known for its fine craftsmanship, the beauty and artistry of its musicians, its [[Dedication|dedication]] to martial affairs, or its mastery of one or more spheres of magical power. 
 |-
 |Citadel
-|Sentinel groups are based out of Citadels; spires dedicated to martial excellence.  These are usually groups without magic.
+|Sentinel groups are based out of Citadels; spires dedicated to martial excellence.  These are usually groups without [[Magic|magic]].
 |-
 |Temple
 |The sword scholars are being welcomed back into the fold.  Their rivalry with the Sentinels is well know; and their devotion to [[Wisdom]] equally fervent. 
@@ -122,7 +122,7 @@ See also: [[Archetype]]
 |A typical Varushkan settlement, led by a [[Boyar|boyar]], able to protect themselves against the darkness.
 |-
 |Cabalists
-|Cabals are teams of ritual magic-users, who often act as individual groups, independent of their vales. Each Cabal is different from each other, but their magical might grants them considerable influence.
+|Cabals are teams of ritual [[Magic|magic]]-users, who often act as individual groups, independent of their vales. Each Cabal is different from each other, but their magical might grants them considerable influence.
 |}
 ### [[Wintermark]]
 {|

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: How to submit a background
 aliases: ['How_to_submit_a_background']

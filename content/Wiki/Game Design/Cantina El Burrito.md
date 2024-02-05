@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Cantina El Burrito
 aliases: ['Cantina_El_Burrito']
 draft: False

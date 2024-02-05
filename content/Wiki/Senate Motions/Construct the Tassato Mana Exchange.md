@@ -10,21 +10,21 @@ revision_id: 86661
 
 To [[Commission|commission]] a mana [[Ministry|ministry]] in [[Tassato]]
 The [[Tassato]] Mana Exchange
-Proposed by Tassato, Seconded by [[Kahraman]] 
+Proposed by [[Tassato]], Seconded by [[Kahraman]] 
 ### Overview
-* A [[Ministry]] in Tassato arranging the purchase of Mana Crystals
+* A [[Ministry]] in [[Tassato]] arranging the purchase of Mana Crystals
 * Passed in principle
 * Passed at 80 Thrones
 ### Date
 * [[Winter]] 379YE
 ### [[Cost]]
-* The motion does not specify the size of the ministry, but standard costs apply.
+* The motion does not specify the size of the [[Ministry|ministry]], but standard costs apply.
 ### Progress
-* 80 Thrones disbursed to [[Senator]] Tassato
+* 80 Thrones disbursed to [[Senator]] [[Tassato]]
 * 16 wains of [[Mithril|mithril]] supplied by Cesare Sanguineo Rezia Di Tassato after [[Spring]] Equinox 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
 * The mana exchange has now been constructed in Mestra in Tassato
 * The [[Imperial Title|Imperial title]] of [[Steward of the Tassato Mana Exchange]] is a [[League]] national [[Appointment|appointment]].
 ### Constitution
-* No information is provided as to how large this ministry is. The [[Senator|senator]] may decide this.
+* No information is provided as to how large this [[Ministry|ministry]] is. The [[Senator|senator]] may decide this.
 __NOTOC__

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Contact Profound Decisions
 aliases: ['Contact_Profound_Decisions']
 draft: False
@@ -12,7 +12,7 @@ tags: ['Game-Design']
 Email is the best way to [[Contact us|contact us]]. Please pick the single most appropriate contact and send your email ''to that address only''. We try to respond to all emails quickly but please bear in mind that we receive over a hundred emails a [[Day|day]] during busy periods. 
 Before e-mailing, please bear in mind this guidance by Matt which [[Will|will]] ensure your e-mail is processed in the most efficient manner.
 ### [[Accessibility]]
-* [mailto:[[Accessibility|accessibility]]@profounddecisions.co.uk accessibility@profounddecisions.co.uk] - To get help or information with any issues relating to Accessibility at [[Events|events]].
+* [mailto:[[Accessibility|accessibility]]@profounddecisions.co.uk [[Accessibility|accessibility]]@profounddecisions.co.uk] - To get help or information with any issues relating to [[Accessibility]] at [[Events|events]].
 ### [[Feedback]]
 * [mailto:[[Feedback|feedback]]@profounddecisions.co.uk feedback@profounddecisions.co.uk] - Feedback is vital in helping us to improve our [[Events|events]], please email [[The Empire|the Empire]] address directly with any feedback you have from an event.
 ### [[Online]] [[Moderation]]
@@ -20,7 +20,7 @@ Before e-mailing, please bear in mind this guidance by Matt which [[Will|will]] 
 ### [[Conduct]]
 * [mailto:[[Conduct|conduct]]@profounddecisions.co.uk conduct@profounddecisions.co.uk] - Any issues to do with the Conduct of other participants are best sent direct to the conduct team for the fastest possible response - but you can contact individual members of the team directly if you prefer.
 ### [[Crewing]]
-* [mailto:crew@profounddecisions.co.uk crew@profounddecisions.co.uk] - Email the crew team if you are interested in helping out with events.
+* [mailto:crew@profounddecisions.co.uk crew@profounddecisions.co.uk] - Email the crew team if you are interested in helping out with [[Events|events]].
 ### Questions about Empire
 * [mailto:rules@profounddecisions.co.uk rules@profounddecisions.co.uk] - This is the email to use for any queries about the rules for Empire.
 * [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk] - This is the email to use for any queries about [[The Empire|the Empire]] setting or plot - as well as for information submitted for [[Player Events|player events]]. This is also the email to use for submitting alternative mandates.
@@ -30,7 +30,7 @@ Before e-mailing, please bear in mind this guidance by Matt which [[Will|will]] 
 * [mailto:civil.service@profounddecisions.co.uk civil.service@profounddecisions.co.uk] - This is the email for booking requests for spaces run by the Civil Service.
 * [mailto:academy@profounddecisions.co.uk academy@profounddecisions.co.uk] - This is the email for contacting [[The Academy]] staff
 ### Questions about your account
-* [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] - for all queries about your account, booking for events, payments and refunds.
+* [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] - for all queries about your account, booking for [[Events|events]], payments and refunds.
 ## Phone
 You are welcome to phone the office on  0845 0944 798 and we’ll take your call during normal working hours. We’re often working late in the office, so you are welcome to try your luck calling during out of office hours, but we can’t guarantee a response.
 ## Address

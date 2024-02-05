@@ -15,12 +15,12 @@ Hush me neighbour hush and listen, and his cheeks were all a-glow,
 I bear orders from [[The Captain|the captain]]; get you ready quick and soon,
 For the bills must be together at [[The Rising of the Moon|the Rising of the Moon]].
 Chorus:
-At [[The Rising of the Moon|the rising of the moon]], at the rising of the moon
-The bills must be together at the rising of the moon
+At [[The Rising of the Moon|the rising of the moon]], at [[The Rising of the Moon|the rising of the moon]]
+The bills must be together at [[The Rising of the Moon|the rising of the moon]]
 Oh, then tell me John of Barrow, where the gathering is to be?
 In the old spot by the river, right well known to you and me
 One more word for signal token, whistle up the marching tune.
-With your bill upon your shoulder at the rising of the moon
+With your bill upon your shoulder at [[The Rising of the Moon|the rising of the moon]]
 Chorus:
 At the rising of the moon, at the rising of the moon,
 With your bill upon your shoulder at the rising of the moon

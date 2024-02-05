@@ -12,7 +12,7 @@ __NOTOC__
 To ratify the treaty with the [[Sarcophan Delves]] as detailed below
 Trade Treaty between [[The Empire|the Empire]], as represented by the [[Imperial Consul]] on behalf of the [[Imperial Senate]], and the Bedelaar-Huisbaas Vandersaar, as represented by Edwin Vandersaar.
 * That the Bedelaar-Huisbaas Vandersaar do agree to make available 24 wains of [[White granite|white granite]] to [[The Empire|the Empire]] each season
-* That the Empire may purchase said granite at a [[Cost|cost]] of:
+* That [[The Empire|the Empire]] may purchase said granite at a [[Cost|cost]] of:
 ::32 crowns for the first 8 wains
 ::29 crowns for the second 8 wains
 ::26 crowns for the last 8 wains
@@ -34,7 +34,7 @@ Proposed by [[Miaren]], Seconded by [[Zenith]]
 * Time: 3 months
 ### Campaign
 * The [[Senator]] has indicated the intention to build the docks mentioned in Cargo, in the [[Urizen]] [[Territory|territory]] of [[Redoubt]].
-* The treaty has been ratified by the Bedelaar Husibas of the Sarcophan Delves and work may begin following the [[Winter]] Solstice 380YE.
+* The treaty has been ratified by the Bedelaar Husibas of the [[Sarcophan Delves]] and work may begin following the [[Winter]] Solstice 380YE.
 * As a [[Ministry|ministry]], the docks do not have an upkeep. The suggestion they did was in error.
 ### Constitution
 [[The Bourse]] shall control access to those resources that are essential to the [[Prosperity|prosperity]] of any great empire.

@@ -19,5 +19,5 @@ To cede the town of Trajadoz in [[Madruga]] to the Marracossans living there, an
 No costs to [[The Empire|the Empire]]
 ## Outcome
 * The town of Trajadoz in Mardruga now belongs to the Maracossan exiles, who are free to operate there as they please. This [[Will|will]] include the ability to construct buildings - such as the temple they have previously requested - if they have the [[Materials|materials]]. 
-* It also creates a title, the ''[[Marracossa Sendito]]'', who [[Will|will]] represent the Empire to the Marracossans, and vice versa. They also gain access to a [[Ministry]] allowing them to purchase some of the [[Magic Items]] the émigré artisans can create - some of which are unknown in the Empire.
-* The title is a Brass Coast national position, and will be appointed annually at the [[Spring]] Equinox by [[Tally of the Votes]].
+* It also creates a title, the ''[[Marracossa Sendito]]'', who [[Will|will]] represent [[The Empire|the Empire]] to the Marracossans, and vice versa. They also gain access to a [[Ministry]] allowing them to purchase some of the [[Magic Items]] the émigré artisans can create - some of which are unknown in [[The Empire|the Empire]].
+* The title is a Brass Coast national position, and [[Will|will]] be appointed annually at the [[Spring]] Equinox by [[Tally of the Votes]].

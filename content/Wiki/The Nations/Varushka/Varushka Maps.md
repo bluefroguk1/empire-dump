@@ -10,7 +10,7 @@ tags: ['Maps', 'Varushka']
 
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Varushka|varushka]].jpg
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:[[Varushka]]-regions.png
-640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-varushka-texture.jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Varushka|varushka]]-texture.jpg
 ### See Also
 * [[Karov]]
 * [[Karsk]]

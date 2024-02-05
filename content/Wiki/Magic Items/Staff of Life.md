@@ -14,4 +14,4 @@ It is common to see a [[Staff of Life]] wrapped in words of [[Magic|magic]]; the
 ## Rules
 Staffs
 * Effect: You may cast, or swift cast, the spells [[Heal]], [[Purify]] and [[Restore Limb]] as if you know them.
-* [[Materials]]: Crafting a Staff of Life requires five measures of [[Iridescent gloaming|iridescent gloaming]], seven ingots of [[Weltsilver|weltsilver]] and ten ingots of beggar's lye. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Staff of Life]] requires five measures of [[Iridescent gloaming|iridescent gloaming]], seven ingots of [[Weltsilver|weltsilver]] and ten ingots of beggar's lye. It takes one month to make one of these items.

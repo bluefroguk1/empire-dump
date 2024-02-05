@@ -22,9 +22,9 @@ To [[Commission]] an Imperial Varushkan Army, the [[Iron Helms]], to [[Muster|mu
 * This is the result of an [[Opportunity|opportunity]] detailed here
 ### Progress
 * 40 wains of [[Mithril|mithril]] provided by Maximov Goraniv Strascovich after [[Winter]] Solstice 379YE.
-* 40 wains of mithril provided by Maximov Goraniv Strascovich after [[Spring]] Equinox 380YE.
-* 40 wains of mithril provided by Maarit Akkova Cendro after [[Summer]] Solstice 380YE.
-* 40 wains of mithril and 40 thrones provided by Maarit Akkova Cendro after Autumn Equinox 380YE.
+* 40 wains of [[Mithril|mithril]] provided by Maximov Goraniv Strascovich after [[Spring]] Equinox 380YE.
+* 40 wains of [[Mithril|mithril]] provided by Maarit Akkova Cendro after [[Summer]] Solstice 380YE.
+* 40 wains of [[Mithril|mithril]] and 40 thrones provided by Maarit Akkova Cendro after Autumn Equinox 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* A new Varushkan army [[Will|will]] [[Muster|muster]] in Karsk.
-* This motion is connected to an [[Opportunity]] relating to Varushkan forces already in Karsk, especially the inhabitants of Branoc and Moresvah.
+* A new Varushkan army [[Will|will]] [[Muster|muster]] in [[Karsk]].
+* This motion is connected to an [[Opportunity]] relating to Varushkan forces already in [[Karsk]], especially the inhabitants of Branoc and Moresvah.

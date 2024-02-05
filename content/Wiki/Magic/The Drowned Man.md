@@ -13,8 +13,8 @@ Things End
 ### The [[Constellation]]
 [[The Drowned Man]] contains eleven stars, the brightest of which forms the ‘foot’. The ‘arms’ stretch between the head of [[The Phoenix]] and the right side of [[The Mountain]].
 ### Symbolism
-[[The Drowned Man]] is an ill omened constellation especially feared in [[The League|the League]] and [[The Brass Coast|the Brass Coast]]. It marks the end of things, but not necessarily as part of the natural cycle. The Drowned Man marks abrupt endings where things are left incomplete; work half done, lives half lived, ambitions unresolved and loves unrequited. Its endings often come through violence or ill fortune – among the [[Navarr]] and the [[Kallavesi]] it is called the ''hanged man''.
-The Drowned Man is a powerful sign of ill fortune, doom, and violence; [[League]] sailors cursed under the stars of the Drowned Man commonly refuse to leave port.
+[[The Drowned Man]] is an ill omened constellation especially feared in [[The League|the League]] and [[The Brass Coast|the Brass Coast]]. It marks the end of things, but not necessarily as part of the natural cycle. [[The Drowned Man]] marks abrupt endings where things are left incomplete; work half done, lives half lived, ambitions unresolved and loves unrequited. Its endings often come through violence or ill fortune – among the [[Navarr]] and the [[Kallavesi]] it is called the ''hanged man''.
+[[The Drowned Man]] is a powerful sign of ill fortune, doom, and violence; [[League]] sailors cursed under the stars of [[The Drowned Man|the Drowned Man]] commonly refuse to leave port.
 This figure is seen by some [[Merrow]], especially those of [[Urizen]], as a symbol of hubris: "Just because you have gills doesn't mean all the pearls belong to you." They do not associate it with death and doom as so many others do but instead see it as a lesson – do not overreach yourself and swim too deep.
 A large, ancient earthworks in [[Reikos]], named the Sign of Tamar appears to depict this constellation.
 ### Invoking the Drowned Man in [[Magic|magic]]

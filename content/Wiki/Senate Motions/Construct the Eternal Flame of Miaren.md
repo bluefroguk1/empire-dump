@@ -12,7 +12,7 @@ __NOTOC__
 I, the [[Civilian Commissioner]] of [[Navarr]] [[Commission|commission]] the construction of the [[Eternal Flame of Miaren]]. Approved by the [[Civilian Commissioner]] of [[Navarr]]
 ### Overview
 * A [[Sinecure]] that produces mana crystals in Seren, [[Miaren]]
-* This motion was approved by the Civilian Commissioner of Navarr using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This motion was approved by the [[Civilian Commissioner]] of [[Navarr]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Winter]] 380YE
 ### [[Cost]]
@@ -22,5 +22,5 @@ I, the [[Civilian Commissioner]] of [[Navarr]] [[Commission|commission]] the con
 ### Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns provided by Bronwyn Kane
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, the construction created a new national title within Navarr, [[Eternal]] Flame of [[Miaren]]..
+* Once completed, the construction created a new national title within [[Navarr]], [[Eternal]] Flame of [[Miaren]]..
 * Certain necessary details were required before construction could be started.

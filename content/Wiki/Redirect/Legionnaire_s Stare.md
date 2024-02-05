@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Legionnaire_s Stare
 aliases: ["Legionnaire's_Stare"]

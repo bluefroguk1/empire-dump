@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Appoint Commonwealth ambassador II
 aliases: ['Appoint_Commonwealth_ambassador_II']

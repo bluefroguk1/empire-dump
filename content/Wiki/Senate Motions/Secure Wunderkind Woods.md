@@ -24,4 +24,4 @@ A motion to secure the Wunderkind Woods recognising the Rebeshi Players as Guard
 CommissionProgress|Wunderkind_Woods
 ## Outcome
 * Allows the Rebeshi Players to cultivate the Blood Orchard, and harvest both [[Vis]] and wood from the twisted trees.
-* Creates the [[Tender of the Blood Orchard]] [[Imperial Title]] to liaise with the Rebeshi Players, and in return be able to purchase the valuable Winter vis. The title [[Will|will]] be appointed by unanimous decision of the senators of [[The League]].
+* Creates the [[Tender of the Blood Orchard]] [[Imperial Title]] to liaise with the Rebeshi Players, and in return be able to purchase the valuable Winter [[Vis|vis]]. The title [[Will|will]] be appointed by unanimous decision of the senators of [[The League]].

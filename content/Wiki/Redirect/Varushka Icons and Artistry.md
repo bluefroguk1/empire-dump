@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Varushka Icons and Artistry
 aliases: ['Varushka_Icons_and_Artistry']

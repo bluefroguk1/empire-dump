@@ -14,7 +14,7 @@ Raised on behalf of the [[Archmage of Summer]], Solomon, in pursuit of the suppo
 ''Proposed by [[Madruga]], Seconded by [[Morrow]]''
 __NOTOC__
 ## Overview
-* Construct a "treasure ship" that will be sacrificed to [[Rhianos]] once completed.
+* Construct a "treasure ship" that [[Will|will]] be sacrificed to [[Rhianos]] once completed.
 * Passed
 ## Date
 * [[Autumn]] 381YE

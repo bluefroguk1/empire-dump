@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Historical Empresses and Emperors
 aliases: ['Historical_Empresses_and_Emperors']

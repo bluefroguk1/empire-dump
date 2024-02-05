@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Reaver_s Waraxe
 aliases: ["Reaver's_Waraxe"]

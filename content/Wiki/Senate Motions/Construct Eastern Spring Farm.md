@@ -16,9 +16,9 @@ Announcement by bearer of an [[Imperial Orc Wayleave]], Palerictus Krunk. To bui
 ## Date
 * [[Autumn]] 382YE
 ## [[Cost]]
-* This Sinecure uses standard costs.
+* This [[Sinecure]] uses standard costs.
 * The size of the [[Commission|commission]] has not been specified.
 ## Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns provided by Palerictus Krunk after Autumn Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Sinecure [[Will|will]] create an [[Imperial Title]], Farmer of Eastern Spring [[Farm]]
+* When complete, the [[Sinecure]] [[Will|will]] create an [[Imperial Title]], Farmer of Eastern Spring [[Farm]]

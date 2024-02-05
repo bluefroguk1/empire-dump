@@ -12,7 +12,7 @@ __NOTOC__
 To construct the [[Zemress]] Naval Academy. Open to imperial students for study, research, and sharing of techniques of naval warfare, in [[Madruga]]. To be self funded.
 ## Overview
 * Commissions the [[Zemress]] Naval Academy; School of Blood and Brass, allowing [[The Empire|the Empire]] to study and research techniques of naval warfare, in [[Madruga]].
-* Further details on the Zemress Naval Academy can be found here
+* Further details on the [[Zemress]] Naval Academy can be found here
 * Passed
 ## Date
 * [[Summer]] 384YE

@@ -25,4 +25,4 @@ To construct an annexe to the Lyceum. [[Opportunity]] from [[Sadogua]] via the D
 ## Progress
 * 6 wains of [[Weirwood]], 4 wains of [[Mithril]], and 20 Crowns provided by The Empty One after the Autumn Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-With the completion of the Quiet Annexe the the [[Dean of the Lyceum]] is now able to use iridescent gloaming to speed the codification of [[Rituals|rituals]] as long as the [[Eternal|eternal]] Sadogua has not been judged an enemy of the [[Imperial Conclave]].
+With the completion of the Quiet Annexe the the [[Dean of the Lyceum]] is now able to use [[Iridescent gloaming|iridescent gloaming]] to speed the codification of [[Rituals|rituals]] as long as the [[Eternal|eternal]] [[Sadogua]] has not been judged an enemy of the [[Imperial Conclave]].

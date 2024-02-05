@@ -13,7 +13,7 @@ Announcement: I [[Commission|commission]] research into Aneira Dancewalker, thou
 Announced by Eleri Bronwen's Rest, [[Dredgemaster of Feverwater]].
 ### Overview
 * [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service.
-* [[Historical research|Historical Research]] request announced by the [[Dredgemaster of Feverwater]] using the legal powers to announce historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the [[Dredgemaster of Feverwater]] using the legal powers to announce [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Summer]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]

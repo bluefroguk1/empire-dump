@@ -13,14 +13,14 @@ This is our page on the [[Sanctions|sanctions]] we may impose if we determine ou
 ## Overview
 If we are satisfied that a person's behaviour violates our Conduct rules, our conduct team [[Will|will]] decide what course of action is appropriate to take. This page outlines the [[Sanctions|sanctions]] the conduct team can impose, as well as a range of additional restrictions we may put in place if we issue a formal warning.
 We may also issue cautions, formal warnings or bans for cheating or for non-payment of ticket fees. (Reports about cheating are investigated and dealt with by [[The Empire|the Empire]] [[Referee]] team rather than the conduct team. Issues such as non-payment, drug abuse at [[Events|events]], or breaches of [[Terms and conditions|terms and conditions]] are dealt with by the [[Profound Decisions management team]].)
-All details of any sanctions issued by Profound Decisions are subject to our rules for confidentiality.
+All details of any [[Sanctions|sanctions]] issued by Profound Decisions are subject to our rules for confidentiality.
 __TOC__
 ## Cautions, Warnings and Bans
 * The conduct team [[Will|will]] review reported breaches of the conduct rules
-* They will decide whether to issue a caution, a formal warning, or permanent ban
-*They will not issue a caution or formal warning if the person who made the report has asked them not to
+* They [[Will|will]] decide whether to issue a caution, a formal warning, or permanent ban
+*They [[Will|will]] not issue a caution or formal warning if the person who made the report has asked them not to
 * A permanent record is kept of all reports and investigations
-If we are satisfied that a person's behaviour violates our Conduct rules then our conduct team will issue either a caution, a formal warning, or a ban, depending on the nature and severity of the incident. 
+If we are satisfied that a person's behaviour violates our Conduct rules then our conduct team [[Will|will]] issue either a caution, a formal warning, or a ban, depending on the nature and severity of the incident. 
 The conduct team will not impose a caution on an individual or give them a formal warning if you have asked us not to do so. We will only override your request if we feel we need to permanently ban someone to remove a substantial risk of serious harm.
 We keep a permanent record of all reports and investigation to allow us to identify patterns of behaviour over time.
 ### Caution
@@ -32,7 +32,7 @@ In some circumstances, if we issue a caution, we may also impose a range of addi
 If we receive a report about an individual for the same behaviour they have been cautioned for in the past, then we may issue that player with a formal warning.
 ### Formal Warning
 * A formal warning is issued any time a breach of conduct is serious or intentional
-* If we issue a formal warning, we may also impose additional restrictions on roleplaying or access to areas at events
+* If we issue a formal warning, we may also impose additional restrictions on roleplaying or access to areas at [[Events|events]]
 * Any individual who is due to receive a second formal warning is likely to be permanently banned
 If the reported behaviour was part of a pattern of unacceptable behaviour, if it was serious in nature, or if we judge that the behaviour was deliberate, then we will issue the participant with a formal warning.
 The subject of a formal warning ''must'' avoid repeating the behaviour in future to avoid receiving a permanent ban. 
@@ -41,9 +41,9 @@ If someone has received a formal warning, any further reports about their behavi
 * If there is a second report, from another participant, that someone has repeated behaviour they have already received a formal warning for
 * Any subsequent behaviour that the conduct team judges would result in a second formal warning
 * Any recriminations towards the person who made the report
-In some cases, the conduct team will issue an immediate ban for a first offence. These are cases where the conduct team has judged that an incident is serious and the facts are beyond reasonable doubt, or where we believe someone represents a significant risk to the safety of participants at our events.
+In some cases, the conduct team will issue an immediate ban for a first offence. These are cases where the conduct team has judged that an incident is serious and the facts are beyond reasonable doubt, or where we believe someone represents a significant risk to the safety of participants at our [[Events|events]].
 ### Permanent Ban
-* A permanent ban can be issued where the conduct team judge that someone represents a significant risk to the safety of participants at events
+* A permanent ban can be issued where the conduct team judge that someone represents a significant risk to the safety of participants at [[Events|events]]
 *A permanent ban can be also issued where the incident is very serious and the conduct team believe the facts are inarguable
 *A permanent ban can be also issued when the same behaviour is repeated after a formal warning
 * Banned participants may not attend any further Empire events, or participate in any Profound Decisions moderated [[Online|online]] communities
@@ -100,5 +100,5 @@ We may also impose a ban prohibiting a player from engaging in specific activity
 ### Duration
 * When the conduct team issues additional restrictions, they are usually permanent
 * Restrictions imposed by other teams, for example for cheating, may have a fixed duration
-By default, any additional restrictions imposed by the conduct team are permanent, subject to agreement with the individual who reported the behaviour to us. Restrictions imposed by other teams may be permanent or they may expire after a fixed period of time. For example, we may ban someone from the battlefield for a year for cheating.
+By default, any additional restrictions imposed by the conduct team are permanent, subject to agreement with the individual who reported the behaviour to us. Restrictions imposed by other teams may be permanent or they may expire after a fixed period of time. For example, we may ban someone from [[The Battlefield|the battlefield]] for a year for cheating.
 Conduct Further Reading

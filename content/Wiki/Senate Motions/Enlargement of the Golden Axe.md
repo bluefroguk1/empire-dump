@@ -22,8 +22,8 @@ To enlarge the Varushkan army of the [[Golden Axe]].''Proposed by [[Karov]], sec
 * Six months to complete
 ## Progress
 * 25 wains of [[Mithril|mithril]] and 50 crowns provided by Pavel Novak after the [[Summer]] Solstice 382YE.
-* 25 wains of mithril and 50 crowns provided by Pavel Novak after the [[Autumn]] Equinox 382YE. 
-* 25 wains of mithril and 50 crowns provided by Pavel Novak after the [[Winter]] Solstice 382YE
-* 25 wains of mithril and 50 crowns provided by Pavel Novak after the [[Spring]] Equinox 383YE
+* 25 wains of [[Mithril|mithril]] and 50 crowns provided by Pavel Novak after the [[Autumn]] Equinox 382YE. 
+* 25 wains of [[Mithril|mithril]] and 50 crowns provided by Pavel Novak after the [[Winter]] Solstice 382YE
+* 25 wains of [[Mithril|mithril]] and 50 crowns provided by Pavel Novak after the [[Spring]] Equinox 383YE
 ## [[Campaign outcome|Campaign Outcome]]
-* The Golden Axe [[Will|will]] become a large army.
+* The [[Golden Axe]] [[Will|will]] become a large army.

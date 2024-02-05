@@ -25,6 +25,6 @@ to develop the Eye of Serenael to produce additional mana and [[Herbs|herbs]] by
 ### [[Autumn]] Equinox 382YE
 * This [[Commission|commission]] has lapsed
 ### Outcome
-* [[Will]] create a [[Great work|great work]] in Miaren.
-* Once complete it would safely channel the [[Magic|magic]] of the Eye of Serenael - and potentially several of the smaller [[Regio|regio]] - throughout Miaren. 
+* [[Will]] create a [[Great work|great work]] in [[Miaren]].
+* Once complete it would safely channel the [[Magic|magic]] of the Eye of Serenael - and potentially several of the smaller [[Regio|regio]] - throughout [[Miaren]]. 
 * Every [[Herb garden|herb garden]] would share in a seasonal bounty of 36 crystal mana, and every [[Mana site|mana site]] would share in a bounty of 54 random herbs.

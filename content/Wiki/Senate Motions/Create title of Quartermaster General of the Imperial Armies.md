@@ -27,5 +27,5 @@ When the title was created it was unclear which other powers, if any, this title
 * repair a [[Fortification|fortification]].
 * create a new [[Fortification|fortification]]. 
 If the title did possess one or more of these powers, they would still be procedurally announced to the Senate by the civil service (although no voting would be involved), and subject to the [[Veto|veto]] of the [[Imperial Synod]]. 
-The outcome of the procedural motions was to clarify that the Quartermaster [[General]] had the power only to resupply an Imperial army.
+The outcome of the procedural motions was to clarify that the Quartermaster [[General]] had the power only to resupply an [[Imperial army]].
 __NOTOC__

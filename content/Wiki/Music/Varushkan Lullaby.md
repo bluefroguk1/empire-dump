@@ -31,7 +31,7 @@ You shall be safe in all that you do.
 Though I ate auntie, your ma and your pa,
 I shall guard you wherever you are,
 Hospitality binds me, so don’t wander far,
-For I am wild but still of Varushka.
+For I am wild but still of [[Varushka]].
 The snow you rest in is white and cold,
 Frost gleaming as frozen crystals of gold,
 Soon you’ll be eaten unless you do fold,

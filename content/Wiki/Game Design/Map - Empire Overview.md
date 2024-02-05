@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Map - Empire Overview
 aliases: ['Map_-_Empire_Overview']
 draft: False

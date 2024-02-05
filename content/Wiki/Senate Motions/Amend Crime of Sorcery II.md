@@ -26,6 +26,6 @@ Proposed by [[Feroz]], Seconded by [[Redoubt]]
 ### Date
 * [[Summer]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The [[Declaration]] of Sorcery was amended.
+* The [[Declaration]] of [[Sorcery]] was amended.
 ### Constitution
 During [[Autumn]] 381YE some amendments were made to this [[Law|law]] by the Constitutional Court. This meant that the earlier prohibition against sorcerers possessing crystal mana was overturned. Earlier amendents had already changed the understanding that illegal items would be confiscated and given to the [[Imperial Conclave]]. Further details can be found here.

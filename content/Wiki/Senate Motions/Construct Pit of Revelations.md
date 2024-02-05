@@ -17,11 +17,11 @@ __NOTOC__
 ## Date
 * [[Spring]] 383YE
 ## [[Cost]]
-* This Sinecure uses standard costs
+* This [[Sinecure]] uses standard costs
 * 10 wains of [[Mithril|mithril]]
 * 20 crowns in labour costs
 * 3 months to construct
 ## Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns provided by Palerictus Krunk after the Spring Equinox 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Sinecure creates an [[Imperial Title]], [[Marshal of the Pit of Revelations]]
+* The [[Sinecure]] creates an [[Imperial Title]], [[Marshal of the Pit of Revelations]]

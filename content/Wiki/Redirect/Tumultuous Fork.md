@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tumultuous Fork
 aliases: ['Tumultuous_Fork']

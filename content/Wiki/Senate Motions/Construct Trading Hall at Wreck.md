@@ -23,4 +23,4 @@ To [[Commission|commission]] the Trading Hall at Wreck, a [[Ministry|ministry]] 
 ## Progress
 CommissionProgress|Trading_Hall_at_Wreck
 ## Outcome
-* Once complete the [[Mediator of Wreck]] will be able to send shipments of food to the [[Thule]] in the Silver Peaks in exchange for rings of Ilium.
+* Once complete the [[Mediator of Wreck]] [[Will|will]] be able to send shipments of food to the [[Thule]] in the Silver Peaks in exchange for rings of [[Ilium]].

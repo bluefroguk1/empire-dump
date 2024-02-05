@@ -14,9 +14,9 @@ The [[Abbess of Reconciliation]] was created when the [[Imperial Senate]] voted 
 The [[Abbess of Reconciliation]] is responsible for supporting ex-slaves and refugees; bringing them into [[The Way|the Way]]; and providing them with [[Opportunities|opportunities]] to work and recover in [[The Empire|the Empire]]. If the Abbey were to be threatened in any way, it would be the responsibility of the Abbess to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Abbey, the Abbess would expect to be consulted as to how that [[Opportunity|opportunity]] might be resolved.
 ## Powers
 ### Bounty of [[Herbs]]
-The Abbess of Reconciliation receives an income of 6 drams of [[True Vervain|true vervain]], 4 drams each of [[Cerulean Mazzarine|cerulean mazzarine]] and [[Imperial Roseweald|imperial roseweald]], and 2 drams each of [[Bladeroot]] and [[Marrowort]] each season from the Abbey.
+The [[Abbess of Reconciliation]] receives an income of 6 drams of [[True Vervain|true vervain]], 4 drams each of [[Cerulean Mazzarine|cerulean mazzarine]] and [[Imperial Roseweald|imperial roseweald]], and 2 drams each of [[Bladeroot]] and [[Marrowort]] each season from the Abbey.
 ## [[Appointment]]
-The Abbess of Reconciliation is a Highborn [[Appointment]] made by a [[Judgement]] of the [[Highguard]] National [[Assembly]]. This is a national title and can only be held by a Highborn citizen.
-As with most sinecures, this appointment has [[Tenure]]. The assumption is that the Abbess retains the position until they die or step down. They can be revoked by a lesser majority of the [[General]] [[Assembly]], the [[Assembly of the Nine]], or by the Highborn [[National Assembly]].
+The [[Abbess of Reconciliation]] is a Highborn [[Appointment]] made by a [[Judgement]] of the [[Highguard]] National [[Assembly]]. This is a national title and can only be held by a Highborn citizen.
+As with most sinecures, this [[Appointment|appointment]] has [[Tenure]]. The assumption is that the Abbess retains the position until they die or step down. They can be revoked by a lesser majority of the [[General]] [[Assembly]], the [[Assembly of the Nine]], or by the Highborn [[National Assembly]].
 RecentElections|Abbess_of_Reconciliation
 Responsibilities Expectation

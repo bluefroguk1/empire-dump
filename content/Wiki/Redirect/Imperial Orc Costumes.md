@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Imperial Orc Costumes
 aliases: ['Imperial_Orc_Costumes']

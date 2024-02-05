@@ -25,6 +25,6 @@ To build defenses at [[Holberg]]
 ### Progress
 * Paid by Oksana Kazaku, [[Senator|senator]] for [[Temeschwar]] in Spring Equinox [[Downtime|downtime]]
 ### [[Campaign outcome|Campaign Outcome]]
-* Walls of Holberg restored to full strength.
-The resources committed to the project allowed plans put forward by [[The League|the League]] engineer Rhiner Van Hesselman to be implemented. The defenses of Holberg were repaired to pre-siege levels, despite the fact that the [[Territory|territory]] was not under Imperial control at the time.
+* Walls of [[Holberg]] restored to full strength.
+The resources committed to the project allowed plans put forward by [[The League|the League]] engineer Rhiner Van Hesselman to be implemented. The defenses of [[Holberg]] were repaired to pre-siege levels, despite the fact that the [[Territory|territory]] was not under Imperial control at the time.
 __NOTOC__

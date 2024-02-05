@@ -13,11 +13,11 @@ I, Sian [[Eternal]], use my power of [[Historical research|historical research]]
 Announced by Siân [[Eternal]], [[Advisor on the Vallorn]].
 ### Overview
 * [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service.
-* Historical Research request announced by the Advisor on [[The Vallorn|the Vallorn]] using the legal powers to announce historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the Advisor on [[The Vallorn|the Vallorn]] using the legal powers to announce [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### [[Cost]]
 * 5 Thrones
 ### Progress
-* 5 Thrones provided by Siân Eternal after [[Autumn]] Equinox 381YE.
+* 5 Thrones provided by Siân [[Eternal]] after [[Autumn]] Equinox 381YE.
 ### Date
 * Autumn 381YE
 ### [[Campaign outcome|Campaign Outcome]]

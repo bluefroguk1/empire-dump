@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Spontaneous magic
 aliases: ['Spontaneous_magic']

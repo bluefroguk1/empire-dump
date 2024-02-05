@@ -31,7 +31,7 @@ Any character with the Weapon Master skill may use a weapon up to 60" long provi
 *Must be between 60” and 84” long
 *You must hold the weapon in both hands with at least 18” separating them
 *Can have a thrust-safe tip
-Any character with the Weapon Master skill may use a weapon between 60" and 84" long provided you hold the weapon in both hands at all times and keep at least 18 inches separation between your hands during combat. This means that you cannot fight by sliding the polearm back and forth through your hands so that your hands meet - your hands must stay 18 inches apart throughout.
+Any character with the Weapon Master skill may use a weapon between 60" and 84" long provided you hold the weapon in both hands at all times and keep at least 18 inches separation between your hands during combat. This means that you cannot [[Fight|fight]] by sliding the polearm back and forth through your hands so that your hands meet - your hands must stay 18 inches apart throughout.
 If the weapon has a thrust-safe tip then you may make thrusting strikes with it.
 ### Pike
 *Must be over 84” and up to 108” long
@@ -137,13 +137,13 @@ If the wearer is hit by a CLEAVE or IMPALE heroic blow, that strikes a piece of 
 * This includes cardboard, tinfoil and paper.
 * Wool or other fabric coloured to look like chain is also not acceptable.
 * If in any doubt about what you're making your armour from, please email rules@profounddecisions.co.uk.
-Light-weight flimsy materials such as cardboard, tinfoil and paper cannot be counted as armour in Empire. Wool padding in gambesons and similar is fine, but you cannot use knitted wool or other fabric which is coloured to look like chain as armour either. These materials can be used to make mage armour if desired.
-### Mage Armour
-*You must have the battle mage skill to wear mage armour
+Light-weight flimsy [[Materials|materials]] such as cardboard, tinfoil and paper cannot be counted as armour in Empire. Wool padding in gambesons and similar is fine, but you cannot use knitted wool or other fabric which is coloured to look like chain as armour either. These [[Materials|materials]] can be used to make [[Mage|mage]] armour if desired.
+### [[Mage]] Armour
+*You must have the battle [[Mage|mage]] skill to wear mage armour
 *Must cover at least 3 locations including one of the chest, shoulders or waist
 *Provides 2 extra hits only
 *Does not protect against CLEAVE or IMPALE
-Mage armour is a magical talisman that protects you against harm but allows you to cast spells and perform rituals. The talisman is made up of several pieces fitted to the wearer's body to protect them. The parts of the talisman superficially resemble pieces of armour, but armour that is ornate and ceremonial rather than practical. They are often decorated with [[Runes|runes]], crystals, gems, or other magical accoutrements and it is clear that the armour protects the wearer through [[Magic|magic]] rather than by physically deflecting blows.
+Mage armour is a magical talisman that protects you against harm but allows you to cast spells and perform [[Rituals|rituals]]. The talisman is made up of several pieces fitted to the wearer's body to protect them. The parts of the talisman superficially resemble pieces of armour, but armour that is ornate and ceremonial rather than practical. They are often decorated with [[Runes|runes]], crystals, gems, or other magical accoutrements and it is clear that the armour protects the wearer through [[Magic|magic]] rather than by physically deflecting blows.
 Mage armour provides the wearer with two additional hits. Mage armour does not protect against CLEAVE or IMPALE. To qualify the talisman must include three of the following items including at least one of the first three items on the list:
 * Pauldrons (shoulders)
 * Pectorals (upper chest)

@@ -22,13 +22,13 @@ Oh na na na na na na na na etc
 [[One More Vodka|One more vodka]], one more drink
 It stops me having time to think
 Oh na na na na na na na na etc
-One more vodka, just the one
+[[One More Vodka|One more vodka]], just the one
 To drink until the morning sun
 Oh na na na na na na na na etc
-One more vodka, just the one
+[[One More Vodka|One more vodka]], just the one
 It's hard to stop now I've begun
 Oh na na na na na na na na etc
-One more vodka, one more glass
+[[One More Vodka|One more vodka]], one more glass
 It [[Will|will]] help the evening pass
 Oh na na na na na na na na etc
 One more vodka, one more glass

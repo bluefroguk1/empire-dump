@@ -14,10 +14,10 @@ When I was young I joined a [[Brand|brand]] new crew,
 Up walked [[The Captain|the captain]] he told me true,
 Lad if you true [[Grendel]] be,
 Go seek your fortune on the sea.
-As Grendel, we’re richer, we’re smarter too,
+As [[Grendel]], we’re richer, we’re smarter too,
 Behold our mighty ships as we sail the blue,
 All our foes route ask them they’ll say,
-There’s no doubt the Grendel rule the Bay.
+There’s no doubt the [[Grendel]] rule the Bay.
 Not much time later a week had passed,
 A laugh was heard from atop the mast,
 The spotter had sighted a [[Freeborn|freeborn]] sail,
@@ -31,7 +31,7 @@ I wondered what and I asked the man,
 He said see [[Sarvos]] that glittering jewel,
 [[The Empire|The empire]] has riches along her shores.
 A month [[Gone|gone]] by and a great success,
-Great Grendel discipline passed the test,
+Great [[Grendel]] discipline passed the test,
 [[Sarvos]] now [[Burning|burning]] in Grendel hands,
 Our troops scattered round to plunder their lands.
 A year later, and I’ve become first mate,

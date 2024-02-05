@@ -23,11 +23,11 @@ To build a [[Summer]] College dedicated to [[Cathan Canae]]''Proposed by [[Miare
 * Special: This college of Summer [[Magic|magic]] is being built to designs provided by the [[Eternal]] [[Cathan Canae]]; as such it differs from the standard [[Cost|cost]] to build a [[College of Magic]].
 ### Progress
 * 50 wains of [[White granite|white granite]], 10 wains of [[Mithril|mithril]], 30 wains of [[Weirwood|weirwood]], and 35 Thrones provided by Llewellyn Leafstalker after [[Autumn]] Equinox 379YE
-* 16 wains of mithril provided by Llewellyn Leafstalker after [[Winter]] Solstice 379YE
-* 40 wains of white granite and 4 wains of mithril provided by Llewellyn Leafstalker after [[Spring]] Equinox 380YE
+* 16 wains of [[Mithril|mithril]] provided by Llewellyn Leafstalker after [[Winter]] Solstice 379YE
+* 40 wains of [[White granite|white granite]] and 4 wains of [[Mithril|mithril]] provided by Llewellyn Leafstalker after [[Spring]] Equinox 380YE
 ### [[Campaign outcome|Campaign Outcome]]
 * The college is to be built in Volchitrava in [[Miekarova]].
 * The college [[Will|will]] be called The Icy Crag of the [[Eternal]] Sun.
 * The college is now complete creating the [[Imperial Title]] of [[Master of Ice and Darkness]].
-* The [[Senator|senator]] has decided that the [[Master of Ice and Darkness]] will be an Imperial Position assigned by [[Declaration|declaration]] of [[The Conclave|the Conclave]].
+* The [[Senator|senator]] has decided that the [[Master of Ice and Darkness]] [[Will|will]] be an Imperial Position assigned by [[Declaration|declaration]] of [[The Conclave|the Conclave]].
 __NOTOC__

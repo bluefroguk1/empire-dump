@@ -26,7 +26,7 @@ From olden days that are for-gotten
 Over the hills and then,
 Across the water.
 Chorus ''(Double time)''
-Down in the rugged glen,
+[[Down in the Rugged Glen|Down in the rugged glen]],
 From olden days that are for-gotten
 Over the hills and then,
 Across the water.
@@ -36,7 +36,7 @@ When ways we have [[Trod|trod]] converge into one,
 Full of grace,
 And gathering where we dance in the sun.
 Chorus
-Down in the rugged glen,
+[[Down in the Rugged Glen|Down in the rugged glen]],
 From olden days that are for-gotten
 Over the hills and then,
 Across the water.
@@ -46,7 +46,7 @@ The fires [[Will|will]] burn and brighten the [[Night|night]].
 Take my hand,
 And dance with me 'til the [[Dawn|dawn]]'s first light.
 Chorus
-Down in the rugged glen,
+[[Down in the Rugged Glen|Down in the rugged glen]],
 From olden days that are for-gotten
 Over the hills and then,
 Across the water.

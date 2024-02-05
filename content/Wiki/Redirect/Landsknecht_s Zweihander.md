@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Landsknecht_s Zweihander
 aliases: ["Landsknecht's_Zweihander"]

@@ -17,9 +17,9 @@ Meryl of [[Navarr]] to be given permission to scout then dredge for [[Materials|
 ### [[Cost]]
 * At least 10+ [[Weirwood]] - difficult to estimate. 
 ### Progress
-* 13 wains of [[Weirwood]] paid by Merel, of the Pathfinders of Therunin, [[Navarr]] after the [[Spring]] Equinox.
+* 13 wains of [[Weirwood]] paid by Merel, of the Pathfinders of [[Therunin]], [[Navarr]] after the [[Spring]] Equinox.
 ### Production
-* None expected. The dredging of the Feverwater has produced some small wealth in crafting [[Materials|materials]] at a reasonable rate, producing 4 each season. This is considered to be a Navarr National position, and as such voted on by the Navarr Senators.
+* None expected. The dredging of the Feverwater has produced some small wealth in crafting [[Materials|materials]] at a reasonable rate, producing 4 each season. This is considered to be a [[Navarr]] National position, and as such voted on by the [[Navarr]] Senators.
 ### Note
 * Brass Coast citizens use mundane nets to dredge the Scorrero, no magical netting techniques are known to the civil service. 
 * The Feverwater is known to be inhabited by swamp monsters which are likely to kill many Imperial Citizens attempting this. 

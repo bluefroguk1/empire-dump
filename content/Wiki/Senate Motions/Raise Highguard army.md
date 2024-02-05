@@ -20,7 +20,7 @@ To raise a new army to [[Muster|muster]] in [[Anvil]] under a [[Highguard]] [[Ge
 * 1 year to construct
 The army should have [[Cost|cost]] 250 wains of [[Mithril|mithril]].
 ### Progress
-* 150 Wains of Mithril supplied by Adamah, [[Senator]] for Necropolis, throughout 376.
+* 150 Wains of [[Mithril]] supplied by Adamah, [[Senator]] for [[Necropolis]], throughout 376.
 ### Production
 * 5000 pt Highborn army
 ### Election

@@ -16,4 +16,4 @@ To allow the [[Ambassador to Axos]] to offer [[Axos]] access to the [[Spy networ
 ## Date
 * [[Summer]] 382YE
 ## Outcome
-* The [[Ambassador]] has the support of [[The Senate|the Senate]] in issuing an invitation to Axos.
+* The [[Ambassador]] has the support of [[The Senate|the Senate]] in issuing an invitation to [[Axos]].

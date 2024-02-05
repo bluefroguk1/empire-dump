@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Swan_s Cruel Wing
 aliases: ["The_Swan's_Cruel_Wing"]

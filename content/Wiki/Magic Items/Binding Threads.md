@@ -19,8 +19,8 @@ Arcane Weapons
 "So: your rod and blade lose their [[Enchantment|enchantment]] in...."
 "A week. Made just after the festival last year. And yours?"
 "Two months. And between us we have?"
-"36 rings and two measures of ambergelt."
-"Not the seven of ambergelt, and [[Prosperity]] knows how much dragonbone we need then?"
+"36 rings and two measures of [[Ambergelt|ambergelt]]."
+"Not the seven of [[Ambergelt|ambergelt]], and [[Prosperity]] knows how much dragonbone we need then?"
 "No. Nor the three ingots of green iron..."
 "That presents a problem..."
 "Indeed." 
@@ -36,13 +36,13 @@ A sharp pain at his kidney, the trademan froze.
 "Perhaps no masks to be worn in your shop in future? Or may I advise retaining the services of a [[Bravo|bravo]]?" added the other, as he emptied the contents of small drawers, bowls and bags into a sack.
 [[The Door|The door]] shook with three hammering blows as a long-haired woman in the hood of an Imperial [[Thief-taker|thief-taker]] crashed in.
 "Halt in the name of [[The Empire|the Empire]]!"
-"Really? Or will it be you who halts..." said one of the robbers as he took guard. 
+"Really? Or [[Will|will]] it be you who halts..." said one of the robbers as he took guard. 
 Thrust and parry, riposte and beat. Glassware crashed to the floor and tables of stock were over-turned as the two circled and probed.  In a flurry of blows, the advantage of short blade and rod versus long sword in a confined space was clear. With a final balestra and lunge, the [[Thief-taker|thief-taker]]'s defences were pierced. She stood rooted to the spot, blood oozing from her shoulder.
 "Murder is such a foul word, and its penalty so severe... But that's simply a scratch, and with a lead of ten heartbeats? I doubt you'll catch us..."
 The other booted the back door of the shop, and the pair were away...
 An alleyway, shortly afterwards
 Panting a little, the pair removed their masks and stripped off their gaudy outer garments, revealing serviceable leathers underneath. Emptying the sack onto the alley-floor, one counted measures and ingots, while the other unfolded cloaks.
-"Do you know, that feels better already. Back to our true selves. Time for a holiday, I believe. Some Company will be hiring, of a certainty. Shall we to a low tavern, the sort frequented by fighters and those who like to think of themselves as such?"
+"Do you know, that feels better already. Back to our true selves. Time for a holiday, I believe. Some Company [[Will|will]] be hiring, of a certainty. Shall we to a low tavern, the sort frequented by fighters and those who like to think of themselves as such?"
 "To start a [[Fight|fight]], and see who's watching?"
 "Indubitably."
 "The Cozido?"

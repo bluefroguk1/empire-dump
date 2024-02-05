@@ -14,7 +14,7 @@ On [[Myfanwy of Hercynia]] and her travels and relationships with the [[First Em
 Announced by [[Dredgemaster of Feverwater]].
 ### Overview
 * [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service.
-* Historical Research request announced by the Fevermaster of Dredgewater using the legal powers to announce historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] request announced by the Fevermaster of Dredgewater using the legal powers to announce [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### [[Cost]]
 * 5 Thrones
 ### Progress

@@ -20,5 +20,5 @@ Motion: to decommission the [[Otkodov]] [[Spy network|spy network]].Proposed by 
 * 3 months to complete
 * 2 [[Throne]] upkeep is still paid for this season
 ### [[Campaign outcome|Campaign Outcome]]
-* The Spy network in [[Verthandi]] [[Will|will]] be rolled up discreetly.
-* Military units can no longer be assigned to the spy network
+* The [[Spy network]] in [[Verthandi]] [[Will|will]] be rolled up discreetly.
+* Military units can no longer be assigned to the [[Spy network|spy network]]

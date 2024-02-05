@@ -52,4 +52,4 @@ Hair like snow, eyes that gleam,
 Things aren’t always what they seem.
 Teeth too long, hands too thin –
 Always look [[Beneath the Skin|beneath the skin]]!
-Always look beneath the skin!
+Always look [[Beneath the Skin|beneath the skin]]!

@@ -16,5 +16,5 @@ To accept the treaty between the people of the [[Druj]] and the people of [[The 
 * Defeated [[Summer]] 379YE
 ### [[Campaign outcome|Campaign Outcome]]
 * The terms of the treaty were not accepted.
-* The Druj delegates were present during the discussion of the treaty and are aware it has been rejected. 
+* The [[Druj]] delegates were present during the discussion of the treaty and are aware it has been rejected. 
 __NOTOC__

@@ -18,4 +18,4 @@ To amend the national title of the [[Keeper of the Memorial Gardens of Treji]], 
 ## Outcome
 * Pending [[Scrutiny]], the title [[Will|will]] be appointed by the [[Imperial Orcs]] [[Senator|senator]].
 * Again pending [[Scrutiny|scrutiny]], it is likely that the incumbent [[Will|will]] retain the title until they die, step down, or are revoked.
-* This motion is only constitutional if it is now revoked by the [[Imperial Orcs]] rather than the Navarr [[National Assembly|national assembly]].
+* This motion is only constitutional if it is now revoked by the [[Imperial Orcs]] rather than the [[Navarr]] [[National Assembly|national assembly]].

@@ -16,11 +16,11 @@ To construct a mana [[Ministry|ministry]] in [[Skarsind]] named "the weavers' ma
 ### Date
 * [[Autumn]] 381YE
 ### [[Cost]]
-* Standard costs apply; this is only the minimum required to construct the ministry there is no upper limit.
+* Standard costs apply; this is only the minimum required to construct the [[Ministry|ministry]] there is no upper limit.
 * 12 wains of [[Mithril|mithril]]
 * 3 Thrones labour costs
 * 3 months to construct
 ### Progress
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-* The ministry automatically created the [[Imperial Title|Imperial title]] of Four Seasons' [[Boneweaver]] appointed by [[Imperial Orcs]] who own a [[Military unit]].
+* The [[Ministry|ministry]] automatically created the [[Imperial Title|Imperial title]] of Four Seasons' [[Boneweaver]] appointed by [[Imperial Orcs]] who own a [[Military unit]].

@@ -16,4 +16,4 @@ To declare the [[Feni]] [[Tribe|tribe]] “The Woods that fell” as foreigners.
 ## Date
 * [[Summer]] 382YE
 ## Outcome
-* The Woods-that-fell Feni are those Feni who fled when the sinkhole opened. Currently there is one large group in [[Hahnmark]] and one large group in the [[Mournwold]]. At preset both [[Groups|groups]] are still engaged in raiding from local settlements in the area.
+* The Woods-that-fell [[Feni]] are those [[Feni]] who fled when the sinkhole opened. Currently there is one large group in [[Hahnmark]] and one large group in the [[Mournwold]]. At preset both [[Groups|groups]] are still engaged in raiding from local settlements in the area.

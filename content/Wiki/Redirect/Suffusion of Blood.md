@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Suffusion of Blood
 aliases: ['Suffusion_of_Blood']

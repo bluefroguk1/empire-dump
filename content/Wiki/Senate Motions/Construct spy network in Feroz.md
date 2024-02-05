@@ -13,7 +13,7 @@ To construct a [[Spy network|spy network]] in [[Feroz]]
 ## Overview
 * Commissions a special [[Spy network]] in [[Feroz]], as outlined in the [[Bones in the ocean]] Wind of Fortune.
 * Announcement
-* [[The Senate]] had previously amended the power of the [[Imperial Orc Wayleave]] specifically to allow it to [[Commission|commission]] a spy network.
+* [[The Senate]] had previously amended the power of the [[Imperial Orc Wayleave]] specifically to allow it to [[Commission|commission]] a [[Spy network|spy network]].
 ## Date
 * [[Winter]] 383YE
 ## [[Cost]]

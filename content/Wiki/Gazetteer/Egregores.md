@@ -17,10 +17,10 @@ Each nation has a single [[Egregore|egregore]] spirit, created through [[Ritual|
 The [[Egregores|egregores]] are an effective channel for plot writers to deliver plot "news" to the players about what is going on in their nation. They are part of the player support team and to try to help players get involved in the plot and also involved in the politics of the nation. 
 They are a point of contact for Profound Decisions crew for players in a nation and [[Will|will]] have a covert radio. This radio is for emergency situations, for example, needing to contact first aid.
 Some of the [[Egregores|egregores]] are able to [[Referee|referee]] bindings and [[Rituals]]. You can check with your egregore if they are able to do this. If you wish to approach your egregore for non-urgent out-of-character [[Business|business]], please respect their roleplay and the roleplay of the people they are interacting with. Do not interrupt people who are roleplaying with the egregore with an out-of-character question unless it is urgent. Obviously, for a genuine emergency, you should get their attention as quickly as possible.
-Egregores are not there to make decisions for the nation or provide leadership or direction. They may take a role in their nation's elections - they may even vote, but their role is to support the nation, not to lead it.
+[[Egregores]] are not there to make decisions for the nation or provide leadership or direction. They may take a role in their nation's elections - they may even vote, but their role is to support the nation, not to lead it.
 Although any [[Magician|magician]] can open the [[Sentinel Gate]], to take an entire nation through requires an egregore to use their link to the nation to take them all through.
-There is no way to apply to become an Egregore - PD considers carefully potential candidates for Egregores and approaches them as and when they need them, partly because the requirements for the different nations can be quite varied.
-## Current Egregores
+There is no way to apply to become an Egregore - PD considers carefully potential candidates for [[Egregores]] and approaches them as and when they need them, partly because the requirements for the different nations can be quite varied.
+## Current [[Egregores]]
         Nation
         Egregore Name
         OOC names

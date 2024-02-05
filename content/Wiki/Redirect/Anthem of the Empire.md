@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Anthem of the Empire
 aliases: ['Anthem_of_the_Empire']

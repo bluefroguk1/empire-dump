@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Elixir of Empyrean Art
 aliases: ['The_Elixir_of_Empyrean_Art']

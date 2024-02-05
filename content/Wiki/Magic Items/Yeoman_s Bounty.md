@@ -14,7 +14,7 @@ The ''Yeoman's Bounty'' is a serviceable rod usually made of wood from the yew t
 Another unfavourable association with this rod is its usage in thefts and muggings, where a weaker member of the gang [[Will|will]] begin by using the rod against a wealthy, well-equipped target before their colleagues subdue and rob the victim. Some of the more notorious [[Bands|bands]] of bandits lurking in [[The Barrens]] employ these rods against the noble-born Questing knights who wear their wealth of their order.
 ## Rules
 Rods
-* Effect: You can cast the Weakness spell as if you knew it.
+* Effect: You can cast the [[Weakness]] spell as if you knew it.
 * [[Materials]]: Crafting a Yeoman's Bounty requires no special [[Materials|materials]]. It takes two months to make one of these items.
 "The Yeoman's Bounty he did claim
 An aching back his treasure
@@ -24,7 +24,7 @@ In blazing sun and driving rain
 He sowed and ploughed and scattered
 His every muscle felt the strain
 But his [[Will|will]] was never shattered.
-A Prouder man you will never meet;
+A Prouder man you [[Will|will]] never meet;
 [[Prosperity]] defines him
 [[Ambition]] guides his aching feet
 And [[Vigilance]] stands behind him

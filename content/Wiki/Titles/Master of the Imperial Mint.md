@@ -22,9 +22,9 @@ The Master of the Mint has the right to make a [[Senate address]] once per summi
 ### Seat on the Bourse
 The [[Master of the Imperial Mint]] is a Bourse position. It is an [[Imperial Title|Imperial title]] that grants the right to participate on the rare occasion when the [[Imperial Bourse]] as a body is required to make a decision, and take part in any auction of appointments.
 ### Access to the Accounts
-Each season the Master of the Mint receives a briefing from the office of the [[Imperial treasury|Imperial Treasury]], and a summary of the Imperial accounts. This usually involves a meeting with the auditor (currently Gerard La Salle). Only the Master of the Imperial Mint is privy to this information, and they have complete freedom as to how they use it and who they share it with.
+Each season the Master of the Mint receives a briefing from the office of the [[Imperial treasury|Imperial Treasury]], and a summary of the Imperial accounts. This usually involves a meeting with the auditor (currently Gerard La Salle). Only the [[Master of the Imperial Mint]] is privy to this information, and they have complete freedom as to how they use it and who they share it with.
 ### [[Proxy]]
-The Master of the Imperial Mint may appoint a [[Proxy]].
+The [[Master of the Imperial Mint]] may appoint a [[Proxy]].
 ## [[Appointment]]
 The Master of the Mint is appointed during the [[Spring]] Equinox each year. Election is by open auction, overseen by the civil service. 
 The title may only be held by a [[League]] citizen. As a title appointed through the Bourse, they cannot be revoked by the [[Imperial Synod]].

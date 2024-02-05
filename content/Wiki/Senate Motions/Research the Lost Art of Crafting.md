@@ -12,8 +12,8 @@ __NOTOC__
 I, the Minister for [[Historical research|Historical Research]], authorise research into the Lost Art of Crafting for House Guildenstern, of [[The Marches|the Marches]], after a [[Challenge|challenge]] from [[Barien]].
 Approved by the Minister for [[Historical research|Historical Research]]
 ### Overview
-* Historical Research concerning this topic has been commissioned through the civil service
-* Historical Research request approved by the [[Minister of Historical Research]] using the legal power to approve historical research delegated to them by [[The Senate|the Senate]].
+* [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service
+* [[Historical research|Historical Research]] request approved by the [[Minister of Historical Research]] using the legal power to approve [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Summer]] 380YE
 ### [[Cost]]

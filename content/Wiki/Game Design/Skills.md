@@ -58,8 +58,8 @@ revision_id: 84107
         Get it Together1
 * You may buy this skill multiple times. The [[Cost|cost]] increases by 1 point each time.
 ** You may buy this skill multiple times. The [[Cost|cost]] is the same each time.
-† This skill is a pre-requisite for all other [[Skills|skills]] in this section. You must buy this skill before buying any of the skills listed in the section below it.
-‡ Weapon master is a prerequisite for these two skills.
+† This skill is a pre-requisite for all other [[Skills|skills]] in this section. You must buy this skill before buying any of the [[Skills|skills]] listed in the section below it.
+‡ Weapon master is a prerequisite for these two [[Skills|skills]].
 You gain 1 additional xp (experience point)  every other event you attend. 
 Spending exp is not mandatory, and any unspent exp is saved. [[Characters]] who have not spent any exp can use the [[Apprentice Ability]]
 Character Creation Links

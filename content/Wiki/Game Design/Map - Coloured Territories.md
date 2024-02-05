@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Map - Coloured Territories
 aliases: ['Map_-_Coloured_Territories']
 draft: False

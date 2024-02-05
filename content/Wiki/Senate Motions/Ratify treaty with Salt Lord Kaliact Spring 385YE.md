@@ -21,6 +21,6 @@ Salt Lord Kaliact [[Will|will]]:
 * Cede the [[Territory|territory]] of [[Spiral]] and all holdings within it to [[The Empire|the Empire]]
 The Casinean Empire [[Will|will]]:
 * Assign the territory of [[Spiral]] to [[The League|the League]]
-* Allow those currently dwelling in Spiral, orc and human alike, to become citizens.
+* Allow those currently dwelling in [[Spiral]], orc and human alike, to become citizens.
 ## Outcome
 ## Constitution

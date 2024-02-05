@@ -24,8 +24,8 @@ To build the Bleak Tower, a [[Great work|great work]] in [[Morrow]]. To provide 
 * Six months to complete.
 ## Progress
 * 10 wains of [[Weirwood|weirwood]], 22 wains of [[White granite|white granite]], and 8 Thrones provided by Edmundo of Damakan's Forge after the Summer Solstice 382YE.
-* 20 wains of weirwood, 8 wains of white granite, and 7 thrones provided by Thalia of Netherwatch after the Spring Equinox 383YE.
+* 20 wains of [[Weirwood|weirwood]], 8 wains of [[White granite|white granite]], and 7 thrones provided by Thalia of Netherwatch after the Spring Equinox 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Great work [[Will|will]] distribute a share of 80 random [[Herbs|herbs]] through the [[Herb|herb]] gardens of Morrow.
+* The [[Great work]] [[Will|will]] distribute a share of 80 random [[Herbs|herbs]] through the [[Herb|herb]] gardens of [[Morrow]].
 * It creates an [[Imperial Title]] - [[Custodian of the Bleak Tower]] appointed by [[Urizen]] senators.
 * In addition to other effects the Custodian [[Will|will]] receive six doses of heart's blood each season.

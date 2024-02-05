@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Skar_s Strength
 aliases: ["Skar's_Strength"]

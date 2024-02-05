@@ -15,4 +15,4 @@ The schema for the talisman was developed by ''Gemma Brightsmith'', the [[Seer o
 ## Rules
 Jewellery
 * Effect: You gain the marksman skill.
-* [[Materials]]: Crafting a Lowther's Gaze requires twelve measures of dragonbone, nine ingots of Tempest jade, six measures of Ambergelt, and three ingots of Green iron. It takes one month to make one of these items.
+* [[Materials]]: Crafting a Lowther's Gaze requires twelve measures of dragonbone, nine ingots of Tempest jade, six measures of [[Ambergelt]], and three ingots of Green iron. It takes one month to make one of these items.

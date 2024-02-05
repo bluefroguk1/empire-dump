@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast music
 aliases: ['Brass_Coast_music']

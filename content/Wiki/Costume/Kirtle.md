@@ -16,8 +16,8 @@ These dresses can also be worn with the skirt tucked into the belt at the front 
 *[http://www.classhistory.co.uk/Herts%20Fabrics/store/index.php?route=product/product&path=48_49&product_id=344 Authentic Patterns Late Medieval Kirtle]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH002.html Reconstructing History pattern RH002]
 *[http://sallypointer.com/[[Costume|costume]]-textile-pages/make-a-simple-medieval-dress Basic pattern instructions]
-*[http://medievalweddingdresses.ideasforweddings.net/making-medieval-wedding-dresses/basic-kirtle-gown-pattern/ Basic pattern instructions]
-*[http://www.neheleniapatterns.com/english/rh143.html Nehelenia Kirtle pattern]
+*[http://medievalweddingdresses.ideasforweddings.net/making-medieval-wedding-dresses/basic-[[Kirtle|kirtle]]-gown-pattern/ Basic pattern instructions]
+*[http://www.neheleniapatterns.com/english/rh143.html Nehelenia [[Kirtle]] pattern]
 *McCalls Pattern 4490
 *McCalls Pattern 4491
 *Butterick Pattern 4827

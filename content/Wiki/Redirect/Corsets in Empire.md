@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Corsets in Empire
 aliases: ['Corsets_in_Empire']

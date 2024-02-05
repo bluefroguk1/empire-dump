@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Must avoid policy
 aliases: ['Must_avoid_policy']

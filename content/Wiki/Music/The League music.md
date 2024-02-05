@@ -10,7 +10,7 @@ revision_id: 78769
 
 ## Style summary
 [[The League]] is a combination of different cultures and its performance traditions reflect that. High art in all its forms, theatre and songs laced with innuendo and hidden meaning, [[Characters|characters]] who delight in cunning and trickery, flamboyance, opera and baroque/classical stylings accompanied by flutes, guitars, and even brass, themes of playfulness, [[Loyalty|loyalty]] and ingenuity. Low culture: comedy song, street [[Magic|magic]], and clever rhyming, often poking fun at someone or something. 
-For the high art of [[The League|the League]], look to European and Spanish-influenced classical [[Music|music]], particularly Italian and German including arias, lieder, and classical instrumental [[Music|music]] from Argentina. For low art concentrate on songs with the theme of deals, cunning, trickery, flamboyance, or [[Loyalty|loyalty]] and instrumental music with an Italian, Spanish, or Mariachi sound.
+For the high art of [[The League|the League]], look to European and Spanish-influenced classical [[Music|music]], particularly Italian and German including arias, lieder, and classical instrumental [[Music|music]] from Argentina. For low art concentrate on songs with the theme of deals, cunning, trickery, flamboyance, or [[Loyalty|loyalty]] and instrumental [[Music|music]] with an Italian, Spanish, or Mariachi sound.
 ## Commonly known songs
 ### Songs about notable people/entities in the [[League]]
 * [[Marching to Victory]] - a song about [[Senator]] Cesare.
@@ -30,14 +30,14 @@ For the high art of [[The League|the League]], look to European and Spanish-infl
 * [[Tower Song]] - a funny round demonstrating League competitiveness.
 ### Instrumentation and tunes
 * Recorders, flutes and whistles, classically played guitar or stringed instrument, violin, classical accordion.
-* [[Elizabethan recorder music]] which played on any classical instrument would be appropriate for The League.
+* [[Elizabethan recorder music]] which played on any classical instrument would be appropriate for [[The League]].
 ### Other performance traditions
-* Theatre and acting. There is a lot more information about this in The League brief, in particular the page on [[Troupes]].
+* Theatre and acting. There is a lot more information about this in [[The League]] brief, in particular the page on [[Troupes]].
 ## How to adapt your repertoire
 * For 'low culture' sing in a tongue in cheek way, have a game or a joke with your audience.
 * For 'high art' sing in an operatic way, up the drama! Have a listen to some Portuguese fado songs and copy the style.
 * When playing folk tunes, try to pick ones that are a bit classical or baroque sounding, a good example is [http://www.thesession.org/tunes/display/1033 The Gale by Susan Conger]
 ## Our sources
-Italian or German opera, Argentinian tangos and other S. American accordion music (cf. The Oxford Concert Party), classical poetry, Portuguese/Brazilian fado songs, Alejandro Toledo & The [[Magic]] Tombolinos
-Here is a [https://www.youtube.com/watch?v=RbO4k6ISHSk&list=PLD2322E5CDAD0AAD6&feature=plpp_play_all youtube playlist] of appropriate or inspiring music.
-The League Links
+Italian or German opera, Argentinian tangos and other S. American accordion [[Music|music]] (cf. The Oxford Concert Party), classical poetry, Portuguese/Brazilian fado songs, Alejandro Toledo & The [[Magic]] Tombolinos
+Here is a [https://www.youtube.com/watch?v=RbO4k6ISHSk&list=PLD2322E5CDAD0AAD6&feature=plpp_play_all youtube playlist] of appropriate or inspiring [[Music|music]].
+[[The League]] Links

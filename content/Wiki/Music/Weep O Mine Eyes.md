@@ -15,7 +15,7 @@ Media:Weep-o-[[Mine|mine]]-eyes.pdf‎ (pdf)
 ### Learning resources
 [[Weep O Mine Eyes]] midis:
 * all parts: Media:Weep-o-[[Mine|mine]]-eyes.midi
-* soprano: Media:Weep-o-mine-eyes-sop.midi
-* alto: Media:Weep-o-mine-eyes-alto.midi
-* tenor: Media:Weep-o-mine-eyes-tenor.midi
+* soprano: Media:Weep-o-[[Mine|mine]]-eyes-sop.midi
+* alto: Media:Weep-o-[[Mine|mine]]-eyes-alto.midi
+* tenor: Media:Weep-o-[[Mine|mine]]-eyes-tenor.midi
 * bass: Media:Weep-o-mine-eyes-bass.midi

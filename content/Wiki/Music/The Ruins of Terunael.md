@@ -20,15 +20,15 @@ Conquered all, that cruel [[Vallorn]].
 Along the walls long left unguarded
 The winding vines and briars grow
 The once great gates now hanging broken
-Conquered all, that wild Vallorn.
+Conquered all, that wild [[Vallorn]].
 Atop the [[Spires|spires]] of gleaming silver
 Once seat of powers beyond our ken
 Nothing left but rot and [[Ruin|ruin]]
-Conquered all, that rank Vallorn.
+Conquered all, that rank [[Vallorn]].
 Those ancient tomes of boundless knowledge
 Lost to all forever more
 Now but dust, long left to moulder
-Conquered all, that foul Vallorn.
+Conquered all, that foul [[Vallorn]].
 In the hearths once bright and blazing
 There the beasts have made their beds
 Even here the dark encroaches

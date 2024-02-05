@@ -16,5 +16,5 @@ Disbursement of funds with the intention to resupply the [[Imperial armies]].Pro
 ### Date
 * [[Winter]] 379YE
 ### Progress
-* 140 Thrones disbursed to [[Senator]] Bregasland
+* 140 Thrones disbursed to [[Senator]] [[Bregasland]]
 __NOTOC__

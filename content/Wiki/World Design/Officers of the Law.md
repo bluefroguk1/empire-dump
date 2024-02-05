@@ -12,7 +12,7 @@ revision_id: 98490
 * The imperial militia; these are almost always Player [[Characters]], but may also be Non-Player [[Characters]]
 * Civil service [[Magistrates|magistrates]], presiding over the militia and the courts; these are always Non-Player Characters 
 * Civil service legislators and administrators, primarily supporting the [[Imperial Senate]]; these are always Non-Player Characters.
-In Empire players [[Will|will]] have the [[Opportunity|opportunity]] to be deputised into the imperial militia during the course of play. The militia are all drawn from the player base and they are responsible for investigating crime and maintaining [[Law|law]] and order. If you wish to apply to join the militia you should approach a magistrate during time-in. If the militia are currently recruiting they [[Will|will]] hold interviews in order to select the very best candidates. No advantage will be gained from including in your character’s [[Background|background]] that they have been involved in [[Imperial Law|imperial law]] enforcement in their past.
+In Empire players [[Will|will]] have the [[Opportunity|opportunity]] to be deputised into the imperial militia during the course of play. The militia are all drawn from the player base and they are responsible for investigating crime and maintaining [[Law|law]] and order. If you wish to apply to join the militia you should approach a magistrate during time-in. If the militia are currently recruiting they [[Will|will]] hold interviews in order to select the very best candidates. No advantage [[Will|will]] be gained from including in your character’s [[Background|background]] that they have been involved in [[Imperial Law|imperial law]] enforcement in their past.
 ## Magistrates
 Magistrates can be recognised by their white robes bearing the militia lantern motif.
 Magistrates are those members of the civil service who are empowered to uphold [[The Law|the law]] by:
@@ -24,8 +24,8 @@ Magistrates are those members of the civil service who are empowered to uphold [
 * attending to judicial matters referred to them by [[The Senate|the Senate]] or [[Synod]]; and
 * adjudicating civil cases .
 Magistrates additionally have the powers which are granted to a deputised member of the militia. The reality is that a large portion of the work entailed in running the justice system is carried out by citizens who are deputised into the imperial militia.
-When time permits most magistrates will be happy to answer specific legal queries relating to a citizen’s circumstances.
-Civil servants (including magistrates) may be asked questions which relate to IC or OOC game functions. Civil servants are obliged to maintain strict confidentiality about such private discussions so that players may feel free to ask any questions without fear that they will be subject to legal [[Scrutiny|scrutiny]].
+When time permits most magistrates [[Will|will]] be happy to answer specific legal queries relating to a citizen’s circumstances.
+Civil servants (including magistrates) may be asked questions which relate to IC or OOC game functions. Civil servants are obliged to maintain strict confidentiality about such private discussions so that players may feel free to ask any questions without fear that they [[Will|will]] be subject to legal [[Scrutiny|scrutiny]].
 ## The Imperial Militia
 [[Anvil]] militia can be recognised by their white sashes bearing the militia lantern motif. While some  militia in other regions have also adopted this, it is not yet standard throughout [[The Empire|the Empire]] (and may never be, given the objections of the [[Freeborn]]). 
 It is a constitutional obligation for a citizen who has been deputised into the militia to carry out their responsibilities. In practice it would only be in exceptional circumstances that a magistrate would suborn a citizen into the militia involuntarily. A magistrate may deputise a citizen into the militia either temporarily or until such time as they relieve them of their duties. Citizens deputised into the militia are expected to follow the lawful orders of magistrates.
@@ -65,7 +65,7 @@ The militia is led by a Captain, who is only subordinate to magistrates. [[The C
 ### Head of Constabulary
 The Head of Constabulary has oversight of militia cases and responsibility for ensuring they progress in a satisfactory manner. They are expected to liaise with warrant officers, magistrates and others so that cases progress and remedial action can be taken if not.
 ### Head of Intelligence
-The Head of Intelligence is responsible for cultivation of informants and contacts, and general gathering of relevant intelligence.  They must sort the useful intelligence from the noise, and then share valuable information appropriately with the militia and magistrates. 
+The Head of Intelligence is responsible for cultivation of informants and contacts, and [[General|general]] gathering of relevant intelligence.  They must sort the useful intelligence from the noise, and then share valuable information appropriately with the militia and magistrates. 
 ## Rewards for exemplary service
 Historically members of the [[Anvil]] militia were usually only paid reasonable expenses, with occasional other rewards at the discretion of the investigating magistrate. However a new rewards system for militia who distinguish themselves has recently been introduced. This is currently in trial but broadly works as follows:
 * the magistrates will provide a fund each summit from which to make awards payments (currently expected to be five thrones)

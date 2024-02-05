@@ -10,8 +10,8 @@ revision_id: 96573
 
 ## Overview
 An open ticket is a ticket that can be used to book for any Profound Decisions event. We've updated the [https://www.profounddecisions.co.uk/ website] so that anyone can buy as many [[Open tickets|open tickets]] as they wish. This allows you to buy tickets for future [[Events|events]] at current prices. [[Open tickets]] can also be transferred to other participants, so you can also use them to buy a ticket for your friends.
-Open tickets were originally introduced to allow players to support Profound Decisions during the pandemic, but they proved very popular. As a result we're experimenting with keeping them available over this [[Winter|winter]]. If that proves popular, we are likely to make them available every winter.
-Any open tickets that you purchase are valid indefinitely until you use them. The option to buy open tickets [[Will|will]] be available until the 12th February 2023, but open tickets you buy or receive can be used at any time before or after that date.
+[[Open tickets]] were originally introduced to allow players to support Profound Decisions during the pandemic, but they proved very popular. As a result we're experimenting with keeping them available over this [[Winter|winter]]. If that proves popular, we are likely to make them available every winter.
+Any [[Open tickets|open tickets]] that you purchase are valid indefinitely until you use them. The option to buy [[Open tickets|open tickets]] [[Will|will]] be available until the 12th February 2023, but open tickets you buy or receive can be used at any time before or after that date.
 ## Purchase
 * Open tickets are now available from the website
 * Normal discounts for multibooking apply
@@ -21,8 +21,8 @@ If you haven't been to an Empire event yet, but you have a discount code for a n
 ## Using an Open Ticket
 * You can use an open ticket to book for any event
 * You can book [[Online|online]] up to one week before the event starts
-Using an open ticket is straightforward. Any open tickets you have purchased [[Will|will]] appear in your [https://www.profounddecisions.co.uk/account/summary account summary], alongside a red action button labelled "Use Open Tickets". This button will open a screen listing all the open tickets you currently have in your inventory.
-Each ticket is set to "leave as open ticket" by default - nothing will happen to these tickets until you select a new option. To use an open ticket just select "Convert to Event Booking". A drop down menu will appear which lists every available Profound Decisions event for which you're not currently booked. Select the event you want for each ticket you are using and then hit save. Your open ticket will be converted to an event booking. Your account summary will now show that you're booked for the chosen event and have one less open ticket than you had currently.
+Using an open ticket is straightforward. Any open tickets you have purchased [[Will|will]] appear in your [https://www.profounddecisions.co.uk/account/summary account summary], alongside a red action button labelled "Use Open Tickets". This button [[Will|will]] open a screen listing all the open tickets you currently have in your inventory.
+Each ticket is set to "leave as open ticket" by default - nothing [[Will|will]] happen to these tickets until you select a new option. To use an open ticket just select "Convert to Event Booking". A drop down menu [[Will|will]] appear which lists every available Profound Decisions event for which you're not currently booked. Select the event you want for each ticket you are using and then hit save. Your open ticket will be converted to an event booking. Your account summary will now show that you're booked for the chosen event and have one less open ticket than you had currently.
 You can use your open ticket to book an event without charge up to one week before the event begins. After that date you will have to pay a surcharge to use the ticket on the [[Gate|gate]] if you want to attend the event.
 ## Transferring a Ticket
 * You can transfer open tickets to other players

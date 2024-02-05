@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Redwillow Paste
 aliases: ['Redwillow_Paste']

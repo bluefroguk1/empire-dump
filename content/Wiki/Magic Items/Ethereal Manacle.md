@@ -14,4 +14,4 @@ Sometimes called a ''magician's retreat'', a little contemptuously, it cannot be
 ## Rules
 Staffs
 * Effect: Three times per [[Day|day]] you may cast the [[Entangle]] spell as if you knew it without spending any mana.
-* [[Materials]]: Crafting an [[Ethereal Manacle|ethereal manacle]] requires eleven measures of ambergelt and four measures of dragonbone, and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting an [[Ethereal Manacle|ethereal manacle]] requires eleven measures of [[Ambergelt|ambergelt]] and four measures of dragonbone, and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

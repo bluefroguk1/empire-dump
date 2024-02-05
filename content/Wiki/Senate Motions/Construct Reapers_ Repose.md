@@ -24,7 +24,7 @@ __NOTOC__
 ## Progress
 CommissionProgress|Reapers%27_Repose
 ## Outcome
-* The civil service believe this is related to the proposal by Sovia Lahm von Temeschwar, Merchant-prince of the Emerald Magpie [[Guild]] (as detailed in the [[A health to the company]] Wind of Fortune, and are awaiting clarification from [[Senator]] Temeschwar
+* The civil service believe this is related to the proposal by Sovia Lahm von [[Temeschwar]], Merchant-prince of the Emerald Magpie [[Guild]] (as detailed in the [[A health to the company]] Wind of Fortune, and are awaiting clarification from [[Senator]] [[Temeschwar]]
 * Once complete, this [[Will|will]] create the title of ''Chatelaine of the Reapers' Repose'', appointed by unanimous decision of [[The League]] senators.
-* Assuming this is related to proposal of Sovia Lahm van Temeschwar, the Chatelaine will receive a stipend of 16 crowns each season and enjoy unlimited access to this restful [[Sanctuary|sanctuary]], including three doses of the relaxing tea [[Tranquil Nostrum]] each season.
+* Assuming this is related to proposal of Sovia Lahm van [[Temeschwar]], the Chatelaine [[Will|will]] receive a stipend of 16 crowns each season and enjoy unlimited access to this restful [[Sanctuary|sanctuary]], including three doses of the relaxing tea [[Tranquil Nostrum]] each season.
 * The construction is complete and the Chatelaine of the Reapers' Repose is due to be elected at the [[Winter]] Solstice 384YE.

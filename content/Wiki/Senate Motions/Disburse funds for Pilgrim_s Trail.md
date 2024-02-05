@@ -18,4 +18,4 @@ Proposed by [[Kallavesa]], seconded by [[Redoubt]]
 ### Date
 * [[Spring]] 380YE
 ### Progress
-* 18 Thrones disbursed to [[Senator]] Kallavesa
+* 18 Thrones disbursed to [[Senator]] [[Kallavesa]]

@@ -11,7 +11,7 @@ revision_id: 85809
 __NOTOC__
 To recruit a fourth Highborn army in [[Reikos]].Proposed by [[Reikos]], seconded by [[Necropolis]].
 ## Overview
-* To raise a fourth Highborn army in Reikos.
+* To raise a fourth Highborn army in [[Reikos]].
 * Passed at 0 Thrones
 ## Date
 * [[Spring]] 382YE

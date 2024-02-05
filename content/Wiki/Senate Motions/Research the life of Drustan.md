@@ -11,6 +11,6 @@ revision_id: 85590
 __NOTOC__
 [[Historical research|Historical Research]] announcement by the [[Advisor on the Vallorn]]: to [[Commission|commission]] further [[Historical research|historical research]] into the life of drustan (Ddurstan) of the [[Briar|briar]] and his works against [[The Vallorn|the vallorn]].''Announced by Advisor on the [[Vallorn]]''
 ## Overview
-* Commissions Historical research.
+* Commissions [[Historical research]].
 ## Date
 * [[Winter]] 382YE

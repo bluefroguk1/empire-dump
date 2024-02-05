@@ -19,4 +19,4 @@ To cede the region of Misericorde to the Sand Fishers.
 ## [[Campaign outcome|Campaign Outcome]]
 * The region has been ceded to the Sand Fishers
 * Further details of the Sand Fisher settlement can be found here.
-* The overall tax revenue for the [[Territory|territory]] of Holberg [[Will|will]] increase by 8 thrones by the end of 383YE.
+* The overall tax revenue for the [[Territory|territory]] of [[Holberg]] [[Will|will]] increase by 8 thrones by the end of 383YE.

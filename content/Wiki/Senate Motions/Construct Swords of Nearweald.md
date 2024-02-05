@@ -20,12 +20,12 @@ __NOTOC__
 * As detailed in the wind of fortune
 * 30 wains of [[Mithril|mithril]]
 * 20 wains of [[Weirwood|weirwood]]
-* 120 crowns in labour costs (increased from 100 Crowns due to the under-developed quality of Ossium)
+* 120 crowns in labour costs (increased from 100 Crowns due to the under-developed quality of [[Ossium]])
 * Three months to construct
 * 5 Thrones each season upkeep
 ## Progress
 CommissionProgress|Swords_of_Nearweald
 ## Outcome
-* Now complete, this has removed the underpopulated quality from Nearweald in Ossium
-* While the upkeep continues to be paid, it provides an additional defending order to Varushkan armies in Ossium' ''Hospitality of the Boyars''
+* Now complete, this has removed the underpopulated quality from Nearweald in [[Ossium]]
+* While the upkeep continues to be paid, it provides an additional defending order to Varushkan armies in [[Ossium]]' ''Hospitality of the Boyars''
 * While the upkeep continues to be paid, it allows Varushkan armies to be raised in Ossium in nine months rather than a year

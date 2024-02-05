@@ -17,11 +17,11 @@ An Announcement by [[Bearer of an Imperial Wayleave|bearer of an Imperial Waylea
 * [[Summer]] 383YE
 ## Costs
 * This [[Commission|commission]] uses non-standard costs.
-* 10 wains of mithril
+* 10 wains of [[Mithril|mithril]]
 * 20 crowns
 * Three months to complete
 ## Progress
-* 10 wains of mithril and 20 crowns provided by Dragomir Dragovich after Summer Solstice 383YE.
+* 10 wains of [[Mithril|mithril]] and 20 crowns provided by Dragomir Dragovich after Summer Solstice 383YE.
 ## Outcome
 * [[Will]] create the title [[Bargainer of the Iron Tower]], a Varushkan national position.
-* [[Will]] impact the amounts of mithril going to the public [[Bourse|bourse]] auction at [[Anvil]]
+* [[Will]] impact the amounts of [[Mithril|mithril]] going to the public [[Bourse|bourse]] auction at [[Anvil]]

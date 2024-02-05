@@ -23,4 +23,4 @@ To build [[The Garden|the Garden]] of [[Glory]] a [[Liao|liao]] [[Sinecure|sinec
 ## Progress
 CommissionProgress|Garden_of_Glory
 ## Outcome
-* Once completed the position of [[Keeper of the Garden]] [[Will|will]] be available to appoint by the National [[Assembly]] of Navarr.
+* Once completed the position of [[Keeper of the Garden]] [[Will|will]] be available to appoint by the National [[Assembly]] of [[Navarr]].

@@ -17,4 +17,4 @@ __NOTOC__
 ## Date
 * [[Autumn]] 382YE
 ## Outcome
-* Almodin Oktístis [[Will|will]] no longer provide building services to the Empire.
+* Almodin Oktístis [[Will|will]] no longer provide building services to [[The Empire|the Empire]].

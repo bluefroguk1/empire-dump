@@ -13,8 +13,8 @@ Things are Not Easy
 ### The [[Constellation]]
 [[The Mountain]] is formed of ten stars and appears low to the horizon. Whilst the ‘peak’ is visible throughout the year, the constellation is partially obscured during the [[Winter|winter]] months, only completely rising in to view during the late [[Spring|spring]] and [[Summer|summer]].
 ### Symbolism
-In [[Urizen]] there is a saying – "you can only go around [[The Mountain|the mountain]]". The Mountain represents obstacles, delays, and difficulties; things that must be worked around or problems that have no easy solution. The Mountain can represent a puzzle, an intractable trial, or an impossible decision; but whatever it is, you cannot ignore it – you can only go around it.
-The Mountain can also mean great reward in return for great toil – such as those who work in mines in such mountains. The Mountain tells us there is no easy life or free lunch - anything [[Worth|worth]] having is [[Worth|worth]] fighting for.
+In [[Urizen]] there is a saying – "you can only go around [[The Mountain|the mountain]]". [[The Mountain]] represents obstacles, delays, and difficulties; things that must be worked around or problems that have no easy solution. [[The Mountain]] can represent a puzzle, an intractable trial, or an impossible decision; but whatever it is, you cannot ignore it – you can only go around it.
+[[The Mountain]] can also mean great reward in return for great toil – such as those who work in mines in such mountains. The Mountain tells us there is no easy life or free lunch - anything [[Worth|worth]] having is [[Worth|worth]] fighting for.
 ### Invoking the Mountain in [[Magic|magic]]
 The Mountain is invoked where a ritualist wishes to represent or call on a great obstacle or hindrance to forward progress. Before a battle, the opposing force might be represented by the Mountain; equally the Mountain is often used in curses to represent great difficulty or struggle for the target of the [[Curse|curse]].
 The Mountain is often also used to represent the end of a quest; the object, achievement, or outcome desired by the ritualist to reach which requires great effort, strife, and toil.

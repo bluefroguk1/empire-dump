@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tinctures of the Open Sky
 aliases: ['Tinctures_of_the_Open_Sky']

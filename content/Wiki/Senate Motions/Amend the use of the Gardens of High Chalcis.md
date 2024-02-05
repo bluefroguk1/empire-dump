@@ -18,6 +18,6 @@ Proposed by [[Reikos]], Seconded by [[Necropolis]].
 ### Date
 * [[Autumn]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The Gardens of High Chalcis [[Great work]] provide no benefit to the [[Herb garden]] owners of [[Reikos]] for the next year (until after the Autumn Equinox 382YE).
+* The [[Gardens of High Chalcis]] [[Great work]] provide no benefit to the [[Herb garden]] owners of [[Reikos]] for the next year (until after the Autumn Equinox 382YE).
 * The orcs of the Great [[Forest]] [[Will|will]] receive a generous supply of Herbs. 
-* This exceptional act of generosity [[Will|will]] also create an unrivaled [[Opportunity|opportunity]] for a closer relationship between the people of Reikos and the orcs of the Great Forest.
+* This exceptional act of generosity [[Will|will]] also create an unrivaled [[Opportunity|opportunity]] for a closer relationship between the people of [[Reikos]] and the orcs of the Great [[Forest]].

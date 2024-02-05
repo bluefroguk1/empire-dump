@@ -19,4 +19,4 @@ Proposed by [[Sermersuaq]], Seconded by the Conscience.
 * 20 wains of [[White granite|white granite]] and 40 crowns provided by Atte Arrow-Tongue Metsastajason after the Summer Solstice 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
 * The [[Market Town|market town]] [[Will|will]] be complete by the time of the [[Autumn]] Equinox 381YE.
-* The [[Senator|senator]] who raised the motion has indicated that the [[Caretaker of New Dunhall]] will be a [[Wintermark]] national [[Appointment|appointment]].
+* The [[Senator|senator]] who raised the motion has indicated that the [[Caretaker of New Dunhall]] [[Will|will]] be a [[Wintermark]] national [[Appointment|appointment]].

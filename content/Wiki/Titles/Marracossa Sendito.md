@@ -22,9 +22,9 @@ Ichos' Fork
 24 crowns2 Ichos' Fork
 ## Powers
 ### Marracossan Artisans
-As a [[Ministry]], the title of Marracossa Sendito allows the holder to purchase [[Magic Items]] at a set price. The Sendito spends their decision about how much money to spend during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed. 
+As a [[Ministry]], the title of [[Marracossa Sendito]] allows the holder to purchase [[Magic Items]] at a set price. The Sendito spends their decision about how much money to spend during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed. 
 ## [[Appointment]]
-This title is appointed during the [[Spring]] Equinox. The Marracossa Sendito is appointed by citizens of [[The Brass Coast|the Brass Coast]] who control [[Fleet|fleet]] personal resources. The voting is handled by the civil servants in the [[Bourse]]. 
+This title is appointed during the [[Spring]] Equinox. The [[Marracossa Sendito]] is appointed by citizens of [[The Brass Coast|the Brass Coast]] who control [[Fleet|fleet]] personal resources. The voting is handled by the civil servants in the [[Bourse]]. 
 Only a Brass Coast character may hold the title. They do not receive a seat on the Bourse. As a title appointed through the Bourse, they cannot be revoked by the [[Imperial Synod]].
 RecentElections|Marracossa_Sendito
 Responsibilities Expectation

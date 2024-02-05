@@ -9,9 +9,9 @@ revision_id: 86666
 ---
 
 To construct a [[Great work|great work]], The Pilgrim's Trail, in [[Kallavesa]], [[Wintermark]] with the intention of improving the attendance of Congregations across [[Kallavesa]] by easing the movement of pilgrims.
-Proposed by Kallavesa, Seconded by [[Karov]] 
+Proposed by [[Kallavesa]], Seconded by [[Karov]] 
 ### Overview
-* Construct a series of roads throughout Kallavesa to aid the path of pilgrims.
+* Construct a series of roads throughout [[Kallavesa]] to aid the path of pilgrims.
 * Passed in principle
 * Passed at 60 Thrones
 ### Date
@@ -21,10 +21,10 @@ Proposed by Kallavesa, Seconded by [[Karov]]
 * 10 wains of [[Weirwood|weirwood]]
 * 10 Thrones in labour costs
 * Time: 3 months to construct
-* This [[Great work|Great Work]] is an [[Opportunity]] to draw pilgrims to Kallavesa.
+* This [[Great work|Great Work]] is an [[Opportunity]] to draw pilgrims to [[Kallavesa]].
 ### Progress
 *  60 Thrones disbursed to [[Senator]] Kallavesa
 * 30 wains of [[White granite|white granite]], 10 wains of [[Weirwood|weirwood]] and 10 thrones provided by Olle Markusson after [[Spring]] Equinox 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This great work is now complete.
+* This [[Great work|great work]] is now complete.
 __NOTOC__

@@ -15,7 +15,7 @@ While it is common for a [[Barbed Spear]] to bear the [[Rune|rune]] [[Rhyv]], th
 ## Rules
 Polearms
 * Effect:You may spend a hero point to call [[Venom|VENOM]] with this polearm.
-* [[Materials]]: Crafting a Barbed Spear requires thirteen measures of beggar's lye, three ingots of [[Green iron|green iron]], and three ingots of [[Orichalcum|orichalcum]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Barbed Spear]] requires thirteen measures of beggar's lye, three ingots of [[Green iron|green iron]], and three ingots of [[Orichalcum|orichalcum]]. It takes one month to make one of these items.
 Iuceph ducked, without slowing, and the two-handed battleaxe swept harmlessly over his head. He struck out to the left, and turned the movement into a tight spin, sweeping to the right and then rolling forward. He came to his feet, his heart pounding, his breath short, every muscle protesting. Both his opponents were still standing. He felt as if he was on fire.
 He leapt forward, striking out again, catching another of the bandits across the shoulder, then twisted away before the woman could close the distance. He jumped and rolled again, swerving his body away from the thrust of the last brigand's clumsy strike, slicing his weapon across his side.
 He felt dizzy for a moment. He wiped his hand across his forehead, and it came away with a sticky mixture of sweat, blood and yellow paint. He frowned. One of the bandits must have marked him at some point in his charge. He didn't remember it. The adrenaline began to sour, and he became aware of the familiar fizzing ache of the [[Venom|venom]] in his body. He looked over his shoulder to check what he already knew; that the dance was done. 

@@ -13,10 +13,10 @@ To construct a [[Sinecure|sinecure]], The Pilgrim's Rest, in [[Kallavesa]] Marsh
 Costing ten wains of [[White granite|white granite]] and twenty crowns, to be self funded.
 Creating the [[Imperial Title|Imperial title]] [[Crow Keeper of the Rest]], providing twelve votes in [[The Synod|the Synod]] and 6 [[Liao|liao]] per season.
 [[Appointment]] by [[Wintermark]] National [[Assembly]].
-[[Revocation]] by [[Wintermark]] [[National Assembly]], [[General]] [[Assembly]] or the Assembly of Nine.
-Proposed by Kallavesa, Seconded by [[Semmerholm]]
+[[Revocation]] by [[Wintermark]] [[National Assembly]], [[General]] [[Assembly]] or the [[Assembly]] of Nine.
+Proposed by [[Kallavesa]], Seconded by [[Semmerholm]]
 ### Overview
-* A [[Sinecure]] in Kallavesa Marsh, Kallavesa
+* A [[Sinecure]] in [[Kallavesa]] Marsh, [[Kallavesa]]
 * Passed
 ### Date
 * [[Autumn]] 380YE
@@ -25,6 +25,6 @@ Proposed by Kallavesa, Seconded by [[Semmerholm]]
 * 20 crowns in labour costs
 * 3 months to construct
 ### Progress
-* 10 wains of white granite and 20 crowns provided by Kitsana after the [[Winter]] Solstice 380YE.
+* 10 wains of [[White granite|white granite]] and 20 crowns provided by Kitsana after the [[Winter]] Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, once complete, [[Will|will]] create the Wintermark national title of [[Crow Keeper of the Rest]]
+* This [[Sinecure|sinecure]], once complete, [[Will|will]] create the [[Wintermark]] national title of [[Crow Keeper of the Rest]]

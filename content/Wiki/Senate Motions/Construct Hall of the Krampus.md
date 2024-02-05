@@ -12,7 +12,7 @@ __NOTOC__
 To construct a hall for the Krampus in [[Skarsind]].
 Proposed by [[Skarsind]], Seconded by [[Karsk]]
 ### Overview
-* A [[Folly]] built for the Krampus, following recent [[Events|events]], in Skarsind
+* A [[Folly]] built for the Krampus, following recent [[Events|events]], in [[Skarsind]]
 * Passed
 ### Date
 * [[Winter]] 380YE
@@ -23,4 +23,4 @@ Proposed by [[Skarsind]], Seconded by [[Karsk]]
 ### Progress
 * 13 wains of [[White granite|white granite]] and 26 crowns provided by Irontide Vio after Winter Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The Krampushall has been constructed in Skarsind.
+* The Krampushall has been constructed in [[Skarsind]].

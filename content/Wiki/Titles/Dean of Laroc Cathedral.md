@@ -37,7 +37,7 @@ Should other’s stories turn to ash, I never claimed as kin the passionless. Pa
 I revel in the running! Teach the tamed this inner fire, and I shall teach you of such splendour!
 Thus we are seven, they are six…
 I am one that aims at stars, for they shall never be enough!
-My price is consequence, my art will shun the shackles spoken rough
+My price is consequence, my art [[Will|will]] shun the shackles spoken rough
 To drag me down in darkness – I shall thwart attempts to tell me ‘Life’s too tough!’
 For what is life if un-forged by heart and flame? I shall not snuff
 The dream of friends, nor willing cuff their hands from quill and steel.
@@ -47,7 +47,7 @@ I am one that grows with my own blood a crop of warmth that’s fit to share
 To comfort all deserving. Such the good that comes from work and honest fare -
 But never waste it! A fool in the flood steals the flame, should ye dare
 To bring it’s taker back, their name be mud. The thief and the miser need beware
-That all the coins they would declare as theirs will sit uneasy on the bones
+That all the coins they would declare as theirs [[Will|will]] sit uneasy on the bones
 And cannot go beyond, nor yet compare with the happiness such choice postpones.
 So we are seven, they are six…
 I am one, a chain of many links new-forged, and we our foes outlast.
@@ -58,17 +58,17 @@ To our [[Loyalty]]. May forge’s blast find purchase on their skin, for we are 
 When first we threw our shackles cast, foes knew not what they had sparked
 As we are seven, they are six…
 ## Overview
-Dedicated to the Imperial virtue of [[Courage]], the Cathedral at Laroc was commissioned by a motion of the [[Imperial Senate]] in [[Summer]] 380YE by [[Earl]] Valentin Orzel, [[Senator]] for [[Weirwater]]. Construction of the Cathedral was completed shortly before the 380YE [[Autumn]] Equinox. At the Autumn Equinox 380YE the national [[Assembly|assembly]] of [[Dawn]] appointed Lady Eleanor de Rondell, the former [[Virtue Inquisitor]] of Courage, as the first Dean.
+Dedicated to the Imperial virtue of [[Courage]], the Cathedral at Laroc was commissioned by a motion of the [[Imperial Senate]] in [[Summer]] 380YE by [[Earl]] Valentin Orzel, [[Senator]] for [[Weirwater]]. Construction of the Cathedral was completed shortly before the 380YE [[Autumn]] Equinox. At the Autumn Equinox 380YE the national [[Assembly|assembly]] of [[Dawn]] appointed Lady Eleanor de Rondell, the former [[Virtue Inquisitor]] of [[Courage]], as the first Dean.
 ## Responsibilities
 The [[Dean of Laroc Cathedral]] has no particular responsibilities; they are recognised as having votes in the [[Imperial Synod]] and they receive a bounty of [[Liao]] from the civil service. If the cathedral were to be threatened in any way, it would be the responsibility of the Dean to deal with those threats.
 ## Powers
 ### A Portion of [[Liao]]
-The [[Dean of Laroc Cathedral]] is an [[Imperial Title]] that grants custodianship of a [[Sinecure]]. The [[Sinecure|sinecure]] provides an income of six measures of Liao each season, to be used as they see fit.
+The [[Dean of Laroc Cathedral]] is an [[Imperial Title]] that grants custodianship of a [[Sinecure]]. The [[Sinecure|sinecure]] provides an income of six measures of [[Liao]] each season, to be used as they see fit.
 ### Point of [[Pilgrimage]]
-The Dean of Laroc Cathedral may sit in the [[Imperial Synod]], and possesses 12 votes in [[Synod]] affairs (or an additional 12 votes if they already have a [[Congregation|congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible.
+The [[Dean of Laroc Cathedral]] may sit in the [[Imperial Synod]], and possesses 12 votes in [[Synod]] affairs (or an additional 12 votes if they already have a [[Congregation|congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible.
 ## [[Appointment]]
-The [[National Assembly|national assembly]] of [[Dawn]] appoints the Dean of Laroc Cathedral. Only a Dawnish citizen may be Dean of Laroc Cathedral. Despite the sinecure's association with the virtue of Courage, there is no requirement for the recipient to be part of the Courage assembly. 
-The Dean has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] Assembly, the Dawn National Assembly. or the [[Assembly of the Nine]].
+The [[National Assembly|national assembly]] of [[Dawn]] appoints the [[Dean of Laroc Cathedral]]. Only a Dawnish citizen may be [[Dean of Laroc Cathedral]]. Despite the [[Sinecure|sinecure]]'s association with the virtue of [[Courage]], there is no requirement for the recipient to be part of the [[Courage]] [[Assembly|assembly]]. 
+The Dean has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the [[Dawn]] National [[Assembly]]. or the [[Assembly of the Nine]].
 ## The Cathedral at Laroc
 Built of [[White granite|white granite]], the "cathedral" lies close to the tournament grounds in Laroc, [[Astolat]]. Penatgonal in shape, it has five transepts surrounding a central hall, in the centre of which stands a polished marble block inlaid with an epic poem composed by Kahendrin Wordsmith. Four of the transepts are dedicated to [[Paragons and Exemplars|paragons and exemplars]] of Courage, while the fifth is dedicated to specific Imperial [[Heroes|heroes]]. 
 Although it is officially named a cathedral, the actual structure is more akin to a chapel in size and grandeur. While it is not especially large, it is beautifully decorated. Fine works of art [[Painted|painted]] by artists inspired by the virtue of Courage adorn the walls, brought from all [[The Nations|the nations]] of [[The Empire|the Empire]]. It stands in a well-maintained garden.

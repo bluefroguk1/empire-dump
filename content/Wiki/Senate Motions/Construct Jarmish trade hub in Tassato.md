@@ -12,7 +12,7 @@ __NOTOC__
 To build a Jarmish trade hub in [[Tassato]].
 Proposed by [[Tassato]], Seconded by [[Holberg]]
 ### Overview
-* A trade hub for [[Traders|traders]] from the [[Principalities of Jarm]] who wish to use the mana exchange in the city of Enterio, Tassato
+* A trade hub for [[Traders|traders]] from the [[Principalities of Jarm]] who wish to use the mana exchange in the city of Enterio, [[Tassato]]
 * Passed
 ### Date
 * [[Winter]] 380YE
@@ -21,4 +21,4 @@ Proposed by [[Tassato]], Seconded by [[Holberg]]
 ### Progress
 * Completed shortly before [[Spring]] Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The Jarmish traders have constructed a lodge in Enterio, Tassato.
+* The Jarmish traders have constructed a lodge in Enterio, [[Tassato]].

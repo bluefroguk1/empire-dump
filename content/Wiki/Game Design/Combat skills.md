@@ -42,7 +42,7 @@ Bleed Time under [[Venom]]
 *1-point skill
 *The [[Cost|cost]] of this skill increases by 1 point each time you purchase it
 Normal [[Characters|characters]] bleed to death in three minutes if they are reduced to zero hits. Each time you purchase this skill the time taken for your character to bleed to death increases. The increase is one minute for the first level of fortitude purchased, [[Two minutes|two minutes]] for the second level and so on.
-Normal [[Characters|characters]] bleed to death in thirty seconds when affected by [[Venom|venom]]. Each level of this skill that you purchase gives you ten additional seconds before you become terminal when affected by venom. The increase is ten seconds for the first level of fortitude purchased, ten seconds for the second level and so on.
+Normal [[Characters|characters]] bleed to death in thirty seconds when affected by [[Venom|venom]]. Each level of this skill that you purchase gives you ten additional seconds before you become terminal when affected by [[Venom|venom]]. The increase is ten seconds for the first level of fortitude purchased, ten seconds for the second level and so on.
 ## Dreadnought
 *1-point skill
 You gain 1 additional hit provided you are wearing armour made of steel or similar [[Materials|materials]] that covers the torso and one other location. The armour must be at least 1mm thick so that it is physically heavy. Base metals that weigh the same such as brass are fine, but light armours such as aluminium and titanium armour, butchers mail, or a suit of mail with an open weave (sometimes called "ring mail") do not.

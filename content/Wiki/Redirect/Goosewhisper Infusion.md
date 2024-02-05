@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Goosewhisper Infusion
 aliases: ['Goosewhisper_Infusion']

@@ -22,4 +22,4 @@ To construct a [[Spy network|spy network]] in Mareave funded by Ematius, [[Archm
 ## Progress
 CommissionProgress|Mareave_Spy_Network
 ## Outcome
-* Once completed military units [[Will|will]] be able to support this spy network to uncover information about the territory south of [[Spiral]].
+* Once completed military units [[Will|will]] be able to support this [[Spy network|spy network]] to uncover information about the territory south of [[Spiral]].

@@ -24,11 +24,11 @@ The triangles denote places where the tune [[Groups|groups]] three quavers (and 
     Chorus
     On the Winds of Virtue was this finding carried
     Brought to all the people of [[The Nations|the Nations]] varied
-    When [[The Empress|the Empress]] rose so did the Way of Virtue
+    When [[The Empress|the Empress]] rose so did [[The Way|the Way]] of Virtue
     Founded was [[The Synod|the Synod]] ever faithful and true
     Chorus
     Heed the [[Pride]] of ages your soul [[Will|will]] be commended
     [[Vigilance]] and [[Courage]] [[Will|will]] keep you well defended
-    Prosperous and Wise is the way that's never fallow
+    Prosperous and Wise is [[The Way|the way]] that's never fallow
     Loyal and Ambitious the soul that's ever hallowed
     Chorus

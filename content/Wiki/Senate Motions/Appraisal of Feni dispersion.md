@@ -11,7 +11,7 @@ revision_id: 85582
 __NOTOC__
 To appraise the [[Cost|cost]] of using the militia or private citizens to disperse or arrest the northern Woods-that-Fell [[Feni]] in [[Hercynia]].''Proposed by [[Hercynia]], seconded by [[Hahnmark]].''
 ## Overview
-* Commissions an [[Appraisal]] from the civil service, relating to the [[Feni]] currently causing disruption in Hercynia.
+* Commissions an [[Appraisal]] from the civil service, relating to the [[Feni]] currently causing disruption in [[Hercynia]].
 * Only one [[Appraisal|appraisal]] may be made each season.
 * Failed
 ## Date

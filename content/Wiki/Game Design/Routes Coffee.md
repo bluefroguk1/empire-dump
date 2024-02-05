@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Routes Coffee
 aliases: ['Routes_Coffee']
 draft: False

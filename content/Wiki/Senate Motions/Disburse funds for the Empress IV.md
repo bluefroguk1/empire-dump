@@ -12,7 +12,7 @@ __NOTOC__ [[The Throne]] exercises her power of Hand of the Chancellor.
 Announced by [[Empress Lisabetta]].
 ### Overview
 * This motion was announced by [[Empress Lisabetta]] using the power of Hand of the Chancellor. 
-* Zero thrones were withdrawn by Empress Lisabetta.
+* Zero thrones were withdrawn by [[Empress Lisabetta]].
 ### Date
 * [[Summer]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]

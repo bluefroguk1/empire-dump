@@ -17,4 +17,4 @@ To disburse [[Senate|senate]] funds intended for the purpose of completing the [
 ### Date
 * [[Summer]] 380YE
 ### Progress
-* 200 thrones disbursed to [[Senator]] Karsk
+* 200 thrones disbursed to [[Senator]] [[Karsk]]

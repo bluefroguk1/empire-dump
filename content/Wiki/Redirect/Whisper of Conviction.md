@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Whisper of Conviction
 aliases: ['Whisper_of_Conviction']

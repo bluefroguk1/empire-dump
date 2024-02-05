@@ -22,5 +22,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Resourceful
-The Drakes is extremely well-supplied and has an excellent corps of quartermasters, allowing it to recover [[Casualties|casualties]] much more swiftly than normal. 
-RecentElections|General_of_the_Drakes|the title of [[General]] of the Drakes
+The [[Drakes]] is extremely well-supplied and has an excellent corps of quartermasters, allowing it to recover [[Casualties|casualties]] much more swiftly than normal. 
+RecentElections|General_of_the_Drakes|the title of [[General]] of the [[Drakes]]

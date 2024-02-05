@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Assembly of the Nine
 aliases: ['Assembly_of_the_Nine']

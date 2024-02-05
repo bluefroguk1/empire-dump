@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Child protection information
 aliases: ['Child_protection_information']
 draft: False
@@ -20,7 +20,7 @@ tags: ['Children', 'Game-Design']
 *After discussion with the DBS, they have informed us that we are not eligible to request DBS checks on crew, as it is not required for the activities we provide. In essence, the new guidelines state that because there is no intention to provide activities to children or vulnerable persons without the presence of a parent or [[Guardian|guardian]] then it is not possible to request a DBS check as this would violate the privacy of our crew.
 *When attending the event, carers must ensure that children are adequately supervised by themselves or by another responsible adult acting on their behalf. Our cleared crew [[Will|will]] offer to act in this capacity upon occasion as part of their event activities. Our standard crew are not able to provide supervision. Camping areas and toilets are not supervised.
 *The event follows a strict non-discrimination policy and all participants are treated equally irrespective of race, gender, religion, physical/mental disability, sexual orientation, age or ethnic origin.
-*In the event of a problem, any member of crew may be approached and, if not able to deal with the problem themselves, they will contact somebody who is able to help. All problems will be dealt with sympathetically and discreetly, and will be properly documented where that is appropriate.
+*In the event of a problem, any member of crew may be approached and, if not able to deal with the problem themselves, they [[Will|will]] contact somebody who is able to help. All problems [[Will|will]] be dealt with sympathetically and discreetly, and [[Will|will]] be properly documented where that is appropriate.
 *All [[Event crew|event crew]] are familiar with this policy and the guidelines and definitions that follow.
 *There are no formal restrictions on photographing the event or participants. Photographers are asked to be discreet to preserve the immersive feel of the event, through application of common sense and following the directions of the event organiser where given.
 *This policy is kept under review by the event organiser and will be improved or enhanced from time to time as may be deemed necessary.

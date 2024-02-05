@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: League culture and customs
 aliases: ['League_culture_and_customs']

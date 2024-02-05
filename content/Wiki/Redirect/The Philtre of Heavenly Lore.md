@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Philtre of Heavenly Lore
 aliases: ['The_Philtre_of_Heavenly_Lore']

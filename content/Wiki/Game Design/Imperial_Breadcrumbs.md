@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Imperial_Breadcrumbs
 draft: False
 revision_date: 2022-01-29 14:40:26+00:00
@@ -19,11 +19,11 @@ tags: ['Game-Design']
 * Recent History @ Empire > Empire overview > [[Imperial history]] > Recent history >
 * History @ Empire > Empire overview > [[Imperial history]] >
 * [[Rituals]] @ Empire > [[Magic]] > [[Rituals]] >
-* [[Magic]] @ Empire > Magic >
+* [[Magic]] @ Empire > [[Magic]] >
 * Lineages @ Empire > [[Lineage]] >
 * [[Varushka Music]] @ Empire > [[The Nations]] > [[Music]] > [[Varushka]] [[Music]] >
-* [[Wintermark Music]] @ Empire > The Nations > Music > [[Wintermark]] Music >
-* [[Dawn Music]] @ Empire > The Nations > Music > [[Dawn]] Music >
+* [[Wintermark Music]] @ Empire > The Nations > [[Music]] > [[Wintermark]] [[Music]] >
+* [[Dawn Music]] @ Empire > The Nations > [[Music]] > [[Dawn]] Music >
 * [[Marches Music]] @ Empire > The Nations > Music > [[Marches]] Music >
 * [[League Music]] @ Empire > The Nations > Music > [[League]] Music >
 * [[Brass Coast Music]] @ Empire > The Nations > Music > Brass Coast Music >
@@ -34,17 +34,17 @@ tags: ['Game-Design']
 * Music @ Empire > The Nations > Music >
 * [[Egregores]] @ Empire > The Nations > [[Egregores]] >
 * [[Imperial Orcs]] @ Empire > The Nations > [[Imperial Orcs]] >
-* [[Highguard]] @ Empire > The Nations > Highguard >
+* [[Highguard]] @ Empire > The Nations > [[Highguard]] >
 * [[The League]] @ Empire > The Nations > [[The League]] >
-* [[Dawn]] @ Empire > The Nations > Dawn >
+* [[Dawn]] @ Empire > The Nations > [[Dawn]] >
 * [[The Marches]] @ Empire > The Nations > [[The Marches]] >
-* [[Navarr]] @ Empire > The Nations > Navarr >
+* [[Navarr]] @ Empire > The Nations > [[Navarr]] >
 * [[The Brass Coast]] @ Empire > The Nations > [[The Brass Coast]] >
-* [[Varushka]] @ Empire > The Nations > Varushka >
-* [[Wintermark]] @ Empire > The Nations > Wintermark >
-* [[Urizen]] @ Empire > The Nations > Urizen >
+* [[Varushka]] @ Empire > The Nations > [[Varushka]] >
+* [[Wintermark]] @ Empire > The Nations > [[Wintermark]] >
+* [[Urizen]] @ Empire > The Nations > [[Urizen]] >
 * Nations @ Empire > The Nations >
-* [[Magic Items]] @ Empire > Magic > [[Magic Items]] >
+* [[Magic Items]] @ Empire > [[Magic]] > [[Magic Items]] >
 * Ceremonies @ Empire > [[The game|The Game]] > Rules > Religious [[Skills]] >
 * Rules @ Empire > [[The game|The Game]] > Rules >
 * Crew @ Empire > The Game > [[Crewing]] >

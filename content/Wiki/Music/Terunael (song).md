@@ -29,4 +29,4 @@ And [[The Walls of Terunael|the walls of Terunael]] are all down to the ground.
 O Terunael, you shine where you stand
 And the more I think on you the more I think long
 If I had you now as I had once before
-All the Lords of the Empire could not save Terunael.
+All the Lords of [[The Empire|the Empire]] could not save Terunael.

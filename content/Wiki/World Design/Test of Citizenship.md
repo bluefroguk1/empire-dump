@@ -22,20 +22,20 @@ The Test is fairly informal and should not be a source of stress or nervousness.
 The young player must be able to complete the main part of the test In Character, with a short Out of Character section at the end where young players can ask any questions about rules or character creation. The test [[Will|will]] involve the following questions. This is not exhaustive and they may be phrased differently  but this covers [[The Key|the key]] areas to be covered in the test: 
 * Who are you & where are you from?
 * Who are your [[Family|family]]/ group and what do they do in [[Anvil]]?
-* What are [[The Nations|the nations]] of the Empire?
+* What are [[The Nations|the nations]] of [[The Empire|the Empire]]?
 * What are the five most important things one should know about your Nation?
 * Give an example of [[Hearth magic|hearth magic]] in your Nation.
 * What are the Virtues and which is most important to you and why?
 * What is your [[Ambition]] at Empire and in [[Anvil]]?
 * What [[Resource|resource]] do you plan to take when you become a citizen and what do you want to do with it? 
 * What abilities do you think you want to learn and what do you want to do with them?
-* What are the key Structures of the Empire and what are they for? (e.g [[Senate]] is for politics)
+* What are the key Structures of [[The Empire|the Empire]] and what are they for? (e.g [[Senate]] is for politics)
 ## Timing
-The Test is normally conducted in two periods. One on Friday from 1900-2030 and one on Saturday just after lunch. The Friday period [[Will|will]] be reserved for young players who are over 14 or who have attended citizenship lessons at previous [[Events|events]]. All other young players will be asked to take their test on Saturday as this will allow them to have a citizenship lesson beforehand.
+The Test is normally conducted in two periods. One on Friday from 1900-2030 and one on Saturday just after lunch. The Friday period [[Will|will]] be reserved for young players who are over 14 or who have attended citizenship lessons at previous [[Events|events]]. All other young players [[Will|will]] be asked to take their test on Saturday as this [[Will|will]] allow them to have a citizenship lesson beforehand.
 ## Benefits & responsibilities
-Once a candidate has passed the Test, they will receive the following benefits and responsibilities:
+Once a candidate has passed the Test, they [[Will|will]] receive the following benefits and responsibilities:
 ### In Character Benefits
-* They are recognised as a full citizen of the Empire and as such have the same rights as any other citizen of any age
+* They are recognised as a full citizen of [[The Empire|the Empire]] and as such have the same rights as any other citizen of any age
 * They can vote in elections, stand for office, and represent their nation
 ### In Character Responsibilities
 * They are fully culpable under [[Imperial Law]] for any crimes they commit

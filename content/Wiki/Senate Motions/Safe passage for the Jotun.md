@@ -20,5 +20,5 @@ Proposed by [[Sermersuaq]], seconded by [[Weirwater]]
 ### Progress
 * Complete
 ### [[Campaign outcome|Campaign Outcome]]
-A Jotun delegation attended the [[Summer]] solstice and agreed a treaty.
+A [[Jotun]] delegation attended the [[Summer]] solstice and agreed a treaty.
 __NOTOC__

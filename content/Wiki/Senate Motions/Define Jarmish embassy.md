@@ -14,6 +14,6 @@ To assign the Jarmish [[Embassy]] a remote principality to work with.Proposed by
 ===Date=== 
 * [[Winter]] 378YE
 ### [[Campaign outcome|Campaign Outcome]]
-* This decision should cause the [[Principalities of Jarm]] to recognise the Imperial embassy in Cargo. 
+* This decision should cause the [[Principalities of Jarm]] to recognise the Imperial [[Embassy|embassy]] in Cargo. 
 * Oswi Twice-Burned was appointed [[Ambassador to Jarm]] at the [[Autumn]] Equinox 378YE
 __NOTOC__

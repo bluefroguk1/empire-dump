@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Amend the powers of the Advisor on Orc Affairs
 aliases: ['Amend_the_powers_of_the_Advisor_on_Orc_Affairs']

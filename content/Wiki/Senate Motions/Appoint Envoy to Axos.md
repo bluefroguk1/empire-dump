@@ -17,7 +17,7 @@ That one of the nominees should be given the [[Imperial Title|imperial title]] E
 * Valimar Clarev Parakgoosier Bashnya ([[League]])
 * Marissa Shatterspire ([[Urizen]]) 
 ### [[Campaign outcome|Campaign Outcome]]
-Valimar Clarev Parakgoosier Bashnya was appointed envoy to Axos.
+Valimar Clarev Parakgoosier Bashnya was appointed envoy to [[Axos]].
 ### Voting
 {| class="wikitable"
 |-

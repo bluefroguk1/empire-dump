@@ -25,9 +25,9 @@ Things you [[Will|will]] need
 * An iron. I really mean it this time.
 Here is your basic shape:
 500px
-You're going to cut two exactly like this, and two mirror images. The dimensions on this image [[Will|will]] make up something that will fit over the T tunic in the previous tutorial. The neck hole can be approximated - you want something a little bit narrower and a little deeper than your under-tunic, so you get a flash of contrasting colour.
+You're going to cut two exactly like this, and two mirror images. The dimensions on this image [[Will|will]] make up something that [[Will|will]] fit over the T tunic in the previous tutorial. The neck hole can be approximated - you want something a little bit narrower and a little deeper than your under-tunic, so you get a flash of contrasting colour.
 500px
-Again, make sure that the dimensions will go round your chest and add to them if necessary. If you're going to wear it over armour, make sure you have your armour on when you measure, and add at least 5 inches in total to your armoured chest measurement. You may have to make the armholes deeper.
+Again, make sure that the dimensions [[Will|will]] go round your chest and add to them if necessary. If you're going to wear it over armour, make sure you have your armour on when you measure, and add at least 5 inches in total to your armoured chest measurement. You may have to make the armholes deeper.
 Here is a picture showing you how to sew it together -it's really as simple as sewing the shoulder seams (front to back on both sides), then the sides of the surcote. At the front, sew it from the neck down to about half way, then hem the edges below that - this gives you a split for mobility. 
 500px
 Hem the front split and the bottom, the armholes and the neck. Bias tape is a nice way of doing the curved edges. (http://tutorials.abbott.me.uk/home/bias-tape )
@@ -40,7 +40,7 @@ Sew this line, using your pins as a guide to get your stitches on [[The Marked|t
 Then, turn the stripe over so that the stitched seam is covered by it, and press it. 
 You can then turn the other side under and pin it in place ready to be hand or machine stitched down from the top. 
 Then do this with every alternate line marked on your coloured piece. 
-Eventually all your black stripes will be sewn on, and your machine stitching will be covered under the fold of the black fabric. 
+Eventually all your black stripes [[Will|will]] be sewn on, and your machine stitching will be covered under the fold of the black fabric. 
 Well done. Now do it again on the matching piece. This is fiddly and time consuming, but don't mistake that for being impossible. Take your time, pin and press where necessary, and you'll get great results.
 To fix the other side of the black stripes, you can either topstich them down by machine, following the line of your pins that are holding them in place, or, if you don't want machine stitching to be visible, you can slipstich them down by hand.
 If your black stripes are at the neckline, you might want to topstitch round the edge before you trim off the excess black stripes, just so it behaves as one piece of fabric as you work with it. Even if you don't want any machine stitching to be visible, this will be concealed in the shoulder seam and in your neck finishing, so don't worry about it. 

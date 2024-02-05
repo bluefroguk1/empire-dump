@@ -1,8 +1,8 @@
 **Resonance and Dissonance**
 
-[[Ritual]] [[Magic|magic]] is not limitless in scope and there are a number of fundamental laws that are common to all the [[Realms|realms]], and certain limits that it cannot easily overcome. In addition to this, each of the six have strengths and weaknesses, referred to as resonance and dissonance. Where a [[Realm|realm]] is resonant with a theme, [[Rituals|rituals]] that produce that outcome are easier to cast using that [[Realm|realm]] than any other. For example, the [[Spring Realm]] is resonant with healing [[Magic|magic]], so [[Rituals|rituals]] that [[Heal|heal]] the wounded are easier to perform using the [[Spring]] realm than any other realm.
+[[Ritual]] [[Magic|magic]] is not limitless in scope and there are a number of fundamental laws that are common to all the [[Realms|realms]], and certain limits that it cannot easily overcome. In addition to this, each of the six have strengths and weaknesses, referred to as resonance and dissonance. Where a [[Realm|realm]] is resonant with a theme, [[Rituals|rituals]] that produce that outcome are easier to cast using that [[Realm|realm]] than any other. For example, the [[Spring Realm]] is resonant with healing [[Magic|magic]], so [[Rituals|rituals]] that [[Heal|heal]] the wounded are easier to perform using the [[Spring]] [[Realm|realm]] than any other [[Realm|realm]].
 
-Where a realm is dissonant with a theme, then it is much harder to create a ritual effect that produces that outcome, if it is even possible. For example, the [[Autumn Realm|Autumn realm]] is dissonant with healing magic, it can repair broken items and damaged buildings, but it has almost no ability at all to [[Heal|heal]] the wounded.
+Where a [[Realm|realm]] is dissonant with a theme, then it is much harder to create a ritual effect that produces that outcome, if it is even possible. For example, the [[Autumn Realm|Autumn realm]] is dissonant with healing [[Magic|magic]], it can repair broken items and damaged buildings, but it has almost no ability at all to [[Heal|heal]] the wounded.
 
 **Some of the Resonances of Spring:**
 **[[Venom]]**
@@ -13,19 +13,19 @@ Like [[Day magic]], Spring can be used to help a patient suffering from poison. 
 
 **Savagery**
 
-The wild chaos of the Spring Realm lends itself easily to rituals that fill the target with wild passions, especially rituals that make the subject feel ruthless, bloodthirsty, and ferocious. Such rituals are often inextricably linked with the power needed to grant the strength and vitality. Many powerful [[Spring rituals]] to strengthen the target have unavoidable side-effects that cause the subject to feel rage or similar reactions. Spring curses can force the victim to struggle with base urges like anger and greed.
+The wild chaos of the Spring Realm lends itself easily to [[Rituals|rituals]] that fill the target with wild passions, especially [[Rituals|rituals]] that make the subject feel ruthless, bloodthirsty, and ferocious. Such [[Rituals|rituals]] are often inextricably linked with the power needed to grant the strength and vitality. Many powerful [[Spring rituals]] to strengthen the target have unavoidable side-effects that cause the subject to feel rage or similar reactions. Spring curses can force the victim to struggle with base urges like anger and greed.
 
 **Chaos**
 
-All [[Spring magic]] is chaotic and difficult to control, as it were trying to escape the caster. Some magicians have even poetically suggested that Spring magic wants to be cast, it just hates to be controlled. Whatever the nature of the Spring Realm, magic that draws on it all too often has unforeseen consequences.
+All [[Spring magic]] is chaotic and difficult to control, as it were trying to escape the caster. Some magicians have even poetically suggested that [[Spring magic]] wants to be cast, it just hates to be controlled. Whatever the nature of the Spring Realm, [[Magic|magic]] that draws on it all too often has unforeseen consequences.
 
-Perhaps as a result, wild natural phenomena resonate strongly with Spring: storms, gales, and floods are part of Spring, as are tremors and quakes. If a [[Magician|magician]] wants to unleash wild uncontrolled destruction over an area, then Spring magic is by far the most powerful choice.
+Perhaps as a result, wild natural phenomena resonate strongly with Spring: storms, gales, and floods are part of Spring, as are tremors and quakes. If a [[Magician|magician]] wants to unleash wild uncontrolled destruction over an area, then [[Spring magic]] is by far the most powerful choice.
 
-[[Imperial lore]] does not include any rituals that create plagues, due to the inherent impossibility of controlling who is affected, but the [[Druj]] are known to possess magic of this kind.
+[[Imperial lore]] does not include any rituals that create plagues, due to the inherent impossibility of controlling who is affected, but the [[Druj]] are known to possess [[Magic|magic]] of this kind.
 
 **[[Ruin]]**
 
-Spring magic finds it easier than other realms to destroy man-made things. Buildings can be torn apart with vines, collapsed with tremors or simply rot away. In part this reflects the power of the realm to cause all things to succumb to the natural process of decay - for instance dead bodies can easily be made to quickly decay using Spring Magic. In part it reflects the wild power of Spring magic, expressed through storms and tremors, as well as the limitless power of nature to consume everything given time.
+[[Spring magic]] finds it easier than other realms to destroy man-made things. Buildings can be torn apart with vines, collapsed with tremors or simply rot away. In part this reflects the power of the realm to cause all things to succumb to the natural process of decay - for instance dead bodies can easily be made to quickly decay using Spring Magic. In part it reflects the wild power of Spring magic, expressed through storms and tremors, as well as the limitless power of nature to consume everything given time.
 
 **Dissonances of Spring:**
 
@@ -57,4 +57,4 @@ Spring magic can be wild and chaotic and it has a powerful tendency to cause the
 
 Sometimes called the first [[Law|law]] of magic, the Law of Intent stipulates that a [[Formulaic ritual|formulaic ritual]] can achieve only what the ritual was designed to do. Many magicians claim it is called formulaic magic for this very reason. The ability of [[Rivers of Gold]] to enhance the production of a [[Business|business]] by 180 rings is the fundamental intent of the ritual. It is not possible to perform the ritual on a [[Mine|mine]] or a [[Farm|farm]], nor to cast it with more mana crystals to get more money. The ritual can only be performed exactly as it was originally intended when it was formulated.
 
-At first glance, [[Spontaneous magic|spontaneous magic]] appears to offer a more flexible alternative, but the truth is that it is no more flexible than formulaic magic and often less so. Some variations can be part of a [[Formulaic ritual|formulaic ritual]], if the ritual is designed and constructed that way. When a magician creates a ritual projection to create a spontaneous effect, they must specify the intent of the ritual as exactly as possible. This can be much more demanding than an equivalent formulaic ritual - for example an [[Arcane projection|arcane projection]] to divine the properties of a [[Magical Item|magical item]] would be useful only for that magical item.
+At first glance, [[Spontaneous magic|spontaneous magic]] appears to offer a more flexible alternative, but the truth is that it is no more flexible than formulaic magic and often less so. Some variations can be part of a [[Formulaic ritual|formulaic ritual]], if the ritual is designed and constructed that way. When a magician creates a ritual projection to create a spontaneous effect, they must specify the intent of the ritual as exactly as possible. This can be much more demanding than an equivalent [[Formulaic ritual|formulaic ritual]] - for example an [[Arcane projection|arcane projection]] to divine the properties of a [[Magical Item|magical item]] would be useful only for that magical item.

@@ -20,14 +20,14 @@ Funds for the purchase of 20 [[White granite|white granite]] to be used on the c
 * Spring 379YE
 ### Costs
 * 30 wains of [[Weirwood|weirwood]]
-* 10 wains of white granite
+* 10 wains of [[White granite|white granite]]
 ## Progress
-* 10 wains of white granite supplied by Ros Jordan after the Summer Solstice 379YE.
+* 10 wains of [[White granite|white granite]] supplied by Ros Jordan after the Summer Solstice 379YE.
 * During the invasion of [[Sarvos]] by the [[Grendel]], the partially constructed docks were destroyed by orc pillagers. 
 ### [[Campaign outcome|Campaign Outcome]]
-* Once construction is complete, this motion [[Will|will]] cause the creation of a new [[Imperial Title|Imperial title]], this will be an Imperial [[Bourse]] position.
-* Any trade with the [[Asavean Archipelago]], especially trade in valuable [[Materials|materials]] such as white granite, requires the co-operation of Asavean merchants. Without their cooperation, these docks will not provide any special benefit.
+* Once construction is complete, this motion [[Will|will]] cause the creation of a new [[Imperial Title|Imperial title]], this [[Will|will]] be an Imperial [[Bourse]] position.
+* Any trade with the [[Asavean Archipelago]], especially trade in valuable [[Materials|materials]] such as [[White granite|white granite]], requires the co-operation of Asavean merchants. Without their cooperation, these docks [[Will|will]] not provide any special benefit.
 * A [[Synod|synod]] member indicated an intention to raise a [[Veto]]; however, the [[Imperial Synod]] had successfully used this power earlier during the summit so no [[Veto|veto]] is possible and construction can begin post-haste.
 ### Constitution
-* For the purposes of clarity; this will ''not'' create an additional seat on the Imperial Bourse.
+* For the purposes of clarity; this [[Will|will]] ''not'' create an additional seat on the [[Imperial Bourse]].
 __NOTOC__

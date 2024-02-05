@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Chorus of the Righteous
 aliases: ['Chorus_of_the_Righteous']

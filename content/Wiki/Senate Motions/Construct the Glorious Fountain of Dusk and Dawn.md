@@ -22,9 +22,9 @@ To create the [[Sinecure]] "The Glorious Fountain of Dusk and [[Dawn]]" to produ
 ### Progress
 * 10 wains of [[Mithril|mithril]] and 2 Thrones 4 crowns supplied by Cato, [[Senator|senator]] for [[Zenith]] after [[Autumn]] Equinox 379.
 ### [[Campaign outcome|Campaign Outcome]]
-* When complete, the sinecure [[Will|will]] automatically create a new [[Imperial Title]] to oversee it; [[Keeper of the Glorious Fountain]].
+* When complete, the [[Sinecure|sinecure]] [[Will|will]] automatically create a new [[Imperial Title]] to oversee it; [[Keeper of the Glorious Fountain]].
 ### Constitution
 * Sinecures are life-time appointments. 
-* The title will be a National position, appointed by unanimous decision of the Senators for [[Urizen]].
-* The title will be able to be revoked by the Urizen [[Assembly|assembly]], the [[General]] [[Assembly|assembly]] and the Assembly of nine.
+* The title [[Will|will]] be a National position, appointed by unanimous decision of the Senators for [[Urizen]].
+* The title [[Will|will]] be able to be revoked by the [[Urizen]] [[Assembly|assembly]], the [[General]] [[Assembly|assembly]] and the [[Assembly]] of nine.
 __NOTOC__

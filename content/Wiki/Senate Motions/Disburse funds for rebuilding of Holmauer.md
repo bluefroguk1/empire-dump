@@ -18,4 +18,4 @@ Proposed by [[Holberg]], Seconded by [[Karov]]
 ### Date
 * [[Autumn]] 380YE
 ### Progress
-* 100 thrones disbursed to [[Senator]] Holberg
+* 100 thrones disbursed to [[Senator]] [[Holberg]]

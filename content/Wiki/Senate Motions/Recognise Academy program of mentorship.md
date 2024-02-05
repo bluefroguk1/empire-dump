@@ -17,5 +17,5 @@ Proposed by [[Dean of the Academy]], Seconded by [[Sarvos]]
 ### Date
 * [[Spring]] 381YE
 ### Constitution
-This motion was declared unconstitutional, due to there being no constitutionally mandated role for the government of [[The Empire|the Empire]] in the mentorship of young people of the Empire.
+This motion was declared unconstitutional, due to there being no constitutionally mandated role for the government of [[The Empire|the Empire]] in the mentorship of young people of [[The Empire|the Empire]].
 OOC Note: Unfortunately it is not possible to implement a mentorship scheme in Empire because it is not compatible with our child safety guidelines.

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Fortify Mitwold
 aliases: ['Fortify_Mitwold']

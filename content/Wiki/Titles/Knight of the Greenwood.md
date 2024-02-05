@@ -16,10 +16,10 @@ The [[Knight of the Greenwood]] is responsible for organising Dawnish knights to
 ## Powers
 ### Treasures from the Quest
 The [[Sinecure|sinecure]] provides six measures of natural [[Materials|materials]], and nine drams of [[Herbs|herbs]] each season claimed from questing against the [[Vallorn|vallorn]] or given as gifts by those resting at Greenwood Manor.
-SuitabilityThe Knight of the Greenwood is intended to be held by a noble: the task of organising knights against [[The Vallorn|the vallorn]] is unsuitable for a yeofolk. If the title is held by a character who is a yeofolk, or they somehow become one during their [[Tenure|tenure]], then the player must email admin@profounddecisions.co.uk to let us know.
+SuitabilityThe [[Knight of the Greenwood]] is intended to be held by a noble: the task of organising knights against [[The Vallorn|the vallorn]] is unsuitable for a yeofolk. If the title is held by a character who is a yeofolk, or they somehow become one during their [[Tenure|tenure]], then the player must email admin@profounddecisions.co.uk to let us know.
 ## [[Appointment]]
-This title is appointed during the Autumn Equinox. The Knight of the Greenwood is a national position appointed by [[The Synod|the Synod]]. It is elected by [[Judgement]] of the Dawnish [[Assembly]]. 
-The title can be held by any Dawnish citizen. They can be revoked by the [[General]] [[Assembly]], the Dawn [[National Assembly]], and by the [[Assembly of the Nine]].
+This title is appointed during the Autumn Equinox. The [[Knight of the Greenwood]] is a national position appointed by [[The Synod|the Synod]]. It is elected by [[Judgement]] of the Dawnish [[Assembly]]. 
+The title can be held by any Dawnish citizen. They can be revoked by the [[General]] [[Assembly]], the [[Dawn]] [[National Assembly]], and by the [[Assembly of the Nine]].
 Responsibilities Expectation
 RecentElections|Knight_of_the_Greenwood
 ## Further Reading

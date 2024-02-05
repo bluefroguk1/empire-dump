@@ -12,8 +12,8 @@ __NOTOC__
 Disburse funds to [[Empress Lisabetta]]
 Approved by [[Empress Lisabetta]]
 ### Overview
-* This motion was approved by Empress Lisabetta using the power of Hand of the Chancellor
+* This motion was approved by [[Empress Lisabetta]] using the power of Hand of the Chancellor
 ### Date
 * [[Autumn]] 380YE
 ### Progress
-* 276 thrones disbursed to Empress Lisabetta
+* 276 thrones disbursed to [[Empress Lisabetta]]

@@ -14,4 +14,4 @@ An [[Icon of the Justicar|icon of the justicar]] is the fruit of months of work 
 ## Rules
 Icons
 * Effect: While you are wielding this icon you can perform the [[Exorcism|exorcism]] ceremony as if you knew it.
-* Materials: Crafting an [[Icon of the Justicar]] requires no special materials. It takes two months to make one of these items.
+* [[Materials]]: Crafting an [[Icon of the Justicar]] requires no special [[Materials|materials]]. It takes two months to make one of these items.

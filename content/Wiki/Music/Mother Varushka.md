@@ -24,13 +24,13 @@ She knows what is needed for each thing to be
 She melts what she can of her snow-covered shawl
 To give us good food and to keep us safe all
 Chorus
-Mother Varushka is cunning and brave
+[[Mother Varushka]] is cunning and brave
 A thousand times over, our lives she [[Will|will]] save
 Careful and wary, like [[The Spider|the spider]] she spins
 And watches and waits for the wolves to fall in
 Chorus
-Mother Varushka is loyal and true
+Mother [[Varushka]] is loyal and true
 She loves all her [[Children|children]], the old and the new
 However she struggles neath [[Winter]]'s cruel yoke
-She still will defend her own brave Varushkan folk.
+She still [[Will|will]] defend her own brave Varushkan folk.
 Chorus

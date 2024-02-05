@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Knightly Bastion
 aliases: ['Knightly_Bastion']

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: League Icons and Artistry
 aliases: ['League_Icons_and_Artistry']

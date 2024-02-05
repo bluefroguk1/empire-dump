@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Flavours of Africa
 aliases: ['Flavours_of_Africa']
 draft: False

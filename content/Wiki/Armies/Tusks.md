@@ -22,5 +22,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Disciplined
-The Tusks demonstrated their highly disciplined nature during the liberation of the [[Mournwold]].
-RecentElections|General_of_the_Tusks|the title of [[General]] of the Tusks
+The [[Tusks]] demonstrated their highly disciplined nature during the liberation of the [[Mournwold]].
+RecentElections|General_of_the_Tusks|the title of [[General]] of the [[Tusks]]

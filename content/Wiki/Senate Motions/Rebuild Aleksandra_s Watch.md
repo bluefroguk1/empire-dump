@@ -11,7 +11,7 @@ revision_id: 86076
 __NOTOC__
 To undertake construction work at Aleksandra’s Watch, a fortress in [[Karsk]].Proposed by [[Karsk]], seconded by [[Reikos]]. 
 ### Overview
-* Reconstruction work on Aleksandra's Watch in Karsk
+* Reconstruction work on Aleksandra's Watch in [[Karsk]]
 * Passed
 ### Date
 * [[Winter]] 381YE

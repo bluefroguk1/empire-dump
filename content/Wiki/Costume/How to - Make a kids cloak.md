@@ -16,9 +16,9 @@ This pattern makes a cloak to fit a 2-4 year old - you could make it for a bigge
 Thread in a matching or co-ordinating colour
 A brooch to pin the neck shut, or a fastener to sew on.
 ### Instructions
-Following the picture below, cut out two pieces - the big wide one [[Will|will]] be the body of [[The Cloak|the cloak]], and the littler one will be the hood. 
+Following the picture below, cut out two pieces - the big wide one [[Will|will]] be the body of [[The Cloak|the cloak]], and the littler one [[Will|will]] be the hood. 
 File:julescloakcuttinglayout.jpg
-Now, following the picture below, fold the hood piece as shown and sew down one edge - this will be the back of the hood.
+Now, following the picture below, fold the hood piece as shown and sew down one edge - this [[Will|will]] be the back of the hood.
 File:julescloakhood.jpg
 Now, carefully matching the middle of the LONG EDGE of the body piece to the seam at the back of the hood, and matching the FRONT EDGES of the hood to the SHORT EDGES of your body piece, gather or pleat the LONG EDGE of the body piece to the NECK EDGE of the hood piece. Sew this seam [[All the way|all the way]] around. Your cloak is now basically done.
 Finally, hem all [[The Way|the way]] around.

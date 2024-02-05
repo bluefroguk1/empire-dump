@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Entry requirements
 aliases: ['Entry_requirements']
 draft: False
@@ -10,7 +10,7 @@ tags: ['Game-Design']
 
 ## Overview
 We encourage everyone who is attending a Profound Decisions Empire event to take a COVID test before they travel. If you have any COVID symptoms, then you must have recently had a negative COVID test result to attend the event. If not, you [[Will|will]] not be permitted to enter the event.
-Additional [[COVID safety]] measures [[Will|will]] be in place for all [[Events|events]] in 2023, we will review some of these measures before each event and update them based on the current situation.
+Additional [[COVID safety]] measures [[Will|will]] be in place for all [[Events|events]] in 2023, we [[Will|will]] review some of these measures before each event and update them based on the current situation.
 ## Using a COVID Test
 * We encourage everyone to take an LFT on the [[Day|day]] of travel, even if you have no symptoms
 * You must take a COVID test if you have any new symptoms, even if you are vaccinated
@@ -28,7 +28,7 @@ We encourage everyone attending an event in 2023 to take an LFT on the day of tr
 * loss of appetite
 * diarrhoea
 * feeling sick or being sick
-If you develop any of the above symptoms while you are at the event, then you will need to isolate until you can take an LFT. If this test is positive then you must go home as soon as it is practical to do so and make all reasonable attempts to isolate until then. If this happens then let us know as soon as possible and we will switch your booking to complimentary. The entire [[Cost|cost]] of your ticket will be fully refunded to your account, but you will still qualify as having attended, so you will still be eligible to submit a [[Downtime|downtime]] and receive XP benefits as if you had attended the event normally.
+If you develop any of the above symptoms while you are at the event, then you [[Will|will]] need to isolate until you can take an LFT. If this test is positive then you must go home as soon as it is practical to do so and make all reasonable attempts to isolate until then. If this happens then let us know as soon as possible and we [[Will|will]] switch your booking to complimentary. The entire [[Cost|cost]] of your ticket will be fully refunded to your account, but you will still qualify as having attended, so you will still be eligible to submit a [[Downtime|downtime]] and receive XP benefits as if you had attended the event normally.
 Please don't bring your LFT test with you, our [[Gate|gate]] staff will simply ask you if you have any COVID symptoms and to confirm that you have taken an LFT test that day and that you have not newly tested positive in the last seven days.
 There will not be COVID tests available at the event. You must acquire your own test and complete it before you arrive if you have any COVID symptoms.
 ## If You Test Positive For COVID

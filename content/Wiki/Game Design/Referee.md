@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Referee
 draft: False
 revision_date: 2023-09-06 08:04:54+00:00
@@ -13,16 +13,16 @@ Referees at Empire are there to facilitate and assist with the rules of [[The ga
 ### Identifying a Ref
 *Refs wear a gold and black quartered livery coat
 *Please avoid using a quartered gold and black livery coat as your [[Costume|costume]]
-Our referees will be wearing basic [[Costume|costume]] and a gold and black quartered livery coat like the one pictured. On occasions where we need to put a large number of referees in the field at once then some refs may wear a gold and black quartered tabard instead. Anyone who is wearing a livery coat with this design should be treated as a [[Referee|referee]]. For this reason players are not allowed to wear this design of livery coat.
+Our referees [[Will|will]] be wearing basic [[Costume|costume]] and a gold and black quartered livery coat like the one pictured. On occasions where we need to put a large number of referees in the field at once then some refs may wear a gold and black quartered tabard instead. Anyone who is wearing a livery coat with this design should be treated as a [[Referee|referee]]. For this reason players are not allowed to wear this design of livery coat.
 __TOC__
-Referees in Empire are purely OOC. They do not exist in [[The game|the game]] in any IC form. They are wearing a distinctive piece of costume so that they can be easily identified without breaking the visual immersion of the field, they should not be treated as [[Characters|characters]].
+Referees in Empire are purely OOC. They do not exist in [[The game|the game]] in any IC form. They are wearing a distinctive piece of [[Costume|costume]] so that they can be easily identified without breaking the visual immersion of the field, they should not be treated as [[Characters|characters]].
 ### When to get a Ref
 * Performing any game action that involves direct player-versus-player conflict with participant
 * Performing any [[Curse|curse]] [[Ritual|ritual]] - you need a referee to inflict a pronouncement of doom
 * Using any poison
 * Before getting involved in [[Combat|combat]] if possible - the balance of doubt goes to the defender in a dispute if no ref is present
 * You ''must'' get a ref before you attack another participant who is under sixteen
-You should get a referee before you take any game action that involves direct conflict with another participant involving [[Combat|combat]], [[Magic|magic]] or other rules elements. You must get a get before you perform a [[Curse]] ritual, you will need their help to inflict the pronouncement of doom. You should also get a ref before using any poison, you will need a referee to use an ingested poison.
+You should get a referee before you take any game action that involves direct conflict with another participant involving [[Combat|combat]], [[Magic|magic]] or other rules elements. You must get a get before you perform a [[Curse]] ritual, you [[Will|will]] need their help to inflict the pronouncement of doom. You should also get a ref before using any poison, you [[Will|will]] need a referee to use an ingested poison.
 We would encourage you to get a referee to assist with:
 * Attacking another character including poisoning or capturing them
 * Stealing items or money from other [[Characters|characters]]
@@ -45,7 +45,7 @@ You must get the help of a full time referee for anything more complex than this
 * Wandering [[Anvil]] looking for a passing referee is not recommended
 The easiest way to find a referee is to go to one of the three ref stations located around the site. There will be a referee on duty at each of these locations throughout time-in under normal circumstances. The three ref stations are:
 * The GOD tent - this is the games operation desk, the central tent where you collected your pack at the start of the event
-* The [[Regio]] - this is the location where [[Rituals|rituals]] are performed, marked with standing pillars near the [[Hall of Worlds]]. Please be aware referees here may be busy processing regio [[Rituals|rituals]].
+* The [[Regio]] - this is the location where [[Rituals|rituals]] are performed, marked with standing pillars near the [[Hall of Worlds]]. Please be aware referees here may be busy processing [[Regio|regio]] [[Rituals|rituals]].
 * The Referee Access Tent - this is a tent at the entrance to the [[Wintermark]] & [[Dawn]] field, near the toilet block and [[Military Council]] tent
 If you can see a crew member with a radio who is not busy, then you can ask them to radio the ref desk to request a referee. If we have can then we will dispatch the nearest available referee to your current location if we can identify it.
 We do not recommend wandering [[Anvil]] looking for a passing referee. You are unlikely to find one this way, and any referee you come across is likely to be busy helping another participant already.
@@ -56,8 +56,8 @@ Marshals at Empire are not referees. Although they support the game they are not
 Marshals have a range of responsibilities, such as overseeing safety, handling special FX, and delivering messages or game rulings to players. A marshal may find you to deliver an item or game ruling but you should not approach a marshal looking for help, unless it is an emergency.
 ### Identifying a Marshal
 *Marshals wear a red and black quartered livery coat
-*Please avoid using a quartered red and black livery coat as your costume if possible
-Our marshals will be wearing basic costume and a red and black quartered livery coat like the one pictured for the referee but with red panels rather than gold. Anyone who is wearing a livery coat with this design should be treated as a marshal. For this reason players are not allowed to wear livery coats with this specific design and colour scheme.
+*Please avoid using a quartered red and black livery coat as your [[Costume|costume]] if possible
+Our marshals will be wearing basic [[Costume|costume]] and a red and black quartered livery coat like the one pictured for the referee but with red panels rather than gold. Anyone who is wearing a livery coat with this design should be treated as a marshal. For this reason players are not allowed to wear livery coats with this specific design and colour scheme.
 Like referees, the marshals in Empire are purely OOC. They do not exist in the game in any IC form. They are wearing a distinctive piece of costume so that they can be easily identified without breaking the visual immersion of the field, they should not be treated as characters.
 ## GOD
 *If you have a query then you can go to the Games Operation Desk (GOD)

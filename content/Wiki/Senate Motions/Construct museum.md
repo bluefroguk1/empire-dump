@@ -10,7 +10,7 @@ revision_id: 85895
 
 That the museum in Tabernacle (of Riverwatch, Rekios) has been destroyed in the recent fighting, that it be rebuilt in the lands of [[Bastion]].A museum for the storage and display of Imperial relics and artefacts.Proposer is willing to self fund, but would like to ask [[The Senate|the senate]] and the senators for contributions.Proposed by [[Bastion]], seconded by [[Necropolis]].
 ### Overview
-* Construct an Imperial museum in Bastion.
+* Construct an Imperial museum in [[Bastion]].
 * Passed at 8 Thrones
 ### Date
 * [[Summer]] 378YE

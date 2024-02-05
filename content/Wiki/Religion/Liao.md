@@ -9,7 +9,7 @@ revision_id: 102832
 
 ## Overview
 [[Liao]] is a purple powder that is used in ceremonial rites performed by Imperial priests.
-[[Liao]] is made from ''vinum''. Vinum is a white sap that was discovered by the [[Navarr]] to form a chewable confection that aids with deep, restful and dreamless sleep; and was often used to treat nightmares and [[Night|night]] terrors. Refining vinum to produce liao is a costly and time-consuming process. In [[The Empire|the Empire]], the civil service purchases large amounts of vinum, and processes it to create liao which is then provided to everyone who ministers to a [[Congregation]] personal [[Resource|resource]]. Thanks to centuries of experience and improvement the civil service are able to produce liao quite efficiently for a fraction of the [[Cost|cost]] that any individual could make it.
+[[Liao]] is made from ''vinum''. Vinum is a white sap that was discovered by the [[Navarr]] to form a chewable confection that aids with deep, restful and dreamless sleep; and was often used to treat nightmares and [[Night|night]] terrors. Refining vinum to produce [[Liao|liao]] is a costly and time-consuming process. In [[The Empire|the Empire]], the civil service purchases large amounts of vinum, and processes it to create [[Liao|liao]] which is then provided to everyone who ministers to a [[Congregation]] personal [[Resource|resource]]. Thanks to centuries of experience and improvement the civil service are able to produce [[Liao|liao]] quite efficiently for a fraction of the [[Cost|cost]] that any individual could make it.
 ## Cards
 * Liao is indicated using a card
 * Rip the card on use
@@ -27,7 +27,7 @@ Consuming liao without the use of a ceremony causes a human to experience vivid,
 During the maturing process that turns vinum into liao, around one dose in ten thousand matures to a radiant purple. This has come to be known as true liao, or Imperial liao. True liao is extremely rare, powerful, and valuable. The amount of pure liao produced each season varies; it has proved impossible to predict which doses of liao [[Will|will]] mature into true liao.  The most common use for true liao is to provide a human with a special vision of another time and place, which is held to be one of their past lives. There are several other uses, however. It can also be used in place of ceremonial liao to significantly [[Empower|empower]] the effect of a religious skill, or used in the creation of an [[Inspirational location]], for example.
 Normal ceremonial liao is well known to make orcs mildly unwell and produce no notable spiritual effects that anyone has ever been able to distinguish. True liao, as essentially a stronger version of ceremonial liao, is likely to produce stronger side effects: whether these would be sufficient to kill the orc or simply make them very unwell is not known, nor has anyone ever seen fit to use a dose of the rarest substance in [[The Empire|the Empire]] for such a potentially fatal investigation.
 ### Assignment
-The amount of true liao produced each season varies but it is the rarest substance in the Empire. [[The Throne]] is given the first portion as one of their Powers of Virtue. The second portion is auctioned to the highest bidder as part of the [[Auction of the Seats]]; the proceeds are added to [[The Synod|the Synod]]'s Virtue Fund. A third portion, available through the auspices of the Lepidean Library, is distributed by the [[Imperial Synod]] using the [[Judgement]] of [[Rewarding]]. All additional portions are allocated by the Gatekeepers, representing the Virtue assemblies of the [[Imperial Synod]].
+The amount of true liao produced each season varies but it is the rarest substance in [[The Empire|the Empire]]. [[The Throne]] is given the first portion as one of their Powers of Virtue. The second portion is auctioned to the highest bidder as part of the [[Auction of the Seats]]; the proceeds are added to [[The Synod|the Synod]]'s Virtue Fund. A third portion, available through the auspices of the Lepidean Library, is distributed by the [[Imperial Synod]] using the [[Judgement]] of [[Rewarding]]. All additional portions are allocated by the Gatekeepers, representing the Virtue assemblies of the [[Imperial Synod]].
 Upon receiving the right to a dose of true liao, either through winning the auction or by acclaim of the gatekeepers, the dose can be claimed directly from the [[Tribune of the Synod]]. As soon as the dose is claimed, it becomes the rightful property of that citizen; they can do what they wish with the dose.
 Some actions taken with True Liao remain illegal, however - [[The Senate|the Senate]] outlawed trading the sacred substance with non-Imperial citizens, and uses of it can still be condemned as abuse of powers by the Imperial [[Synod]].
 ### True Liao in Play
@@ -59,12 +59,12 @@ True liao can be used in place of common liao to perform any liao ceremony.
 *[[The Way]] of Virtue
 * [[Imperial Theology]]
 ** Liao
-** Past life vision
+** [[Past life vision]]
 ** [[The Doctrines of the Faith]]
 ** [[Signs of the paragon and exemplar]]
 ** [[Schisms and Heresies]]
 ** [[Investigative Theology]]
-*Imperial Synod
+*[[Imperial Synod]]
 *[[Religious skills|Religious Skills]]
 *[[Religious Crimes]]
 *Recent [[History]]

@@ -19,7 +19,7 @@ The heralds that congregate at the [[Enchanted|enchanted]] [[Congregation]] prov
 This ritual [[Will|will]] not have any effect if the [[Eternal]] [[Callidus]] is under enmity of the [[Imperial Conclave]].
 Season Duration [[Downtime]] buff
 ### Additional Targets
-This ritual can affect additional congregations provided the congregations are all controlled by [[Characters|characters]] from the same [[Coven|coven]]. Each additional congregation increases the magnitude by 12. The character who controls each congregation must be present throughout the ritual.
+This ritual can affect additional congregations provided the congregations are all controlled by [[Characters|characters]] from the same [[Coven|coven]]. Each additional [[Congregation|congregation]] increases the magnitude by 12. The character who controls each [[Congregation|congregation]] must be present throughout the ritual.
 ### Assurance
 This ritual directly invokes the power of the [[Eternal|eternal]] [[Callidus]]. If he is ever under the enmity of [[The Conclave|the Conclave]] for four consecutive seasons the contract that forms the basis of this ritual is broken. It [[Will|will]] no longer be possible to perform it. A new contract could be discussed to re-[[Empower|empower]] the ritual but that would require extensive negotiation.
 ## Description

@@ -23,4 +23,4 @@ Providing [[Sanctuary]] and healing, both physical and emotional, to those that 
 ## Progress
 CommissionProgress|Hall_of_the_Unbroken
 ## Outcome
-* Once complete, the sinecure is intended to provide mana to the [[Hearthtender of the Unbroken]] appointed by unanimous decision of the senators of [[Wintermark]]
+* Once complete, the [[Sinecure|sinecure]] is intended to provide mana to the [[Hearthtender of the Unbroken]] appointed by unanimous decision of the senators of [[Wintermark]]

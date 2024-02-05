@@ -18,5 +18,5 @@ __NOTOC__
 ## Date
 * [[Autumn]] 384YE.
 ## Outcome
-* The treaty has been enacted by the Civil Service; new trade status is dependant on the Iron Confederacy also ratifying the treaty
+* The treaty has been enacted by the Civil Service; new trade status is dependant on the [[Iron Confederacy]] also ratifying the treaty
 * The treaty is subject to some additional [[Scrutiny]] as the Imperial magistrates determine the best way to cooperate with the Suranni templars.

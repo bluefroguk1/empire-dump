@@ -30,5 +30,5 @@ CommissionProgress|Kauppahall
 ## Constitution
 * As detailed in the [[Opportunity|opportunity]], the constitutional method to appoint this title is through the [[Imperial Bourse]]. It is not constitutional to appoint a title via the [[Imperial Senate]] if that position is primarily concerned with the acquisition of [[Bourse|bourse]] resources.
 * Construction of Kauppahall is well underway and [[Will|will]] be completed shortly before the [[Spring]] Equinox 384YE.
-* The Constitutional Court will raise an [[Administrative motion|administrative motion]]; that [[The Senate|the Senate]] amend the title of [[Talon of Kauppahall]] to be appointed via [[Tally of the Votes]]. if they do so the title can be appointed during the summit
+* The Constitutional Court [[Will|will]] raise an [[Administrative motion|administrative motion]]; that [[The Senate|the Senate]] amend the title of [[Talon of Kauppahall]] to be appointed via [[Tally of the Votes]]. if they do so the title can be appointed during the summit
 * The administrative motion was raised and passed.

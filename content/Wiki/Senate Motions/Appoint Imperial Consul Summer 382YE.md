@@ -17,4 +17,4 @@ To appoint an [[Imperial Consul]]. ''Proposed by [[Segura]], seconded by [[Miare
 ## Date
 *[[Summer]] 382YE
 ## [[Campaign outcome|Campaign Outcome]]
-* Skywise Fal was appointed as Imperial Consul
+* Skywise Fal was appointed as [[Imperial Consul]]

@@ -13,7 +13,7 @@ To use the wayleaf to construct a butterfly reserve in the forests of [[Miekarov
 Announced by Julianna of Phoenix Reach, [[Urizen]]
 ### Overview
 * A [[Sinecure]] that produces 20 measures of [[Iridescent gloaming|Iridescent Gloaming]] in [[Miekarova]]
-* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This [[Sinecure|sinecure]] was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Spring]] 381YE
 ### [[Cost]]
@@ -23,4 +23,4 @@ Announced by Julianna of Phoenix Reach, [[Urizen]]
 ### Progress
 * 15 wains of [[Weirwood|weirwood]] and 30 crowns provided by Juliana after Spring Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, once completed, [[Will|will]] create a new title, the [[Gloaming Sentinel]], elected by a [[Declaration]] of [[Candidacy]] in the [[Imperial Conclave]].
+* This [[Sinecure|sinecure]], once completed, [[Will|will]] create a new title, the [[Gloaming Sentinel]], elected by a [[Declaration]] of [[Candidacy]] in the [[Imperial Conclave]].

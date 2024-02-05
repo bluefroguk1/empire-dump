@@ -11,13 +11,13 @@ revision_id: 106087
 ## Overview
 The [[Blackroot Broker]] is an [[Imperial Title]]  awarded to a [[Navarr]] citizen. It was commissioned in [[Spring]] 382YE by order of the [[Imperial Senate]], and completed shortly before the [[Summer]] Solstice. The [[Opportunity]] to construct the brokerage arose as a result of a meeting of brokers in [[Miaren]] following successes fighting [[The Vallorn|the Vallorn]] of [[Liathaven]].
 ## Responsibilities
-The [[Broker]] is expected to gather tools for fighting the [[Vallorn|vallorn]] not only from [[Navarr]] apothecaries and artisans, but also from crafters across [[The Empire|the Empire]]. How these tools are deployed is at the discretion of the Broker but it is assumed at least some [[Will|will]] be made available to those directly opposing [[The Vallorn|the vallorn]]'s wickedness. The brokerage allows the Broker to purchase [[Herbs|herbs]] to [[Combat|combat]] [[Vallorn|vallorn]] miasma and green lung, blade [[Venom|venom]] inimical to many vallorn creatures, and Scorpion's Sting daggers whose powers are likewise lethal to creatures such as the [[Vallornspawn husk]].
+The [[Broker]] is expected to gather tools for fighting the [[Vallorn|vallorn]] not only from [[Navarr]] apothecaries and artisans, but also from crafters across [[The Empire|the Empire]]. How these tools are deployed is at the discretion of the Broker but it is assumed at least some [[Will|will]] be made available to those directly opposing [[The Vallorn|the vallorn]]'s wickedness. The brokerage allows the Broker to purchase [[Herbs|herbs]] to [[Combat|combat]] [[Vallorn|vallorn]] miasma and green lung, blade [[Venom|venom]] inimical to many [[Vallorn|vallorn]] creatures, and Scorpion's Sting daggers whose powers are likewise lethal to creatures such as the [[Vallornspawn husk]].
 ## Powers
 ### [[Ministry]]
 Herbs
 7 Crowns10 [[Imperial Roseweald|Imperial roseweald]], 6 [[Bladeroot|bladeroot]]
 17 Crowns21 [[Imperial Roseweald|Imperial roseweald]], 12 [[Bladeroot|bladeroot]]
-35 Crowns30 Imperial roseweald, 20 bladeroot
+35 Crowns30 [[Imperial Roseweald|Imperial roseweald]], 20 [[Bladeroot|bladeroot]]
 Potions
 7 Crowns3 [[Oil of Blackthorn]]
 17 Crowns6 Oil of Blackthorn
@@ -27,11 +27,11 @@ Scorpion's Sting
 17 Crowns2 Scorpion's Sting
 35 Crowns3 Scorpion's Sting
 As a [[Ministry]], the title of [[Blackroot Broker]] allows the holder to purchase specific potions, herbs, and venomous daggers at a set price. The Broker makes their decision on how much money to spend during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
-The brokerage is designed to provide several items specifically of use to those fighting the vallorn. As a consequence, the Broker has not one but ''three'' streams from which they can purchase goods. The Broker can spend differing amounts on each stream - for example, they could spend 7 crowns on herbs, and 17 crowns on potions, and none of the other.
+The brokerage is designed to provide several items specifically of use to those fighting [[The Vallorn|the vallorn]]. As a consequence, the Broker has not one but ''three'' streams from which they can purchase goods. The Broker can spend differing amounts on each stream - for example, they could spend 7 crowns on herbs, and 17 crowns on potions, and none of the other.
 ## [[Appointment]]
-This title is appointed during the Summer Solstice by unanimous decision of the senators of Navarr. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
-The title can be held by a Navarr citizen. The Broker is appointed annually. They can be revoked by the [[General]] [[Assembly]], the Navarr [[National Assembly]], and by the [[Assembly of the Nine]].
+This title is appointed during the Summer Solstice by unanimous decision of the senators of [[Navarr]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
+The title can be held by a [[Navarr]] citizen. The Broker is appointed annually. They can be revoked by the [[General]] [[Assembly]], the [[Navarr]] [[National Assembly]], and by the [[Assembly of the Nine]].
 ## Honest Twyll's Gardening Supplies
-This unassuming appearing brokerage is found near the large [[Steading]] of Holt in Holtford. It purportedly sells a wide variety of gardening and agricultural supplies, but it also serves as a centre of commerce for Navarr brokers who deal in herbs, potions, and weapons against the vallorn. 
+This unassuming appearing brokerage is found near the large [[Steading]] of Holt in Holtford. It purportedly sells a wide variety of gardening and agricultural supplies, but it also serves as a centre of commerce for Navarr brokers who deal in herbs, potions, and weapons against [[The Vallorn|the vallorn]]. 
 RecentElections|Blackroot_Broker 
 Responsibilities Expectation

@@ -11,12 +11,12 @@ revision_id: 28477
 Song by Jamie Wakefield  (https://soundcloud.com/jamie-wakefield/[[Navarr|navarr]]-running) 
 Chorus in Bold.
 [[Chords]]: Em G D Em
-[[Navarr]] Navarr run in [[Wintermark]]
+[[Navarr]] [[Navarr]] run in [[Wintermark]]
+[[Navarr]] [[Navarr]] run in [[Wintermark]]
 Navarr Navarr run in [[Wintermark]]
-Navarr Navarr run in Wintermark
-Navarr Navarr run in Wintermark
+Navarr Navarr run in [[Wintermark]]
 Navarr run [[Striding|striding]] over hill and over grass
-Navarr Navarr run in Wintermark
+Navarr Navarr run in [[Wintermark]]
 Navarr Navarr are the terror in the dark
 Navarr Navarr run in Wintermark
 Navarr Navarr all [[Barbarians|barbarians]] do fear

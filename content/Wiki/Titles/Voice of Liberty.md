@@ -12,25 +12,25 @@ revision_id: 105534
 The [[Voice of Liberty]] is an [[Imperial Title]] appointed by [[The Senate|the Senate]]. The title was created during the [[Spring]] Equinox 383YE, and represents [[The Empire|the Empire]] at meetings of the [[Liberty Pact]]. Ratified by the [[Senate]] during the [[Winter]] Solstice 382YE, the Liberty Pact was created as a political and economic alliance between [[The Empire|the Empire]], the [[Sumaah Republic]], the [[Commonwealth]], and the Citadels of [[Axos]]. It is dedicated to ending slavery in the known world, initially by enforcing trade [[Sanctions|sanctions]] on nations that do not disavow the abhorrent practice.
 As evidenced by the 384YE raid on the Asavean city of Chalonsio, and the destruction of the Slave Lords of Rachensgrab, it is clear that the alliance is also capable of taking proactive steps to discourage slavery in the wider world. The pact was amended by the Senate during the [[Summer]] Solstice 385YE, to clarify how meetings of the Liberty Pact might be called, and to make clear that no signatory was required to offer military aid to another - but it would be illegal to offer military aid to someone attacking a signatory.
 ==Responsibilities== 
-The [[Voice of Liberty]] is responsible for representing the Empire during any meetings of the members of the international Liberty Pact.
+The [[Voice of Liberty]] is responsible for representing [[The Empire|the Empire]] during any meetings of the members of the international Liberty Pact.
 ## Powers
 ### Amendment
-The Voice of Liberty is able to present an amendment to the International Liberty Pact for consideration by the Senate. A [[Senator]] must use a [[Senate motion]] to submit the amendment for ratification by the Senate - but ratification only requires a single [[Senate motion|senate motion]], regardless of how many legal changes are required to ratify the amendment.
+The [[Voice of Liberty]] is able to present an amendment to the International Liberty Pact for consideration by the Senate. A [[Senator]] must use a [[Senate motion]] to submit the amendment for ratification by the Senate - but ratification only requires a single [[Senate motion|senate motion]], regardless of how many legal changes are required to ratify the amendment.
 __TOC__
 Ratification of an amendment is considered to be a single motion before the Senate because the Senate can either choose to accept the amendment or reject it. It is not possible to amend an amendment once it is presented as a motion; it either passes in its entirety in the form it was submitted or it does not pass. The only legal way for the Senate to ratify variations of an amendment would be to submit different amendments as separate motions.
-As a senate motion, an amendment should be carefully worded. It should be concise and to the point, clearly laying out the actions to be taken as part of the amendment. Amendments are subject to [[Scrutiny]] like any other senate motion. Perhaps more so than other motions, it is sensible to have an amendment scrutinised before it is presented to the Senate.
+As a [[Senate motion|senate motion]], an amendment should be carefully worded. It should be concise and to the point, clearly laying out the actions to be taken as part of the amendment. Amendments are subject to [[Scrutiny]] like any other [[Senate motion|senate motion]]. Perhaps more so than other motions, it is sensible to have an amendment scrutinised before it is presented to the Senate.
 [[The Empress|The empress]] is moved. The world is moving. And we [[Will|will]] move to a vote.
 ## [[Appointment]]
-The Voice of Liberty is an Imperial position appointed by the Senate. Any Imperial citizen can hold this title. 
-The Voice of Liberty has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]] or the [[Assembly of the Nine]].
+The [[Voice of Liberty]] is an Imperial position appointed by the Senate. Any Imperial citizen can hold this title. 
+The [[Voice of Liberty]] has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]] or the [[Assembly of the Nine]].
 RecentElections|Voice_of_Liberty
 ## Liberty Pact
 The Liberty Pact was ratified by the Senate during the Winter Solstice 382YE, and the first significant amendment made during the Summer Solstice 384YE.
 ### Summary of Principles
 The signatory nations of the International Liberty Pact affirm that we reject the practice of slavery, outlaw it amongst our citizens, and affirm that we [[Will|will]] work towards the abolition of slavery across the world. 
-We will maintain close and productive relationships with the other signatories of the pact, and through our shared [[Prosperity|prosperity]] we will demonstrate to the world that all nations and cultures may thrive without the practice of slavery.
+We [[Will|will]] maintain close and productive relationships with the other signatories of the pact, and through our shared [[Prosperity|prosperity]] we [[Will|will]] demonstrate to the world that all nations and cultures may thrive without the practice of slavery.
 ### Summer 384YE Amendments
-Signatory nations will apply a trade embargo to the [[Principalities of Jarm]]. 
+Signatory nations [[Will|will]] apply a trade embargo to the [[Principalities of Jarm]]. 
 All signatory nations to apply free trade to other signatory nations.
 ### Definition of Slavery
 The International Liberty Pact defines slavery thusly -
@@ -67,7 +67,7 @@ Members of the Liberty Pact understand that the pact creates no obligation or ex
 ### Affirmation
 We, the undersigned nations, commit to the above, and consider ourselves from this point ongoing member of the International Liberty Pact.
 Katya of Kantor, Grand Illarch, [[Axos]]
-[[General]] Elsbeth, General Council of [[The Commonwealth|the Commonwealth]]
+[[General]] Elsbeth, [[General]] Council of [[The Commonwealth|the Commonwealth]]
 Timov, Priest Representative of the Republic of [[Sumaah]]
-Eska Crowspeaker, The Empire
-Ianthe of Suns of Couros, The Empire
+Eska Crowspeaker, [[The Empire]]
+Ianthe of Suns of Couros, [[The Empire]]

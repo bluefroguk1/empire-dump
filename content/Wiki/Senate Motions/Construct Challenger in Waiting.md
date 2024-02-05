@@ -22,5 +22,5 @@ __NOTOC__
 ## Progress
 CommissionProgress|Challenger_in_Waiting
 ## Outcome
-* Once complete this sinecure [[Will|will]] create a Dawnish national title
-* Further [[Scrutiny]] will take place on this announcement
+* Once complete this [[Sinecure|sinecure]] [[Will|will]] create a Dawnish national title
+* Further [[Scrutiny]] [[Will|will]] take place on this announcement

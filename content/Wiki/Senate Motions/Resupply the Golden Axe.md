@@ -20,5 +20,5 @@ Resupply army of [[Golden Axe]]''Proposed by [[Volodmartz]], seconded by [[Serme
 ### Progress
 * None.
 ### [[Campaign outcome|Campaign Outcome]]
-* Unlimited resupply of the Golden Axe is authorized by the [[Imperial Senate]] until end of [[Spring]] 378.
+* Unlimited resupply of the [[Golden Axe]] is authorized by the [[Imperial Senate]] until end of [[Spring]] 378.
 __NOTOC__

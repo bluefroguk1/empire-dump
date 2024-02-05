@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Revoke fund disbursement
 aliases: ['Revoke_fund_disbursement']

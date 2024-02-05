@@ -13,7 +13,7 @@ New lyrics by Gabrielle Falquero
 Thought it couldn’t end and wanted more
 More, then [[Vallorn]], then [[Vallorn]]
 Thought it couldn’t end and wanted more
-More, then Vallorn, then Vallorn
+More, then [[Vallorn]], then [[Vallorn]]
 [[If it had a Heart|If it had a heart]] it would hate you
 If it had a voice to scream
 After the [[Night|night]] when I wake up
@@ -22,7 +22,7 @@ Aaaaaah aaaaaah
 aaaaaahhh ... If it had a voice to scream
 Dragging feet, a husk insane
 [[Will]] it ever ever reach the floor?
-More, then Vallorn, then Vallorn
+More, then [[Vallorn]], then Vallorn
 Crushed and filled with all it found
 underneath and inside just to come around
 More, then Vallorn, then Vallorn

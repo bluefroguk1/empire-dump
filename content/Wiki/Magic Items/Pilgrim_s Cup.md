@@ -14,5 +14,5 @@ In [[Highguard]] and [[Urizen]], the item is much more likely to take the form o
 Like many such regalia, it is common for a Pilgrim's Cup to be hallowed, especially with a [[Hallow|hallow]] that encourages the priest to seek out people in need of spiritual council or support in time of need.
 ## Rules
 Regalia
-* Effect: When you perform or cooperate with the performance of the [[Anointing]] skill, you may spend up to three additional doses of Liao to increase the strength of the ceremony by the same amount.
+* Effect: When you perform or cooperate with the performance of the [[Anointing]] skill, you may spend up to three additional doses of [[Liao]] to increase the strength of the ceremony by the same amount.
 * [[Materials]]: Crafting a Pilgrim's Cup requires six ingots of [[Orichalcum|orichalcum]], five measures of beggar's lye, and seven measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

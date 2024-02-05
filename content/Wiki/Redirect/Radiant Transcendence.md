@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Radiant Transcendence
 aliases: ['Radiant_Transcendence']

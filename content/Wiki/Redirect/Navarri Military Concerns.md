@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Military Concerns
 aliases: ['Navarri_Military_Concerns']

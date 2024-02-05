@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Sorins Rite of Agony
 aliases: ['Sorins_Rite_of_Agony']

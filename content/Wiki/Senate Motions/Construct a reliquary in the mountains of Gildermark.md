@@ -18,4 +18,4 @@ Announced by Azzam i Zaydan i Requeza.
 ### Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns provided by Azzam i Zaydan i [[Riqueza]] after Summer Solstice 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure is now complete, and automatically created the title Weigher of [[Worth]].
+* This [[Sinecure|sinecure]] is now complete, and automatically created the title Weigher of [[Worth]].

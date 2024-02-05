@@ -16,9 +16,9 @@ Harmonies as taught by Daisy (don't completely match the recording).
 200px|thumb|left
 Transcription of above for lower voices and instruments by Bill Lewis:
 * Media:Empire [[Battle Anthem]] - Voice.pdf‎
-* Media:Empire Battle Anthem - Guitar.pdf‎
-* Media:Empire Battle Anthem - Violin.pdf‎
-* Media:Empire Battle Anthem - Bass.pdf‎
+* Media:Empire [[Battle Anthem]] - Guitar.pdf‎
+* Media:Empire [[Battle Anthem]] - Violin.pdf‎
+* Media:Empire [[Battle Anthem]] - Bass.pdf‎
 I am the spear that's swift to strike in anger
 I am the shield that turns all foes away
 I am the walls raised high against the darkness
@@ -38,8 +38,8 @@ I am the quick blood in its veins.
 I am the flame that burns inside [[The Empire|the Empire]]'s heart
 I am the earth's great bones, steadfast and sure
 I am the bonds that hold us fast in fellowship
-That forever will endure
+That forever [[Will|will]] endure
 ''One voice, one people and one Empire
-''One throne and one loyalty
-''One will to drive us ever onward
+''One throne and one [[Loyalty|loyalty]]
+''One [[Will|will]] to drive us ever onward
 ''One glorious destiny!''

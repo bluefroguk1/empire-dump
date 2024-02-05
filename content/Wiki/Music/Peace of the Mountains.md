@@ -26,4 +26,4 @@ Gifts of the mountains, ours to extoll.
 Long I have wondered and much I have seen,
 But nowhere have I found a place so serene, 
 [[Peace of the Mountains|Peace of the mountains]], soothing my soul,
-Peace of the mountains, making me whole.
+[[Peace of the Mountains|Peace of the mountains]], making me whole.

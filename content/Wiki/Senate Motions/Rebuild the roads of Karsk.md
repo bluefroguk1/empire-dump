@@ -11,9 +11,9 @@ revision_id: 86501
 To [[Commission]] a [[Great work|Great Work]] The Rebuilding of the Roads of [[Karsk]] in [[Karsk]].
 To benefit the mines and forests of region with 100 resources.
 [[Will]] also allow [[Varushka]] to support a third Army.
-Self Funded.Proposed by Karsk, seconded by [[Holberg]]. 
+Self Funded.Proposed by [[Karsk]], seconded by [[Holberg]]. 
 ### Overview
-* This is to restore the devastated road network of Karsk.
+* This is to restore the devastated road network of [[Karsk]].
 * Passed
 ### Date
 * [[Autumn]] 379YE.
@@ -23,7 +23,7 @@ Self Funded.Proposed by Karsk, seconded by [[Holberg]].
 * Time: 6 months to construct
 ### Progress
 * 40 wains of [[White granite|white granite]] and 20 thrones supplied by Radomir of [[Varushka]] after the Autumn Equinox 379YE.
-* 40 wains of white granite supplied by Radomir of Varushka after the [[Winter]] Solstice 379YE.
+* 40 wains of [[White granite|white granite]] supplied by Radomir of [[Varushka]] after the [[Winter]] Solstice 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This [[Great work]], when completed, [[Will|will]] increase production for all mines and forests in the [[Territory]] of Karsk.
-* Once the road network of Karsk is restored to its former state, Varushka will be able to support a third [[Imperial army]].
+* This [[Great work]], when completed, [[Will|will]] increase production for all mines and forests in the [[Territory]] of [[Karsk]].
+* Once the road network of Karsk is restored to its former state, [[Varushka]] [[Will|will]] be able to support a third [[Imperial army]].

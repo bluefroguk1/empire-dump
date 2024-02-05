@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Conclave Liaison to the Senate
 aliases: ['Conclave_Liaison_to_the_Senate']

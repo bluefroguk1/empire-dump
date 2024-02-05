@@ -17,4 +17,4 @@ __NOTOC__
 ## Date
 * [[Autumn]] 383YE
 ## Conclusion
-During the [[Winter|WInter]] Solstice 383YE, a member of the Department of Historical Research visited the Advisor on [[The Vallorn|the Vallorn]] at [[Anvil]] to appraise them of what few additional details were known beyond those that were already part of the public record.
+During the [[Winter|WInter]] Solstice 383YE, a member of the Department of [[Historical research|Historical Research]] visited the Advisor on [[The Vallorn|the Vallorn]] at [[Anvil]] to appraise them of what few additional details were known beyond those that were already part of the public record.

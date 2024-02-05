@@ -21,7 +21,7 @@ We shall not surrender our destiny to inhuman powers.
 With each generation, Virtue makes us stronger.
 Until as paragons we shall conquer Death itself.
 ## Introduction
-For the average citizen of [[The Empire|the Empire]], it is sufficient to know the seven Virtues and how they apply to your life so that your passage through the Labyrinth of Ages can be swift and assured and you can be reborn stronger. Even simple lay [[Preachers|preachers]] of the Way need not concern themselves with the subtleties and complexities of the Imperial religion.
+For the average citizen of [[The Empire|the Empire]], it is sufficient to know the seven Virtues and how they apply to your life so that your passage through the Labyrinth of Ages can be swift and assured and you can be reborn stronger. Even simple lay [[Preachers|preachers]] of [[The Way|the Way]] need not concern themselves with the subtleties and complexities of the Imperial religion.
 However, for many senior priests within the [[Synod]], as well as keen scholars, the foundations of the faith are a source of much discussion, debate and analysis. Senior clergy of the Synod may be asked about their opinion on key points of contention.
 ## Index
 * [[Liao]]
@@ -32,7 +32,7 @@ However, for many senior priests within the [[Synod]], as well as keen scholars,
 * [[Investigative Theology]]
 * [[Citizens, Priests, Pilgrims and Dedication]]
 ### Further Reading
-*The Way of Virtue
+*[[The Way]] of Virtue
 *[[Imperial Synod]]
 *[[Religious skills|Religious Skills]]
 *[[Religious Crimes]]

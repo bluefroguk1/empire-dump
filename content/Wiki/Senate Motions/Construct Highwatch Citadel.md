@@ -9,10 +9,10 @@ revision_id: 96822
 ---
 
 __NOTOC__
- To constrict the expansion to the Citadel of Highwatch to facilitate rooms for heralds of [[Zakalwe]]. [[Will]] be fully funded. Time limited [[Opportunity|opportunity]] that expired last season after [[Conclave]] thanked [[Zakalwe]] and voted to take up this [[Opportunity|opportunity]] we have been given a one season extension to begin construction. [[Will]] create the position [[Polemarch of Highwatch]] and will be elected annually by [[Urizen]] senators. Will provide [[Vis|vis]] and pearls to enchant an army attacking [[Druj]].
+ To constrict the expansion to the Citadel of Highwatch to facilitate rooms for heralds of [[Zakalwe]]. [[Will]] be fully funded. Time limited [[Opportunity|opportunity]] that expired last season after [[Conclave]] thanked [[Zakalwe]] and voted to take up this [[Opportunity|opportunity]] we have been given a one season extension to begin construction. [[Will]] create the position [[Polemarch of Highwatch]] and [[Will|will]] be elected annually by [[Urizen]] senators. [[Will]] provide [[Vis|vis]] and pearls to enchant an army attacking [[Druj]].
 ## Overview
 * Commissions the expansion of Highwatch Citadel in Altis, [[Morrow]] 
-* Further details on Highwatch Citadel and the offer made by the herald of Zakalwe can be found here.
+* Further details on Highwatch Citadel and the offer made by the herald of [[Zakalwe]] can be found here.
 * Announcement by the [[Legion Engineer]]
 ## Date
 * [[Summer]] 384YE

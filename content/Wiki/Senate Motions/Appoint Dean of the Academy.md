@@ -14,7 +14,7 @@ To appoint an Imperial Citizen to the position of [[Dean of the Academy]]
 __NOTOC__
 ### Overview
 * First [[Appointment|appointment]] of the Dean of [[The Academy|the Academy]]
-* This motion was raised by the civil service as an administrative motion, as it was the first time the position was up for [[Appointment|appointment]]. Any future appointment must be raised as a motion by a member of [[The Senate|the Senate]].
+* This motion was raised by the civil service as an administrative motion, as it was the first time the position was up for [[Appointment|appointment]]. Any future [[Appointment|appointment]] must be raised as a motion by a member of [[The Senate|the Senate]].
 ### Date
 * [[Spring]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]

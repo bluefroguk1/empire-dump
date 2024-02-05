@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Map - Empire Overview Woodcut
 aliases: ['Map_-_Empire_Overview_Woodcut']
 draft: False

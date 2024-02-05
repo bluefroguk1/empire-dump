@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Chant of Long Years
 aliases: ['Chant_of_Long_Years']

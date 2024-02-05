@@ -16,5 +16,5 @@ The [[Guildmaster of the Artisans]] has no particular responsibilities. If the G
 ### Bounty of the Hall
 The [[Sinecure|sinecure]] provides two measures each of [[Ambergelt]], beggar's lye, [[Dragonbone]], and [[Iridescent gloaming]] and two ingots each of [[Green iron]], [[Orichalcum]], [[Tempest jade]], and [[Weltsilver]] to the Guildmaster each season, to be used as they see fit. 
 ## [[Appointment]]
-The Guildmaster of the Artisans is an Imperial position appointed by [[The Senate|the Senate]]. Any Imperial citizen can hold this title. The Guildmaster of the Artisans serves for a year, and they can be revoked by the [[General]] [[Assembly]] and by the [[Assembly of the Nine]].
+The [[Guildmaster of the Artisans]] is an Imperial position appointed by [[The Senate|the Senate]]. Any Imperial citizen can hold this title. The [[Guildmaster of the Artisans]] serves for a year, and they can be revoked by the [[General]] [[Assembly]] and by the [[Assembly of the Nine]].
 RecentElections|Guildmaster_of_the_Artisans

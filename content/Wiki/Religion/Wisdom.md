@@ -8,16 +8,16 @@ revision_id: 82491
 ---
 
 ## The Path of [[Wisdom]]
-There are many citizens of [[The Empire|the Empire]] who believe themselves, by nature, to be filled with the virtue and it comes easily to them, yet the truth is – like all the virtues – [[Wisdom]] is a journey and must ever be striven for. Only the fool believes their journey is complete. Wisdom in [[The Empire|the Empire]] takes many forms and what might benefit you in the [[Wintermark]] could as easily be your [[Ruin|ruin]] in [[Varushka]]. Wisdom’s natural enemies are [[Folly|folly]] and complacency who steal the wit and desire for understanding and enlightenment. There is also dispute amongst the wise as to the extent that knowledge should be shared with the unready lest it imperils them.
+There are many citizens of [[The Empire|the Empire]] who believe themselves, by nature, to be filled with the virtue and it comes easily to them, yet the truth is – like all the virtues – [[Wisdom]] is a journey and must ever be striven for. Only the fool believes their journey is complete. [[Wisdom]] in [[The Empire|the Empire]] takes many forms and what might benefit you in the [[Wintermark]] could as easily be your [[Ruin|ruin]] in [[Varushka]]. [[Wisdom]]’s natural enemies are [[Folly|folly]] and complacency who steal the wit and desire for understanding and enlightenment. There is also dispute amongst the wise as to the extent that knowledge should be shared with the unready lest it imperils them.
 ### Guidance on the Path
 Through meditation on the [[Auras of Wisdom]], and careful analysis of the stories of [[Paragons and Exemplars|paragons and exemplars]], the priests of [[The Way|the Way]] have gleaned [[Insight|insight]] into the heart of the virtue and how best to pursue it. There are collections of parables, tales, sayings and teachings that distill this for Imperial citizens to learn from. The following are a handful of teachings and sayings deemed to be essential to understanding the path:
-* The Virtuous apply what they have learned; Wisdom knows all knowledge is incomplete.
+* The Virtuous apply what they have learned; [[Wisdom]] knows all knowledge is incomplete.
 * Let every word you speak carry meaning; do not use forty when four [[Will|will]] do.
 * Wisdom is not always knowing the answer; Wisdom is finding the right question.
 * Test what you learn; only fools accept hearsay as truth.
 * Despise [[Folly|folly]] and chastise the fool that spreads it.
 ## [[Paragons and Exemplars]]
-Recognised Paragons and Exemplars of Wisdom include:
+Recognised [[Paragons and Exemplars]] of Wisdom include:
 * The legendary [[Paragon|paragon]] [[Zoria]] learned the names of all the creatures of the wild; bird and beast, fish and fowl and using their names, commanded them to serve her.
 * The paragon [[Isenbrad]] of the [[Steinr]] was known for practicality, good [[Judgement|judgement]] and wise counsel, and is said to have been the first [[Runesmith|runesmith]] 
 * The paragon [[Atun]] of the Highborn steered the ships that bore the Highborn through unknown waters to their new homeland.
@@ -27,7 +27,7 @@ Recognised Paragons and Exemplars of Wisdom include:
 One of the most widely accepted symbols of Wisdom is the scale, used to weigh and measure the world. Other tools of measurement,  evaluating, and recording knowledge are also popular including the abacus, the quill, and the rolled scroll.
 Things that create light and illumination are also popular icons of Wisdom, and there is some crossover with the symbols of [[Vigilance]] in this regard but the meaning tends to be  subtly different. [[The Lantern|The lantern]], the candle, and the torch allow the virtuous to see clearly, and to understand things as they actually are, as well as to provide the [[Opportunity|opportunity]] to take action (such as when [[Isenbrad]] used a lantern to [[Illuminate|illuminate]] the cave in which he carved his runic secrets). Many priests and pilgrims of the Path of Wisdom often carry sources of light or the means to provide such, along with the means to record such knowledge and wisdom that they encounter.
 Before the formation of the [[Imperial Synod]], Wisdom was often represented by animals of one type or another, perhaps in [[Recognition|recognition]] of the mastery of animals practiced by [[Zoria]]. The early [[Synod]] discouraged this practice; especially among the Highborn it was argued that beasts are inferior to humans - although understandably this attitude did not sit well with the people of [[Wintermark]] or [[Varushka]] who largely ignored it. 
-The raven symbolises wisdom in Wintermark, while in Varushka they prefer the squirrel and the vigilant spider. Unsurprisingly perhaps some magicians use the [[Rune|rune]] [[Irremais]], which represents a certain kind of wisdom.
+The raven symbolises wisdom in [[Wintermark]], while in [[Varushka]] they prefer the squirrel and the vigilant spider. Unsurprisingly perhaps some magicians use the [[Rune|rune]] [[Irremais]], which represents a certain kind of wisdom.
 During their [[Spring]] festival, the [[Urizen]] represent Wisdom with white or silver flowers. 
  Wisdom is not short hand for ‘action I’d like you to take’, and foolishness is not synonymous with ‘outcome I wish you had not provoked'
 ## Further reading

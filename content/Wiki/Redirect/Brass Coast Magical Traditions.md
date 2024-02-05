@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast Magical Traditions
 aliases: ['Brass_Coast_Magical_Traditions']

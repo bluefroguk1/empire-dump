@@ -10,7 +10,7 @@ revision_id: 86727
 
 __NOTOC__
 As part of our ongoing peace treaty with the [[Thule]] and to accept their gesture of goodwill. 
-We agree to use the [[Thule]] [[Ritual|ritual]] to divert the Stalker comet to the Thule [[Territory|territory]] of Sküld Proposed by [[Volodmartz]], Seconded by [[Hercynia]]
+We agree to use the [[Thule]] [[Ritual|ritual]] to divert the Stalker comet to the [[Thule]] [[Territory|territory]] of Sküld Proposed by [[Volodmartz]], Seconded by [[Hercynia]]
 ### Overview
 * This motion was to address the [[Red star|red star]] which is currently believed to be set to fall in [[Miekarova]]
 * Passed in principle

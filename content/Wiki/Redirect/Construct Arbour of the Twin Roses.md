@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Construct Arbour of the Twin Roses
 aliases: ['Construct_Arbour_of_the_Twin_Roses']

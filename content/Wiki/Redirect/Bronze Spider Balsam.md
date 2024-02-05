@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Bronze Spider Balsam
 aliases: ['Bronze_Spider_Balsam']

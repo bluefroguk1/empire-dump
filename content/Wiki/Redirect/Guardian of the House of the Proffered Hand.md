@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Guardian of the House of the Proffered Hand
 aliases: ['Guardian_of_the_House_of_the_Proffered_Hand']

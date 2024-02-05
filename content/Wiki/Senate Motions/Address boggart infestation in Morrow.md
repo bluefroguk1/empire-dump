@@ -19,7 +19,7 @@ To trap the [[Boggarts in Morrow|boggarts in Morrow]], preventing damage to Mana
 ### Progress
 * 25 Thrones disbursed to [[Senator]] [[Sarvos]].
 * In conjunction with a successful quest by [[The Academy|the Academy]], these traps have prevented the loss of mana from mana sites in [[Morrow]].
-* Boggart faeces has been harvested and used to enhance the [[Herb|herb]] gardens of Morrow.
+* Boggart faeces has been harvested and used to enhance the [[Herb|herb]] gardens of [[Morrow]].
 ### [[Campaign outcome|Campaign Outcome]]
 * Unknown.
 __NOTOC__

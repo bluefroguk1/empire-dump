@@ -17,4 +17,4 @@ The reallocation of “The [[Legacy]]” [[Mithril|mithril]] [[Mine|mine]], in a
 ## Date
 * [[Spring]] 382YE
 ## [[Campaign outcome|Campaign Outcome]]
-* The Legacy is a nation [[Urizen]] position once more.
+* The [[Legacy]] is a nation [[Urizen]] position once more.

@@ -15,14 +15,14 @@ The title was created at the Winter Solstice summit of 379YE. It was abrogated d
 ==Responsibilities== 
 The Commissioners were responsible for the [[Prosperity|prosperity]] of [[The Empire|the Empire]]. They were expected to approve and oversee the [[Commission]] of sinecures, ministries, and great works in their nation.
 ## Powers
-### Commission
-Once during each summit, each commissioner could Commission the construction of a [[Sinecure]], [[Ministry]], or [[Great work]] in their nation. The [[Materials|materials]] and money required for construction were provided by the commissioner.  A [[Sinecure]] or [[Ministry]] automatically created an [[Imperial Title]] to oversee the commission. The new title was a national [[Appointment by the Senate|appointment by the Senate]]. They could only approve a commission in their one of territories that is part of their nation. Control of a sinecure or ministry is a lifetime title, unless it is revoked by the [[General]] [[Assembly]], the Council of Nine or the appropriate [[National Assembly|national Assembly]].
+### [[Commission]]
+Once during each summit, each commissioner could [[Commission]] the construction of a [[Sinecure]], [[Ministry]], or [[Great work]] in their nation. The [[Materials|materials]] and money required for construction were provided by the commissioner.  A [[Sinecure]] or [[Ministry]] automatically created an [[Imperial Title]] to oversee the [[Commission|commission]]. The new title was a national [[Appointment by the Senate|appointment by the Senate]]. They could only approve a commission in their one of territories that is part of their nation. Control of a [[Sinecure|sinecure]] or [[Ministry|ministry]] is a lifetime title, unless it is revoked by the [[General]] [[Assembly]], the Council of Nine or the appropriate [[National Assembly|national Assembly]].
 Prior to [[Spring]] 380YE, this power was unlimited. An [[Administrative motion|administrative motion]] amended the power to be usable once each season.
 ### Announcement
 To use their power of commission, the commissioner needed to provide an announcement to the Civil Service, who presented the decision to the Senate. No voting was possible by the Senate at this point, as the power had been delegated to the commissioner. The [[Imperial Synod]] could, however, choose to exercise their [[Veto]] over the commissioner's decision.
 ## Limitations
 A [[Civilian Commissioner|civilian commissioner]] could commission anything that requires an ''upkeep''.
-A civilian commissioner could not commission anything that provided votes in the [[Imperial Synod]]. Having such sinecures be assigned by the Senators of a nation would be unconstitutional. This meant that was not normally possible to commission a sinecure that produces [[Liao]] (as sinecures that produce [[Liao|liao]] also provide votes in [[The Synod|the Synod]]), without an [[Opportunity]] that specifically permits such a thing.
+A [[Civilian Commissioner|civilian commissioner]] could not commission anything that provided votes in the [[Imperial Synod]]. Having such sinecures be assigned by the Senators of a nation would be unconstitutional. This meant that was not normally possible to commission a [[Sinecure|sinecure]] that produces [[Liao]] (as sinecures that produce [[Liao|liao]] also provide votes in [[The Synod|the Synod]]), without an [[Opportunity]] that specifically permits such a thing.
 ## Selection
 The commissioner was a national position appointed by the Senate. Under normal circumstances it was appointed by unanimous vote of the senators of that nation.
 Only a citizen of the appropriate nation could be appointed as the commissioner from that nation.
@@ -30,8 +30,8 @@ Only a citizen of the appropriate nation could be appointed as the commissioner 
 A commissioner served until the next election for the title. They could be revoked by the [[General Assembly]], the [[Assembly of the Nine]] and by the appropriate National [[Assembly]] of the Imperial [[Synod]].
 ## [[History]]
 In Spring 380YE, the Senate appointed the following people as Civilian Commissioners
-* The Civilian Commissioner of [[The Brass Coast]] - Carlos I [[Guerra]]
-* The Civilian Commissioner of [[Dawn]] - Morien Stewart
+* The [[Civilian Commissioner]] of [[The Brass Coast]] - Carlos I [[Guerra]]
+* The [[Civilian Commissioner]] of [[Dawn]] - Morien Stewart
 * The Civilian Commissioner of [[The Marches]]- Henry Ward
 * The Civilian Commissioner of The [[Imperial Orcs]] - Bloodcrow Yargol
 * The Civilian Commissioner of [[The League]] - Lorenzo of the Butchers

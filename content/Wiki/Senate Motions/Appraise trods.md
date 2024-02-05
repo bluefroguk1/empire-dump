@@ -16,4 +16,4 @@ An [[Appraisal]], to [[Commission|commission]] Graciana i Lopez i [[Guerra]] to 
 ## Date
 * [[Summer]] 383YE
 ## Outcome
-* The appraisal [[Will|will]] be delivered before the [[Autumn]] Equinox.
+* The [[Appraisal|appraisal]] [[Will|will]] be delivered before the [[Autumn]] Equinox.

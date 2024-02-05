@@ -20,4 +20,4 @@ Proposed by [[Madruga]], Seconded by [[Bastion]]
 ### [[Campaign outcome|Campaign Outcome]]
 * The [[Pride]] of Ikka's Tears is now a national [[Bourse]] position of [[Wintermark]]
 * The seat [[Will|will]] be allocated through the  [[Imperial Bourse]] by secret vote of [[The Military|the military]] captains of [[Wintermark]]. Unlike the [[Stonefield Ice Caves]], the actions a [[Military unit|military unit]] has been engaging in are not relevant.
-* The seat [[Will|will]] be elected for the first time at the Winter Solstice 380YE, but from that point onward will be elected in Autumn like all other mithril seats.
+* The seat [[Will|will]] be elected for the first time at the Winter Solstice 380YE, but from that point onward [[Will|will]] be elected in Autumn like all other [[Mithril|mithril]] seats.

@@ -21,6 +21,6 @@ __NOTOC__
 * 20 Crowns
 * Upkeep: 2 crowns 
 ## Progress
-* 10 wains of weirwood and 20 crowns provided by Giuseppe Sanguineo von [[Temeschwar]] after Summer Solstice 383YE.
+* 10 wains of [[Weirwood|weirwood]] and 20 crowns provided by Giuseppe Sanguineo von [[Temeschwar]] after Summer Solstice 383YE.
 ## Outcome
-* Once complete, Imperial military units [[Will|will]] be able to support the spy network.
+* Once complete, Imperial military units [[Will|will]] be able to support the [[Spy network|spy network]].

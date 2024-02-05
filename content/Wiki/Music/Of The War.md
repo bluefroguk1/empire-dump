@@ -30,7 +30,7 @@ Their weapons drawn those screaming orcs,
 And from the back they heard a voice,
 As a wizened [[Warmage|warmage]] sang.
 Of all of us who'll die today,
-Who will remember us anyway,
+Who [[Will|will]] remember us anyway,
 For they'd prefer the tales of gore,
 And the stranger stories of the [[War|war]].
 The rhino came right through the trees,
@@ -45,4 +45,4 @@ Don't fret.
 For all of those who've died today,
 They'll be remembered don't you say,
 For this has been a tale of gore,
-And a stranger story of the war!
+And a stranger story [[Of The War|of the war]]!

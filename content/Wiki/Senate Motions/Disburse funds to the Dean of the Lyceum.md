@@ -17,7 +17,7 @@ Respond to a request for funding to add two [[Rituals|rituals]] to the body of [
 ### Progress
 * Funds disbursed to Sallur I Mnajdra I [[Guerra]], [[Senator]] for [[Feroz]]
 ### [[Campaign outcome|Campaign Outcome]]
-* The rituals The Cuckoo's Egg and [[Clad in Golden Raiment]] were added to the body of Imperial Lore in accordance with the decision of the [[Imperial Conclave]].
+* The [[Rituals|rituals]] The Cuckoo's Egg and [[Clad in Golden Raiment]] were added to the body of [[Imperial lore|Imperial Lore]] in accordance with the decision of the [[Imperial Conclave]].
 ### Voting
 {| class="wikitable"
 |-

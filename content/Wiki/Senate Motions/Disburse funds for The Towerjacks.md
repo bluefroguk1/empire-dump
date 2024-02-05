@@ -16,4 +16,4 @@ The dispersal of [[Senate]] funds to Senate of [[Holberg]] for the purpose of co
 ### Date
 * [[Autumn]] 379YE
 ### Progress
-* 350 Thrones disbursed to [[Senator]] Holberg
+* 350 Thrones disbursed to [[Senator]] [[Holberg]]

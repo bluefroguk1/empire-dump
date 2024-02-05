@@ -12,9 +12,9 @@ __NOTOC__
 To amend the powers of the Virtue Inquisitors: to gain the ability to raise an additional [[Judgement|judgement]] of [[Inquisition]] to their Virtue [[Assembly]], to be voted on to lesser majority, to replace their current power of ‘[[Inquisitor]]’s [[Judgement]]’. To also amend the [[Appointment|appointment]] from [[Cardinal]], to being voted on by their Virtue Assemblies.''Proposed by the [[Conscience of the Senate]], seconded by [[Semmerholm]].''
 ## Overview
 * To amend the power of the seven Virtue inquisitors.
-** They gain the ability to raise an additional Judgement of [[Inquisition]] each summit
-** They lose the current power to escalate an Inquisition.
-** They are appointed by judgement of the appropriate [[Virtue assembly]] rather than by the decision of the [[Cardinal]].
+** They gain the ability to raise an additional [[Judgement]] of [[Inquisition]] each summit
+** They lose the current power to escalate an [[Inquisition]].
+** They are appointed by [[Judgement|judgement]] of the appropriate [[Virtue assembly]] rather than by the decision of the [[Cardinal]].
 * Passed
 ## Date
 * [[Spring]] 382YE

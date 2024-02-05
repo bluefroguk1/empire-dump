@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Pride roleplaying effects
 aliases: ['Pride_roleplaying_effects']

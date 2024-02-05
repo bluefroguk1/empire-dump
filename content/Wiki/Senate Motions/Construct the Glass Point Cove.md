@@ -13,7 +13,7 @@ To create the Glass Point Cove in Uccelini, [[Sarvos]]. A mighty construction to
 Announced by Dalibor Marek do Saverio Von [[Temeschwar]]. 
 ### Overview
 * This motion was to build a [[Sinecure]] to oversee the creation of mana in [[Sarvos]].
-* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]].
+* This [[Sinecure|sinecure]] was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]].
 ### Date
 * [[Summer]] 381YE
 ### Progress

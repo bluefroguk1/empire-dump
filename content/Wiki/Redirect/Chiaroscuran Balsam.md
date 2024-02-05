@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Chiaroscuran Balsam
 aliases: ['Chiaroscuran_Balsam']

@@ -10,7 +10,7 @@ revision_id: 101058
 
 [[Costume]] Advice|The Brass Coast look and feel
 ## Overview
-This page aims to offer help in creating a Brass Coast [[Costume|costume]] for those who want it. It provides a list of resources that players looking to create a costume, either purchasing one or making one may find useful. There is no one way to create the perfect costume, but the suggestions on this page [[Will|will]] help to produce a great costume for Empire.
+This page aims to offer help in creating a Brass Coast [[Costume|costume]] for those who want it. It provides a list of resources that players looking to create a [[Costume|costume]], either purchasing one or making one may find useful. There is no one way to create the perfect [[Costume|costume]], but the suggestions on this page [[Will|will]] help to produce a great [[Costume|costume]] for Empire.
 [[The Brass Coast]] offers a chance to create some flamboyant and really expressive costumes. The [[Freeborn]] attitude to life is all about individuality, passion and luxury, and many Freeborn express this through their dress. Success is measured in wealth, and what better way to demonstrate that wealth than by wearing it openly? The Freeborn look is usually one of bright colours, silks, jewels and sumptuousness. Individual style is highly valued and the mundane and common scorned. [[The Brass Coast]] lives for dance and [[Music|music]], and the clothing worn there often reflects this. With the flame being the central symbol for the Freeborn, it’s no surprise to find that their clothing is made in brightly coloured layers to convey the impression of the fire within.
 ### Colour [[Guide]]
 The colour palette is inspired by flame, but it also features other sumptuous colours -such as turquoise, magenta, emerald green and peacock blue. Note the absence of black - reserved for the dead and white - worn only by the very poorest.
@@ -22,11 +22,11 @@ The colour palette is inspired by flame, but it also features other sumptuous co
 * Whilst the style and clothing inspirations are Moorish and North African, the colours, beading and embroidery of sari and other fabrics widely available in Asian clothing shops across the UK so these can be a great source of [[Materials|materials]]. Shalwar Kameez can be a useful base layer.
 * Both charity shops and on-line stores can be good sources of Arabic and North African loose tunics and trousers - often in white cotton which [[Will|will]] dye well in bright colours.
 * To really keep the flowing feel of Freeborn style, try avoiding heavy belts and instead secure layers of clothing with scarves; hanging pouches and scabbards from the shoulder on cords or jewelled chains. 
-* Integrating the flow of jewellery with the flow of the costume is another strong marker of the Brass Coast, and internet suppliers of belly dancing costume, as well as markets and shops near Asian areas, can be a good place to find long strings of coins, bells and other adornments.
+* Integrating the flow of jewellery with the flow of the costume is another strong marker of [[The Brass Coast|the Brass Coast]], and internet suppliers of belly dancing costume, as well as markets and shops near Asian areas, can be a good place to find long strings of coins, bells and other adornments.
 * Try Asian shops for slipper shoes, or look for patterns for making Greek or Roman sandals which lace up the leg - both are common footwear for the Freeborn
 * If all this talk of silks and brocades is sounding a little pricey - check out the fabric pages to see how impressive effects can be achieved without spending a fortune
 ## Making Guides and Examples
-Folkwear make a range of patterns for North African and Arab style garments which are all perfect for the Brass Coast, for people of any gender.
+Folkwear make a range of patterns for North African and Arab style garments which are all perfect for [[The Brass Coast|the Brass Coast]], for people of any gender.
 *[https://www.folkwear.com/products/gaza-dress?variant=34353684622  Pattern 101 Gaza Dress]
 *[https://www.folkwear.com/products/egyptian-shirt?variant=34362136334 Pattern 104 Egyptian Shirt]
 *[https://www.folkwear.com/products/syrian-dress?variant=34362633998 Pattern 105 Syrian Dress]
@@ -39,7 +39,7 @@ To create loose and flowing trousers any of these patterns work well. Variation 
 *[http://madamexcostumes.com/newpages/ttcostumes.html#pantaloons Making pantaloons]
 *[http://www.shira.net/costuming/pants-narrowsalwar.htm Making shalwar trousers]
 *[http://youtu.be/Z8OxKJQ6PdU Video instructions for harem pants]
-A simple T-tunic will work well in the Brass Coast, with Freeborn touches achieved by adding decoration, particularly around the neck and keeping this base slim fitting so other layers can flow over it. 
+A simple T-tunic [[Will|will]] work well in [[The Brass Coast|the Brass Coast]], with Freeborn touches achieved by adding decoration, particularly around the neck and keeping this base slim fitting so other layers can flow over it. 
 *[[How to - Make a simple tunic]]
 *[http://aminacreations.blogspot.co.uk/search/label/Kameez%20patterns [[Online]] pattern for a Kameez]
 *[https://sewing.patternreview.com/Patterns/9071 Simplicity pattern 4528]
@@ -58,10 +58,10 @@ The perfect Brass Coast headdress is the [http://en.wikipedia.org/wiki/Tagelmust
 Children are an [[Opportunity|opportunity]] for parents to show off their wealth, dressing their offspring in traditional Freeborn styles. Children in the Brass Coast are often dressed in scaled down versions of their parents clothes.
 For toddlers and babies, simple t-tunics and drawstring trousers are simple and easy to pull-on garments, that can be made in linen or cotton for easy washing! These types of clothes also have plenty of flexibility in terms of size, meaning they should last for more than one year. Choosing sleeveless and none form fitted top layers like the melia/stola should make several years of wear possible, making fancy trims and embellishments worthwhile.
 [[General]] tips for costume for children: 
-* Robes that stop at knee - mid-calf will be less of a trip hazard
+* Robes that stop at knee - mid-calf [[Will|will]] be less of a trip hazard
 * Headgear that can be very simply retied is great
 * Avoiding things that can pull around the neck is wise (strings on cloaks/hats on cords/ tabards that don't secure under the arms
-* Wider neck holes, sleeves and armholes will help with getting costume on and off, and leave room for growth
+* Wider neck holes, sleeves and armholes [[Will|will]] help with getting costume on and off, and leave room for growth
 *[https://neheleniapatterns.com/produkt/kinder-des-mittelalters-mae1215/?lang=en Patterns for medieval children's clothes]
 *[http://www.revivalclothing.com/medievalchildrensclothing.aspx Revival Clothing's premade items for children]
 *[http://www.[[Gambeson|gambeson]].pl/medieval-on-line-shop/medieval-clothing-for-kids.html [[Gambeson]]'s premade items for children]

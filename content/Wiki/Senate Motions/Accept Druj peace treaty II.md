@@ -17,10 +17,10 @@ Proposed by [[Sarvos]], Seconded by [[Necropolis]]
 ### Date
 * [[Winter]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The terms of the treaty were accepted and the Druj are now considered a foreign nation.
-Peace Treaty with the Druj
+* The terms of the treaty were accepted and the [[Druj]] are now considered a foreign nation.
+Peace Treaty with the [[Druj]]
 * 5 year peace treaty
 * 2 [[Imperial armies]] could remain in Dawnguard
-* 2 Druj armies to cautiously advance in the first season into Murderdale and Carmine Fields, with 3 on solid defence and 1 to withdraw, and [[The Empire|the Empire]] withdraws and army
+* 2 [[Druj]] armies to cautiously advance in the first season into Murderdale and Carmine Fields, with 3 on solid defence and 1 to withdraw, and [[The Empire|the Empire]] withdraws and army
 * Both sides withdraw 1 army per season until both sides have 2 armies remaining in [[The Barrens|the Barrens]]
 * Trade to be 3 [[White granite|white granite]] for 2 [[Mithril|mithril]]; 27 wains first season, then 18 wains of [[Mithril|mithril]] made available per season for 5 years

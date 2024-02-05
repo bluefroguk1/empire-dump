@@ -19,5 +19,5 @@ To create the title ‘The [[Champion of Courage]]’, an annual [[Appointment|a
 * Creates the title ''[[Champion of Courage]]'', appointed annually during Summer by the [[Courage]] [[Virtue assembly|Virtue Assembly]].
 * The title [[Will|will]] be custodian of the artifact Pilgrim's Shield ''Torchbrand''.
 ## Constitution
-It is not necessary or legally binding to use a [[Senate motion]] to indicate that an item will form part of the regalia of a title. Whoever currently owns Torchbrand is not under any legal obligation to hand it over because of this [[Senate motion]].
+It is not necessary or legally binding to use a [[Senate motion]] to indicate that an item [[Will|will]] form part of the regalia of a title. Whoever currently owns Torchbrand is not under any legal obligation to hand it over because of this [[Senate motion]].
 Any citizen can choose to grant any artefact or similar permanent item to a title, provided they own it. If they give the item to the title, rather to the bearer, then it automatically becomes part of the regalia of the title, provided that they inform the civil service of their actions.

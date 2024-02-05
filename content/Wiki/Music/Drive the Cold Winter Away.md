@@ -20,9 +20,9 @@ The old and the young doth carol this song
 To [[Drive the Cold Winter Away|drive the cold winter away]].
 Chorus: 
 To drive the cold [[Winter|winter]] away, away 
-To drive the cold winter away 
+To [[Drive the Cold Winter Away|drive the cold winter away]] 
 The old and the young doth carol this song 
-To drive the cold winter away.
+To [[Drive the Cold Winter Away|drive the cold winter away]].
 To mask and to mum kind neighbours [[Will|will]] come 
 With wassails of hot brown ale, 
 To drink and carouse to all in the house 
@@ -30,7 +30,7 @@ As merry as bucks in the dale;
 Where cake, bread, and cheese is brought for your fees 
 To make you the longer stay; 
 At the fire to warm 'twill do you no harm, 
-To drive the cold winter away.
+To [[Drive the Cold Winter Away|drive the cold winter away]].
 Chorus
 When white-bearded frost hath threatened its worst, 
 And fallen from branch and [[Briar|briar]], 

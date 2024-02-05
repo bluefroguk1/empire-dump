@@ -23,5 +23,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Disciplined
-The Granite Pillar practice tactics that emphasis their discipline, remaining focused on [[The Battlefield|the battlefield]] and drawing strength from their commitment to [[The Way]]. 
-RecentElections|General_of_the_Granite_Pillar|the title of [[General]] of the Granite Pillar
+The [[Granite Pillar]] practice tactics that emphasis their discipline, remaining focused on [[The Battlefield|the battlefield]] and drawing strength from their commitment to [[The Way]]. 
+RecentElections|General_of_the_Granite_Pillar|the title of [[General]] of the [[Granite Pillar]]

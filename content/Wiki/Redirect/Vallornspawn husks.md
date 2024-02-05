@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Vallornspawn husks
 aliases: ['Vallornspawn_husks']

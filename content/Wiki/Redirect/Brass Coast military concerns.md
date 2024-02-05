@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast military concerns
 aliases: ['Brass_Coast_military_concerns']

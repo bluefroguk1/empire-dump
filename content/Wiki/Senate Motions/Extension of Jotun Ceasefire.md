@@ -17,7 +17,7 @@ The [[Jotun]] have requested a further two year extension of the current ceasefi
 To extend the treaty with the [[Jotun]].
 Proposed by [[Bastion]], seconded by [[Hahnmark]].
 ### Overview
-* Accept the proposed extension to the Jotun ceasefire treaty.
+* Accept the proposed extension to the [[Jotun]] ceasefire treaty.
 * A prior motion to reject the ceasefire was vetoed by the [[Imperial Synod]].
 ### [[Campaign outcome|Campaign Outcome]]
 * [[The Senate]] agreed to accept the proposed extension. The treaty [[Will|will]] now end at the start of the Spring Equinox summit 380YE.
@@ -35,9 +35,9 @@ A motion that is vetoed by the [[Imperial Synod]] would not normally be eligible
 To reject the proposed extension to the Jotan treaty. To send a response to the Jotan formally declining the request to extend the treaty.
 Proposed by [[Mitwold]], seconded by [[Kallavesa]].
 ### Overview
-* Reject the proposed extension to the Jotun ceasefire treaty.
+* Reject the proposed extension to the [[Jotun]] ceasefire treaty.
 ### Synod [[Veto]]
-* This motion was vetoed by the [[General]] [[Assembly]] of the Imperial Synod
+* This motion was vetoed by the [[General]] [[Assembly]] of the [[Imperial Synod]]
 ### Voting
 {| class="wikitable"
 |-

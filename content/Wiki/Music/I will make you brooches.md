@@ -16,7 +16,7 @@ I [[Will|will]] make a purpose, fit for you and me,
 Of working together, and so all may see.
 I hope you [[Will|will]] Prosper, with wealth that you may share,
 So yellow’s one flower that I’d have you wear,
-With [[Wisdom]] you will find the path that suits you best,
+With [[Wisdom]] you [[Will|will]] find the path that suits you best,
 And so I would place a white bloom upon your breast. 
 To take action takes [[Courage]], so I’d deck you out in red, 
 And with pink to take [[Pride]] in what’s done and said,

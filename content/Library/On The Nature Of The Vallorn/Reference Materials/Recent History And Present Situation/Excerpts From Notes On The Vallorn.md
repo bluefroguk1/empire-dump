@@ -2,19 +2,19 @@
 
 The Heart of [[The Vallorn|the Vallorn]] in [[Therunin]] is based in Greenheart, the [[History|history]] of the [[Vallorn]] in this area is a long one. With all the crazy shit in the world at the moment, it is probably wise if I write it down for [[Prosperity|prosperity]]. The stories that I was told as a child tell that [[The Vallorn|the Vallorn]] claimed over half of [[Therunin]] or Tharunind as it used to be called.
 
-The [[Vallorn]] spread south taking over Sweetglades, Eastring and even East Ashes to the coast of Feverwater. One of the big questions is how the Vallorn was fought back and why our predecessors didn't write it down. I know it is easy to blame the patrons of the [[Realm|realm]] of [[Night]]. The Rainbow Serpent or the Courtiers, but this is our reason to be. We swore an oath to do this, all of us. Why the fuck would an entire nation forget how to do something we have done before and is the reason we exist.
+The [[Vallorn]] spread south taking over Sweetglades, Eastring and even East Ashes to the coast of Feverwater. One of the big questions is how [[The Vallorn|the Vallorn]] was fought back and why our predecessors didn't write it down. I know it is easy to blame the patrons of the [[Realm|realm]] of [[Night]]. The Rainbow Serpent or the Courtiers, but this is our reason to be. We swore an oath to do this, all of us. Why the fuck would an entire nation forget how to do something we have done before and is the reason we exist.
 
-Nikovarr burnt down the libraries it is said, but that would make no sense. That does not answer why everything is forgotten. The destruction of the Vallorn over two regions and the reclaiming of them is key.
+Nikovarr burnt down the libraries it is said, but that would make no sense. That does not answer why everything is forgotten. The destruction of the [[Vallorn]] over two regions and the reclaiming of them is key.
 
 I hope that this document [[Will|will]] allow for my thoughts and theories to be written down and that all visitors to Return take the time to read it and heed my words.
 
 I do not mean to speak out of turn of anyone or anything in this document but I am questioning currently held views. It is important that this is realised not as being unwise but as a sign of all of our [[Vigilance]].
 
-The [[Druj]] seem to use some sort of stone pillar with a [[Ritual|ritual]], this creates a barrier that weakens Vallorn creatures. These pillars are supposedly Terunael in nature which would lead us to believe that they were created by our people when they first fought the Vallorn. Again, why did we stop. The Vallorn in [[Miaren]] was destroyed completely and then we forgot how to do it. Does this make any fucking sense to anyone? This is why we need to write this down and even though it may put us at risk from the Courtiers there is nothing else we can do. If we could speak to The Foundation, I may be able to find out more, but I heard rumours that even the Deepest One [[Will|will]] not speak about it.
+The [[Druj]] seem to use some sort of stone pillar with a [[Ritual|ritual]], this creates a barrier that weakens [[Vallorn]] creatures. These pillars are supposedly Terunael in nature which would lead us to believe that they were created by our people when they first fought [[The Vallorn|the Vallorn]]. Again, why did we stop. [[The Vallorn]] in [[Miaren]] was destroyed completely and then we forgot how to do it. Does this make any fucking sense to anyone? This is why we need to write this down and even though it may put us at risk from the Courtiers there is nothing else we can do. If we could speak to The Foundation, I may be able to find out more, but I heard rumours that even the Deepest One [[Will|will]] not speak about it.
 
 **The [[Druj]]**
 
-Ghulai named Greenmask claims to have records and artefacts from the Vallorn of Beantol Dol. It is here that he is said to have stone pillars and other artefacts that will allow him to [[Fight|fight]] the Vallorn. Maybe it is hubris of [[The Empire|the Empire]], maybe it is [[Wisdom]], that they do not work with the Druj, but there is a deeper secret here that we all know.
+Ghulai named Greenmask claims to have records and artefacts from the [[Vallorn]] of Beantol Dol. It is here that he is said to have stone pillars and other artefacts that [[Will|will]] allow him to [[Fight|fight]] the Vallorn. Maybe it is hubris of [[The Empire|the Empire]], maybe it is [[Wisdom]], that they do not work with the [[Druj]], but there is a deeper secret here that we all know.
 
 **The Vallorn Hearts**
 
@@ -24,9 +24,9 @@ Seren has been wiped out, but if that is the case then a large Terunael city wit
 
 **The Husks**
 
-The Husks seem to be some walking dead like the creatures that you get when you cast the ritual [[Quickening Cold Meat]]. Dead bodies with [[Winter]] Spirits in that can be as foes. They're not. They are living people. The Vallorn moss and plants creeps inside a dying person, keeping them alive and using their body as a lifeless husk. It is possible that they could be saved, but they are dying anyway. Killing them actually will mean that the Vallorn husk cannot move.
+The Husks seem to be some walking dead like the creatures that you get when you cast the ritual [[Quickening Cold Meat]]. Dead bodies with [[Winter]] Spirits in that can be as foes. They're not. They are living people. The Vallorn moss and plants creeps inside a dying person, keeping them alive and using their body as a lifeless husk. It is possible that they could be saved, but they are dying anyway. Killing them actually [[Will|will]] mean that the Vallorn husk cannot move.
 
-These are our friends and [[Family|family]] (or orc's friends and families I guess) they feel and see everything, they are in pain and we have to kill them. Some of them go on for years in the state of dying and pain and we cannot get into the forests to always execute your foe. Friends or foes. The Vallorn will take the dying but can not take the dead. It is a mercy for them.
+These are our friends and [[Family|family]] (or orc's friends and families I guess) they feel and see everything, they are in pain and we have to kill them. Some of them go on for years in the state of dying and pain and we cannot get into the forests to always execute your foe. Friends or foes. The Vallorn [[Will|will]] take the dying but can not take the dead. It is a mercy for them.
 
 The Husks themselves seem to be slow moving but this is not quite the case. They are without purpose until they sense food, something that is not part of the Vallorn. Then they will travel towards that person or creature and devour them. If they can taken down they will grow back, even limbs will grow back.
 
@@ -36,7 +36,7 @@ Some of the Vallorn husks I have seen recently have purple growths on them. Thes
 
 **Dryads**
 
-Never let a [[Briar|briar]] go anywhere near a Vallorn. I am not a [[Briar|briar]] hater. They were born tainted with [[Spring magic|spring magic]] and its not their fault, but get them to leave the [[Navarr]] and go as far away from the Vallorn as possible. Otherwise you get dryads, and no-one wants fucking dryads. When a briar becomes a husk they grow naturally strong, sometimes they develop bark that gives them protection the same as ringmail armour, sometimes they grow to up to seven foot tall, and they have been known to be able to rip through hunting leathers with claws or talons.
+Never let a [[Briar|briar]] go anywhere near a Vallorn. I am not a [[Briar|briar]] hater. They were born tainted with [[Spring magic|spring magic]] and its not their fault, but get them to leave the [[Navarr]] and go as far away from the Vallorn as possible. Otherwise you get dryads, and no-one wants fucking dryads. When a [[Briar|briar]] becomes a husk they grow naturally strong, sometimes they develop bark that gives them protection the same as ringmail armour, sometimes they grow to up to seven foot tall, and they have been known to be able to rip through hunting leathers with claws or talons.
 
 They never stop growing and are large and aggressive.
 

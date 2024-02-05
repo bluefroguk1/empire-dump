@@ -21,5 +21,5 @@ To build a Seminary School known as the Hearth of Virtue that none may doubt Var
 * 20 wains of granite and 8 thrones received from Nikolovich Drakov after the Winter Solstice 382YE.
 * 3 thrones returned to Nikolovich Drakov after [[Summer]] Solstice 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Sinecure will create an [[Imperial Title]], [[Tender of the Hearth]]
+* The [[Sinecure]] [[Will|will]] create an [[Imperial Title]], [[Tender of the Hearth]]
 * [[Appointment]] is by the Varushkan [[National Assembly|national assembly]], and the title has [[Tenure|tenure]].

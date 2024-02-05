@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Information for 16-18 year olds
 aliases: ['Information_for_16-18_year_olds']
 draft: False

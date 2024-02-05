@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Marches hearth magic
 aliases: ['Marches_hearth_magic']

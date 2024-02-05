@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Skop_s Mead
 aliases: ["Skop's_Mead"]

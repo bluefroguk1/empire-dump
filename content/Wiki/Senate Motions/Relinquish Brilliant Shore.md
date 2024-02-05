@@ -19,4 +19,4 @@ To relinquish the [[Brilliant Shore]], the National [[Bourse]] position located 
 ### [[Cost]]
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-* The Brilliant Shore ceases to be a National position, and is available for allocation.
+* The [[Brilliant Shore]] ceases to be a National position, and is available for allocation.

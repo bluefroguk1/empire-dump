@@ -34,31 +34,31 @@ To just see the name of the current character holding a particular title then pl
 * 385YE Summer Solstice event schedule
 * 385YE Summer Solstice interlude
 ### [[Spring]] Equinox
-* 385YE Spring Equinox Imperial elections
+* 385YE Spring Equinox [[Imperial Elections|Imperial elections]]
 * 385YE Spring Equinox Senate sessions
 * 385YE Spring Equinox Synod judgements
 * 385YE Spring Equinox Conclave sessions
-* 385YE Spring Equinox winds of fortune
-* 385YE Spring Equinox winds of war
+* 385YE Spring Equinox [[Winds of Fortune|winds of fortune]]
+* 385YE Spring Equinox winds of [[War|war]]
 * 385YE Spring Equinox event schedule
 * 385YE Spring Equinox interlude
 ## 384
 ### Winter Solstice
-* 384YE Winter Solstice Imperial elections
+* 384YE Winter Solstice [[Imperial Elections|Imperial elections]]
 * 384YE Winter Solstice Senate sessions
 * 384YE Winter Solstice Synod judgements
 * 384YE Winter Solstice Conclave sessions
-* 384YE Winter Solstice winds of fortune
-* 384YE Winter Solstice winds of war
+* 384YE Winter Solstice [[Winds of Fortune|winds of fortune]]
+* 384YE Winter Solstice winds of [[War|war]]
 * 384YE Winter Solstice event schedule
 * 384YE Winter Solstice interlude
 ### Autumn Equinox
-* 384YE Autumn Equinox Imperial elections
+* 384YE Autumn Equinox [[Imperial Elections|Imperial elections]]
 * 384YE Autumn Equinox Senate sessions
 * 384YE Autumn Equinox Synod judgements
 * 384YE Autumn Equinox Conclave sessions
-* 384YE Autumn Equinox winds of fortune
-* 384YE Autumn Equinox winds of war
+* 384YE Autumn Equinox [[Winds of Fortune|winds of fortune]]
+* 384YE Autumn Equinox winds of [[War|war]]
 * 384YE Autumn Equinox event schedule
 * 384YE Autumn Equinox interlude
 ### Summer Solstice

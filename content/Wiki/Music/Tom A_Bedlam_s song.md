@@ -46,7 +46,7 @@ Me found and stript me naked.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom will injure nothing.
+Poor Tom [[Will|will]] injure nothing.
 When I short have shorne my sowre face
 And swigged my horny barrel,
 In an oaken inn I pound my skin
@@ -58,7 +58,7 @@ Me [[Music|music]] to my sorrow.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom will injure nothing.
+Poor Tom [[Will|will]] injure nothing.
 The [[Bravo]], [[Druj]] and [[Grendel]]
 Are none of Tom's companions.
 The punk I skorne and the cut purse sworne
@@ -70,7 +70,7 @@ Do what the panther dare not.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom will injure nothing.
+Poor Tom [[Will|will]] injure nothing.
 With a host of furious fancies
 Whereof I am commander,
 With a [[Burning|burning]] spear and a [[Horse|horse]] of air,

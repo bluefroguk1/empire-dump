@@ -24,4 +24,4 @@ TBC
 TBC
 ## Army Quality : Thornbound
 The army is able to use their mastery of [[Spring magic]] and their expertise with [[Herbs|herbs]] to create powerful poisons to apply to their weapons. These poisons are designed to kill quickly and without suffering, ensuring that the enemy do not linger in pain.
-RecentElections|General_of_Isaella%27s_Dance|the title of [[General]] of Isaella's Dance
+RecentElections|General_of_Isaella%27s_Dance|the title of [[General]] of [[Isaella]]'s Dance

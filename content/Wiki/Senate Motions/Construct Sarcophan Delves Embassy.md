@@ -27,5 +27,5 @@ Proposed by [[Mitwold]], Seconded by [[Kahraman]]
 * 25 wains of [[Weirwood|weirwood]], 25 wains of [[White granite|white granite]] and 12 thrones provided by Thanmir Hrafnar
 ### [[Campaign outcome|Campaign Outcome]]
 * Once completed, this [[Embassy]] [[Will|will]] automatically create a new [[Imperial Title|Imperial title]] of [[Ambassador to the Sarcophan Delves]].
-* As it was not specified in the motion, the [[Senator|senator]] for Mitwold has elected to build the embassy in the City of Cargo in [[Redoubt]].
-* The embassy is now complete
+* As it was not specified in the motion, the [[Senator|senator]] for [[Mitwold]] has elected to build the [[Embassy|embassy]] in the City of Cargo in [[Redoubt]].
+* The [[Embassy|embassy]] is now complete

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Changing Doctrine
 aliases: ['Changing_Doctrine']

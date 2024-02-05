@@ -39,6 +39,6 @@ Chorus
 Verse 4
 On the road, the paths we tread are endless.
 The weariness [[Will|will]] wear you to the bone.
-The enemy will wait for you to stumble.
+The enemy [[Will|will]] wait for you to stumble.
 With [[Vigilance|vigilance]], your only coat of steel.
 Chorus

@@ -25,4 +25,4 @@ CommissionProgress|Golden_Cascade
 ## Outcome
 * 200 thrones disbursed to [[Senator]] [[Mournwold]]
 * Now that the reconstruction is complete the Golden Cascade provides a share of 100 random [[Herbs|herbs]] to farms and 30 crowns to [[Herb|herb]] gardens in [[Zenith]]
-* Now that the Golden Cascade has been rebuilt it provides a significant boost to food supply all across [[Urizen]] meaning that [[Urizen]] can continue to fully supply the [[Citadel Guard]] indefinitely, provided Urizen retains control of all three current [[Urizen Territories|Urizen territories]].
+* Now that the Golden Cascade has been rebuilt it provides a significant boost to food supply all across [[Urizen]] meaning that [[Urizen]] can continue to fully supply the [[Citadel Guard]] indefinitely, provided [[Urizen]] retains control of all three current [[Urizen Territories|Urizen territories]].

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Loyalty roleplaying effects
 aliases: ['Loyalty_roleplaying_effects']

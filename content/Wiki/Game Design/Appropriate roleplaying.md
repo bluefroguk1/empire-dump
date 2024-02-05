@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Appropriate roleplaying
 aliases: ['Appropriate_roleplaying']
 draft: False

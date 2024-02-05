@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Marches military concerns
 aliases: ['Marches_military_concerns']

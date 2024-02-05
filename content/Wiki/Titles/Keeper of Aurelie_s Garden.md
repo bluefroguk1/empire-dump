@@ -17,7 +17,7 @@ The Keeper has no particular responsibilities; they simply receive a bounty of h
 ### Bounty of Herbs
 The Keeper gains custodianship of a [[Sinecure]]. Each season they receive 10 doses of [[Imperial Roseweald]], and 2 doses each of [[Cerulean Mazzarine]], [[True Vervain]], [[Marrowort]], and [[Bladeroot]].
 ## [[Appointment]]
-The Keeper of Aurelie's Garden is appointed by unanimous decision of the senators of [[Dawn]] and [[Navarr]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead. The intention is that the senators [[Will|will]] ensure that a suitable contest to identify the appropriate candidate is arranged and overseen. Legally, however, all that is required to appoint the title is a unanimous agreement between the senators of Dawn and Navarr.
-The title can be held by either a Navarr citizen or a citizen of Dawn.The Keeper serves for a year, until they die, or until they step down.
-In accordance with its peculiar method of appointment, the title can be revoked by the [[General]] [[Assembly]], the Navarr [[National Assembly]], the National [[Assembly]] of Dawn, and by the [[Assembly of the Nine]]. 
+The Keeper of Aurelie's Garden is appointed by unanimous decision of the senators of [[Dawn]] and [[Navarr]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead. The intention is that the senators [[Will|will]] ensure that a suitable contest to identify the appropriate candidate is arranged and overseen. Legally, however, all that is required to appoint the title is a unanimous agreement between the senators of [[Dawn]] and [[Navarr]].
+The title can be held by either a [[Navarr]] citizen or a citizen of [[Dawn]].The Keeper serves for a year, until they die, or until they step down.
+In accordance with its peculiar method of [[Appointment|appointment]], the title can be revoked by the [[General]] [[Assembly]], the [[Navarr]] [[National Assembly]], the National [[Assembly]] of [[Dawn]], and by the [[Assembly of the Nine]]. 
 RecentElections|Keeper_of_Aurelie%27s_Garden

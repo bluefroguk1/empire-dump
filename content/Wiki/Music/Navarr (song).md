@@ -43,4 +43,4 @@ When the journey is ended...
 You placed a sign on the road to [[Guide|guide]] me
 A hand of friendship in a time of need
 I look deep into your blue eyes
-Navarr Navarr
+[[Navarr]] [[Navarr]]

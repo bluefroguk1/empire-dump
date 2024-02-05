@@ -32,11 +32,11 @@ Without us, their stridings,
 Our future decided, 
 Before we're divided,
 Let's lie here united,
-As Thorn and [[Navarr]].
-Chorus (Navarr)
-Bridge (Thorn)
+As [[Thorn]] and [[Navarr]].
+Chorus ([[Navarr]])
+Bridge ([[Thorn]])
 Hear me x4
-Verse 3 (Navarr)
+Verse 3 ([[Navarr]])
 We should be preparing,
 And what your suggesting,
 Would use, though its tempting, 
@@ -45,16 +45,16 @@ Soon, when we're long [[Gone|gone]],
 Our people embark on,
 An exodus begun,
 For Terunael.
-Chorus (Thorn)
-Bridge'' x2 (Navarr then Thorn)
+Chorus ([[Thorn]])
+Bridge'' x2 ([[Navarr]] then Thorn)
 Verse 4 (Thorn)
 Your hard [[Dedication|dedication]],
 Is all to your credit,
 But we've done all we can,
 and we have to let go.
 Let's show we have no doubt,
-For soon we will bow out.
-But the dance will continue
+For soon we [[Will|will]] bow out.
+But the dance [[Will|will]] continue
 With other [[Heroes|heroes]].
 Verse 5 (Navarr)
 Then let us make our rest,

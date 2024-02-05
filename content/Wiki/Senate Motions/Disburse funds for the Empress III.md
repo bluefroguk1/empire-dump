@@ -16,4 +16,4 @@ Announced by [[Empress Lisabetta]]
 ### Date
 * [[Spring]] 381YE
 ### Progress
-* 119 thrones and 2 crowns disbursed to Empress Lisabetta
+* 119 thrones and 2 crowns disbursed to [[Empress Lisabetta]]

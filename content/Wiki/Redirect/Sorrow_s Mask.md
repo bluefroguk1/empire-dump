@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Sorrow_s Mask
 aliases: ["Sorrow's_Mask"]

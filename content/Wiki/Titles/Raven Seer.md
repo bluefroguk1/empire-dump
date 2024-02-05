@@ -29,12 +29,12 @@ The Raven [[Seer]] serves as the representative of the mystics of Ishal in [[Anv
 ### Infusions of the Mystics
 As a [[Ministry]], the title of [[Raven Seer]]  allows the holder to purchase infusions at a set price. The [[Seer]] spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and infusions are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
 ### Bounty of Goosewhisper
-The Raven Seer receives a bounty of five doses of Goosewhisper Infusion each season to use as they see fit.
+The [[Raven Seer]] receives a bounty of five doses of Goosewhisper Infusion each season to use as they see fit.
 ### Parliament of Owls
-The Raven Seer is the custodian of the [[Ritual text|ritual text]] for the ''Parliament of Owls'', a [[Ritual|ritual]] codified during the reign of [[Emperor Nicovar]]. The ritual allows the Raven Seer to communicate a question to the mystics of Ishal. If the mystics are asked an appropriate question, if they are asked to look into some issue of current affairs that affects Wintermark, then they [[Will|will]] study the omens and report what they can find on the matter to the Raven Seer. There is only one copy of this ritual text; the Raven Seer is expected to hand it to their successor.
+The Raven [[Seer]] is the custodian of the [[Ritual text|ritual text]] for the ''Parliament of Owls'', a [[Ritual|ritual]] codified during the reign of [[Emperor Nicovar]]. The ritual allows the [[Raven Seer]] to communicate a question to the mystics of Ishal. If the mystics are asked an appropriate question, if they are asked to look into some issue of current affairs that affects [[Wintermark]], then they [[Will|will]] study the omens and report what they can find on the matter to the Raven [[Seer]]. There is only one copy of this ritual text; the [[Raven Seer]] is expected to hand it to their successor.
 ## [[Appointment]]
-The Raven Seer is appointed during the [[Autumn]] Equinox each year. It is chosen by unanimous decision of the senators of Wintermark. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
-The title can be held by any Wintermark citizen. They can be revoked by the [[General]] [[Assembly]], the Wintermark [[National Assembly]], and by the [[Assembly of the Nine]].
+The Raven [[Seer]] is appointed during the [[Autumn]] Equinox each year. It is chosen by unanimous decision of the senators of [[Wintermark]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
+The title can be held by any [[Wintermark]] citizen. They can be revoked by the [[General]] [[Assembly]], the Wintermark [[National Assembly]], and by the [[Assembly of the Nine]].
 The mystics of Ishal have made clear that they would prefer the Raven Seer be a [[Mystic|mystic]] of the [[Kallavesi]] tradition, trusting to the Wintermark senators to ensure that this is the case.
 RecentElections|Raven_Seer
 Responsibilities Expectation

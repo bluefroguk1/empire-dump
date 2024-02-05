@@ -54,7 +54,7 @@ The Marcher in her garden
 Her hands deep in the soil 
 She tills the fields and the land she heals 
 With good and honest toil 
-So [[Heroes|heroes]] of the Empire 
+So [[Heroes|heroes]] of [[The Empire|the Empire]] 
 As you march off to [[War|war]] 
 Remember ye well the simple folk 
 Who you are fighting for

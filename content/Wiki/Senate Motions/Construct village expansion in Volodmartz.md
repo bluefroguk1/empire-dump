@@ -12,7 +12,7 @@ __NOTOC__
 Construction of a village expansion to house the growing vigilant population of a virtuous [[Mine|mine]] in [[Volodmartz]], that would function in the manner of a [[Sinecure|sinecure]]. Self funded, no upkeep.
 Proposed by [[Volodmartz]], Seconded by [[Karsk]]
 ### Overview
-* A [[Sinecure]] that produces money in Volodmartz
+* A [[Sinecure]] that produces money in [[Volodmartz]]
 * Passed
 ### Date
 * [[Spring]] 381YE
@@ -22,9 +22,9 @@ Proposed by [[Volodmartz]], Seconded by [[Karsk]]
 * 3 months to construct
 ### Progress
 * 9 wains of [[White granite|white granite]] and 20 crowns provided by Vuk The Wolfeater after Spring Equinox 381YE.
-* 1 wain of white granite provided by Sigourney Kavov after Spring Equinox 381YE.
+* 1 wain of [[White granite|white granite]] provided by Sigourney Kavov after Spring Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
 * Certain necessary details are required before construction can be started.
-* This sinecure, once completed, [[Will|will]] create a new title, Keeper of Berislav's Rest.
+* This [[Sinecure|sinecure]], once completed, [[Will|will]] create a new title, Keeper of Berislav's Rest.
 ### Consitution
-* This sinecure is a Varushkan national position with [[Tenure|tenure]].
+* This [[Sinecure|sinecure]] is a Varushkan national position with [[Tenure|tenure]].

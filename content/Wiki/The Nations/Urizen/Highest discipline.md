@@ -14,12 +14,12 @@ A year later during the Autumn Equinox 383YE, the magicians of [[Urizen]] determ
 This quality incorporates all the benefits of the [[Magic|magic]] quality.
 ## [[Highest discipline|Highest Discipline]]
 * The army can use enlightened scrying, winter's mantle, onrushing storm, irresistible spear or raise the glass labyrinth once each per year
-The [[Ilium]]-infused [[Mage|mage]] armour and [[Mage|mage]] weapons allow the [[Citadel Guard]] to bring their magic to bear during a military campaign in unique ways. This quality does not alter the ability to use the General as conduit for delivering magic, nor their ability to gather crystal mana when undertaking arcane consolidation. No other army in the world possesses mastery of these techniques, and some of them are risky to employ. As such there may be unexpected interactions between the five techniques and the power of enchantments, curses, or even the actions of other armies.
-In any given season the general may employ one technique, but each technique can only be employed once each year. The pool 'resets' in [[Summer]] each year - the season where a new general of the Citadel Guard could be appointed.
+The [[Ilium]]-infused [[Mage|mage]] armour and [[Mage|mage]] weapons allow the [[Citadel Guard]] to bring their [[Magic|magic]] to bear during a military campaign in unique ways. This quality does not alter the ability to use the [[General]] as conduit for delivering [[Magic|magic]], nor their ability to gather crystal mana when undertaking arcane consolidation. No other army in the world possesses mastery of these techniques, and some of them are risky to employ. As such there may be unexpected interactions between the five techniques and the power of enchantments, curses, or even the actions of other armies.
+In any given season the [[General|general]] may employ one technique, but each technique can only be employed once each year. The pool 'resets' in [[Summer]] each year - the season where a new [[General|general]] of the [[Citadel Guard]] could be appointed.
 ### Technique of the Celestial Key
 * Resonance of the [[Day]] [[Realm]]
 * Allows use of the Enlightened Scrying order when defending
-Day resonates strongly with the symbols of divination and revelation. Even the merest apprentice beginning their journey to magical masters learns first how to divine the nature of magic before ever they touch it. There are few secrets hidden to the great masters of the [[Day Realm|Day realm]]. With this technique, binding the resonance of day to support the art of gathering and sorting information, the mages of the army can accumulate an awe-inspiring amount of intelligence in a short time.
+Day resonates strongly with the symbols of divination and revelation. Even the merest apprentice beginning their journey to magical masters learns first how to divine the nature of [[Magic|magic]] before ever they touch it. There are few secrets hidden to the great masters of the [[Day Realm|Day realm]]. With this technique, binding the resonance of day to support the art of gathering and sorting information, the mages of the army can accumulate an awe-inspiring amount of intelligence in a short time.
 Enlightened Scrying
 *Defending Order
 *The army generates a map of the [[Territory|territory]] they are in, which is added to [[The wiki|the wiki]] and becomes common knowledge.
@@ -29,7 +29,7 @@ Employing the Technique of the Celestial Key, this defensive order uses the powe
 ### Technique of the Bond of Tears
 * Resonance of the [[Winter Realm]]
 * Allows use of the Winter's Mantle when attacking.
-Winter resonates with symbols of cruelty and survival. It preserves, but for all great powers of the [[Winter magic|winter magic]] there is a [[Cost|cost]] to be paid. At the same time that magic averts harm to the Citadel guard and allows them to press forward, their suffering falls on the allies of the army who take the injuries that might otherwise have crippled Urizen magicians. The technique is of limited value unless there is another allied army present to take any losses the Citadel Guard might otherwise suffer.
+Winter resonates with symbols of cruelty and survival. It preserves, but for all great powers of the [[Winter magic|winter magic]] there is a [[Cost|cost]] to be paid. At the same time that magic averts harm to the [[Citadel Guard|Citadel guard]] and allows them to press forward, their suffering falls on the allies of the army who take the injuries that might otherwise have crippled [[Urizen]] magicians. The technique is of limited value unless there is another allied army present to take any losses the [[Citadel Guard]] might otherwise suffer.
 Winter's Mantle
 * Attacking order.
 * The ability of this army to conquer territory is increased by a fifth.
@@ -41,9 +41,9 @@ Winter preserves, but not without a [[Cost|cost]]. With powerful enchantments, t
 [[Spring]] resonates with symbols of destructive energy unleashed, with both storms and natural erosion by plants and weather. By channelling this resonance, the walls of a [[Fortification|fortification]] can be overwhelmed either by a slow green tide or with devastating weather phenomenon.
 Onrushing Storm
 *Attacking order.
-*The army must be attacking a region - that is in a territory that contains a named [[Fortification|fortification]] - or else the order defaults to cautious advance. The fortification need not be in the region being attacked, and this order [[Will|will]] not cause it to be involved directly in the campaign.
-*All casualties inflicted by this army are directed at the named fortification.
-With the Technique of the Transcendent Claw, the army damages and potentially destroys a fortification; it is especially powerful in that it can be used from a distance – the Citadel Guard do not need to engage the fortification and can indeed be involved in a campaign in an entirely different part of the territory.
+*The army must be attacking a region - that is in a territory that contains a named [[Fortification|fortification]] - or else the order defaults to cautious advance. The [[Fortification|fortification]] need not be in the region being attacked, and this order [[Will|will]] not cause it to be involved directly in the campaign.
+*All casualties inflicted by this army are directed at the named [[Fortification|fortification]].
+With the Technique of the Transcendent Claw, the army damages and potentially destroys a [[Fortification|fortification]]; it is especially powerful in that it can be used from a distance – the Citadel Guard do not need to engage the fortification and can indeed be involved in a campaign in an entirely different part of the territory.
 ### Technique of the Mountainous Ascent
 * Resonance of the [[Summer Realm]]
 * Allows the use of the ''Irresistible Spear'' order when attacking

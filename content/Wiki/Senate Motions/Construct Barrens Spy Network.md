@@ -20,8 +20,8 @@ Create [[Spy network|spy network]] in [[The Barrens]].Proposed by [[Volodmartz]]
 ### Progress
 * 10 wains of [[Weirwood|weirwood]] provided by Hector de Rondell after the Spring Equinox 378.
 ### [[Campaign outcome|Campaign Outcome]]
-* Creates a Spy network in The Barrens.
-* The spy network was destroyed by the [[Druj]] following the [[Summer]] Solstice 382YE.
+* Creates a [[Spy network]] in [[The Barrens]].
+* The [[Spy network|spy network]] was destroyed by the [[Druj]] following the [[Summer]] Solstice 382YE.
 ### Voting
 {| class="wikitable"
 |-

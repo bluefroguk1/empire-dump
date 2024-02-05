@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Foreman of the Mines of Gulhule
 aliases: ['Foreman_of_the_Mines_of_Gulhule']

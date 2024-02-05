@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Spontaneous ritual
 aliases: ['Spontaneous_ritual']

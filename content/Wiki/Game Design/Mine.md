@@ -10,12 +10,12 @@ revision_id: 97241
 ## Definition
 A [[Mine|mine]] represents a worked holding. It could be a small but profitable shaft [[Mine|mine]], a series of underground tunnels, or it could be something as small as a panning operation.
 ## Production
-Upon taking a mine, you must choose one of [[Green iron|green iron]], [[Tempest jade|tempest jade]], [[Weltsilver|weltsilver]] or [[Orichalcum|orichalcum]]. A mine produces 12 ingots of the chosen material.
+Upon taking a [[Mine|mine]], you must choose one of [[Green iron|green iron]], [[Tempest jade|tempest jade]], [[Weltsilver|weltsilver]] or [[Orichalcum|orichalcum]]. A [[Mine|mine]] produces 12 ingots of the chosen material.
 ## [[Downtime]] Options
-It is possible to obtain additional [[Materials|materials]] from a mine during any given season. You may spend 6 crowns to have the mine produce an additional 5 ingots of the same material as it would naturally produce.
+It is possible to obtain additional [[Materials|materials]] from a [[Mine|mine]] during any given season. You may spend 6 crowns to have the mine produce an additional 5 ingots of the same material as it would naturally produce.
 ## Upgrades
 A mine can be upgraded using [[Mithril]] obtained from [[The Bourse|the Bourse]]. Each time a mine is upgraded, the owner receives an additional 2 ingots from then on.
-To upgrade a mine requires Imperial wains of [[Mithril|mithril]] equal to the level the mine is being upgraded to. So the first upgrade of a starting level 1 mine costs 2 Imperial wains of mithril, from 2 to 3 costs 3 Imperial wains, etc.
+To upgrade a mine requires Imperial wains of [[Mithril|mithril]] equal to the level the mine is being upgraded to. So the first upgrade of a starting level 1 mine costs 2 Imperial wains of [[Mithril|mithril]], from 2 to 3 costs 3 Imperial wains, etc.
 ## Diversification
 A mine can be diversified to sacrifice production of one material for another. To diversify a mine costs one [[Throne|throne]]. Each time a mine diversifies, the owner chooses a different [[Resource|resource]] from the list for mines; the mine produces 2 ingots of the new material at the expense of 2 less of the original material. 
 ## [[Rituals]]

@@ -31,8 +31,8 @@ Let us take time from our journey,
 A few moments long,
 If we lose sight of each other,
 I [[Will|will]] meet in the silence,
-At the heart of the song.
-The heart of the song
+At the [[Heart of the Song|heart of the song]].
+The [[Heart of the Song|heart of the song]]
 Verse 2
 All those questions and mysteries,
 That discomfort your mind,
@@ -45,6 +45,6 @@ Like the starry eyes of lovers,
 And the moon beneath the water,
 When the [[Magic|magic]] is strong,
 If we lose sight of each other,
-I will meet in the silence,
-At the heart of the song.
+I [[Will|will]] meet in the silence,
+At the [[Heart of the Song|heart of the song]].
 The heart of the song

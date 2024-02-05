@@ -23,8 +23,8 @@ Five armies stood after months of [[War|war]], at the walls of that great fort,
 And their Generals swore they’d push on, all [[The Way|the way]]...
 [[All the way]] [[To Take High Chalcis|to take High Chalcis]]
 All [[The Way|the way]] to  take High Chalcis
-All the way to  take  High Chalcis
-All the way…
+[[All the way]] to  take  High Chalcis
+All [[The Way|the way]]…
 [[Urizen]] and the Marchers, Highborn and [[The League|the League]],
 Commanded from [[Anvil]], determined to save,
 The [[Valiant Pegasus]] broke the walls, to end that foul siege, 
@@ -33,10 +33,10 @@ Early next morning, through the clouds and the mud,
 Through the [[Sentinel Gate|Sentinel gate]], the [[Heroes|heroes]] came,
 [[Ritual]] stones causing miasma, the targets of the fray
 And for all who had suffered, the Drujj would pay,
-All the way to take High Chalcis
-All the way to  take High Chalcis
-All the way to  take  High Chalcis
-All the way…
+[[All the way]] [[To Take High Chalcis|to take High Chalcis]]
+All [[The Way|the way]] to  take High Chalcis
+[[All the way]] to  take  High Chalcis
+All [[The Way|the way]]…
 Flags they were raised, and [[Rituals|rituals]] started,
 Mages all focused, soldiers kept foes at bay,
 [[Wintermark]], [[Highguard]], [[Varushka]], [[Navarr]] and [[Urizen]],
@@ -45,7 +45,7 @@ For thirteen years, the Highborn have waited,
 Waited to punish the Drujj, and enter the fray,
 Actions taken upon the  field, gain their just reward,
 [[General]] Jericho’s orders had won the [[Day|day]].
-All the way to take High Chalcis
+All the way [[To Take High Chalcis|to take High Chalcis]]
 All the way to  take High Chalcis
 All the way to  take  High Chalcis
 All the way…

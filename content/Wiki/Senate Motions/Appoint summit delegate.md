@@ -9,7 +9,7 @@ revision_id: 85622
 ---
 
 __NOTOC__
-We [[Will|will]] have an anti-slavery summit during the [[Winter|winter]] solstice. The summit [[Will|will]] be organised by two delegates from [[The Empire|the Empire]]. [[The Senate]] will appoint one, [[The Synod|the synod]] will appoint the other. ''Proposed by [[Necropolis]], seconded by [[Reikos]].''
+We [[Will|will]] have an anti-slavery summit during the [[Winter|winter]] solstice. The summit [[Will|will]] be organised by two delegates from [[The Empire|the Empire]]. [[The Senate]] [[Will|will]] appoint one, [[The Synod|the synod]] [[Will|will]] appoint the other. ''Proposed by [[Necropolis]], seconded by [[Reikos]].''
 ## Overview
 * Passed
 * This motion was escalated to an immediate election requiring a constitutional majority for one delegate in order to pass. 

@@ -12,11 +12,11 @@ __NOTOC__
 To [[Commission|commission]] the expansion of [[Spiral]] Castle, [[Weirwater]] such that the area possible to implement resupply includes the Territories adjacent to [[Weirwater]].
 Proposed by [[Astolat]], Seconded by [[Tassato]] 
 ### Overview
-* The [[Castellan of Spiral Castle]] is able to utilise their power of resupply on any army that spends the entire season in either Weirwater, [[Karsk]], [[Karov]], [[Astolat]] or [[Semmerholm]].
+* The [[Castellan of Spiral Castle]] is able to utilise their power of resupply on any army that spends the entire season in either [[Weirwater]], [[Karsk]], [[Karov]], [[Astolat]] or [[Semmerholm]].
 * Passed 
 ### Date
 * [[Spring]] 380YE
 ### [[Cost]]
 * The upkeep of [[Spiral]] Castle has increased from 7 Thrones to 10 Thrones per season.
 ### [[Campaign outcome|Campaign Outcome]]
-* The [[Castellan of Spiral Castle]] now has he power to resupply an army in a [[Territory|territory]] adjacent to Weirwater.
+* The [[Castellan of Spiral Castle]] now has he power to resupply an army in a [[Territory|territory]] adjacent to [[Weirwater]].

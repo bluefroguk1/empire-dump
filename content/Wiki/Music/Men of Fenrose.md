@@ -21,7 +21,7 @@ From the hills rebounding
 Hear our warcry sounding
 Summon all at [[Mournwold]]'s call
 The mighty force surrounding
-Men of Fenrose on to [[Glory|glory]]
+[[Men of Fenrose]] on to [[Glory|glory]]
 This [[Will|will]] ever be your story
 Keep these [[Burning|burning]] words before ye
 Marchers [[Will|will]] not yield

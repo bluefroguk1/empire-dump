@@ -16,43 +16,43 @@ Folk young and old are always ready to protect their home, [[Family|family]] and
 "The most common clothing for the [[Wintermark]] is a thigh length tunic over trousers" - most Winterfolk of any gender wear a version of this. Try several layers with varying sleeve and hem lengths.
 Some Winterfolk prefer a longer and fuller tunic or dress. The wealthier may also wear a [[Kirtle|kirtle]] or very simple form of the bliaut and corsage (see specifics section). More details on this are given later. 
 Trousers are slim but not fitted, and normally wrapped with strips of cloth from ankle to knee.
-The differences between the three subcultures [[Will|will]] be expressed in [[The Way|the way]] you adorn the basic costume. More details follow.
+The differences between the three subcultures [[Will|will]] be expressed in [[The Way|the way]] you adorn the basic [[Costume|costume]]. More details follow.
 ### [[Suaq]]
 Over their tunics the [[Suaq]] wear a hooded coat. In the cold north this would be made of thick animal  pelts, fur side in. In warmer climates perhaps leather and in the imperial heartland in [[Summer|summer]] they may choose to wear linen or canvas versions. 
 Base coat colors tend to be pale to blend with the icy [[Landscape|landscape]]. Although they may keep them plain for hunting and scouting, at home most choose to paint or embroider their coats with bright sigils - symbols of animals and enemies the warrior has killed. Icewalkers tend to adorn their coats with fetishes in a similar way to [[Kallavesi]] [[Mystics|mystics]].
 ### [[Kallavesi]]
-The clothing of the Kallavesi tends to be a little more primitive and this is where some iron-age styles may be more appropriate. Clothes are a little rougher, unlikely to be tailored and colours will be more drab with occasional flashes of colour. Instead of decorative borders they adorn their clothes with fetishes and feathers, beads and bones. 
-Headdresses are central to their identity as an individual and as a member of the Kallavesi and a symbol of their [[Wisdom|wisdom]], power or responsibility. These are usually animal headdresses- either figuratively or literally as they believe it helps them draw on the animal's strengths. Mystics usually chose animals associated with [[Wisdom|wisdom]] or guile while warriors favour strong animals like bears, boars and stags.
+The clothing of the [[Kallavesi]] tends to be a little more primitive and this is where some iron-age styles may be more appropriate. Clothes are a little rougher, unlikely to be tailored and colours [[Will|will]] be more drab with occasional flashes of colour. Instead of decorative borders they adorn their clothes with fetishes and feathers, beads and bones. 
+Headdresses are central to their identity as an individual and as a member of the [[Kallavesi]] and a symbol of their [[Wisdom|wisdom]], power or responsibility. These are usually animal headdresses- either figuratively or literally as they believe it helps them draw on the animal's strengths. Mystics usually chose animals associated with [[Wisdom|wisdom]] or guile while warriors favour strong animals like bears, boars and stags.
 ### [[Steinr]]
-[[Steinr]] clothing is most similar to the central look. They will have multiple layers of tunics and more decorative borders. Although their clothing may be simple, a wealthy Wintermarker may have clothing as exquisitely crafted as a lord of [[Dawn]]. Their wealth is most likely to be displayed in the details: the embroidery and expensive decorative borders, the multiple layers and beautiful jewellery.
+[[Steinr]] clothing is most similar to the central look. They [[Will|will]] have multiple layers of tunics and more decorative borders. Although their clothing may be simple, a wealthy Wintermarker may have clothing as exquisitely crafted as a lord of [[Dawn]]. Their wealth is most likely to be displayed in the details: the embroidery and expensive decorative borders, the multiple layers and beautiful jewellery.
 ### Similar nations
-The Wintermark shares close trade connections with their neighbours in [[The Marches|the Marches]]; with grain and wealth comes influences on fashion. Among those with the money to spend on decorative clothes more tailored fashions are seen, with kirtles laced closer at the waist and hips and longer hem lines. 
-The Wintermark's and [[Varushka]]'s ancient origins can be seen in their similarities of costume. Both nations most commonly wrap their trousers to the knee although Varushkan baggy trousers are seen as rather flamboyant by Wintermarkers. Tunics of varying length and decoration are the staple of both nations. In the Wintermark these are normally pulled on over the head but Varushkan styles are commonly open at the front and asymmetrical or diagonal-cut. The Wintermark do not share [[Varushka]]'s love of mixing bright primary colours. Hats are common in Varushka but Winterfolk favour hoods.
+The [[Wintermark]] shares close trade connections with their neighbours in [[The Marches|the Marches]]; with grain and wealth comes influences on fashion. Among those with the money to spend on decorative clothes more tailored fashions are seen, with kirtles laced closer at the waist and hips and longer hem lines. 
+The [[Wintermark]]'s and [[Varushka]]'s ancient origins can be seen in their similarities of [[Costume|costume]]. Both nations most commonly wrap their trousers to the knee although Varushkan baggy trousers are seen as rather flamboyant by Wintermarkers. Tunics of varying length and decoration are the staple of both nations. In the [[Wintermark]] these are normally pulled on over the head but Varushkan styles are commonly open at the front and asymmetrical or diagonal-cut. The Wintermark do not share [[Varushka]]'s love of mixing bright primary colours. Hats are common in [[Varushka]] but Winterfolk favour hoods.
 People of Wintermark are frugal and practical and are more likely to wear leather or fur layers or other [[Materials|materials]] that are hard-wearing and sensible for their harsh climate.
-Practicality in clothes and armour is something the Winterfolk share with the [[Navarr]]. Their well used leather armour is often similar. Kallavesi mystics may also be occasionally mistaken for a [[Navarr]] blood [[Mage|mage]], however the latter do not wear animal headresses and do not believe in invoking animal spirits
+Practicality in clothes and armour is something the Winterfolk share with the [[Navarr]]. Their well used leather armour is often similar. [[Kallavesi]] mystics may also be occasionally mistaken for a [[Navarr]] blood [[Mage|mage]], however the latter do not wear animal headresses and do not believe in invoking animal spirits
 ## Research
 ===Historical inspiration=== 
 Saxon is the main historical influence but most things from the Roman exit through to mid 13th century should be suitable as change is minor during this time. 
-In [[General|general]], viking reenactment costume should be fine with a few exceptions: Try to avoid anything iconic of Vikings alone as this is not a key look for the Nation and the Winterfolk are neither seafarers nor raiders. Thor's hammer is a well recognized religious symbol that does not exist in Empire and should not be used. 'Viking' hero pants are more suited to Varushka. 
+In [[General|general]], viking reenactment [[Costume|costume]] should be fine with a few exceptions: Try to avoid anything iconic of Vikings alone as this is not a key look for the Nation and the Winterfolk are neither seafarers nor raiders. Thor's hammer is a well recognized religious symbol that does not exist in Empire and should not be used. 'Viking' hero pants are more suited to [[Varushka]]. 
 Iron age costume may also be appropriate - particularly for the Kallavesi. The checked patterns of a simple plaid can look good but be careful not to stray into the [[Realms|realms]] of tartan, which is not acceptable. 
-Although there are strong historical influences for this nation it is important to remember that this is a fantasy setting. The best costumes will take Saxon as a starting point and add an individual fantasy feel. Don't be restricted by what is historically accurate.
+Although there are strong historical influences for this nation it is important to remember that this is a fantasy setting. The best costumes [[Will|will]] take Saxon as a starting point and add an individual fantasy feel. Don't be restricted by what is historically accurate.
 ### Lord of the Rings Rohirrim
-The armour of Rohan is perfect for the Steinr. Leather armour, sometimes with metal plate, is layered over chain and occasionally scale. Gimli's armour follows similar lines and is also appropriate.
+The armour of Rohan is perfect for the [[Steinr]]. Leather armour, sometimes with metal plate, is layered over chain and occasionally scale. Gimli's armour follows similar lines and is also appropriate.
 Theoden's clothes are a perfect example of a wealthy Wintermarker.
-Use caution when copying Eowyn's dresses as some of these are more typical of other nations. The white dress with corsage (tight vest laced at the back) is a great example of a wealthy Steinr's dress. However, the scoop-neck velvet green gown belongs in [[Dawn]], the side-less surcoat perhaps in [[The Marches|the Marches]] and her funeral gown might be worn in [[Highguard]].
+Use caution when copying Eowyn's dresses as some of these are more typical of other nations. The white dress with corsage (tight vest laced at the back) is a great example of a wealthy [[Steinr]]'s dress. However, the scoop-neck velvet green gown belongs in [[Dawn]], the side-less surcoat perhaps in [[The Marches|the Marches]] and her funeral gown might be worn in [[Highguard]].
 ### Game of Thrones
-The snow-coats of the wildlings are great for Suaq hunters (But wearing human skulls might be considered too 'barbaric' even for the Winterfolk). Inspiration for the feel of the Wintermark can be taken from the [[Night]]'s Watch and Starks.
+The snow-coats of the wildlings are great for [[Suaq]] hunters (But wearing human skulls might be considered too 'barbaric' even for the Winterfolk). Inspiration for the feel of the Wintermark can be taken from the [[Night]]'s Watch and Starks.
 ### King Arthur 2004
 Inspiration can be taken from the Saxons in this film. In [[General|general]] the Picts less suitable. Bors' leather armour looks great and if layered over chain might be perfect. Tristan and Gawain's armour has the right feel but plate mail and brigandines are not central to the look.
 ### Beowulf and [[Grendel]] 2005
 Beautiful clothing. Great examples of the effectiveness of layering costume.
 ### Jade warrior
-Set in iron age China, Jade Warrior (2006), has inspiration for the snow coats and hoods of the Suaq.
+Set in iron age China, Jade Warrior (2006), has inspiration for the snow coats and hoods of the [[Suaq]].
 ### Skyrim
 Skyrim successfully mixes fantasy with Norse inspiration. In particular the Norse layered leather armour would look excellent for the Wintermark. The leather corsets worn by many of the women are not sufficient as armour and horned helmets should not be worn.
 ## In detail
 Layers, layers, layers. The best way to make a great costume is by using multiple layers each revealing the one below. 
-As mentioned previously the edge trim on tunics will mark you out as a Wintermarker, particularly the Steinr. Try or buy tunics with a contrasting color at the neck/hem/cuff then think about adding trim or embroidery.
+As mentioned previously the edge trim on tunics will mark you out as a Wintermarker, particularly the [[Steinr]]. Try or buy tunics with a contrasting color at the neck/hem/cuff then think about adding trim or embroidery.
 The above images are from The Midgard Seamstress http://www.facebook.com/themidgardseamstress
 The above trims although not specific or necessarily perfect can all be bought from shops or markets at low [[Cost|cost]].
 For the low-fantasy and early-period  Wintermark, the best fabrics are natural ones or good imitations. Heavy cottons, linens and wool will be best for most [[Characters|characters]] with maybe some velvet and raw silk for the very richest. Avoid shiny satins or crushed velvet/velour. Twills and simple checked plaids will look good but careful not to stray into the [[Realm|realm]] of tartan. 
@@ -78,8 +78,8 @@ If you are feeling confident you can also add detail and individuality by playin
 The full sleeved tunic dress is still very simple but has added gores at the front and back as well as the sides for a very full skirt. Keep the arms straight, slightly belled or very full as shown here. 
 A corsage can be worn over the top. This streamlines the silhouette and can help hold in bellies in the place of a corset. Fit dimension X to bust measurement (divide by 4 but don't forget to allow 2-3cm for seams) dimension z to waist and dimension w to hips. Dimension y is from top of shoulder to hip-line. This can be lightly boned if preferred and is best made of a more heavy duty fabric. Ornament it as required and lace up the back to close. The easiest way to do the edges is with bias binding. Hopefully a tutorial will be uploaded soon.
 ### High status [[Kirtle|kirtle]]
-The kirtle is more complex as it is a fitted item but patterns are easily available from re-enactment sites or main stream suppliers like Butterick. The gathered under-tunic can be worn by any character and I have included it here because it is a really great way of staying warm as the pleats trap air against your skin. The more fabric you use the warmer the result.
-### Suaq coats
+The [[Kirtle|kirtle]] is more complex as it is a fitted item but patterns are easily available from re-enactment sites or main stream suppliers like Butterick. The gathered under-tunic can be worn by any character and I have included it here because it is a really great way of staying warm as the pleats trap air against your skin. The more fabric you use the warmer the result.
+### [[Suaq]] coats
 Wrap over Coat
 This is a very simple wrap-over coat design similar to a dressing gown. You can use a gusset at the side for it to flare from the hips.
 Hooded tunic coat
@@ -109,7 +109,7 @@ Here thick furs and rougher leathers are more commonly worn. The headdresses of 
 ### Further Reading
 http://www.3owls.org/sca/costume/saxon.htm
 ### Patterns
-* [http://mccallpattern.mccall.com/m4490-products-413.php?page_id=493 McCall's kirtle pattern]
+* [http://mccallpattern.mccall.com/m4490-products-413.php?page_id=493 McCall's [[Kirtle|kirtle]] pattern]
 * [http://store.reconstructinghistory.com/historic-patterns/medieval.html#ty;pagination_contents;/historic-patterns/medieval-page-3.html Historical patterns]
 * [http://www.patternsoftime.com/proddetail.asp?prod=CC1101M Tunic pattern]
 * [http://www.habithat.co.uk/product_info.php/products_id/8586 Child dress pattern]
@@ -132,7 +132,7 @@ http://www.3owls.org/sca/costume/saxon.htm
 * [http://evenlodestudio.com/index.html Evenlode Studios] provides quality off-the-peg and custom leather armour.
 * [http://www.facebook.com/idiomproductions Idiom Productions] Idiom Productions provides for custom leather orders.
 * [https://www.facebook.com/TotallyLeathered Totally Leathered] Totally Leathered provides custom tooled leatherwork & bespoke armour.
-* [http://www.darkbladeuk.co.uk/ARMOUR/c-1-70/ Darkblade] has leather armour (note that some items in the general armour page may be more suitable than those on the specific wintermark page)
+* [http://www.darkbladeuk.co.uk/ARMOUR/c-1-70/ Darkblade] has leather armour (note that some items in the [[General|general]] armour page may be more suitable than those on the specific wintermark page)
 ### Jewellery
 * [http://www.craftycelts.com Crafty Celts] - Torcs, jewellery, buckles and belts (American company but they will ship to UK).
 Wintermark Links

@@ -19,5 +19,5 @@ Allocation of the [[Territory|territory]] of SkarsindProposed by [[Hahnmark]], s
 * Many of the implications of this move are covered here.
 ### Constitution
 * A method whereby the [[Imperial Orcs]] appoint a [[Senator|senator]] has been determined.
-* This has directly affected the method whereby the Imperial Orcs appoint their Generals and similar titles.
+* This has directly affected the method whereby the [[Imperial Orcs]] appoint their Generals and similar titles.
 __NOTOC__

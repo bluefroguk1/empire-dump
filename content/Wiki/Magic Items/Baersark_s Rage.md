@@ -16,7 +16,7 @@ There is debate over which [[Runes]] are best to work into this armour. [[Rhyv]]
 Medium Armour
 * Effect: When you use the unstoppable skill you regain up to 5 lost hits.
 * [[Materials]]: Crafting a suit of baersarks' rage requires fifteen ingots of [[Weltsilver|weltsilver]], eleven measures of [[Ambergelt|ambergelt]], five ingots of [[Tempest jade|tempest jade]] and five measures of beggar's lye. It takes one month to make one of these items.
-The sneer on Jaster's face disappeared as the big Kallavesi lumbered back to his feet, despite the crossbow bolt protruding from his chest.  Suddenly the [[Bravo|bravo]] began to sincerely regret his duellist's title of "one shot", since he carried no other ammunition, nor any weapons larger than the silvered pocket knife he used for cleaning his nails.
-"the Spotted Bull cannot be killed by one arrow!" snarled the Kallavesi, unsheathing a [[War|war]]-knife that would have doubled as a sword for most people.
+The sneer on Jaster's face disappeared as the big [[Kallavesi]] lumbered back to his feet, despite the crossbow bolt protruding from his chest.  Suddenly the [[Bravo|bravo]] began to sincerely regret his duellist's title of "one shot", since he carried no other ammunition, nor any weapons larger than the silvered pocket knife he used for cleaning his nails.
+"the Spotted Bull cannot be killed by one arrow!" snarled the [[Kallavesi]], unsheathing a [[War|war]]-knife that would have doubled as a sword for most people.
 This duel was going considerably awry.
 "Has anybody got a spare crossbow bolt?" shouted Jaster, barely evading another swing from his enraged opponent...

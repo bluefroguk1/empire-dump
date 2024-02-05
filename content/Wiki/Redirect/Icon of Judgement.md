@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Icon of Judgement
 aliases: ['Icon_of_Judgement']

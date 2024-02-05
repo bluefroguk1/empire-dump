@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Event schedule default
 aliases: ['Event_schedule_default']
 draft: False
@@ -11,7 +11,7 @@ tags: ['Game-Design']
 ## Timetable
 This timetable and much more information can be seen on the notices that get pinned up all around the Hub after time-in. 
 For any queries regarding the IC timetabling at [[Events|events]] you can talk to the civil service staff in the Hub.
-This timetable covers only standard and official meetings and [[Events|events]] organised or facilitated by the Civil Service. For a timetable of events specific to the upcoming event, please see the specific schedule here.
+This timetable covers only standard and official meetings and [[Events|events]] organised or facilitated by the Civil Service. For a timetable of [[Events|events]] specific to the upcoming event, please see the specific schedule here.
 ## [[New player schedule|New Player Schedule]]
 For a list of all New Player Meetings, please see this page.
 ## Friday
@@ -49,7 +49,7 @@ SaturdaySenateMilitary CouncilConclaveBourseSynodAcademyElectionsMilitia
 5pm
 5.30pmDeadline for Conclave Declarations: 6pmDeadline for voting in Synod Judgements: 6pm
 6pmGrandmaster electionsIn the Hall of Worlds
-6.30pmDeadline for Senate motions: 7pm
+6.30pmDeadline for [[Senate Motions|Senate motions]]: 7pm
 7pmConclaveIn the Hall Of WorldsSynod open for JudgementIn the Civil Service HubMilitia meetingIn the Magistrates' Tent
 7.30pm
 8pm
@@ -67,7 +67,7 @@ SundaySenateMilitary CouncilConclaveBourseSynodAcademyElectionsMilitia
 10amSynod open for JudgementIn the Civil Service Hub
 10.30am
 11am BattleOff [[Anvil]]
-11.30amDeadline for Senate motions: 12pm
+11.30amDeadline for [[Senate Motions|Senate motions]]: 12pm
 12 middayStudent CouncilIn the Senate
 12.30pm
 1pmCouncil sessionIn the Military Council tentGraduationIn [[The Academy|the Academy]] tent

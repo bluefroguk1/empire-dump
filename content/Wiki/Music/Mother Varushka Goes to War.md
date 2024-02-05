@@ -28,7 +28,7 @@ On to battle in the morning
 Red shall be the new [[Day|day]]'s dawning 
 Raise the [[Banner|banner]] high before 
 [[Mother Varushka]] goes to [[War|war]] (x2)
-Now the drums of war are beating 
+Now the drums of [[War|war]] are beating 
 Onward march and no retreating 
 Till we fall to rise no more 
-When mother [[Varushka]] goes to war (x2)
+When mother [[Varushka]] goes to [[War|war]] (x2)

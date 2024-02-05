@@ -18,15 +18,15 @@ Prey for wolves and snow
 Alive in wilderness
 Holding fast against the cold
 Surrounded by the darkness
-All the Ushka sister
+[[All The Ushka|All the Ushka]] sister
 Hiding from the Vard
 Bargains failed, fighting too
 Then conquered heads are bowed
-All the Ushka brother
+[[All The Ushka|All the Ushka]] brother
 Shared their hard won hearth
 Rather than destruction
 Protection offered [[Worth|worth]]
-All the Ushka wise ones
+[[All The Ushka|All the Ushka]] wise ones
 Work hard and keep the faith
 Bargainers refused to bow
 Were exiled to the waste

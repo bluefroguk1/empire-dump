@@ -16,14 +16,14 @@ An announcement by [[Bearer of an Imperial Wayleave|bearer of an Imperial Waylea
 ## Date
 * [[Summer]] 382YE
 ## Costs
-* This Sinecure uses standard costs
+* This [[Sinecure]] uses standard costs
 * 10 wains [[Mithril|mithril]]
 * 20 crowns labour
 * 3 months to complete
 ## Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns were provided by Vilkas Blake after the Summer Solstice 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* Once complete the sinecure [[Will|will]] create the [[Imperial Title]] ''[[Guardian of the Prosperity of Afal]]''.
+* Once complete the [[Sinecure|sinecure]] [[Will|will]] create the [[Imperial Title]] ''[[Guardian of the Prosperity of Afal]]''.
 ## Constitution
-* It is not possible to restrict a title to a citizen of Upwold in this.
-Citizens are welcome to chose only to elect a citizen of Upwold, but an [[Imperial Title|Imperial title]] cannot be limited in this way. It can be set to be a Marcher national position - if Vikas Blake wishes to include that as part of the necessary details for this [[Senate motion]].
+* It is not possible to restrict a title to a citizen of [[Upwold]] in this.
+Citizens are welcome to chose only to elect a citizen of [[Upwold]], but an [[Imperial Title|Imperial title]] cannot be limited in this way. It can be set to be a Marcher national position - if Vikas Blake wishes to include that as part of the necessary details for this [[Senate motion]].

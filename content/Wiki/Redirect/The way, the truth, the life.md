@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The way, the truth, the life
 aliases: ['The_way,_the_truth,_the_life']

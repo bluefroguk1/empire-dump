@@ -22,6 +22,6 @@ __NOTOC__
 * 24 crowns in labour costs
 * 3 months to construct
 ## Progress
-*  12 wains of weirwood, and 24 crowns provided by Hengest Dunn after the Spring Equinox 383YE.
+*  12 wains of [[Weirwood|weirwood]], and 24 crowns provided by Hengest Dunn after the Spring Equinox 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * When complete, the [[Ministry]] [[Will|will]] create an [[Imperial Title]], [[Mediator of Hyljehal]]

@@ -20,10 +20,10 @@ Verse 2
 Here, beyond the weir, the water's turning black
 Broceliande stands spear in hand just to turn it back
 Oh how we keep your petty kingdoms well imbued
-But outside in the distance I hear something coming through
-Oh I said, outside in the distance there is something coming through.
+But [[Outside in the Distance|outside in the distance]] I hear something coming through
+Oh I said, [[Outside in the Distance|outside in the distance]] there is something coming through.
 Chorus
-And outside in the distance where your wardens won't go
+And [[Outside in the Distance|outside in the distance]] where your wardens won't go
 A child is standing vigil for a home he'll never know
 The bushes start a-rustling, so he paints his face with woe
 And whispers "This is the last of my show..."

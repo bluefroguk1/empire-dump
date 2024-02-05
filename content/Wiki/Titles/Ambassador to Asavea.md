@@ -14,15 +14,15 @@ WingedMessenger|address=Lady Madriannia of the Blue Stones, Nemoria, [[Asavean A
 ## Responsibilities
 The [[Ambassador]] iAmbassadorrepresent [[The Empire|the Empire]] in relations with the [[Asavean Archipelago]]. They have all the responsibilities common to an Imperial [[Ambassador|ambassador]].
 ## Powers
-### Imperial Ambassador to the Asavean Archipelago
-The title has all the common powers of an ambassador: they receive a briefing, can receive a formal delegation, and may prepare a treaty.
+### Imperial [[Ambassador]] to the [[Asavean Archipelago]]
+The title has all the common powers of an [[Ambassador|ambassador]]: they receive a briefing, can receive a formal delegation, and may prepare a treaty.
 Total Money SpentProduction
 192 Rings6 [[Cerulean Mazzarine]], 5 [[Orichalcum]], 4 [[Iridescent gloaming|Iridescent Gloaming]], 3 [[Tempest jade|Tempest Jade]]
-720 Rings18 [[Cerulean Mazzarine]], 15 Orichalcum, 12 Iridescent Gloaming, 9 Tempest Jade
-1440 Rings30 Cerulean Mazzarine, 25 Orichalcum, 20 Iridescent Gloaming, 15 Tempest Jade
+720 Rings18 [[Cerulean Mazzarine]], 15 Orichalcum, 12 [[Iridescent gloaming|Iridescent Gloaming]], 9 Tempest Jade
+1440 Rings30 [[Cerulean Mazzarine]], 25 Orichalcum, 20 [[Iridescent gloaming|Iridescent Gloaming]], 15 Tempest Jade
 ### Asavean Merchants
-The Embassy in [[Sarvos]] means that the ambassador enjoys the benefits of mercantile support from [[Traders|traders]] keen to curry their favour. As a [[Ministry]], this allows them to purchase quantities of special [[Materials|materials]] at a set price. The ambassador spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
-Following the imposition of [[Sanctions|sanctions]] on the Asavean Archipelago during the Winter Solstice 381YE, the costs for benefiting from this [[Ministry|ministry]] increased by roughly a fifth.-->
+The [[Embassy]] in [[Sarvos]] means that the [[Ambassador|ambassador]] enjoys the benefits of mercantile support from [[Traders|traders]] keen to curry their favour. As a [[Ministry]], this allows them to purchase quantities of special [[Materials|materials]] at a set price. The ambassador spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
+Following the imposition of [[Sanctions|sanctions]] on the [[Asavean Archipelago]] during the Winter Solstice 381YE, the costs for benefiting from this [[Ministry|ministry]] increased by roughly a fifth.-->
 ## [[Appointment]]
 The [[Ambassador to Asavea]] is an Imperial position appointed by the [[Senate]]. Any Imperial citizen can hold this title, and the ambassador serves for a year. They can be revoked by the [[General]] [[Assembly]] and by the [[Assembly of the Nine]].
 RecentElections|Ambassador_to_Asavea

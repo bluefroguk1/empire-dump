@@ -15,7 +15,7 @@ For inspiration for [[Wintermark]] look to the [[Music|music]] of the old Americ
 ### Commonly known songs
 * Oy lay la loyla - one of several [[Calls|calls]] used when herding animals or bringing home a hunt
 ### A musical tradition
-From [[Wintermark Military Concerns]]#[[Banner]]-bearers: [[Steinr]] Banner-bearers often carry instruments of [[War|war]], drums, horns and the like to perform music on [[The Battlefield|the battlefield]] to lift spirits. [[Kallavesi]] Banner-bearers prefer to anoint their fellows with scented oils and use ancient tales to remind all of the [[Heroes|heroes]] of the past. Some [[Suaq]] Banner-bearers prefer to lead their warriors in song while others learn the chirurgeons art. Most Banner-bearers are skilled warriors, but whatever their art, their purpose is to rouse the [[Courage|courage]] and fighting spirit of the band, supporting them on [[The Battlefield|the battlefield]].
+From [[Wintermark Military Concerns]]#[[Banner]]-bearers: [[Steinr]] Banner-bearers often carry instruments of [[War|war]], drums, horns and the like to perform [[Music|music]] on [[The Battlefield|the battlefield]] to lift spirits. [[Kallavesi]] Banner-bearers prefer to anoint their fellows with scented oils and use ancient tales to remind all of the [[Heroes|heroes]] of the past. Some [[Suaq]] Banner-bearers prefer to lead their warriors in song while others learn the chirurgeons art. Most Banner-bearers are skilled warriors, but whatever their art, their purpose is to rouse the [[Courage|courage]] and fighting spirit of the band, supporting them on [[The Battlefield|the battlefield]].
 ### One for the kids
 [[Ho Ho Away We Go]], very easy song with optional harmonies.
 ### Funeral Songs
@@ -33,8 +33,8 @@ From [[Wintermark Military Concerns]]#[[Banner]]-bearers: [[Steinr]] Banner-bear
 *[[Falcon Wings]] - A song commissioned by the former [[Senator|senator]] for [[Skarsind]], upon the bequeathing of that [[Territory|territory]] to the [[Imperial Orcs]], combining Winterfolk and Imperial Orc musical traditions.
 ### Instrumentation and tunes
 * [[Kalenda Maya]] - medieval fiddle tune that sounds great with drones
-* Orcadian/Shetland tunes have the right sort of sound for Wintermark, as does the Swedish fiddle. 
-* Pan pipes, ocarinas, or low whistles could be used to great effect here too, using any breathy slow music.
+* Orcadian/Shetland tunes have the right sort of sound for [[Wintermark]], as does the Swedish fiddle. 
+* Pan pipes, ocarinas, or low whistles could be used to great effect here too, using any breathy slow [[Music|music]].
 * Scandinavian fiddle/folk resources: http://www.people.iup.edu/rahkonen/Fiddling/scandi.htm
 ### Other performance traditions
 * Riddles!
@@ -43,7 +43,7 @@ From [[Wintermark Military Concerns]]#[[Banner]]-bearers: [[Steinr]] Banner-bear
 * When playing from your folk tune repertoire, flatten all your 7ths (turning the major scale into the mixolydian mode). Here is a search for [http://abcnotation.com/searchTunes?q=Mixolydian&f=c&o=a&s=0 mixolydian mode tunes]
 * Sing in a raw style and emphasise the story behind the song.
 ### Our sources
-* June Tabor, Vasen, Althing (vocal group), Ensemble Norma, Enkelit, Flight of the Condor soundtrack, Andean pipe music generally and processional songs.
+* June Tabor, Vasen, Althing (vocal group), Ensemble Norma, Enkelit, Flight of the Condor soundtrack, Andean pipe [[Music|music]] generally and processional songs.
 * A great source of Swedish fiddle tunes: http://www.norbeck.nu/abc/index2.asp?cat=s&sort=title
 Here is a [https://www.youtube.com/watch?v=Z1qFj9W1d4E&list=PL7FECF73F257077BA&feature=plpp_play_all youtube playlist] of appropriate or inspiring music.
-Wintermark Links
+[[Wintermark]] Links

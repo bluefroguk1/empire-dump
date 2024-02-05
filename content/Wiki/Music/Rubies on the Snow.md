@@ -24,17 +24,17 @@ Chorus:
 ''Now here we ever must remain''
 Our foes heard an Ushkan [[Mage]] call
 All was not lost if they'd pay his bloody [[Cost|cost]]
-Where the blood fell like rubies on the snow.
+Where the blood fell like [[Rubies on the Snow|rubies on the snow]].
 Deals struck in darkness and cold
 Gold he was paid, darkest promises were made
-And our blood fell like rubies on the snow
+And our blood fell like [[Rubies on the Snow|rubies on the snow]]
 Chorus
 Though we fought hard and fought long
 Strong was the spell and our foes they used it well
 And our blood fell like rubies in the snow
 Their victory did not last
 Fast they were slain, only to rise up again
-Where our blood fell like rubies on the snow
+Where our blood fell like [[Rubies on the Snow|rubies on the snow]]
 Chorus
 Bury my bones where I fell
 Tell to my vale all the sorrows of my tale

@@ -24,4 +24,4 @@ Approved by the [[Civilian Commissioner]] of [[Navarr]]
 ### Autumn Equinox 381
 * This [[Commission|commission]] has lapsed
 ### [[Campaign outcome|Campaign Outcome]]
-* This [[Great work|great work]], once complete, [[Will|will]] provide an additional 75 herbs spread between the owners of [[Herb|herb]] gardens in the [[Territory|territory]] of Miaren who attended the previous [[Anvil]] summit
+* This [[Great work|great work]], once complete, [[Will|will]] provide an additional 75 herbs spread between the owners of [[Herb|herb]] gardens in the [[Territory|territory]] of [[Miaren]] who attended the previous [[Anvil]] summit

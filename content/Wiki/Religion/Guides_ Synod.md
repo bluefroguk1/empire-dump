@@ -14,15 +14,15 @@ Membership of the [[Imperial Synod]] is an important calling and carries with it
 As a [[Member of the Synod|member of the Synod]] you have the following duties: 
 ### I – Appoint a [[Cardinal]] for your Virtue [[Assembly]]
 * Your [[Virtue assembly|Virtue Assembly]] is determined by your Virtue [[Dedication]] or, if you are Undedicated, you are considered a member of the [[Assembly]] of [[The Way|the Way]] 
-* If the Assembly has no [[Cardinal]], you should ensure that your voice is heard in the [[Appointment|appointment]] of the Cardinal 
-* If the Assembly has a Cardinal, you share in the responsibility for the judgements and decisions they make as part of the [[Assembly of the Nine]] 
-* If you feel that the Cardinal is not representing the Virtue or [[The Way]] in the manner they should, it is your duty to take action 
+* If the [[Assembly]] has no [[Cardinal]], you should ensure that your voice is heard in the [[Appointment|appointment]] of the [[Cardinal]] 
+* If the [[Assembly]] has a [[Cardinal]], you share in the responsibility for the judgements and decisions they make as part of the [[Assembly of the Nine]] 
+* If you feel that the [[Cardinal]] is not representing the Virtue or [[The Way]] in the manner they should, it is your duty to take action 
 Consult with the Functionaries of the Synod on how to take necessary actions in relation to this duty. This can include identifying a Cardinal if they are unknown to you. 
 ### II – Exercising of [[Judgement]]
 * As a religious leader, it is accepted that you are possessed of good and virtuous [[Judgement|judgement]] 
-* Your duties including passing judgement on matters presented to the Synod Assemblies 
+* Your duties including passing [[Judgement|judgement]] on matters presented to the Synod Assemblies 
 * There are no formal meetings at the Synod, as you are expected to spend time attending to the needs and wellbeing of the lay citizens 
-* You should check in at the Synod across the [[Day|day]] to check with the Functionaries if any matters have been presented for your judgement 
+* You should check in at the Synod across the [[Day|day]] to check with the Functionaries if any matters have been presented for your [[Judgement|judgement]] 
 * In time, you [[Will|will]] get a sense for when to visit. If in doubt, we recommend once every three hours for a few minutes as a guideline. 
 Consult with the Functionaries of the Synod on seeing the judgements and how to register your own. 
 ### III – The Spiritual Wellbeing of your Nation, and [[The Empire|the Empire]]
@@ -32,9 +32,9 @@ Consult with the Functionaries of the Synod on seeing the judgements and how to 
 * You have access to a number of powers to take action against threats you have identified. 
 If you wish to use any of the powers of the Assemblies to oppose wickedness, consult with the Functionaries of the Synod as to what options are available to you, and what may be the easiest way to access them.
 ### Rights
-As a [[Member of the Synod|member of the Synod]], you are afforded various Rights to ensure that you are able to carry out your crucial role in the Empire: 
+As a [[Member of the Synod|member of the Synod]], you are afforded various Rights to ensure that you are able to carry out your crucial role in [[The Empire|the Empire]]: 
 ### I – [[Witness]]
-* As a member of the Synod, you have the right to enter any common space within the Empire, including [[The Military|the Military]] Command Tent, to observe that all citizens are behaving virtuously 
+* As a [[Member of the Synod|member of the Synod]], you have the right to enter any common space within [[The Empire|the Empire]], including [[The Military|the Military]] Command Tent, to observe that all citizens are behaving virtuously 
 * If you are prohibited from exercising this right, you may notify the Synod Functionaries or the Judiciary 
 * This right exists only whilst you are maintaining a discreet presence. Causing a disruption, or disturbance, forfeits this privilege in that time and place. 
 ### II – [[Sanctuary]]
@@ -46,12 +46,12 @@ As a [[Member of the Synod|member of the Synod]], you are afforded various Right
 * Where an individual has been granted sanctuary in the Synod, or on consecrated ground, you may take their confession. 
 * The confession [[Will|will]] be in relation to the crime for which they have sought sanctuary 
 * Having taken confession, you may accompany the individual to the Judiciary and appeal for clemency on the grounds of the virtues that informed the crime 
-* Be warned, this right is not to be taken trivially or abused. If the individual offends again in the future, it will reflect poorly on you and charges may be brought. 
-### IV – Judgement
+* Be warned, this right is not to be taken trivially or abused. If the individual offends again in the future, it [[Will|will]] reflect poorly on you and charges may be brought. 
+### IV – [[Judgement]]
 * As your duties include giving your judgement on matters before the Synod, you too may call on your fellow Synod members to pass judgement 
 * Judgements can cover a range of matters including [[Inquisition|inquisition]], [[Revocation|revocation]] of Imperial positions, reward of virtuous acts, changing [[Doctrines of the Faith|doctrines of the faith]] and more 
 * The Functionaries of the Synod can advise you of the options available to you, and effective ways of accessing them. 
-* When a judgement is put before the Synod Assemblies, a deadline will be set by which Synod members will be expected to have expressed their judgement. 
+* When a judgement is put before the Synod Assemblies, a deadline [[Will|will]] be set by which Synod members [[Will|will]] be expected to have expressed their judgement. 
 * After the deadline, the Functionaries of the Synod will tally the judgements of the Synod members and document the Judgement of the Synod. 
 * Although the Synod is not required to meet, some Synod members have found it advantageous to explain the judgement they seek to make to their peers to ensure their support during the judgement process. 
 If you have any questions or require further clarifications regarding these Rights, it is advised that you consult with the Functionaries of the Synod regarding their interpretation.

@@ -15,45 +15,45 @@ The powers and [[Appointment|appointment]] method of the Virtue inquisitors were
 The intention of [[The Senate|the Senate]] is that the Virtue inquisitors would form an ''Inquisitorial court'' in conjunction with the [[Imperial Inquisitor]], to oversee inquisitions and ensure their accountability and transparency. This inquisitorial court is also expected to work with the Imperial militia and the [[Imperial Synod]] to ensure inquisitions are performed correctly.
 ## Powers
 ### [[Inquisitor]]'s [[Judgement]]
-Once per summit, the [[Virtue Inquisitor|Virtue inquisitor]] may propose a [[Judgement]] of [[Inquisition]] that is in addition to the single judgement they may normally raise. The [[Inquisition|inquisition]] follows all the normal rules.
+Once per summit, the [[Virtue Inquisitor|Virtue inquisitor]] may propose a [[Judgement]] of [[Inquisition]] that is in addition to the single [[Judgement|judgement]] they may normally raise. The [[Inquisition|inquisition]] follows all the normal rules.
 ## [[Appointment]]
-Each inquisitor is appointed by a Judgement of Appointment in the appropriate [[Virtue assembly|virtue assembly]]. Selection is by a judgement of Appointment raised by the Tribune in the standard manner.
-The laws for [[Imperial Elections]] state that, if eligibility to vote in an election is restricted in some way, then you cannot vote if you were eligible to vote in an equivalent but different election in the last twelve months. For example, if you were eligible to vote for the [[Prosperity]] [[Virtue Inquisitor]] - and you change to be part of the [[Ambition]] [[Assembly|assembly]] - you cannot legally vote for the election of the [[Ambition]] Virtue Assembly until twelve months have passed from the date of the first election. 
-The elections for the Virtue Inquisitors are considered to be legally equivalent positions restricted by virtue. This means that if you change your virtue assembly then you must abstain from voting in a election if it occurs less than four [[Events|events]] after the previous election in your previous virtue assembly. If you are in any doubt about your eligibility then you should consult the Tribune, or [[Merlot]] the civil service overseer of elections who can advise you.
+Each inquisitor is appointed by a [[Judgement]] of [[Appointment]] in the appropriate [[Virtue assembly|virtue assembly]]. Selection is by a [[Judgement|judgement]] of [[Appointment]] raised by the Tribune in the standard manner.
+The laws for [[Imperial Elections]] state that, if eligibility to vote in an election is restricted in some way, then you cannot vote if you were eligible to vote in an equivalent but different election in the last twelve months. For example, if you were eligible to vote for the [[Prosperity]] [[Virtue Inquisitor]] - and you change to be part of the [[Ambition]] [[Assembly|assembly]] - you cannot legally vote for the election of the [[Ambition]] Virtue [[Assembly]] until twelve months have passed from the date of the first election. 
+The elections for the Virtue Inquisitors are considered to be legally equivalent positions restricted by virtue. This means that if you change your virtue [[Assembly|assembly]] then you must abstain from voting in a election if it occurs less than four [[Events|events]] after the previous election in your previous virtue [[Assembly|assembly]]. If you are in any doubt about your eligibility then you should consult the Tribune, or [[Merlot]] the civil service overseer of elections who can advise you.
 Any Imperial citizen may hold this title. They can be revoked by the [[General]] Assembly, the appropriate Virtue assembly, and the [[Assembly of the Nine]].
 ### Schedule
-The schedule for annual appointment is:
+The schedule for annual [[Appointment|appointment]] is:
 * [[Winter]] - [[Courage]] and [[Wisdom]]
 * Spring - [[Loyalty]] and [[Pride]]
 * Summer - [[The Way]]  and [[Prosperity]]
-* [[Autumn]] -  Ambition and [[Vigilance]]
+* [[Autumn]] -  [[Ambition]] and [[Vigilance]]
 ### Incumbent
 The current inquisitors are summarized below - the full election [[History|history]] for each title is listed below.
-* Ambition - #lst:Archive:All_Election_Results|Inquisitor_of_Ambition_occupant
+* [[Ambition]] - #lst:Archive:All_Election_Results|Inquisitor_of_Ambition_occupant
 * [[Courage]] - #lst:Archive:All_Election_Results|Inquisitor_of_Courage_occupant
 * [[Loyalty]] - #lst:Archive:All_Election_Results|Inquisitor_of_Loyalty_occupant
 * [[Pride]] - #lst:Archive:All_Election_Results|Inquisitor_of_Pride_occupant
-* Prosperity - #lst:Archive:All_Election_Results|Inquisitor_of_Prosperity_occupant
+* [[Prosperity]] - #lst:Archive:All_Election_Results|Inquisitor_of_Prosperity_occupant
 * [[Wisdom]] - #lst:Archive:All_Election_Results|Inquisitor_of_Wisdom_occupant
 * [[Vigilance]] - #lst:Archive:All_Election_Results|Inquisitor_of_Vigilance_occupant
-* The Way - #lst:Archive:All_Election_Results|Inquisitor_of_The_Way_occupant
+* [[The Way]] - #lst:Archive:All_Election_Results|Inquisitor_of_The_Way_occupant
 file:InquisitorAmbition.jpg|Sebastiano
 file:InquisitorPride.jpg|Olyvar of Esther's Sanctum (centre)
 file:InquisitorWay.jpg|Morwenna Witheredrose
 ### Election History
-Ambition
+[[Ambition]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Ambition
-Courage
+[[Courage]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Courage
-Loyalty
+[[Loyalty]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Loyalty
-Pride
+[[Pride]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Pride
-Prosperity
+[[Prosperity]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Prosperity
-Wisdom
+[[Wisdom]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Wisdom
-Vigilance
+[[Vigilance]]
 #lst:Archive:All_Election_Results|Inquisitor_of_Vigilance
-The Way
+[[The Way]]
 #lst:Archive:All_Election_Results|Inquisitor_of_The_Way

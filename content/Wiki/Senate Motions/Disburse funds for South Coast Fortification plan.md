@@ -15,4 +15,4 @@ I, Landon of Longridge, [[Senator]] for [[Upwold]], request the disbursement of 
 ## Date
 * [[Winter]] 382YE
 ## Progress
-* 300 Thrones disbursed to [[Senator]] for Upwold.
+* 300 Thrones disbursed to [[Senator]] for [[Upwold]].

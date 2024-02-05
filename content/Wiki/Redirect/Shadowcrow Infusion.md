@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Shadowcrow Infusion
 aliases: ['Shadowcrow_Infusion']

@@ -17,9 +17,9 @@ To build a mana [[Sinecure|sinecure]] in Happiston in the Chalkdowns in the [[Mo
 * [[Autumn]] 384YE
 ## [[Cost]]
 * Standard costs apply
-* The costs for the sinecure have not been defined in the motion so the civil service assumes minimum size (10 wains)
+* The costs for the [[Sinecure|sinecure]] have not been defined in the motion so the civil service assumes minimum size (10 wains)
 ## Progress
 CommissionProgress|Potato_Fields_of_Happiston
 ## Outcome
-* Once complete, the sinecure is intended to provide mana to the [[Imperial Title|Imperial title]] appointed to oversee it, although the mechanism whereby it [[Will|will]] do so is not clear.
-* This motion was missing necessary details regarding the nature of the sinecure, and the [[Cost|cost]] to create it. These were provided after the [[Winter]] Solstice 384YE, and the [[Commission|commission]] is now complete, with the [[Keeper of the Happiston Fields]] ready to be appointed at the [[Spring]] Equinox 385YE
+* Once complete, the [[Sinecure|sinecure]] is intended to provide mana to the [[Imperial Title|Imperial title]] appointed to oversee it, although the mechanism whereby it [[Will|will]] do so is not clear.
+* This motion was missing necessary details regarding the nature of the [[Sinecure|sinecure]], and the [[Cost|cost]] to create it. These were provided after the [[Winter]] Solstice 384YE, and the [[Commission|commission]] is now complete, with the [[Keeper of the Happiston Fields]] ready to be appointed at the [[Spring]] Equinox 385YE

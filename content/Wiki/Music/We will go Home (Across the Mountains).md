@@ -16,9 +16,9 @@ Land that gave us birth and blessing.
 Land that called us ever homewards.
 We [[Will|will]] go home across the mountains.
 Chorus
+We [[Will|will]] go home, we [[Will|will]] go home,
+We [[Will|will]] go home across the mountains.
 We [[Will|will]] go home, we will go home,
-We will go home across the mountains.
-We will go home, we will go home,
 We will go home across the mountains.
 Verse 2
 Land of [[Thorn]], and land of [[Navarr]].

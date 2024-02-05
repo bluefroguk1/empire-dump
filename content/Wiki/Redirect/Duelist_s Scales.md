@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Duelist_s scales
 aliases: ["Duelist's_scales"]

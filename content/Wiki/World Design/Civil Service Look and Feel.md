@@ -34,7 +34,7 @@ These pattern pieces are drawn on standard 1cm grid pattern paper.
 *Quilters fusible web - Wonder-under, heat-n-bond, fuse-a-web or similar
 *Gold seed beads (I use Guterman)
 *Beading or sharp needle
-1. Trace both horses onto the heat-n-bond. Some [[Brands|brands]] [[Will|will]] tell you which side to use, others not. If it's not clear, very gently separate the layers at one corner. The paper will adhere more to one side of [[The Web|the web]] than the other - use the MORE adherent side to draw on.
+1. Trace both horses onto the heat-n-bond. Some [[Brands|brands]] [[Will|will]] tell you which side to use, others not. If it's not clear, very gently separate the layers at one corner. The paper [[Will|will]] adhere more to one side of [[The Web|the web]] than the other - use the MORE adherent side to draw on.
 2. Once you've copied them, roughly cut out a square around each design.
 3. Carefully peel the less sticky paper from the web. Your design side should still be attached to the web.
 4. Press the sticky side of your fusible web to the WRONG side of the taffeta fabric. This should stick pretty well.

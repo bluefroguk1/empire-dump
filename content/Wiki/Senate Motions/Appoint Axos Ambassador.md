@@ -13,7 +13,7 @@ To appoint an Imperial Citizen to the position of [[Ambassador to Axos]]
 [[Administrative motion|Administrative Motion]] 
 ### Overview
 * First [[Appointment|appointment]] of the [[Ambassador]] to [[Axos]]
-* This motion appoints someone to be responsible for the [[Axos]] [[Embassy]], and to represent [[The Empire|the Empire]] in dealings with Axos.
+* This motion appoints someone to be responsible for the [[Axos]] [[Embassy]], and to represent [[The Empire|the Empire]] in dealings with [[Axos]].
 ### Date
 * [[Autumn]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]

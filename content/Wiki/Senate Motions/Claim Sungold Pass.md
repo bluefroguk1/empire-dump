@@ -17,4 +17,4 @@ __NOTOC__
 * [[Summer]] 382YE
 ## Outcome
 * This has implications for the [[Thule]] who may also have laid claim to the [[Mine|mine]].
-* During the Summer Solstice 383YE, the Senate chose to cede Sungold Pass to the [[Thule]], effectively abrogating this motion.
+* During the Summer Solstice 383YE, the Senate chose to cede [[Sungold Pass]] to the [[Thule]], effectively abrogating this motion.

@@ -23,5 +23,5 @@ To build an [[Embassy|embassy]] to the [[Commonwealth]].Proposed by [[Sermersuaq
 ### Progress
 * 25 wains of [[Weirwood|weirwood]], 25 wains of [[White granite|white granite]] and 12 thrones supplied by Atte Arrow-Tongue Metsastajason after [[Winter]] Solstice 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The embassy automatically creates the [[Imperial Title]] of [[Ambassador to the Commonwealth]].
+* The [[Embassy|embassy]] automatically creates the [[Imperial Title]] of [[Ambassador to the Commonwealth]].
 __NOTOC__

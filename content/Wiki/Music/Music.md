@@ -7,7 +7,7 @@ revision_date: 2020-03-02 12:53:34+00:00
 revision_id: 78965
 ---
 
-Live [[Music|music]] adds a huge amount of atmosphere to a game. Not only that, it can be used as a device to inject information for both plot and immersion purposes, and finally, [[Music|music]] and storytelling provides a way to immortalise [[Characters|characters]] and to increase their lasting impact on [[The game|the game]] world. The purpose of this section of [[The wiki|the wiki]] is to encourage live performances of appropriate music and stories and to provide guidance and resources to create a different style of music for each nation. No IC music is ''discouraged'', these resources are just suggestions. We hope it [[Will|will]] help musicians and performers to bring alive their camps and add a great deal to the immersion of [[The game|the game]] as a whole.
+Live [[Music|music]] adds a huge amount of atmosphere to a game. Not only that, it can be used as a device to inject information for both plot and immersion purposes, and finally, [[Music|music]] and storytelling provides a way to immortalise [[Characters|characters]] and to increase their lasting impact on [[The game|the game]] world. The purpose of this section of [[The wiki|the wiki]] is to encourage live performances of appropriate [[Music|music]] and stories and to provide guidance and resources to create a different style of [[Music|music]] for each nation. No IC [[Music|music]] is ''discouraged'', these resources are just suggestions. We hope it [[Will|will]] help musicians and performers to bring alive their camps and add a great deal to the immersion of [[The game|the game]] as a whole.
 Music is supported by a great many talented and skilled PC bards as well by the NPC bards who are members of [[The Three Refrains]].
 ### Contributing music
 Please note, we are being very careful to credit all tunes and lyrics here. Please do not upload copyrighted material without the explicit permission of the authors/performers. Want to submit music to this [[Resource|resource]]? Here is a [[Music template page]] to help you.
@@ -26,8 +26,8 @@ Please note, we are being very careful to credit all tunes and lyrics here. Plea
 * [[Daddy Fox]] - folk song about a cunning fox, easy.
 * Three Ravens/Twa Corbies - song about a dead knight, medium.
 * His [[Banner]]'s Not [[Mine]] Versatile love song
-### Music of the Empire nations
-Generic folk is [[Sung|sung]] throughout the Empire and no music is 'wrong' to sing or play unless it has OOC references. However it would be great to hear a different sound in each camp and the pages for each nation (below) [[Will|will]] help you to adapt your existing repertoire to a national style, and learn new material.
+### Music of [[The Empire|the Empire]] nations
+Generic folk is [[Sung|sung]] throughout [[The Empire|the Empire]] and no music is 'wrong' to sing or play unless it has OOC references. However it would be great to hear a different sound in each camp and the pages for each nation (below) [[Will|will]] help you to adapt your existing repertoire to a national style, and learn new material.
 * [[The Brass Coast music]]
 * [[Dawn Music]]
 * [[Highguard Music]]
@@ -39,28 +39,28 @@ Generic folk is [[Sung|sung]] throughout the Empire and no music is 'wrong' to s
 * [[Wintermark Music]]
 * [[Imperial Orc music]]
 ### Music in battle
-Most of the Imperial nations will use music or noise to inspire [[Courage|courage]] on [[The Battlefield|the battlefield]], or to terrify their enemies. Styles vary from nation to nation and group to group, however here are some overall tendencies:
+Most of the Imperial nations [[Will|will]] use music or noise to inspire [[Courage|courage]] on [[The Battlefield|the battlefield]], or to terrify their enemies. Styles vary from nation to nation and group to group, however here are some overall tendencies:
 * Brass Coast - favour wild shouting and shrieking, along with taunts and challenges or structured 'marching music' on  pipes/recorders with light drumming. They build up [[Courage|courage]] by typically starting in a very slow beat that gets faster and faster until it dissolves into chaos, then starting again.
 * [[Dawn]]  - a Dawnish shield wall may be accompanied by formal fanfare, or pipe and drum. Individual units are often accompanied by a [[Troubadour]], who maintains the morale of the soldiers through story and song, and who is also responsible for immortalising their deeds at the battle's end.
-* [[Highguard]]  - Highguard has a tradition of battle choirs, or unstructured bugles/trumpets/horns at the charge. When marching Highguard soldiers either sing or follow a rhythmical bell rung by a priest. Some units tie tiny bells to their shields or armour which ring during the fighting and if they fall in battle, the priests collect the bells and add them to the group's standard.
+* [[Highguard]]  - [[Highguard]] has a tradition of battle choirs, or unstructured bugles/trumpets/horns at the charge. When marching [[Highguard]] soldiers either sing or follow a rhythmical bell rung by a priest. Some units tie tiny bells to their shields or armour which ring during the fighting and if they fall in battle, the priests collect the bells and add them to the group's standard.
 * [[The League]]  - [[League]] soldiers love to taunt their enemies and often chant simple rhyming jeers at opposing soldiers. [[The League]] also make use of high or snare drums to build morale before a battle.
-* [[The Marches]]  - in a similar fashion to Rough Music, Marchers will shout, chant, bang shields, staves or anything else to create noise before a battle. When marching to [[The Battlefield|the battlefield]], drinking songs may also help to keep spirits up!
+* [[The Marches]]  - in a similar fashion to Rough Music, Marchers [[Will|will]] shout, chant, bang shields, staves or anything else to create noise before a battle. When marching to [[The Battlefield|the battlefield]], drinking songs may also help to keep spirits up!
 * [[Navarr]]  - in order to distract foes from potential flanking ambushes, the [[Navarr]] may shout and chant, and use small horns and drums to create unstructured noise. At [[Night|night]] or in dim forests, bullroarers or 'twirlies'/'whirlers' are sometimes used to scare and disorient their enemies.
 * [[Urizen]]  - gongs, bells and drums are sometimes used to provide a steady repeating rhythm which keeps the group of Sentinels moving forwards, gongs are also used to signal to other nations when [[Urizen]] reinforcements are close at hand.
-* [[Varushka]]  - Varushkans often sing morale-boosting Marching songs, and can be accompanied on the battlefield by drums but typically forget about any kind of structured music once the fighting starts.
-* [[Wintermark]]  - A [[Wintermark]] battle line will have orators, drummers, singers, or pipers gathered around the Banner of each group and they play a large role in keeping morale up. See [[Wintermark Military Concerns]] for more detail.
+* [[Varushka]]  - Varushkans often sing morale-boosting Marching songs, and can be accompanied on [[The Battlefield|the battlefield]] by drums but typically forget about any kind of structured music once the fighting starts.
+* [[Wintermark]]  - A [[Wintermark]] battle line [[Will|will]] have orators, drummers, singers, or pipers gathered around the Banner of each group and they play a large role in keeping morale up. See [[Wintermark Military Concerns]] for more detail.
 * Orcs - big drums, chanting, horns
 ### [[Barbarian]] music
-These songs have been written or adapted by members of our Skirmish Team to be sung during skirmishes and [[Battles|battles]] as the fearsome enemies of the Empire!
-* [[Jotun]] - [[When the Ancestors Call]] - sung on the march to battle
+These songs have been written or adapted by members of our Skirmish Team to be [[Sung|sung]] during skirmishes and [[Battles|battles]] as the fearsome enemies of [[The Empire|the Empire]]!
+* [[Jotun]] - [[When the Ancestors Call]] - [[Sung|sung]] on the march to battle
 * [[Jotun]] - [[Song for the Kirkja]] - a rallying call for [[Heroes|heroes]]
-* Jotun - [[March On]] - a common [[Marching song|marching song]]
-* [[Druj]] - [[You Can Hear Them Screaming]] - sung the [[Day|day]] before a battle
-* [[Druj]] - [[We Can Smell Your Fear]] - used to taunt the Druj's foes
+* [[Jotun]] - [[March On]] - a common [[Marching song|marching song]]
+* [[Druj]] - [[You Can Hear Them Screaming]] - [[Sung|sung]] the [[Day|day]] before a battle
+* [[Druj]] - [[We Can Smell Your Fear]] - used to taunt the [[Druj]]'s foes
 * [[Grendel]] - [[From the Broken Shore]] - sang as a ship closes on its prey
-* [[Grendel]] - [[South Catazar]] - commonly heard on Grendel vessels
-* Grendel - Sarrett's Privateers - a tale of woe and sadness from the high seas
-* Grendel -  [[Blood and Salt]] - recounting the life of a Grendel mariner
+* [[Grendel]] - [[South Catazar]] - commonly heard on [[Grendel]] vessels
+* [[Grendel]] - Sarrett's Privateers - a tale of woe and sadness from the high seas
+* [[Grendel]] -  [[Blood and Salt]] - recounting the life of a Grendel mariner
 ### Songs about notable people or entities known across the Empire
 * Britta's song - Song about [[Empress Britta]] 
 * [[Harvest Time]] - Song about [[Empress Britta]]
@@ -69,6 +69,6 @@ These songs have been written or adapted by members of our Skirmish Team to be s
 ### [[General]] music resources
 * For song lyrics: [http://www.mudcat.org Mudcat], [http://www.traditionalmusic.co.uk/ traditionalmusic.co.uk]
 * For tunes: [http://www.thesession.org TheSession]
-* To find vaguely religious lyrics about the virtues, try using the word search at http://fasola.org/indexes/1991/?l=a You can search by words e.g. [[Ambition]] or "The Way"  and then click through to the whole song. To find the tune, try googling the song title as many shape note songs are on youtube, or find a friendly shape note singer who can look up the tune in the book. See also http://www.shapenote.net/ - a great resource for learning shapenote music.
-* Shakespeare sonnets are suitable for a few cultures, especially Dawn, or for filking. http://www.shakespeares-sonnets.com/all.php
+* To find vaguely religious lyrics about the virtues, try using the word search at http://fasola.org/indexes/1991/?l=a You can search by words e.g. [[Ambition]] or "[[The Way]]"  and then click through to the whole song. To find the tune, try googling the song title as many shape note songs are on youtube, or find a friendly shape note singer who can look up the tune in the book. See also http://www.shapenote.net/ - a great resource for learning shapenote music.
+* Shakespeare sonnets are suitable for a few cultures, especially [[Dawn]], or for filking. http://www.shakespeares-sonnets.com/all.php
 * A great podcast for discovering new folk music: http://www.folkcast.co.uk/

@@ -13,7 +13,7 @@ The ''[[Auditor of Senatorial Accountability]]'' is an [[Imperial Title|Imperial
 The [[Imperial Senate]] has responsibility for allocating and spending the treasury. They do this by appointing individual Senators to oversee projects from building a [[Shipyard|shipyard]] to raising an army. They also disburse funds to worthy causes such as the [[Anvil]] hospital or toward the creation of valuable tools for [[The Empire|the Empire]]. In all such cases, it is the responsibility of the chosen individual to ensure that the funds are used wisely and for the purpose they are intended.
 The powers of the Auditor were extensively amended by the Imperial [[Senate]] in Spring 381YE.
 ## Responsibilities
-The [[Auditor of Senatorial Accountability]] is charged with ensuring that funds allocated to Senators by the Imperial Senate are spent wisely and for the purpose for which they were intended. The findings of the Auditor should be reported to [[The Senate|the Senate]].
+The [[Auditor of Senatorial Accountability]] is charged with ensuring that funds allocated to Senators by the [[Imperial Senate]] are spent wisely and for the purpose for which they were intended. The findings of the Auditor should be reported to [[The Senate|the Senate]].
 ## Powers
 ### Right of Address
 The Auditor has the right to make an address to the Senate once per summit. This is intended to allow them to present important information for the Senators consideration. To use this power, the Auditor informs the civil service that they wish to address the Senate. Their address [[Will|will]] be added to the agenda for the next [[Senate session]].

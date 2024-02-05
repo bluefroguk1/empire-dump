@@ -25,8 +25,8 @@ And in return Jack he [[Will|will]] ripen the wheat
 With his mantle he'll cover the trees that are bare 
 And our gardens he'll trim with his jacket so fair 
 And the fields he [[Will|will]] sow with the hair of his head 
-And the corn it will ripen til old Jack is dead 
+And the corn it [[Will|will]] ripen til old Jack is dead 
 Now the sun is half up and it tokens the hour 
 When the [[Children|children]] arrive with their garlands of flowers 
-So now let the music and dancing begin 
+So now let the [[Music|music]] and dancing begin 
 And toast the good heart of young Jack- in- the- Green

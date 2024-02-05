@@ -33,10 +33,10 @@ So much to die for,
 But we [[Will|will]] not give up the [[Fight|fight]].
 Learn all you can learn, strength lies in [[Wisdom]],
 Destined to march to my heart's only home,
-WInds blow through Spiral,
+WInds blow through [[Spiral]],
 Reach for her [[Children|children]],
-Call, we will soon return. 
+Call, we [[Will|will]] soon return. 
 Every tear that's silently shed,
 Only strangthens our resolve,
 Ankarien and sister spires,
-Will again be ours to hold.
+[[Will]] again be ours to hold.

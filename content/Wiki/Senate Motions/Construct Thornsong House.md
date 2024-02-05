@@ -9,7 +9,7 @@ revision_id: 100257
 ---
 
 __NOTOC__
-To [[Construct Thornsong House|construct Thornsong House]] to honour the heritage of healers and apothecaries in [[Therunin]]. This unique hospital college [[Will|will]] allow [[The Empire|the Empire]] to research new potions for the first time and create a centre for [[Potion|potion]]-lore in [[The Empire|the Empire]]. The title of "Thornsinger", responsible for overseeing and guiding the research, [[Will|will]] be appointed annually vs [[Tally of the Votes]]. The title will have the ability to address [[Senate]] to announce their chosen research focus. Like other Imperial research functions, there will be an upkeep [[Cost|cost]] - 10 thrones as season. This is a unique, limited [[Opportunity|opportunity]].
+To [[Construct Thornsong House|construct Thornsong House]] to honour the heritage of healers and apothecaries in [[Therunin]]. This unique hospital college [[Will|will]] allow [[The Empire|the Empire]] to research new potions for the first time and create a centre for [[Potion|potion]]-lore in [[The Empire|the Empire]]. The title of "Thornsinger", responsible for overseeing and guiding the research, [[Will|will]] be appointed annually vs [[Tally of the Votes]]. The title [[Will|will]] have the ability to address [[Senate]] to announce their chosen research focus. Like other Imperial research functions, there [[Will|will]] be an upkeep [[Cost|cost]] - 10 thrones as season. This is a unique, limited [[Opportunity|opportunity]].
 ## Overview
 * Construct the Thornsong House as detailed in the [[Make a deal]] wind of fortune.
 * Passed
@@ -24,5 +24,5 @@ To [[Construct Thornsong House|construct Thornsong House]] to honour the heritag
 ## Progress
 CommissionProgress|Thornsong_House
 ## Outcome
-* Once complete the [[Navarr]] title of ''Thornsinger'' will be able to be appointed through [[Tally of the Votes]].
+* Once complete the [[Navarr]] title of ''Thornsinger'' [[Will|will]] be able to be appointed through [[Tally of the Votes]].
 * In addition to controlling a [[Ministry|ministry]], the Thornsinger would oversee development of new ways for Imperial apothecaries to use [[Herbs|herbs]]

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Philosopher_s Stone
 aliases: ["Philosopher's_Stone"]

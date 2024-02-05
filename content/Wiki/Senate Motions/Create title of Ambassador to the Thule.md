@@ -20,5 +20,5 @@ Proposed by [[Kallavesa]], Seconded by [[Morrow]]
 * [[Spring]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
 * The title [[Ambassador to Otkodov]] was created
-* Juha, the Cave Spider of [[Varushka]] was appointed as the first Ambassador in Spring 381YE
-* This motion attempted to take advantage of an [[Opportunity|opportunity]]. While there no legal issues with this tile, one of the requirements of that opportunity was that this be a national Varushkan position. The [[Imperial Senate]] is under no obligation to concede to the Thule "request", but as always with international relations, an Imperial ambassador is only as influential as the foreign nation allows them to be.
+* Juha, the Cave Spider of [[Varushka]] was appointed as the first [[Ambassador]] in Spring 381YE
+* This motion attempted to take advantage of an [[Opportunity|opportunity]]. While there no legal issues with this tile, one of the requirements of that [[Opportunity|opportunity]] was that this be a national Varushkan position. The [[Imperial Senate]] is under no obligation to concede to the [[Thule]] "request", but as always with international relations, an Imperial [[Ambassador|ambassador]] is only as influential as the foreign nation allows them to be.

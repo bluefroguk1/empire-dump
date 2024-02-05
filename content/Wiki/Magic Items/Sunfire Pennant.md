@@ -18,7 +18,7 @@ This theme of trophies can also be seen in the ''Yeoman's Flag'' of [[The Marche
 Magical Standards
 * Effect: Five times per [[Day|day]] you may use the [[Empower]] spell as if you knew it without spending any mana. You may not use this ability if you are wearing armour other than [[Mage|mage]] armour.
 * [[Roleplaying effect|Roleplaying Effect]]: When you take hold of this banner, you hear a burst of inspiring [[Music|music]]. While holding it you feel an urge to passionately celebrate your victories, and mourn your defeats.
-* [[Materials]]: Crafting a Sunfire Pennant requires thirteen ingots of [[Orichalcum|orichalcum]], three ingots of [[Tempest jade|tempest jade]], three ingots of weltsilver, eleven measures of dragonbone, five measures of beggar's lye, and nine measures of [[Iridescent gloaming|iridescent gloaming]] It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Sunfire Pennant]] requires thirteen ingots of [[Orichalcum|orichalcum]], three ingots of [[Tempest jade|tempest jade]], three ingots of weltsilver, eleven measures of dragonbone, five measures of beggar's lye, and nine measures of [[Iridescent gloaming|iridescent gloaming]] It takes one month to make one of these items.
 OOC Note
 The bearer of this banner need not be a [[Magician|magician]], but if they are not they should make an extra effort to ensure that they know how [[Spellcasting]], especially offensive [[Spellcasting|spellcasting]] rules and are familiar with the effects of the [[Empower|empower]] spell. If in doubt, they should ask a [[Referee|referee]] who [[Will|will]] be able to explain the details of how the banner works.
 The two old farmhands each took a deep draught of mild, as another column marched past.

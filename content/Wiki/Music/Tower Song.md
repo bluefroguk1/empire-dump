@@ -22,6 +22,6 @@ I saw another tower slightly taller than [[Mine|mine]]
 Next to the others [[Mine|mine]] looked so small
 So I'll tear it down and built it twice as tall!
 (ruder alt last two lines for adults:
-A tower of such girth made mine look so slight
+A tower of such girth made [[Mine|mine]] look so slight
 So I'll tear it down and build it twice the height!)
  * can replace with "clever [[Mage|mage]]", "[[Mountebank|mountebank]]" etc.

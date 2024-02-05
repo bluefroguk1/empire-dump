@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Culture and Customs
 aliases: ['Navarri_Culture_and_Customs']

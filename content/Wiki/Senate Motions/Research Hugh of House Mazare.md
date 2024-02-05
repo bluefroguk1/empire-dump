@@ -14,7 +14,7 @@ Following on from a [[Past life vision|past life vision]] with the intent to foc
 Approved by the [[Dredgemaster of Feverwater]]
 ### Overview
 * [[Historical research|Historical Research]] concerning this topic has been commissioned through the civil service
-* Historical Research request approved by the Dredgemaster of Feverwater using the legal power to approve historical research delegated to them by [[The Senate|the Senate]]
+* [[Historical research|Historical Research]] request approved by the [[Dredgemaster of Feverwater]] using the legal power to approve [[Historical research|historical research]] delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Summer]] 380YE
 ### [[Cost]]
@@ -22,4 +22,4 @@ Approved by the [[Dredgemaster of Feverwater]]
 ### Progress
 * Unknown
 ### [[Campaign outcome|Campaign Outcome]]
-* Research reports [[Will|will]] be compiled and presented to the Dredgemaster of Feverwater
+* Research reports [[Will|will]] be compiled and presented to the [[Dredgemaster of Feverwater]]

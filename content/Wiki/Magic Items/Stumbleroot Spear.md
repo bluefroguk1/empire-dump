@@ -14,4 +14,4 @@ Some stories claim that the more blood the [[Stumbleroot Spear]] spills, the mor
 ## Rules
 One-Handed Spears
 * Effect: You may spend a hero point to call STRIKEDOWN with this one-handed spear.
-* [[Materials]]: Crafting a [[Stumbleroot Spear]] requires six units of green iron and three measures of ambergelt. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Stumbleroot Spear]] requires six units of green iron and three measures of [[Ambergelt|ambergelt]]. It takes one month to make one of these items.

@@ -12,7 +12,7 @@ This song is traditionally [[Sung|sung]] on The [[Feast of the Loom]]
 Original tune [[Hallow]]'s Eve by Chris Hoban. Words adapted by Daisy Abbott and Jude Reid.
 Rehearsal recording of the [[Feast of the Loom]] song [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/loom-full.mp3 here] (Varushkan harmony version).
 Recording with [[The Chorus|the chorus]] only [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/loom-chorus.mp3 here]
-Song for the Feast of the Loom
+Song for the [[Feast of the Loom]]
 Chorus:
 ''Go light [[The Lantern|the lantern]] at your door,''
 ''to honour those who've [[Gone|gone]] before''

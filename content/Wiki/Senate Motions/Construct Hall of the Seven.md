@@ -24,16 +24,16 @@ To construct the Hall of the Seven in [[Miaren]]. This creates the position of [
 ## Progress
 *10 wains of [[Mithril|mithril]] provided in memory of Amaan Embercast after Spring Equinox 385YE
 *1 crown and 1 wain of [[Weirwood|weirwood]] provided by Nathair Autumngale after Spring Equinox 385YE
-*1 wain of weirwood provided by Corwyn Heartsbane after Spring Equinox 385YE
-*1 wain of weirwood provided by Farren Silver Streams after Spring Equinox 385YE
-*1 wain of weirwood provided by Sylver after Spring Equinox 385YE
+*1 wain of [[Weirwood|weirwood]] provided by Corwyn Heartsbane after Spring Equinox 385YE
+*1 wain of [[Weirwood|weirwood]] provided by Farren Silver Streams after Spring Equinox 385YE
+*1 wain of [[Weirwood|weirwood]] provided by Sylver after Spring Equinox 385YE
 *1 [[Throne|throne]] 4 crowns provided by Twyll [[Eternal]] after Spring Equinox 385YE
 *1 throne provided by Siân [[Eternal]] after Spring Equinox 385YE
-*1 throne provided by Adeen Eternal after Spring Equinox 385YE
+*1 throne provided by Adeen [[Eternal]] after Spring Equinox 385YE
 *1 throne provided by Rhys Nighthaven after Spring Equinox 385YE
 *1 crown provided by Lindir Thornheart after Spring Equinox 385YE
 *1 crown provided by Fintan Nighthaven after Spring Equinox 385YE
 *1 crown provided by Konstantin Rabovich Bolotnikov after Spring Equinox 385YE
 *6 wains of weirwood provided by Corwyn Heartsbane after [[Summer]] Solstice 385YE
 ## Outcome
-* Now construction has been completed the position of [[Spear of the Seven]] is available to appoint by the Senators for [[Navarr]]. The Hall of the Seven also creates an [[Adventure|adventure]] for Navarr military units to explore [[The Ruins of Terunael|the ruins of Terunael]].
+* Now construction has been completed the position of [[Spear of the Seven]] is available to appoint by the Senators for [[Navarr]]. The Hall of the Seven also creates an [[Adventure|adventure]] for [[Navarr]] military units to explore [[The Ruins of Terunael|the ruins of Terunael]].

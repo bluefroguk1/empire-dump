@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Bannerman_s Band
 aliases: ["Bannerman's_Band"]

@@ -16,4 +16,4 @@ Proposed by [[Necropolis]], Seconded by [[Reikos]]
 ### Date
 * [[Autumn]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]
-* Tal'Shar of House Zabala appointed as the second [[Ambassador]] to Faraden
+* Tal'Shar of House Zabala appointed as the second [[Ambassador]] to [[Faraden]]

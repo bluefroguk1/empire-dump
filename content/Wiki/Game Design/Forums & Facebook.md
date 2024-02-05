@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Forums & Facebook
 aliases: ['Forums_&_Facebook']
 draft: False

@@ -15,4 +15,4 @@ The staff is often inscribed with one of the [[Runes|runes]] [[Feresh]], which r
 ## Rules
 Staffs
 * Effect: Once per [[Day|day]] when you cast the [[Paralysis]] spell you can do so without spending any mana. You must be able to cast the [[Paralysis|paralysis]] spell to use this power.
-* [[Materials]]: Crafting a Shadowbound Donjon requires five measures of [[Ambergelt|ambergelt]] and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Shadowbound Donjon]] requires five measures of [[Ambergelt|ambergelt]] and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

@@ -11,13 +11,13 @@ revision_id: 85863
 ## [[Winter]] 377YE
 Repair the docks at [[Sarvos]] to basic functionality.Proposed by [[Temeschwar]], seconded by [[Sarvos]].
 ### Overview
-* Repair the [[Caricomare]] Quays, the ruined docks in Sarvos
+* Repair the [[Caricomare]] Quays, the ruined docks in [[Sarvos]]
 * Defeated
 ### Costing
 * 35 [[White granite|White Granite]]
 * 5 [[Weirwood]]
 ### [[Campaign outcome|Campaign Outcome]]
-The [[Caricomare]] Quays was a [[Great work]] that is now ruined. If restored it would mean that every [[Fleet]] from [[The League]] operating out of Sarvos would have produced more wealth for their owners. The total benefit would be 480 rings per season - divided between all the fleets which are active in Sarvos that season.
+The [[Caricomare]] Quays was a [[Great work]] that is now ruined. If restored it would mean that every [[Fleet]] from [[The League]] operating out of [[Sarvos]] would have produced more wealth for their owners. The total benefit would be 480 rings per season - divided between all the fleets which are active in [[Sarvos]] that season.
 ### Votes
 {| class="wikitable"
 |-

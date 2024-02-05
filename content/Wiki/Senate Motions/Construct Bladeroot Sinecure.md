@@ -17,8 +17,8 @@ To [[Commission|commission]] a [[Sinecure|sinecure]] for the production of [[Bla
 * [[Summer]] 384YE
 ## [[Cost]]
 * Standard costs apply
-* The costs for the sinecure have not been defined in the motion so the civil service assumes minimum size (10 wains)
+* The costs for the [[Sinecure|sinecure]] have not been defined in the motion so the civil service assumes minimum size (10 wains)
 ## Progress
 CommissionProgress|Herb_garden_of_the_Steward_of_Nabarr
 ## Outcome
-* Once completed the sinecure [[Will|will]] create the [[Imperial Title]] of [[Steward]] of the Nabarr.
+* Once completed the [[Sinecure|sinecure]] [[Will|will]] create the [[Imperial Title]] of [[Steward]] of the Nabarr.

@@ -17,4 +17,4 @@ Foci
 * Effect: Gain 1 rank for the [[Blood and Salt]] and [[Merciless Wrath of the Reaver]] [[Rituals|rituals]], subject to the normal rules for effective skill.
 * [[Materials]]: Crafting the [[Corsair]]'s Bloody Mask requires five ingots of [[Tempest jade|tempest jade]], three measures of [[Dragonbone|dragonbone]], and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
 "May the wind be at your backs, your sails remain full, and your prow hold fast."
-"May your blades remain keen, your armour stalwart and your minds clear. Be not afraid, for you have magic at your back."
+"May your blades remain keen, your armour stalwart and your minds clear. Be not afraid, for you have [[Magic|magic]] at your back."

@@ -11,22 +11,22 @@ After the fall of Terunael, the lands of the [[Bay of Catazar]] descended into c
 **PRE-IMPERIAL**
 Three waves of colonization brought people that founded new human nations. The Highborn are generally held to be the first, landing in the south, while the forebears of [[Dawn]] and [[The Marches]] settled in the east. Some scholars suggest that after [[Steinr]] and Vard appeared in the north during this period, the foundation of [[Highguard]], but there is no true consensus one way or another.
 
-When the first waves of human colonization began, most of the initial inhabitants (sometimes called the [[People of the North]]) were in retreat - the [[Navarr]] to their forests, the Urizen to their mountains, the Suaq and the [[Kallavesi]] to the inhospitable north, the Ushka huddled around their camp fires, and the [[Feni]] lurking in their wilderness. There were also humans living among the orcs, largely as chattel, slaves or subjects. Where these humans were freed from orc oppression, they were usually assimilated by the conquerors leaving no records of their own culture.
+When the first waves of human colonization began, most of the initial inhabitants (sometimes called the [[People of the North]]) were in retreat - the [[Navarr]] to their forests, the [[Urizen]] to their mountains, the [[Suaq]] and the [[Kallavesi]] to the inhospitable north, the Ushka huddled around their camp fires, and the [[Feni]] lurking in their wilderness. There were also humans living among the orcs, largely as chattel, slaves or subjects. Where these humans were freed from orc oppression, they were usually assimilated by the conquerors leaving no records of their own culture.
 
 These nations grew in size and power through constant warfare with their neighbours, particularly the [[Barbarian|barbarian]] orcs who claimed the land as their own. While [[The Nations|the nations]] were successful, life was hard and brutal for the initial settlers and historians believe that it was only a matter of time before these new human nations would have been overrun and subjugated, like their predecessors.
 
 **YEAR ZERO**
 While many scholars disagree on how long passed between the fall of Terunael and the rise of [[The Empire|the Empire]] we know today most evidence seems to support the fact that the Time of Chaos and Pre-Imperial time periods spans centuries (and not thousands of years as some romanticised tales declare)
 
-It is in what is known as Year Zero that with an eye to the conflict between the human nations and the risks posed by the orcs, the [[First Empress]] began her [[Crusade|crusade]] in [[Highguard]]. She gathered around a small group of like-minded individuals from various nations and with their [[Assistance|assistance]], and with the aid of the Navarr, she brought together the leaders of humanity to discuss the barbarian threat. Her vision and charisma - and the hard work of her allies - convinced many of them to recognise the value of an Empire. The people of Urizen declined to join, but sufficient folk from [[The Brass Coast]], [[The League]], [[Dawn]], Highguard, Navarr, [[Varushka]], [[Wintermark]] and [[The Marches]] accepted the proposal to allow them to form the Empire.
+It is in what is known as Year Zero that with an eye to the conflict between the human nations and the risks posed by the orcs, the [[First Empress]] began her [[Crusade|crusade]] in [[Highguard]]. She gathered around a small group of like-minded individuals from various nations and with their [[Assistance|assistance]], and with the aid of the [[Navarr]], she brought together the leaders of humanity to discuss the [[Barbarian|barbarian]] threat. Her vision and charisma - and the hard work of her allies - convinced many of them to recognise the value of an Empire. The people of [[Urizen]] declined to join, but sufficient folk from [[The Brass Coast]], [[The League]], [[Dawn]], [[Highguard]], [[Navarr]], [[Varushka]], [[Wintermark]] and [[The Marches]] accepted the proposal to allow them to form [[The Empire|the Empire]].
 
 *(22 YE - 34 YE) Reign of [[Emperor Giovanni]], "the Peacemaker"*
 After the death of the [[First Empress]], [[Emperor Giovanni]] of [[Tassato]] was chosen by [[The Senate|the Senate]] to
 replace her. An advisor to the late Empress, Giovanni was a statesman and politician rather than
-a military leader like his predecessor. He set about ensuring the Empire had the infrastructure required to help it prosper. His first act was to initiate a tradition of meeting once every three months at the site of the first meeting where the Empire was formed. A [[Senate]] building was built on the site, and it was declared Imperial [[Territory]].
+a military leader like his predecessor. He set about ensuring [[The Empire|the Empire]] had the infrastructure required to help it prosper. His first act was to initiate a tradition of meeting once every three months at the site of the first meeting where [[The Empire|the Empire]] was formed. A [[Senate]] building was built on the site, and it was declared Imperial [[Territory]].
 
 *(27 YE) Reclamation of [[Miaren]]*
-After fifteen years or so of active preparation, some of which spearheaded by the [[Vate|vate]] Rhonwen (see later documents on Rhonwen's Fall), the Navarr destroyed the [[Vallorn|vallorn]] of [[Miaren]] with a
+After fifteen years or so of active preparation, some of which spearheaded by the [[Vate|vate]] Rhonwen (see later documents on Rhonwen's Fall), the [[Navarr]] destroyed the [[Vallorn|vallorn]] of [[Miaren]] with a
 combination of military might and potent [[Rituals|rituals]]. The city of Seren was recovered and became a center for investigation of both [[Vallorn|vallorn]] and the history of Terunael for the next hundred years.
 
 *(36 YE - 69 YE) Reign of [[Empress Richilde]], "the Sun Queen"*
@@ -49,7 +49,7 @@ The first reversals in the Empire's fortune occurred during the reign of [[Emper
 
 The [[Draughir|draughir]] Emperor became increasingly unstable, perceiving patterns in [[Events|events]] that appeared paranoid to others. His unpopular policies divided the Senate and the Synod, and there were rumbles of civil [[War|war]]. He began to demand extreme amounts of record keeping and it became clear that he was not in his right mind.
 
-Things came to a head in 209 when Emperor Nicovar sent his troops to burn down the Empire's libraries. There was a revolt, which culminated in the destruction of the central repository of records in Highguard and several key [[Spires|spires]] in Urizen. The mad emperor was executed by [[The Captain|the captain]] of his own guard, the Navarr [[Thorn]] [[Isaella]]. Despite appeals for [[Clemency|clemency]] from the Synod, [[Isaella]] took full responsibility. She was convicted as a traitor, but at the same
+Things came to a head in 209 when [[Emperor Nicovar]] sent his troops to burn down the Empire's libraries. There was a revolt, which culminated in the destruction of the central repository of records in [[Highguard]] and several key [[Spires|spires]] in [[Urizen]]. The mad emperor was executed by [[The Captain|the captain]] of his own guard, the Navarr [[Thorn]] [[Isaella]]. Despite appeals for [[Clemency|clemency]] from the Synod, [[Isaella]] took full responsibility. She was convicted as a traitor, but at the same
 time was both lauded as an exemplar of [[Courage|courage]] and duty, and a hero of the Empire.
 
 The destruction of the libraries left a big hole in the history of the Empire - thousands of books and scrolls were lost. While records still existed, there were many gaps and those that remained were fragmentary. Since then scholars have attempted to recreate the books and records they had lost, but with mixed success.
@@ -66,7 +66,7 @@ The Navarri [[Empress Brannan]] followed Guntherm to [[The Throne|the Throne]], 
 *(281 YE - 300 YE) The Second Interregnum*
 
 *(300 YE - 318 YE) Reign of [[Empress Deanne]]*
-[[Empress Deanne]] ended the Second Interregnum by taking the Throne in 300 YE, primarily in response to increased orc aggression. Her early reign was taken up with organising a fractious and complacent Senate, and helping a largely inexperienced [[Military Council]] deal with the dual threat of [[Grendel]] invasions along the southern coast, and a major effort by the [[Druj]] in [[The Barrens|the Barrens]] to claim Dawnguard.
+[[Empress Deanne]] ended the Second Interregnum by taking [[The Throne|the Throne]] in 300 YE, primarily in response to increased orc aggression. Her early reign was taken up with organising a fractious and complacent Senate, and helping a largely inexperienced [[Military Council]] deal with the dual threat of [[Grendel]] invasions along the southern coast, and a major effort by the [[Druj]] in [[The Barrens|the Barrens]] to claim Dawnguard.
 
 *(324 YE - 329 YE) Reign of [[Emperor Ahraz]] "the Liberator"*
 
@@ -84,4 +84,4 @@ The Navarri [[Empress Brannan]] followed Guntherm to [[The Throne|the Throne]], 
 
 *(381 YE) The Grey Pilgrims join the Navarr on the [[Trods|trods]]*
 
-*(381YE - 383 YE) [[Reclaiming Westwood]]. The [[Liathaven]] Vallorn is pushed back*
+*(381YE - 383 YE) [[Reclaiming Westwood]]. The [[Liathaven]] [[Vallorn]] is pushed back*

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Barren Watchtower
 aliases: ['The_Barren_Watchtower']

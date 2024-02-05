@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Credits 2019
 aliases: ['Credits_2019']
 draft: False

@@ -13,7 +13,7 @@ I, Octavius of Damakan's Forge, request the [[Commission|commission]] of the [[M
 The position of [[Broker of the Broken Shore]] is to be appointed by the Tally of Votes by [[Urizen]] national [[Mana site|mana site]] holders, to be appointed on a yearly basis.
 The [[Commission|commission]] is self funded
 ## Overview
-* Commissions an expansion of the docks in Cargo to allow trade with the [[Grendel]] for mithril in exchange for [[Weirwood|weirwood]] as detailed in the [[Everything has a price]] Wind of Fortune
+* Commissions an expansion of the docks in Cargo to allow trade with the [[Grendel]] for [[Mithril|mithril]] in exchange for [[Weirwood|weirwood]] as detailed in the [[Everything has a price]] Wind of Fortune
 * Announcement
 ## Date
 * [[Winter]] 383YE

@@ -11,7 +11,7 @@ revision_id: 96806
 __NOTOC__
 A motion to [[Commission|commission]] [[Fortification|fortification]] of the walls of [[Holberg]]. Funded by citizens of [[Holberg]].
 ## Overview
-* Commissions the expansion of the Walls of Holberg
+* Commissions the expansion of the Walls of [[Holberg]]
 * Further details on the walls, and what the expansion means, can be found here
 * Passed
 ## Date
@@ -24,4 +24,4 @@ A motion to [[Commission|commission]] [[Fortification|fortification]] of the wal
 ## Progress
 CommissionProgress|Improve_walls_of_Holberg
 ## Outcome
-* Once complete the strength of the Walls of Holberg [[Fortification|fortification]] [[Will|will]] be increased to 15,000
+* Once complete the strength of the Walls of [[Holberg]] [[Fortification|fortification]] [[Will|will]] be increased to 15,000

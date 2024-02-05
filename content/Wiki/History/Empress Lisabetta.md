@@ -16,10 +16,10 @@ Her rise in the political sphere has been remarkable. Shortly after arriving at 
 Finally, during the [[Spring]] Equinox 380YE, Lisabetta von [[Holberg]] was elected as [[The twentieth empress|the twentieth Empress]].
 ### Reign
 At her coronation during the Summer Solstice 380YE, Lisabetta was crowned with a coronet of summer flowers woven by the young [[Heroes|heroes]] of [[The Academy|the Academy]], rather than with the Imperial Crown. During the Spring Equinox 381YE, Lisabetta became the first [[Throne]] since [[Empress Brannan]] to be crowned monarch of [[Dawn]].
-One of her first actions after taking [[The Throne|the Throne]] was to establish the Imperial Offices, an [[Imperial Sodality]] dedicated to supporting the Throne in the performance of their duties and the furtherance of the Imperial agenda.
+One of her first actions after taking [[The Throne|the Throne]] was to establish the Imperial Offices, an [[Imperial Sodality]] dedicated to supporting [[The Throne|the Throne]] in the performance of their duties and the furtherance of the Imperial agenda.
 At the [[Autumn]] Equinox of 382, following an announcement earlier in the year of her intention to marry, [[Empress Lisabetta]] married Juha the Cave Spider of [[Varushka]] in a private ceremony held in the [[Senate]] building during the [[Anvil]] summit.
 ### Death and [[Legacy]]
-At the Summer Solstice 383YE, Lisabetta Giacomi von Holberg disappeared. The one thing that is known for certain is that the [[Egregores|egregores]] of [[The League|the League]] confirmed that they could no longer sense her.  After careful deliberation, the Constitutional Court has confirmed the Throne must be legally considered to either be dead or to have resigned her position. 
+At the Summer Solstice 383YE, Lisabetta Giacomi von [[Holberg]] disappeared. The one thing that is known for certain is that the [[Egregores|egregores]] of [[The League|the League]] confirmed that they could no longer sense her.  After careful deliberation, the Constitutional Court has confirmed [[The Throne|the Throne]] must be legally considered to either be dead or to have resigned her position. 
 More details can be found in the Autumn 383YE [[Winds of Fortune]].
 *The coronation of Oor Betty.*
 5pm - The coronation procession, wherein [[The Empress|the Empress]] progresses through all ten nations commencing with a [[Ritual|ritual]] handwashing  at the [[Highguard]] camp - directed by Yael of Felix’s Watch
@@ -31,7 +31,7 @@ Blood of [[The Empire|the Empire]]: A song with dance and a gift presentation
 5.45 The ceremony proper
 The [[Dedication]] to [[Wisdom]], by [[Friar]] Edward of King’s Stoke, called ‘Watcher’, of [[The Marches|the Marches]]
 The Presentation of the Shield, by [[Imperial Orcs]]
-The taking of [[The Ring|the Ring]], by Severin von Holberg of the House of Seven Mirrors of [[The League|the League]]
+The taking of [[The Ring|the Ring]], by Severin von [[Holberg]] of the House of Seven Mirrors of [[The League|the League]]
 The presentation of the crown, by Athelstan of [[Wintermark]].
 The crowning, by the [[Cardinal of Wisdom|Cardinal Of Wisdom]], assumed to be Agnetha de Rondell of [[Dawn]]
 6pm The ceremony ends with the Imperial Anthem, led by Sister Meredith and the singers of the High [[Courage]] Chorus of [[The Marches|the Marches]].

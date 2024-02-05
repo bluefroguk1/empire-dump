@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Ambassadorial Gatekeeper
 aliases: ['The_Ambassadorial_Gatekeeper']

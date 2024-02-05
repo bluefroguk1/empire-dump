@@ -37,6 +37,6 @@ Chorus:
 Even death can't rob us of our [[Glory|glory]]
 Our deeds [[Will|will]] live on in song and story
 Chorus:
-Dressed for war, Don Cesare's a charmer
+Dressed for [[War|war]], Don Cesare's a charmer
 All the [[Bravos|bravos]] love a man in armour
 Chorus:

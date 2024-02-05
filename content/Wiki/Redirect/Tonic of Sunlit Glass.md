@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tonic of Sunlit Glass
 aliases: ['Tonic_of_Sunlit_Glass']

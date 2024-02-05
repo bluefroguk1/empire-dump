@@ -14,9 +14,9 @@ Season|Spring|40
 Casting time|2  At the end of the ritual one of the contributors is chosen to deliver the [[Curse|curse]] with a pronouncement of doom.
 [[Curse|curse]] 
 ### Effects
-This ritual creates a Curse that is delivered to a target with a pronouncement of doom: one contributors is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head. 
-While under the curse, the target experiences a powerful [[Roleplaying effect]]; you feel feverish and unwell; and your skin constantly itches. When you are wounded, your wounds often weep pus. 
-In addition, while under the curse the target is under the effect of [[Venom|VENOM]]. This [[Venom|venom]] cannot be removed by any means as long as the curse remains in effect. Any resources used to try and remove the venom condition are consumed without effect.
+This ritual creates a [[Curse]] that is delivered to a target with a pronouncement of doom: one contributors is chosen to deliver the [[Curse|curse]], and they must do so within fifteen minutes or it falls on their own head. 
+While under the [[Curse|curse]], the target experiences a powerful [[Roleplaying effect]]; you feel feverish and unwell; and your skin constantly itches. When you are wounded, your wounds often weep pus. 
+In addition, while under the curse the target is under the effect of [[Venom|VENOM]]. This [[Venom|venom]] cannot be removed by any means as long as the curse remains in effect. Any resources used to try and remove the [[Venom|venom]] condition are consumed without effect.
 You are more likely to suffer infected wounds and similar complications; you should see a [[Referee|referee]] after any significant engagement (a battle, skirmish or similar) in which you lost hits to see if your wounds are festering. You must see a [[Referee|referee]] after any engagement in which you were dying (and survived due to some magical [[Assistance|assistance]]).
 If you become terminal while under this curse, you are likely to be overwhelmed with feverish [[Delirium|delirium]] and suffer a slow, agonising death as the flesh rots from your bones.
 Year Duration

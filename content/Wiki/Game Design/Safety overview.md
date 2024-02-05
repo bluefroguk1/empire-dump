@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Safety overview
 aliases: ['Safety_overview']
 draft: False
@@ -20,5 +20,5 @@ ThreeColIconImage|file=weapon-checking.jpg|link=Weapon checking
 Every weapon, shield, implement, bow and arrow must be checked before every PD event you attend. These are the guidelines used by our Weapon checking team.
 ## [[Fire performance]]
 ThreeColIconImage|file=Fireuse.jpg|link=[[Fire performance]]
-The basic rules covering all fire performances at events, including how to [[Contact us|contact us]] to arrange it and guidelines on appropriate clothing, storage, and location.
+The basic rules covering all fire performances at [[Events|events]], including how to [[Contact us|contact us]] to arrange it and guidelines on appropriate clothing, storage, and location.
 Safety Links

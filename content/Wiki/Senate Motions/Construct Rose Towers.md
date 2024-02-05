@@ -27,6 +27,6 @@ An announcement by bearer of a Wayleave, to build a [[Sinecure|sinecure]] in Sen
 * When complete, creates the [[Imperial Title]] ''The Queen's Rose'' with custodianship of a place of [[Pilgrimage|pilgrimage]], providing 12 doses of [[Liao|liao]] and 24 votes in the [[Imperial Synod]].
 * While the wayleave references the [[Fortification|fortification]] at Semmer's Rose, the planned [[Commission|commission]] in fact makes use of the minor [[Fortifications|fortifications]] at Lacre in the region of Lacuve.
 ## Constitution
-* The well-worn path for a sinecure such as this would be [[Appointment|appointment]] by an [[Assembly]] of the [[Imperial Synod]].
+* The well-worn path for a [[Sinecure|sinecure]] such as this would be [[Appointment|appointment]] by an [[Assembly]] of the [[Imperial Synod]].
 * In [[Recognition|recognition]] of the purpose of the [[Commission|commission]], and with the support of [[Statement of Principle|statement of principle]] from the [[Dawn]] national assembly1, [[Appointment|appointment]] by [[The Throne]] in its role as Monarch of [[Dawn]] has been approved. In the absence of a [[Throne]], this title could not be appointed.
-1 "''The Dawnish [[National Assembly]] recognises the [[Empress Lisabetta]] as Queen of Dawn. She is the ultimate authority in this life and her words should be followed above all others.''" (Spring 381YE) and "''The Queen of Dawn holds authority over the Dawnish people.''"([[Summer]] 381YE).
+1 "''The Dawnish [[National Assembly]] recognises the [[Empress Lisabetta]] as Queen of [[Dawn]]. She is the ultimate authority in this life and her words should be followed above all others.''" (Spring 381YE) and "''The Queen of [[Dawn]] holds authority over the Dawnish people.''"([[Summer]] 381YE).

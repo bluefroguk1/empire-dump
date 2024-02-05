@@ -14,9 +14,9 @@ When the [[Winter|winter]] is at an end
 And it's time to make [[War|war]] again
 When the blood is upon the moon
 Ancestors call and we sing this tune
-[[Jotun]], Jotun!
+[[Jotun]], [[Jotun]]!
 Marching to battle, by [[Night|night]] or noon
-Jotun, Jotun
+[[Jotun]], [[Jotun]]
 Ancestors call and we sing this tune!
 When we march into hostile land
 When our foe is so near at hand

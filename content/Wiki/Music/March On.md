@@ -18,7 +18,7 @@ Before our blades even stone yields.
 [chorus]
 [[March On|March on]] now [[Jotun]],
 Now [[Jotun]] [[Fight|fight]]!
-Hold firm now Jotun,
+Hold firm now [[Jotun]],
 None can stand before our might!
 The [[Thule]]’s slaves toil in their mines,
 Yegarra to become, they pray.
@@ -26,17 +26,17 @@ Their leaders call themselves Dragons,
 But there’s no beast we cannot slay.
 The forests of [[Liathaven]],
 Teem with [[Vallorn|vallorn]] monstrosities.
-The Jotun [[Will|will]] drive them all out,
+The [[Jotun]] [[Will|will]] drive them all out,
 If we must fell every tree.
 The winterfolk may oft' [[Fight|fight]] true,
 Deep in snow on frozen plains.
-But soon enough we will break through,
+But soon enough we [[Will|will]] break through,
 And strike five down for each orc slain.
 The Navaari are most foul,
 [[Venom]] drips from every blade.
 The daggers of the human [[Druj]],
-Shall break themselves on Jotun plate.
+Shall break themselves on [[Jotun]] plate.
 Ancestors now hear my voice,
-As I fight the honoured foe.
+As I [[Fight|fight]] the honoured foe.
 We'll give all of them the Choice,
 Join us now or be [[Laid low|laid low]].

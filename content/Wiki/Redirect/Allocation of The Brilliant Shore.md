@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Allocation of The Brilliant Shore
 aliases: ['Allocation_of_The_Brilliant_Shore']

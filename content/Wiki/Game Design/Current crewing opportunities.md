@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Current crewing opportunities
 aliases: ['Current_crewing_opportunities']
 draft: False
@@ -15,7 +15,7 @@ The crew roles described below are specific areas that we are actively looking t
 ## GOD Team
 The Games Operation Desk (GOD) operates as the main contact point for players and crew throughout the event. We’re responsible for handling a wide variety of game administration, from handing out packs and recording [[Rituals|rituals]] to recording lost property and helping new players create their first [[Characters|characters]].
 There are a variety of roles within the GOD team depending on your [[Skills|skills]] and interests. Some [[Will|will]] be largely computer-based (our “front desk” crew), but not all. GOD crew handle large amounts of in-character resources and sometimes out-of-character cash, so it’s important that we’re known and seen to be trustworthy. Ideally, GOD crew [[Will|will]] be around from Thursday to help with setting up GOD and handing out packs, but [[The Key|the key]] work is from Friday lunchtime to a few hours after time-out on Sunday. 
-### How much of the event will you see?
+### How much of the event [[Will|will]] you see?
 * GOD operates throughout the event, although we have a rota to ensure everyone gets breaks and the chance for those who want to take some R&R
 ### Requirements
 * Good customer service [[Skills|skills]]
@@ -23,12 +23,12 @@ There are a variety of roles within the GOD team depending on your [[Skills|skil
 * If you have an R&R character, being confident you can keep the information you learn in GOD separate from your character’s knowledge
 While it’s unnecessary for all our GOD crew, being comfortable using a radio and a computer are significant bonuses.
 ## Referees
-Our referees are one of the most visible roles we have, helping players engage with and enjoy [[The game|the game]], throughout time in. They offer friendly advice, carry out functional tasks recording in-game actions using our tablets, and step in to ask questions when it seems that someone might not be playing by the rules.  These are full-time volunteer roles and whilst you will be able to take breaks when you need them, you will not be able to play a character taking part in [[The game|the game]] alongside your role as a ref. 
+Our referees are one of the most visible roles we have, helping players engage with and enjoy [[The game|the game]], throughout time in. They offer friendly advice, carry out functional tasks recording in-game actions using our tablets, and step in to ask questions when it seems that someone might not be playing by the rules.  These are full-time volunteer roles and whilst you [[Will|will]] be able to take breaks when you need them, you [[Will|will]] not be able to play a character taking part in [[The game|the game]] alongside your role as a ref. 
 Many of our refs specialise either as a field ref - who build up an in-depth knowledge of the most commonly cast [[Rituals|rituals]], or commonly used items, particularly those that interact with plots in order to answer queries quickly and efficiently - or as a skirmish ref - who are experts in watching [[Combat|combat]] and being able to see whether players are abiding by the rules; make judgements about how hard they are hitting; decide whether they are fighting in a safe location, and know to de-escalate conflict between players (rather than [[Characters|characters]]) if it arises. You may either request to join the team as one or the other type of ref, or join as non-specialised and try out both. You will be given the [[Opportunity|opportunity]] to spend a good deal of your first event shadowing other referees to get used to reffing Profound Decisions style.
 ### How much of the event will you see?
 * You will be unlikely to play a character, but may enjoy the event facilities around the responsibilities of your volunteering role
 ### Requirements
-* Excellent customer service skills
+* Excellent customer service [[Skills|skills]]
 * Have either a year's experience as an Empire player OR significant experience of reffing other systems and be prepared to learn the core [[Empire rules]] thoroughly before your first event
 * Take instructions well, but be prepared to take your own initiative from one task to the next
 * Be comfortable wearing a radio and earpiece at all times and using a tablet to record entries in a database
@@ -73,18 +73,18 @@ We’re especially interested to hear from anyone with experience in theatre set
 *Comfortable with lifting & shifting and occasionally working at height on ladders
 ## [[Costume]]
 The [[Costume]] team works closely with the NPC team to ensure they are maintaining the consistency of kit briefs entering the player field.
-During events the costume team manage the setup and take down of wardrobe, keep the kit rails tidy, accessible & organised. They are also in charge of creating, acquiring and repairing kit, typically during the [[Downtime|downtime]] between events
+During [[Events|events]] the [[Costume|costume]] team manage the setup and take down of wardrobe, keep the kit rails tidy, accessible & organised. They are also in charge of creating, acquiring and repairing kit, typically during the [[Downtime|downtime]] between [[Events|events]]
 ### How much of the event will you see?
 *Plot Production crew are very busy throughout every event. This means that it is impossible to play an event and be a member of the [[Plot crew|plot crew]]. You will still get a chance to take some time off and socialise with friends, most likely towards the end of each day once the last remaining plots are run out.
 ### Requirements
-*Be available from Thursday afternoon to help setup the costume department
+*Be available from Thursday afternoon to help setup the [[Costume|costume]] department
 *Be available for an hour after time out for take down and packing
-*Have a good understanding of the costume briefs for each nation
+*Have a good understanding of the [[Costume|costume]] briefs for each nation
 ## Props
 The Props department is responsible for organising and maintaining PD's props and assisting with prop requests from the running plots of each event.
 Our props are sorted into numbered & labeled storage crates which many of the plot & plot production crew members will access throughout each event.
 Once the plot is finished the props team will return everything back into it’s boxy home.
-Between events & occasionally during events specific prop requests will come in, and whilst it’s not the sole responsibility of the props department to facilitate these requests the role would suit someone with [[Crafting skills|crafting skills]].
+Between [[Events|events]] & occasionally during events specific prop requests will come in, and whilst it’s not the sole responsibility of the props department to facilitate these requests the role would suit someone with [[Crafting skills|crafting skills]].
 There are also ongoing efforts to create a searchable photo database, with photos being taken at each event during any [[Downtime|downtime]].
 ### How much of the event will you see?
 *Plot Production crew are very busy throughout every event. This means that it is impossible to play an event and be a member of the plot crew. You will still get a chance to take some time off and socialise with friends, most likely towards the end of each day once the last remaining plots are run out.
@@ -94,10 +94,10 @@ There are also ongoing efforts to create a searchable photo database, with photo
 *Comfortable with lifting & shifting some relatively heavy storage crates
 *Have a good understanding of the visual briefs of each nation
 ## Skirmish Team
-We need more people to join our skirmish team - The Hundred - to bolster our numbers and help in delivering [[Combat|combat]] encounters at events. The Skirmish Team runs in two main groups to deliver large military engagements and smaller plot-heavy encounters for players. As the game has grown the need for more orcs, heralds, undead, and unusual monsters has increased. To continue improving on our current encounters we need a larger team to [[Muster|muster]] for skirmishes and deliver combat encounters so more players can participate and have fun fighting for the Empire!
-The majority of the time we play [[Barbarian|barbarian]] orcs from the tribes that surround the Empire, but also portray magical heralds, fearsome creatures, shambling undead, the monstrous [[Vallorn]], and unassuming human citizens with nothing to hide... It can be an exhausting experience but as a team we look after each other and make sure we don’t push ourselves too far. We stop work each evening by 10 pm, then run through a briefing for the battle the next day. After this is done there is time to rest and relax with the rest of the team, head in character to enjoy [[Anvil]], or take on a volunteer role in late-night low-combat encounters. With a larger team, we will be able to support larger military encounters and additional slots for our Plot Team to deliver a whole host of plots in the skirmish areas, encounter tents and in Anvil itself.
+We need more people to join our skirmish team - The Hundred - to bolster our numbers and help in delivering [[Combat|combat]] encounters at events. The Skirmish Team runs in two main groups to deliver large military engagements and smaller plot-heavy encounters for players. As the game has grown the need for more orcs, heralds, undead, and unusual monsters has increased. To continue improving on our current encounters we need a larger team to [[Muster|muster]] for skirmishes and deliver combat encounters so more players can participate and have fun fighting for [[The Empire|the Empire]]!
+The majority of the time we play [[Barbarian|barbarian]] orcs from the tribes that surround [[The Empire|the Empire]], but also portray magical heralds, fearsome creatures, shambling undead, the monstrous [[Vallorn]], and unassuming human citizens with nothing to hide... It can be an exhausting experience but as a team we look after each other and make sure we don’t push ourselves too far. We stop work each evening by 10 pm, then run through a briefing for the battle the next day. After this is done there is time to rest and relax with the rest of the team, head in character to enjoy [[Anvil]], or take on a volunteer role in late-night low-combat encounters. With a larger team, we will be able to support larger military encounters and additional slots for our Plot Team to deliver a whole host of plots in the skirmish areas, encounter tents and in [[Anvil]] itself.
 Ideally, we are looking for people who already have experience playing or crewing LRP, both at large fests and smaller events. Experience of Empire LRP is not essential but will help make it easier to understand the encounters you are part of, and what we are trying to achieve. Being a competent fighter is useful, as is being able to lead others, but these are not essential; being able to roleplay is however an essential thing we need!
-The extra cool bits: "You get to play the varied threats faced by the players; access to the Empire arsenal of weapons and armour for [[Monstering|monstering]] with; support from the rest of the team on creating cool orc costumes and kit; training in how to safely [[Fight|fight]] and engage the players of the game in combat!"
+The extra cool bits: "You get to play the varied threats faced by the players; access to [[The Empire|the Empire]] arsenal of weapons and armour for [[Monstering|monstering]] with; support from the rest of the team on creating cool orc costumes and kit; training in how to safely [[Fight|fight]] and engage the players of the game in combat!"
 ### How much of the event will you see?
 * You will be involved in encounters during most of your event, but will have plenty of breaks for rest and food. There is a chance to play your own character after battle brief is done each evening.
 ### Requirements

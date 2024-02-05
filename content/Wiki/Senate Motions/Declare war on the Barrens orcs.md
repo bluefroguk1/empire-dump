@@ -16,7 +16,7 @@ Proposed by [[Weirwater]], Seconded by [[Astolat]]
 * [[Winter]] 379YE
 ### [[Campaign outcome|Campaign Outcome]]
 * [[The Barrens]] Orcs are no longer foreigners are no longer protected by [[Imperial Law]].
-* A delegation from the Orcs of The Barrens would still be protected, as if foreigners, under [[The Law|the law]].
+* A delegation from the Orcs of [[The Barrens]] would still be protected, as if foreigners, under [[The Law|the law]].
 ### OOC Note
 The attack on the Towers of [[Dawn]]  has reduced the effective military strength of the [[Fortification|fortification]] from 6000 to 3000. This does not correlate to 3000 dead soldiers but rather a fifth of this figure with the rest being material damage done to the structure of the [[Fortification|fortification]]. It has the impact of reducing the effective projection of military strength by the equivalent of 3000 soldiers as described in the winds of [[War|war]].
 __NOTOC__

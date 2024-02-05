@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Wisdom roleplaying effects
 aliases: ['Wisdom_roleplaying_effects']

@@ -21,4 +21,4 @@ Proposed by [[Miekarova]], Seconded by [[Volodmartz]]
 * [[Summer]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]
 * The [[Imperial Title|Imperial title]] of [[Imperial Censor]]
-* The title is appointed by Declaration of [[Candidacy]] in the [[Imperial Conclave]]
+* The title is appointed by [[Declaration]] of [[Candidacy]] in the [[Imperial Conclave]]

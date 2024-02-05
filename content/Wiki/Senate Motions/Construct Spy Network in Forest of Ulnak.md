@@ -22,4 +22,4 @@ Construct a [[Spy network|spy network]] in [[Forest of Ulnak]]. To speed destruc
 ## Progress
 CommissionProgress|Forest_of_Ulnak_spy_network
 ## Outcome
-* Once completed military units [[Will|will]] be able to support this spy network to uncover information about the [[Forest of Ulnak]] in [[The Mallum|the Mallum]]
+* Once completed military units [[Will|will]] be able to support this [[Spy network|spy network]] to uncover information about the [[Forest of Ulnak]] in [[The Mallum|the Mallum]]

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Philtre of Strength
 aliases: ['Philtre_of_Strength']

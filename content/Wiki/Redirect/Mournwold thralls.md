@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Mournwold thralls
 aliases: ['Mournwold_thralls']

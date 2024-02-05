@@ -12,7 +12,7 @@ __NOTOC__
 to raise the walls of [[Holberg]] from their current level to double their current effectiveness, and a request for disbursal of funds to commence building.
 .''Proposed by [[Holberg]], seconded by [[Tassato]]''
 ## Overview
-* This motion was to improve the walls of Holberg, 
+* This motion was to improve the walls of [[Holberg]], 
 * Passed at 150 thrones.
 ## Date
 * [[Winter]] 381YE
@@ -24,10 +24,10 @@ to raise the walls of [[Holberg]] from their current level to double their curre
 * Upkeep increases to 28 Thrones each season
 ## Progress
 * 40 wains [[White granite|white granite]] and 40 thrones received from Irina Kardaovich after the [[Spring]] Equinox 382YE.
-* 40 wains white granite received from Caerwyn Von Holberg of The Feasting Crow after the Spring Equinox 382YE.
-* 8 wains white granite received from Imperatrix Lisabetta von Holberg after the Spring Equinox 382YE.
-* 40 wains white granite and 80 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity|opportunity]].
+* 40 wains [[White granite|white granite]] received from Caerwyn Von [[Holberg]] of The Feasting Crow after the Spring Equinox 382YE.
+* 8 wains [[White granite|white granite]] received from Imperatrix Lisabetta von [[Holberg]] after the Spring Equinox 382YE.
+* 40 wains [[White granite|white granite]] and 80 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity|opportunity]].
 * 72 wains of white granite provided by Imperatrix Lisabetta von Holberg after the [[Summer]] Solstice 382YE.
 ### Outcome
-* This motion is believed to be taking advantage of an Opportunity.
+* This motion is believed to be taking advantage of an [[Opportunity]].
 * Greatly improves the walls of Holberg city, giving them an effective defensive military strength of 12,000.

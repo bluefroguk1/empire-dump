@@ -40,28 +40,28 @@ And the wild [[Winds of Fortune|winds of fortune]]
 [[Will]] carry us onward,
 Whithersoever they blow.
 Onward to [[Glory|glory]] we go!
-Onward to glory we go!
-Oh the trumpets of glory
+Onward to [[Glory|glory]] we go!
+Oh the trumpets of [[Glory|glory]]
 Now call us to [[Fight|fight]],
 Yes, the trumpets are calling us on,
 And wherever we [[Fight|fight]],
 Ever staunch at our sides
 Our [[Earl]] and companions shall be!
 We are brave, Dawnish Nobles,
-The Knights of the Empire,
+The Knights of [[The Empire|the Empire]],
 Our destiny calls and we go,
-And the wild winds of fortune
-Will carry us onward,
+And the wild [[Winds of Fortune|winds of fortune]]
+[[Will]] carry us onward,
 Whithersoever they blow.
-Onward to glory we go,
+Onward to [[Glory|glory]] we go,
 Onward to glory we go!
 We’re yeomen! Yes, we’re yeomen!
 We'll follow our nobles till the end.
 We'll tell all the world proudly
 We’re their yeoman! We’re their friends!
 We are brave, Dawnish Nobles,
-The Knights of the Empire,
+The Knights of [[The Empire|the Empire]],
 Destroyers of evil are we
 And we’ll march to the sound
 Of the trumpets of glory
-Forever to conquer will we!
+Forever to conquer [[Will|will]] we!

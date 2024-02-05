@@ -12,11 +12,11 @@ They referred to the visionary as a [[Magister|magister]], and talked of plans t
 
 The plan with using [[Spring]] [[Magic|magic]] was to effectively open the doors to the Spring [[Realm|realm]] and let its [[Magic|magic]] flow through the woods, killing all the invading orcs.
  
-The others presented a choice to the visionary of whether to have the [[Rituals|rituals]] performed now, or wait a little longer. If they performed them now, the rituals would work but they might not have full control over their effects; whereas if they waited, they would lose one of their cities (whose name started something like Bel Am), leaving thousands of refugees, and possibly allowing their entire civilisation to be destroyed. The visionary chose to wait and see, and the vision ended.
+The others presented a choice to the visionary of whether to have the [[Rituals|rituals]] performed now, or wait a little longer. If they performed them now, the [[Rituals|rituals]] would work but they might not have full control over their effects; whereas if they waited, they would lose one of their cities (whose name started something like Bel Am), leaving thousands of refugees, and possibly allowing their entire civilisation to be destroyed. The visionary chose to wait and see, and the vision ended.
 
 Drakov and Vanya both had their souls examined with the rite of [[Insight]] before and after the vision. Before the vision, both had a [[Dedication|dedication]] to [[Vigilance]] with the strength of a single priest behind it, and Drakov also had a [[Testimony|testimony]] of "Wise Counsellor" with the strength of a single priest.
 
-After the vision, Drakov still had his [[Dedication|dedication]] and [[Testimony|testimony]], but his soul was injured such that the echoes remaining of his past life felt more real to him than the present; he had to be persuaded to give an account of his vision by asking him to give a briefing as if he were his past self. An [[Excommunication|excommunication]] with the strength of a single priest was sufficient to seal the injury (along with his dedication), and an [[Exorcism|exorcism]] from a single priest removed the [[Excommunication|excommunication]].
+After the vision, Drakov still had his [[Dedication|dedication]] and [[Testimony|testimony]], but his soul was injured such that the echoes remaining of his past life felt more real to him than the present; he had to be persuaded to give an account of his vision by asking him to give a briefing as if he were his past self. An [[Excommunication|excommunication]] with the strength of a single priest was sufficient to seal the injury (along with his [[Dedication|dedication]]), and an [[Exorcism|exorcism]] from a single priest removed the [[Excommunication|excommunication]].
 
 Vanya's soul appeared after the vision to look faded and weak, and Vanya himself seemed to be weak and confused as well. An [[Exorcism|exorcism]] with the strength of seven priests was sufficient to [[Heal|heal]] his soul.
 
@@ -35,23 +35,23 @@ Sadly I did not catch the name of her army. Apparently her raid on [[Urizen]] wa
 **[[Draughir]] Male - Artisan or Maker**
 He advised the safe haven was secure. We had evacuated many and thgere was room for more. He cautioned waiting, to allow any stragglers to reach safety before the ritual was cast. In his words, "what is the point of casting it now if we don't save enough of our civilisation so we survive?"
 
-**[[Changeling]] Male - General**
-He argued with the other General, believing it foolhardy to send more men to help a dying city. Apparently the orcs were not only at the walls but seizing them. The human general was convinced the other army would reach them in time to lend aid. However he warned we would lose more lives than we would save and might reveal the location of the safe haven.
+**[[Changeling]] Male - [[General]]**
+He argued with the other [[General]], believing it foolhardy to send more men to help a dying city. Apparently the orcs were not only at the walls but seizing them. The human [[General|general]] was convinced the other army would reach them in time to lend aid. However he warned we would lose more lives than we would save and might reveal the location of the safe haven.
 
 **Human Male - Magus**
-The ritual was ready and would be made permanent by the seized Illium. The Charter Stones were ready and primed to bring through the raw power of Spring to wash creation clear of the filth of the Orcs. I asked which [[Tribe|tribe]], to be told all of them. He confirmed it would spread out from our cities, I think he said there were seven. When I asked about safeguards and control of the magic, they all confirmed they were confident they would have full control. Sadly, they provided no details of how we would have control, other than the might of our magic. We had, I was told already agreed the ritual must be cast; the question now was purely one of timing.
+The ritual was ready and would be made permanent by the seized Illium. The Charter Stones were ready and primed to bring through the raw power of Spring to wash creation clear of the filth of the Orcs. I asked which [[Tribe|tribe]], to be told all of them. He confirmed it would spread out from our cities, I think he said there were seven. When I asked about safeguards and control of the [[Magic|magic]], they all confirmed they were confident they would have full control. Sadly, they provided no details of how we would have control, other than the might of our [[Magic|magic]]. We had, I was told already agreed the ritual must be cast; the question now was purely one of timing.
 
 My aide advised me to call a vote. It was split between my four advisors, I had the casting vote. I said that rather than loose what we had gained through blood and sacrifice that we should shy never from the harder task. I ordered the casting of the Spring rite now.
 
 **My thoughts**
 - This is apparently the furthest back in time anyone has ever [[Gone|gone]] through the use of [[True liao|True Liao]].
 - As the 'seven great cities of our Empire' had a Charter stone to 'call through the power of Spring', it follows there are 7 [[Vallorn]].
-- The Magus advised the use of Illium would, constantly renew or fed the Spring magic. A Spring or perhaps [[Winter ritual]] with an equal or greater amount of [[Ilium]] this would end this re-supply.
+- The Magus advised the use of Illium would, constantly renew or fed the [[Spring magic]]. A Spring or perhaps [[Winter ritual]] with an equal or greater amount of [[Ilium]] this would end this re-supply.
 - There was a safe haven. My advisors were clear it was in the [[Bay of Catazar]], rather than around it. Perhaps there is a fragment of the Terunael who survived and settled beyond the lands we know now. Or perhaps these survivors became the [[Navarr]].
 
 My [[Egregore]] is aware of what happened and [[Will|will]], at the Spring Summit, introduce me to your [[Egregores]]. I would appreciate it if you were present for this. Several Vor'azi and my brother in the Wardens of Semmerlak know what happened. They have been sworn to [[Secrecy|secrecy]] a have the Howling Pines who debriefed my [[Guide]] Priest while I was subject to a Spiritual Wound. [[The Captain]] has offered to protect my body should any Orc or Navarri seek revenge in this life for what I did in my previous one.
 
-I would also appreciate a meeting with the [[Advisor on the Vallorn]] if you could arrange this. While I have written all I can recall, perhaps with prodding I may recall more. Until we meet at [[Anvil]], I wish you and the Eternal Family well.
+I would also appreciate a meeting with the [[Advisor on the Vallorn]] if you could arrange this. While I have written all I can recall, perhaps with prodding I may recall more. Until we meet at [[Anvil]], I wish you and the [[Eternal]] [[Family]] well.
 
 In [[Vigilance]] and friendship
 Father Drakov

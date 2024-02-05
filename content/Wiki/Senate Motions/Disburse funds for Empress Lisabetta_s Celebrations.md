@@ -20,7 +20,7 @@ Proposed by [[Tassato]], Seconded by [[Temeschwar]]
 * [[Spring]] 380YE
 ### [[Cost]]
 * Grand celebrations, similar to those accompanying [[Empress Britta]] and [[Emperor Walter]], would [[Cost|cost]] 80 thrones
-* Breath-taking celebrations, similar to those accompanying [[Empress Giselle]] and [[Emperor Nicovar]], would cost 250 thrones
-* Wondrous celebrations, similar to those accompanying [[Empress Richilde]] and [[Emperor Giovanni]], would cost 500 thrones
+* Breath-taking celebrations, similar to those accompanying [[Empress Giselle]] and [[Emperor Nicovar]], would [[Cost|cost]] 250 thrones
+* Wondrous celebrations, similar to those accompanying [[Empress Richilde]] and [[Emperor Giovanni]], would [[Cost|cost]] 500 thrones
 ### Progress
 * 40 thrones and 4 crowns disbursed to [[Senator]] [[Tassato]]

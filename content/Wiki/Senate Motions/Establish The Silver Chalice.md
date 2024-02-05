@@ -20,5 +20,5 @@ Proposed by [[Therunin]], Seconded by [[Segura]].
 * 30 wains of [[Mithril|mithril]] provided by Raewynn Farkas after [[Spring]] Equinox 382YE.
 * 60 crowns provided by Lisabetta Giacomi von [[Holberg]] after Spring Equinox 382YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The [[Grandmaster]] of the Silver Chalice [[Will|will]] now receive the ability to fund the order. The ability to create the [[Ministry]] requires 30 wains of [[Mithril|mithril]] and 60 crowns. As [[The Senate|the senate]] had a [[Commission|commission]] free, it does not require an additional motion to begin construction of the [[Ministry|ministry]]. 
-* The Silver Chalice requires both a manifesto and a symbol suitable for use with [[Arcane Mark]].
+* The [[Grandmaster]] of the [[Silver Chalice]] [[Will|will]] now receive the ability to fund the order. The ability to create the [[Ministry]] requires 30 wains of [[Mithril|mithril]] and 60 crowns. As [[The Senate|the senate]] had a [[Commission|commission]] free, it does not require an additional motion to begin construction of the [[Ministry|ministry]]. 
+* The [[Silver Chalice]] requires both a manifesto and a symbol suitable for use with [[Arcane Mark]].

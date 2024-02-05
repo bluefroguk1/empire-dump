@@ -12,7 +12,7 @@ __NOTOC__
 To [[Commission|commission]] a [[Business|business]] [[Sinecure|sinecure]], the [[Skarsind]] College of Pitfighting, creating the title [[Pitmaster]]. 10 wains of [[White granite|white granite]], in Skogi, [[Skarsind]].
 ''Announced by Palerictus Dura, [[Bearer of an Imperial Wayleave]]''
 ## Outcome
-* Construct a [[Sinecure]] in Skarsind
+* Construct a [[Sinecure]] in [[Skarsind]]
 * Announcement
 ## Date
 * [[Autumn]] 383YE

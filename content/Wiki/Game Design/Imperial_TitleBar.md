@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Imperial_TitleBar
 draft: False
 revision_date: 2024-01-29 10:49:55+00:00
@@ -142,7 +142,7 @@ tags: ['Game-Design']
 ** [[Combat]]
 ** [[Calls]]
 ** [[Weapons & Armour]]
-** Magic
+** [[Magic]]
 ** [[Game items|Game Items]]
 ** [[Roleplaying effects|Roleplaying Effects]]
 ** --

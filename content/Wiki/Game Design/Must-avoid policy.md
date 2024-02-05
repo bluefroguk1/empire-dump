@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Must-avoid policy
 aliases: ['Must-avoid_policy']
 draft: False
@@ -17,7 +17,7 @@ All must-avoids apply equally to both people, regardless of which person request
 * A must-avoid request is not the same as a report of a conduct problem, and does not involve any investigation
 * You don't have to provide any reason for requesting one and you [[Will|will]] not be asked for details
 * Asking for a must-avoid does not prevent you also [[Reporting a conduct problem|reporting a conduct problem]]
-If you want a must-avoid then you must contact the conduct team. A must-avoid is not part of our official conduct complaint system, but the administration is handled by the conduct team. You don't have to provide any reasoning for why you want to have a must-avoid. The team won't carry out any investigation or require any further details - they [[Will|will]] simply check that you understand what a must-avoid entails, and then they will speak to the other party as quickly as possible to let them know the restrictions that both you and they are under.
+If you want a must-avoid then you must contact the conduct team. A must-avoid is not part of our official conduct complaint system, but the administration is handled by the conduct team. You don't have to provide any reasoning for why you want to have a must-avoid. The team won't carry out any investigation or require any further details - they [[Will|will]] simply check that you understand what a must-avoid entails, and then they [[Will|will]] speak to the other party as quickly as possible to let them know the restrictions that both you and they are under.
 If you choose to share details about your reasoning with the conduct team, they may ask you if you wish to make a report about a conduct problem, depending on what you have told them. This is always optional. Asking for a must-avoid also does not prevent you from [[Reporting a conduct problem|reporting a conduct problem]] at the same time, or in the future, if you want to.
 ## What Does it Entail?
 * Make all reasonable efforts to avoid close social contact with the other person
@@ -35,8 +35,8 @@ These rules always apply equally to both parties - in effect, whoever is already
 ## What If the Must-Avoid is Violated?
 * If you think the other party has breached the must-avoid then you should report this to the conduct team
 * If you need advice about how you can best follow a must-avoid, you can talk to the conduct team
-* Any deliberate breaches of a must-avoid are a very serious conduct matter and will result in a formal warning or permanent ban
-If you think you will have difficulty avoiding the other person, you should discuss that with the conduct team at the earliest [[Opportunity|opportunity]]. They can provide advice to help resolve any potential problems. If you feel the other person is not following the spirit of the rules and making all reasonable efforts to avoid you, you should report this to the conduct team. 
+* Any deliberate breaches of a must-avoid are a very serious conduct matter and [[Will|will]] result in a formal warning or permanent ban
+If you think you [[Will|will]] have difficulty avoiding the other person, you should discuss that with the conduct team at the earliest [[Opportunity|opportunity]]. They can provide advice to help resolve any potential problems. If you feel the other person is not following the spirit of the rules and making all reasonable efforts to avoid you, you should report this to the conduct team. 
 Deliberately breaching a must-avoid is very serious, and will result in a participant receiving a formal warning or permanent ban. If we feel that one party has attempted to follow the letter of the rules rather than the spirit of them, we will treat that as breaching the must-avoid.
 ## How Does it Affect Crew?
 * A must-avoid does not stop someone from [[Crewing|crewing]] in an existing role

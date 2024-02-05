@@ -22,5 +22,5 @@ To construct the Golden Causeway across [[The Semmerlak|the Semmerlak]]. This co
 ## Progress
 * 25 Wains of [[White granite|white granite]], 15 wains of [[Mithril|mithril]], and 10 thrones provided by Bohemond De Rondell after the Spring Equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete the gateway [[Will|will]] allow the armies of [[Dawn]] (only) to march from Lacuve to the region on the opposite side of the Semmerlak - and return the same way.
+* When complete the gateway [[Will|will]] allow the armies of [[Dawn]] (only) to march from Lacuve to the region on the opposite side of [[The Semmerlak|the Semmerlak]] - and return the same way.
 * If the [[Eternal|eternal]] the Lady of the Lake serves - currently [[Eleonaris]] - were to be placed under enmity by [[The Conclave|the Conclave]], the causeway could not be used until the enmity was lifted.

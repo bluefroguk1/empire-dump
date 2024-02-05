@@ -10,9 +10,9 @@ revision_id: 92618
 ## Overview
 In Empire it is possible for [[Characters|characters]] to formalize their [[Loyalty|loyalty]] to each other by creating a band. [[Bands]] draw on the [[Hearth magic|hearth magic]] of 
 oaths combined with magical bonds created by magicians to allow members to use certain [[Skills|skills]], [[Rituals|rituals]] and items more effectively on each other. For instance ritualists who are part of the same [[Coven|coven]] (a type of band) can combine their [[Skills|skills]] to perform more powerful [[Rituals|rituals]].
-[[Bands]] are intended to build on the characterisation of the group concept that you have created for your [[Characters|characters]]. They are there to recognize and support the choice to act as part of a Dawnish [[Noble House]], a [[League]] [[Guild]] or a [[Freeborn]] [[Family]]. Players creating characters together are encouraged to use the potential abilities of bands to add depth and character to their group concept.
-## The Role of Bands
-We encourage players coming to Empire to attend as part of a band with their friends. Bands can help to add depth and enjoyment to characterization, making all the characters feel more real and be more fun to play. The band can have its own identity and [[History|history]] and gives characters a way to belong to something that is bigger than they are, yet is still something they can create a history and [[Background|background]] for. Bands give OOC friends good IC reasons to roleplay together and good [[Groups|groups]] are great for helping new players get involved in a game. 
+[[Bands]] are intended to build on the characterisation of the group concept that you have created for your [[Characters|characters]]. They are there to recognize and support the choice to act as part of a Dawnish [[Noble House]], a [[League]] [[Guild]] or a [[Freeborn]] [[Family]]. Players creating characters together are encouraged to use the potential abilities of [[Bands|bands]] to add depth and character to their group concept.
+## The Role of [[Bands]]
+We encourage players coming to Empire to attend as part of a band with their friends. [[Bands]] can help to add depth and enjoyment to characterization, making all the characters feel more real and be more fun to play. The band can have its own identity and [[History|history]] and gives characters a way to belong to something that is bigger than they are, yet is still something they can create a history and [[Background|background]] for. Bands give OOC friends good IC reasons to roleplay together and good [[Groups|groups]] are great for helping new players get involved in a game. 
 The brief for every nation in Empire includes several [[Archetypes|archetypes]] to help you develop the idea for a band. For instance a [[Noble House]] in [[Dawn]], or a [[Chapter]] in [[Highguard]]. There are pages for some of these archetypes explaining the part they play in [[The setting|the setting]] and offering advice on how to create and play one. These concepts have been designed to be fun to play, but the list is not meant to be restrictive. You can create a travelling band of Dawnish [[Troubadours|troubadours]], or a secretive [[Guild|guild]] of Highborn artisans if you wish to. Working with your friends, you have the same freedom to create a group concept as you do to create your own character.
 ## Joining a Band
 * There are three types of band: banners, covens, and sects
@@ -37,10 +37,10 @@ You can still create a band on the system, even if the benefits are not relevant
 * A banner may benefit from using a gonfalon
 If your band incorporates the idea of a group of warriors that [[Fight|fight]] together then you may wish to create a banner to represent this.
 ## Covens
-* A coven may combine their skills to perform rituals together
-* A coven can perform up to two rituals a [[Day|day]]
+* A coven may combine their [[Skills|skills]] to perform [[Rituals|rituals]] together
+* A coven can perform up to two [[Rituals|rituals]] a [[Day|day]]
 * A coven may benefit from paraphernalia
-Groups that intend to perform rituals together need to create a coven. A coven is a band of oath-sworn magicians who choose to work together to perform powerful Rituals that they could not do alone.
+Groups that intend to perform [[Rituals|rituals]] together need to create a coven. A coven is a band of oath-sworn magicians who choose to work together to perform powerful Rituals that they could not do alone.
 Members of a coven can work together to perform a [[Ritual|ritual]] with each participant contributing crystallized mana to a ritual up to the limit of their ability. This allows a coven to perform much more powerful rituals than an individual could achieve alone. A coven may also benefit by being bound to ritual paraphernalia, a powerful [[Magical Item|magical item]] created by an artisan. 
 A coven can only perform up to two rituals each day. A character may perform any number of rituals by themselves and they may include others in the ritual performance. But the power of the coven can only be used to combine magical strengths twice per day. Some magical paraphernalia increase the number of rituals a coven can perform in a single day.
 If a character has contributed to a ritual as part of a coven, then they may join another coven but they cannot participate in another ritual conducted by that coven until the next day.
@@ -48,7 +48,7 @@ If a character has contributed to a ritual as part of a coven, then they may joi
 * Members of a sect may co-operate to perform a ceremony even if they are dedicated to a different virtue
 * A sect may benefit from using a magical reliquary
 If your group concept incorporates the idea of a shared set of beliefs and worship then you may wish to create a sect to represent this. A sect is a band of oath-sworn devotees of [[The Way|the Way]] who choose to work together to further their common goals. 
-Members of a sect may co-operate to perform a [[Liao|liao]] ceremony even if they are dedicated to different virtues. Each member of the sect who cooperates to perform the ceremony may use a single dose of [[Liao|liao]]. The strength of the resulting ceremony is equal to the total number of liao used. All the other rules for co-operation in ceremonial skills still apply.
+Members of a sect may co-operate to perform a [[Liao|liao]] ceremony even if they are dedicated to different virtues. Each member of the sect who cooperates to perform the ceremony may use a single dose of [[Liao|liao]]. The strength of the resulting ceremony is equal to the total number of [[Liao|liao]] used. All the other rules for co-operation in ceremonial [[Skills|skills]] still apply.
 A magical reliquary provides a benefit to every member of the sect that is bonded to it.
 ## Linking Bands Together
 Although a band must be either a banner, coven, or sect, it is common for players to have a background concept that includes characters who are linked in multiple ways. In these situations it is perfectly appropriate to create more than one band whose concepts and backgrounds are linked. 

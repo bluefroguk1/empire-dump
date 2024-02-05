@@ -14,17 +14,17 @@ Always first to battle, last to leave the [[Fight|fight]] (x2)
 [[Pride of the Highborn]], [[Courage|courage]] of the Highborn
 [[Pride]] of Adina, [[Courage|courage]] of the Charge
 Surging ever forward, banners at our heels (x2)
+[[Pride of the Highborn]], [[Courage|courage]] of the Highborn
+[[Pride]] of Adina, [[Courage|courage]] of the Charge
+Rushing tide of steel, washing all before (x2)
+[[Pride of the Highborn]], [[Courage|courage]] of the Highborn
+[[Pride]] of Adina, courage of the Charge
+Shadows clear our path now, with arrows blood and steel (x2)
 [[Pride of the Highborn]], courage of the Highborn
 [[Pride]] of Adina, courage of the Charge
-Rushing tide of steel, washing all before (x2)
-Pride of the Highborn, courage of the Highborn
-Pride of Adina, courage of the Charge
-Shadows clear our path now, with arrows blood and steel (x2)
-Pride of the Highborn, courage of the Highborn
-Pride of Adina, courage of the Charge
 Line of shields unbroken, holding at all costs (x2)
-Pride of the Highborn, courage of the Highborn
-Pride of Adina, courage of the Charge
+[[Pride of the Highborn]], courage of the Highborn
+[[Pride]] of Adina, courage of the Charge
 Past ever guides us, still we strive for more (x2)
 Pride of the Highborn, courage of the Highborn
 Pride of Adina, courage of the Charge

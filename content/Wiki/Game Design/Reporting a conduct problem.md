@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Reporting a conduct problem
 aliases: ['Reporting_a_conduct_problem']
 draft: False
@@ -23,9 +23,9 @@ Yes
 No
 		You can email [mailto:conduct@profounddecisions.co.uk conduct@profounddecisions.co.uk] at any time between [[Events|events]].
 		If you choose to report at the event, a conduct team member [[Will|will]] arrive to see you as soon as possible.
-		We will confirm receipt of your email within 72 hours.
-		The conduct team member will ask you to tell them what happened and record any information you feel comfortable sharing.
-		The conduct team will read through your report, and contact you again within two weeks.
+		We [[Will|will]] confirm receipt of your email within 72 hours.
+		The conduct team member [[Will|will]] ask you to tell them what happened and record any information you feel comfortable sharing.
+		The conduct team [[Will|will]] read through your report, and contact you again within two weeks.
 		We will ask you how you would like us to proceed.
 		Conduct will investigate your report and contact other people involved. We won't contact anyone you have asked us not to contact.
 Yes
@@ -43,10 +43,10 @@ __TOC__
 * You can report any activity by another participant that you have witnessed or experienced that has made you feel uncomfortable or distressed
 * You can report a breach of conduct another person has experienced if they have shared details with you
 * You can make a report about anyone who attends Empire [[Events|events]] in any capacity
-Our code of Conduct lays out the standards of behaviour we require for all participants who attend Empire. If you have seen or experienced a breach of these rules by another participant, we encourage you to report it. If another participant has confided in you with details of an incident that you consider to be a breach of conduct, then we would also like you to report that to us. You can report any incident, regardless of where it took place, or when. It could have occurred anywhere [[Online|online]], at one of our events, or elsewhere. 
-You can report a breach of conduct by any participant at an Empire event. If you report a breach of conduct by someone who has never attended an Empire event and does not have an account on our system, then we will make a note of the report but take no further action. If you have a complaint about another participant who is no longer permitted to attend our events, then we will let you know that they are already banned.
+Our code of Conduct lays out the standards of behaviour we require for all participants who attend Empire. If you have seen or experienced a breach of these rules by another participant, we encourage you to report it. If another participant has confided in you with details of an incident that you consider to be a breach of conduct, then we would also like you to report that to us. You can report any incident, regardless of where it took place, or when. It could have occurred anywhere [[Online|online]], at one of our [[Events|events]], or elsewhere. 
+You can report a breach of conduct by any participant at an Empire event. If you report a breach of conduct by someone who has never attended an Empire event and does not have an account on our system, then we will make a note of the report but take no further action. If you have a complaint about another participant who is no longer permitted to attend our [[Events|events]], then we will let you know that they are already banned.
 If you unsure whether something breaches our conduct rules, but it has left you feeling uncomfortable or distressed, then we would still encourage you to speak to us. We can discuss the incident with you to see if any of our rules have been violated and look at what steps we can take to support you.
-You might be worried about whether an incident is [[Worth|worth]] reporting, or concerned that reporting might cause problems for us or take up our time. We would always rather know about what is happening - reporting helps us to make our events safer for everyone.
+You might be worried about whether an incident is [[Worth|worth]] reporting, or concerned that reporting might cause problems for us or take up our time. We would always rather know about what is happening - reporting helps us to make our [[Events|events]] safer for everyone.
 ## How Do I Report?
 * The best person to speak to first is a member of our conduct team
 * The conduct team are Emma Woods, Clare Evans, Chris Penney and Graeme Jamieson
@@ -73,13 +73,13 @@ If you are at an event, and a conduct experience has led to you feeling anxious 
 * Once they have gathered all the information possible, the conduct team will review it and then let you know the outcome and what actions they plan to take
 The conduct team will ask you for as full a description of the conduct problem as you feel comfortable providing. It is not a problem if you don't know the player or character name, but the more information you can give us the easier it will be for us to identify them. The team may ask some follow up questions, such as when the incident occurred, or how many times it has happened. If you are reporting online behaviour, they will ask if you have any relevant screenshots, emails, or private messages. The more information you can give, the more it will help the team - but there is no mandatory level of detail you must give for your report to be taken seriously. 
 The conduct team will then ask for your permission to begin an investigation. This usually involves the team speaking to the people mentioned in your report, looking over all the information they can gather, and making a decision. If there is anyone you do not want the conduct team to speak to about the incident, then you must let them know at this point.
-Whether or not an investigation takes place, the team will go on to review all the information available and make a decision. This will include looking at any previous reports on record. There are a range of possible Sanctions that we can impose. The conduct team will let you know the outcome and what course of action they plan to take. If you prefer, you can ask them not to take some actions. 
+Whether or not an investigation takes place, the team will go on to review all the information available and make a decision. This will include looking at any previous reports on record. There are a range of possible [[Sanctions]] that we can impose. The conduct team will let you know the outcome and what course of action they plan to take. If you prefer, you can ask them not to take some actions. 
 The conduct team will keep a permanent record of your report and any investigations made, and will take them into account if any future conduct reports are made about the same individual.
 ## How Much Agency Will I Have?
 * The conduct team will not conduct an investigation without your permission
 * If you agree to an investigation, you can still ask us not to approach named individuals
-* The team won't impose any sanctions without your permission, unless we need to ban someone for the safety of the event
-* If you have asked that no sanctions be imposed, the conduct team may still impose them on the basis of other reports
+* The team won't impose any [[Sanctions|sanctions]] without your permission, unless we need to ban someone for the safety of the event
+* If you have asked that no [[Sanctions|sanctions]] be imposed, the conduct team may still impose them on the basis of other reports
 We are keen to investigate any breaches of conduct that take place in [[The Empire|the Empire]] community, but as far as possible we aim to do this only within limits set by you. We will ask you if you are happy for us to investigate your report. If we investigate, you can ask us not to contact one or more individuals. You can also ask us not to impose specific sanctions. As far as possible, we will respect your wishes. 
 If you ask us not to investigate your report, the conduct team will still ask you to provide them with as complete a description of events as you feel comfortable providing. We will keep a confidential record permanently on file of everything you told us, but we won't undertake any further investigation of the matter. This will usually limit our ability to take effective action as our conduct team will decide what outcome is appropriate based on the information they have been able to gather. However, it is always useful to have your report on record even if you don't want the conduct team to investigate it, as it helps us to establish patterns of behaviour if there are any other reports about the same individual.
 If the team do have your permission to carry out an investigation, then they will do so, but they will not contact anyone you ask them not to approach. For example, you can ask the team not to contact the person you are reporting, or not to contact specific eyewitnesses or other people your report mentions. This can limit our ability to look into the matter, but we will still carry out as full an investigation as possible within the remit you have permitted.

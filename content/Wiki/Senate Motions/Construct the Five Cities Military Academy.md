@@ -24,5 +24,5 @@ That there there be a disbursement of funds and construct the “Five Cities Mil
 ## Progress
 CommissionProgress|Five_Cities_Military_Academy
 ## Outcome
-* Work cannot begin until the [[Senator]] for Tassato informs the civil service which of Tassato Mestra or Tassato Regario [[The Academy|the academy]] [[Will|will]] be constructed in
+* Work cannot begin until the [[Senator]] for [[Tassato]] informs the civil service which of [[Tassato]] Mestra or [[Tassato]] Regario [[The Academy|the academy]] [[Will|will]] be constructed in
 * Once complete, the number of armies [[The League|the League]] can support [[Will|will]] increase to three

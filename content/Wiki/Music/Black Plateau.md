@@ -14,13 +14,13 @@ A song written by Nicassia of Phoenix Reach after the first skirmish to the [[Bl
 Through the [[Gate|gate]] and here we go,
 Up, up to the [[Black Plateau]],
 With [[Courage|courage]] and [[Pride|pride]] to face the foe,
-High up on the Black Plateau.
+High up on the [[Black Plateau]].
 There is a place in [[Urizen]] fair,
-Up, up to the Black Plateau,
+Up, up to the [[Black Plateau]],
 Where whispering voices fill the air,
 Those who tread should tread with care,
 Don’t trust what you hear on the air,
-High up on the Black Plateau.
+High up on the [[Black Plateau]].
 Gathered people, wild and cruel,
 Up, up on the Black Plateau,
 They’ll laugh in your face as they run you through,
@@ -35,7 +35,7 @@ Blades of [[Venom|venom]], blades of glass,
 Up, up to the Black Plateau,
 [[Will]] stop you if you try to pass,
 High up on the Black Plateau.
-There is a place in Urizen high, 
+There is a place in [[Urizen]] high, 
 Up, up to the Black Plateau,
 Where they’ve got blades to warp your mind, 
 An anger unknown to our kind,

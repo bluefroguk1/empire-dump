@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Effulgent Primessence
 aliases: ['Effulgent_Primessence']

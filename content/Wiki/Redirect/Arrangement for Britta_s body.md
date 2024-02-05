@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Arrangement for Britta_s body
 aliases: ["Arrangement_for_Britta's_body"]

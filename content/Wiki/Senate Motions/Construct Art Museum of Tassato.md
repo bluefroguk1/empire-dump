@@ -12,7 +12,7 @@ __NOTOC__
 That [[The Senate|the Senate]] grant permission to build a great works in [[Tassato]] dedicated to [[Pride]], taking advantage of the recent surge in [[Pride]] and the arts.
 Proposed by [[Tassato]], Seconded by [[Astolat]]
 ### Overview
-* A [[Great work]] in Tassato to take advantage of the [[Opportunity|opportunity]] that presented itself during the recent period of inspiration
+* A [[Great work]] in [[Tassato]] to take advantage of the [[Opportunity|opportunity]] that presented itself during the recent period of inspiration
 * Passed
 ### Date
 * [[Spring]] 381YE
@@ -24,4 +24,4 @@ Proposed by [[Tassato]], Seconded by [[Astolat]]
 ### Progress
 * 15 wains of [[White granite|white granite]], 5 wains of [[Weirwood|weirwood]], and 5 thrones provided by Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after Spring Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The [[Great work|great work]], the Blood Red River Museum, provides 15 [[Liao]] and 30 votes in the [[Imperial Synod]] spread amongst those citizens of Tassato dedicated to Pride who own congregations each season, following attendance at the [[Anvil]] Summit
+* The [[Great work|great work]], the Blood Red River Museum, provides 15 [[Liao]] and 30 votes in the [[Imperial Synod]] spread amongst those citizens of [[Tassato]] dedicated to [[Pride]] who own congregations each season, following attendance at the [[Anvil]] Summit

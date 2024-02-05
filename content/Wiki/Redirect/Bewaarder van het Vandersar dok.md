@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Bewaarder van het Vandersar dok
 aliases: ['Bewaarder_van_het_Vandersar_dok']

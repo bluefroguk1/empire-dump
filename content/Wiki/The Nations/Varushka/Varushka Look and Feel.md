@@ -21,7 +21,7 @@ Fabrics are usually a single colour, suitable for embroidery or decoration. Poor
 Colours
 Bright vibrant colours predominate, with white, decorated with brightly coloured embroidery also common.  
 ## Clothing
-The most common Varushkan costume is a white shirt, tunic or dress, often white or a light colour. This is usually intricately embroidered on the hems, red is traditional but other bright contrasting colours are seen. Garments are sometimes made from wool, but most Varushkans prefer a lighter material. These can be worn in layers for warmth, commonly with different garments in contrasting colours. Warm shawls in bright colours are handed down through families.
+The most common Varushkan [[Costume|costume]] is a white shirt, tunic or dress, often white or a light colour. This is usually intricately embroidered on the hems, red is traditional but other bright contrasting colours are seen. Garments are sometimes made from wool, but most Varushkans prefer a lighter material. These can be worn in layers for warmth, commonly with different garments in contrasting colours. Warm shawls in bright colours are handed down through families.
 Varushkans of all genders frequently wear plain coloured “hero trousers”, baggy down to just past the knee then strapped to the leg. Trousers may be plain or brightly dyed but are usually made from fabric of a single colour; the strapping is another [[Opportunity|opportunity]] for a bright contrasting colour, embroidery or both. Coats are more common than cloaks. The traditional coat has an asymmetric overlap across the chest, is nipped in at the waist but flares out below the waist to a full ‘skirt’. The wealthiest wear coats in bright strong colours often with fur trim or embroidered hems. If dresses are worn they tend to have full, layered skirts, often with added aprons.
 For jewellery the most common material is amber and silver. Hunters carry amulets and talismans designed to protect them from the monsters that might otherwise hunt them in turn.
 Scandal in Skoremujac.png
@@ -39,7 +39,7 @@ Vesna the Vendor.jpg
 Yulia's Reaction.jpg
 Logging That For Later.jpg
 ### Decoration and Embroidery
-Fur is used extensively to trim garments of all kinds including armour. When trims are added it tends to be in [[Bands|bands]] of colour around the upper arms and hems. The most distinctive feature of Varushkan costume is the intricate embroidery that provides a strong contrast. Embroidery stands out as a mark of the wearer’s wealth - and is most commonly seen in [[Bands|bands]] and hems not across whole garments. 
+Fur is used extensively to trim garments of all kinds including armour. When trims are added it tends to be in [[Bands|bands]] of colour around the upper arms and hems. The most distinctive feature of Varushkan [[Costume|costume]] is the intricate embroidery that provides a strong contrast. Embroidery stands out as a mark of the wearer’s wealth - and is most commonly seen in [[Bands|bands]] and hems not across whole garments. 
 Cheerful [[Changeling]] Kalina.jpg
 And They Were Roommates.jpg
 Double Decoration.jpg
@@ -56,7 +56,7 @@ A Suspected Criminal and a Superlative Hat.jpg
 Emerald Hat.jpg
 ### Wise Ones
 Wise ones have a distinctive look which marks them out from other Varushkans. They receive a lot of gifts from the people they help and many people choose to give hair locks in return for luck and answers. The Wise Ones might braid these into their own hair, or wear them in bunches on belts or tied to staves. Other talismans and totems similarly given are similarly incorporated into hair or clothing or worn as jewellery. Many Wise Ones [[Will|will]] know the story of each talisman they wear.  
-Wise Ones also tend to wear blindfolds when they are conducting official [[Business|business]], and for some their blindfolds become an iconic part of their costume worn as head band or stole. They often make the most traditional of choices - long wrapover coats in the favourite colours of [[Varushka]] are common, and many take a ritualised approach to ageing - emphasising crow's feet around the eyes with colours, drawing attention to white streaks in the hair - even clothing is sometimes retained, patched and repatched to show its age.
+Wise Ones also tend to wear blindfolds when they are conducting official [[Business|business]], and for some their blindfolds become an iconic part of their [[Costume|costume]] worn as head band or stole. They often make the most traditional of choices - long wrapover coats in the favourite colours of [[Varushka]] are common, and many take a ritualised approach to ageing - emphasising crow's feet around the eyes with colours, drawing attention to white streaks in the hair - even clothing is sometimes retained, patched and repatched to show its age.
 I See What You're Doing.jpg
 Who Turned Out the Lights?.jpg
 Vartansy2.jpg
@@ -95,7 +95,7 @@ Costume for Varushkan children follows the traditional styles and emphasis on br
 VarushkanChild1.jpg
 VarushkanCostume2.jpg
 ## Animals and [[Runes]]
-Varushkans often use animal symbols and runes to express virtues in their storytelling and artwork. 
+Varushkans often use animal symbols and [[Runes|runes]] to express virtues in their storytelling and artwork. 
 VarushkaBear.jpg|The bear represents [[Courage]]
 VarushkaBee.jpg|The bee represents [[Prosperity]]
 VarushkaBoar.jpg|The boar represents [[Courage]]
@@ -107,7 +107,7 @@ VarushkaHound.jpg|The hound represents [[Loyalty]]
 VarushkaSpider.jpg|The spider represents [[Vigilance]] and [[Wisdom]]
 VarushkaSquirrel.jpg|The squirrel represents [[Wisdom]]
 ## Things you're unlikely to see
-*Varushka is not a catch all culture for all things cool and Eastern European/Russian. It would be surprising to find short braided cavalry jackets  (eg Hussar's jackets) worn by Varushkans rather than the long swirling coats they favour.
+*[[Varushka]] is not a catch all culture for all things cool and Eastern European/Russian. It would be surprising to find short braided cavalry jackets  (eg Hussar's jackets) worn by Varushkans rather than the long swirling coats they favour.
 *Similarly big fur hats and tiny waistcoats - Cossack style - are not commonly worn and neither are Cossack dances a common form of Varushkan entertainment.
 * It may seem a short step from some of the costume guidance and the cold of Varushkan lands to Vikings and then to Thor's Hammer symbols. As Thor doesn't exist in the world of Empire the iconic symbol (much like the Christian Cross in [[Highguard]]) is best avoided where possible.
-Varushka Links
+[[Varushka]] Links

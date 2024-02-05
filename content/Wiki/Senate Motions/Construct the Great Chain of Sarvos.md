@@ -9,9 +9,9 @@ revision_id: 104563
 ---
 
 __NOTOC__
-I, Sagua i'Ezmara, [[Master of the Koboldi]], hereby announce that this season's project [[Will|will]] be the Steel Rings of [[Sarvos]], utilising [[The Chain|the Chain]] against Chains [[Opportunity|opportunity]] to protect [[Sarvos]] from naval attack. This [[Will|will]] also make them better able to build and protect a navy if the Naval Arsenal is also built. The funds are being gathered by [[Merchant Prince]] Shauni di Vergo, [[Senator]] of Sarvos
+I, Sagua i'Ezmara, [[Master of the Koboldi]], hereby announce that this season's project [[Will|will]] be the Steel Rings of [[Sarvos]], utilising [[The Chain|the Chain]] against Chains [[Opportunity|opportunity]] to protect [[Sarvos]] from naval attack. This [[Will|will]] also make them better able to build and protect a navy if the Naval Arsenal is also built. The funds are being gathered by [[Merchant Prince]] Shauni di Vergo, [[Senator]] of [[Sarvos]]
 ## Overview
-* Constructs a [[Fortification]] in Sarvos as detailed in [[The parents of security|the Parents of security]] wind of fortune 
+* Constructs a [[Fortification]] in [[Sarvos]] as detailed in [[The parents of security|the Parents of security]] wind of fortune 
 * Announcement by the [[Master of the Koboldi]]
 ## Date
 * [[Spring]] 385YE
@@ -24,5 +24,5 @@ I, Sagua i'Ezmara, [[Master of the Koboldi]], hereby announce that this season's
 ## Progress
 CommissionProgress|Great_Chains_of_Sarvos
 ## Outcome
-* Once completed the [[Fortification|fortification]] of the ''Great Chains of Sarvos'' will have a strength of 3,000. Against any shore offensive aimed at capturing the region of Cigno the fortification will instead have a strength of 6,000.
-* During the [[Summer]] Solstice 385YE [[The Senate|the Senate]] voted to amend the fortification to change the name to Great Chain of Sarvos
+* Once completed the [[Fortification|fortification]] of the ''Great Chains of [[Sarvos]]'' [[Will|will]] have a strength of 3,000. Against any shore offensive aimed at capturing the region of Cigno the [[Fortification|fortification]] [[Will|will]] instead have a strength of 6,000.
+* During the [[Summer]] Solstice 385YE [[The Senate|the Senate]] voted to amend the [[Fortification|fortification]] to change the name to Great Chain of Sarvos

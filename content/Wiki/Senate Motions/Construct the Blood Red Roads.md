@@ -23,9 +23,9 @@ To be overseen by Lorenzo La Volpe and self-funded by the Bloody Butchers [[Guil
 * Time : 2 years construction time
 ...this [[Great work|great work]] [[Will|will]] connect people and places. Our Empire is strongest when we work together. By connecting us together, the Butchers Benevolence [[Will|will]] bring us closer, make us stronger, and make us greater!
 ### Progress
-* 100 wains of white granite and 20 thrones provided by Lorenzo La Volpe after Spring Equinox 380YE.
-* 160 wains of white granite and 40 thrones provided by Lorenzo La Volpe after [[Autumn]] Equinox 380YE.
-* 100 wains of white granite and 30 thrones provided by Lorenzo La Volpe after Spring Equinox 381YE.
+* 100 wains of [[White granite|white granite]] and 20 thrones provided by Lorenzo La Volpe after Spring Equinox 380YE.
+* 160 wains of [[White granite|white granite]] and 40 thrones provided by Lorenzo La Volpe after [[Autumn]] Equinox 380YE.
+* 100 wains of [[White granite|white granite]] and 30 thrones provided by Lorenzo La Volpe after Spring Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* When completed this great work will increase income of farms and businesses in the territories which the road network passes through.
+* When completed this [[Great work|great work]] [[Will|will]] increase income of farms and businesses in the territories which the road network passes through.
 * Work on the roads has begun; a number of specialists have come on board to look at ways the speed of this project might be increased.

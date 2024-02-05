@@ -23,4 +23,4 @@ Approved by the [[Civilian Commissioner]] of [[The Marches|the Marches]]
 ### Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns provided by Silas Merrick after [[Winter]] Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, once completed, [[Will|will]] create the Marcher National position of [[Keeper of the Dour Fens]], appointed by unanimous decision of the Marcher Senators
+* This [[Sinecure|sinecure]], once completed, [[Will|will]] create the Marcher National position of [[Keeper of the Dour Fens]], appointed by unanimous decision of the Marcher Senators

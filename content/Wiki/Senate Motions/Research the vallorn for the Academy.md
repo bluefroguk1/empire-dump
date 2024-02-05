@@ -21,5 +21,5 @@ To allow [[The Academy|the Academy]] to research the origin of [[The Vallorn|the
 * 5 Thrones have been provided
 * Information about [[The Vallorn|the vallorn]] is being compiled
 ### [[Campaign outcome|Campaign Outcome]]
-* A report about the [[Vallorn]] [[Will|will]] be provided to Bohemond De Rondell, [[Senator]] for Astolat.
+* A report about the [[Vallorn]] [[Will|will]] be provided to Bohemond De Rondell, [[Senator]] for [[Astolat]].
 __NOTOC__

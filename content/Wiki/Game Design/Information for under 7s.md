@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Information for under 7s
 aliases: ['Information_for_under_7s']
 draft: False
@@ -17,13 +17,13 @@ We do not expect a young child to play a significant role in [[The game|the game
 Any under-7 must be supervised at all times by a parent or nominated carer. This can be onerous; parents should consider whether it is [[Worth|worth]] attending an event with an under-7 if they do not have two or more adults to share the responsibility. Parents of young children must be aware that they can easily disrupt the game for other players. You must remove your child from an area where other players are roleplaying if they become disruptive. Young children are prone to wandering off, so parents must take care to ensure that they remain close at all times.
 The requirement for supervision applies even when your child is asleep. You cannot leave a young child sleeping without their parent or carer present.
 ## Must have suitable [[Costume|costume]]
-A baby should be swaddled or dressed in blankets or costume which are appropriate to [[The setting|the setting]]. Young children should have suitable costume. Footwear is always difficult in LRP, particularly for children who are still growing quickly, so neutral coloured footwear (plain shoes, trainers or wellies) is acceptable.
+A baby should be swaddled or dressed in blankets or [[Costume|costume]] which are appropriate to [[The setting|the setting]]. Young children should have suitable [[Costume|costume]]. Footwear is always difficult in LRP, particularly for children who are still growing quickly, so neutral coloured footwear (plain shoes, trainers or wellies) is acceptable.
 ## Must have suitable toys
 A young child [[Will|will]] want to play with toys. The perfect toys are ones that are passable in [[The setting|the setting]], such as wooden [[Farm|farm]] animals. You must not bring bright coloured obviously plastic toys or any toys that are battery operated into the IC area.
 ## A character but no [[Skills|skills]]
 The intention for Empire is to create a world in which children play children as realistically and credibly as possible. We intend to try to make the experience of being a child in the world of Empire as epic as possible, but children are not great [[Heroes|heroes]] risking their lives to save [[The Empire|the Empire]], they ''merely'' have the chance to become one as they grow up in the game.
-Because of this, young children are encouraged to create a character on our system, however children cannot have [[Skills|skills]] or resources until their character passes the [[Test of Citizenship]], There is no lower age limit, although most graduates are around 11 or older. We intend to deliver a game aimed at our young players that is based around their [[Characters|characters]] and what they want to learn and do and is not contingent on skills or resources.
-As under 7s have no skills, they may utilise the [[Apprentice Ability]].
+Because of this, young children are encouraged to create a character on our system, however children cannot have [[Skills|skills]] or resources until their character passes the [[Test of Citizenship]], There is no lower age limit, although most graduates are around 11 or older. We intend to deliver a game aimed at our young players that is based around their [[Characters|characters]] and what they want to learn and do and is not contingent on [[Skills|skills]] or resources.
+As under 7s have no [[Skills|skills]], they may utilise the [[Apprentice Ability]].
 ## Non-combatant at all times
 There are no circumstances under which it is acceptable for an under-7 to be involved in [[Combat|combat]]. Since a parent or carer must be supervising the child at all times, this means that that individual cannot be involved in [[Combat|combat]] either. It should not be difficult to avoid combat at Empire, however if combat does occur near you or your child, then you must gather up your child and immediately leave the area by the most effective route. It is exceptionally unlikely that another character would want to attack you while you are doing this, but if that does appear to happen then you must put a hand in the air and follow the rules for being non-contact.
 ## IC area for young players

@@ -14,6 +14,6 @@ To build the [[Shipyard]] in Siroc pursuant to the [[Opportunity|opportunity]] p
 * This motion would have taken advantage of an [[Opportunity]] presented to the [[Mistress of the Glass Parador]] by the defiant citizens of Siroc.
 * Passed in principle. 
 * Vetoed by [[The Throne|the Throne]].
-* This opportunity is no longer available.
+* This [[Opportunity|opportunity]] is no longer available.
 ## Date
 * [[Summer]] 382YE

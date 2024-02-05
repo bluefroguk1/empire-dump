@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tonics of True Eminence
 aliases: ['Tonics_of_True_Eminence']

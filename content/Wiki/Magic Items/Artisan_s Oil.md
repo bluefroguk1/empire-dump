@@ -19,4 +19,4 @@ The oil is mildly toxic. If someone were to eat it for some reason, they would s
 * Can only be applied by a character with the artisan skill.
 * Using 10 seconds of [[Appropriate roleplaying]] the artisan this oil repairs an item, such as a weapon or shield that has been broken using the [[Shatter|SHATTER]] call. 
 * The artisan's oil use fails if you or the target item are hit, or used to attack another character, during application. The artisan's oil is not consumed but the roleplaying must be started again.
-* Materials: Crafting Artisan's Oil requires a crown's [[Worth|worth]] of materials. It takes one month to make three doses of Artisan's Oil.
+* [[Materials]]: Crafting Artisan's Oil requires a crown's [[Worth|worth]] of [[Materials|materials]]. It takes one month to make three doses of Artisan's Oil.

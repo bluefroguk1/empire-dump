@@ -14,4 +14,4 @@ An Icon of the [[Seer]] requires months of work by a skilled artisan, commonly w
 ## Rules
 Icons
 * Effect: While you are wielding this icon you can perform the [[Insight|insight]] ceremony as if you knew it.
-* [[Materials]]: Crafting an [[Icon of the Seer]] requires no special materials. It takes two months to make one of these items.
+* [[Materials]]: Crafting an [[Icon of the Seer]] requires no special [[Materials|materials]]. It takes two months to make one of these items.

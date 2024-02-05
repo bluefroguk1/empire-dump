@@ -23,7 +23,7 @@ all: [[The Drowned Man]] [[Guardian]] of our land
 Outside Looking in, And inside Looking out
 No one knows The subtle things He does
 Yet through his work We're all safe And secure
-Someone's Standing at the edge, As the chapter Gathers round
+Someone's Standing at the edge, As the [[Chapter|chapter]] Gathers round
 all: Who is this man Guarding us on Sacred ground
 Quietly he provides And protects Without a sound
 all: And to his Purpose our oaths are Honour bound
@@ -34,9 +34,9 @@ Somewhere [[Right now]] a Drowned man's Standing near
 Whether here At home or Some far off Land
 He keeps safe All we hold dear
 Yes, somewhere [[Right now]],  a Drowned Man's Standing near
-Someone's Standing at the edge, As the chapter Gathers round
+Someone's Standing at the edge, As the [[Chapter|chapter]] Gathers round
 all: Who is this man Guarding us on Sacred ground
 Quietly he provides And protects Without a sound
-The Drowned Man Guardian of our Sacred space
-all: The Drowned Man Guardian of our land
-all: The Drowned Man [[Paragon]] of our creed
+[[The Drowned Man]] Guardian of our Sacred space
+all: [[The Drowned Man]] Guardian of our land
+all: [[The Drowned Man]] [[Paragon]] of our creed

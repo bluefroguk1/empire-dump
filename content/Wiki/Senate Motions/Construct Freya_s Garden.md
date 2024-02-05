@@ -16,8 +16,8 @@ To construct a [[Great work|Great Work]] in [[Hahnmark]], that provides [[Herbs|
 ## Date
 * [[Winter]] 382YE
 ## [[Cost]]
-* This Great work uses standard costs.
+* This [[Great work]] uses standard costs.
 ## Progress
 * 50 wains of [[Weirwood|weirwood]] and 100 crowns provided by Tyr Brenna after Winter Solstice 372YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Great work [[Will|will]] provide a bounty of 84 herbs divided between the [[Herb garden]] owners of Hahnmark.
+* The [[Great work]] [[Will|will]] provide a bounty of 84 herbs divided between the [[Herb garden]] owners of [[Hahnmark]].

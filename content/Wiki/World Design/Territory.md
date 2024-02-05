@@ -20,8 +20,8 @@ Home territory is selected from a drop down menu during the last stage of charac
 ## Resources
 * A personal resource must be located in a specific territory
 * Personal resources are not affected until all the regions in a territory are lost
-Resources controlled by [[Characters|characters]] are located in a territory (even military units and fleets have barracks or a home port). Although individual regions or the territory may be controlled by the [[Barbarians|barbarians]], this does not affect the players with resources in that territory. If the entire territory falls into [[Barbarian|barbarian]] control - if the Empire loses control of all regions in a territory - then the production of all Imperial resources in the territory is reduced.
-The Empire identifies where your character lives based on the location of their resource. If you change your personal resource for a resource in a new territory, the Empire assumes that you live in the new territory for purposes such as voting eligibility.
+Resources controlled by [[Characters|characters]] are located in a territory (even military units and fleets have barracks or a home port). Although individual regions or the territory may be controlled by the [[Barbarians|barbarians]], this does not affect the players with resources in that territory. If the entire territory falls into [[Barbarian|barbarian]] control - if [[The Empire|the Empire]] loses control of all regions in a territory - then the production of all Imperial resources in the territory is reduced.
+[[The Empire]] identifies where your character lives based on the location of their resource. If you change your personal resource for a resource in a new territory, [[The Empire|the Empire]] assumes that you live in the new territory for purposes such as voting eligibility.
 ## Campaigns
 * A campaign involves all the armies in a territory
 * Whoever controls half the regions in a territory controls the territory
@@ -33,5 +33,5 @@ Territories are divided into regions based on their geography and military signi
 * It is twice as difficult to conquer a region that is not adjacent to a region in the territory that you control
 * Regions have special qualities that affects some [[Rituals|rituals]] and some plot [[Opportunities|opportunities]]
 An army can move freely within a territory as part of the orders issued by the [[General|general]] in command. However experienced generals should note that it is twice as difficult as normal to conquer any region that is not adjacent to another region in that territory that you control.
-A region may have one or more special qualities that describe the terrain and the presence of notable geographic, magical, or historical features. These qualities are vital for some rituals but they can also affect opportunities available to the [[Imperial Senate]].
+A region may have one or more special qualities that describe the terrain and the presence of notable geographic, magical, or historical features. These qualities are vital for some [[Rituals|rituals]] but they can also affect opportunities available to the [[Imperial Senate]].
 [[War]] Further Reading

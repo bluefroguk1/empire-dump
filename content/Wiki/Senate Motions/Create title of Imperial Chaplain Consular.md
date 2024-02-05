@@ -20,6 +20,6 @@ Powers:Once per Season, may inquist an imperial [[Ambassador|ambassador]] withou
 ### [[Cost]]
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-* The title of Imperial Chaplain Consular was created
-* Hywel Summercrow of [[Navarr]] was duly appointed to the position by the [[Cardinal]] of the Way.
+* The title of [[Imperial Chaplain Consular]] was created
+* Hywel Summercrow of [[Navarr]] was duly appointed to the position by the [[Cardinal]] of [[The Way|the Way]].
 __NOTOC__

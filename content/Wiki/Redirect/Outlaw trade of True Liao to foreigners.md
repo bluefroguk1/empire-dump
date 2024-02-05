@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Outlaw trade of True Liao to foreigners
 aliases: ['Outlaw_trade_of_True_Liao_to_foreigners']

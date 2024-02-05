@@ -17,5 +17,5 @@ To request funding to place a [[Ritual|ritual]], approved by [[The Conclave|the 
 ### Progress
 * Funds disbursed to Simarghl, [[Proxy|proxy]] [[Senator]] for [[Karov]]
 ### [[Campaign outcome|Campaign Outcome]]
-* The [[Cost|cost]] to place a ritual in Imperial lore is 10 Thrones, and requires a [[Declaration]] of the [[Imperial Conclave]]..
+* The [[Cost|cost]] to place a ritual in [[Imperial lore]] is 10 Thrones, and requires a [[Declaration]] of the [[Imperial Conclave]]..
 __NOTOC__

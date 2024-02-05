@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast Lineage and Species Attitudes
 aliases: ['Brass_Coast_Lineage_and_Species_Attitudes']

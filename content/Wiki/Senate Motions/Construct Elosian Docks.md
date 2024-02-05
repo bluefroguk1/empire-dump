@@ -24,4 +24,4 @@ __NOTOC__
 ## Progress
 CommissionProgress|Elosian_Docks
 ## [[Campaign outcome|Campaign Outcome]]
-* Once completed this [[Commission|commission]] will be overseen by the title ''[[Quaymaster of the Elosian Docks]]'', who will be have access to a [[Ministry]] to trade [[Dragonbone|dragonbone]] for [[White granite]]
+* Once completed this [[Commission|commission]] [[Will|will]] be overseen by the title ''[[Quaymaster of the Elosian Docks]]'', who [[Will|will]] be have access to a [[Ministry]] to trade [[Dragonbone|dragonbone]] for [[White granite]]

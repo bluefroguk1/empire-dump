@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Highguard Icons and Artistry
 aliases: ['Highguard_Icons_and_Artistry']

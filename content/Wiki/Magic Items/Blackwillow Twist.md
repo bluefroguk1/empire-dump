@@ -13,4 +13,4 @@ The [[Blackwillow Twist]] is a flexible, resilient weapon whose head is usually 
 ## Rules
 One-Handed Spears
 * Effect: Once per [[Day|day]] you may call STRIKEDOWN with this one-handed spear.
-* [[Materials]]: Crafting a [[Blackwillow Twist]] requires eight ingots of green iron and five ingots of ambergelt. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Blackwillow Twist]] requires eight ingots of green iron and five ingots of [[Ambergelt|ambergelt]]. It takes one month to make one of these items.

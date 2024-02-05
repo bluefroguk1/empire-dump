@@ -8,7 +8,7 @@ revision_id: 82489
 ---
 
 ## The Path of [[Pride]]
-Some may believe that [[Pride]] is simply senators in fine clothing praising the qualities of their Nation, but this is only a tiny part of the path. National Pride is, quite rightfully, important to many citizens and is the reason for the creation of the [[Egregores|egregores]]. Yet the Virtue of Pride exists to inform the small parts of life as much as the large. From the servant who keeps their mistress’ cups clean, to the craftsman who holds all their work to the same high standard, to the [[General|general]] who remembers the name of every soldier who died under their command – all demonstrate Pride and know what it is that they serve and strive for.
+Some may believe that [[Pride]] is simply senators in fine clothing praising the qualities of their Nation, but this is only a tiny part of the path. National [[Pride]] is, quite rightfully, important to many citizens and is the reason for the creation of the [[Egregores|egregores]]. Yet the Virtue of [[Pride]] exists to inform the small parts of life as much as the large. From the servant who keeps their mistress’ cups clean, to the craftsman who holds all their work to the same high standard, to the [[General|general]] who remembers the name of every soldier who died under their command – all demonstrate [[Pride]] and know what it is that they serve and strive for.
 ### Guidance on the Path
 Through meditation on the [[Auras of Pride]], and close study of the stories of [[Paragons and Exemplars|paragons and exemplars]], the priests of [[The Way|the Way]] have gleaned [[Insight|insight]] into the heart of the virtue and how best to pursue it. There are collections of parables, tales, sayings and teachings that distill this for Imperial citizens to learn from. The following are a handful of teachings and sayings deemed to be essential to understanding the path:
 The Ten Things
@@ -20,7 +20,7 @@ For the [[Freeborn]] it is [[Honesty]]; in [[Dawn]] it is [[Glory]] (of course);
 * The Virtuous inspire others to greatness; they do not demean them.
 * Despise the half-hearted, the uncommitted and the pretender.
 ## [[Paragons and Exemplars]]
-Across [[History|history]], the paragons and exemplars of Pride have been amongst the easiest to identify for they are, by nature, rarely reclusive and withdrawn. Recognised Paragons and Exemplars of Pride include:
+Across [[History|history]], the [[Paragons and Exemplars|paragons and exemplars]] of Pride have been amongst the easiest to identify for they are, by nature, rarely reclusive and withdrawn. Recognised [[Paragons and Exemplars]] of Pride include:
 * The legendary [[Paragon|paragon]] [[Kethry]] of the Kesh kept her peoples' ways alive and ultimately inspired the conquering nation to embrace them.
 * The paragon Richilde inspired the people of [[The Empire|the Empire]] to celebrate their culture and history, and was the first paragon recognised in the modern era.
 * The Highborn paragon [[Lepidus]] kept the spiritual heart of his nation alive during the dark days of the Patrician Council's corruption.
@@ -41,7 +41,7 @@ During their [[Spring]] festival, the [[Urizen]] represent the virtue of Pride w
 * [[Vigilance]]
 * [[Wisdom]]
 ### Religion
-*The Way of Virtue
+*[[The Way]] of Virtue
 *[[Imperial Theology]]
 *[[Imperial Synod]]
 *[[Religious skills|Religious Skills]]

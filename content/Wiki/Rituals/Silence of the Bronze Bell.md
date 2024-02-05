@@ -17,7 +17,7 @@ Casting time|2  Target Character The character must possess the [[Dedication]] s
 [[Enchantment|enchantment]] 
 ### Effects
 The target gains the ability to use [[Liao]] to remove an [[Aura]] on a person, location, or item exactly as if they were using the [[Anointing]], [[Consecration]], or hallowing skill. The character can cooperate with other [[Characters|characters]] using the appropriate skill or the benefits of this [[Enchantment|enchantment]] to help destroy a more powerful [[Aura|aura]] following all the normal rules.  
-When removing a durable aura, the enchantment allows the character to spend up to two additional doses of [[Liao]] to increase the strength of the ceremony by the same amount.
+When removing a durable [[Aura|aura]], the [[Enchantment|enchantment]] allows the character to spend up to two additional doses of [[Liao]] to increase the strength of the ceremony by the same amount.
 The ritual paradoxically creates it's own [[Roleplaying effect]]; ''you become keenly aware of the importance of exercising free [[Will|will]] without external influence.''
 Season Duration
 ### Additional Targets

@@ -14,7 +14,7 @@ any more of the name than that).
 
 They were about to pass [[Judgement|judgement]] on a slave who'd destroyed a [[Mana site|mana site]], and murdered a cousin of the magus who owned the [[Mana site|mana site]]. One of their advisors suggested compassion, and the other advised a brutal demonstration of power.
 
-When the visionary asked why the slave might have destroyed the mana site, the advisors did not have a clear idea, other than that they believed the slaves to be uncivilised savages who would cause an uprising.
+When the visionary asked why the slave might have destroyed the [[Mana site|mana site]], the advisors did not have a clear idea, other than that they believed the slaves to be uncivilised savages who would cause an uprising.
 
 The visionary asked for the magus and the slave to be brought in. The magus was also unlineaged and wearing light blue robes, holding a wand or rod in one hand, and was barefoot, while the slave wore black. The magus's name was Parvus, and he said he wanted the slave killed - he didn't care for the property value of the slave, but he wanted the slave's eyelids ripped off so the slave couldn't look away while his whole [[Family|family]] were tortured before he was executed. The magus said the slave's tears would bring him joy.
 
@@ -28,10 +28,10 @@ The visionary talked about how to prevent this happening again, and wondered alo
 
 The advisors said that it was about [[Magic|magic]], power and knowledge, and that a slave shouldn't understand these things, and it wouldn't be good for them or for their civilisation for slaves to learn. The visionary replied that if you have minions who work for you but who aspire to be you, then they won't rebel, and that there may be those who would rise above the rest and could be shown civilisation, to return to their people and show it to them. Through having people working with you, rather than just for you, a civilisation would be stronger and have a better economy.
 
-The magus and the slave were brought back in again. The visionary asked the slave to describe his crime, to which he said, "I have struck a spark, I have lit a fire". The visionary asked if he understood the consequences of his crime, and the slave said yes, and that more would follow. The visionary then clarified with the magus that he didn't care about the property loss of losing the slave's [[Family|family]], and the magus confirmed that he didn't care. The visionary's final [[Judgement|judgement]] was to have that slave executed, have his family made the property of the visionary and they would be shown civilisation.
+The magus and the slave were brought back in again. The visionary asked the slave to describe his crime, to which he said, "I have struck a spark, I have lit a fire". The visionary asked if he understood the consequences of his crime, and the slave said yes, and that more would follow. The visionary then clarified with the magus that he didn't care about the property loss of losing the slave's [[Family|family]], and the magus confirmed that he didn't care. The visionary's final [[Judgement|judgement]] was to have that slave executed, have his [[Family|family]] made the property of the visionary and they would be shown civilisation.
 
-The advisor who had previously suggested brutal behaviour seemed persuaded of the visionary's arguments by the end. None of them questioned the visionary's authority, and even the magus made no objection to them taking the slave's family as their own.
+The advisor who had previously suggested brutal behaviour seemed persuaded of the visionary's arguments by the end. None of them questioned the visionary's authority, and even the magus made no objection to them taking the slave's [[Family|family]] as their own.
 
-After the visionary gave their judgement, the two advisors stood up, said, "Judgement is passed", and the vision ended.
+After the visionary gave their [[Judgement|judgement]], the two advisors stood up, said, "[[Judgement]] is passed", and the vision ended.
 
 Irada and Hywel had their souls examined by the rite of [[Insight]] before and after the vision. Before the vision, Irada had a [[Dedication|dedication]] to [[Vigilance]] with the strength of a single priest behind it, and Hywel had a [[Testimony|testimony]] of "New Scion" with the strength of a single priest. After the vision, the state of their souls was unchanged.

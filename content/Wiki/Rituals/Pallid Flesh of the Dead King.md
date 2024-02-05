@@ -14,9 +14,9 @@ Season|Winter|13
 Casting time|2 Target Character
 [[Enchantment|enchantment]]
 ### Effects
-The target gains three additional ranks of endurance. At the same time, they are affected by [[Venom]]. The supernatural [[Venom|venom]] caused by this [[Enchantment]] cannot be removed by a [[Purify]] spell (although attempting to do so [[Will|will]] not [[Cost|cost]] the caster any mana) unless the enchantment is removed first. 
-If the venom is removed by other means (such as [[Ascetic Star of Atun]] or the use of [[Imperial Roseweald]] for example) the enchantment immediately ends and the target loses three hits from their current total.
-While under this enchantment, the target also experiences a [[Roleplaying effect]]: you occasionally feel as if your body is wrapped in heavy chains, and suffer instants where an arm or leg [[Will|will]] not move. You regularly suffer dreams of being buried alive, or entombed unmoving in a great empty chamber for eternity.
+The target gains three additional ranks of endurance. At the same time, they are affected by [[Venom]]. The supernatural [[Venom|venom]] caused by this [[Enchantment]] cannot be removed by a [[Purify]] spell (although attempting to do so [[Will|will]] not [[Cost|cost]] the caster any mana) unless the [[Enchantment|enchantment]] is removed first. 
+If the [[Venom|venom]] is removed by other means (such as [[Ascetic Star of Atun]] or the use of [[Imperial Roseweald]] for example) the [[Enchantment|enchantment]] immediately ends and the target loses three hits from their current total.
+While under this [[Enchantment|enchantment]], the target also experiences a [[Roleplaying effect]]: you occasionally feel as if your body is wrapped in heavy chains, and suffer instants where an arm or leg [[Will|will]] not move. You regularly suffer dreams of being buried alive, or entombed unmoving in a great empty chamber for eternity.
 Season Duration
 ### Additional Targets
 This ritual can affect additional [[Characters|characters]] from the same [[Banner|banner]]. Each additional character increases the magnitude by 10. Additional [[Characters|characters]] must be present throughout.

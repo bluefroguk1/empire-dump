@@ -15,4 +15,4 @@ The staff of the [[Archmage of Day]] is a version of the [[Luminous Staff|lumino
 ## Rules
 Ritual Staves
 * Effect: Gain 1 rank of Day Lore, subject to the normal rules for effective skill.
-* [[Materials]]: Crafting a Luminous Staff requires the eleven measures of [[Iridescent gloaming|iridescent gloaming]], fourteen ingots of [[Weltsilver|weltsilver]] and twenty measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Luminous Staff]] requires the eleven measures of [[Iridescent gloaming|iridescent gloaming]], fourteen ingots of [[Weltsilver|weltsilver]] and twenty measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

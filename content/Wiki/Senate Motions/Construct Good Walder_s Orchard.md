@@ -9,9 +9,9 @@ revision_id: 94619
 ---
 
 __NOTOC__
-To [[Commission|commission]] a [[Sinecure|sinecure]] ‘[[Good Walder]]’s Orchard’ by the Walder’s Oak in [[Mitwold]]. [[Sinecure]] to produce prosperous apples and [[Liao|liao]] each season. Sinecure to create the one year position of ‘[[Keeper of the Orchard]]’ to be appointed by the Marcher [[Assembly]]. Revocable by the Marcher [[Assembly]]. Entirely self-funded by Bastard Tom of [[Upwold]]. With the intention to raise an inspirational tomb in the future''Proposed by [[Upwold]], seconded by [[Bregasland]].''
+To [[Commission|commission]] a [[Sinecure|sinecure]] ‘[[Good Walder]]’s Orchard’ by the Walder’s Oak in [[Mitwold]]. [[Sinecure]] to produce prosperous apples and [[Liao|liao]] each season. [[Sinecure]] to create the one year position of ‘[[Keeper of the Orchard]]’ to be appointed by the Marcher [[Assembly]]. Revocable by the Marcher [[Assembly]]. Entirely self-funded by Bastard Tom of [[Upwold]]. With the intention to raise an inspirational tomb in the future''Proposed by [[Upwold]], seconded by [[Bregasland]].''
 ## Outcome
-* Construct a Sinecure in [[Mitwold]]
+* Construct a [[Sinecure]] in [[Mitwold]]
 * Passed
 ## Date
 * [[Autumn]] 383YE

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Imperial Roll of Honour Winter Equinox 377YE
 aliases: ['Imperial_Roll_of_Honour_Winter_Equinox_377YE']

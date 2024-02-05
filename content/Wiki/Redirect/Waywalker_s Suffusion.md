@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Waywalker_s Suffusion
 aliases: ["Waywalker's_Suffusion"]

@@ -24,11 +24,11 @@ If one does not speak at all
 It’s no surprise your love won’t fall.
 So [[Speak of Your Love|speak of your love]],
 Speak of it truly,
-Speak of your love
+[[Speak of Your Love|Speak of your love]]
 Before you go;
-Speak of your love
+[[Speak of Your Love|Speak of your love]]
 This morning, this evening,
-Speak of your love
+[[Speak of Your Love|Speak of your love]]
 Or they’ll never know.
 O [[Wintermark]] of ice and snow,
 Where brave and bold a-hunting go,
@@ -60,7 +60,7 @@ So speak…
 O Marchers of the bill and block,
 Such energetic, ruddy stock,
 But with so much upon your plate
-Will you speak before it’s too late?
+[[Will]] you speak before it’s too late?
 O [[Dawn]] of ballad and fine verse,
 Perhaps to speak too much is worse,
 For giving them too much to heed
@@ -69,7 +69,7 @@ So speak…
 O Leaguers, with your smashing tights
 And cities more alive at night,
 To spend your evenings counting coins
-Will do no service to your loins!
+[[Will]] do no service to your loins!
 O people, please, hear my  request,
 Though much of this is done in jest,
 If you’d not be alone this night

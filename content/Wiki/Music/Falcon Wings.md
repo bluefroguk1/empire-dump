@@ -15,11 +15,11 @@ This song was commissioned in [[Winter]] 379 by the retiring [[Senator|senator]]
 The song combines a traditional melody from [[Skarsind]] with the rhythmic chanting found in Imperial Orc [[Music|music]]. The lyrics celebrate the outstanding [[Loyalty]] shown by both the people of [[Wintermark]] and the [[Imperial Orcs]], whilst not demeaning the sacrifices made by both as the Orcs earned their new homeland.
 [[Music]]: Arranged by Katy Cooper and Daisy Abbott from the traditional Swedish song, "Var det du eller var set jag"
 Lyrics: Rhi Swann Price
-A .pdf of the sheet music and lyrics for IC use is here.
+A .pdf of the sheet [[Music|music]] and lyrics for IC use is here.
 Long way home, it's a long way home
 Far from the land we have known
 Long way home, it's a long way home
-The [[Birds|birds]] of Skarsind have flown
+The [[Birds|birds]] of [[Skarsind]] have flown
 The skeins of our Nation, the strongest foundation
 For shouldering the burden that [[Loyalty]] brings
 The skeins of our Nation, the strongest foundation
@@ -27,7 +27,7 @@ Sing now and raise the people upon [[Falcon Wings|falcon wings]]
 Long way home, it's a long way home
 Far from the land we have known
 Long way home, it's a long way home
-The [[Birds|birds]] of Skarsind have flown
+The [[Birds|birds]] of [[Skarsind]] have flown
 These scars that we gather, they carve a new [[Chapter|chapter]]
 Ten nations in [[The Empire|the Empire]] united as one
 These scars that we gather, they carve a new [[Chapter|chapter]]

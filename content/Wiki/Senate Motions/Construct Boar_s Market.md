@@ -9,7 +9,7 @@ revision_id: 98590
 ---
 
 __NOTOC__
-To fund and construct the Boars Market in [[Astolat]], a market which [[Will|will]] allow [[Dawn]] to purchase [[Bourse|bourse]] resources. This [[Will|will]] create the title, Reeve of the Boars Market, which will be elected by well worn path.
+To fund and construct the Boars Market in [[Astolat]], a market which [[Will|will]] allow [[Dawn]] to purchase [[Bourse|bourse]] resources. This [[Will|will]] create the title, Reeve of the Boars Market, which [[Will|will]] be elected by well worn path.
 ## Overview
 * Commissions a market-fayre at Boar's Hollow in [[Astolat]] allowing purchase of [[Weirwood]], [[Mithril]], and [[White granite]].
 * This [[Opportunity]] is detailed in the [[Good old smooth red wine]] wind of fortune.

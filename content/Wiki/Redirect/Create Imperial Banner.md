@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Create Imperial Banner
 aliases: ['Create_Imperial_Banner']

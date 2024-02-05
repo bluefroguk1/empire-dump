@@ -28,7 +28,7 @@ Resupply an Imperial armyRaise a new Imperial armyRepair a fortificationCreate a
 |-
 | Repair a [[Fortification|fortification]] || 25 || 0 || Failed
 |-
-| Create a new fortification || 25 || 0 || Failed
+| Create a new [[Fortification|fortification]] || 25 || 0 || Failed
 |-
 | Appointed by military council || 3|| 24 || Passed
 |}

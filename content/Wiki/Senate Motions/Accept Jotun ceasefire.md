@@ -11,7 +11,7 @@ revision_id: 85759
 To accept the [[Jotun]] offer of a two year ceasefire during which the [[Jotun]] and [[The Empire|the Empire]] [[Will|will]] not make [[War|war]] on each other.
 ''Proposed by [[Upwold]], seconded by [[Mitwold]].'' 
 ### Overview
-* Agree to a two-year ceasefire with the Jotun orcs.
+* Agree to a two-year ceasefire with the [[Jotun]] orcs.
 * The ceasefire runs from the beginning of the [[Spring]] Equinox 377YE until the beginning of the Spring Equinox 379YE.
 * Passed by 27 votes to 0.
 ### Date
@@ -19,8 +19,8 @@ To accept the [[Jotun]] offer of a two year ceasefire during which the [[Jotun]]
 ### [[Cost]]
 * None
 ### [[Campaign outcome|Campaign Outcome]]
-The ceasefire prohibits [[Imperial armies]] from entering territories claimed by the Jotun, including [[Liathaven]] and [[Mournwold]]. Jotun campaign armies in turn [[Will|will]] not enter any Imperial [[Territory|territory]].
-At the Spring Equinox 378YE, [[The Senate|the senate]] voted to accept a proposed extension of the treaty which will now end at the start of the Spring Equinox 380YE.
+The ceasefire prohibits [[Imperial armies]] from entering territories claimed by the [[Jotun]], including [[Liathaven]] and [[Mournwold]]. [[Jotun]] campaign armies in turn [[Will|will]] not enter any Imperial [[Territory|territory]].
+At the Spring Equinox 378YE, [[The Senate|the senate]] voted to accept a proposed extension of the treaty which [[Will|will]] now end at the start of the Spring Equinox 380YE.
 During the Summer Solstice 379YE, the [[Senate|senate]] voted to abrogate the ceasefire early, to allow them to provide military aid to the Lasambrian orcs against the Jotun.
 ### Notes
 Subsidiary motions to outlaw raiding on the Jotun during the ceasefire, and to declare the Jotun foreigners for the duration, were proposed and defeated.

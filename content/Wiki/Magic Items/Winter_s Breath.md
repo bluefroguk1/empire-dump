@@ -15,7 +15,7 @@ The [[Freeborn]] live in warmer climes and thus have less need of protection fro
 ## Rules
 Light Armour
 * Effect: Once per [[Day|day]] you may use the unstoppable skill as if you know it without spending any hero points.
-* [[Materials]]: Crafting a winter's breath requires six ingots of ambergelt and five ingots of weltsilver. It takes one month to make one of these items.
+* [[Materials]]: Crafting a winter's breath requires six ingots of [[Ambergelt|ambergelt]] and five ingots of weltsilver. It takes one month to make one of these items.
 “Suvi, don’t leave the cottage without your Seal Coat.”
 “But, ‘’Mother,’’ I don’t need it. I’ve passed my warrior test now. I’m taking my spear out hunting. I’ll be fine.”
 “Now your father stayed at home every [[Night|night]] for a month sewing that Coat for you and I hunted those seals for you myself. Even your little brother helped with the painting.”

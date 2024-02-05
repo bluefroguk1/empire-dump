@@ -13,7 +13,7 @@ To [[Conduct|conduct]] an [[Appraisal|appraisal]] regarding the integration of t
 ''Proposed by [[Mournwold]], seconded by [[Sarvos]]''
 ## Overview
 * Commissions an [[Appraisal]] from the civil service, relating to the integration of the orc thralls of the [[Mournwold]].
-* Only one appraisal may be carried out each season.
+* Only one [[Appraisal|appraisal]] may be carried out each season.
 * Passed
 ## Date
 * [[Spring]] 383YE

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Information for 11-16 year olds
 aliases: ['Information_for_11-16_year_olds']

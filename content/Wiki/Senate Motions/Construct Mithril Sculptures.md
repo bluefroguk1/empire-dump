@@ -23,5 +23,5 @@ To [[Commission|commission]] a [[Folly|folly]] of two [[Mithril|mithril]] statue
 ## Progress
 CommissionProgress|Mithril_Sculptures
 ## Outcome
-* Now completed this allows performance of [[Vale of Shadows]] to shroud Urizen personal resources in [[Spiral]] from foreign nation penalties and for the next year allows the [[Ritual|ritual]] to be made permanent for a third of the [[Cost|cost]] in [[Ilium]].
-* The position of Oblivion [[Sentinel]] [[Will|will]] be available to appoint for the first time by vote of the [[General]] of Urizen at the [[Autumn]] Equinox 385YE
+* Now completed this allows performance of [[Vale of Shadows]] to shroud [[Urizen]] personal resources in [[Spiral]] from foreign nation penalties and for the next year allows the [[Ritual|ritual]] to be made permanent for a third of the [[Cost|cost]] in [[Ilium]].
+* The position of Oblivion [[Sentinel]] [[Will|will]] be available to appoint for the first time by vote of the [[General]] of [[Urizen]] at the [[Autumn]] Equinox 385YE

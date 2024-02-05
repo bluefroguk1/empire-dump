@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Navarri Lineage and Species Attitudes
 aliases: ['Navarri_Lineage_and_Species_Attitudes']

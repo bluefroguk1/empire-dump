@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Feverfail Elixir
 aliases: ['Feverfail_Elixir']

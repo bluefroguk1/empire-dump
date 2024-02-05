@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Icon of the High Tower
 aliases: ['Icon_of_the_High_Tower']

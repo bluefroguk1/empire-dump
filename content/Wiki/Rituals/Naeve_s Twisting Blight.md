@@ -17,7 +17,7 @@ regio|Winter Target [[Territory]]
 ### Effects
 All crops in the target territory are scoured with blights and unseasonable weather. Preserved foodstuffs are ravaged by rot and mould, and weaker animals fall sick and in some cases die. Residents of the territory often fall ill while this [[Curse|curse]] is in place. 
 All farms in the territory provide only half as much money as they would normally provide.
-The additional production provided by an [[Enchantment]] such as [[Rampant Growth]] is not affected by this curse.
+The additional production provided by an [[Enchantment]] such as [[Rampant Growth]] is not affected by this [[Curse|curse]].
 Season Duration
 ## Description
 This ritual blights a territory with sickness, causing crops to wither, foodstores to become corrupted, and inflicting illness and [[General|general]] malaise on people and animals. 

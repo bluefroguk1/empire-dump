@@ -29,13 +29,13 @@ Recognised as an exemplar of [[Loyalty]] by the Synod.
 ### [[Emperor Ahraz]]
 Recognised as an exemplar of [[Courage]] by the Synod in the 378YE Summer Solstice Synod judgements.
 ### [[Navarr]]
-Recognised as an exemplar of Wisdom by the Synod in the 381YE Winter Solstice Synod judgements.
+Recognised as an exemplar of [[Wisdom]] by the Synod in the 381YE Winter Solstice Synod judgements.
 ### [[Thorn]]
 Recognised as an exemplar of [[Ambition]] by the Synod in the 380YE Summer Solstice Synod judgements. 
 ### Thrace
 Recognised as an exemplar of [[Ambition]] by the Synod in the 379YE Spring Equinox Synod judgements. 
 ### [[Ratibor of Temeschwar]]
-Recognised as an exemplar of Ambition by the Synod in the 379YE Summer Solstice Synod judgements.
+Recognised as an exemplar of [[Ambition]] by the Synod in the 379YE Summer Solstice Synod judgements.
 ### [[Nicolo Barossa]]
 Recognised as an exemplar of [[Prosperity]] by the Synod in the 377YE Winter Solstice Synod judgements. An attempt to revoke the status was rejected by the Synod in the 
 378YE Spring Equinox Synod judgements.
@@ -46,43 +46,43 @@ Recognised as an exemplar of [[Courage]] by the Synod in the 377YE Summer Solsti
 ### Mother Od
 Recognised as an exemplar of [[Pride]] by the Synod in the 376YE Winter Solstice Synod judgements. Also known as Odd of Odd's End.
 ### Olwyn the [[Witness]]
-Recognised as an exemplar of Pride by the Synod in the 376YE Winter Solstice Synod judgements.
+Recognised as an exemplar of [[Pride]] by the Synod in the 376YE Winter Solstice Synod judgements.
 ### Juha the Cave Spider
-Recognised as an exemplar of Loyalty by the Synod during the 384YE Autumn Equinox.
+Recognised as an exemplar of [[Loyalty]] by the Synod during the 384YE Autumn Equinox.
 ### Speaker for the Dead
-One of the divine [[Family|family]] of the Free Folk, recognised as an exemplar of Pride during the 385YE Spring Equinox. Further information about the Speaker can be found in the [[Historical research|historical research]] document commissioned by the [[Lepidean Librarian]].
+One of the divine [[Family|family]] of the Free Folk, recognised as an exemplar of [[Pride]] during the 385YE Spring Equinox. Further information about the Speaker can be found in the [[Historical research|historical research]] document commissioned by the [[Lepidean Librarian]].
 ## Past Exemplars
 This is a list of all the exemplars recognized in the years before [[Empress Britta]]'s death for whom records survive.
 ### [[Adelmar the Lion]]
-Recognised as an exemplar of Ambition by the Synod.
+Recognised as an exemplar of [[Ambition]] by the Synod.
 ### [[Atuman]]
-Originally recognised as a [[Paragon|paragon]] of Ambition by the Synod, later reduced to an exemplar.
+Originally recognised as a [[Paragon|paragon]] of [[Ambition]] by the Synod, later reduced to an exemplar.
 ### [[Avigliana di Sarvos]]
-Recognised as an exemplar of Wisdom by the Synod.
+Recognised as an exemplar of [[Wisdom]] by the Synod.
 ### [[Bolstering Bill]]
-Recognised as an exemplar of Loyalty by the Synod.
+Recognised as an exemplar of [[Loyalty]] by the Synod.
 ### [[Berechiah]]
-Recognised as an exemplar of Vigilance by the Synod.
+Recognised as an exemplar of [[Vigilance]] by the Synod.
 ### Didactylos of Delving
-Recognised as an exemplar of Wisdom by the Synod.
+Recognised as an exemplar of [[Wisdom]] by the Synod.
 ### [[Gilda Ashwine]]
-Recognised as an exemplar of Courage by the Synod.
+Recognised as an exemplar of [[Courage]] by the Synod.
 ### [[Inga Tarn]]
-Recognised as an exemplar of Courage by the Synod.
+Recognised as an exemplar of [[Courage]] by the Synod.
 ### [[Isaella]]
-Recognised as an exemplar of Courage by the Synod.
+Recognised as an exemplar of [[Courage]] by the Synod.
 ### [[Kala]]
 Recognised as an exemplar of Wisdom by the Synod.
 ### Lady [[Elayne Silverlark]]
-Recognised as an exemplar of Loyalty by the Synod.
+Recognised as an exemplar of [[Loyalty]] by the Synod.
 ### [[Long Tom Goodfellow]]
-Recognised as an exemplar of Prosperity by the Synod.
+Recognised as an exemplar of [[Prosperity]] by the Synod.
 ### Margaret of Meade
 Recognised as an examplar of Ambition by the Synod.
 ### [[Permion]]
 Recognised as an exemplar of Courage by the Synod.
 ### [[The Little Mother]]
-Recognised as an exemplar of Prosperity by the Synod.
+Recognised as an exemplar of [[Prosperity]] by the Synod.
 ### [[Zemress]]
-Recognised as an exemplar of Prosperity by the Synod.
+Recognised as an exemplar of [[Prosperity]] by the Synod.
 Synod Further Reading

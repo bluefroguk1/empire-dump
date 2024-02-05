@@ -14,4 +14,4 @@ Runesmiths often inscribe the [[Rune|rune]] [[Verys]], Rune of Might, on a [[Shi
 ## Rules
 One-Handed Weapons
 * Effect: You may spend a hero point to call [[Shatter|SHATTER]] with this weapon when you strike a shield.
-* [[Materials]]: Crafting a Shieldbreaker requires eight ingots of [[Orichalcum|orichalcum]], eleven ingots of [[Tempest jade|tempest jade]], seven ingots of [[Green iron|green iron]], three measures of [[Ambergelt|ambergelt]], and seven measures of beggar's lye. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Shieldbreaker]] requires eight ingots of [[Orichalcum|orichalcum]], eleven ingots of [[Tempest jade|tempest jade]], seven ingots of [[Green iron|green iron]], three measures of [[Ambergelt|ambergelt]], and seven measures of beggar's lye. It takes one month to make one of these items.

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Feast for Crows
 aliases: ['Feast_for_Crows']

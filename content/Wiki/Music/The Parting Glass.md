@@ -42,5 +42,5 @@ There is a fair maid in this town,
 That sorely has my heart beguiled.
 Her rosy cheeks and ruby lips,
 I own she has my heart in thrall,
-Then fill to me the parting glass,
+Then fill to me [[The Parting Glass|the parting glass]],
 Good night and joy be with you all.

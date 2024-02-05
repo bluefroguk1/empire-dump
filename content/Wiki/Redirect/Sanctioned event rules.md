@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Sanctioned event rules
 aliases: ['Sanctioned_event_rules']

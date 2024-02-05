@@ -13,9 +13,9 @@ A wake song, can be [[Sung|sung]] straight or as a round.
 Here’s to [[Varushka]], mighty bold [[Varushka]]
 Iron of [[The Empire|the Empire]] from your birth
 Iron of [[The Empire|the Empire]] from your birth
-Here’s to Varushka, bitter cold Varushka
+Here’s to [[Varushka]], bitter cold [[Varushka]]
 Give our fallen cousins to the earth
 Give our fallen cousins to the earth
-Here’s to Varushka, steadfast old Varushka
+Here’s to [[Varushka]], steadfast old Varushka
 Virtue see your soul to swift rebirth
 Virtue see your soul to swift rebirth

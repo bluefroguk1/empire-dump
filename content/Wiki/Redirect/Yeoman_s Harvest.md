@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Yeoman_s Harvest
 aliases: ["Yeoman's_Harvest"]

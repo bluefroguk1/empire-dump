@@ -21,10 +21,10 @@ Now's when [[The Empire|the empire]] meets its doom
 Sometimes the foe begs for mercy
 But I do not know what that means
 Flee leave your comrades behind you
-Our lullabies will be their screams
+Our lullabies [[Will|will]] be their screams
 You can run....
 So the next time that you cross that bridge
 Know that you better be afraid
 Your suffering's what we delight in 
-But soon we will put you in your grave
+But soon we [[Will|will]] put you in your grave
 You can run....

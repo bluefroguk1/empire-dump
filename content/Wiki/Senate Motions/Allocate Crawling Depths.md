@@ -18,4 +18,4 @@ That the [[Mithril]] [[Mine|mine]] ‘The [[Crawling Depths]]’ in [[Ossium]] b
 ## Outcome
 * The Crawling Depths [[Will|will]] be an Imperial position, and any Imperial citizen is eligible to hold the associated title.
 ## Constitution
-It is [[Worth|worth]] noting that once [[Ossium]] is conquered and assigned to an Imperial nation, the Crawling Depths [[Will|will]] remain an Imperial position; there will be no further [[Opportunity|opportunity]] to allocate it.
+It is [[Worth|worth]] noting that once [[Ossium]] is conquered and assigned to an Imperial nation, the Crawling Depths [[Will|will]] remain an Imperial position; there [[Will|will]] be no further [[Opportunity|opportunity]] to allocate it.

@@ -15,5 +15,5 @@ Some magicians who use these masks talk of dreaming of soaring high above the gr
 These talismans are often crafted as an owl mask or piece of jewellery depicting a bird of prey with bright penetrating eyes made of polished gemstone. Many such items incorporate [[Ophis]], the [[Rune]] of Revelation.
 ## Rules
 Foci
-* Effect: Gain 2 ranks for the [[Eyes of the Sun and Moon]] and [[The Eye of the High Places]] rituals, subject to the normal rules for effective skill.
+* Effect: Gain 2 ranks for the [[Eyes of the Sun and Moon]] and [[The Eye of the High Places]] [[Rituals|rituals]], subject to the normal rules for effective skill.
 * [[Materials]]: Crafting a [[Strigine Mask]] requires seven ingots of [[Orichalcum|orichalcum]], ten ingots of [[Weltsilver|weltsilver]], three measures of [[Dragonbone|dragonbone]] and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

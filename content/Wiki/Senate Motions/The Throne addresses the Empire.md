@@ -11,7 +11,7 @@ revision_id: 74650
 [[The Throne]] announces, through her power of Voice of [[The Empire|the Empire]], that she shall address the citizens of [[The Empire|the Empire]] following the [[Spring|spring]] solstice summit of 381YE.
 Announced by [[Empress Lisabetta]]
 ### Overview
-* [[The Throne]] has announced their intent to use their power to Address the Empire
+* [[The Throne]] has announced their intent to use their power to Address [[The Empire|the Empire]]
 ### Date
 * Spring 381YE
 ### Progress

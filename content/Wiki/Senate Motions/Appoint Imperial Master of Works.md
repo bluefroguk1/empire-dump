@@ -14,7 +14,7 @@ Approve Richard Tunstall of [[The Marches|the Marches]] as the [[Imperial Master
 ### Date
 * [[Winter]] 377YE
 ### Constitution
-The Imperial Master of Works is normally appointed during the [[Autumn]] Equinox, but the position was vacant. It [[Will|will]] be appointed again at the Autumn Equinox 377YE.
+The [[Imperial Master of Works]] is normally appointed during the [[Autumn]] Equinox, but the position was vacant. It [[Will|will]] be appointed again at the Autumn Equinox 377YE.
 ### Voting
 {| class="wikitable"
 |-

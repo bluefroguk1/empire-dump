@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Amity and emnity
 aliases: ['Amity_and_emnity']

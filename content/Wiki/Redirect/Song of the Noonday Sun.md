@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Song of the Noonday Sun
 aliases: ['Song_of_the_Noonday_Sun']

@@ -20,7 +20,7 @@ He shakes his head, they've had this argument before many times "We can use the 
 
 "This should not be. If we join the Trods, and awaken all eight, then it can be killed. It won't be easy, but we can destroy it!"
 
-"With what armies?" Thorn questions "There are none left. either killed by the Orcs or by whatever was created by the Great Ritual"
+"With what armies?" [[Thorn]] questions "There are none left. either killed by the Orcs or by whatever was created by the Great Ritual"
 
 "There [[Will|will]] be armies, we just have to give our people faith, a purpose to unite behind, to rebuild a new Empire that is strong enough to [[Fight|fight]]"
 
@@ -28,6 +28,6 @@ He looks down at her words, slowly painting intricate designs on a stone egg.
 
 "I hope this works, how many times must we have this conversation?"
 
-"Not many more," she assures him "Terunael will never be rebuilt, but one [[Day|day]] there will be an Empire, governed by [[Wisdom]] not by Greed."
+"Not many more," she assures him "Terunael [[Will|will]] never be rebuilt, but one [[Day|day]] there [[Will|will]] be an Empire, governed by [[Wisdom]] not by Greed."
 
 He places the stone egg into a small pouch and everything goes black.

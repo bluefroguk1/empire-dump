@@ -22,6 +22,6 @@ To get permission to [[Rebuild the Towers of Anduz|rebuild the Towers of Anduz]]
 ## Progress
 * 50 wains of [[White granite|white granite]] provided by Avisena i Ezmara i [[Guerra]] after [[Spring]] Equinox 379YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* The Towers of Anduz are a [[Great work]] in the [[Territory|territory]] of Segura that helps protect merchant caravans travelling through the Lasambrian Hills.
-* Any [[Business]] in Segura operated by a [[Freeborn]] citizen [[Will|will]] gain a share of additional money due to improved trade with the [[Faraden]] and the [[Iron Confederacy]]).
+* The Towers of Anduz are a [[Great work]] in the [[Territory|territory]] of [[Segura]] that helps protect merchant caravans travelling through the Lasambrian Hills.
+* Any [[Business]] in [[Segura]] operated by a [[Freeborn]] citizen [[Will|will]] gain a share of additional money due to improved trade with the [[Faraden]] and the [[Iron Confederacy]]).
 __NOTOC__

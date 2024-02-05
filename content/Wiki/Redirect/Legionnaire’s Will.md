@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Legionnaire’s Will
 aliases: ['Legionnaire’s_Will']

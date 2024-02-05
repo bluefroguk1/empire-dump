@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Runesmith_s Law
 aliases: ["Runesmith's_Law"]

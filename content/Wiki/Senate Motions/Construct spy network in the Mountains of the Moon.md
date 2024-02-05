@@ -27,10 +27,10 @@ Proposed by [[Casinea]], seconded by [[Redoubt]]. Passed.
 * Due to the [[Grendel]] and [[Druj]] occupation of [[Zenith]] and [[Spiral]] no progress was made on this [[Commission]] after the Winter Solstice 381YE.
 * With the conquest of Ossuary in [[Spiral]], [[The Empire|the Empire]] now has access to the target territory again and if nothing changes work [[Will|will]] be completed shortly before the [[Summer]] Solstice.
 ### [[Campaign outcome|Campaign Outcome]]
-* A spy network [[Will|will]] be constructed in the territory known as the [[Mountains of the Moon]].
+* A [[Spy network|spy network]] [[Will|will]] be constructed in the territory known as the [[Mountains of the Moon]].
 * Work cannot begin on this [[Commission|commission]] until [[The Empire|the Empire]] controls a region adjacent to the territory. These regions include Lustri, Occursion, Ossuary, or Apstrus.
-* The spy network was completed shortly before the beginning of the Summer Solstice 382YE.
-* Following Summer 382YE, a significant force of scouts supported the spy network, and uncovered extensive details of the Mountains of the Moon and some information about the [[Tsark]] folk who live there.
+* The [[Spy network|spy network]] was completed shortly before the beginning of the Summer Solstice 382YE.
+* Following Summer 382YE, a significant force of scouts supported the [[Spy network|spy network]], and uncovered extensive details of the [[Mountains of the Moon]] and some information about the [[Tsark]] folk who live there.
 ## Constitution
-* The Mountains of the Moon are an independent territory - they are not part of [[Axos]].
-* There may be problems with this construction given the Empire currently has no regions or indeed territories bordering the Mountains of the Moon.
+* The [[Mountains of the Moon]] are an independent territory - they are not part of [[Axos]].
+* There may be problems with this construction given [[The Empire|the Empire]] currently has no regions or indeed territories bordering the [[Mountains of the Moon]].

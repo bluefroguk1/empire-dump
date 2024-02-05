@@ -16,4 +16,4 @@ When combined with a [[Woundbinder]] wand, the two items together are sometimes 
 ## Rules
 [[Mage]] Robes
 * Effect: Twice per [[Day|day]] when you cast, or swift cast, the [[Heal]] spell you may do so without spending any mana. You must be able to cast the [[Heal|heal]] spell to use this power.
-* [[Materials]]: Crafting a [[Trollsweave Vest]] requires eight ingots of weltsilver, seven measures of ambergelt, and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Trollsweave Vest]] requires eight ingots of weltsilver, seven measures of [[Ambergelt|ambergelt]], and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

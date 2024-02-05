@@ -24,4 +24,4 @@ __NOTOC__
 ### Progress
 * 10 [[Mithril|mithril]] and 2 thrones provided by Slias Merrick after [[Spring]] Solstice 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, once completed, [[Will|will]] create the Marcher national position of [[Keeper of the Golden Fields]]
+* This [[Sinecure|sinecure]], once completed, [[Will|will]] create the Marcher national position of [[Keeper of the Golden Fields]]

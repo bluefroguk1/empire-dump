@@ -14,8 +14,8 @@ An [[Insight|insight]] into their initial intent to [[Fight|fight]] back against
 gained by performing the ritual [[Skein of Years]] on a stone egg that was crafted
 by [[Thorn]] himself, an item known by many as '[[Thorn's Legacy]]'.
 
-> [!Vision from Thorn's Legacy]
-> "The woman, Navarr, speaks. "Thorn, We need to join the cities again. All
+> [!Vision from [[Thorn]]'s Legacy]
+> "The woman, [[Navarr]], speaks. "[[Thorn]], We need to join the cities again. All
 > eight must be joined."
 > 
 > "Think upon it for a moment." The man replies gently. "Are you aware of the
@@ -28,7 +28,7 @@ by [[Thorn]] himself, an item known by many as '[[Thorn's Legacy]]'.
 > cities is not the answer. The Orcs have run for their lives, our people are safe,
 > but at what [[Cost|cost]]. We must deal with what we created"
 > 
-> "Navarr, it is not your Empire.' Thorn warns "They would not listen to
+> "[[Navarr]], it is not your Empire.' [[Thorn]] warns "They would not listen to
 > someone of your station. You are not to blame"
 > 
 > "I am not to blame, but I am responsible" she replies.
@@ -43,19 +43,19 @@ by [[Thorn]] himself, an item known by many as '[[Thorn's Legacy]]'.
 > "With what armies?" Thorn questions "There are none left. either killed by the
 > Orcs or by whatever was created by the Great Ritual"
 > 
-> "There will be armies, we just have to give our people faith, a purpose to unite behind, to rebuild a new Empire that is strong enough to [[Fight|fight]]"
+> "There [[Will|will]] be armies, we just have to give our people faith, a purpose to unite behind, to rebuild a new Empire that is strong enough to [[Fight|fight]]"
 > He looks down as he paints intricate designs on the stone egg. "I hope this works, how many times must we have this conversation"
 > 
-> "Not many more," 'she puts her hand on his arm. "Terunael will never be rebuilt, but
-> one [[Day|day]] there will be an Empire, governed by [[Wisdom]] not by Greed."
+> "Not many more," 'she puts her hand on his arm. "Terunael [[Will|will]] never be rebuilt, but
+> one [[Day|day]] there [[Will|will]] be an Empire, governed by [[Wisdom]] not by Greed."
 > 
 > **Vision from Thorn's [[Legacy]], first witnessed by Siân and Bledri [[Eternal]],**
 > **Spring 380YE**
 
 It is with this plan to connect [[The Vallorn|the Vallorn]] hearts with the [[Trod|trod]] network that
-Navarr and Thorn moved forward. Many records state that Navarr was young
+[[Navarr]] and Thorn moved forward. Many records state that Navarr was young
 when she began this undertaking, perhaps in her teens and no more than just
-past her twentieth year. Despite her years she spoke with great wisdom and
+past her twentieth year. Despite her years she spoke with great [[Wisdom|wisdom]] and
 [[Conviction|conviction]] wherever she went and quickly drew others to her cause. Alongside
 Thorn she had other close companions and trusted advisors.
 
@@ -79,11 +79,11 @@ will belong, where their partners will be right for them.
 It was at [[Sanctuary]] Falls (now Rhonwen's Fall) in what we know as [[Miaren]]
 today that her words became action and a nation was born. It was there that the
 [[Trod|trod]] network as we know it today was formed and the first oaths to walk the
-trods and bring the fight to the [[Vallorn]] were sworn. It was Thorn who swore
+trods and bring the [[Fight|fight]] to the [[Vallorn]] were sworn. It was Thorn who swore
 the oath first and it was his words that named 'the Binding of Thorns' the words
 all Navarri speak to join their nation.
 
-Many stories romanticise the birth of the trod network, describing it as one
+Many stories romanticise the birth of the [[Trod|trod]] network, describing it as one
 great act that [[Cost|cost]] Navarr and Thorn their lives. However more factual accounts
 dispute this. The ritual itself was never going to be enough, the trods needed to
 be walked, people to travel those paths needed to be secured in order to make
@@ -111,7 +111,7 @@ Great Journey, a great undertaking that Navarr and her disciples embarked
 upon that likely took a lifetime (perhaps it is this that has lead to the tales of
 'the trods costing their lives')
 
-> "It is possible to map the creation of the Trod network and from the records
+> "It is possible to map the creation of the [[Trod]] network and from the records
 > approximate the age of Navarr and therefore judge how long was spent in each
 > place. We also know how which Trods have been created since the formation
 > of [[The Empire|the Empire]], although there seems to be something about losing the land to
@@ -135,7 +135,7 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > Barrens and forming the fortified [[Steading|steading]] of Carnstead there. Although there are several reports of the [[Battles|battles]] that took place in [[The Barrens|the Barrens]], it is thought that Navarr did not go straight to [[Therunin]] and instead formed Trods through [[Reikos]] to hold [[Therunin]].
 > 
 > From the writings that remain, it implies that Navarr was around the
-> forty when she reached Therunin. It is interesting to note that if she age of
+> forty when she reached [[Therunin]]. It is interesting to note that if she age of
 > indeed sixteen at the fall of Terunnael, then this journey took her twenty four was
 > years. I believe this was the harsh reality of what many people have
 > romanticised. It was a life time's work that involved collecting refugees from
@@ -144,7 +144,7 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > that the forests would form fortresses to stop the Orc's advances or the trees
 > would attack the Orc armies before Navarr would more into a region.
 > From reading sources from other nations from around this time, there are
-> many who believed that Navarr knew the secrets of the Vallorn and had the
+> many who believed that Navarr knew the secrets of [[The Vallorn|the Vallorn]] and had the
 > ability to control the [[Forest|forest]] to do her bidding. Although this is possible, it is
 > not probable. It is more likely that she had several Spring covens who she
 > had taught and they used Spring [[Rituals|rituals]] to create forests or to control the trees.
@@ -152,16 +152,16 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > These [[Rituals|rituals]] are unfortunately lost and do not seem to be in [[Imperial lore|Imperial Lore]],
 > but there are many who are cautious about using [[Spring magic]] for anything
 > other than its restorative properties that could possibly bring about the
-> creation of a second Vallorn. My personal view is that this is driven by fear
+> creation of a second [[Vallorn]]. My personal view is that this is driven by fear
 > rather than understanding, but I can empathise why people may believe this.
-> It is thought that Navarr and Thorn then returned to Miaren, through [[Reikos]] and [[Casinea]] making sure that fortified wayhouses were placed upon [[The Way|the way]]. One of the stories tells that Navarr and Thorn took an old friend back to Miaren, to live their final days near their home. This tale implies credence to two facts, the first is that Navarr was younger than many of her companions, and the second was that she was not from Seren and from somewhere further north, since the stories tell of her wishing that she could one day return home.
+> It is thought that Navarr and Thorn then returned to [[Miaren]], through [[Reikos]] and [[Casinea]] making sure that fortified wayhouses were placed upon [[The Way|the way]]. One of the stories tells that Navarr and Thorn took an old friend back to [[Miaren]], to live their final days near their home. This tale implies credence to two facts, the first is that Navarr was younger than many of her companions, and the second was that she was not from Seren and from somewhere further north, since the stories tell of her wishing that she could one day return home.
 > 
 > The next part of the Journey seems to be quicker, although as Navarr was
 > gaining in strength it is likely that more force and more covens were joining to
 > her [[Banner|banner]]. Trods were created through [[Upwold]], [[Mitwold]], [[Mournwold]] and
 > [[Bregasland]]. These Trods were the first to fall into disrepair after the offensive
 > of the [[Jotun]], destroyed many of the [[Steadings|steadings]] in these lands and forced the
-> Navarr to forests of [[Liathaven]] or Miaren.
+> Navarr to forests of [[Liathaven]] or [[Miaren]].
 > 
 > It is important to note, that Military victory was difficult outside forested
 > areas. It was the creation of large amounts of fortresses using the power of
@@ -169,7 +169,7 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > the Orcs aggression and where the trods were created after this then there was
 > less protection.
 > 
-> Some stories tell of a large citadel being formed in Reikos to stop Orc
+> Some stories tell of a large citadel being formed in [[Reikos]] to stop Orc
 > aggression, but there is no other mention of this [[Magic|magic]] and it is unlikely that
 > this was due to the intervention of a powerful Summer [[Mage|mage]] and an [[Eternal]],
 > maybe King [[Adamant]] or [[Cathan Canae]]. There are no mentions of any such
@@ -177,16 +177,16 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > likely reason why those lands were lost.
 > 
 > It is likely that Navarr was in her late forties or maybe early fifties by the time
-> she reached Liathaven. There are many stories of her time here, and especially
+> she reached [[Liathaven]]. There are many stories of her time here, and especially
 > around the earth trails of Liaven's Dance. What is interesting is there are no
 > stories of here travels past this point, although we can speculate that she may
 > have tried to travel northwards to [[Hercynia]] and onwards to Emrys, there are
 > no stories that she ever reached them.
 > 
-> It was at the creation of the Empire that the great creation of the Trod network
-> started, to all the reaches of the Empire. It is important to note that although
+> It was at the creation of [[The Empire|the Empire]] that the great creation of the [[Trod]] network
+> started, to all the reaches of [[The Empire|the Empire]]. It is important to note that although
 > Navarr is credited with the creation of the Trod network, this does not mean
-> that she cast ever ritual. There are several rituals that were cast well after her
+> that she cast ever ritual. There are several [[Rituals|rituals]] that were cast well after her
 > death and I hope that if our Empire expands to take new territories then we
 > shall see it cast in those as well."
 > 
@@ -194,4 +194,4 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 
 The final fates of Navarr and Thorn are currently unknown, [[What we do|what we do]] know
 is that their [[Legacy|legacy]] lives on today in the people of Navarr, in the extension
-the end trod network the vile and the plans to join all the Vallorn hearts and finally bring of an to cancer at the heart of our Empire.
+the end trod network the vile and the plans to join all [[The Vallorn|the Vallorn]] hearts and finally bring of an to cancer at the heart of our Empire.

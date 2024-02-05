@@ -14,9 +14,9 @@ The Custodian is responsible for checking the weights and measures used by the T
 Early attempts were made to keep this position solely in the control of the citizens of [[Temeschwar]], but merchants in the other League cities asserted that the decisions made by the Custodian directly impacted their businesses, and the election was left as pan-League.
 During the [[Summer]] of 385YE, the completion of the Iron Roads saw an influx of Varushkan metals passing through Delev Market in [[Karov]], providing additional [[Opportunities|opportunities]] to purchase goods.
 ## Responsibilities
-The Custodian is expected to ensure that the weights and measures used by the assayers of [[Temeschwar]] - and by extension, the rest of [[The League|the League]] - are maintained and untampered with. The close contact with miners, smelters and assayers all over [[The League|the League]] allows ample [[Opportunity|opportunity]] for the Custodian to acquire supplies of rare metals at bargain prices, and it is expected they [[Will|will]] make those metals available to their cousins in the League - at an appropriate profit, of course.
+The Custodian is expected to ensure that the weights and measures used by the assayers of [[Temeschwar]] - and by extension, the rest of [[The League|the League]] - are maintained and untampered with. The close contact with miners, smelters and assayers all over [[The League|the League]] allows ample [[Opportunity|opportunity]] for the Custodian to acquire supplies of rare metals at bargain prices, and it is expected they [[Will|will]] make those metals available to their cousins in [[The League|the League]] - at an appropriate profit, of course.
 ## Powers
-Assayers of Temeschwar
+Assayers of [[Temeschwar]]
 12 crowns8 ingots of [[Green iron|green Iron]] , 4 ingots of [[Orichalcum|orichalcum]], 4 ingots of [[Weltsilver|weltsilver]]
 30 crowns16 ingots of green iron, 8 ingots of orichalcum, 4 ingots of weltsilver
 64 crowns32 ingots of green iron, 16 ingots of orichalcum, 4 ingots of weltsilver
@@ -30,7 +30,7 @@ The Delev Market stream represents the ability to buy additional metal from Varu
 ### The DeCourcey Deal
 In [[Spring]] 380YE, the Ducal House de Courcey of the [[Iron Confederacy]] agreed a trade deal that greatly bolstered the position's access to rare metals. As long as the trade deal remains in place, the position offers an additional four ingots of green iron and an additional two ingots of orichalcum, in the manner of a [[Sinecure]]. The benefit remains as long as the trade deal continues to be honoured; either House de Courcey or the Custodian may choose to end it at any time. Obviously, if [[War|war]] were to break out between [[The Empire|the Empire]] and the [[Iron Confederacy]], the trade deal would immediately be terminated.
 ## [[Appointment]]
-This title is appointed during the Spring Equinox. The Custodian of the Assayer's Guild is chosen by citizens of the League who control [[Business]] personal resources. The larger the business an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the [[Bourse]]. 
+This title is appointed during the Spring Equinox. The Custodian of the Assayer's [[Guild]] is chosen by citizens of [[The League|the League]] who control [[Business]] personal resources. The larger the business an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in the [[Bourse]]. 
 Only a League character may hold this title. They do not receive a seat on the Bourse. As a title in the Bourse, they cannot be revoked by the [[Imperial Synod]].
 Responsibilities Expectation
 RecentElections|Custodian_of_the_Assayer%27s_Guild

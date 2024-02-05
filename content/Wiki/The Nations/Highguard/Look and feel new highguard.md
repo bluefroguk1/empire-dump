@@ -16,12 +16,12 @@ Rather than displaying impractical frivolity in the cut of their garments, Highb
 Regal, confident, righteous, stark, traditional, disciplined, militant, uncompromising
 ## [[Costume]] Fundamentals
 Hood, Veil, or Cowl: The iconic item of Highborn kit is a head covering. [[Highguard]] veils are worn on the top of the head, held in place with a circlet or head band. They can be flipped forward to cover the face, or back to reveal it. Cowls and hoods are very wide and draped, sitting on the shoulders, and pulled over the head when necessary. 
-Surcoat or Tabard: A common item of highborn [[Costume|costume]] is a flowing surcoat or tabard in black or white with the chapter's symbol prominently displayed. Underneath, highborn [[Will|will]] wear tunics, shirts or dresses in chapter colours or plain [[Black and white|black and white]]. 
+Surcoat or Tabard: A common item of highborn [[Costume|costume]] is a flowing surcoat or tabard in black or white with the [[Chapter|chapter]]'s symbol prominently displayed. Underneath, highborn [[Will|will]] wear tunics, shirts or dresses in [[Chapter|chapter]] colours or plain [[Black and white|black and white]]. 
 Stole: Stoles are used by many highborn who have a religious vocation. 
-Coats or Cloak: Elegant close-fitting coats are often worn by highborn. A plain cloak in chapter colours is an a practical item to protect its wearer from the weather. 
+Coats or Cloak: Elegant close-fitting coats are often worn by highborn. A plain cloak in [[Chapter|chapter]] colours is an a practical item to protect its wearer from the weather. 
 Jewellery: Jewellery is refined, often simple, and elegant. Circlets and crowns are the most popular elements of Jewellery. 
 ### Fabrics and Colour Palette
-The colours of highborn clothing are highly contrasting; black and white, with touches of their chapter's colour, which is often a strong jewel tone. 
+The colours of highborn clothing are highly contrasting; [[Black and white|black and white]], with touches of their chapter's colour, which is often a strong jewel tone. 
 Almost any fabric is appropriate, so long as it fits within the colour scheme. Textural interest can be useful when creating richer looking clothing within the colour scheme, and brocades, velvets and other textured fabric are really effective. 
 Geometric or labyrinthine trim is a popular decorative feature, and is widely used. 
 =[[War]]=
@@ -34,8 +34,8 @@ Heater and Kite shields are common, often bearing the chapter's symbol.
 ## [[Unconquered]]
 While the [[Unconquered|unconquered]] might dress like any other highborn while not at [[War|war]], their clothing on [[The Battlefield|the battlefield]] incorporates less high contrast, bringing in browns and greys. They tend to wear lighter armour, or forego armour altogether. They may still include contrasting trim or a chapter symbol. 
 =Priests= 
-Many priests wear robes in black or white as the base of their clothing. Stoles are very common, often bearing symbols of the priest's chapter and their [[Sect|sect]]. Their exact costume depends on their vocation. 
-Warfarers dress in typical highborn fashion, adding a braided sash or belt of black and white cloth to demonstrate their vocation.  
+Many priests wear robes in black or white as the base of their clothing. Stoles are very common, often bearing symbols of the priest's chapter and their [[Sect|sect]]. Their exact [[Costume|costume]] depends on their vocation. 
+Warfarers dress in typical highborn fashion, adding a braided sash or belt of [[Black and white|black and white]] cloth to demonstrate their vocation.  
 Priests who embrace an inquisitorial role often use the image of the Basilisk Awake – a lizard with terrible red eyes that legend says can strike the unworthy dead with is piercing gaze.
 The stewards generally dress in simple robes in the style of whichever chapter they belong to. They often carry a book to record the deeds of [[Heroes|heroes]], and may carry bells and wind-chimes, which they use to allow the breath of the dead to add their own contribution to the tales of their deeds.
 =Mages= 
@@ -49,8 +49,8 @@ Clothing for Highborn children is usually sombre, simple, and practical but good
 A chapter's camp aims to be distinctive; banners and prominently displayed shields are popular. There is usually a bowl and water provided for washing. 
 If the chapter's camp is large, it may be gathered around a central space or fire, and it is common for [[Chapters|chapters]] to eat communal meals if circumstances permit 
 =Similar Nations= 
-Dawnish costume utilises similar items of clothing, and rich fabrics. However, Dawnish use of bright colours create a difference between [[The Nations|the nations]]. 
-Marcher monks will also wear plain robes, but they are very unlikely to use high contrast or geometric trim. 
-Unconquered costume is designed to blend into the surroundings and may use similar styles and colours to the [[Navarr]], but unconquered do not use prominent tattoos or warpaint.
+Dawnish [[Costume|costume]] utilises similar items of clothing, and rich fabrics. However, Dawnish use of bright colours create a difference between [[The Nations|the nations]]. 
+Marcher monks [[Will|will]] also wear plain robes, but they are very unlikely to use high contrast or geometric trim. 
+[[Unconquered]] [[Costume|costume]] is designed to blend into the surroundings and may use similar styles and colours to the [[Navarr]], but [[Unconquered|unconquered]] do not use prominent tattoos or warpaint.
 =What to Avoid= 
 *Christian symbols- while Templars and Crusader knights are inspiration for the [[Highguard]] look, Christian symbols are inappropriate in Empire.

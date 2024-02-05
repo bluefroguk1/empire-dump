@@ -6,13 +6,13 @@
 
 **Gambit of the Wulfhunter**
 
-The Gambit of the Wulfhunter belonged to the [[Warden|warden]], Mischa Koschinov Sennariv. In 112YE, according to the stories, Mischa spent a significant period hunting a certain powerful elder [[Plaguewulf|plaguewulf]] that had been attacking vales across Dupadealuri and Srodkoja. The stories claim that in addition to the [[Plaguewulf|plaguewulf]] itself possessing pestilential breath, the husks it created spread that same pestilence in some fashion leading to veritable plague of shambling horrors in southern [[Miekarova]]. The [[Warden|warden]] hounded the creature relentlessly until it had led them back to its hidden lair. Upon arriving at the creature's den Mischa spent several hours killing each husk that came at them, ensuring that when the time came the plaguewulf would have no reinforcements to call upon.
+The Gambit of the Wulfhunter belonged to the [[Warden|warden]], Mischa Koschinov Sennariv. In 112YE, according to the stories, Mischa spent a significant period hunting a certain powerful elder [[Plaguewulf|plaguewulf]] that had been attacking vales across Dupadealuri and Srodkoja. The stories claim that in addition to the [[Plaguewulf|plaguewulf]] itself possessing pestilential breath, the husks it created spread that same pestilence in some fashion leading to veritable plague of shambling horrors in southern [[Miekarova]]. The [[Warden|warden]] hounded the creature relentlessly until it had led them back to its hidden lair. Upon arriving at the creature's den Mischa spent several hours killing each husk that came at them, ensuring that when the time came the [[Plaguewulf|plaguewulf]] would have no reinforcements to call upon.
 
-This done Mischa then invited their quarry out into the open. Trapped with nowhere else to go, the beast emerged. The tale ends with the plaguewulf breathing out its pestilent breath on the warden who, with a smirk, drank a simple healing [[Potion|potion]] - of which the warden had several at their belt - and charged the monster.
+This done Mischa then invited their quarry out into the open. Trapped with nowhere else to go, the beast emerged. The tale ends with the [[Plaguewulf|plaguewulf]] breathing out its pestilent breath on the [[Warden|warden]] who, with a smirk, drank a simple healing [[Potion|potion]] - of which the [[Warden|warden]] had several at their belt - and charged the monster.
 
 Mischa was victorious, and ascribed their success to the possession of a powerful treasure recovered from a barrow somewhere in northern Krevsaty.
 
-The stone was apparently passed down from warden to warden, but its current whereabouts are unknown.
+The stone was apparently passed down from [[Warden|warden]] to warden, but its current whereabouts are unknown.
 
 
 **Halssnoer des Omstrengelend Vergif**
@@ -33,11 +33,11 @@ Through her use of the talisman she was able to get deep into the miasma, behind
 
 The Swan's Chalice belonged to an [[Urizen]] [[Sentinel]], Niketlas of the [[Spire]] of the Green Shallows, who served briefly in the [[Citadel Guard]] during the reign of [[Emperor Hugh]]. Nikettas fought against the [[Druj]] for almost his entire adult life. The Swan's Chalice was apparently a gift from the [[Eternal|eternal]] [[Ylenrith]], allegedly earned at least in part by Nikettas' involvement in the rescue of the [[Archmage of Day]], Gemma [[Steward]]. Nikettas fell in battle in [[Holberg]] in 365YE and the talisman was never recovered. According to reasonably reliable reports, the amulet was "renewed" in some fashion each [[Spring]] by a herald of Ylenrith who sought out Nikettas at [[Anvil]]. It is not clear if the herald is still renewing the talisman, wherever it may have ended up.
 
-**Abraxus, the mad "prophet"**
+**[[Abraxus]], the mad "prophet"**
 
-The research explored a potential connection between the magical jewellery and the "prophet" Abraxus Whitespire, but came to the conclusion that the controversial [[Merrow|merrow]] almost certainly took the name Abraxus from the talisman - valuable as it would prove to be to those experimenting with potentially poisonous combinations of [[Herbs|herbs]] and philtres - rather than having any profound connection to the Terunael artisans with whom the stone originated. Luca theorises that the records of a Xavier Whitespire who submitted multiple statements of principle which are in keeping with the future teachings of Abraxus may actually prove to be the original Abraxus. There are no records of judgements from Xavier later than 45YE, and the first known publication of Abraxus was the infamous On the Teleology of Pure [[Liao]] in 47YE.
+The research explored a potential connection between the magical jewellery and the "prophet" [[Abraxus]] Whitespire, but came to the conclusion that the controversial [[Merrow|merrow]] almost certainly took the name [[Abraxus]] from the talisman - valuable as it would prove to be to those experimenting with potentially poisonous combinations of [[Herbs|herbs]] and philtres - rather than having any profound connection to the Terunael artisans with whom the stone originated. Luca theorises that the records of a Xavier Whitespire who submitted multiple statements of principle which are in keeping with the future teachings of Abraxus may actually prove to be the original Abraxus. There are no records of judgements from Xavier later than 45YE, and the first known publication of Abraxus was the infamous On the Teleology of Pure [[Liao]] in 47YE.
 
-**Excerpts from Luca von Holberg's initial letter detailing his research:**
+**Excerpts from Luca von [[Holberg]]'s initial letter detailing his research:**
 
 "First let me say thank you for the [[Opportunity|opportunity]] to study one of, in my opinion, the most interesting items that artisans are able to produce. The common use of [[Cavul]] and its obvious [[History|history]] with the peoples of [[Navarr]] and [[Highguard]] paint a fascinating picture of pre-Imperial life.
 
@@ -51,9 +51,9 @@ Obviously, with the fall of Terunael, these objects once associated with visitin
 
 "Ylenrith and [[Cavul]].
 
-The theoretical link between the Abraxus Stone, the eternal Ylenrith and the [[Rune|rune]] Cavul is an interesting one. The runbe is often used as a mark on the talisman seeing most use, as you would expect, in [[Wintermark]].
+The theoretical link between the [[Abraxus Stone]], the [[Eternal|eternal]] Ylenrith and the [[Rune|rune]] [[Cavul]] is an interesting one. The runbe is often used as a mark on the talisman seeing most use, as you would expect, in [[Wintermark]].
 
-Cavul being so closely linked to the Swan it, of course, makes perfect sense for people to link the three together. T have in the past observed magicians, who practice the goetic tradition, calling on Ylenrith's link to the Stone to [[Purify|purify]] [[Venom|venom]] within the target."
+[[Cavul]] being so closely linked to the Swan it, of course, makes perfect sense for people to link the three together. T have in the past observed magicians, who practice the goetic tradition, calling on Ylenrith's link to the Stone to [[Purify|purify]] [[Venom|venom]] within the target."
 
 Further Research
 
@@ -65,12 +65,12 @@ I expect that you [[Will|will]] have some thoughts on what direction to take fut
 
 I hope what I have been able to uncover is of some use to you, [[Advisor on the Vallorn]].I honestly think that, due to the nature in trying to protect ourselves, this might have been one of the first talismans to be 'developed', or at least seen widespread use"
 
-On Luca Fredlin von Holberg's advice the following Statement was passed through the Navarr [[National Assembly|national assembly]] at the Autumn Equinox summit of
+On Luca Fredlin von [[Holberg]]'s advice the following Statement was passed through the [[Navarr]] [[National Assembly|national assembly]] at the Autumn Equinox summit of
 
 383 YE:
 
 **[[Judgement]] 56**
 
-*After a [[Historical research|historical research]] request we the Navarr National [[Assembly]] as a matter of national [[Pride]] ask for citizens who have information regarding the Abraxus Stone known as "The Vate's Shelter". This was worn by a vate known as Roswen Doublestep and was lost during the reign of Brannan.*
+*After a [[Historical research|historical research]] request we the [[Navarr]] National [[Assembly]] as a matter of national [[Pride]] ask for citizens who have information regarding the [[Abraxus Stone]] known as "The Vate's Shelter". This was worn by a vate known as Roswen Doublestep and was lost during the reign of Brannan.*
 
 Raised by Ranulf Farkas and upheld with a Greater Majority (180 - 0)

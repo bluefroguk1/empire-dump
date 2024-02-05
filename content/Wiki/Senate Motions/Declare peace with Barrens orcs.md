@@ -14,8 +14,8 @@ To declare those three tribes of Orcs previously subserviant to the [[Druj]] now
 ### Date
 * [[Spring]] 379YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The [[Declaration|declaration]] means that the orcs of The Barrens are foreigners under [[Imperial Law]].
-* As of the end of Spring 379YE, there has been no official response from the orcs of the Barrens.
+* The [[Declaration|declaration]] means that the orcs of [[The Barrens]] are foreigners under [[Imperial Law]].
+* As of the end of Spring 379YE, there has been no official response from the orcs of [[The Barrens|the Barrens]].
 ### Constitution
-* While the orcs of the Barrens are recognised as foreigners, any invasion of their lands by Imperial troops would be a criminal offence.
+* While the orcs of [[The Barrens|the Barrens]] are recognised as foreigners, any invasion of their lands by Imperial troops would be a criminal offence.
 __NOTOC__

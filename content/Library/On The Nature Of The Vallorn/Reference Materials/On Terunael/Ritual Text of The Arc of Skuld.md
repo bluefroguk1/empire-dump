@@ -27,10 +27,10 @@ It is the star of ill omen
 Yet it is the star of [[Opportunity|opportunity]].
 The hunter shuns the [[Red star|red star]].
 It is inconstant; it is not to be followed.
-The [[Red star|red star]] will lead you to the abode of horrors.
-The red star will show you the path to doom.
-The red star rules over the place of wings.
-The red star fills the mammoths with rage.
+The [[Red star|red star]] [[Will|will]] lead you to the abode of horrors.
+The [[Red star|red star]] [[Will|will]] show you the path to doom.
+The [[Red star|red star]] rules over the place of wings.
+The [[Red star|red star]] fills the mammoths with rage.
 When the red star rises the rusalka sing.
 The warlock does not shun the red eye.
 The warlock does not embrace the red eye.
@@ -53,7 +53,7 @@ The Dragon Throne does not wither.
 It gains strength as it endures.
 It is the wall against the foe.
 It is the shield of tradition.
-It is the will to continue against the [[Night]].
+It is the [[Will|will]] to continue against the [[Night]].
 It is the fire that burns in [[The Mountain|the mountain]].
 It stands guard over the ways of the people.
 The Dragon Throne is the power that preserves.
@@ -67,7 +67,7 @@ The five Dragons rest enthroned.
 They are the soul of the people.
 They are the anchor of the past.
 They are the beacon of the future.
-They are the mountain and the sun.
+They are [[The Mountain|the mountain]] and the sun.
 They are like the stars.
 The five Dragons endure.
 
@@ -79,24 +79,24 @@ Let any who takes these words from their resting placebe torn apart by chains of
 ### The First Coming of the [[Vermin]] of the South
 In days long ago, the people lived on the plains north of the mountains. They lived the in the forests south of the mountains. Yet the old scrolls say that a human people came to the [[Forest|forest]] south of the mountains. They came from far beyond the lands of our people, lands known only to She of the Bright Orb.
 
-They spread through the forests. Sometimes these human people met with the true people. Sometimes the two peoples contended for land, or wealth, or slaves. Sometimes they traded for land, or wealth, or slaves. They had their own strange ways, and honoured human spirits, but they were careful, and clever, and wise enough not to raise the ire of the Five Who Sit Upon The Mountain Thrones.
+They spread through the forests. Sometimes these human people met with the true people. Sometimes the two peoples contended for land, or wealth, or slaves. Sometimes they traded for land, or wealth, or slaves. They had their own strange ways, and honoured human spirits, but they were careful, and clever, and wise enough not to raise the ire of the Five Who Sit Upon [[The Mountain]] Thrones.
 
 And as the seasons turned, so there as battle and peace between the true people, and the people of the [[Forest|forest]] who dwelt in the shadows beneath the trees.
 
-In time, however, new humans came, who we call the Vermin of the South.
+In time, however, new humans came, who we call the [[Vermin]] of the South.
 
-They were not like the people of the forest. They were not wise and clever, but cruel and hard. They came in great numbers. They contended with all people the people of the forest and the true people. They came in time even so far as the foot of the mountains. They made [[War|war]] upon our people who lived in the forests as they did upon the humans.
+They were not like the people of the [[Forest|forest]]. They were not wise and clever, but cruel and hard. They came in great numbers. They contended with all people the people of the [[Forest|forest]] and the true people. They came in time even so far as the foot of the mountains. They made [[War|war]] upon our people who lived in the forests as they did upon the humans.
 
 In time, they came through the passes that lie to the east of the Traveler.
 
-They came at first single-spy. Then in greater numbers. In time an army of the vermin of the south came from across the mountains. Their warlocks brought strange [[Magic|magic]]. Their warriors brought spears and shields of surpassing strength. They brought bloodshed and [[War|war]].
+They came at first single-spy. Then in greater numbers. In time an army of the [[Vermin|vermin]] of the south came from across the mountains. Their warlocks brought strange [[Magic|magic]]. Their warriors brought spears and shields of surpassing strength. They brought bloodshed and [[War|war]].
 
-The people resisted them and for a time they were held back. But then the voice of the Five spoke from the mountain. The Five spoke and said "We shall wait, We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their [[Weakness|weakness]]. We will allow the Winter itself to undo their design."
+The people resisted them and for a time they were held back. But then the voice of the Five spoke from [[The Mountain|the mountain]]. The Five spoke and said "We shall wait, We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their [[Weakness|weakness]]. We will allow the Winter itself to undo their design."
 
 The people did not question. They fell back before the advance of the intruders from the south. They came through Hahlerm - and pressed into Stathas and
 Kógur.
 
-The vermin of the south began to lay down their camps, Through the [[Spring|spring]] and the [[Summer|summer]]. Then [[Autumn|autumn]] came, and the leaves fell, and the wind begin to blow. Then the winter came, and the first snows, and the intruders died as the frost stole into their hearts and froze their blood, They fell upon one another, desperate for food, and in their foolishness they cracked [[The Door|the door]] to the Walker of the Wastes and he fell upon them when the winds howled harshest.
+The [[Vermin|vermin]] of the south began to lay down their camps, Through the [[Spring|spring]] and the [[Summer|summer]]. Then [[Autumn|autumn]] came, and the leaves fell, and the wind begin to blow. Then the winter came, and the first snows, and the intruders died as the frost stole into their hearts and froze their blood, They fell upon one another, desperate for food, and in their foolishness they cracked [[The Door|the door]] to the Walker of the Wastes and he fell upon them when the winds howled harshest.
 
 Then the first [[Day|day]] of Spring came, as it always did in these days. The armies of the people closed their warding arc and spilled the blood of the upon the thawing soil.
 
@@ -114,7 +114,7 @@ Yet as they turned their Will to this task, as every warlock worked to bind thei
 
 Trees still stood, the mammoths and the yaks still roamed the tundra. The people still lived although one sixth of them had fallen as the star fell. In time we would have rebuilt Sküld but we were not given our chance to do so, because the treachery of the vermin of the south.
 
-They took advantage of our momentary weakness, and surged forth to contest Sküld with us. They sent their hunters north to try and steal the bounty of the Crimson Tear, and their builders to Hahlerm, and Stashas, and Kógur to raise their [[Burning|burning]] sphere above the trees and make war upon us and even these many years later, our command of Sküld is incomplete.
+They took advantage of our momentary [[Weakness|weakness]], and surged forth to contest Sküld with us. They sent their hunters north to try and steal the bounty of the Crimson Tear, and their builders to Hahlerm, and Stashas, and Kógur to raise their [[Burning|burning]] sphere above the trees and make [[War|war]] upon us and even these many years later, our command of Sküld is incomplete.
 
 **The Second Coming of the People of the South**
 
@@ -124,7 +124,7 @@ They came cautiously; their hubris leavened with fear. They came again through H
 
 They threw up their own arc of spears and shields. They resisted the traps the people laid for them. And as Spring turned to Summer they began to build. A tower of enduring [[White granite|white granite]] and precious [[Mithril|mithril]], a symbol of their [[Challenge|challenge]] to the Dragons.
 
-And again the voice of the Five spoke. "We shall wait." they said. We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their weakness."
+And again the voice of the Five spoke. "We shall wait." they said. We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their [[Weakness|weakness]]."
 
 So the people fell back again, and laid another arc of spears, and waited and watched.
 
@@ -136,7 +136,7 @@ And then as the first sun of Winter rose in the east, the many lesser warlocks t
 
 The vermin of south did not stop with a tower. Over the next year they built more towers both to live-in and to watch. They built tall walls of [[White granite|white granite]].
 
-They built a road south through the pass into the lands of the people of the forest.
+They built a road south through the pass into the lands of the people of the [[Forest|forest]].
 
 They laid out farms and fields.
 
@@ -168,7 +168,7 @@ And as the first sun of Spring rose, they renewed the light of their [[Golden Su
 
 And the Five on their Thrones in the great mountain waited, and they watched.
 
-**The War of the Sun**
+**The [[War]] of the Sun**
 
 Generations passed. A handful of heartbeats for the Five who sit upon their Thrones. The invaders became complacent.
 
@@ -177,7 +177,7 @@ They sought to extend their control beyond the bounds of their city.
 They found the people waiting for them. They found the arc of spears that lay across Keyursal and Luhguren, pointed toward their hearts. Spear and shield and shield and spear clashed and broke and ebbed and flowed.
 
 For generations the Five had waited and watched and seen the
-weakness of the invaders. They saw their hubris. They saw that they judged the people to be weak. To be savages. They saw that the vermin of the south mistook the caution of the Five, and of their warlocks, for lack of strength.
+[[Weakness|weakness]] of the invaders. They saw their hubris. They saw that they judged the people to be weak. To be savages. They saw that the vermin of the south mistook the caution of the Five, and of their warlocks, for lack of strength.
 
 They saw their [[Pride|pride]] had grown to eclipse their [[Wisdom|wisdom]].
 
@@ -205,9 +205,9 @@ They fought, but they were driven back again and again.
 They stood upon their walls of white stone and looked out with terror upon the forest of our spears, and knew that they could not endure and that the punishment for their hubris was to be their absolute destruction.
 
 **The Sun Falls**
-In their hubris, in their knowledge that they were beaten, in their jealousy and spite, the people of the city of the golden sun raised up their [[Magic|magic]]. They could not harm the People, for the Five protected them. They could not strike against the Five, for the People protected them.
+In their hubris, in their knowledge that they were beaten, in their jealousy and spite, the people of the city of the [[Golden Sun|golden sun]] raised up their [[Magic|magic]]. They could not harm the People, for the Five protected them. They could not strike against the Five, for the People protected them.
 
-So they turned their magic on themselves.
+So they turned their [[Magic|magic]] on themselves.
 
 Rather than allow the People to claim their prize, they raised up their hands to Rafandimathur and Routhauger, They called upon the Red Eye saying "Protect us! Raise a wall around out city! Are we not mighty? Have we not raised a second sun and brought [[Eternal|eternal]] Spring to the lands of winter? Are we not more powerful than those who come against us, who have thrown a ring of spears around oue city? Tuen your eye upon us, oh walker in the sky, that we may show these orcs that our power is greater even tan that of their Dragons upon their mighty Thrones."
 
@@ -224,17 +224,17 @@ As the boiling water of the hot spring gathers and rises, sending a plume of fir
 
 And the Five upon their Thrones looked upon the [[Folly|folly]] of the invaders. They saw what they had unleashed in their hubris and their jealousy. They saw that it was a hunger that could never be sated, a hunger even greater than that of He Who Walks Behind The Wind. They saw it rising, and growing, and in time consuming all the world.
 
-The warlocks among the vermin of the south raised up their hands, and spilled their blood, and spoke their words of power but their magic was weak. At best they could slow the Greenhunger for a time, time enough for their cowardly flight south.
+The warlocks among the vermin of the south raised up their hands, and spilled their blood, and spoke their words of power but their [[Magic|magic]] was weak. At best they could slow the Greenhunger for a time, time enough for their cowardly flight south.
 
 Yet the Greenhunger followed at their heels, washing over Hahlerm and beginning to spread its hungry tendrils to Kógur also.
 
 And, as before, once their hold was broken, the invaders found the people of the forest waiting for those who fled, with ropes and spears. This time the people of the forest sought no passage-toll, and took any of the invaders who fell into their hands as slaves, or left them for the dark roots of the trees to feast upon. The vermin of the south had been arrogant, and their arrogance had offended the people of the forest just as it had offended the Five Who Sit Upon Their Mountain Thrones.
 
-Yet apart from the weak magic of the intruders, the land itself rebelled against the touch of the Greenhunger. With the second sun shattered, and its tower broken, the winds of five generations blew down from the north bringing with them unseasonal snow and ice. And the Will of Caridis Runebinder flew with those winds, and the Will of Tahenon the Gyre roused them an wove them into a spear, and Night-Dark Fraynir stole the warmth from the land with the shroud of his Will.
+Yet apart from the weak [[Magic|magic]] of the intruders, the land itself rebelled against the touch of the Greenhunger. With the second sun shattered, and its tower broken, the winds of five generations blew down from the north bringing with them unseasonal snow and ice. And the Will of Caridis Runebinder flew with those winds, and the Will of Tahenon the Gyre roused them an wove them into a spear, and Night-Dark Fraynir stole the warmth from the land with the shroud of his Will.
 
 And where the cold winds blew, the Greenhunger faltered and became sluggish, and its expansion slowed, and it fell to slumber. In this way was Kogur spared, although the thing coul not be rooted from Stathis or Hahlerm.
 
-The Five on their Thrones knew that the Winter would not last nor should for [[Eternal|eternal]] Winter would be a [[Curse|curse]] as terrible as eternal Spring but again it it bought time for a true solution to be found.
+The Five on their Thrones knew that the Winter would not last nor should for [[Eternal|eternal]] Winter would be a [[Curse|curse]] as terrible as [[Eternal|eternal]] Spring but again it it bought time for a true solution to be found.
 
 And in the year that followed, the Five turned all their thought toward devising a solution.
 
@@ -255,7 +255,7 @@ The Will of Caridis Runebinder carved the [[Runes|runes]] of protection into the
 
 Strengthened by the profligate gifts of Grandfather Shadow, and by sacrifice given to the King-of-Ruins, they placed a great ban upon the Greenhunger and upon all the land of Sküld.
 
-And when the first sun of Spring rose the next morning, the Greenhunger slumbered, contained amid the ruins of the city of the Golden Sun, and to the path of fear the vermin of the south had forged for it as they fled back int forest lands.
+And when the first sun of Spring rose the next morning, the Greenhunger slumbered, contained amid the ruins of the city of the [[Golden Sun]], and to the path of fear the vermin of the south had forged for it as they fled back int forest lands.
 
 **The Sacrifice**
 

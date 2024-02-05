@@ -19,9 +19,9 @@ To reinforce the army the [[Quiet Step]] of [[Navarr]], with 25 wains of [[Weirw
 ### [[Cost]]
 * Standard resupply costs apply.
 ### Progress
-* 25 wains of [[Weirwood|weirwood]] provided by Mirislav, [[Senator|senator]] for Sarvos after [[Winter]] Solstice 377YE
+* 25 wains of [[Weirwood|weirwood]] provided by Mirislav, [[Senator|senator]] for [[Sarvos]] after [[Winter]] Solstice 377YE
 ### [[Campaign outcome|Campaign Outcome]]
-* 25 wains of weirwood can be spent to [[Resupply the Quiet Step|resupply the Quiet Step]] is authorized by the [[Imperial Senate]] until end of [[Summer]] 378.
+* 25 wains of [[Weirwood|weirwood]] can be spent to [[Resupply the Quiet Step|resupply the Quiet Step]] is authorized by the [[Imperial Senate]] until end of [[Summer]] 378.
 ### Constitution
 Senators are encouraged to submit requests for [[Senate]] funding, but they can not legally withdraw a motion that [[The Senate|the Senate]] has passed if the Senate choose not to release some or all of the requested funds.
 __NOTOC__

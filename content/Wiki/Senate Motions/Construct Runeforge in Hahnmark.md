@@ -24,4 +24,4 @@ To build a [[Runeforge|runeforge]] in [[Hahnmark]]
 ## Progress
 CommissionProgress|Runeforge_of_Hahnmark
 ## Outcome
-* Once completed it [[Will|will]] create a [[Wintermark]] national position responsible for overseeing the runeforge in Runegrott
+* Once completed it [[Will|will]] create a [[Wintermark]] national position responsible for overseeing the [[Runeforge|runeforge]] in Runegrott

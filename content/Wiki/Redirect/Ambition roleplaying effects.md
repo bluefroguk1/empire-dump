@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Ambition roleplaying effects
 aliases: ['Ambition_roleplaying_effects']

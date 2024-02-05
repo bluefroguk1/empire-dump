@@ -14,12 +14,12 @@ The [[Champion of Wisdom]] is an [[Imperial Title]] that was created by the [[Im
 The Champion of [[Wisdom]] is intended to serve as an inspiration to the Pilgrims of the faith and laity as to what it means to be wise, particularly in a military context. They are also charged with bearing and protecting the shield known as ''Measure''. Historically the bearers of ''Measure'' formed, along with the bearers of the other Pilgrims shield, the “Seven Pilgrims” band. 
 ## Powers
 ### Regalia of the [[Champion of Wisdom]]
-The Champion of [[Wisdom]] bears ''Measure'', the unique Pilgrim's Shield. If the Champion of Wisdom loses their position, then the item must be given to the new Champion with all haste. The Champion is encouraged to take all appropriate precautions to keep this item safe, and is expected to do everything within their power to recover it if it is lost.
+The Champion of [[Wisdom]] bears ''Measure'', the unique Pilgrim's Shield. If the [[Champion of Wisdom]] loses their position, then the item must be given to the new Champion with all haste. The Champion is encouraged to take all appropriate precautions to keep this item safe, and is expected to do everything within their power to recover it if it is lost.
 At present, ''Measure'' has been lost to [[The Empire|the Empire]]. Even if it is located, until it is provided and becomes formal regalia, there is no legal obligation to provide the shield to the title-holder.
 The most recent known location of ''Measure'' is in the hands of Zamashka, Prince of Votika, in the [[Principalities of Jarm]], having been acquired from [[Tharim]] and the other "sovereign-lords of the Wasteland" after the Winter Equinox 379YE.
 ## [[Appointment]]
-The Champion of Wisdom is chosen every [[Autumn]] Equinox by a [[Judgement]] of [[Appointment]] by the [[Assembly]] of Wisdom.
-Any Imperial citizen may hold this title. They can be revoked by the [[General]] [[Assembly]], the Wisdom Assembly, and the [[Assembly of the Nine]].
+The Champion of [[Wisdom]] is chosen every [[Autumn]] Equinox by a [[Judgement]] of [[Appointment]] by the [[Assembly]] of [[Wisdom]].
+Any Imperial citizen may hold this title. They can be revoked by the [[General]] [[Assembly]], the [[Wisdom]] [[Assembly]], and the [[Assembly of the Nine]].
 RecentElections|Champion_of_Wisdom
 ## [[History]]
 The shield ''Measure'' was created by Ezkiah the [[Benefactor]], greatest smith of the Highborn along with six other shields. Each was gifted to a different hero, forming a company known as the “Seven Pilgrims”. 

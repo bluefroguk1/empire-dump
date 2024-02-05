@@ -20,7 +20,7 @@ The major Bourse seats operate to a schedule dictated by the [[Materials|materia
 * [[Ilium]] seats and the [[Master of the Imperial Mint]] are re-elected at the [[Spring]] Equinox.
 * [[White granite]] seats are re-elected at the [[Summer]] Solstice.
 * [[Mithril]] seats are re-elected at the [[Autumn]] Equinox.
-A list of seats to be appointed at the upcoming event can be found on the recent [[History|history]] page and on notices around Anvil. Once appointed, the new seat holders are announced via the Bourse noticeboard in the Hub.
+A list of seats to be appointed at the upcoming event can be found on the recent [[History|history]] page and on notices around [[Anvil]]. Once appointed, the new seat holders are announced via the Bourse noticeboard in the Hub.
 ## Selection
 An Imperial citizen must be a member of the appropriate nation to hold a national Bourse seat and it must be the only [[Imperial Title|Imperial title]] they control.
 All national titles elected through the bourse are re-elected annually. If the title is elected at the normal summit each year then the chosen citizen serves for one year until the start of the equivalent summit one year later.
@@ -39,11 +39,11 @@ The Bourse appoints national positions by vote of members of that nation who hol
 * [[The Marches]] - [[Farm]]
 * [[Urizen]] - [[Mana site]]
 * [[Varushka]] - [[Mine]] and [[Forest]] owners
-* [[Wintermark]] - Military unit
-(1) Prior to the Spring Equinox 384YE, votes in [[The Brass Coast|the Brass Coast]] were restricted to fleets engaging in privateering during the previous year. This was changed following a [[Statement of Principle|statement of principle]] by the Brass Coast National [[Assembly]] that gained widespread support in the nation.
+* [[Wintermark]] - [[Military unit]]
+(1) Prior to the Spring Equinox 384YE, votes in [[The Brass Coast|the Brass Coast]] were restricted to fleets engaging in privateering during the previous year. This was changed following a [[Statement of Principle|statement of principle]] by [[The Brass Coast|the Brass Coast]] National [[Assembly]] that gained widespread support in the nation.
 ## Production
 The winning bidder can collect whatever wains or rings of [[Ilium|ilium]] the bourse seat produced in the period running up to the summit from the [[Agent of the Bourse]] provided they have not already been claimed.
-The production associated with the Bourse seat is delivered to the title holder by an Agent of the Bourse before each subsequent summit until the last one. The title holder does not receive any production from a bourse seat on the run-up to the summit where the title is due to be re-elected - that is reserved for whoever wins the auction for the title at the summit.
+The production associated with the Bourse seat is delivered to the title holder by an [[Agent of the Bourse]] before each subsequent summit until the last one. The title holder does not receive any production from a bourse seat on the run-up to the summit where the title is due to be re-elected - that is reserved for whoever wins the auction for the title at the summit.
 ## Removal
 The Bourse is explicitly protected from interference from the [[Imperial Synod]] in the [[Imperial Constitution]]. Because of this, it is not possible to revoke a Bourse seat holder to remove them from their position. They serve until the title is reelected or until they die or step down.
 ## [[Castellan of Spiral Castle]]

@@ -23,5 +23,5 @@ To [[Commission|commission]] the [[Folly|folly]] "Lowther's Lift", within the [[
 ## Progress
 CommissionProgress|Lowther%27s_Lift
 ## Outcome
-* Once completed it [[Will|will]] grant the Custodian of the [[Singing Caves]] access to a new [[Ministry|ministry]] to purchase wains of mithril at set prices.
-* Following the actions of Yanya Uranduin the lifts require another five wains of Weirwood and will take another three months
+* Once completed it [[Will|will]] grant the Custodian of the [[Singing Caves]] access to a new [[Ministry|ministry]] to purchase wains of [[Mithril|mithril]] at set prices.
+* Following the actions of Yanya Uranduin the lifts require another five wains of [[Weirwood]] and [[Will|will]] take another three months

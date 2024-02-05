@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Commission the Ministry of Industry and Skarsind Trade
 aliases: ['Commission_the_Ministry_of_Industry_and_Skarsind_Trade']

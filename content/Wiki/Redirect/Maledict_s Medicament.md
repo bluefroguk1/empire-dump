@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Maledict_s Medicament
 aliases: ["Maledict's_Medicament"]

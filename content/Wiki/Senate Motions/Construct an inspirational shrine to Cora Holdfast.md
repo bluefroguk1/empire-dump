@@ -12,7 +12,7 @@ __NOTOC__
 To [[Construct an inspirational shrine to Cora Holdfast|construct an inspirational shrine to Cora Holdfast]], exemplar of [[Loyalty]], as a religious [[Sinecure|sinecure]] based in High Chalcis, [[Reikos]]. Appointed by the [[Assembly]] of [[Loyalty]]. This [[Will|will]] be a self-funded [[Sinecure|sinecure]]. 
 Proposed by [[Reikos]], Seconded by [[Bastion]]. 
 ### Overview
-* A Sinecure to serve as the focus for an memorial in High Chalcis in Reikos.
+* A [[Sinecure]] to serve as the focus for an memorial in High Chalcis in [[Reikos]].
 * Passed
 ### Date
 * [[Summer]] 381YE

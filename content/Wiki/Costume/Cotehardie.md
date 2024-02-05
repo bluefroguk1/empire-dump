@@ -8,9 +8,9 @@ tags: ['Costume']
 ---
 
 The [http://images.google.com/images?q=[[Cotehardie|cotehardie]] cotehardie] developed from the [[Kirtle]] or tunic, a basic pull on, t-shaped gown. The [[Cotehardie|cotehardie]] emerged when its precursors became more fitted, adding either button or lace up the front. Cotehardies can also lace up the side, or in the back (showing status as help is required!) and can be as tight or loose as desired.
-The cotehardie comes in many lengths - from high on the thigh to floor length. It hangs best when made in heavier fabrics.
+The [[Cotehardie|cotehardie]] comes in many lengths - from high on the thigh to floor length. It hangs best when made in heavier fabrics.
 Generally these dresses are made from wool, but heavier weights of linen or cotton are also suitable.
-The cotehardie tends to denote higher status than a simple tunic.
+The [[Cotehardie|cotehardie]] tends to denote higher status than a simple tunic.
 In particular long cotehardies are usually worn over a lightweight underdress called a shift which can be made by simply adding some panels to a t-tunic to allow for movement. All of these dresses are straightforward to make either from patterns or from pattern diagrams and are easy to buy from both reenactment and LARP suppliers. 
 These dresses can be worn with the skirt tucked into the belt at the front to display the shift underneath, or show off a fancy lining. 
 *[http://www.theweebsite.com/cotelande/patterns.html#houplande Instructions on creating cotehardies]

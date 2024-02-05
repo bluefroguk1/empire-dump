@@ -13,8 +13,8 @@ Things Procreate
 ### The [[Constellation]]
 [[The Stallion]] is a complex constellation of 14 stars and is located beneath [[The Phoenix|the Phoenix]]. It is most easily located by following the line of the fixed star of [[The Chain|the Chain]], through the rear of [[The Phoenix|the Phoenix]] and down to the centre of [[The Stallion|the Stallion]]’s back.
 ### Symbolism
-The Stallion represents [[Prosperity|prosperity]] and the urge to grow and procreate. It is a symbol of strength and virility; of the quality of the bloodline and of the value of [[Children|children]]. Some coarser interpretations in [[The League|the League]] and [[Navarr]] strongly associate The Stallion with the act of coitus but more properly it refers to action begetting consequence.
-A deeper symbolism attached to the Stallion refers of course to its nature as a [[Horse|horse]]; the Imperial emblem. The Stallion can refer in magical workings to [[The Empire|the Empire]] itself or to its leaders.
+[[The Stallion]] represents [[Prosperity|prosperity]] and the urge to grow and procreate. It is a symbol of strength and virility; of the quality of the bloodline and of the value of [[Children|children]]. Some coarser interpretations in [[The League|the League]] and [[Navarr]] strongly associate [[The Stallion]] with the act of coitus but more properly it refers to action begetting consequence.
+A deeper symbolism attached to [[The Stallion|the Stallion]] refers of course to its nature as a [[Horse|horse]]; the Imperial emblem. The Stallion can refer in magical workings to [[The Empire|the Empire]] itself or to its leaders.
 ### Using the Stallion in [[Magic|magic]]
 The most obvious use of The Stallion in [[Ritual|ritual]] is to invoke blessings on unborn children; however it is also used as a fertility symbol in rites to do with agriculture growth and [[Business|business]]. Fertility is not just to do with making babies; two coins invested wisely [[Will|will]] make their own kinds of babies. The Stallion also has strong associations with children in ritual; as protector of the herd and as teacher.
 ### Tulpas of the Stallion

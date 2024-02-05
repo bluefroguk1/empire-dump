@@ -13,10 +13,10 @@ A [[Herb garden|herb garden]] represents an area of land where [[Herbs|herbs]] g
 ## Production
 A [[Herb garden|herb garden]] produces 6 doses of [[True Vervain|true vervain]], 2 doses of [[Cerulean Mazzarine|cerulean mazzarine]], 2 doses of [[Bladeroot]], 2 doses of [[Imperial Roseweald|imperial roseweald]], and 2 doses of [[Marrowort]].
 ## [[Downtime]] Options
-It is possible to obtain a higher yield from a [[Herb|herb]] garden. You may spend 6 crowns to have the herb garden produce an additional 3 true vervain, 1 [[Cerulean Mazzarine|cerulean mazzarine]], 1 [[Imperial Roseweald|Imperial roseweald]], 1 [[Bladeroot|bladeroot]] and 1 [[Marrowort|marrowort]] in that season.
+It is possible to obtain a higher yield from a [[Herb|herb]] garden. You may spend 6 crowns to have the [[Herb garden|herb garden]] produce an additional 3 true vervain, 1 [[Cerulean Mazzarine|cerulean mazzarine]], 1 [[Imperial Roseweald|Imperial roseweald]], 1 [[Bladeroot|bladeroot]] and 1 [[Marrowort|marrowort]] in that season.
 ## Upgrades
-A herb garden can be upgraded using [[Weirwood]] obtained from [[The Bourse|the Bourse]]. Each time a herb garden is upgraded, the owner chooses a single herb from the list. The herb garden produces 2 additional doses of that herb from then on.
-To upgrade a herb garden requires Imperial wains of [[Weirwood|weirwood]] equal to the level the herb garden is being upgraded to. So the first upgrade of a starting level 1 herb garden costs 2 Imperial wains of weirwood, from 2 to 3 costs 3 Imperial wains, etc.
+A [[Herb|herb]] garden can be upgraded using [[Weirwood]] obtained from [[The Bourse|the Bourse]]. Each time a [[Herb garden|herb garden]] is upgraded, the owner chooses a single [[Herb|herb]] from the list. The [[Herb garden|herb garden]] produces 2 additional doses of that [[Herb|herb]] from then on.
+To upgrade a herb garden requires Imperial wains of [[Weirwood|weirwood]] equal to the level the herb garden is being upgraded to. So the first upgrade of a starting level 1 herb garden costs 2 Imperial wains of [[Weirwood|weirwood]], from 2 to 3 costs 3 Imperial wains, etc.
 ## [[Rituals]]
 The table below shows a list of the [[Rituals|rituals]] in [[Imperial lore]] which can affect the production of a herb garden.
 {| class="wikitable sortable"

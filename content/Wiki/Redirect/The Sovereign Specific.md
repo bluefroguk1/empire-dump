@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Sovereign Specific
 aliases: ['The_Sovereign_Specific']

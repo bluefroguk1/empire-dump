@@ -14,5 +14,5 @@ An [[Escharotic Cauldron]] often bears the [[Rune|rune]] [[Xun]], although older
 ## Rules
 Tool
 * Requirement: You must have the Apothecary skill to bond to this item.
-* Effect: When you use the apothecary skill to create a [[Potion|potion]] you may substitute two drams of [[Marrowort]] for one dram of [[Cerulean Mazzarine]], or two drams of Cerulean Mazzarine for one dram of Marrowort. You can only make this substitution once per preparation.
-* [[Materials]]: Crafting an Escharotic Cauldron requires seven measures of ambergelt. It takes one month to make one of these items.
+* Effect: When you use the apothecary skill to create a [[Potion|potion]] you may substitute two drams of [[Marrowort]] for one dram of [[Cerulean Mazzarine]], or two drams of [[Cerulean Mazzarine]] for one dram of [[Marrowort]]. You can only make this substitution once per preparation.
+* [[Materials]]: Crafting an [[Escharotic Cauldron]] requires seven measures of [[Ambergelt|ambergelt]]. It takes one month to make one of these items.

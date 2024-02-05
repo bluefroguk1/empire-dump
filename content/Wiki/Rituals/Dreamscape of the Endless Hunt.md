@@ -14,8 +14,8 @@ Season|Winter|30
 Casting time|2  At the end of the ritual one of the contributors is chosen to deliver the [[Curse|curse]] with a pronouncement of doom.
 [[Curse|curse]] 
 ### Effects
-This ritual creates a Curse that is delivered to a target with a pronouncement of doom: one of the contributors is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head.
-While under the curse the target cannot recover hero points or personal mana naturally, or through the use of a [[Dragonbone Symbol]], or an [[Enchanted|enchanted]] [[Aura]] such as The [[Chamber of Delights]]. They recover any used mana and hero points at the start of each month and other effects that restore hero points or mana points such as the [[Philtres of War]], [[Philtres of the High Peaks]] and Crystaltender's Vestment work normally.
+This ritual creates a [[Curse]] that is delivered to a target with a pronouncement of doom: one of the contributors is chosen to deliver the [[Curse|curse]], and they must do so within fifteen minutes or it falls on their own head.
+While under the [[Curse|curse]] the target cannot recover hero points or personal mana naturally, or through the use of a [[Dragonbone Symbol]], or an [[Enchanted|enchanted]] [[Aura]] such as The [[Chamber of Delights]]. They recover any used mana and hero points at the start of each month and other effects that restore hero points or mana points such as the [[Philtres of War]], [[Philtres of the High Peaks]] and Crystaltender's Vestment work normally.
 In addition they experience a powerful [[Roleplaying effect]]; whenever they sleep they suffer nightmares of being hunted through a dark wasteland by an implacable, inescapable foe or foes. Whenever they are alone, they feel as if something unspeakable is closing in on them, especially if it is [[Night|night]] time.
 Year Duration
 ### Removing the Curse

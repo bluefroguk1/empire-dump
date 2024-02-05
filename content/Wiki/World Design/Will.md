@@ -8,8 +8,8 @@ tags: ['The-Empire']
 ---
 
 ## Overview
-Any Imperial citizen can make a [[Will|will]] bequeathing their estate and belongings to other [[Characters|characters]] after they die. There is no requirement to have a [[Will|will]], it is purely a personal and roleplay choice. If you are concerned that your estate will not be passed on correctly then creating a will and leaving copies with your character's allies is the best way to ensure that your wishes are followed.
-Neither Profound Decisions, nor any of our NPCs, will register or record your will. You will need to make the appropriate arrangements in game.
+Any Imperial citizen can make a [[Will|will]] bequeathing their estate and belongings to other [[Characters|characters]] after they die. There is no requirement to have a [[Will|will]], it is purely a personal and roleplay choice. If you are concerned that your estate [[Will|will]] not be passed on correctly then creating a [[Will|will]] and leaving copies with your character's allies is the best way to ensure that your wishes are followed.
+Neither Profound Decisions, nor any of our NPCs, [[Will|will]] register or record your will. You will need to make the appropriate arrangements in game.
 ## Making a Will
 Although the Imperial legal system recognizes wills, there is no formal mechanism for creating or registering a will. It is down to the individual how they create their will, how they [http://en.wikipedia.org/wiki/Notary notarise it] and who they ask to hold the will for them. 
 The [[Imperial Civil Service]] take no part in the administration of wills as they cannot undertake commitments which might require them to place the interests of individual citizens above those of [[The Empire|the Empire]] or the [[Imperial Constitution]].

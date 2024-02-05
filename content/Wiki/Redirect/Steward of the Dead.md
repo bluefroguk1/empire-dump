@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Steward of the Dead
 aliases: ['Steward_of_the_Dead']

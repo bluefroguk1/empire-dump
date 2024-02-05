@@ -18,12 +18,12 @@ bearing the beacon that shines [[The Way|the way]] home
 for [[Gone|gone]] are the houses and gone are the halls  
 gone are the ancients at Terunael's fall
 Chorus
-through the dark places, through this long [[Night|night]]
+[[Through the dark places|through the dark places]], through this long [[Night|night]]
 through the dark [[Forest|forest]], we bear this light
 for though all around us, [[The Vallorn|the Vallorn]] do swarm
 through our blood and our oaths, [[The Empire|the Empire]] was born
 [[Highguard]]
-Through the dark places where the orcs lay
+[[Through the dark places]] where the orcs lay
 bearing the truth that [[Will|will]] open [[The Way]]
 walking the roads, from [[Chapter|chapter]] to hold
 We carry her message, so it may be told
@@ -33,7 +33,7 @@ We carry the promise that they would prevail
 we'll vanquish the Sovereigns, we'll slaughter their kin
 This was the promise that brought the Vales in
 Brass Coast
-Through the dark places and onto the bay
+[[Through the dark places]] and onto the bay
 we danced with the [[Freeborn]] to start the parley
 The price at the table was bitter and red
 for Freeborn freedom the Navarri bled
@@ -46,7 +46,7 @@ and with but one leap, She had won a new home
 Through the dark places we joined the Parade
 and walked with the Marchers to the home they had made
 Through the [[Trod|trod]] that we crafted, the land was renewed
-so The Way that we traveled, the Marchers walked too.
+so [[The Way]] that we traveled, the Marchers walked too.
 [[Wintermark]]
 Through the dark places, to the north we had came
 and witnessed the Thunder, the Wind and the Rain
@@ -61,4 +61,4 @@ Through the dark places, through this long night
 we gathered the people, all bearing this light
 And where they had gathered, the oaths there were sworn
 Through Navarri [[Wisdom]], [[The Empire|the Empire]] was born
-Through Navarri [[Wisdom]], the Empire was born
+Through Navarri [[Wisdom]], [[The Empire|the Empire]] was born

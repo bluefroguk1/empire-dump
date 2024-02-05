@@ -13,10 +13,10 @@ A target may be under any number of different curses at once.
 ## Pronouncement of Doom
 *Many [[Ritual|ritual]] curses are delivered using a pronouncement of doom
 *One of the contributors must deliver the pronouncement
-*They have 15 minutes after they complete the ritual to deliver the curse
-*They must be close enough to touch the target and audibly curse them using [[Appropriate roleplaying|appropriate roleplaying]]
+*They have 15 minutes after they complete the ritual to deliver the [[Curse|curse]]
+*They must be close enough to touch the target and audibly [[Curse|curse]] them using [[Appropriate roleplaying|appropriate roleplaying]]
 *You must have a [[Referee|referee]] present
-*If the curse cannot be delivered then it [[Will|will]] rebound on the caster
+*If the [[Curse|curse]] cannot be delivered then it [[Will|will]] rebound on the caster
 __TOC__
 Several ritual curses in [[Imperial lore]], such as [[Gnawing, Endless Hunger]], are delivered using a pronouncement of doom. One of the  ritual contributors must be selected during the ritual to deliver the curse. Once the ritual is complete, they have fifteen minutes to find the target. A [[Referee|referee]], usually the one who observed the ritual, must accompany the [[Magician|magician]] when they seek out their victim.
 Once they have found the target, the magician must use a few seconds [[Appropriate roleplaying]] that make it clear to everyone present that a curse is being delivered. They must be close enough to touch their target when they make the pronouncement.
@@ -25,14 +25,14 @@ Being subject to [[Weakness|weakness]] does not prevent someone from delivering 
 ## Removal
 *Most curses last for a year or until they are removed
 *It is easier to create a curse using ritual [[Magic|magic]] than to remove it
-Removing a curse is a significant indicating; [[Rituals|rituals]] to remove a curse effect [[Will|will]] almost always be many magnitudes higher than the magnitude of the ritual that created the curse. In most cases, a specific ritual or a minimum magnitude will be named. Each curse is unique, and the method of removing it also tends to be unique - there is no generic ''remove curse'' ritual in Empire.
-Some curses can also be removed by the intervention of a powerful creature or item. Like rituals there is no single [[Eternal|eternal]] with the power to remove any curse, rather specific creatures or items have the ability to remove a specific curse. For example, the ability of the [[Eternal]] Yaw'nagrah to restore fertility may allow her to remove a curse of infertility, but is likely to be of little use against a [[Curse of Decrepitude]]. Powerful creatures almost invariably require quests or favours in return for removing a curse, and gaining their [[Assistance|assistance]] or access to a powerful item are likely to involve difficult quests.
+Removing a curse is a significant indicating; [[Rituals|rituals]] to remove a curse effect [[Will|will]] almost always be many magnitudes higher than the magnitude of the ritual that created the curse. In most cases, a specific ritual or a minimum magnitude [[Will|will]] be named. Each curse is unique, and the method of removing it also tends to be unique - there is no generic ''remove curse'' ritual in Empire.
+Some curses can also be removed by the intervention of a powerful creature or item. Like [[Rituals|rituals]] there is no single [[Eternal|eternal]] with the power to remove any curse, rather specific creatures or items have the ability to remove a specific curse. For example, the ability of the [[Eternal]] Yaw'nagrah to restore fertility may allow her to remove a curse of infertility, but is likely to be of little use against a [[Curse of Decrepitude]]. Powerful creatures almost invariably require quests or favours in return for removing a curse, and gaining their [[Assistance|assistance]] or access to a powerful item are likely to involve difficult quests.
 It is possible to make a curse permanent through the use of [[Ilium]].
 ## Identification
 *[[Detect Magic|Detect magic]] can identify the presence of a curse
-*Divination rituals may provide more information on the nature of a curse
-The [[Detect Magic]] incantation will detect the magnitude and [[Realm|realm]] of an effect and indicate if it is a curse. [[Wisdom of the Balanced Blade]] will provide more details about the curse. Information about well-known or legendary curses may also be possessed by bards and scholars.
+*Divination [[Rituals|rituals]] may provide more information on the nature of a curse
+The [[Detect Magic]] incantation [[Will|will]] detect the magnitude and [[Realm|realm]] of an effect and indicate if it is a curse. [[Wisdom of the Balanced Blade]] [[Will|will]] provide more details about the curse. Information about well-known or legendary curses may also be possessed by bards and scholars.
 ## Curses and [[The Law|the Law]]
 *It is not illegal to curse someone
-Using [[Magic|magic]] on another person is never in and of itself a crime. However if the effect of the magic meets the definition of a crime then the fact that this effect was achieved by magic is no defence. For example, a curse of poverty doesn't meet the definition of any criminal offence but a death curse most certainly does. Any curse that does not meet the definition of a crime falls under the purview of the [[Imperial Conclave]]. It is up to [[The Conclave|the Conclave]] to decide if a magician has overstepped the bounds and used magic in a way that threatens [[The Empire|the Empire]]. If they decide this is the case, then those involved can be declared sorcerers.
+Using [[Magic|magic]] on another person is never in and of itself a crime. However if the effect of the [[Magic|magic]] meets the definition of a crime then the fact that this effect was achieved by [[Magic|magic]] is no defence. For example, a curse of poverty doesn't meet the definition of any criminal offence but a death curse most certainly does. Any curse that does not meet the definition of a crime falls under the purview of the [[Imperial Conclave]]. It is up to [[The Conclave|the Conclave]] to decide if a magician has overstepped the bounds and used [[Magic|magic]] in a way that threatens [[The Empire|the Empire]]. If they decide this is the case, then those involved can be declared sorcerers.
 Magic Links

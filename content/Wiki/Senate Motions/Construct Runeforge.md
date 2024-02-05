@@ -24,8 +24,8 @@ Proposed by [[Hahnmark]], seconded by [[Karsk]]
 * Time : 12 months to complete
 ### Progress
 * 75 Thrones disbursed to [[Senator]] [[Hahnmark]]
-* 75 Thrones returned to [[The Senate|the Senate]] treasury by [[Senator]] Hahnmark after the Spring Equinox 382YE.
+* 75 Thrones returned to [[The Senate|the Senate]] treasury by [[Senator]] [[Hahnmark]] after the Spring Equinox 382YE.
 * This [[Commission|commission]] has lapsed
 ### [[Campaign outcome|Campaign Outcome]]
-* There are certain necessary details missing from this motion, the Senator may decide on these.
+* There are certain necessary details missing from this motion, the [[Senator]] may decide on these.
 * Once completed, the [[Runeforge]] [[Will|will]] automatically create a new [[Imperial Title]]

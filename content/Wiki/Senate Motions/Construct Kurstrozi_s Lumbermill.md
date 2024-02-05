@@ -11,7 +11,7 @@ revision_id: 105787
 __NOTOC__
 In times of great hardship, we must be vigilant of unused wealth and unnecessary spending. With this in mind, I [[Commission|commission]] Kurstrozi's Lumbermill in Drownbark, [[Ossium]]. A [[Great work|great work]] costing 40 [[White granite|white granite]] which [[Will|will]] increase the [[Prosperity|prosperity]] of [[Ossium]]'s forests. This is fully funded by Krasivit Buhkova.
 ## Overview
-* Constructs a [[Great work]] in Ossium
+* Constructs a [[Great work]] in [[Ossium]]
 * Announcement by the [[Master of the Koboldi]]
 ## Date
 * [[Autumn]] 385YE

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Maps
 draft: False
 revision_date: 2024-01-13 16:08:01+00:00
@@ -35,5 +35,5 @@ ThreeColIconImage|file=Map-tactical-ic-watercolour-small.jpg|link=Map - Coloured
 Important note, control of territories and even regional keywords can change from event to event. Please try to make sure you are using the most recent version of the map that is available. There is no guarantee that the maps [[Will|will]] be updated every event.
 The [[Gazetteer]] tells you all about the places on the map while the [[Pronunciation guide]] tells you how they're said.
 ### Map Viewers
-Alongside the above, you can take a look at [http://larp.me.uk/PD/empire/map/ Nicholas Avenell's wonderful zoomable Google version of the Empire Map].
-Also, Racheet Dave has now produced [http://empire.racheet.me/ a cool dynamic map] so you can study the Empire [[Territory|territory]] by territory.
+Alongside the above, you can take a look at [http://larp.me.uk/PD/empire/map/ Nicholas Avenell's wonderful zoomable Google version of [[The Empire|the Empire]] Map].
+Also, Racheet Dave has now produced [http://empire.racheet.me/ a cool dynamic map] so you can study [[The Empire|the Empire]] [[Territory|territory]] by territory.

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Courage roleplaying effects
 aliases: ['Courage_roleplaying_effects']

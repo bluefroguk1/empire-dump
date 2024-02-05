@@ -13,11 +13,11 @@ The [[Minister of Historical Research]] is an [[Imperial Title]] appointed by [[
 ## Responsibilities
 The purpose of the Minister is to authorise research requests, freeing the [[Imperial Senate]] from the need to assess each request directly.
 ## Power
-### Historical Research
-The Minister has the power to announce Historical research requests. The civil service is able to process just one research request each season - research requests authorized by the Senate or the Minister all count against this limit. 
+### [[Historical research|Historical Research]]
+The Minister has the power to announce [[Historical research]] requests. The civil service is able to process just one research request each season - research requests authorized by the Senate or the Minister all count against this limit. 
 To use this power, the Minister provides an announcement to the Civil Service, who present the decision to the [[Imperial Senate]]. No voting is possible by the Senate at this point, as the power has been delegated to the Minister. The [[Imperial Synod]] may, however, choose to exercise their [[Veto]] over the Minister's decision.
 ## [[Appointment]]
 The [[Minister of Historical Research]] is an Imperial position appointed by the Senate. Any Imperial citizen can hold this title. The Minister serves for a year, and they can be revoked by the [[General]] [[Assembly]] and by the [[Assembly of the Nine]].
 ## Publication
-Details of some of the historical research that has been carried out, including that commissioned by the Minister, can be found here.
+Details of some of the [[Historical research|historical research]] that has been carried out, including that commissioned by the Minister, can be found here.
 RecentElections|Minister_of_Historical_Research

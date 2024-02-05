@@ -12,7 +12,7 @@ __NOTOC__
 Motion to build a [[Fortification|fortification]] in Foracci, [[Sarvos]]
 Proposed by [[Sarvos]], Seconded by [[Tassato]]
 ### Overview
-* This motion was to construct a [[Fortification]] in Foracci, Sarvos
+* This motion was to construct a [[Fortification]] in Foracci, [[Sarvos]]
 * Passed
 ### Date
 * [[Autumn]] 380YE
@@ -22,10 +22,10 @@ Proposed by [[Sarvos]], Seconded by [[Tassato]]
 * 1 year to construct
 * 10 thrones upkeep per season
 ### Progress
-* 20 wains of [[White granite|white granite]] provided by Magdelena Alanga Di Sarvos after Autumn Equinox 380YE.
-* 20 wains of white granite and 20 thrones provided by Magdelena Alanga Di Sarvos after [[Winter]] Solstice 380YE.
-* 20 wains of white granite provided by Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after Autumn Equinox 381YE.
-* 20 wains of white granite provided by Magdelena Alanga Di Sarvos after Autumn Equinox 381YE.
+* 20 wains of [[White granite|white granite]] provided by Magdelena Alanga Di [[Sarvos]] after Autumn Equinox 380YE.
+* 20 wains of [[White granite|white granite]] and 20 thrones provided by Magdelena Alanga Di [[Sarvos]] after [[Winter]] Solstice 380YE.
+* 20 wains of [[White granite|white granite]] provided by Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after Autumn Equinox 381YE.
+* 20 wains of [[White granite|white granite]] provided by Magdelena Alanga Di Sarvos after Autumn Equinox 381YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, this [[Will|will]] create a rank one fortification in Foracci, Sarvos
-* The fortification [[Will|will]] be called "''Our Lady of [[Pride]]''".
+* Once completed, this [[Will|will]] create a rank one [[Fortification|fortification]] in Foracci, Sarvos
+* The [[Fortification|fortification]] [[Will|will]] be called "''Our Lady of [[Pride]]''".

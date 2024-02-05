@@ -13,8 +13,8 @@ Lyrics by Jake Wilson
 [[Music]] and [https://soundcloud.com/salvatore-galletti/[[Holberg|holberg]]-wine recording] by Chris and Harriett Robins Kennish
 [[Holberg Wine|Holberg wine]] - Dark as mountain skies,
 [[Holberg]] wine - Stains the skin where it touches,
-Holberg wine - Wets the earth where it falls,
-Holberg wine - Soaks into the ashes.
+[[Holberg Wine|Holberg wine]] - Wets the earth where it falls,
+[[Holberg]] wine - Soaks into the ashes.
 (Chorus)
 The shadows of [[Winter]],
 Must harden the fruits,
@@ -37,7 +37,7 @@ City gates - Keep your weapons together,
 City gates - And your loved ones close,
 City gates - Mud turned by hard boots.
 (Chorus)
-Holberg wine - Dark mountain halls,
-Holberg wine - Nothing grows but [[Courage]],
-Holberg wine - Where the land has been burned,
-Holberg wine - To the deep, thirsty roots.
+[[Holberg Wine|Holberg wine]] - Dark mountain halls,
+[[Holberg]] wine - Nothing grows but [[Courage]],
+[[Holberg Wine|Holberg wine]] - Where the land has been burned,
+[[Holberg]] wine - To the deep, thirsty roots.

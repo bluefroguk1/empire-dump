@@ -16,5 +16,5 @@ To designate the orc thralls in the Imperial [[Territory|territory]] of [[Mournw
 ### Date
 * [[Winter]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The orc thralls in the Mournwold are now foreigners
+* The orc thralls in the [[Mournwold]] are now foreigners
 * It is legal to trade with them, and illegal to force them off their land, kill them, engage them with [[Imperial armies]], or steal their holdings.

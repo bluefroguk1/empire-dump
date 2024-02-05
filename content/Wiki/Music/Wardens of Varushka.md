@@ -15,16 +15,16 @@ Full harmony: File:Wardens-of-[[Varushka|varushka]]-full.mp3
 Sop (tune): File:[[Wardens of Varushka|Wardens of varushka]] - sop alto.mp3
 Tenor (or descant): File:[[Wardens of Varushka|Wardens of varushka]] - tenor.mp3
 Bass: File:Wardens of [[Varushka|varushka]] - bass.mp3
-Melody-only: Media:Wardens of Varushka.wav 
-Stand with me, Wardens of Varushka (x2)
+Melody-only: Media:[[Wardens of Varushka]].wav 
+Stand with me, Wardens of [[Varushka]] (x2)
 In the [[Winter|winter]]'s snow and hail 
 Proud defenders of the Vale 
-Wardens of Varushka 
-Come with me, Wardens of Varushka (x2) 
+[[Wardens of Varushka]] 
+Come with me, Wardens of [[Varushka]] (x2) 
 'Cross [[The Empire|the empire]] far and wide
 Brothers, sisters side by side 
-Wardens of Varushka 
-[[Fight]] with me, Wardens of Varushka (x2) 
+[[Wardens of Varushka]] 
+[[Fight]] with me, Wardens of [[Varushka]] (x2) 
 Onward to the [[War|war]] we go 
 We [[Will|will]] stand against the foe 
 Wardens of Varushka 

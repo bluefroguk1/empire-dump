@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Add _Sum of the Parts_ to Imperial Lore
 aliases: ['Add_"Sum_of_the_Parts"_to_Imperial_Lore']

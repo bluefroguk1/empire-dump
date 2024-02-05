@@ -25,7 +25,7 @@ Keep us dancing through the dark.
 [[Winter]] cares not for your name
 Dark [[Will|will]] take us all the same
 Hold together, standing strong
-Noise and music, bind our throng.
+Noise and [[Music|music]], bind our throng.
 Turns the season, turns the wheel
 Hunger bites, a sting like steel
 Passions burn through snow and ice
@@ -40,5 +40,5 @@ Through the night the flames grow higher
 To match the dancers, flying fire
 What the [[Morrow|morrow]] brings, who knows?
 Still the river onward flows
-Will we all be standing still?
-[[If Varushka Wills|If Varushka wills]], we will!
+[[Will]] we all be standing still?
+[[If Varushka Wills|If Varushka wills]], we [[Will|will]]!

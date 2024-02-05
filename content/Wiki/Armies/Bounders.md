@@ -22,5 +22,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Watchful
-The Bounders were once known for their relentless pursuit of their foes. In recent years, however, they have embraced a more watchful approach to their campaigns.
-RecentElections|General_of_the_Bounders|the title of [[General]] of the Bounders
+The [[Bounders]] were once known for their relentless pursuit of their foes. In recent years, however, they have embraced a more watchful approach to their campaigns.
+RecentElections|General_of_the_Bounders|the title of [[General]] of the [[Bounders]]

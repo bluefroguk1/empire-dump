@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Novarian Phoenix
 aliases: ['The_Novarian_Phoenix']

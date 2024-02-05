@@ -11,7 +11,7 @@ revision_id: 103900
 __NOTOC__
 To permit the [[Commonwealth]] to build a schloss on the island east of Siroc - [[Madruga]] and to cede the schloss to [[The Commonwealth|the Commonwealth]]
 ## Overview
-* Authorises the [[Commonwealth]] to construct a schloss for their citizens who are visiting the Lyceum and cedes the structure to the Commonwealth. 
+* Authorises the [[Commonwealth]] to construct a schloss for their citizens who are visiting the Lyceum and cedes the structure to the [[Commonwealth]]. 
 * This construction does not count towards the limit on commissions.
 * Passed
 ## Date

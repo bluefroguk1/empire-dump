@@ -17,4 +17,4 @@ To allow the [[Great Forest Orcs]] to work the [[Thimble]]. In return they [[Wil
 ## Date
 * [[Autumn]] 381YE
 ## [[Campaign outcome|Campaign Outcome]]
-* In return for a bounty of four wains of weirwood each season, the Great Forest orcs will work the Thimble removing the [[Cost|cost]] to [[The Empire|the Empire]] to maintain that [[Bourse]] [[Resource|resource]].
+* In return for a bounty of four wains of [[Weirwood|weirwood]] each season, the [[Great Forest Orcs|Great Forest orcs]] [[Will|will]] work the [[Thimble]] removing the [[Cost|cost]] to [[The Empire|the Empire]] to maintain that [[Bourse]] [[Resource|resource]].

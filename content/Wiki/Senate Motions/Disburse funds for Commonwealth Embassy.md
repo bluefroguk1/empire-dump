@@ -18,4 +18,4 @@ To disperse [[Senate]] funds for the purpose of providing [[Materials|materials]
 ### Progress
 * 100 Thrones 4 Crowns disbursed to [[Senator]] [[Sermersuaq]]
 ### [[Campaign outcome|Campaign Outcome]]
-* Work cannot begin on the construction of the Embassy until the region where it [[Will|will]] be built is confired by the [[Senator|senator]].
+* Work cannot begin on the construction of the [[Embassy]] until the region where it [[Will|will]] be built is confired by the [[Senator|senator]].

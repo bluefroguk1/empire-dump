@@ -17,5 +17,5 @@ As [[Zenith]] fell to the [[Druj]] in [[Spring|spring]] 382YE, the armies of [[H
 ### Elisha
 Elisha is a [[Steward]] of the Dead.
 ## Former Hosts
-Highguard Links
+[[Highguard]] Links
 __NOTOC__

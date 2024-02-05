@@ -16,13 +16,13 @@ The [[Mediator of Wreck]] serves as liaison to Warlock Asjka of the [[Thule]]. I
 ### [[Ministry]]
 As a [[Ministry]], the Mediator can purchase rings of [[Ilium|ilium]] at a set price. The Mediator spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
 Total CostIlium Received
-23 crowns1 rings of ilium
-54 crowns2 rings of ilium
-88 crowns3 rings of ilium
+23 crowns1 rings of [[Ilium|ilium]]
+54 crowns2 rings of [[Ilium|ilium]]
+88 crowns3 rings of [[Ilium|ilium]]
 130 crowns4 rings of ilium
 180 crowns5 rings of ilium
 ## [[Appointment]]
-This title is appointed during the [[Spring]] Equinox. The Mediator of Wreck is appointed by citizens of [[Wintermark]] who control military units. The larger the [[Military unit|military unit]] an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in [[The Bourse|the Bourse]]. 
+This title is appointed during the [[Spring]] Equinox. The [[Mediator of Wreck]] is appointed by citizens of [[Wintermark]] who control military units. The larger the [[Military unit|military unit]] an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in [[The Bourse|the Bourse]]. 
 Only a [[Wintermark]] citizen may hold the title. They do not receive a seat on the [[Bourse]]. As a title appointed through the Bourse they cannot be revoked by the [[Imperial Synod]].
 Responsibilities Expectation
 RecentElections|Mediator_of_Wreck

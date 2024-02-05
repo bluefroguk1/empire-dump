@@ -14,6 +14,6 @@ Households are defined by their group identity and shared work, rather than any 
 ==Creating a household== 
 A household is the easiest kind of Marcher group to create. Even the smallest household's voice can count in the process of selecting the [[Senator|senator]] for their territory. The group leader [[Will|will]] be its [[Steward|steward]] and is usually the most competent politician in the group rather than a battle leader.
 The core of the group [[Will|will]] be one or more yeomen. Some of these are likely to be military [[Characters|characters]], but not necessarily heavily-armoured soldiers. A household's yeomen are just as likely to be lightly armoured, with bills, mattocks and bows. A household may also include the crafters who live on the household's land, often a smith, a [[Friar|friar]] or two. Most households also include a few beaters in their number. 
-You will want to choose a territory to come from: [[Upwold]] the oldest and hilliest, [[Bregasland]] home to the fen-dwellers, [[Mitwold]] with rich and rolling fields, or the Mourn recently reclaimed from the [[Jotun]].
+You [[Will|will]] want to choose a territory to come from: [[Upwold]] the oldest and hilliest, [[Bregasland]] home to the fen-dwellers, [[Mitwold]] with rich and rolling fields, or the Mourn recently reclaimed from the [[Jotun]].
 ## Additional Reading
 A short list of prominent Marcher households can be found on [[The Marches groups]] page.

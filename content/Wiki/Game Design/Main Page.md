@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Main Page
 aliases: ['Main_Page']
 draft: False
@@ -22,12 +22,12 @@ link=[[Conduct]]
 All participants at Empire are required to follow our conduct rules at all times. Our Conduct policy lays out clear rules so that everyone who participates in Empire knows what is expected.
 ## [[The Empire]]
 link=[[Empire overview]]
-Find out about the political structures of the Empire that [[Will|will]] allow the players to shape the game world. Also here is information about [[The Way|the Way]] of Virtue, the unique Imperial religion. 
+Find out about the political structures of [[The Empire|the Empire]] that [[Will|will]] allow the players to shape the game world. Also here is information about [[The Way|the Way]] of Virtue, the unique Imperial religion. 
 ## [[The Nations]]
 link=[[Nation overview]]
-The Empire is composed of nine human nations and the [[Imperial Orcs]]. Each culture is detailed on [[The wiki|the wiki]] including advice on costumes.
+[[The Empire]] is composed of nine human nations and the [[Imperial Orcs]]. Each culture is detailed on [[The wiki|the wiki]] including advice on costumes.
 ## The World
 link=World overview|The World
-The Empire is part of a rich and vibrant campaign setting that includes [[Barbarian]] enemies, foreign powers and six magical [[Realms|realms]] as well as their supernatural inhabitants.
+[[The Empire]] is part of a rich and vibrant campaign setting that includes [[Barbarian]] enemies, foreign powers and six magical [[Realms|realms]] as well as their supernatural inhabitants.
 __NOTOC__
 __NOTITLE__

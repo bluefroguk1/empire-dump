@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Fire performance
 aliases: ['Fire_performance']
 draft: False
@@ -15,7 +15,7 @@ Profound Decisions get regular requests from players and crew to allow various f
 * You must be completely sober
 * All performers must be dressed appropriately
 Because of the nature of the live-roleplay environment, any [[Fire performance|fire performance]] is effectively a public performance, and as such we run to tighter safety standards than might be appropriate for a private gathering.
-A designated member of PD crew ''must'' be present throughout your performance, to provide oversight, and to ensure that a radio is available if anything were to go wrong. A small number of PD crew are experienced at putting on such performances themselves, and they [[Will|will]] try to make themselves available when this is compatible with their other roles and duties. We advise you to [mailto:fire@profounddecisions.co.uk email us at fire@profounddecisions.co.uk] in advance of the event, since that makes it more likely that we [[Will|will]] be able to schedule cover, but we will do our best to satisfy requests made at the event itself. At the event, your best bet is to go to GOD, and ask to speak to the ref desk, who will take details or put you in contact.
+A designated member of PD crew ''must'' be present throughout your performance, to provide oversight, and to ensure that a radio is available if anything were to go wrong. A small number of PD crew are experienced at putting on such performances themselves, and they [[Will|will]] try to make themselves available when this is compatible with their other roles and duties. We advise you to [mailto:fire@profounddecisions.co.uk email us at fire@profounddecisions.co.uk] in advance of the event, since that makes it more likely that we [[Will|will]] be able to schedule cover, but we [[Will|will]] do our best to satisfy requests made at the event itself. At the event, your best bet is to go to GOD, and ask to speak to the ref desk, who [[Will|will]] take details or put you in contact.
 Performers must not be intoxicated in any manner. We often get questions about this one, but there is no scope for flexibility.
 Performers must be dressed appropriately. As a guideline, tight-fitting natural fibres are good, and anything loose, diaphanous or synthetic is bad. Synthetic fabrics can catch fire more easily - and often lead to worse burns if they do ignite. The perils of loose, floaty [[Costume|costume]] elements are obvious. It is advisable to wear appropriate foot gear in which you are happy to stamp out small fires - and to keep any latex-coated weapons away from the performance (this last primarily because liquid paraffin, and fire, are both bad for such props). You may also wish to cover hair, depending on the props you are using. A simple cotton bandana works well.
 Performers should be familiar and competent with the props they are using - unless they are actively being taught, in which case we would expect someone experienced to be providing them one-to-one tuition and supervision.
@@ -25,7 +25,7 @@ Performers should be familiar and competent with the props they are using - unle
 * You must ensure that any fuel is stored appropriately
 If you are using unusual props or fuel, it is essential that you email us before the event, in order to give us time to do the [[Background|background]] research required to properly evaluate the safety precautions you have taken. You can assume we are familiar with liquid paraffin as a fuel; and poi, staves, clubs, knives, fans, swords and palms - with a conventional kevlar wick construction; plus fire-breathing.
 We prefer you to supply your own safety equipment, at a minimum a fire blanket, and optionally also a bucket of water, a wet towel, and/or a fire extinguisher suitable for using on tents. PD may be able to supply these, but you should always email before the event if you require this. As far as first-aid cover goes, the event first-aid team
-will be alerted that the performance is occurring, and may make preparations, or be in attendance, at their discretion - so that is not something you need to supply.
+[[Will|will]] be alerted that the performance is occurring, and may make preparations, or be in attendance, at their discretion - so that is not something you need to supply.
 You must store fuel safely and sensibly when it is not in use; we are always willing to have the sparky team store it in the fenced off generator area, if you have any concerns about your own ability to store it safely.
 ## Performance
 * You should supply a safety spotter

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Principle of Proportions
 aliases: ['Principle_of_Proportions']

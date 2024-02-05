@@ -16,11 +16,11 @@ To [[Commission|commission]] a [[Great work|great work]] in [[Madruga]], Brass C
 ## Date
 * [[Summer]] 383YE
 ## Costs
-* This commission uses non-standard costs
+* This [[Commission|commission]] uses non-standard costs
 * 20 wains of [[White granite|white granite]]
 * 40 crowns labour
 * Three months to complete
 ## Progress
 CommissionProgress|Hand_of_Guerra
 ## Outcome
-* When complete the commission [[Will|will]] create the title of Hand of [[Guerra]]. The title would most likely be appointed by the [[Freeborn]] [[National Assembly|national assembly]], as a Freeborn national position.
+* When complete the [[Commission|commission]] [[Will|will]] create the title of Hand of [[Guerra]]. The title would most likely be appointed by the [[Freeborn]] [[National Assembly|national assembly]], as a Freeborn national position.

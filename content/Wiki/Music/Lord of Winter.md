@@ -20,8 +20,8 @@ But I am forever bound
 To the song that he brings
 Chorus: I [[Will|will]] sing for the winter's dream
 I [[Will|will]] sing for the [[Night|night]]
-I will sing for the [[Summer|summer]] [[Gone|gone]]
-I will sing for the light
+I [[Will|will]] sing for the [[Summer|summer]] [[Gone|gone]]
+I [[Will|will]] sing for the light
 I look in his ancient eyes
 And I see my desires
 There, 'neath my shadowed heart

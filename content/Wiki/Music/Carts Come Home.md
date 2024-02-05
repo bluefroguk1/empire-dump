@@ -15,7 +15,7 @@ The [[Carts Come Home|carts come home]], the oxen heavy laden
 With Marcher bones, brought from another nation
 Our girls come home, in fallow fields they're lying
 And all alone, I see the farmer crying.
-The carts come home, the oxen heavy laden
+The [[Carts Come Home|carts come home]], the oxen heavy laden
 Our orchards grown, [[Will|will]] hang heavy in the [[Autumn|autumn]]
 Our girls come home, in fallow fields they're lying
 For seeds are sown, where other flowers lie dying

@@ -28,5 +28,5 @@ Proposed by [[Bregasland]], Seconded by [[Upwold]]
 * 40 wains of [[White granite|white granite]], 100 wains of [[Weirwood|weirwood]] and 35 thrones provided by Orrick after Summer Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
 * The [[Great work|great work]] [[Will|will]] provide 1080 rings per [[Territory|territory]] spread between the farms there.
-* This great work [[Will|will]] also be able to reduce the effects of natural decay on the armies of a single nation, more information can be found here
+* This [[Great work|great work]] [[Will|will]] also be able to reduce the effects of natural decay on the armies of a single nation, more information can be found here
 * Work was completed on the Imperial Breadbasket shortly before the [[Spring]] Equinox 381YE.

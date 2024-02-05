@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Enchanter_s Dismissal
 aliases: ["Enchanter's_Dismissal"]

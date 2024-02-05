@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Combat
 draft: False
 revision_date: 2023-06-29 16:19:04+00:00
@@ -63,7 +63,7 @@ You can choose the point during the event at which your character dies, provided
 *Traumatic wounds can only be healed using the [[Physick|physick]] skill
 *You must keep the traumatic wound card and give it to your physick
 In battle, your character is at risk of receiving a traumatic wound. Traumatic wounds represent things like broken bones, internal bleeding, punctured lungs and the like. These wounds are particularly difficult to treat and cannot be healed magically, you must receive the aid of another character using the physick skill to treat your wound.
-If you receive a traumatic wound you will be given a wound card by a [[Referee|referee]] or crew member. This card will state the approximate nature of your wound. You must keep hold of the card - if a physick attempts to [[Heal|heal]] your character then you will need to give them the card so that they know what resources are needed to [[Heal|heal]] your wound.
+If you receive a traumatic wound you [[Will|will]] be given a wound card by a [[Referee|referee]] or crew member. This card [[Will|will]] state the approximate nature of your wound. You must keep hold of the card - if a physick attempts to [[Heal|heal]] your character then you [[Will|will]] need to give them the card so that they know what resources are needed to [[Heal|heal]] your wound.
 A [[Referee|referee]] or crew member may assign you a traumatic wound card if your character is soundly beaten while fighting. Some large or magical monsters are notable for causing traumatic wounds when they connect solidly with an opponent.
 ### Spiritual Wounds
 *You may receive a spiritual wound in battle or from another supernatural cause.

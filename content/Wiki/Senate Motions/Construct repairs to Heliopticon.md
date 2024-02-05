@@ -23,8 +23,8 @@ To repair and rebuild the Heliopticon in [[Urizen]].''Proposed by [[Redoubt]], s
 *  This project [[Will|will]] add additional costs to each [[Urizen]] [[Territory|territory]], and require the usual upkeep of a [[College of Magic|college of magic]] (at the moment 25 Thrones).
 ## Progress
 * 2 wains of [[Mithril|mithril]] and 24 crowns provided by Andronikos after the Winter Solstice 382YE.
-* 10 wains of mithril provided by Edmundo of Damakhan's Forge after the Winter Solstice 382YE.
+* 10 wains of [[Mithril|mithril]] provided by Edmundo of Damakhan's Forge after the Winter Solstice 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
 * 27 Thrones and 2 Crowns disbursed to [[Senator]] for [[Redoubt]].
-* When complete, creates a unique [[Imperial Title|Imperial title]] [[Doyen of the Spires]], appointed by majority decision of the magicians of Urizen. Title is held for as long as it takes them to codify a single [[Arcane projection|arcane projection]]. They [[Will|will]] be able to be revoked by the [[Imperial Synod]].
-* The magicians of Urizen will function like a college of [[Magic|magic]], but the speed of research will depend on how many territories are part of the Urizen nation and connected to the Heliopticon network.
+* When complete, creates a unique [[Imperial Title|Imperial title]] [[Doyen of the Spires]], appointed by majority decision of the magicians of [[Urizen]]. Title is held for as long as it takes them to codify a single [[Arcane projection|arcane projection]]. They [[Will|will]] be able to be revoked by the [[Imperial Synod]].
+* The magicians of [[Urizen]] [[Will|will]] function like a college of [[Magic|magic]], but the speed of research [[Will|will]] depend on how many territories are part of the [[Urizen]] nation and connected to the Heliopticon network.

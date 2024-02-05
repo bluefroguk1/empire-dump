@@ -17,15 +17,15 @@ Offensive Spell|2
 You may call [[Shatter]] against the weapon, implement, or shield struck by your implement.
 Any weapon, implement or shield struck is broken and useless. Shattered items can be repaired with the [[Mend]] spell
 ## Sample [[Spellcasting]] Vocals
-* Let what has been made be unmade! - SHATTER!
-* [[Cathan Canae]] knows my name! - SHATTER!
-* (''glaring and gesturing contemptuously'') I judge you unworthy to have such a thing - SHATTER!
+* Let what has been made be unmade! - [[Shatter|SHATTER]]!
+* [[Cathan Canae]] knows my name! - [[Shatter|SHATTER]]!
+* (''glaring and gesturing contemptuously'') I judge you unworthy to have such a thing - [[Shatter|SHATTER]]!
 * (''quickly sketching [[The Drowned Man|the Drowned Man]] in the air with the other hand'') All things end! - SHATTER!
 * You [[Will|will]] be broken, as your (object) is broken - SHATTER!
 * Winter warps the world! - SHATTER Suggested by Anthony White
 ## Common Elements
-* [[Rune]] Magic: As the spell represents the [[Ruin|ruin]] of crafted objects, the dangerous Rune of Storms, [[Mawrig]]. is used by many runecasters. The Rune of Might, [[Verys]], can represent irresistible strength that smashes all that stands before it, while some magicians favour [[Kyrop]], the Rune of [[Weakness]], representing the idea that any object is only as durable as its weakest spot.
+* [[Rune]] [[Magic]]: As the spell represents the [[Ruin|ruin]] of crafted objects, the dangerous Rune of Storms, [[Mawrig]]. is used by many runecasters. The Rune of Might, [[Verys]], can represent irresistible strength that smashes all that stands before it, while some magicians favour [[Kyrop]], the Rune of [[Weakness]], representing the idea that any object is only as durable as its weakest spot.
 * [[Astronomancy]]: An astronomancer might swiftly sketch the [[Constellation|constellation]] of [[The Drowned Man]] in the air before unleashing the force of this spell, or evoke the grim red eye of [[The Wanderer]] before metaphorically wrenching the target object apart.
 * [[Dramaturgy]]: A dramaturgist may express the precise, merciless mien of [[The Doctor]] before destroying something, or affect the whimsical and reckless nature of [[The Mountebank]] before bringing [[Ruin|ruin]] down on the target.
 * Other traditions: A Dawnish [[Witch|witch]] might evoke echoing roar of the mighty chimera, or the irresistible strength of a giant or [[Ogre]] when casting this spell - while a witch of a darker mien may evoke the hateful, ruinous nature of the manticore. For a [[Kallavesi]] or a Varushkan [[Mage|mage]], the powerful claws of the bear might prove a suitable totem to call on. A more devout magician might evoke the name of [[Inga Tarn]], while incantations referencing [[Llofir]], [[Cathan Canae]], [[Sorin]]. or even [[The Thrice-cursed Court]] are all equally appropriate.
-* [[Realms]]: Destroying crafted objects has a powerful resonance with both Spring and Winter. Irresistible force that breaks through any barrier resonates with both Summer and [[Day]] - and the both Day and Winter resonate with the idea of finding weak points and exploiting them (albeit in very different ways). [[Night]] has no resonance with this spell, and the powers of [[Autumn]] are more resonant with the idea of mending what magic has broken than with destroying the fruits of the crafter's skill.
+* [[Realms]]: Destroying crafted objects has a powerful resonance with both Spring and Winter. Irresistible force that breaks through any barrier resonates with both Summer and [[Day]] - and the both Day and Winter resonate with the idea of finding weak points and exploiting them (albeit in very different ways). [[Night]] has no resonance with this spell, and the powers of [[Autumn]] are more resonant with the idea of mending what [[Magic|magic]] has broken than with destroying the fruits of the crafter's skill.

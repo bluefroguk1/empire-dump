@@ -15,4 +15,4 @@ As with many item intended for use by a priest, these vestments are often hallow
 ## Rules
 Vestments
 * Effect: Three times per [[Day|day]] while wearing this robe, you may use get it together as if you know it without spending any hero points.
-* [[Materials]]: Crafting a Keeper's Habit requires seven ingots of orichalcum, four ingots of green iron, five measures of ambergelt, seven measures of [[Dragonbone|dragonbone]], four measures of beggar's lye, and four measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a Keeper's Habit requires seven ingots of orichalcum, four ingots of green iron, five measures of [[Ambergelt|ambergelt]], seven measures of [[Dragonbone|dragonbone]], four measures of beggar's lye, and four measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

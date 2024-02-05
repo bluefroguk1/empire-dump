@@ -14,10 +14,10 @@ Performing this ritual takes at least 2 minutes of roleplaying. This ritual targ
 ## Effects
 The next time the recipients of this ritual sleep, they experience vivid dreams of riding a [[Horse|horse]]. The two targets do not share a vision – each is distinct and separate.
 When they wake, they each experience a [[Roleplaying effect]]: ''you have experienced a vivid dream of riding a [[Horse|horse]]. You are unable to fully describe the feeling, but are left with a persistent sense of wonder that lasts until next time you sleep.''
-This ritual is not powerful enough to overcome curses which cause disturbed sleep such as [[Dreamscape of the Endless Hunt]]. In this case the target's dreams [[Will|will]] include horse-like monsters and a sense of being chased, but [[Will|will]] provide no roleplaying effect.
+This ritual is not powerful enough to overcome curses which cause disturbed sleep such as [[Dreamscape of the Endless Hunt]]. In this case the target's dreams [[Will|will]] include [[Horse|horse]]-like monsters and a sense of being chased, but [[Will|will]] provide no roleplaying effect.
 Likewise, if the target is unable to dream for whatever reason (such as the effects of [[Excommunication]], or being bonded to a [[Shackle of the Unvirtuous]]), the ritual has no effect.
 The Pegasus
-One common image in these dreams that is somewhat unexpected is the image of a horse with wings that flies. There is absolutely no evidence that such creatures have ever existed. While there are suits of horse barding in [[Highguard]] with decorative wings attached that protected the legs of the rider from attackers on the ground. 
+One common image in these dreams that is somewhat unexpected is the image of a [[Horse|horse]] with wings that flies. There is absolutely no evidence that such creatures have ever existed. While there are suits of [[Horse|horse]] barding in [[Highguard]] with decorative wings attached that protected the legs of the rider from attackers on the ground. 
 The winged horse itself, however, is a creation of legend and mythology - while horses were swift, they did not fly and it is unlikely one would ever be able to fly in the manner the pegasus is depicted. Rather, the pegasus is a heraldic symbol of speed, grace, and [[Pride|pride]] - even beyond the characteristics associated with horses normally. 
 And yet… they have turned up in roughly one-in-twelve of the visions experienced as a result of this ritual.
 ## Description
@@ -29,8 +29,8 @@ Experimentation indicated there are similarities between the dreams experienced;
 Some recipients experienced a different horse each time they received the ritual, and others spoke of riding the same creature each time. These experiences tend to support the supposition that the vision is not based on a specific memory of [[Events|events]] that actually happened. 
 Even though the ritual affects two individuals, they each dream separately.
 ## OOC Note
-You should feel free to create details of your horse-riding dream using the information presented here as a starting point. A [[Referee|referee]] will not provide additional specific information about the dream beyond what is presented here.
+You should feel free to create details of your horse-riding dream using the information presented here as a starting point. A [[Referee|referee]] [[Will|will]] not provide additional specific information about the dream beyond what is presented here.
 ## Performing the Ritual
 The ritual attunes two individuals so that they experience a powerful dream. The ritual ideally should include images of horses; recitation of poetry, and evocations of the loyal, swift spirit of the majestic beasts. 
-Ideally the ritual should be performed close to the point where the targets will retire for the night; in theory the more time passes between the ritual and the moment they sleep, the less powerful and vivid the vision will be.
+Ideally the ritual should be performed close to the point where the targets [[Will|will]] retire for the night; in theory the more time passes between the ritual and the moment they sleep, the less powerful and vivid the vision [[Will|will]] be.
 The [[Rune|rune]] [[Feresh]], the rune of Majesty , has a potent resonance; in theory the [[Runes|runes]] of Mystery and Revelation alike would also work well with this ritual. Surprisingly, astronomancers report that [[The Key]] resonates well with this ritual but [[The Stallion]] does not. Attempts to invoke [[The Stallion|the Stallion]] actually caused the ritual to fail completely. Dramaturgically, the Persona of [[The Witch]] worked well, and unsurprisingly the totemic [[Magician|magician]] finds horses, pegasus, and unicorns work well with the ritual.

@@ -9,9 +9,9 @@ revision_id: 85492
 ---
 
 __NOTOC__
-To create the title ‘Emissary of [[The Celestial Library|the Celestial Library]]’, a national title appointed by vote of the magicians of [[Urizen]]. To be responsible for aiding the scholars and librarians of [[Urizen]] and [[The Empire|the Empire]], aiding them in the responsible spread of knowledge, supporting libraries and places of learning. Interceding between such people and [[Phaleron]], [[The Celestial Library|the Celestial Library]]. The title holder [[Will|will]] receive Regalia created by [[Phaleron]] to assist in casting [[Skein of Years]] and [[Gift of Knowledge]]. Also [[Will|will]] be able to request information on one topic. This position to be revokable by the Urizen National [[Assembly]].''Proposed by [[Spiral]], seconded by [[Skarsind]]''
+To create the title ‘Emissary of [[The Celestial Library|the Celestial Library]]’, a national title appointed by vote of the magicians of [[Urizen]]. To be responsible for aiding the scholars and librarians of [[Urizen]] and [[The Empire|the Empire]], aiding them in the responsible spread of knowledge, supporting libraries and places of learning. Interceding between such people and [[Phaleron]], [[The Celestial Library|the Celestial Library]]. The title holder [[Will|will]] receive Regalia created by [[Phaleron]] to assist in casting [[Skein of Years]] and [[Gift of Knowledge]]. Also [[Will|will]] be able to request information on one topic. This position to be revokable by the [[Urizen]] National [[Assembly]].''Proposed by [[Spiral]], seconded by [[Skarsind]]''
 ## Overview
-* To create a new Urizen national title "[[Emissary to the Celestial Library]]" in concert with the [[Eternal]] Phaleron.
+* To create a new [[Urizen]] national title "[[Emissary to the Celestial Library]]" in concert with the [[Eternal]] [[Phaleron]].
 * Passed
 ## Date
 * [[Summer]] 383YE

@@ -19,8 +19,8 @@ The [[Sinecure|sinecure]] provides seven measures of [[Liao]] to the Curator eac
 ### Voice in [[The Synod|the Synod]]
 [[Curator of the White City Museum]] may sit in the [[Imperial Synod]], and possesses 14 votes in [[Synod]] affairs (or an additional 14 votes if they already have a [[Congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible. 
 ## [[Appointment]]
-Curator of the White City Museum is a national position appointed by the Synod. It is elected by [[Judgement]] of the [[Highguard]] [[Assembly]].
-The title can be held by a [[Highguard]] citizen. The Curator has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] Assembly, the Highguard [[National Assembly]], and by the [[Assembly of the Nine]].
+[[Curator of the White City Museum]] is a national position appointed by the Synod. It is elected by [[Judgement]] of the [[Highguard]] [[Assembly]].
+The title can be held by a [[Highguard]] citizen. The Curator has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the [[Highguard]] [[National Assembly]], and by the [[Assembly of the Nine]].
 ## White City Museum
 The museum was established following the destruction of the Tabernacle Museum of Antiquities by the [[Druj]], and many of the original parts of the collection were items recovered from the ruins by heroic Imperial action.
 RecentElections|Curator_of_the_White_City_Museum

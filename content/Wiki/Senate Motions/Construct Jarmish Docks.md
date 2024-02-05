@@ -17,12 +17,12 @@ Proposed by [[Kallavesa]], Seconded by [[Redoubt]]
 ### Date
 * [[Winter]] 380YE
 ### [[Cost]]
-* 15 wains of weirwood
+* 15 wains of [[Weirwood|weirwood]]
 * 15 wains of [[White granite|white granite]]
 * 60 crowns in labour costs
 * 3 months to construct
 ### Progress
-* 15 wains of weirwood, 15 wains of [[White granite|white granite]], and 60 crowns provided by Olle Markusson after Winter Solstice 380YE.
+* 15 wains of [[Weirwood|weirwood]], 15 wains of [[White granite|white granite]], and 60 crowns provided by Olle Markusson after Winter Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
 * There are necessary details missing from this motion, [[Senator]] [[Kallavesa]] may decide on these.
 * once completed created the title [[Prime Factor of the Pallas Docks]].

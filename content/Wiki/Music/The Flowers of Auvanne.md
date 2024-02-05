@@ -29,7 +29,7 @@ Sir Endric stood firm and steady,
 His armour shining in the sun.
 His sword in noble hand held
 His legend to soon be won.
-Has Dawn seen such [[Heroes|heroes]] since?
+Has [[Dawn]] seen such [[Heroes|heroes]] since?
 Such [[Glory|glory]] and such beauty,
 Enough to make bards weep
 As they described them in their duty.

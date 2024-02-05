@@ -12,8 +12,8 @@ __NOTOC__
 [[The Throne]] announces through her power of Voice of [[The Empire|the Empire]] that the [[Warmage]], Heilyn Bronwen’s Rest shall address the citizens of [[The Empire|the Empire]] following the [[Summer|summer]] solstice summit of 381YE.
 Announced by [[Empress Lisabetta]].
 ### Overview
-* [[The Throne]] has announced their intent to use their power to allow the [[Warmage]] to Address the Empire.
+* [[The Throne]] has announced their intent to use their power to allow the [[Warmage]] to Address [[The Empire|the Empire]].
 ### Date
 * Summer 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The address was delivered to the citizens of the Empire. The text of the address can be found here.
+* The address was delivered to the citizens of [[The Empire|the Empire]]. The text of the address can be found here.

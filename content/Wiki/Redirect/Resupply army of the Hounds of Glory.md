@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Resupply army of the Hounds of Glory
 aliases: ['Resupply_army_of_the_Hounds_of_Glory']

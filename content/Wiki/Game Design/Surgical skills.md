@@ -37,13 +37,13 @@ If you spend at least 2 minutes of Appropriate roleplaying treating a character 
 If you spend at least 3 minutes of Appropriate roleplaying treating a character who is terminal then you may allow the character to act as if they are not in pain.
 If you spend at least 5 minutes of Appropriate roleplaying treating a character who is wounded then they regain all lost global hits after ten minutes of rest and relaxation. This roleplaying can only be performed in a tent or similar building suited for use as a physick's chamber - it cannot be performed on a battlefield.
 You can also use this skill to attempt to diagnose what is wrong with a patient. You must ask a ref if there is anything else you can tell about your patient, and what you can do to fix the problem.
-You can also apply medicinal herbs directly to a patient to treat them. There are five herbs in Empire; each can be used to treat a different effect. You must spend at least 30 seconds of appropriate roleplaying to apply a herb, but it is also  possible to apply a single herb while treating a character using the chirurgeon skill. 
-If you or your patient attacks another character, or either of you are hit, then the attempt to use the herb fails. The herb is not lost but you must begin the roleplaying again. 
-Herbs are produced by a [[Herb garden|herb garden]], and are measured in ''drams''. Any character can choose to start with a [[Herb garden|herb garden]], which is a personal [[Resource|resource]]. A starting herb garden produces fourteen herbs per event, six drams of true vervain and two of each of the others.
+You can also apply medicinal herbs directly to a patient to treat them. There are five herbs in Empire; each can be used to treat a different effect. You must spend at least 30 seconds of appropriate roleplaying to apply a [[Herb|herb]], but it is also  possible to apply a single [[Herb|herb]] while treating a character using the chirurgeon skill. 
+If you or your patient attacks another character, or either of you are hit, then the attempt to use the [[Herb|herb]] fails. The herb is not lost but you must begin the roleplaying again. 
+Herbs are produced by a [[Herb garden|herb garden]], and are measured in ''drams''. Any character can choose to start with a [[Herb garden|herb garden]], which is a personal [[Resource|resource]]. A starting [[Herb garden|herb garden]] produces fourteen herbs per event, six drams of true vervain and two of each of the others.
 ## [[Apothecary]]
 *2-point skill
 *Herbs can be mixed to produce a [[Potion|potion]] that can be taken by any character
-You are able to mix herbs together at an event to produce a [[Potion]] that recreates the effects of the herbs but that can be drunk by any character. It requires five seconds of Appropriate roleplaying to drink a potion.
+You are able to mix herbs together at an event to produce a [[Potion]] that recreates the effects of the herbs but that can be drunk by any character. It requires five seconds of Appropriate roleplaying to drink a [[Potion|potion]].
 This skill gives you the ability to mix all five of the [[Apothecary Potions]] automatically. You can take the extra recipe skill to learn how to make additional potions.
 ## Extra Recipe
 *1-point skill

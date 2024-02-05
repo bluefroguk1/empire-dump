@@ -9,10 +9,10 @@ revision_id: 94623
 ---
 
 __NOTOC__
-To build a merchant hall to organise the refugees of [[Ossium]] as they settle in [[Karsk]]. It [[Will|will]] give either [[Forest|forest]] of [[Mine|mine]] resources in exchange for coin. This [[Will|will]] create the title “the [[Warden of the Trees and Hills]]” and will be elected by the [[Forest|forest]] and [[Mine|mine]] owners of [[Varushka]] once a year. 
+To build a merchant hall to organise the refugees of [[Ossium]] as they settle in [[Karsk]]. It [[Will|will]] give either [[Forest|forest]] of [[Mine|mine]] resources in exchange for coin. This [[Will|will]] create the title “the [[Warden of the Trees and Hills]]” and [[Will|will]] be elected by the [[Forest|forest]] and [[Mine|mine]] owners of [[Varushka]] once a year. 
 ''Proposed by [[Karsk]], seconded by [[Ossium]].''
 ## Outcome
-* Construct a [[Ministry]] in Karsk
+* Construct a [[Ministry]] in [[Karsk]]
 * Passed
 ## Date
 * [[Autumn]] 383YE
@@ -25,4 +25,4 @@ To build a merchant hall to organise the refugees of [[Ossium]] as they settle i
 CommissionProgress|Trees_and_Hills_Merchant_Hall
 ## [[Campaign outcome|Campaign Outcome]]
 * The location of the offices for the [[Warden]] of the Trees and Hills has not been decided upon and work cannot begin on this [[Commission|commission]] until it is.
-* Once completed this [[Commission|commission]] will be overseen by the title ''[[Warden of the Trees and Hills]]''
+* Once completed this [[Commission|commission]] [[Will|will]] be overseen by the title ''[[Warden of the Trees and Hills]]''

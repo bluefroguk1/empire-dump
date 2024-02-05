@@ -16,11 +16,11 @@ An announcement by [[Bearer of an Imperial Wayleave|bearer of an Imperial Waylea
 ## Date
 * [[Autumn]] 382YE
 ## [[Cost]]
-* This Sinecure uses standard costs.
+* This [[Sinecure]] uses standard costs.
 * 10 wains of [[Weirwood|weirwood]]
 * 20 crowns labour costs
 * three months to complete
 ## Progress
-* 10 wains of weirwood and 20 crowns provided by Lukash Biessek von [[Temeschwar]] after the Autumn equinox 382YE.
+* 10 wains of [[Weirwood|weirwood]] and 20 crowns provided by Lukash Biessek von [[Temeschwar]] after the Autumn equinox 382YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Sinecure creates an [[Imperial Title]], Drusilla's Obelus, that [[Will|will]] be auctioned through the [[Imperial Bourse]].
+* When complete, the [[Sinecure]] creates an [[Imperial Title]], Drusilla's Obelus, that [[Will|will]] be auctioned through the [[Imperial Bourse]].

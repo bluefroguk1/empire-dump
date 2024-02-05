@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Marches economic interests
 aliases: ['Marches_economic_interests']

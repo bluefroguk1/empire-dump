@@ -21,6 +21,6 @@ To accept the treaty with the [[Sarcophan Delves]]
 * That this enclave shall be granted to the Bedelaar Huisbaas Vandesaar for their use.
 * That the Bedelaar Huisbaas Vandersaar [[Will|will]] leave [[The Tomb|the Tomb]] ruins of the [[Empress Giselle]] as an Historic landmark, ensuring its status as such.
 * That the Bedelaar Huisbaas Vandersaar [[Will|will]] pay 4 rings of [[Ilium|ilium]] per season to the Imperial Holder of the [[Steel Fist]] [[Bourse|bourse]] Seat in addition to any other bounty for so long as the land remind conceded
-* That the Bedelaar Huisbaas will provide to [[The Empire|the Empire]], land within the Buitenlandsewijk in keeping with the requirements of the [[Imperial Constitution]] for the purpose of imperial construction
-* That the Empire agrees to use said land for the construction of a Temple of [[The Way|the Way]] at a time of its choosing
+* That the Bedelaar Huisbaas [[Will|will]] provide to [[The Empire|the Empire]], land within the Buitenlandsewijk in keeping with the requirements of the [[Imperial Constitution]] for the purpose of imperial construction
+* That [[The Empire|the Empire]] agrees to use said land for the construction of a Temple of [[The Way|the Way]] at a time of its choosing
 ## [[Campaign outcome|Campaign Outcome]]

@@ -20,5 +20,5 @@ I knew the risk I took when down beside you I had laid
 And lo, the breath of two new lives was well [[Worth|worth]] the price I paid
 [[Striding One|Striding one]], come dance with me and gaze back at which we have done
 [[Striding]] one, we've sown the threads by which the future shall be spun
-Striding one, you are my midday moon and I, your midnight sun
-Striding one...
+[[Striding One|Striding one]], you are my midday moon and I, your midnight sun
+[[Striding]] one...

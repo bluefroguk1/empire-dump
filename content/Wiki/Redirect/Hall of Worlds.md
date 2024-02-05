@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Hall of Worlds
 aliases: ['Hall_of_Worlds']

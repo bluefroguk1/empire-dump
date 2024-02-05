@@ -16,16 +16,16 @@ When it was created, The [[Seer of the Gateway]] had the power to withdraw funds
 The [[Seer]] of the Gateway has four main responsibilities. Firstly, to safeguard the well-being of visionaries and [[Guide|guide]] priests partaking in True [[Liao]]. They are also expected to record the visions, and experiences, of visionaries and guide priests, as well as to publish and disseminate their records and any conclusions. Finally, they are expected to be able to purchase [[Liao]] and other paraphernalia in support of their duties. 
 ## Powers
 ### Stipend
-The Seer of the Gateway receives a stipend of 2 Thrones each season from the [[Imperial treasury|Imperial Treasury]].
+The [[Seer of the Gateway]] receives a stipend of 2 Thrones each season from the [[Imperial treasury|Imperial Treasury]].
 __TOC__
 ### Publication
-The Seer of the Gateway is expected to compile and publish accounts of Imperial [[True liao|True Liao]] vision. During the Summer Solstice 382YE, the [[Imperial Senate]] agreed to pay to distribute copies of these documents to every foreign nation with which [[The Empire|the Empire]] trades. This decision was amended to exclude the [[Iron Confederacy]].
+The [[Seer]] of the Gateway is expected to compile and publish accounts of Imperial [[True liao|True Liao]] vision. During the Summer Solstice 382YE, the [[Imperial Senate]] agreed to pay to distribute copies of these documents to every foreign nation with which [[The Empire|the Empire]] trades. This decision was amended to exclude the [[Iron Confederacy]].
 ## [[Appointment]]
-The Seer of the Gateway is appointed by [[Judgement]] of the [[Assembly of the Nine]].
-Any Imperial citizen may hold the title. The Seer has [[Tenure]], and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]] and by the Assembly of the Nine.
+The [[Seer of the Gateway]] is appointed by [[Judgement]] of the [[Assembly of the Nine]].
+Any Imperial citizen may hold the title. The [[Seer]] has [[Tenure]], and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]] and by the [[Assembly]] of the Nine.
 ## Publication
-In the [[Spring]] of 380YE Livia struck a publication deal with [[The Spider|the Spider]]'s Vantage [[Spire]] of [[Redoubt]], who published her accounts of visionaries' experiences across [[The Empire|the Empire]]. You can find the existing ''Echoes of the Labyrinth'' texts below; the Spider's Vantage Spire have let it be known that they intend to publish more after each [[Anvil]] summit.
-During the Summer Solstice 382YE, the [[Senate]] agreed to fund the distribution of Echoes of the Labyrinth to [[Foreign Nations|foreign nations]] - or at least to [[The Nations|the nations]] the Empire trades with. Some [[Foreign Nations|foreign nations]] have received the volumes enthusiastically, some a little less so. Details of the somewhat mixed response can be found here.
+In the [[Spring]] of 380YE Livia struck a publication deal with [[The Spider|the Spider]]'s Vantage [[Spire]] of [[Redoubt]], who published her accounts of visionaries' experiences across [[The Empire|the Empire]]. You can find the existing ''Echoes of the Labyrinth'' texts below; the Spider's Vantage [[Spire]] have let it be known that they intend to publish more after each [[Anvil]] summit.
+During the Summer Solstice 382YE, the [[Senate]] agreed to fund the distribution of Echoes of the Labyrinth to [[Foreign Nations|foreign nations]] - or at least to [[The Nations|the nations]] [[The Empire|the Empire]] trades with. Some [[Foreign Nations|foreign nations]] have received the volumes enthusiastically, some a little less so. Details of the somewhat mixed response can be found here.
 {|
 |-
 |Dates of Visions || Volume

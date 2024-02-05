@@ -15,7 +15,7 @@ This motion to be self-funded by the people of [[Wintermark]] as a gift to the p
 Let this [[Sinecure]] stand as a reminder that [[The Empire|the Empire]] makes mistakes and should acknowledge them.Proposed by [[Kallavesa]], Seconded by [[Volodmartz]]
 __NOTOC__
 ### Overview
-* A Sinecure in the Greensward in the Mournwold.
+* A [[Sinecure]] in the Greensward in the [[Mournwold]].
 * Passed in principle
 ### Date
 * [[Autumn]] 381YE

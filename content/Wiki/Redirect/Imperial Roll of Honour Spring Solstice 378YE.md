@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Imperial Roll of Honour Spring Solstice 378YE
 aliases: ['Imperial_Roll_of_Honour_Spring_Solstice_378YE']

@@ -16,5 +16,5 @@ Disbursement of funds for strategic purposes.Proposed by [[Zenith]], Seconded by
 ### Date
 * [[Winter]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* 225 Thrones were disbursed to the [[Senator|senator]] for Zenith.
+* 225 Thrones were disbursed to the [[Senator|senator]] for [[Zenith]].
 .

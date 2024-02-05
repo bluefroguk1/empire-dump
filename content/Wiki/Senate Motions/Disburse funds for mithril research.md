@@ -17,7 +17,7 @@ To fund research by the [[Provost of the Halls of Knowledge]] to increase [[Mith
 ### [[Cost]]
 * Request was for 34 thrones toward the [[Cost|cost]] of research, and an additional 10 thrones to make the results part of [[Imperial lore|Imperial Lore]].
 ### Progress
-* Funds disbursed to [[Senator]] Redoubt
+* Funds disbursed to [[Senator]] [[Redoubt]]
 ### [[Campaign outcome|Campaign Outcome]]
 * Preliminary research has indicated that it is impossible to use [[Ritual|ritual]] [[Magic|magic]] to improve the production of [[Mithril|mithril]], [[White granite|white granite]], [[Weirwood|weirwood]] or [[Ilium]].
 ### Voting

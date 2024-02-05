@@ -26,5 +26,5 @@ Proposed by [[Upwold]], Seconded by [[Hahnmark]]
 * 150 Thrones disbursed to [[Senator]] [[Upwold]]
 * 40 wains of [[White granite|white granite]] and 10 thrones provided by Silas Merrick after the Winter Solstice 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* Construction of this fortification has begun and [[Will|will]] be completed shortly before the [[Summer]] solstice 380YE - assuming [[The Empire|the Empire]] still controls the site of the construction. 
+* Construction of this [[Fortification|fortification]] has begun and [[Will|will]] be completed shortly before the [[Summer]] solstice 380YE - assuming [[The Empire|the Empire]] still controls the site of the construction. 
 __NOTOC__

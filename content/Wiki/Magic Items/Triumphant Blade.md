@@ -14,4 +14,4 @@ A Dawnish [[Triumphant Blade]] often bears the [[Rune|rune]] [[Tykonus]], while 
 ## Rules
 One-Handed Weapons
 * Effect: You gain one additional hero point.
-* [[Materials]]: Crafting a Triumphant Blade requires ten units of [[Green iron|green iron]] and four ingots of [[Orichalcum|orichalcum]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Triumphant Blade]] requires ten units of [[Green iron|green iron]] and four ingots of [[Orichalcum|orichalcum]]. It takes one month to make one of these items.

@@ -16,12 +16,12 @@ The [[Elosian Architect]] is expected to oversee the Great Harbour of Elos, enga
 ### [[Ministry]]
 [[Cerulean Mazzarine]]
 5 ingots of green iron10 drams of [[Cerulean Mazzarine|cerulean mazzarine]]
-10 ingots of green iron18 drams of cerulean mazzarine
-15 ingots of green iron25 drams of cerulean mazzarine
+10 ingots of green iron18 drams of [[Cerulean Mazzarine|cerulean mazzarine]]
+15 ingots of green iron25 drams of [[Cerulean Mazzarine|cerulean mazzarine]]
 [[Bladeroot]]
 5 ingots of orichalcum9 drams of [[Bladeroot]]
-10 ingots of orichalcum16 drams of bladeroot
-15 ingots of orichalcum22 drams of bladeroot
+10 ingots of orichalcum16 drams of [[Bladeroot|bladeroot]]
+15 ingots of orichalcum22 drams of [[Bladeroot|bladeroot]]
 [[True Vervain]]
 5 ingots of weltsilver12 drams of true vervain
 10 ingots of weltsilver20 drams of true vervain

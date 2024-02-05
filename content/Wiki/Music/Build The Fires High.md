@@ -25,10 +25,10 @@ And may the wolves go hungry
 Gainst the fear and the cold''
 We are the mothers, fathers and brothers
 We are the sisters, husbands and lovers
-Build the fires high tonight
+[[Build The Fires High|Build the fires high]] tonight
 And may the wolves go hungry
 We are the Wardens, clearing your way
 We are the ones holding darkness at bay
-Build the fires high tonight
+[[Build The Fires High|Build the fires high]] tonight
 And may the wolves go hungry
 ''Chorus x2''

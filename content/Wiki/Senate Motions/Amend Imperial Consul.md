@@ -16,4 +16,4 @@ To grant the [[Imperial Consul]] a stipend.''Proposed by [[Miaren]], seconded by
 ## Date
 * [[Summer]] 382YE
 ## Outcome
-* A stipend was provided to the Imperial Consul
+* A stipend was provided to the [[Imperial Consul]]

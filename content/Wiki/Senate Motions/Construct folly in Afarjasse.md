@@ -20,5 +20,5 @@ Proposed by [[Temeschwar]], Seconded by [[Semmerholm]]
 ### Progress
 * 10 wains of [[White granite|white granite]] and 20 crowns provided by Gant Archama after Winter Solstice 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This folly is now complete.
+* This [[Folly|folly]] is now complete.
 __NOTOC__

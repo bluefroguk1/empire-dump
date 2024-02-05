@@ -21,8 +21,8 @@ To assign the Vigilent Swan [[Bourse|bourse]] positionPropsed by [[Necropolis]],
 ### [[Synod]] [[Veto]]
 * This motion was vetoed by the [[General]] [[Assembly]] of the [[Imperial Synod]]
 ### [[Campaign outcome|Campaign Outcome]]
-* The Imperial Synod used the power of the Veto.
+* The [[Imperial Synod]] used the power of the [[Veto]].
 * The motion to assign the [[Vigilant Swan]] cannot be raised again during the current summit.
-* The Vigilant Swan is currently unassigned. Production from Spring 379YE [[Will|will]] be stockpiled and made available to the first Imperial citizen elected to operate this [[Imperial Bourse]] [[Resource|resource]].
+* The [[Vigilant Swan]] is currently unassigned. Production from Spring 379YE [[Will|will]] be stockpiled and made available to the first Imperial citizen elected to operate this [[Imperial Bourse]] [[Resource|resource]].
 ### Constitution
 * If the motion had passed, the National status of [[The Bourse|the Bourse]] Seat would have followed the nation the [[Territory|territory]] of [[Reikos]] was eventually assigned to.

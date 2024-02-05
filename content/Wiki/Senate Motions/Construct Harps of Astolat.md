@@ -11,7 +11,7 @@ revision_id: 86061
 __NOTOC__
 to construct the Harps of [[Astolat]], a mana [[Great work|great work]].Proposed by [[Astolat]], seconded by [[Sarvos]].
 ## Overview
-* This motion builds a powerful [[Great work]] in Astolat related to this [[Opportunity|opportunity]]
+* This motion builds a powerful [[Great work]] in [[Astolat]] related to this [[Opportunity|opportunity]]
 * Passed at 150 thrones.
 ## Date
 * [[Winter]] 381YE
@@ -23,5 +23,5 @@ to construct the Harps of [[Astolat]], a mana [[Great work|great work]].Proposed
 ## Progress
 * 35 wains of [[Weirwood|weirwood]], 15 wains of [[Mithril|mithril]] and 100 crowns provided by Bohemond De Rondell after Winter Solstice 381YE.
 ### Outcome
-* Created a great work in Astolat
-* Every [[Mana site|mana site]] in Astolat owned by a Dawnish citizen [[Will|will]] receive a share of 45 additional crystal mana each season as long as the central harp at Weaving remains unmolested.
+* Created a [[Great work|great work]] in [[Astolat]]
+* Every [[Mana site|mana site]] in [[Astolat]] owned by a Dawnish citizen [[Will|will]] receive a share of 45 additional crystal mana each season as long as the central harp at Weaving remains unmolested.

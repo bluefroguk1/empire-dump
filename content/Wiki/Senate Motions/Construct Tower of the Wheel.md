@@ -23,5 +23,5 @@ Announcement: Using the power of the [[Arcane Architect|arcane architect]], I sh
 ## Progress
 * 400 rings and 10 wains of [[Weirwood|weirwood]] provided by Vitore after Autumn Equinox 362YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Sinecure [[Will|will]] create an [[Imperial Title]]; the [[Watcher of the Wheel]].
-* Each season the Watcher will be able to harvest and process magically infused plants that will yield one portion each of warm ashes, vital honey, crystal fire, and heart's blood.
+* When complete, the [[Sinecure]] [[Will|will]] create an [[Imperial Title]]; the [[Watcher of the Wheel]].
+* Each season the Watcher [[Will|will]] be able to harvest and process magically infused plants that [[Will|will]] yield one portion each of warm ashes, vital honey, crystal fire, and heart's blood.

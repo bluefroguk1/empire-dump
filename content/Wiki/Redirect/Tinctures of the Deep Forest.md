@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tinctures of the Deep Forest
 aliases: ['Tinctures_of_the_Deep_Forest']

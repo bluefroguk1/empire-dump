@@ -19,11 +19,11 @@ To create the [[Sinecure]] “Starlight Drift of Shimmering Snow”, to produce 
 * 10 wains of [[Mithril|mithril]] and 2 thrones
 * Time: 3 months
 ### Progress
-* 10 wains of [[Mithril|mithril]] and 2 thrones supplied by Cato, [[Senator|senator]] for Zenith after Autumn Equinox 378.
+* 10 wains of [[Mithril|mithril]] and 2 thrones supplied by Cato, [[Senator|senator]] for [[Zenith]] after Autumn Equinox 378.
 ### [[Campaign outcome|Campaign Outcome]]
-* When complete, the sinecure [[Will|will]] automatically create the title of [[Custodian of the Starlight Drift]].
+* When complete, the [[Sinecure|sinecure]] [[Will|will]] automatically create the title of [[Custodian of the Starlight Drift]].
 ### Constitution
 * Sinecures are life-time appointments. 
-* The title will be a National position, appointed by unanimous decision of the Senators for [[Urizen]].
-* The title will be able to be revoked by the [[Urizen]] [[Assembly|assembly]], the [[General]] [[Assembly|assembly]] and the Assembly of nine.
+* The title [[Will|will]] be a National position, appointed by unanimous decision of the Senators for [[Urizen]].
+* The title [[Will|will]] be able to be revoked by the [[Urizen]] [[Assembly|assembly]], the [[General]] [[Assembly|assembly]] and the [[Assembly]] of nine.
 __NOTOC__

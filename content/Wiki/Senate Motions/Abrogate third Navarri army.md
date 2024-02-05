@@ -17,4 +17,4 @@ Proposed by [[Therunin]], seconded by [[Sermersuaq]]
 ### Date
 * [[Winter]] 380YE
 ### [[Campaign outcome|Campaign Outcome]]
-It is no longer legally possible to raise a third Navarr army without a new motion to approve it.
+It is no longer legally possible to raise a third [[Navarr]] army without a new motion to approve it.

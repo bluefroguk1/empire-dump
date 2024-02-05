@@ -35,6 +35,6 @@ Casia nodded, and paused to produce a notebook in which the name was carefully i
 Garath blanched, “That’s [[Mine|mine]]! You’ve no right…”
 “I think you [[Will|will]] find that priests of the Synod have the right to go a great many places,” Casia interrupted calmly, as she took the bag from the armed man. Reaching in she produced a handful of small documents.
 “Oh my,” she said, her tone unchanged despite the expression of surprise, “I do believe I have seen some of these in the tavern. Leaflets extolling the [[Glory|glory]] of Elora, Goddess of Hope.”
-The black eyes fixed themselves on Garath again, “I do believe that’s heresy, blasphemy and idolatry in one single stroke. Thank you for your time Broker Garath, your [[Inquisition|inquisition]] is concluded. I would suggest you do not make any plans to leave [[Anvil]] as I am quite sure the [[Magistrates|magistrates]] will be wanting a word.”
+The black eyes fixed themselves on Garath again, “I do believe that’s heresy, blasphemy and idolatry in one single stroke. Thank you for your time Broker Garath, your [[Inquisition|inquisition]] is concluded. I would suggest you do not make any plans to leave [[Anvil]] as I am quite sure the [[Magistrates|magistrates]] [[Will|will]] be wanting a word.”
 As Garath rose, Casia gestured and the two Sentinels moved to either side of him. Garath glared at his shadows, but said nothing as he left the tent with the two following him.
 Synod Further Reading

@@ -12,7 +12,7 @@ __NOTOC__
 I, the [[Civilian Commissioner]] of the [[Imperial Orcs]] [[Commission|commission]] the construction of the Home of the Broken Shield, a communal home for those [[Imperial Orcs]] of the Broken Shield. Approved by the [[Civilian Commissioner]] of the [[Imperial Orcs]]
 ### Overview
 * A [[Sinecure]] that produces [[Herbs|herbs]] in Skogei's Glen, [[Skarsind]]
-* This motion was announced by the Civilian Commissioner of The Imperial Orcs using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This motion was announced by the [[Civilian Commissioner]] of The [[Imperial Orcs]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Winter]] 380YE
 ### [[Cost]]
@@ -22,5 +22,5 @@ I, the [[Civilian Commissioner]] of the [[Imperial Orcs]] [[Commission|commissio
 ### Progress
 * 10 wains of [[Weirwood|weirwood]] and 20 crowns provided by Bloodcrow Yargol after Winter Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, the construction [[Will|will]] automatically create a new national title within the Imperial Orcs, [[Broken Shield Guardian]].
+* Once completed, the construction [[Will|will]] automatically create a new national title within the [[Imperial Orcs]], [[Broken Shield Guardian]].
 * Certain necessary details are required before construction can be started.

@@ -19,5 +19,5 @@ The [[Sinecure|sinecure]] provides 8 measures of [[Liao]] to the Curator each se
 The Voice may sit in the [[Imperial Synod]], and possesses 16 votes in [[Synod]] affairs (or an additional 16 votes if they already have a [[Congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible.
 ## [[Appointment]]
 The [[Curator of the Blood Red River]] is a national position appointed by the Synod. It is elected by [[Judgement]] of the [[National Assembly]] of [[The League|the League]] .
-The title can be held by any citizen of [[The League|the League]]. The Curator has [[Tenure|tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the [[League]] National Assembly, and by the [[Assembly of the Nine]].
+The title can be held by any citizen of [[The League|the League]]. The Curator has [[Tenure|tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the [[League]] National [[Assembly]], and by the [[Assembly of the Nine]].
 RecentElections|Curator_of_the_Blood_Red_River

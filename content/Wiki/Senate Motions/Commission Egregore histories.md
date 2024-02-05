@@ -22,5 +22,5 @@ We propose the creation of a written [[History|history]] of the lives of the [[E
 The civil service opinion is that the [[Senate]] could have chosen to create an Imperial position with the responsibility to compile [[Egregore]] biographies and histories. The position could have been granted a stipend. Without the creation of an Imperial position, this motion has no legal implications.
 It is important to note that no Egregore, current or past, is obligated to co-operate with this project - any more than any citizen of [[The Empire|the Empire]] is required to share their history with strangers.
 ### [[Campaign outcome|Campaign Outcome]]
-While there are no Imperial archives as such, reasonable efforts will be made to ensure that copies of completed histories will be made available to the people of [[The Empire|the Empire]].
+While there are no Imperial archives as such, reasonable efforts [[Will|will]] be made to ensure that copies of completed histories [[Will|will]] be made available to the people of [[The Empire|the Empire]].
 __NOTOC__

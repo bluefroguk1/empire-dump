@@ -15,7 +15,7 @@ When combined with a [[Woundbinder]] wand, the two items together are sometimes 
 ## Rules
 [[Mage]] Robes
 * Effect: Three times per [[Day|day]] you can cast [[Heal]], [[Purify]] or [[Restore Limb]]  on another character without expending any mana. You must be able to cast the appropriate spell to use this power. 
-* [[Materials]]: Crafting a [[Robe of Blood and Bone]] requires nine ingots of weltsilver, six measures of ambergelt, seven measures of beggar's lye, and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Robe of Blood and Bone]] requires nine ingots of weltsilver, six measures of [[Ambergelt|ambergelt]], seven measures of beggar's lye, and three measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
 I’d been hit in the gut, real bad, and I was dying.
 It’s sort of funny how life sort of slows down, like your mind is so dead set on not being dead that it takes in as much as possible, for as long as possible. The brigands had almost finished us off; only a few of Highbridge’s beaters were left.
 Then they arrived. They didn’t so much as march, as flow. An orc legion, in full marching formation, somehow ending up at the same muddy brigand ambush that we had, only they come up once the trap’s been sprung.

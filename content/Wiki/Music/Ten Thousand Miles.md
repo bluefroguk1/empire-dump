@@ -21,7 +21,7 @@ And farewell for a while.
 I’m going away, but I’ll be back
 If I go [[Ten Thousand Miles|ten thousand miles]].
 [[Ten Thousand Miles|Ten thousand miles]], my own true love,
-Ten thousand miles or more,
+[[Ten Thousand Miles|Ten thousand miles]] or more,
 And the rocks may melt and the seas may burn,
 If I no more return.
 Oh don’t you see that lonesome dove,
@@ -35,4 +35,4 @@ You’ve been a friend to me.
 And fare you well my own true love
 And farewell for a while.
 I’m going away, but I’ll be back
-If I go ten thousand miles.
+If I go [[Ten Thousand Miles|ten thousand miles]].

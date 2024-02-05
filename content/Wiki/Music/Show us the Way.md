@@ -15,16 +15,16 @@ The [[Heroes|heroes]] of [[The Empire|the Empire]], [[Will|will]] you send your 
 We [[Will|will]] rise up, like the orcs of old and overthrow our masters
 But soon we saw our uprising would lead us to disaster
 Beneath the Asavean sun, don’t look away, don’t look away
-[[Heroes]] of [[The Empire|the Empire]] Come, will you [[Show us the Way|show us the Way]]?
+[[Heroes]] of [[The Empire|the Empire]] Come, [[Will|will]] you [[Show us the Way|show us the Way]]?
 Beneath the Asavean sun, some came to join our cause
-The heroes of the Empire came, they landed on our shores
+The [[Heroes|heroes]] of [[The Empire|the Empire]] came, they landed on our shores
 The sailors came to lift us free, but the soldiers came to chain us
 They came back with our slave-masters to beat us and restrain us
 Beneath the Asavean sun, don’t look away, don’t look away
-Heroes of the Empire Come, will you show us [[The Way|the Way]]?
+[[Heroes]] of [[The Empire|the Empire]] Come, [[Will|will]] you show us [[The Way|the Way]]?
 Beneath the Asavean sun, our slavery remains
-The heroes of the Empire, they returned me to my chains
-I cry out, who will help us, to old Marracoss we flee
+The [[Heroes|heroes]] of [[The Empire|the Empire]], they returned me to my chains
+I cry out, who [[Will|will]] help us, to old Marracoss we flee
 So, heroes of the Empire, will you come and [[Fight|fight]] for me?
 Beneath the Asavean sun, don’t look away, don’t look away
 Heroes of the Empire Come, will you [[Show us the Way|show us the Way]]?

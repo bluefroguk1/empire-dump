@@ -21,4 +21,4 @@ Approved by the [[Civilian Commissioner]] of the [[Imperial Orcs]]
 ### Progress
 * 10 wains of [[Mithril|mithril]] and 20 crowns provided by Yargol after Autumn Equinox 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure, once complete, [[Will|will]] create the title of [[Storm Shaman]], a national title for the [[Imperial Orcs]]
+* This [[Sinecure|sinecure]], once complete, [[Will|will]] create the title of [[Storm Shaman]], a national title for the [[Imperial Orcs]]

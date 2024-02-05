@@ -21,5 +21,5 @@ Request for access to archives for research of Exemplar [[Zemress]] past lives.'
 ### Progress
 * Complete
 ### [[Campaign outcome|Campaign Outcome]]
-* A report on the life of Zemress was compiled and presented to Darius i Ezmara i [[Erigo]] once funding was received.
+* A report on the life of [[Zemress]] was compiled and presented to Darius i Ezmara i [[Erigo]] once funding was received.
 __NOTOC__

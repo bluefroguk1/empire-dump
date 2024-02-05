@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Weapon checking
 aliases: ['Weapon_checking']
 draft: False
@@ -10,10 +10,10 @@ tags: ['Game-Design']
 
 ## Overview
 All weapons, bows, arrows, shields and armour, must be checked by a member of the Profound Decisions [[Weapon checking|weapon checking]] team before they are used at our [[Events|events]]. They check every item to ensure that the design, construction and condition of it is suitable for use at our [[Events|events]]. If they are not satisfied that an item is safe for use then you must secure the item in the OOC area and may not use it at the event. The team use the following guidelines when checking weapons.
-Not all weapons that are sold [[Online|online]] are suitable for use at Empire LRP events - even if they are sold for LRP. It is always advisable to buy your weapons from a trader on site where possible - to ensure the least possible chance of disappointment.
+Not all weapons that are sold [[Online|online]] are suitable for use at Empire LRP [[Events|events]] - even if they are sold for LRP. It is always advisable to buy your weapons from a trader on site where possible - to ensure the least possible chance of disappointment.
 ## [[Traders]]
 *You must get any item you buy at the event checked before you use it.
-Items on sale at all Profound Decisions events have not been checked by a weapon checker. Please take any item that you purchase to a weapon checker and have it checked.
+Items on sale at all Profound Decisions [[Events|events]] have not been checked by a weapon checker. Please take any item that you purchase to a weapon checker and have it checked.
 ## All weapons
 Weapons designed for [[Live roleplaying|live roleplaying]] are commonly constructed from a solid core that is surrounded in high-density foam and then covered with latex. Weapons must meet the following guidelines: 
 *The rigidity of the foam must protect the core and must not have degraded and become too soft
@@ -27,7 +27,7 @@ Weapons designed for [[Live roleplaying|live roleplaying]] are commonly construc
 *The handle must be securely attached to the rest of the weapon and must not be loose
 *The choice of former must be appropriate to the length of the weapon and must not be too heavy and rigid (especially for thrown weapons) or too light making the weapon ‘whippy’ (long weapons)
 ## Bows and Crossbows
-These are bows and crossbows designed to fire an LRP safe arrow or bolt. There is no bow competency testing at Profound Decisions events. We require any player using a bow to adhere to the same standards of safety and control as players using melee weapons. 
+These are bows and crossbows designed to fire an LRP safe arrow or bolt. There is no bow competency testing at Profound Decisions [[Events|events]]. We require any player using a bow to adhere to the same standards of safety and control as players using melee weapons. 
 *The string must be in good condition and must not be fraying
 *The body of the bow or crossbow, whether wood or fibreglass, must not show signs of cracking
 *The string notches must not be worn and must be able to hold the string firmly
@@ -57,7 +57,7 @@ For events currently you [[Will|will]] able to use shields with a rigid former a
 Therefore if you are making or buying new shields we strongly recommend you use a foam and latex shield.
 *A rigid former may currently be used during Empire events, but shields should preferably be of full-foam construction
 *If you use a rigid former then there must be at least 6mm of high-density foam on the face and no protruding bolts
-*The rim must be padded all round. Note that pipe lagging will quickly degrade will likely be insufficient after a relatively short time
+*The rim must be padded all round. Note that pipe lagging [[Will|will]] quickly degrade [[Will|will]] likely be insufficient after a relatively short time
 *Handles must be securely fixed so that they do not cause the shield to “flap” from the arm/ hand
 *Wing nuts must not be used to secure straps and any protruding bolts must be cut short
 ## Armour
@@ -70,7 +70,7 @@ The armour must have no sharp edges that could damage other player's weapons. Th
 ## Thrust safe polearms
 You may only thrust with a weapon that has been passed as ‘thrust-safe’ by a Profound Decisions weapons checker at that event.
 *Construction must combine a low-density foam tip with a high-density spear head
-*Specific construction guidelines will be forthcoming
+*Specific construction guidelines [[Will|will]] be forthcoming
 ## Props
 Battle props are items that are present in combat, but are not used as weapons. As they do not conform to the regulations that govern weapons and shields they must not be used for offence or active defence. As they are likely to be present in combat they must not have any extremely sharp protrusions. Otherwise they must be removed from the combat preferably in an out of [[The Way|the way]] area. 
 All weapons and implements taken onto a battlefield must have been passed by a weapon checker. You cannot use a wooden staff as a [[Mage|mage]] staff, or a wooden stick as a wand on a battlefield, even if you do not intend to hit anyone with it.

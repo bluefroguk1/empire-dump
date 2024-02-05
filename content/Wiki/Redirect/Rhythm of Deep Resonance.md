@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Rhythm of Deep Resonance
 aliases: ['Rhythm_of_Deep_Resonance']

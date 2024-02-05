@@ -9,8 +9,8 @@ revision_id: 97609
 
 Army Page
 ### Overview
-While [[The League|the League]] used to field a second army, the [[Towerjacks]], that army ceased to exist in 346YE when its officers and soldiers dedicated themselves to the defence of their home [[Territory|territory]] ([[Holberg]]). While they were active, the [[Towerjacks]] were known for their expertise at siege warfare. With the liberation of [[Holberg]], the officers of the Towerjacks  let it be known that they were prepared to return to active duty, provided they could be returned to full strength. A motion before [[The Senate|the Senate]] during the [[Summer]] Solstice 379YE gained permission to reinstate the Towerjacks. When their resupply and recruitment are complete, a new [[General]] was appointed in [[Winter]] 379YE.
-The second [[League]] [[General]] leads the Towerjacks army, and is appointed (or re-appointed) at the Winter Solstice each year.
+While [[The League|the League]] used to field a second army, the [[Towerjacks]], that army ceased to exist in 346YE when its officers and soldiers dedicated themselves to the defence of their home [[Territory|territory]] ([[Holberg]]). While they were active, the [[Towerjacks]] were known for their expertise at siege warfare. With the liberation of [[Holberg]], the officers of the [[Towerjacks]]  let it be known that they were prepared to return to active duty, provided they could be returned to full strength. A motion before [[The Senate|the Senate]] during the [[Summer]] Solstice 379YE gained permission to reinstate the [[Towerjacks]]. When their resupply and recruitment are complete, a new [[General]] was appointed in [[Winter]] 379YE.
+The second [[League]] [[General]] leads the [[Towerjacks]] army, and is appointed (or re-appointed) at the Winter Solstice each year.
 ### [[History]]
 TBC
 __TOC__
@@ -22,5 +22,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Engineer
-The soldiers of the Towerjacks were originally raised to take advantage of their expertise in siege tactics. Following an [[Opportunity|opportunity]] in [[Spring]] 384YE, and the Towerjacks having returned to Holberg in triumph through the Holmauer [[Gate]], they are [[The Empire|the Empire]]'s only engineer army.
-RecentElections|General_of_the_Towerjacks|the title of General of the Towerjacks
+The soldiers of the Towerjacks were originally raised to take advantage of their expertise in siege tactics. Following an [[Opportunity|opportunity]] in [[Spring]] 384YE, and the Towerjacks having returned to [[Holberg]] in triumph through the Holmauer [[Gate]], they are [[The Empire|the Empire]]'s only engineer army.
+RecentElections|General_of_the_Towerjacks|the title of [[General]] of the Towerjacks

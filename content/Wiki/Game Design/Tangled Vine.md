@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Tangled Vine
 aliases: ['Tangled_Vine']
 draft: False

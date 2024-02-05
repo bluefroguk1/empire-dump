@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Leaden Quicksilver
 aliases: ['Leaden_Quicksilver']

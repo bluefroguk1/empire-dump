@@ -15,14 +15,14 @@ The [[Bursar of the House of Spirits]] serves as liaison to students who visit a
 ## Powers
 [[Ilium]]
 23 Crowns1 ring of [[Ilium]]
-48 Crowns2 rings of ilium
-75 Crowns3 rings of ilium
-105 Crowns4 rings of ilium
+48 Crowns2 rings of [[Ilium|ilium]]
+75 Crowns3 rings of [[Ilium|ilium]]
+105 Crowns4 rings of [[Ilium|ilium]]
 138 Crowns5 rings of ilium
 ### [[Ministry]]
 As a [[Ministry]], the Bursar can purchase rings of ilium at a set price. The Bursar spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.
 ## [[Appointment]]
-This title is appointed during the Spring Equinox. The Bursar of the House of Spirits is appointed by citizens of [[Highguard]] who control [[Congregation]] personal resources. The larger the [[Congregation|congregation]] an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in [[The Bourse|the Bourse]]. 
+This title is appointed during the Spring Equinox. The [[Bursar of the House of Spirits]] is appointed by citizens of [[Highguard]] who control [[Congregation]] personal resources. The larger the [[Congregation|congregation]] an individual has, the more votes they can allocate in support to a candidate. The voting is handled by the civil servants in [[The Bourse|the Bourse]]. 
 Only a Highborn citizen may hold the title. They do not receive a seat on the [[Bourse]]. As a title appointed through the Bourse they cannot be revoked by the [[Imperial Synod]].
 Responsibilities Expectation
 RecentElections|Bursar_of_the_House_of_Spirits

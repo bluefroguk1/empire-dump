@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Brass Coast Economic Interests
 aliases: ['Brass_Coast_Economic_Interests']

@@ -14,7 +14,7 @@ Springtime blossom scents the air with flowers
 [[Summer]] sunlight brings long evening hours
 Chorus:
 O [[Varushka]]! O [[Varushka]], never more I'll roam
-In Varushka, in Varushka lies my [[Hearth and Home|hearth and home]]
+In [[Varushka]], in [[Varushka]] lies my [[Hearth and Home|hearth and home]]
 [[Autumn]] forests ring with axe and song
 [[Winter]]'s beauty only for the strong
 Chorus

@@ -15,7 +15,7 @@ Casting time|2 Target Character The target character must be a contributor parti
 [[Enchantment|enchantment]]
 ### Effects
 This [[Enchantment|enchantment]] allows the target to call MASS PARALYSE once during the duration. The character must be able to cast spells to make this call - it explicitly [[Will|will]] not work if they are wearing armour. 
-While under the effect of the enchantment, the target experiences a powerful [[Roleplaying effect]]: they feel detached from their emotions, and their passions are muted. They are conscious of their emotions, but not moved by them. This effect is especially pronounced for those with the [[Merrow]] [[Lineage]], and they may find they have additional difficulty understanding the emotional states of others, perhaps even going so far as to be mildly irritated by emotional displays.
+While under the effect of the [[Enchantment|enchantment]], the target experiences a powerful [[Roleplaying effect]]: they feel detached from their emotions, and their passions are muted. They are conscious of their emotions, but not moved by them. This effect is especially pronounced for those with the [[Merrow]] [[Lineage]], and they may find they have additional difficulty understanding the emotional states of others, perhaps even going so far as to be mildly irritated by emotional displays.
 The character who unleashes the power of the ritual is blinded for thirty seconds; they cannot see anything for the duration.
 [[Day]] Duration The power of the ritual can be invoked only ''once'' during this time.
 ### Additional Targets

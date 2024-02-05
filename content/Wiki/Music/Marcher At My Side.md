@@ -49,7 +49,7 @@ And now I preach to Tom Drake's army
 On [[The Battlefield|the battlefield]] 
 Chorus 
 (ending with "For I'd sooner be in 
-Tom Drake's, with a Marcher at my side") 
+Tom Drake's, with a [[Marcher At My Side|Marcher at my side]]") 
 4.Once I was a trapper 
 Culling [[Vermin|vermin]] on the [[Farm|farm]] 
 But I yearn to use my bow [[Skills|skills]] 
@@ -60,7 +60,7 @@ To go to cull the enemy,
 The Beaters at my side 
 Chorus 
 (ending with "For I'd sooner be a 
-[[Beater]], with a Marcher at my side") 
+[[Beater]], with a [[Marcher At My Side|Marcher at my side]]") 
 5.I bargain with Eternals, 
 I circle and recite 
 To bring the crops to fruitfulness 
@@ -71,7 +71,7 @@ This [[Upwold]] Keeper strives to keep
 His fellow [[Bounders]] sane 
 Chorus 
 (ending with "For I'd sooner be a 
-Bounder, with a Marcher at my side") 
+Bounder, with a [[Marcher At My Side|Marcher at my side]]") 
 6.The sickle that scythed through the grain 
 Now reaps a grimmer yield 
 And the billhook that repaired the hedge 

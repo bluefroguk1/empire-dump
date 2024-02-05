@@ -19,7 +19,7 @@ To request an Auditor to be chosen by full [[Synod]] by whichever means [[The Sy
 * This position has a responsibility to investigate Senate expenditure and report to the Senate.
 ### Election
 * Synod [[General]] [[Assembly]] [[Appointment]]
-The title is elected by the [[General Assembly]] of the [[Imperial Synod]], and once chosen [[Will|will]] serve for life, until they resign or until revoked by the [[General]] [[Assembly]] or Assembly of Nine.
+The title is elected by the [[General Assembly]] of the [[Imperial Synod]], and once chosen [[Will|will]] serve for life, until they resign or until revoked by the [[General]] [[Assembly]] or [[Assembly]] of Nine.
 The first election of the [[Auditor of Senatorial Accountability]] took place at the [[Autumn]] Equinox 377YE.
 The current incumbent is Nadezha Dava of [[Varushka]] 
 ### Constitution

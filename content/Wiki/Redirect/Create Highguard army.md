@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Create Highguard army
 aliases: ['Create_Highguard_army']

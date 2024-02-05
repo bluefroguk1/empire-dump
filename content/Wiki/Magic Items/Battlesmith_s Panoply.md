@@ -10,11 +10,11 @@ revision_id: 61002
 
 ## Description
 A Battlesmith's Panoply is a powerful suit of [[Mage|mage]] armour, granting both increased arcane power and durability. In [[Urizen]], where it is commonly called the ''Warlock's Net'', it is said that this [[Mage Armour|mage armour]] allows any [[Mage|mage]] to go into a battle unformed, focusing their strengths where they are most needed, being free to adapt and flow as their needs change. In [[Wintermark]], a [[Runesmith|runesmith]] wearing a battlesmith's panoply is often said to have forged himself for nothing but [[War|war]], and that those who bond to such an item make a powerful fork in their skein.
-These potent forms of mage armour are commonly brightly coloured, with multiple shades created by the extensive use of [[Iridescent gloaming|iridescent gloaming]] dye, [[Orichalcum|orichalcum]] and [[Weltsilver|weltsilver]] threads and the polished and subtly shaded [[Ambergelt|ambergelt]] inlays used in their construction. It often bears both of the [[Runes|runes]] [[Jotra]] and [[Wyr]].
+These potent forms of [[Mage|mage]] armour are commonly brightly coloured, with multiple shades created by the extensive use of [[Iridescent gloaming|iridescent gloaming]] dye, [[Orichalcum|orichalcum]] and [[Weltsilver|weltsilver]] threads and the polished and subtly shaded [[Ambergelt|ambergelt]] inlays used in their construction. It often bears both of the [[Runes|runes]] [[Jotra]] and [[Wyr]].
 ## Rules
-Mage Armour
+[[Mage]] Armour
 * Effect: You gain two additional points of personal mana and two additional ranks of endurance.
-* [[Materials]]: Crafting a Battlesmith's Panoply requires eleven ingots of orichalcum, seven ingots of [[Green iron|green iron]], seven ingots of weltsilver, nine measures of ambergelt, five measures of beggar's lye and eleven measures of iridescent gloaming. It takes one month to make one of these items.
+* [[Materials]]: Crafting a Battlesmith's Panoply requires eleven ingots of orichalcum, seven ingots of [[Green iron|green iron]], seven ingots of weltsilver, nine measures of [[Ambergelt|ambergelt]], five measures of beggar's lye and eleven measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
 "How does it work? Hard to explain to somebody without the gift of [[Magic|magic]] - no offence." Tacitus sipped his pale blue wine thoughtfully. 
 "Here.  Take a knight." His hand rested absently for a moment on one of his pieces, almost stroking it. "He puts on his armour a piece at a time until he's all covered up, head-to-toe.  Look at him and what do you see?  A man, a man wearing armour. Two things, connected but distinct."
 His hand drifted away again. He looked into the middle distance for a moment, twisting the stem of his glass. 

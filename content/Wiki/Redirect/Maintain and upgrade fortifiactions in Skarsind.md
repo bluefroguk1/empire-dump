@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Maintain and upgrade fortifiactions in Skarsind
 aliases: ['Maintain_and_upgrade_fortifiactions_in_Skarsind']

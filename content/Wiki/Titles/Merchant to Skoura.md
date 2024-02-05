@@ -20,9 +20,9 @@ Total CostProduction
 51 dragonbone48 random ingots
 -->
 ### Wealth of [[Skoura]]
-The Merchant to Skoura previously had access to a [[Ministry]], allowing the holder to purchase quantities of special [[Materials|materials]] at a set price. 
+The [[Merchant to Skoura]] previously had access to a [[Ministry]], allowing the holder to purchase quantities of special [[Materials|materials]] at a set price. 
 ## [[Appointment]]
-The Merchant to Skoura is appointed during the Spring Equinox each year. It is chosen by unanimous decision of the Urizen senators. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
-The title can be held by any Urizen citizen. They can be revoked by the [[General]] [[Assembly]], the Urizen [[National Assembly]], and by the [[Assembly of the Nine]].
+The Merchant to [[Skoura]] is appointed during the Spring Equinox each year. It is chosen by unanimous decision of the [[Urizen]] senators. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
+The title can be held by any [[Urizen]] citizen. They can be revoked by the [[General]] [[Assembly]], the [[Urizen]] [[National Assembly]], and by the [[Assembly of the Nine]].
 Responsibilities Expectation
 RecentElections|Merchant_to_Skoura

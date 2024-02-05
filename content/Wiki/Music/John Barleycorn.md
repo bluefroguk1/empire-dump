@@ -36,7 +36,7 @@ And the loader he served him worse than that,
 For he bound him to the cart.
 They wheeled him round and round the field
 Till they came unto a barn,
-And there they made a solemn mow of poor John Barleycorn.
+And there they made a solemn mow of poor [[John Barleycorn]].
 They hired men with the crab-tree sticks
 To cut him skin from bone,
 And the miller he served him worse than that,

@@ -15,4 +15,4 @@ The staff of the [[Archmage of Winter]] is a version of the [[Phlegmatic Staff]]
 ## Rules
 Ritual Staves
 * Effect: Gain 1 rank of Winter Lore, subject to the normal rules for effective skill.
-* [[Materials]]: Crafting a Phlegmatic Staff requires the eleven ingots of [[Green iron|green iron]], fourteen measures of beggar's lye and twenty measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.
+* [[Materials]]: Crafting a [[Phlegmatic Staff]] requires the eleven ingots of [[Green iron|green iron]], fourteen measures of beggar's lye and twenty measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

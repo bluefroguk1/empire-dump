@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Assassin_s Gate
 aliases: ["Assassin's_Gate"]

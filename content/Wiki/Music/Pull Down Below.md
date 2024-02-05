@@ -17,11 +17,11 @@ She’s the prettiest in the nation
 Resp:  [[Pull Down Below|Pull down below]]! 
 Chorus
 Oh Marcher Laddie
-Pull down below
+[[Pull Down Below|Pull down below]]
 Marcher Laddie, Bonnie Laddie
-Pull down below
+[[Pull Down Below|Pull down below]]
 For seven years he courted Sally
-Resp:  Pull down below!
+Resp:  [[Pull Down Below|Pull down below]]!
 And all he did was dilly-dally
 Resp:  Pull down below!  (Chorus)
 He bought no gowns, he bought no laces

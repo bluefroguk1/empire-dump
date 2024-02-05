@@ -6,9 +6,9 @@ For the purposes of record and to hold the [[Eternal]] [[Leviathan]] to account 
 
 **The Account:**
 
-Leviathan opened with that he was not one to gossip about Sadogua for those who are aware this should be taken with a grain of salt. Leviathan has a long and well recorded dislike of the [[Eternal]] Sadogua and as a result the rest of this response could be compromised by the Eternals grievances, however there is a later piece of information that does back up this account is likely correct in the broadest strokes.
+[[Leviathan]] opened with that he was not one to gossip about [[Sadogua]] for those who are aware this should be taken with a grain of salt. [[Leviathan]] has a long and well recorded dislike of the [[Eternal]] [[Sadogua]] and as a result the rest of this response could be compromised by the Eternals grievances, however there is a later piece of information that does back up this account is likely correct in the broadest strokes.
 
-He inferred there were several reasons. Sadogua had been interfering with the [[Sevenfold Path]], we know in recent times Sadogua was responsible for the death of [[Cardinal]] Ashur via desiring a true dose of [[Liao|liao]]. This sounds likely. He had been pushing to have more wizards declared Exemplars and Paragons much to the annoyance of those involved And lastly that Sadogua had tried to become a [[Paragon]] of [[Prosperity]] himself annoying others for similar reasons.
+He inferred there were several reasons. [[Sadogua]] had been interfering with the [[Sevenfold Path]], we know in recent times Sadogua was responsible for the death of [[Cardinal]] Ashur via desiring a true dose of [[Liao|liao]]. This sounds likely. He had been pushing to have more wizards declared Exemplars and Paragons much to the annoyance of those involved And lastly that Sadogua had tried to become a [[Paragon]] of [[Prosperity]] himself annoying others for similar reasons.
 
 But the main reason he states was because Teleri had found out he had advised the Teruneal on how to take down the [[Druj]] and his response angered her.
 
@@ -16,7 +16,7 @@ Leviathans account states that Sadogua approached the Teruneal and highlighted h
 
 Leviathans states "he supplied mana, he helped them write the [[Ritual]] text and finally he helped them make sure it could be cast"
 
-Leviathan confirmed in his answer that the text he was referring to was the text that created the [[Vallorn]]. There was no ambiguity to this.
+[[Leviathan]] confirmed in his answer that the text he was referring to was the text that created the [[Vallorn]]. There was no ambiguity to this.
 
 Teleri highlighted to him that had he made them aware this was going to be the case then he might "have avoided the wrath of the Navaar"
 
@@ -30,13 +30,13 @@ Any information that Sadogua may have brought to light is not known to the write
 
 **Conclusion:**
 
-I think it is important to bear in mind this account comes from an Eternal who has a grudge against Sadogua and although Sadogua's later actions and offer would imply there is some truth to this account. Eternals should not be writing our [[History|history]] for us.
+I think it is important to bear in mind this account comes from an [[Eternal]] who has a grudge against Sadogua and although Sadogua's later actions and offer would imply there is some truth to this account. Eternals should not be writing our [[History|history]] for us.
 
 I would advise if possible an attempt be made to find any court records or diarys belonging to Teleri during this period so that we can see if there are human accounts backing this up, also we do not know how Teleri became aware of this development which is also important.
 
-I also know that later historians [[Will|will]] highlight that Sadogua didn't make the Vallorn, only encouraged Teruneal to do so. I believe the Eternal needs to be held to account. If something could only exist as a result of your "aid" then you are as much responsible for its creation as those who cast the ritual.
+I also know that later historians [[Will|will]] highlight that Sadogua didn't make [[The Vallorn|the Vallorn]], only encouraged Teruneal to do so. I believe the [[Eternal]] needs to be held to account. If something could only exist as a result of your "aid" then you are as much responsible for its creation as those who cast the ritual.
 
-Sadogua created the Vallorn and let no political maneuvering attempt to tell the records of history otherwise.
+Sadogua created the [[Vallorn]] and let no political maneuvering attempt to tell the records of history otherwise.
 
 Written in [[Wisdom]] and [[Loyalty]],
 

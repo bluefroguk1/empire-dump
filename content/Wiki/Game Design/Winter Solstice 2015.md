@@ -14,11 +14,11 @@ This page lists all the details that are specific for the [[Winter Solstice 2015
 Please see the 378YE [[Winter]] Solstice [[Winds of Fortune|winds of fortune]] for the latest IC developments known throughout [[The Empire|the Empire]].
 For the Civil Service [[Events|events]] set to occur and at what location, please refer to the 378YE Winter Solstice civil service timetable
 ## [[Battles]]
-At the event we [[Will|will]] be running two large [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles will be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. 
-The fighting begins at 11:00 am - but if you are playing the battle then you will need to [[Muster|muster]] up before this time and if you are [[Monstering|monstering]] then you need to make your way to the monster area for 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed.
+At the event we [[Will|will]] be running two large [[Battles|battles]], one Saturday morning and one Sunday morning. The large battles [[Will|will]] follow the normal rules for Battles; you may only participate in a single battle as your character and you must monster the other battle if you decide to participate in one. The sides for the battles [[Will|will]] be chosen by the generals in the [[Muster]] of the [[Imperial Military Council]] on Friday [[Night|night]]. 
+The fighting begins at 11:00 am - but if you are playing the battle then you [[Will|will]] need to [[Muster|muster]] up before this time and if you are [[Monstering|monstering]] then you need to make your way to the monster area for 10:00 am to give us time to get you into [[Costume|costume]], made-up and briefed.
 ## Quests
 Sadly our backup site does not have any woods, so we are developing out a new plan this year to take advantage of the open spaces that we have instead. As part of this plan we're aiming to run larger quests than last year, with more players and monsters on them.
-There are over 50 members of the Hundred booked already for the event, but to make the most of the space we'd like to try and run larger quests that that. To make these encounters as awesome as possible, we are asking players who like the existing quests to consider volunteering a second time during each event. This will allow us to run a lot more fights for everyone.
+There are over 50 members of the Hundred booked already for the event, but to make the most of the space we'd like to try and run larger quests that that. To make these encounters as awesome as possible, we are asking players who like the existing quests to consider volunteering a second time during each event. This [[Will|will]] allow us to run a lot more fights for everyone.
 To help us organize folk, we've set aside a slot for each nation to volunteer to monster, which are listed below.
 SaturdaySunday
 TimeNationTimeNation
@@ -39,12 +39,12 @@ The map shows one of the fields laid out for quiet camping. We have spoken to mo
 ## [[Traders]]
 The following [[Traders|traders]] have booked for the event.
 * [http://www.chowsemporium.co.uk/ Chows Emporium] [[Costume]], leather gloves, products related to drinking and accessories.
-* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica costume and artefacts.
+* [http://[[History|history]]-explorer.co.uk/ Coelred Monger] Suppliers of replica [[Costume|costume]] and artefacts.
 * [http://www.darkbladeuk.co.uk Darkblade] Leather Stuff.
 * [http://www.eldritch.com/ Eldritch] Weapons and armour.
 * [http://gems-costumes.co.uk/ Gem’s Trading Co] Costumes and leatherwork. Fine quality tailored garments and LRP props. Also a wide range of hand made leather items and missile weapons supplied by Arrow Kaster available to order.
-* [http://www.thegrandexpedition.org/ Grand Expedition] Costume and jewellery and trips to foreign parts.
-* [http://havingalarp.com/ Having A Larp] Costume, weapons, armour and LARP accessories.
+* [http://www.thegrandexpedition.org/ Grand Expedition] [[Costume]] and jewellery and trips to foreign parts.
+* [http://havingalarp.com/ Having A Larp] [[Costume]], weapons, armour and LARP accessories.
 * [http://www.facebook.com/pages/Irregular-Props/328388753859110 Irregular Props] Weapons, shields and [[Mage|mage]] implements designed especially for Empire.
 * [http://www.lightarmoury.co.uk/ Light Armouries] Supplier of latex weapons and props.
 * [http://mandalastudios.co.uk/ Mandala Studios] High quality latex prosthetics and masks tailor made for [[The Empire|the Empire]] campaign.

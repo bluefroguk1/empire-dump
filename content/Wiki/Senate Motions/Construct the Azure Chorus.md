@@ -19,6 +19,6 @@ To construct a congregational [[Sinecure|sinecure]] for [[The Brass Coast|the Br
 * 10 wains of [[White granite|white granite]], 
 * 20 crowns in labour costs.
 ## Progress
-* 10 wains of white granite and 20 crowns received from Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after the Spring Equinox 382YE.
+* 10 wains of [[White granite|white granite]] and 20 crowns received from Lorenzo “La Volpe” Macelliao von [[Temeschwar]] after the Spring Equinox 382YE.
 ## Outcome
 * When completed this [[Will|will]] create an [[Imperial Title|Imperial title]], the [[Azure Sutannir]], appointed by the Freeborn [[National Assembly|national assembly]].

@@ -23,4 +23,4 @@ __NOTOC__
 ## Progress
 CommissionProgress|Crimson_Drummers_of_Madruga
 ## Outcome
-* Once complete, the sinecure would create an [[Imperial Title]], the Crimson [[Sutannir]] which would be appointed by [[Judgement|judgement]] of the [[Freeborn]] [[National Assembly]], and have tenure.
+* Once complete, the [[Sinecure|sinecure]] would create an [[Imperial Title]], the Crimson [[Sutannir]] which would be appointed by [[Judgement|judgement]] of the [[Freeborn]] [[National Assembly]], and have tenure.

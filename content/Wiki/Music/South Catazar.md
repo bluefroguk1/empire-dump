@@ -13,12 +13,12 @@ revision_id: 78498
 * [https://soundcloud.com/christopher-clarke-580791164/south-catazar-[[Barbarian|barbarian]]-[[Music|music]]-for-[[Grendel|grendel]] [[South Catazar]] on SoundCloud], [[Sung|sung]] by Chris Clarke, with Mark Kuggeleijn, Ed, and Lilly,
 In [[South Catazar]] I was born, 
 Heave away, haul away!
-In South Catazar, on the 'shore
-We're bound for South Catazar!
+In [[South Catazar]], on the 'shore
+We're bound for [[South Catazar]]!
 Haul away you rolling kings,
 Heave away, haul away!
 Haul away, now hear me sing
-We're bound for South Catazar!
+We're bound for [[South Catazar]]!
 As I walked out one morning fair
 Heave away, haul away!
 'Twas there I met miss Bowdikkeh

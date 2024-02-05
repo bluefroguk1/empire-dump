@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Tonic of Surging Flame
 aliases: ['Tonic_of_Surging_Flame']

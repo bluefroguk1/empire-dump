@@ -11,7 +11,7 @@ revision_id: 85490
 __NOTOC__
 To build a [[Liao|liao]] [[Sinecure|sinecure]] in [[Casinea]] called the Vigilant Shield, creating a title ‘[[Captain of the Throne Guard]]’. Responsibilities: to organise and lead [[The Throne|the Throne]] Guard at [[Anvil]], to protect the person of [[The Throne|the Throne]]. Appointed annually by the [[Throne]]. Recallable by the [[Assembly]] of Nine and the [[General]] [[Assembly]]. Self-funded. Proposed by [[Reikos]], seconded by [[Necropolis]]
 ## Overview
-* An attempt to create a [[Sinecure]] for use of [[The Captain|the Captain]] of the Throne Guard
+* An attempt to create a [[Sinecure]] for use of [[The Captain|the Captain]] of [[The Throne|the Throne]] Guard
 * Passed
 ## Date
 * [[Summer]] 383YE
@@ -22,4 +22,4 @@ To build a [[Liao|liao]] [[Sinecure|sinecure]] in [[Casinea]] called the Vigilan
 ## Outcome
 * The intent is that the Vigilant Shield would be placed in the custody of the new [[Imperial Title]], [[Captain of the Throne Guard]].
 ## Constitution
-* It is not possible to make a sinecure that provides [[Liao|liao]] without an [[Opportunity]] - so the viable constitutional interpretation of this motion is to [[Commission|commission]] a sinecure that provides both votes and liao.
+* It is not possible to make a [[Sinecure|sinecure]] that provides [[Liao|liao]] without an [[Opportunity]] - so the viable constitutional interpretation of this motion is to [[Commission|commission]] a [[Sinecure|sinecure]] that provides both votes and [[Liao|liao]].

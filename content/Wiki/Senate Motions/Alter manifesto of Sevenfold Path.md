@@ -15,5 +15,5 @@ Change the wording of the manifesto of the [[Sevenfold Path]] from “Human Dest
 ### Date
 * [[Summer]] 378YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The official manifesto of the Sevenfold Path has been altered to "''[[Magic]] should work in harmony with, and to promote, the fulfilment of the destiny of Imperial citizens.''" 
+* The official manifesto of the [[Sevenfold Path]] has been altered to "''[[Magic]] should work in harmony with, and to promote, the fulfilment of the destiny of Imperial citizens.''" 
 __NOTOC__

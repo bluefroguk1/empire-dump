@@ -16,7 +16,7 @@ Wands
 * Effect: You gain one additional point of personal mana.
 * [[Materials]]: Crafting a [[Witchwood Wand]] requires seven measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.
 [[The Mountebank|The mountebank]] eyed the wand suspiciously, bending it first one way, then the other, and handed it back to the artisan in the feathered hat. “It’s a bit... bendy for a wand, isn’t it?” she said with a sniff.
-“Don’t know what you’re talking about, mein frau. That’s a Witchwood Wand. It’s witchwood. It’s not bendy, it’s pliable.”
+“Don’t know what you’re talking about, mein frau. That’s a [[Witchwood Wand]]. It’s witchwood. It’s not bendy, it’s pliable.”
 “I’m not looking for pliable, I’m looking for reliable.”
 “Hey, you’re a poet and-”
 “Shut up," the [[Mountebank|mountebank]] said testily, "I’m not here to banter; I’m here because Henrietta said you were the woman to talk to about wands.”

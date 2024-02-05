@@ -17,9 +17,9 @@ To amend the title of quartermaster [[General|general]] to include a mana [[Mini
 ## Date
 * [[Winter]] 382YE
 ## [[Cost]]
-* This Ministry uses standard costs.
+* This [[Ministry]] uses standard costs.
 * The size of the [[Commission|commission]] has not been specified.
 ## Progress
 * 12 wains of [[Mithril|mithril]] and 24 crowns provided by Rurik after the [[Summer]] Solstice 383YE.
 ## [[Campaign outcome|Campaign Outcome]]
-* When complete, the Ministry [[Will|will]] be assigned to the Quartermaster [[General]].
+* When complete, the [[Ministry]] [[Will|will]] be assigned to the Quartermaster [[General]].

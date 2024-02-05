@@ -17,7 +17,7 @@ Approved by the [[Civilian Commissioner]] of [[Urizen]]
 __NOTOC__
 ### Overview
 * A [[Sinecure]] in [[Zenith]]
-* This motion was approved by the Civilian Commissioner of Urizen using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This motion was approved by the [[Civilian Commissioner]] of [[Urizen]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
 * [[Autumn]] 380YE
 ### [[Cost]]
@@ -27,5 +27,5 @@ __NOTOC__
 ### Progress
 * 20 wains of [[Weirwood|weirwood]] and 5 thrones provided by Juliana after 380YE [[Winter]] Equinox
 ### [[Campaign outcome|Campaign Outcome]]
-* This sinecure created the Urizen national title of [[Head Gardener of Urizen]].
+* This [[Sinecure|sinecure]] created the [[Urizen]] national title of [[Head Gardener of Urizen]].
 * In Autumn 381YE, the title was amended by the [[Imperial Senate]].

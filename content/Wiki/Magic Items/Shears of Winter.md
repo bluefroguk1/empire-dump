@@ -15,4 +15,4 @@ The main value of the [[Shears of Winter]] is that there is, as yet, no rod avai
 ## Rules
 Arcane Weapons
 * Effect: When wielding both the weapon and the implement, you may cast the [[Shatter]] spell as if you know it.
-* [[Materials]]: Crafting the Shears of Winter requires four ingots of tempest jade, and three measures of dragonbone. It takes one month to make a pair of these items.
+* [[Materials]]: Crafting the [[Shears of Winter]] requires four ingots of tempest jade, and three measures of dragonbone. It takes one month to make a pair of these items.

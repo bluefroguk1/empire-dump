@@ -60,7 +60,7 @@ Coda
 Wind blow hot. Wind blow cold.
 To Te-run-ael, come warriors bold.
 Where we walk, and where we bleed,
-We will full-fil,  Navarr's creed
+We [[Will|will]] full-fil,  [[Navarr]]'s creed
 Wind blow hot. Wind blow cold.
 To Te-run-ael, Come warriors bold,
 On bloody feet, both young and old.

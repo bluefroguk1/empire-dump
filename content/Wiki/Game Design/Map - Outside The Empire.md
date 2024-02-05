@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Map - Outside The Empire
 aliases: ['Map_-_Outside_The_Empire']
 draft: False

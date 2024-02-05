@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: A view from the window
 aliases: ['A_view_from_the_window']

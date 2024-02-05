@@ -15,9 +15,9 @@ The [[Cinderpath Custodian]] is responsible for ensuring good relations with the
 ## Powers
 ### [[Ministry]]
 [[White granite|White Granite]]
-72 crowns3 wains of white granite
-144 crowns6 wains of white granite
-216 crowns9 wains of white granite
+72 crowns3 wains of [[White granite|white granite]]
+144 crowns6 wains of [[White granite|white granite]]
+216 crowns9 wains of [[White granite|white granite]]
 288 crowns12 wains of white granite
 360 crowns15 wains of white granite
 As a [[Ministry]], the Custodian can purchase quantities of white granite at a set price. The Custodian spends their money and makes their choices during [[Downtime|downtime]] from their character page. Money is removed from, and resources are placed into, the character's inventory when the [[Downtime|downtime]] is processed.

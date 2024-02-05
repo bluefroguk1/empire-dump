@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Principle of Precedence
 aliases: ['Principle_of_Precedence']

@@ -16,5 +16,5 @@ The [[Imperial Censor]] is responsible for safeguarding [[The Empire|the Empire]
 ### [[Interdiction]]
 Power of Declaration|Imperial Censor|Interdiction
 ## [[Appointment]]
-The [[Appointment|appointment]], replacement, or removal of the Imperial Censor is made by the [[Declaration]] of [[Candidacy]] as part of a [[Conclave session]]. The Imperial Censor serves until they are replaced by another [[Magician|magician]] using the [[Declaration]] of [[Candidacy]]. As a title in the Conclave, they cannot be revoked.
+The [[Appointment|appointment]], replacement, or removal of the [[Imperial Censor]] is made by the [[Declaration]] of [[Candidacy]] as part of a [[Conclave session]]. The [[Imperial Censor]] serves until they are replaced by another [[Magician|magician]] using the [[Declaration]] of [[Candidacy]]. As a title in the Conclave, they cannot be revoked.
 RecentElections|Imperial_Censor

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Yeomen of Dawn
 aliases: ['Yeomen_of_Dawn']

@@ -24,7 +24,7 @@ Fund the creation of a [[Spy network|spy network]] in Liathhaven, additionally t
 * Once complete any Imperial citizen can assign a [[Military unit]] they control to support the [[Spy network]].
 ** If the equivalent of five military units are assigned, then a map of the [[Territory|territory]] showing settlements [[Will|will]] be shown.
 ** With ten military units, the location and nature of armies, naval routes and trading partners in the territory [[Will|will]] be discovered. 
-** With fifteen military units, the location and size of [[Fortifications|fortifications]] in the territory will be discovered.
-* Information will go to the players who assigned military units to the network.
-* Military units assigned to a spy network also receive the normal resources they would receive when supporting an army.
+** With fifteen military units, the location and size of [[Fortifications|fortifications]] in the territory [[Will|will]] be discovered.
+* Information [[Will|will]] go to the players who assigned military units to the network.
+* Military units assigned to a [[Spy network|spy network]] also receive the normal resources they would receive when supporting an army.
 __NOTOC__

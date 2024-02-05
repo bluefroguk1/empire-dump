@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Ancestor’s Word
 aliases: ['Ancestor’s_Word']

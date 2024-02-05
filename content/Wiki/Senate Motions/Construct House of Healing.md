@@ -11,7 +11,7 @@ revision_id: 102259
 __NOTOC__
  To construct 'House of Healing' in [[Therunin]] to create the title of 'Hand of the Healing' appointed by [[Conclave]]. This house brings access to much needed [[Magical Items|magical items]] to keep our [[Heroes|heroes]] fighting our [[Heroes|heroes]] fighting. Help make [[Therunin]] the Heart of Healing in [[The Empire|the Empire]]. With all the responsibilities as required by [[Ossegrahn]]. 
 ## Overview
-* Constructs a [[Ministry]] in Therunin, as detailed in the [[Rain king]] wind of fortune
+* Constructs a [[Ministry]] in [[Therunin]], as detailed in the [[Rain king]] wind of fortune
 * Passed
 ## Date
 * [[Spring]] 385YE

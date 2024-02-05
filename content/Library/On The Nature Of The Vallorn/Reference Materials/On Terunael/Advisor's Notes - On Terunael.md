@@ -16,6 +16,6 @@ In The Treaties on the Life of [[Navarr]] (see page 127) the excerpt from Pyre B
 
 Pyre Blackroot also speaks of his grandmother, Nightshade, who was once Artificer Nirvil of Hacynian.
 
-One [[Magister]] is believed to be the father of Star, the [[Vate]] of [[Spring]] and [[Summer]] who travelled with [[Navarr]] and [[Thorn]]. He may have been a Magister in Seren though his roots are believed to be in Cavan.
+One [[Magister]] is believed to be the father of Star, the [[Vate]] of [[Spring]] and [[Summer]] who travelled with [[Navarr]] and [[Thorn]]. He may have been a [[Magister]] in Seren though his roots are believed to be in Cavan.
 
 The people of Terunael were Prideful, though it became an Arrogance that was arguably a large factor in their downfall. They were convinced of their superior magics that would see them through any hardships. They not only stubbornly forged new cities in hostile environments they used threats of their large [[Rituals|rituals]] as a weapon. They demanded tributes from their neighbours and took slaves from other cultures. It is little wonder that in the end they were sure that they could control the very nature of the Spring [[Realm|realm]] itself and harness the power of [[The Wanderer|the Wanderer]].

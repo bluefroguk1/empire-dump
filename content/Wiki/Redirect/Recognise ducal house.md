@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Recognise ducal house
 aliases: ['Recognise_ducal_house']

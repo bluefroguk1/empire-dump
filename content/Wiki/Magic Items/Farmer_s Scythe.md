@@ -14,7 +14,7 @@ These polearms were also developed among the [[Navarr]] as enhancements for thei
 ## Rules
 Polearms
 * Effect: You can spend a hero point to call STRIKEDOWN with this polearm.
-* [[Materials]]: Crafting a Farmer's Scythe requires no special materials. It takes two months to make one of these items.
+* [[Materials]]: Crafting a Farmer's Scythe requires no special [[Materials|materials]]. It takes two months to make one of these items.
 The raider roared in fury as he pounded across the last few yards of ground towards the line, crop stubble crushed under his boots as he swung his axe with a flourish that he knew would drive fear into the hearts of these mere farmer-folk. The dour grey sky overhead echoed with the whoops and yells of his kindred who came in his wake, their blood fired with the promise of victory and plunder.
 He grinned with feral joy as the farmers lowered their simple little spears – just implements for harrowing the ground and the crops, remade into pathetic little arrangements of haft and blade. So they had at least the spirit to [[Fight|fight]] and not to flee, which would make this all the more satisfying.
 And then he was on them, boots struggling to keep footing in the rich dirt. He drew the axe back and then, quick as a flash, one of the farmers was on him – that hooked polearm the man clutched in white-knuckled hands whipped out and around his leg and, with a yank, the raider suddenly found himself on the ground, thrashing in the cold mud.

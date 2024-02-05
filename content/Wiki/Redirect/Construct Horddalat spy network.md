@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Construct Horddalat spy network
 aliases: ['Construct_Horddalat_spy_network']

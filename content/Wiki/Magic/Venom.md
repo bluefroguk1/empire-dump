@@ -19,14 +19,14 @@ The [[Venom|venom]] condition reduces the time it takes the target to die from t
 You must assume that the target has taken the effect when you cast this spell. 
 The effect lasts until cured by the [[Purify]] spell, or a similar [[Potion|potion]] or [[Magic|magic]].
 ## Sample [[Spellcasting]] Vocals
-* I strike with the sting of the scorpion - VENOM!
-* May [[Magic|magic]]'s bitter bite bring you low - VENOM!
-* From the heart of hate I stab at you - VENOM!
+* I strike with the sting of the scorpion - [[Venom|VENOM]]!
+* May [[Magic|magic]]'s bitter bite bring you low - [[Venom|VENOM]]!
+* From the heart of hate I stab at you - [[Venom|VENOM]]!
 * [[Naeve]]'s knife cleave your soul from your body - VENOM!
 * In [[Llofir]]'s name, may rot and [[Ruin|ruin]] claim you - VENOM!
 * Root wither, leaf fall -VENOM! Suggested by Robert Ashley Burden
 ## Common Elements
-* [[Rune]] Magic: [[Kyrop]] is often invoked to weaken the foe, though [[Rhyv]] may be invoked by those who regard the spell as tainting the victim's blood. In both cases, the caster may trace the rune in the air during the casting, or the rune may be carved into their implement.
+* [[Rune]] [[Magic]]: [[Kyrop]] is often invoked to weaken the foe, though [[Rhyv]] may be invoked by those who regard the spell as tainting the victim's blood. In both cases, the caster may trace the rune in the air during the casting, or the rune may be carved into their implement.
 * [[Astronomancy]]: [[The Claw]] is used by those magicians who regard the spell as rending the victim's soul, or its link with the body. [[The Drowned Man]], representing unavoidable disaster, is a dangerous force to invoke in battle, but a confident or desperate magician may employ it to bring a foe low.
 * [[Dramaturgy]]: Poisonous creatures such as spiders, scorpions,snakes, or hydra are often evoked with this spell. The caster may take on the persona of [[The Doctor]] (particularly Doctor Vassa, punishing the enemy with a [[Curse|curse]], or the vicious Doctor Couros), or may refer to their implement as [[The Blade]] or The Scalpel.
 * Other traditions: This spell is closely tied to the lore of [[Spring]], although some magicians prefer to think of it as a [[Winter]] spell - they say it is clearly a minor [[Curse|curse]] that impairs the victim's [[Will|will]] to live. Navarri magicians in particular tend to shy away from Spring themes, concerned about invoking a power characteristic of [[The Vallorn|the Vallorn]].

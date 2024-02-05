@@ -14,9 +14,9 @@ The [[Curator of the Twilight Demesne]] is an Imperial Orc [[Imperial Title]] cr
 The [[Curator of the Twilight Demesne]] has no particular responsibilities; they simply receive a bounty of mana crystals from the Twilight Demesne. If the [[Sinecure|sinecure]] itself were to be threatened in any way, it would be the responsibility of the Curator to deal with those threats  - but also to deal with any [[Opportunity|opportunity]] to expand the [[Sinecure|sinecure]], or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
-The Curator of the Twilight Demesne has custodianship of a sinecure and receives an income of 9 crystal mana each season.
+The [[Curator of the Twilight Demesne]] has custodianship of a [[Sinecure|sinecure]] and receives an income of 9 crystal mana each season.
 ## [[Appointment]]
-The Curator of the Twilight Demesne is appointed by unanimous decision of the [[Imperial Orcs]] [[Senator]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
+The [[Curator of the Twilight Demesne]] is appointed by unanimous decision of the [[Imperial Orcs]] [[Senator]]. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead.
 The title can be held by a Imperial Orc citizen. The Curator has [[Tenure]], and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the Imperial Orc [[National Assembly]], and by the [[Assembly of the Nine]].
 RecentElections|Curator_of_the_Twilight_Demesne
 Responsibilities Expectation

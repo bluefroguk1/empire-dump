@@ -15,13 +15,13 @@ Erthe out of erthe is wonderly wroghte
 Erthe hase geten one erthe a dignite of noghte
 [[Erthe Upon Erthe|Erthe upon erthe]] hase sett alle his thoghte
 How that [[Erthe Upon Erthe|erthe upon erthe]] may be heghe broghte
-Erthe upon erthe wolde be a kinge
+[[Erthe Upon Erthe|Erthe upon erthe]] wolde be a kinge
 Bot how erthe to erthe shall thinkes he no thinge
 When erthe bredes erthe and his rentes home bringe
 [[Thane]] shall erthe of erthe have full harde parting
-Erthe upon erthe winnes castells and towrres
+[[Erthe Upon Erthe|Erthe upon erthe]] winnes castells and towrres
 Thane sayse erthe unto erthe, "This es al ourres"
-When erthe upon erthe has bigged up his barres
+When [[Erthe Upon Erthe|erthe upon erthe]] has bigged up his barres
 Thane shall erthe for erthe suffere sharpe scowrres
 Erthe goes upon erthe as molde upon molde
 He that gose upon erthe, gleterande as golde

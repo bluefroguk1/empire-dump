@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Title: Nation overview
 aliases: ['Nation_overview']
 draft: False
@@ -28,13 +28,13 @@ ThreeColIconImage|file=Marcher_Dancing.jpeg|link=[[The Marches]]
 Stubborn as stone, the [[Marches]] are the guts of [[The Empire|the Empire]]. Nature is their servant, bound with looming menhirs and iron ploughshares, a hound tamed and set to lie before their doors. more...
 ## [[Navarr]]
 ThreeColIconImage|file=Leafstalker.jpg|link=[[Navarr]]
-The fierce Navarr travel the Empire binding its people together and watching everywhere for signs of danger. Scions of an ancient line, they have lost one empire - they [[Will|will]] not lose another. more...
+The fierce [[Navarr]] travel [[The Empire|the Empire]] binding its people together and watching everywhere for signs of danger. Scions of an ancient line, they have lost one empire - they [[Will|will]] not lose another. more...
 ## [[Urizen]]
-ThreeColIconImage|file=[[Urizen]] [[Ritual|ritual]].jpg|link=Urizen
+ThreeColIconImage|file=[[Urizen]] [[Ritual|ritual]].jpg|link=[[Urizen]]
 High mountains grant unmatched perspective, and let the wise see what should, what can, what ''must'' be done. Wield reason and [[Magic|magic]] in the pursuit of excellence, and the perfect world. more...
 ## [[Varushka]]
 ThreeColIconImage|file=Varushkan Band.jpg|link=[[Varushka]]
 A rich land of dark tales and darker beasts where the past lies uneasy in its grave. Stake your claim to the wealth beneath the hills, but always be prepared to make the hardest choices. more...
 ## [[Wintermark]]
-ThreeColIconImage|file=[[Wintermark]] Warriors.jpg|link=Wintermark
+ThreeColIconImage|file=[[Wintermark]] Warriors.jpg|link=[[Wintermark]]
 A harsh and unforgiving land, home to warriors, [[Mystics|mystics]] and hunters. Stand fast against the cold, strong in body and spirit, and choose to live and die as a glorious hero. more...

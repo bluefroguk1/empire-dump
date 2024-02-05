@@ -32,7 +32,7 @@ Their voice lives on, their foes lie dead,
 A legend forged by much bloodshed,
 A legend forged by much bloodshed,
 [[Fear and Panic|Fear and panic]] grips our foe,
-They don’t know how this fight [[Will|will]] go,
+They don’t know how this [[Fight|fight]] [[Will|will]] go,
 By sharpened blade and armoured might,
 There'll be none left come fall of night,
 There'll be none left come fall of night.

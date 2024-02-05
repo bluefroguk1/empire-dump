@@ -16,14 +16,14 @@ To transform the Grand Library of Canterspire and cede it to the [[Eternal]] [[P
 ## Date
 * [[Summer]] 383YE
 ## Costs
-* This [[Commission|commission]] uses non-standard costs. Following discussion with Novus, herald of Phaleron costs have been ascertained by the civil service.
+* This [[Commission|commission]] uses non-standard costs. Following discussion with Novus, herald of [[Phaleron]] costs have been ascertained by the civil service.
 * 40 wains of [[Mithril|mithril]]
 * 80 crowns
 * Three months to complete
 ## Progress
 * 10 thrones provided by Spyridonakes after Summer Solstice 383YE.
 * 20 wains of [[Mithril|mithril]] provided by Marcus after Summer Solstice 383YE.
-* 10 wains of mithril provided by Thalia after Summer Solstice 383YE.
-* 10 wains of mithril provided by Edmundo of Damakan's forge after Summer Solstice 383YE.
+* 10 wains of [[Mithril|mithril]] provided by Thalia after Summer Solstice 383YE.
+* 10 wains of [[Mithril|mithril]] provided by Edmundo of Damakan's forge after Summer Solstice 383YE.
 ## Outcome
-* When the construction is complete, Canterspire [[Will|will]] be ceded to the eternal Phaleron.
+* When the construction is complete, Canterspire [[Will|will]] be ceded to the [[Eternal|eternal]] [[Phaleron]].

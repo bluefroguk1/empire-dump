@@ -28,6 +28,6 @@ These points are combined into one Treaty, to save [[Senate|senate]] time and mo
 ## Progress
 * None
 ## [[Campaign outcome|Campaign Outcome]]
-The additional rewards offered to soldiers prepared to defend Therunin are being offered by private Imperial citizens, not by [[The Senate|the Senate]]. As such this treaty has no power to extend that payment to the Axou; it [[Will|will]] be up to the [[Navarr]] citizens of Therunin whether they choose to provide these rewards to Axou soldiers. It is unconstitutional for the Senate to demand that Imperial citizens use their wealth in a mandated fashion.
+The additional rewards offered to soldiers prepared to defend [[Therunin]] are being offered by private Imperial citizens, not by [[The Senate|the Senate]]. As such this treaty has no power to extend that payment to the Axou; it [[Will|will]] be up to the [[Navarr]] citizens of [[Therunin]] whether they choose to provide these rewards to Axou soldiers. It is unconstitutional for the Senate to demand that Imperial citizens use their wealth in a mandated fashion.
 ## Constitution
 With regards to the section "These points are combined into one Treaty, to save senate time and motions", it is not possible to combine points together to save the senate time and motions. It is either a treaty agreed with a foreign power as defined in the powers of the [[Ambassador]], or it is not a treaty.

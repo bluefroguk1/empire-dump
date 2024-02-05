@@ -15,18 +15,18 @@ Several crafted implements exist that grant additional access to repelling [[Mag
 Offensive Spell|1
 ## Effects
 You may call [[Repel|REPEL]] against the target struck by your implement.
-Repel uses a magical force to drive the target away from the caster. They must move away at a brisk walk or faster for ten seconds or until they have retreated at least 20'. If they cannot move away from the caster due to the presence of an obstacle, they must move as far as they can and then be pressed against the obstacle for the remainder of the ten second duration. While pressed against the obstacle they may talk but may take no other actions including blocking with a shield or parrying a blow. 
+[[Repel]] uses a magical force to drive the target away from the caster. They must move away at a brisk walk or faster for ten seconds or until they have retreated at least 20'. If they cannot move away from the caster due to the presence of an obstacle, they must move as far as they can and then be pressed against the obstacle for the remainder of the ten second duration. While pressed against the obstacle they may talk but may take no other actions including blocking with a shield or parrying a blow. 
 The target is repelled even if they parry your blow with a weapon or shield.
 ## Sample [[Spellcasting]] Vocals
-* You shall reap the whirlwind - REPEL!
-* [[Kimus]] sees you, she knows your name - REPEL!
+* You shall reap the whirlwind - [[Repel|REPEL]]!
+* [[Kimus]] sees you, she knows your name - [[Repel|REPEL]]!
 * (''affecting a haughty or commanding demeanour'') Who are you, to stand before a Prince? - REPEL!
 * (''quickly sketching [[The Mountain|the Mountain]] in the air'') Things are hard - too hard! - REPEL!
 * Where I and my kin stand, that's our land: now piss off! - REPEL!
 * May the dust of [[Erigo]] REPEL you! Suggested by Ellen Lavery
 ## Common Elements
 * [[Rune]] [[Magic]]: The dangerous Rune of Storms, [[Mawrig]]. is used by some runecasters, who often slash their implement through the air quickly three times before unleashing their spell. The rune of might, [[Verys]], can represent irresistible strength, while some magicians favour [[Queros]], the Rune of Plots, which can represent harnessed energy.
-* [[Astronomancy]]: An astronomancer might swiftly sketch the [[Constellation|constellation]] of [[The Great Wyrm]] in the air before unleashing the force of this spell, or sketch the arch of [[The Mountain]] before sending the target "''tumbling down the mountain''".
+* [[Astronomancy]]: An astronomancer might swiftly sketch the [[Constellation|constellation]] of [[The Great Wyrm]] in the air before unleashing the force of this spell, or sketch the arch of [[The Mountain]] before sending the target "''tumbling down [[The Mountain|the mountain]]''".
 * [[Dramaturgy]]: A dramaturgist may take on the commanding mien of [[The Captain]] or the authoritative demeanour of [[The Prince]] before unleashing this spell. [[The Mountebank]] has a particular affinity for this spell, representing as it does principles of motion, unleashed primal forces, and the kind of displacement that leads to [[Confusion|confusion]].
 * Other traditions: A Dawnish [[Witch|witch]] might evoke the thundering charge of the mythical unicorn, or the echoing roar of the mighty chimera when casting this spell. A more devout magician might evoke the name of [[Inga Tarn]], while an incantation referencing [[Kimus]] or [[Cathan Canae]] is also appropriate.
 * [[Realms]]: Driving or hurling an enemy away has resonance with the [[Realm|realm]] of Summer, while themes of magical force have an affinity with the [[Realm|realm]] of Day.

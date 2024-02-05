@@ -10,18 +10,18 @@ revision_id: 85840
 
 Construct an [[Embassy|embassy]] for the Asavean Empire in [[Sarvos]].Proposed by [[Sarvos]], seconded by [[Temeschwar]].
 ### Overview
-* Construct an [[Embassy]] for the [[Asavean Archipelago]] in Sarvos.
+* Construct an [[Embassy]] for the [[Asavean Archipelago]] in [[Sarvos]].
 * Passed at 35 Thrones
 ### Date
 * [[Winter]] 377YE
 ### [[Cost]]
 * 20 [[White granite|White Granite]]
 * 20 [[Weirwood]]
-* Special: Note that this is not the standard [[Cost|cost]] for an embassy [[Commission|commission]].
+* Special: Note that this is not the standard [[Cost|cost]] for an [[Embassy|embassy]] [[Commission|commission]].
 ### Progress
-* 20 wains of [[White granite|white granite]] and [[Weirwood|weirwood]] supplied by Mirislav, [[Senator]] for Sarvos after [[Spring]] Equinox 378.
+* 20 wains of [[White granite|white granite]] and [[Weirwood|weirwood]] supplied by Mirislav, [[Senator]] for [[Sarvos]] after [[Spring]] Equinox 378.
 ### [[Campaign outcome|Campaign Outcome]]
-* The embassy [[Will|will]] be a [[Ministry]] that allows the Imperial citizen appointed to operate it to purchase [[Cerulean Mazzarine]], [[Orichalcum]], [[Iridescent gloaming|Iridescent Gloaming]], [[Tempest jade|Tempest Jade]] and [[True Vervain]].
+* The [[Embassy|embassy]] [[Will|will]] be a [[Ministry]] that allows the Imperial citizen appointed to operate it to purchase [[Cerulean Mazzarine]], [[Orichalcum]], [[Iridescent gloaming|Iridescent Gloaming]], [[Tempest jade|Tempest Jade]] and [[True Vervain]].
 * The title of [[Ambassador]] to the [[Asavean Archipelago]] was automatically created.
 ### Voting
 {| class="wikitable"
@@ -35,7 +35,7 @@ Construct an [[Embassy|embassy]] for the Asavean Empire in [[Sarvos]].Proposed b
 | At 40 Thrones || 9 || 15 || Failed
 |}
 ## Amendment
-Disburse an additional 5 Thrones to purchase White Granite for the previously approved Asavean Embassy.Proposed by [[Miaren]], seconded by [[Weirwater]].
+Disburse an additional 5 Thrones to purchase [[White granite|White Granite]] for the previously approved Asavean [[Embassy]].Proposed by [[Miaren]], seconded by [[Weirwater]].
 ### Overview
 * Passed at 5 Thrones
 ### Date

@@ -42,7 +42,7 @@ With Virtue as our shining shield
 Chorus
 Those that stand before us now
 They shall reap just as they sow
-Their bodies will enrich our soil
-Their blood will make the barley grow
+Their bodies [[Will|will]] enrich our soil
+Their blood [[Will|will]] make the barley grow
 ''Repeat''
 Chorus

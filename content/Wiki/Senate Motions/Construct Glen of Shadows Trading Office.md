@@ -22,7 +22,7 @@ Proposed by [[Hercynia]], Seconded by [[Feroz]]
 * 2 Thrones in labour costs
 * Time: 3 months to construct
 ### Progress
-* 22 Thrones disbursed to [[Senator]] Hercynia
+* 22 Thrones disbursed to [[Senator]] [[Hercynia]]
 ### [[Campaign outcome|Campaign Outcome]]
 * This [[Ministry|ministry]] creates an [[Imperial Title|Imperial title]] ([[Broker of Treji Wayhouse]]), which [[Will|will]] be able to purchase trade goods.
 * 8 wains of [[White granite|white granite]] and 2 thrones provided by Cenwyn Thorntarry after [[Spring]] Equinox 380YE.

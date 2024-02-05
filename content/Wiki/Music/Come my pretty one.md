@@ -32,7 +32,7 @@ Come my bravest one and [[Fight|fight]] with me,
 All in your armour, brightly gleaming,
 There’s a whole wide world out there for you to see,
 Your enemy’s near and great in number,
-So [[Fight|fight]], fight, etc…
+So [[Fight|fight]], [[Fight|fight]], etc…
 My bravest one.
 Come, my jolly one and drink with me,
 Where wine and beer are freely flowing,

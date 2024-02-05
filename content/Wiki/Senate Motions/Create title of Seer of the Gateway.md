@@ -10,7 +10,7 @@ revision_id: 86649
 
 Create the [[Imperial Title]], [[Seer of the Gateway]].
 Appointed by [[Assembly]] of Nine.
-Revocable by [[Assembly]] of Nine & [[General]] Assembly.
+Revocable by [[Assembly]] of Nine & [[General]] [[Assembly]].
 [[Tenure]]: Lifetime, pending death, [[Revocation|revocation]] or resignation.
 Powers: 
 May unilaterally make an additional [[Synod]] [[Judgement]] of [[Rewarding]], once per season, to a value of up to 5 Thrones.
@@ -26,6 +26,6 @@ Proposed by [[Conscience of the Senate]], Seconded by [[Bastion]]
 ### Date
 * [[Winter]] 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* The imperial title of [[Seer]] of the Gateway
-* The title is appointed by the Assembly of Nine
+* The [[Imperial Title|imperial title]] of [[Seer]] of the Gateway
+* The title is appointed by the [[Assembly]] of Nine
 __NOTOC__

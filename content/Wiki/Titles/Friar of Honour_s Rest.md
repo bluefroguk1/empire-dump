@@ -15,12 +15,12 @@ The [[Imperial Senate]] commissioned the  construction of Honour's Rest during t
 The  Friar of Honour's Rest is responsible for the safety and wellbeing of those who traverse the Greensward to visit the ruins of Overton. 
 ## Powers
 ### A Portion of [[Liao]]
-The sinecure provides eight measures of Liao to the Friar each season, to be used as they see fit. 
+The [[Sinecure|sinecure]] provides eight measures of [[Liao]] to the Friar each season, to be used as they see fit. 
 ### Voice in [[The Synod|the Synod]]
 The Friar of Honour's Rest may sit in the [[Imperial Synod]], and possesses 16 votes in [[Synod]] affairs (or an additional 16 votes if they already have a [[Congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible. 
 ## [[Appointment]]
 The Friar of Honour's Rest is a national position appointed by the Synod. It is elected by [[Judgement]] of the Marcher [[Assembly]]. . 
-The title can be held by any Marcher citizen. The Friar has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] Assembly, the Marcher [[National Assembly]], and by the [[Assembly of the Nine]].
+The title can be held by any Marcher citizen. The Friar has [[Tenure]] and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the Marcher [[National Assembly]], and by the [[Assembly of the Nine]].
 ## Honour's Rest
 The church of Honour's Rest stands atop a low hill near Overton on the Greensward. Built mostly in the Marcher style, there are a few clear [[Wintermark]] touches including a series of stone Winterfolk warriors that seem to watch over pilgrims and resident priests alike from the white-stone walls of the church. 
 From the hill, it is only a short walk to the ruins, and pilgrims rest here on their way to visit the great barrow mounds raised by the [[Jotun]] in the wake of the fall of Orchard's Watch. Occasionally, the friars who live and work here are called on to address problems with angry or mournful ghosts that haunt the ruins, but for the most part Honour's Rest is an oasis of quiet, calm, and sorrow.

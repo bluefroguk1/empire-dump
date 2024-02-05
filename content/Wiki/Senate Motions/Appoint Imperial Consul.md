@@ -18,4 +18,4 @@ Proposed by [[Hercynia]], seconded by [[Miaren]]
 ### Nominees
 * Aureliana Saverio di [[Sarvos]]
 ### [[Campaign outcome|Campaign Outcome]]
-* Aureliana Saverio di [[Sarvos]] was appointed as Imperial Consul
+* Aureliana Saverio di [[Sarvos]] was appointed as [[Imperial Consul]]

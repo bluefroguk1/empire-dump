@@ -21,4 +21,4 @@ To create a new position similar to the Advisor to [[The Vallorn|the Vallorn]] -
 * Election was held at the start of the [[Summer]] Solstice 383YE.
 * Watt Lambrook was appointed to the title.
 ### Constitution
-*  The Constitutional Court point out that while the Advisor on the Feni has a responsibility to engage in diplomacy with the Feni, they have not been given the legal power associated with an [[Ambassador]]. The [[Imperial Consul]] remains responsible for receiving delegations and preparing treaties with the Feni.
+*  The Constitutional Court point out that while the Advisor on the [[Feni]] has a responsibility to engage in diplomacy with the [[Feni]], they have not been given the legal power associated with an [[Ambassador]]. The [[Imperial Consul]] remains responsible for receiving delegations and preparing treaties with the [[Feni]].

@@ -24,7 +24,7 @@ If the ritualists include five measures of [[Iridescent gloaming|iridescent gloa
 ### Removing the Shroud
 Any ritual that attempts to open the pouch or gain information about it or its contents must at least match the magnitude at which ''[[Secrets for the Shadow Courier]]'' was performed.
 ## Description
-The [[Night]] Pouch spell creates a useful item, but this ritual builds on its power to create a more secure container. It is likely that this ritual represents the earliest form of night pouch, from which the existing spell was refined and specialised.
-One of the main advantages it has over the night pouch spell, beyond the difficulty of opening it, is that it can be used to create a night pouch for ''anyone'', and that the pouch lasts for a full year. Another advantage, albeit a minor one, that makes the ritual appealing to others is that even the ritualists who performed ''Secrets for the Shadow Courier'' possess no special ability to open the pouch.
+The [[Night]] Pouch spell creates a useful item, but this ritual builds on its power to create a more secure container. It is likely that this ritual represents the earliest form of [[Night Pouch|night pouch]], from which the existing spell was refined and specialised.
+One of the main advantages it has over the [[Night Pouch|night pouch]] spell, beyond the difficulty of opening it, is that it can be used to create a [[Night Pouch|night pouch]] for ''anyone'', and that the pouch lasts for a full year. Another advantage, albeit a minor one, that makes the ritual appealing to others is that even the ritualists who performed ''[[Secrets for the Shadow Courier]]'' possess no special ability to open the pouch.
 ## Common Elements
 Things that enhance themes of [[Secrecy|secrecy]], concealment and privacy are common elements with this ritual. The pouch itself is often embroidered with night [[Runes|runes]], especially [[Diras]].

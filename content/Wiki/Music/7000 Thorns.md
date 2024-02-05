@@ -19,7 +19,7 @@ Call of [[Winter magic|Winter Magic]], The Dead [[Will|will]] rise
 Slaughtering the [[Jotun]], a voiceless demise
 We [[Will|will]] [[Fight|fight]] (No mercy)
 Through the [[Night|night]] (No mercy)
-We will [[Fight|fight]] (No mercy)
+We [[Will|will]] [[Fight|fight]] (No mercy)
 Through the night
 [[7000 Thorns]] of the [[Navarr]]
 Rip through the night

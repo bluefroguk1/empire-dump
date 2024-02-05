@@ -22,5 +22,5 @@ To grant permission to construct an [[Embassy|embassy]] for the [[Iron Confedera
 ### Progress
 * 25 wains of [[Weirwood|weirwood]], 25 wains of [[White granite|white granite]] and 12 thrones provided by Miroslav after the Spring Equinox 379YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* When the embassy is complete it [[Will|will]] automatically create the [[Imperial Title]] of [[Ambassador to the Iron Confederacy]].
+* When the [[Embassy|embassy]] is complete it [[Will|will]] automatically create the [[Imperial Title]] of [[Ambassador to the Iron Confederacy]].
 __NOTOC__

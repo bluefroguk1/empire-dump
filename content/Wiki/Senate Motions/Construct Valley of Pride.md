@@ -22,6 +22,6 @@ Approved by the [[Civilian Commissioner]] of [[Wintermark]]
 * 3 thrones in labour costs
 * 3 months to construct
 ### Progress
-* 12 wains of weirwood and 3 thrones provided by Thanmir Hrafnar after Summer Solstice 380YE.
+* 12 wains of [[Weirwood|weirwood]] and 3 thrones provided by Thanmir Hrafnar after Summer Solstice 380YE.
 ### [[Campaign outcome|Campaign Outcome]]
-* Once completed, this sinecure [[Will|will]] create the National title of [[Herbalist of the Hearth]], appointed by unanimous decision of the Wintermark Senators
+* Once completed, this [[Sinecure|sinecure]] [[Will|will]] create the National title of [[Herbalist of the Hearth]], appointed by unanimous decision of the [[Wintermark]] Senators

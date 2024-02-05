@@ -27,7 +27,7 @@ Free-man stand, or Free-man fa',
 Let them on wi' me! 
 By oppression's woes and pains! 
 By their slaves in servile chains! 
-We will drain our dearest veins, 
+We [[Will|will]] drain our dearest veins, 
 But they shall be free! 
 Lay the proud usurpers low! 
 Tyrants fall in every foe! 

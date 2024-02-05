@@ -24,11 +24,11 @@ Tonight's the [[Night|night]] to rise.
 The riches there lie, to be won by our lives.
 Through the wind and the storm, we compete for the prize
 If you've got what it takes, bring your nets and keen eyes
-It will wash us all away.
+It [[Will|will]] wash us all away.
 Netriggers sing, mourners decry,
 [[Mountebanks]] claim that they'll teach you to fly.
 In the time that it takes just to form our reply
-It will wash us all away.
+It [[Will|will]] wash us all away.
 Steal silver from the wild, wild river.
 So help me on Scorerro River’s wilds
 Ply the depths for treasure, stealing stars from the sea
@@ -36,7 +36,7 @@ Wondering if today, it’ll come for me
 One more life in the ledger, when we go then we go
 Cos you can't stop the river.
 With my feet in the mud, my poles in the air
-I will walk with the flood like a captain's despair.
+I [[Will|will]] walk with the flood like a captain's despair.
 We carry our dead, we've seen more than our share,
 It will wash us all away.
 So grip the net tightly, mind how you dare

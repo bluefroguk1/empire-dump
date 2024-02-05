@@ -25,4 +25,4 @@ __NOTOC__
 ## Progress
 CommissionProgress|Greenwood_Manor
 ## Outcome
-* Once complete the [[Commission|commission]] would create two Imperial titles; the [[Knight of the Greenwood]], and the [[Reeve of Greenforest Fair]] both of which would be appointed annually by [[Judgement|judgement]] of the Dawnish National Assembly.
+* Once complete the [[Commission|commission]] would create two Imperial titles; the [[Knight of the Greenwood]], and the [[Reeve of Greenforest Fair]] both of which would be appointed annually by [[Judgement|judgement]] of the Dawnish National [[Assembly]].

@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Appointments by the Senate
 aliases: ['Appointments_by_the_Senate']

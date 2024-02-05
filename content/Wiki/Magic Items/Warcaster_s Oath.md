@@ -15,5 +15,5 @@ The Imperial orc magicians who use this shield, however, are strong proponents o
 Magicians who favour this shield find [[Mageblood|mageblood]] and similar potions that restore personal mana to be especially useful, allowing them to maintain an emergency reserve of mana with which to power the shield while still making use of their spells in dangerous situations. It is not uncommon for a wealthy magician to combine the use of this shield with a Gravedigger's Vest, allowing them to gain additional benefit from the burst of healing energy the shield can provide.
 ## Rules
 Shields
-* Effect: You may spend 2 personal mana (instead of 1 hero point) to use the unstoppable skill as if you know it. You must be able to cast spells to use this power - it will not work if you are wearing any armour other than [[Mage|mage]] armour.
+* Effect: You may spend 2 personal mana (instead of 1 hero point) to use the unstoppable skill as if you know it. You must be able to cast spells to use this power - it [[Will|will]] not work if you are wearing any armour other than [[Mage|mage]] armour.
 * [[Materials]]: Crafting a warcaster's oath requires seven ingots of [[Green iron|green iron]], five ingots of tempest jade, and four measures of [[Dragonbone|dragonbone]]. It takes one month to make one of these items.

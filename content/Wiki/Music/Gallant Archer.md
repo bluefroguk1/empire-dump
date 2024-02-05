@@ -12,7 +12,7 @@ Tune trad. Scottish Athole Gathering. Lyrics by Daisy Abbott, Jude Reid, and Kat
 IC written by Jennet of Mourn.
 Chorus:
 Who [[Will|will]] go with [[Gallant Archer|gallant Archer]]?
-Who [[Will|will]] go with Sweet Will's men?
+Who [[Will|will]] go with Sweet [[Will]]'s men?
 He's the flower of the Bregas
 And the darling of the fen
 See the white rose in his bonnet

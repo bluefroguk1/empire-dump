@@ -24,12 +24,12 @@ Proposed by [[Casinea]], Seconded by [[Sarvos]]
 ### [[Cost]]
 * The motion did not specify the size of the [[Great work|great work]], but standard costs apply.
 ### Progress
-* 100 Thrones 4 Crowns disbursed to Senator Casinea
+* 100 Thrones 4 Crowns disbursed to [[Senator]] [[Casinea]]
 ### [[Campaign outcome|Campaign Outcome]]
 * 40 wains of [[White granite|white granite]] and 10 thrones supplied by Ferrero Sanguineo Rezia di [[Tassato]] after Winter Solstice 379YE.
-* This great work, when completed, [[Will|will]] enhance the earnings of all businesses in Sarvos whose owners attended the previous [[Anvil]] summit.
+* This [[Great work|great work]], when completed, [[Will|will]] enhance the earnings of all businesses in [[Sarvos]] whose owners attended the previous [[Anvil]] summit.
 * As part of the motion a title, Dean of the [[Liberated]] was created.
-* The [[College of the Liberated]] was built in the town of Trivento in Sarvos.
+* The [[College of the Liberated]] was built in the town of Trivento in [[Sarvos]].
 ### Constitution
-After due consideration it is clear that the [[College of the Liberated]] is legal, provided it is made clear to the newly arrived Jarmish foreigners that they are under no obligation to remain in Sarvos or to participate in the education provided by the College. If the College is ever in a position where there are more spaces than there are former slaves, then it is anticipated that they could fill their ranks from the orphans and poor of Sarvos.
+After due consideration it is clear that the [[College of the Liberated]] is legal, provided it is made clear to the newly arrived Jarmish foreigners that they are under no obligation to remain in [[Sarvos]] or to participate in the education provided by the College. If the College is ever in a position where there are more spaces than there are former slaves, then it is anticipated that they could fill their ranks from the orphans and poor of Sarvos.
 __NOTOC__

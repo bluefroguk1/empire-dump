@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Dragon_s Blood
 aliases: ["Dragon's_Blood"]

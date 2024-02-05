@@ -21,7 +21,7 @@ Oh, [[The Beast of Volgadurn|the beast of Volgadurn]]
 ‘Twas the high-woods trail that I tried to scale
 Where first it sought to turn
 In my pursuit I stopped to shoot
-At the beast of Volgadurn
+At [[The Beast of Volgadurn|the beast of Volgadurn]]
 The arrow flew, the shot was true
 Hot blood fell like to burn
 It whined and fled, and crimson bled
@@ -29,8 +29,8 @@ Straight back to Volgadurn
 To my father’s hold with iron cold
 I rushed with grave concern
 I found him dead from my arrow-head
-The Beast of Volgadurn
+[[The Beast of Volgadurn]]
 When [[Winter]]’s chills come scour these hills
 My blood begins to churn
 For my fur is won, my father’s son
-Is the Beast of Volgadurn…
+Is [[The Beast of Volgadurn|the Beast of Volgadurn]]…

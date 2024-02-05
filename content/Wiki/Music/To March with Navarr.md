@@ -25,7 +25,7 @@ To march with [[Navarr]]
 March with [[Navarr]]
 To save this Highborn nation
 [[To March with Navarr|To march with Navarr]]
-March with Navarr
+March with [[Navarr]]
 To save the  Highborn nation
 The [[Night|night]] before we went away
 I spent it with my darling
@@ -49,8 +49,8 @@ When we arrived to [[Fight|fight]] the [[War|war]]
 We all were lean and healthy
 We planted banners in the soil,
 And set our shields and spears
-For to the war we would endure,
+For to the [[War|war]] we would endure,
 As others of our nations,
-To Reiko’s fight we'd marched away
+To Reiko’s [[Fight|fight]] we'd marched away
 To free the Highborn nation.
 Chorus.

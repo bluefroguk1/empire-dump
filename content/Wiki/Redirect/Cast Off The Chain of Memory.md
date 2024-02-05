@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Cast Off the Chain of Memory
 aliases: ['Cast_Off_the_Chain_of_Memory']

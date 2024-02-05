@@ -24,4 +24,4 @@ TBC
 TBC
 ## Army Quality : Fast
 The [[Black Thorns]] are renowned for their maneuverability, able to cross the entire Empire through a combination of using the Trods and incomparable logistical know-how.
-RecentElections|General_of_the_Black_Thorns|the title of [[General]] of the Black Thorns
+RecentElections|General_of_the_Black_Thorns|the title of [[General]] of the [[Black Thorns]]

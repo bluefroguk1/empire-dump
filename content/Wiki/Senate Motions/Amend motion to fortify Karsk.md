@@ -17,4 +17,4 @@ Proposed by [[Therunin]], Seconded by [[Reikos]]
 ### Date
 * [[Spring]] 381YE
 ### [[Campaign outcome|Campaign Outcome]]
-* The services of the Asavean [[Architect|architect]] have been engaged for the construction of the fortification
+* The services of the Asavean [[Architect|architect]] have been engaged for the construction of the [[Fortification|fortification]]

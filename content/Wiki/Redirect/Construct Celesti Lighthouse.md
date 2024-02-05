@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Construct Celesti Lighthouse
 aliases: ['Construct_Celesti_Lighthouse']

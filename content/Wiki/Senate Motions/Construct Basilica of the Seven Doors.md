@@ -9,7 +9,7 @@ revision_id: 85515
 ---
 
 __NOTOC__
-To restore the Basilica of the Seven Doors, with the aid of the Custodes Clavium. This [[Will|will]] formally create the title ‘[[Speaker of the Highborn Assembly]]’, and act as a [[Sinecure|sinecure]] granting a [[Congregation|congregation]] to the holder. This [[Will|will]] be appointed during the [[Winter]] Solstice due to special request, and will be appointed by the Highborn National [[Assembly]]. Due to the aid of the Custodes Clavium, it will not require a civil service [[Commission|commission]] slot, and the [[Cost|cost]] is being met entirely by the Custodes Clavium and the [[Benefactors]] of [[Highguard]]; as such, it is self-funded.
+To restore the Basilica of the Seven Doors, with the aid of the Custodes Clavium. This [[Will|will]] formally create the title ‘[[Speaker of the Highborn Assembly]]’, and act as a [[Sinecure|sinecure]] granting a [[Congregation|congregation]] to the holder. This [[Will|will]] be appointed during the [[Winter]] Solstice due to special request, and [[Will|will]] be appointed by the Highborn National [[Assembly]]. Due to the aid of the Custodes Clavium, it [[Will|will]] not require a civil service [[Commission|commission]] slot, and the [[Cost|cost]] is being met entirely by the Custodes Clavium and the [[Benefactors]] of [[Highguard]]; as such, it is self-funded.
 ''Proposed by [[Casinea]], seconded by [[Bastion]]''
 ## Overview
 * [[Commission]] a [[Sinecure|sinecure]], the Basilica of the Seven Doors in [[Bastion]]

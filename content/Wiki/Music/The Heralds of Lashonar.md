@@ -17,7 +17,7 @@ But these [[Birds|birds]] [[Will|will]] trick you, they’re deceivers,
 For they are [[The Heralds of Lashonar|the Heralds of Lashonar]].
 They work for a fickle [[Eternal]],
 Strive to do its deeds infernal, 
-And their words will put your soul in peril, 
+And their words [[Will|will]] put your soul in peril, 
 For they are [[The Heralds of Lashonar|the Heralds of Lashonar]].
 You may cry, and mourn for those you’ve lost, 
 But your love is [[Gone|gone]], their sacrifice the [[Cost|cost]], 
@@ -26,18 +26,18 @@ So don’t listen to the Heralds of [[Lashonar]].
 [[Courage]] bids us stand against our Foe, 
 [[Wisdom]] states, “To [[War]] we must Go!”
 To these [[Calls|calls]] for peace we say no! 
-Say no to the Heralds of Lashonar.
-[[Ambition]] means that we will win this [[War]],
+Say no to [[The Heralds of Lashonar|the Heralds of Lashonar]].
+[[Ambition]] means that we [[Will|will]] win this [[War]],
 Our [[Prosperity]] is what it’s for. 
-Our Empire, it always will need more, 
-But it doesn’t need the Heralds of Lashonar. 
+Our Empire, it always [[Will|will]] need more, 
+But it doesn’t need the Heralds of [[Lashonar]]. 
 Chorus
-In this Barrens War [[Pride]] we find, 
+In this Barrens [[War]] [[Pride]] we find, 
 And we stand with [[Loyalty]] behind, 
 For these [[Druj]] no treaty will yet bind, 
-All despite the Heralds of Lashonar.
+All despite [[The Heralds of Lashonar|the Heralds of Lashonar]].
 In the East we [[Fight|fight]] with [[Vigilance]], 
 Come, my friends, and join with your Lance, 
 So together take up this dance, 
-All to spite the Heralds of Lashonar. 
+All to spite the Heralds of [[Lashonar]]. 
 Chorus

@@ -11,7 +11,7 @@ revision_id: 85475
 __NOTOC__
 To amend the title of [[Imperial Fleet Master]] to include the authority to treat with the [[Grendel]] as an [[Ambassador]] of [[The Empire|the Empire]]. This [[Will|will]] include the powers to address [[The Senate|the Senate]] once per season, to receive delegations, to negotiate treaties, to make and receive payments on behalf of [[The Empire|the Empire]], and to receive appropriate briefings on the [[Grendel]] from the Civil Service.''Proposed by [[Feroz]], seconded by [[Semmerholm]].''
 ## Overview
-* Changes the title of the Imperial [[Fleet]] Master in line with suggestions made by the Grendel
+* Changes the title of the Imperial [[Fleet]] Master in line with suggestions made by the [[Grendel]]
 * Passed.
 ## Date
 * [[Summer]] 383YE

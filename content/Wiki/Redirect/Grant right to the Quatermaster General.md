@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: Grant right to the Quatermaster General
 aliases: ['Grant_right_to_the_Quatermaster_General']

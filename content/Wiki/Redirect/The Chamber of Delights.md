@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: True
 Tags: None
 Title: The Chamber of Delights
 aliases: ['The_Chamber_of_Delights']

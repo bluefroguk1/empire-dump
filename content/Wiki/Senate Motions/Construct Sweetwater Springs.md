@@ -26,5 +26,5 @@ This is a [[Great work|great work]] and does not create an Imperial position
 ## Progress
 CommissionProgress|Sweetwater_Springs
 ## Outcome
-* 150 thrones disbursed to the [[Senator]] for Sarvos
-* Once completed the Sweetwater Springs [[Will|will]] provide a shared bounty to all [[Herb|herb]] gardens in Sarvos
+* 150 thrones disbursed to the [[Senator]] for [[Sarvos]]
+* Once completed the Sweetwater Springs [[Will|will]] provide a shared bounty to all [[Herb|herb]] gardens in [[Sarvos]]

@@ -24,4 +24,4 @@ __NOTOC__
 ## Progress
 CommissionProgress|Roads_of_Kahraman
 ## Outcome
-* Once completed the roads of Kahraman will be repaired and a series of Kamkrag built throughout the territory that will allow [[Freeborn]] citizens better access to abundant mines.
+* Once completed the roads of [[Kahraman]] [[Will|will]] be repaired and a series of Kamkrag built throughout the territory that [[Will|will]] allow [[Freeborn]] citizens better access to abundant mines.
