@@ -1,6 +1,6 @@
 Spring 379YE
 
-In this document I will try to answer some important questions and distinctions. What is the difference between a Vallorn and a Vallorn infestation? What is a Vallorn Miasma? What dwells in a Vallorn? How can we combat a Vallorn? How do Trods work? Hopefully this will allow someone reading it to gain a clearer idea of what the Vallorn is and will stop misinformation. I am happy to update this document as needed and as more information comes to the light.
+In this document I will try to answer some important questions and distinctions. What is the difference between a Vallorn and a Vallorn infestation? What is a Vallorn Miasma? What dwells in a Vallorn? How can we combat a Vallorn? How do Trods work? Hopefully this will allow someone reading it to gain a clearer idea of what [[The Vallorn|the Vallorn]] is and will stop misinformation. I am happy to update this document as needed and as more information comes to the light.
 
 **What is the Vallorn?**
 

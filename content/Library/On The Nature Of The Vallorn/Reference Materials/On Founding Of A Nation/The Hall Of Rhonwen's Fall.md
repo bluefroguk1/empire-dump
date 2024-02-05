@@ -8,7 +8,7 @@ The carvings had been there for an extremely long time. I did not witness their 
 
 I saw those that I believe were refugees from Terunael and they treated these carvings as ancient. I then saw visions of an even older time. Those I believe were from Terunael using the patterns to inform them of possible magics they could use to connect their cities. These carvings were in place I believe before Terunael came to their full power and they based the joining of their cities on these carvings.
 
-Following the carvings and visions around the Hall I made my way slowly to the raised part of the Hall. It was here the visions changed. I saw a gathering of the refugees and two faces that I recognised from the Skein I received from Thorn's legacy. Here stood Navarr and Thorn the founders of our nation. They were talking to a woman who they called Star. She had taken the refugees from Serenael to this place of Sanctuary. Talking with Navarr and Thorn she interpreted the carvings and they came up with the plan to form the network of Trods to take the power from the Vallorn.
+Following the carvings and visions around the Hall I made my way slowly to the raised part of the Hall. It was here the visions changed. I saw a gathering of the refugees and two faces that I recognised from the Skein I received from [[Thorn's Legacy|Thorn's legacy]]. Here stood Navarr and Thorn the founders of our nation. They were talking to a woman who they called Star. She had taken the refugees from Serenael to this place of Sanctuary. Talking with Navarr and Thorn she interpreted the carvings and they came up with the plan to form the network of Trods to take the power from the Vallorn.
 
 I was then given the knowledge of one last thing in this place of significance.
 

@@ -1,4 +1,4 @@
-Against the Vallorn
+Against [[The Vallorn|the Vallorn]]
 
 **Battle of Brocéliande**
 

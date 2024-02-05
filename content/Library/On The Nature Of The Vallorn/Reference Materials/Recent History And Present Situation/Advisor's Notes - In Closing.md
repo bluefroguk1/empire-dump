@@ -1,4 +1,4 @@
-It was early in my tenure as Advisor on the Vallorn that I found myself meeting with the eternal Kaela. It was during that audience that we spoke on endings and I voiced my ambition. I sought not only to lead the Empire in fighting the Vallorn but to strive to see another Vallorn heart defeated in my lifetime.
+It was early in my tenure as Advisor on [[The Vallorn|the Vallorn]] that I found myself meeting with the eternal Kaela. It was during that audience that we spoke on endings and I voiced my ambition. I sought not only to lead the Empire in fighting the Vallorn but to strive to see another Vallorn heart defeated in my lifetime.
 
 Amused, Kaela offered me a place in her legion to ensure my longevity and ensure that my words become reality. Naturally I declined but stating my intent in front a figure of such power was very reaffirming. My oaths stand resolute and have been at the forefront of my mind while writing this book.
 

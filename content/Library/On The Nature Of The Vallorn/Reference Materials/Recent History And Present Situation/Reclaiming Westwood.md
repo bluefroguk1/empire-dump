@@ -1,6 +1,6 @@
 "History is written by the victors" is a common turn of phrase that in many ways is true. We feel the ramifications of Emperor Nicovar and similar individuals attempts to audit history to this day. It is only through attempting to keep bias out of reports and/or sharing multiple viewpoints that we will paint a broader and more accurate depiction of noteworthy events going forward.
 
-Owing to my position as Advisor on the Vallorn my viewpoint on the reclamation of Westwood is decidedly focused on my oaths and as such I would find it difficult to write an unbiased point of view. I do however believe it worth sharing my views to ensure they are not lost to time and that the campaign isn't noted as a complete victory.
+Owing to my position as Advisor on [[The Vallorn|the Vallorn]] my viewpoint on the reclamation of Westwood is decidedly focused on my oaths and as such I would find it difficult to write an unbiased point of view. I do however believe it worth sharing my views to ensure they are not lost to time and that the campaign isn't noted as a complete victory.
 
 The following account is comprised mostly of reports and almanacs released at the time edited to past tense and elaborated upon in places by myself.
 

@@ -2,7 +2,7 @@
 
 **Judgement 35 by Raewyn Eternal**
 
-"To all Imperial citizens, let it be known that when someone falls in the Vallorn miasma, they do not die. The terrible Vallorn keeps them on the brink of death and puppets their bodies, trapping their souls, unable to move on to the Labyrinth or cross the Abyss.
+"To all Imperial citizens, let it be known that when someone falls in [[The Vallorn|the Vallorn]] miasma, they do not die. The terrible Vallorn keeps them on the brink of death and puppets their bodies, trapping their souls, unable to move on to the Labyrinth or cross the Abyss.
 
 The Navarr National Assembly now considers the destruction of the Vallorn and release of the souls trapped within to be the most important spiritual endeavour of the Empire. We call upon our fellow nations to dedicate themselves to this cause." 
 **Navarr National Assembly**, Upheld 146 - 0 (Greater Majority)

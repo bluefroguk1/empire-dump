@@ -4,7 +4,7 @@ Last season I commissioned the Department of Historical Research to look into th
 
 **FROM KANTOR SPIRE, AXOS**
 
-During diplomatic talks with an Ambassador from Axos it was agreed that while the Dance of Navarr and Thorn is a very effective tool against the Vallorn it would serve no purpose in Axos without the Navarr to walk the trods.
+During diplomatic talks with an Ambassador from Axos it was agreed that while the Dance of Navarr and Thorn is a very effective tool against [[The Vallorn|the Vallorn]] it would serve no purpose in Axos without the Navarr to walk the trods.
 
 However, they saw the potential in the ritual and asked if they could study it in the hopes of creating something similar that may work for them. Following some negotiations and talks amongst the vates of Navarr it was agreed that the spire be allowed a copy of the ritual text on the grounds that in exchange they were to provide copies of any rituals) they developed to combat the vallorn that were born of their research. If the Axou researchers are unable to create a ritual based upon the Dance then they agreed to share all of their research notes.
 

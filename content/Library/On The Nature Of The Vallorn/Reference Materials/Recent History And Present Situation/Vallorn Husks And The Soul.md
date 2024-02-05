@@ -1,4 +1,4 @@
-Here we further discuss information obtained about the Vallorn and how it may interact and indeed imperil the soul.
+Here we further discuss information obtained about [[The Vallorn|the Vallorn]] and how it may interact and indeed imperil the soul.
 
 **The Husks Of Return**
 

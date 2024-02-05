@@ -1,0 +1,19 @@
+---
+revision_id: 106850
+revision_date: 2024-01-05T13:12:02Z
+Tags:
+- Magic-Item
+draft: false
+Title: Wayfarer_s Robe
+aliases:
+- Wayfarer's_Robe
+---
+## Description
+This sturdy garment is often made of soft wool treated with [[Materials#Beggar's Lye|beggar's lye]] and [[Materials#Iridescent Gloaming|dyed]] in rich colours. The robe is decorated with [[Materials#Dragonbone|dragonbone]], and often bears beautiful embroidery. It often bears a hood, and is commonly designed to be worn over other clothing - or even armour on some occasions. It is favoured by priests who serve as spiritual advisors, especially to military units, and in some places it is called a ''Warpriest's Robe''. The robe can also prove valuable to itinerant or missionary priests who regularly find themselves in situations where there are no other priests of the Way nearby. This has led to the item being dubbed a ''missionary robe'' or a ''mendicant's coat'' in various parts of the Empire.
+The potential strength it offers to a priest's [[Religious skills|ceremonies]] which makes it appealing to active, adventurous priests such as a [[Troubadour|Troubadour]] who supports a band of [[Questing knight|questing knights]] or a [[Varushka|Varushkan]] priest who investigates spiritual corruption alongside a [[Warden|warden fellowship]]. Such adventurous priests never know when they might encounter a [[Malign Spiritual Presences|malign]] [[Aura]] that must be removed, or the influence of a malignant spirit that must be [[Exorcism|exorcised]]. Being able to [[Religious skills#Ceremony Strength|strengthen]] the potence of a ceremony can make the difference between success and tragic failure.
+Also known as a ''Pilgrim's Robe'', this vestment was traditionally called a ''Wayfarer's Chasuble''. A chasuble was a pilgrim's garment popular among pre-Imperial [[Highguard|Highborn]] priests. This took the form of a circle or oval of cloth, a little like a poncho, with a hole in the middle for the head, falling  on all sides nearly to the ground and gathered up to allow the arms to be used freely. Often made of tough wool, sometimes treated with [[Materials#Ambergelt|ambergelt]] to make it waterproof. Its association with pilgrimages and thus itinerant preachers led to it being further associated with several early [[Chapters]]. The popularity of the chasuble grew as the Way spread, but over time it fell out of fashion. Today the use of the chasuble has been largely replaced by the use of robes.
+As with many [[Magic Items|magic items]] of a ceremonial nature, it is common for a Wayfarer's Robe to be [[Hallow|hallowed]], even where it is intended to be worn by an [[Dedication|undedicated]] priest of the Way (rather than a member of a specific virtue assembly). Common hallows include the [[Auras of Courage#Hallowing of Inga Tarn|Hallowing of Inga Tarn]], the [[Auras of Vigilance#Hallowing of the Archivist|Hallowing of the Archivist]] or [[Auras of Vigilance#Hallowing of the Scout|Scout]], or the [[Auras of Wisdom#Hallowing of the Volhov|Hallowing of the Volhov]].
+## Rules
+Vestments
+* Effect: When you [[Religious skills#Performing a ceremony|perform]] or [[Religious skills#Cooperation|cooperate]] in the performance of a [[Religious skills|religious skill]], you may spend an additional dose of [[Liao]] to increase the [[Religious skills#Ceremony Strength|strength]] of the ceremony by one.
+* Materials: Crafting a Wayfarer's Robe requires three measures of [[Materials#Beggar's Lye|beggar's lye]], three measures of [[Materials#Iridescent Gloaming|iridescent gloaming]], and four measures of [[Materials#Dragonbone|dragonbone]]. It takes one month to make one of these items.

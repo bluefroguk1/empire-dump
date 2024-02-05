@@ -1,0 +1,29 @@
+---
+revision_id: 89255
+revision_date: 2022-05-01T11:27:39Z
+Tags:
+- Rituals
+- Spring-Ritual
+- Resource
+draft: false
+Title: Fountain_s Bounty
+aliases:
+- Fountain's_Bounty
+---
+stub
+## Rules
+Season|Spring|12
+Urizen Lore
+### Performing the Ritual
+Casting time|2 Target Resource|[[Mana site]]
+[[Enchantment|enchantment]]
+### Effects
+The [[Mana site]] flourishes with supernatural, wholesome life. It provides an additional bounty over the next season, in addition to the normal production of crystal mana.
+At the start of the next season the target mana site provides seven random [[Herbs]], four [[Materials#Natural Materials|measures]] of random forest materials, and 36 rings.
+Downtime buff
+### Additional Targets
+This ritual can affect additional mana sites in the same [[Territory]]. Each additional mana site increases the magnitude by 9. The character who controls each mana site must be present throughout the ritual.
+## Description
+TBC
+## Common Elements
+TBC

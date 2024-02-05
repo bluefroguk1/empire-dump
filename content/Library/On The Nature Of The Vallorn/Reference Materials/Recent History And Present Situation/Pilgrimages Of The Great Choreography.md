@@ -1,4 +1,4 @@
-In the wake of the Grey Pilgrimage joining the Stridings of Navarr I have consulted the previous documents and my Guides to create pilgrimage routes that follow the trods. Specifically, they follow the paths the exemplars Navarr (Wisdom) and Thorn (Ambition) took in re-establishing the Trods in their new purpose of draining the Spring magic of the Vallorn.
+In the wake of the Grey Pilgrimage joining the Stridings of Navarr I have consulted the previous documents and my Guides to create pilgrimage routes that follow the trods. Specifically, they follow the paths the exemplars Navarr (Wisdom) and Thorn (Ambition) took in re-establishing the Trods in their new purpose of draining the Spring magic of [[The Vallorn|the Vallorn]].
 
 Sian Eternal, with the guidance of Ranulf Farkas, Raewyn Eternal and Harwyn Eternal.
 

@@ -30,4 +30,4 @@ You will note my use of 'plant threads' as a term. Be aware that spore afflictio
 
 As always exercise due diligence and after treating an afflicted patient thoroughly wash your tools and hands.
 
-Also be aware as a healer that the vallorn, in its foul abundance, might yet manifest in forms of life unseen and unknown to Imperial Medicine and knowledge. If you should encounter a new manifestation, I urge you to spread knowledge and awareness of it with due Virtue. Lives may be spared by your swift, Wise and Loyal action.
+Also be aware as a healer that [[The Vallorn|the vallorn]], in its foul abundance, might yet manifest in forms of life unseen and unknown to Imperial Medicine and knowledge. If you should encounter a new manifestation, I urge you to spread knowledge and awareness of it with due Virtue. Lives may be spared by your swift, Wise and Loyal action.

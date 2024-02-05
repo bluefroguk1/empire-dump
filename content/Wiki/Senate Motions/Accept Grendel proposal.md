@@ -1,0 +1,21 @@
+---
+revision_id: 90153
+revision_date: 2022-05-12T20:20:43Z
+Tags:
+- Senate-Motion
+- 378YE-Winter
+draft: false
+Title: Accept Grendel proposal
+aliases:
+- Accept_Grendel_proposal
+---
+To accept the Grendel proposal that they will remove one of their armies from Spiral if we do not raid Dubtraig for the duration of one year.
+After this, further negotiations may occur with this Salt Lord and/or others.Proposed by Kahraman, Seconded by Feroz.
+### Overview
+* An ambassador from the [[Grendel]] Salt Lord of Dubhtraig presented an agreement to the Imperial Senate. This is a formal acceptance of that agreement but is not a change to the law.
+### Date
+* Winter 378YE
+### Constitution
+* This is not a legal restriction, but a statement of principle by the [[Imperial Senate]].
+* The Grendel remain barbarians, and raiding their fleets remains perfectly legal.
+__NOTOC__

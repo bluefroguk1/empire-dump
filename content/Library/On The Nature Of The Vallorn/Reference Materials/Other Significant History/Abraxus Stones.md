@@ -1,6 +1,6 @@
 **Published Research:**
 
-*During Autumn 382YE, the Advisor on the Vallorn Sian Eternal commissioned research into the Abraxus stones with a focus on the item's origins and uses of significant stones. The researcher - Luca Friedlin von Holberg - was unable to establish anything new about the origins of the stones apart from to confirm that they were most likely first used by the Terunael. Their primary use was apparently as a gift to foreign delegates. Whilst they were being hosted in one of the cities of the Terun, the amulet's properties served as a symbolic demonstration of the city's intent to protect their guests.*
+*During Autumn 382YE, the Advisor on the Vallorn Sian Eternal commissioned research into the [[Abraxus Stones|Abraxus stones]] with a focus on the item's origins and uses of significant stones. The researcher - Luca Friedlin von Holberg - was unable to establish anything new about the origins of the stones apart from to confirm that they were most likely first used by the Terunael. Their primary use was apparently as a gift to foreign delegates. Whilst they were being hosted in one of the cities of the Terun, the amulet's properties served as a symbolic demonstration of the city's intent to protect their guests.*
 
 *Luca was able to discover information about several historical examples of the Abraxus Stone.*
 

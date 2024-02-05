@@ -3,7 +3,7 @@ First, I gather the information already provided by the Historical Research Depa
 Known facts
 
 - ﻿﻿Born Holtford Miaren 234YE
-- ﻿﻿Noted in records as having taken part in numerous battles against the Vallorn in the run up to 268YE
+- ﻿﻿Noted in records as having taken part in numerous battles against [[The Vallorn|the Vallorn]] in the run up to 268YE
 - ﻿﻿Made speeches against the Navarr leaders in the aftermath of Broceliande 268YE claiming that they were trying to play the Vallorn at their own game
 - ﻿﻿Gave one last speech in 272YE in Liathaven claiming that the Dance of Navarr and Thorn is designed to spread the Vallorn's strength across the Empire via the Trods and berating the gathered mages for not reading the text of the ritual and understanding its meaning.
 - ﻿﻿Disappears around 278YE after a last conversation with Dawnish Troubadour Arrayne, claiming a major breakthrough

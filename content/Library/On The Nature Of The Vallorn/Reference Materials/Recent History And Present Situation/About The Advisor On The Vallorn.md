@@ -1,4 +1,4 @@
-The Advisor on the Vallorn is an Imperial title that was established by majority vote of the Senate in Spring 378YE. It was created in response to the fact very little was known about the Vallorn, especially by citizens who weren't Navarri.
+The Advisor on [[The Vallorn|the Vallorn]] is an Imperial title that was established by majority vote of the Senate in Spring 378YE. It was created in response to the fact very little was known about the Vallorn, especially by citizens who weren't Navarri.
 
 Risks were taken and lives were lost because the enemy was often underestimated or just misunderstood.
 

@@ -1,4 +1,4 @@
-There are many paths we can take in learning more about Terunael and the Vallorn and this list is by no means exhaustive, I include this list here to share what I intend to research in the near future. If you wish to undertake any of these avenues of investigation, please be sure to collaborate with myself and future Advisors on the Vallorn to ensure resources aren't being squandered by multiple groups following the same leads.
+There are many paths we can take in learning more about Terunael and [[The Vallorn|the Vallorn]] and this list is by no means exhaustive, I include this list here to share what I intend to research in the near future. If you wish to undertake any of these avenues of investigation, please be sure to collaborate with myself and future Advisors on the Vallorn to ensure resources aren't being squandered by multiple groups following the same leads.
 
 #### TOPICS FOR HISTORICAL RESEARCH
 

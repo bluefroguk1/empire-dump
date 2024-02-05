@@ -12,7 +12,7 @@ So not to waste your time, I have looked at details for other stones around that
 
 Something seems to be watching me through the window. The Civil Service has provided guards to protect me from the Whisper Gallery... but they hamper my work. I shall try to do as much as I can.
 
-**The Singing Stones**
+**The [[Singing Stones]]**
 
 There are records that there were one or two odd stones found. These were about 4-5 foot tall and had patterns carved through them, not as curved as the patterns of the Navarr but more angular like many of the Terunael artefacts.
 

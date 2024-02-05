@@ -1,6 +1,6 @@
 The creation of the Vallorn is called many things; The Great Ritual, The Great Work, The Great Mistake, The Accident. In stories it is often referred to as a ritual that 'went wrong', however that is not entirely the case.
 
-I have included parts of Imperial ritual theory above to prove that to be the case. Rituals do not go wrong; they do what they are supposed to do. This is the first aw of magic.
+I have included parts of Imperial [[Ritual Theory|ritual theory]] above to prove that to be the case. Rituals do not go wrong; they do what they are supposed to do. This is the first aw of magic.
 
 However, it is possible for a caster to misinterpret the end result of a ritual which is what I believe happened to the people of Terunael. In their certainty of their magical prowess that they believed they could control the end result of their workings.
 

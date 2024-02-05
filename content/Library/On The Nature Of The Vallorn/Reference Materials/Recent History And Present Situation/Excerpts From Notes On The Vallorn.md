@@ -1,6 +1,6 @@
 **Written by Emhyr Shadowbirch, Summer 780YE**
 
-The Heart of the Vallorn in Therunin is based in Greenheart, the history of the Vallorn in this area is a long one. With all the crazy shit in the world at the moment, it is probably wise if I write it down for prosperity. The stories that I was told as a child tell that the Vallorn claimed over half of Therunin or Tharunind as it used to be called.
+The Heart of [[The Vallorn|the Vallorn]] in Therunin is based in Greenheart, the history of the Vallorn in this area is a long one. With all the crazy shit in the world at the moment, it is probably wise if I write it down for prosperity. The stories that I was told as a child tell that the Vallorn claimed over half of Therunin or Tharunind as it used to be called.
 
 [[The Vallorn]] spread south taking over Sweetglades, Eastring and even East Ashes to the coast of Feverwater. One of the big questions is how the Vallorn was fought back and why our predecessors didn't write it down. I know it is easy to blame the patrons of the realm of Night. The Rainbow Serpent or the Courtiers, but this is our reason to be. We swore an oath to do this, all of us. Why the fuck would an entire nation forget how to do something we have done before and is the reason we exist.
 

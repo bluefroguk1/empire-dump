@@ -1,6 +1,6 @@
 Autumn 383YE
 
-The Heirs of Terunael are traitors to the dream of the Navarr. Most recently they helped drive the chaos in the Liathaven and Brocéliande, working with the monstrous Children of Yaw'nagrah to spread the vallorn's terrible green grasp.
+The Heirs of Terunael are traitors to the dream of the Navarr. Most recently they helped drive the chaos in the Liathaven and Brocéliande, working with the monstrous Children of Yaw'nagrah to spread [[The Vallorn|the vallorn]]'s terrible green grasp.
 
 With their defeat in Brocéliande, the assumption is that they will be forced to fall back... and assumption that could have been dangerously premature.
 

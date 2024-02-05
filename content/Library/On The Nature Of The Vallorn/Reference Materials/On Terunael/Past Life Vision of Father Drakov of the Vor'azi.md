@@ -22,7 +22,7 @@ Vanya's soul appeared after the vision to look faded and weak, and Vanya himself
 
 There are no details in the vision of names, dates, or locations. However, the context of invading orcs and a civilisation dealing with them by flooding the surrounding area with Spring magic on such a large scale suggests that this could have occured in one of the cities of Terunael. If this were the case the name "Bel Am" could have been a mishearing of "Beantal Dol", one of the Terun cities.
 
-### Past Life Vision of Father Drakov of the Vor'azi as documented in a letter to the Eternal Family of Navarr
+### [[Past Life Vision of Father Drakov of the Vor'azi]] as documented in a letter to the Eternal Family of Navarr
 
 I trust my letter finds you and the rest of the Eternal Family well. I have returned safely to the Grimhold. As promised I have put quill to paper to explain in as much detail as I can my True Liao Vision, along with my thoughts.
 

@@ -1,0 +1,29 @@
+---
+revision_id: 81201
+revision_date: 2020-08-16T13:13:52Z
+tags:
+  - The-Throne
+  - Synod
+draft: false
+Title: Captain of the Throne Guard
+aliases:
+  - Captain_of_the_Throne_Guard
+---
+## Overview
+The Vigilant Shield is a manor house in in the region of [[Casinea#Mareholm|Mareholm]] in [[Casinea]], close to the Silent Sentinel and on the road to Anvil. It was built to support, train and inspire members of the Throne Guard, and funded by the House of Seven Mirrors - the guild of [[Empress Lisabetta]]. Construction and planting of the surrounding gardens was completed shortly after the 383YE Summer Solstice.
+## Responsibilities
+The [[Captain of the Throne Guard]] has the responsibility to protect the Throne in accordance with the Throne Guard oath: "in body, mind and soul" and to recruit and roster members of the Throne Guard during Anvil Summits. In addition, if the Vigilant Shield itself were to be threatened in any way, it would be the responsibility of the Captain to deal with those threats. 
+## Powers
+### A Portion of [[Liao]]
+The [[Captain of the Throne Guard]] is an Imperial title that has custodianship of this sinecure, which provides an income of six measures of [[Liao]] each season, to be used as the holder sees fit.
+### Point of Pilgrimage
+The [[Captain of the Throne Guard]] may sit in the [[Imperial Synod]], and possesses 12 votes in Synod affairs (or an additional 12 votes if they already have a [[Congregation|congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible.
+## [[Appointment]]
+The title is appointed each Winter Solstice by [[The Throne]].
+The Captain of the Throne Guard can be [[Revocation|revoked]] by the [[Assembly#General Assembly|General Assembly]] or the [[Assembly#The Assembly of the Nine|Assembly of the Nine]].
+## The Vigilant Shield
+This comfortable manor house is situated close enough to the Silent Sentinel to hear if its massive warning bell ever rings out to call Imperial citizens to vigilant defence. But unlike that fortification, the manor house has been designed with pleasing proportions, bearing a passing resemblance to the Rose Towers in Semmerholm. 
+In the heart of the main house lies the oak-panelled chapel, adorned with portraits of paragons and exemplars, primarily of [[Vigilance]] and [[Loyalty]]. In [[Pride|pride]] of place is a lectern upon which rests an illuminated scroll, setting out the names and affiliations of fallen Throne Guard.
+The manor house is surrounded by flower gardens, ornamented with statuary commissioned from artists of all nations of the Empire, and threaded through with a pergola walkway reminiscent of cloisters. The plants have been chosen carefully such that the gardens are in bloom for most of the year, yet can withstand the extremes of weather often experienced this close to Anvil. It is a haven in colourful shades of gold, green, white and violet, and often sparkles with silver raindrops.
+Responsibilities Expectation
+RecentElections|Captain_of_the_Throne_Guard
