@@ -1,26 +1,24 @@
 ---
-revision_id: 25292
-revision_date: 2014-05-06T10:15:07Z
-Tags:
-- Music
-- Varushka-Music
-- Varushka
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Varushka-Music', 'Varushka']
 Title: Dos Vidanya
-aliases:
-- Dos_Vidanya
+aliases: ['Dos_Vidanya']
+draft: False
+revision_date: 2014-05-06 10:15:07+00:00
+revision_id: 25292
 ---
+
 Original [[Music]] & Lyrics by Anna Clifford Tait and Stephanie Heath
 RECORDING of this song : [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/steph/DosVidanya.mp3 Dos Vidanya]
 ''Chorus:'' 
 [[Dos Vidanya|Dos vidanya]], those who go before us
 [[Dos Vidanya|Dos vidanya]], our blood and our heart
 Pahka, we'll soon come to meet you
-Just for now, good bye and good night.
+Just for now, good bye and good [[Night|night]].
 No tears we weep for you, we understand
 Your lives were gave up to appease our cold land
 But darkness and hunger, they touch you no more
-Now your names are woven into our land's lore (=law: deliberately ambiguous)
+Now your names are woven into our land's lore (=[[Law|law]]: deliberately ambiguous)
 The strength that you offered, the kindess you shared
 The visions that drove you, the passions that flared
 As long as these mem'ries remain like a spark

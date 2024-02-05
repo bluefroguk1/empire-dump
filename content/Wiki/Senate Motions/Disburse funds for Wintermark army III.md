@@ -1,22 +1,21 @@
 ---
-revision_id: 86358
-revision_date: 2022-01-31T21:36:16Z
-Tags:
-- Senate-Motion
-- 381YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '381YE-Spring']
 Title: Disburse funds for Wintermark army III
-aliases:
-- Disburse_funds_for_Wintermark_army_III
+aliases: ['Disburse_funds_for_Wintermark_army_III']
+draft: False
+revision_date: 2022-01-31 21:36:16+00:00
+revision_id: 86358
 ---
+
 __NOTOC__
-Disbursement of funds to levy Wintermark army
-Proposed by Hahnmark, Seconded by Bregasland
+Disbursement of funds to levy [[Wintermark]] army
+Proposed by [[Hahnmark]], Seconded by [[Bregasland]]
 ### Overview
-* This follows on from [[Disburse funds for Wintermark army|two]] [[Disburse funds for Wintermark army II|previous]] motions to disburse funds towards the [[Raise Wintermark army II|raising]] of a third [[Wintermark]] army.
+* This follows on from two previous motions to disburse funds towards the raising of a third [[Wintermark]] army.
 * Passed
 * Passed at 125 thrones
 ### Date
-* Spring 381YE
+* [[Spring]] 381YE
 ### Progress
-* 125 thrones disbursed to Senator Hahnmark
+* 125 thrones disbursed to [[Senator]] [[Hahnmark]]

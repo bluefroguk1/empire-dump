@@ -1,15 +1,15 @@
 ---
-revision_id: 62688
-revision_date: 2018-04-19T22:12:59Z
-tags:
-  - Game-Design
-draft: false
+IgnoreLinking: False
 Title: Flavours of Africa
-aliases:
-  - Flavours_of_Africa
+aliases: ['Flavours_of_Africa']
+draft: False
+revision_date: 2018-04-19 22:12:59+00:00
+revision_id: 62688
+tags: ['Game-Design']
 ---
+
 ## Overview
-[[Flavours of Africa]] are one of the caterers who we have invited to cater at all Empire [[Events|events]] in 2018. They will be setting up in the out-of-character area near GOD and the other OOC hostelries. See the [http://www.flavorsofafrica.co.uk/gallery.html [[Flavours of Africa]] website] for more information.
+[[Flavours of Africa]] are one of the caterers who we have invited to cater at all Empire [[Events|events]] in 2018. They [[Will|will]] be setting up in the out-of-character area near GOD and the other OOC hostelries. See the [http://www.flavorsofafrica.co.uk/gallery.html [[Flavours of Africa]] website] for more information.
 ## Menu
 MenuAdult PriceChildren
 Jollof Rice & Plantain£6.00£4.00
@@ -25,5 +25,5 @@ Any of the individual dishes is priced at£5.00£3.00
 * Plaintain: Savoury version of banana cooked in rapeseed oil - Vegan/Veggie.
 * Bean Cake (Moin moin): Black eyed beans blended with tomatoes, paprika, spices, peppers and rapeseed oil, into a paste & baked - Vegan/Veggie.
 * Spinach Stew – Spinach and Kale cooked in a rich paprika based sauce - Vegan/Veggie.
-* BBQ/Stewed Chicken: Chicken cooked three ways of; boiling, barbequed and then stewed using a family recipes in all three processes.
+* BBQ/Stewed Chicken: Chicken cooked three ways of; boiling, barbequed and then stewed using a [[Family|family]] recipes in all three processes.
 All the above are all gluten, dairy, wheat, soya, sugar, Palm Oil and mushroom free and in our BBQ/Stewed Chicken, we only use Halal Chicken.

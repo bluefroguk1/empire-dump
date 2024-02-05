@@ -1,18 +1,17 @@
 ---
-revision_id: 86494
-revision_date: 2022-02-02T09:22:30Z
-Tags:
-- Senate-Motion
-- 379YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '379YE-Autumn']
 Title: Appoint Jarmish ambassador
-aliases:
-- Appoint_Jarmish_ambassador
+aliases: ['Appoint_Jarmish_ambassador']
+draft: False
+revision_date: 2022-02-02 09:22:30+00:00
+revision_id: 86494
 ---
-To appoint an ambassador to JarmProposed by Kallavesa, seconded by Morrow. 
+
+To appoint an [[Ambassador|ambassador]] to JarmProposed by [[Kallavesa]], seconded by [[Morrow]]. 
 ### Overview
 * This motion was to choose a citizen to appoint to the [[Imperial Title]] of [[Ambassador to Jarm]].
 ### Date
-* Autumn 379YE.
+* [[Autumn]] 379YE.
 ### Outcome
 * The incumbent, Oswi Twice-burned, was elected.

@@ -1,11 +1,11 @@
 ---
-revision_id: 49806
-revision_date: 2017-03-23T11:52:41Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Song of the Noonday Sun
-aliases:
-- Song_of_the_Noonday_Sun
+aliases: ['Song_of_the_Noonday_Sun']
+draft: False
+revision_date: 2017-03-23 11:52:41+00:00
+revision_id: 49806
 ---
+
 #REDIRECT [[Icon of the Proud]]

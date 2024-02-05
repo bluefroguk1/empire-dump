@@ -1,29 +1,27 @@
 ---
-revision_id: 107433
-revision_date: 2024-01-31T14:23:42Z
-Tags:
-- Events
-- Children
-- The-Game
-draft: false
+IgnoreLinking: False
+Tags: ['Events', 'Children', 'The-Game']
 Title: Carer ticket
-aliases:
-- Carer_ticket
+aliases: ['Carer_ticket']
+draft: False
+revision_date: 2024-01-31 14:23:42+00:00
+revision_id: 107433
 ---
+
 stub
 ## Overview
-Carer tickets are intended to be used by people who need to be onsite to support a player with their physical or mental health needs. They can also be used by anyone who needs to be onsite as the [[#Responsible Adults|responsible adult]] for a player between 11 and 15 years old, and who doesn't want to play [[The game|the game]]. 
+Carer tickets are intended to be used by people who need to be onsite to support a player with their physical or mental health needs. They can also be used by anyone who needs to be onsite as the responsible adult for a player between 11 and 15 years old, and who doesn't want to play [[The game|the game]]. 
 We expect people attending [[Events|events]] on a carers ticket to be onsite, but not [[Playing the game|playing the game]]. Anyone is welcome to book on a full ticket to play [[The game|the game]] at any time, and you can convert a [[Carer ticket|carer ticket]] to a full player ticket by paying the difference.
-These tickets are not available on the website like a standard ticket. They are only available on request, and need to be organised through the office at [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk]. Carer tickets are not right for everyone, and it's important to read and understand the rules outlined here. If you have any questions you can contact us at the same address.
+These tickets are not available on the website like a standard ticket. They are only available on request, and need to be organised through the office at [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk]. Carer tickets are not right for everyone, and it's important to read and understand the rules outlined here. If you have any questions you can [[Contact us|contact us]] at the same address.
 ## In and Out of Character
-The event is held on a site that spreads over several fields. [[The game]] is active on the ''In Character'' (IC) fields, but the fields around this are ''Out of Character'' (OC). On the IC fields while the game is running, people are playing their [[Characters|characters]] and expected to be In Character and must be in [[Costume|costume]]. In the OC fields no one is in character, and [[Costume|costume]] does not have to be worn. On the site map found on the [[event page]], the In character fields are the ones marked with nation camps.
+The event is held on a site that spreads over several fields. The game is active on the ''In Character'' (IC) fields, but the fields around this are ''Out of Character'' (OC). On the IC fields while the game is running, people are playing their [[Characters|characters]] and expected to be In Character and must be in [[Costume|costume]]. In the OC fields no one is in character, and [[Costume|costume]] does not have to be worn. On the site map found on the event page, the In character fields are the ones marked with nation camps.
 __TOC__
 ## Supporting Health Needs
-We know that certain elements of the [[Live roleplaying|live roleplaying]] hobby can present challenges to players with specific access requirements, and we aim to make reasonable adjustment for disabled players. Some players will benefit from having out of character support at an event, and the carers ticket allows someone to be on hand when needed. We trust players to manage their own [[Accessibility|accessibility]] needs, so there's no requirement to provide any additional information to use a [[Carer ticket|carer ticket]]. Information around [[Accessibility|accessibility]] can be found [https://www.profounddecisions.co.uk/[[Accessibility|accessibility]] on our website].
+We know that certain elements of the [[Live roleplaying|live roleplaying]] hobby can present challenges to players with specific access requirements, and we aim to make reasonable adjustment for disabled players. Some players [[Will|will]] benefit from having out of character support at an event, and the carers ticket allows someone to be on hand when needed. We trust players to manage their own [[Accessibility|accessibility]] needs, so there's no requirement to provide any additional information to use a [[Carer ticket|carer ticket]]. Information around [[Accessibility|accessibility]] can be found [https://www.profounddecisions.co.uk/accessibility on our website].
 ## Responsible Adults
-We consider players in the 11-15 age range are able to participate and roleplay fully in the game setting as to be just as capable of remaining in-character all day as any adult. At this age it is acceptable for participants to roleplay for long periods without a responsible adult being present. You should still be aware of what the young person is doing, and they should check in regularly with you. Further information have be found in our [[Information for 11-15 year olds]].
+We consider players in the 11-15 age range are able to participate and roleplay fully in the game setting as to be just as capable of remaining in-character all [[Day|day]] as any adult. At this age it is acceptable for participants to roleplay for long periods without a responsible adult being present. You should still be aware of what the young person is doing, and they should check in regularly with you. Further information have be found in our [[Information for 11-15 year olds]].
 ## Expectations
-If you are attending the event using a [[Carer ticket|carer ticket]], there are several expectations of your behaviour while on site. We would generally assume you will based in the Out of Character (OC) area, but there are provisions for being based in the In Character (IC) area.
+If you are attending the event using a carer ticket, there are several expectations of your behaviour while on site. We would generally assume you [[Will|will]] based in the Out of Character (OC) area, but there are provisions for being based in the In Character (IC) area.
 ### Based on the Out of Character Area
 If you are based in the Out of Character (OC) area...
 * You should camp in the Out of Character Fields
@@ -34,10 +32,10 @@ If you are based in the Out of Character (OC) area...
 * You may attend the Player Support sessions on Friday with your player
 ### Based on the In Character Area
 If you are based on the In Character field...
-* You must wear a game appropriate [[Costume|costume]]
+* You must wear a game appropriate costume
 * You should remain at the back of camp as much as possible, and not participate in the game.
-* You are not [[Playing the game|playing the game]] and are not to be involved in game politics, voting or other role play.
-* You will not have a character and will not get a [[Resource|resource]] or any in game [[Materials|materials]].
+* You are not playing the game and are not to be involved in game politics, voting or other role play.
+* You will not have a character and will not get a resource or any in game [[Materials|materials]].
 * You can access the facilities on the Out of Character field or those closest to you on the In Character Field
 * You can access the caterers on the Out of Character Field and eat near them or return to your camp or collect food from the caterers on the In Character field to return with to your camp.
 * You may attend the Player Support sessions on Friday with your player

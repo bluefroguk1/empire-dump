@@ -1,11 +1,11 @@
 ---
-revision_id: 36291
-revision_date: 2015-06-03T22:02:03Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Porpoise Key
-aliases:
-- Porpoise_Key
+aliases: ['Porpoise_Key']
+draft: False
+revision_date: 2015-06-03 22:02:03+00:00
+revision_id: 36291
 ---
+
 #REDIRECT [[Pauper's Key]]

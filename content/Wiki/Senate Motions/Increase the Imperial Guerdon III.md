@@ -1,21 +1,20 @@
 ---
-revision_id: 86562
-revision_date: 2022-02-02T12:17:35Z
-Tags:
-- Senate-Motion
-- 380YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '380YE-Autumn']
 Title: Increase the Imperial Guerdon III
-aliases:
-- Increase_the_Imperial_Guerdon_III
+aliases: ['Increase_the_Imperial_Guerdon_III']
+draft: False
+revision_date: 2022-02-02 12:17:35+00:00
+revision_id: 86562
 ---
+
 __NOTOC__
 To raise the value of the Guerdon
-Proposed by Semmerholm, Seconded by Astolat
+Proposed by [[Semmerholm]], Seconded by [[Astolat]]
 ### Overview
-* A request that the [[Military unit#Downtime Options|Imperial Guerdon]] be increased
+* A request that the Imperial Guerdon be increased
 * Passed at 275 Thrones
 ### Date
-* Autumn 380YE
-### Campaign Outcome
+* [[Autumn]] 380YE
+### [[Campaign outcome|Campaign Outcome]]
 * The Imperial Guerdon was increased to 275 Thrones.

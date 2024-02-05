@@ -1,47 +1,45 @@
 ---
-revision_id: 76981
-revision_date: 2019-09-04T19:35:38Z
-Tags:
-- Rules
-- Rituals
-- Magic
-draft: false
+IgnoreLinking: False
+Tags: ['Rules', 'Rituals', 'Magic']
 Title: Arcane projection
-aliases:
-- Arcane_projection
+aliases: ['Arcane_projection']
+draft: False
+revision_date: 2019-09-04 19:35:38+00:00
+revision_id: 76981
 ---
+
 ## Overview
-It is possible to create a magical effect without performing a [[Formulaic ritual|formulaic ritual]]. Creating an impromptu magical effect is commonly referred to as performing ''spontaneous magic'' or less correctly as a ''spontaneous ritual''. Spontaneous magic is difficult and costly, partly because it is not possible to master a spontaneous magic effect as a magician might with a [[Formulaic ritual]] that is part of Imperial lore. The advantage of spontaneous magic is the wide flexibility it gives a coven or master magician. With it, they can perform unique feats and explore the boundaries of magical theory.
-Unlike a [[Formulaic ritual|formulaic ritual]], spontaneous magic is very rough-and-ready. A [[Formulaic ritual|formulaic ritual]] has been carefully created and rigorously tested so that it can be reliably cast again and again. No such benefit exists when performing spontaneous magic. Many formulaic [[Rituals|rituals]] include options such as using [[Splendid Panoply of Knighthood#Options|orichalcum in place of crystal mana]] or [[Fetid Breath of Teeming Plague#Option|beggar's lye to reduce the magnitude]]. This is not possible with spontaneous magic; likewise, it is impossible to use [[Ilium]] to [[Ilium#Using Ilium in Rituals|to make a spontaneous ritual effect permanent]].
-It is not possible to simply create a spontaneous effect. Significant preparation is required during which a magician explores various theories, considers the techniques used to create other similar [[Rituals|rituals]], and tries to take into account the many variables that might effect the flow of magic during an impromptu performance. In addition to the time involved, a preparation requires ten mana crystals to create, although this magic is then available to perform the spontaneous ritual. The result of this investment of time and mana is an [[#arcane projection|arcane projection]].
-Players interested in performing a spontaneous effect should make sure they read through the information on [[Ritual theory]].
+It is possible to create a magical effect without performing a [[Formulaic ritual|formulaic ritual]]. Creating an impromptu magical effect is commonly referred to as performing ''spontaneous [[Magic|magic]]'' or less correctly as a ''[[Spontaneous ritual|spontaneous ritual]]''. [[Spontaneous magic]] is difficult and costly, partly because it is not possible to master a spontaneous [[Magic|magic]] effect as a [[Magician|magician]] might with a [[Formulaic ritual]] that is part of [[Imperial lore]]. The advantage of spontaneous magic is the wide flexibility it gives a [[Coven|coven]] or master magician. With it, they can perform unique feats and explore the boundaries of magical theory.
+Unlike a formulaic [[Ritual|ritual]], spontaneous magic is very rough-and-ready. A formulaic ritual has been carefully created and rigorously tested so that it can be reliably cast again and again. No such benefit exists when performing spontaneous magic. Many formulaic [[Rituals|rituals]] include options such as using [[Orichalcum|orichalcum]] in place of crystal mana or beggar's lye to reduce the magnitude. This is not possible with spontaneous magic; likewise, it is impossible to use [[Ilium]] to to make a spontaneous ritual effect permanent.
+It is not possible to simply create a spontaneous effect. Significant preparation is required during which a magician explores various theories, considers the techniques used to create other similar [[Rituals|rituals]], and tries to take into account the many variables that might effect the flow of magic during an impromptu performance. In addition to the time involved, a preparation requires ten mana crystals to create, although this magic is then available to perform the spontaneous ritual. The result of this investment of time and mana is an [[Arcane projection|arcane projection]].
+Players interested in performing a spontaneous effect should make sure they read through the information on [[Ritual Theory|Ritual theory]].
 ## [[Arcane projection|Arcane Projection]]
-*An [[Arcane projection|arcane projection]] is a magical text that contains the basis for a spontaneous magic effect
+*An arcane projection is a magical text that contains the basis for a spontaneous magic effect
 *Only the magician or coven that holds the projection can attempt the effect
 *A projection lasts until it used
 *A projection is consumed once it is cast
 *[[Ritual theory]] summarizes the known lore of what is and is not possible with a ritual
-An [[Arcane projection|arcane projection]] is a magical text that contains the information and some of the power needed to create a spontaneous magic effect. The projection is essential for completing the magic; only the magician or coven that has possession of the projection can attempt the spontaneous effect described. The contributors must still have sufficient ranks to perform the effect, the projection merely allows them to make the attempt.
-Any magician can attempt to create an arcane projection. Doing so requires several weeks of study, theory, experimentation, and complex calculations. There is no guarantee that it will produce a workable spontaneous magic effect; if the attempt to create an arcane projection is unsuccessful some of the crystal mana dedicated to the attempt may still be lost. 
-There is a large body of [[Ritual theory]] that Imperial magicians have discovered through painstaking research. Reading this lore will help any player who is interested in discussing or creating an arcane projection. It is often easier to create an arcane projection that is similar to existing [[Rituals|rituals]] already described in Imperial lore than it is to create an entirely new effect.
+An arcane projection is a magical text that contains the information and some of the power needed to create a spontaneous magic effect. The projection is essential for completing the magic; only the magician or coven that has possession of the projection can attempt the spontaneous effect described. The contributors must still have sufficient ranks to perform the effect, the projection merely allows them to make the attempt.
+Any magician can attempt to create an arcane projection. Doing so requires several weeks of study, theory, experimentation, and complex calculations. There is no guarantee that it [[Will|will]] produce a workable spontaneous magic effect; if the attempt to create an arcane projection is unsuccessful some of the crystal mana dedicated to the attempt may still be lost. 
+There is a large body of [[Ritual Theory|Ritual theory]] that Imperial magicians have discovered through painstaking research. Reading this lore [[Will|will]] help any player who is interested in discussing or creating an arcane projection. It is often easier to create an arcane projection that is similar to existing rituals already described in [[Imperial lore]] than it is to create an entirely new effect.
 ## Preparing an Arcane Projection
 *It takes ten mana and several weeks to create an arcane projection
 *You must use your PD account to make a projection
-*If the effect is possible, the referee will tell you what magnitude it will be
+*If the effect is possible, the [[Referee|referee]] will tell you what magnitude it will be
 Preparing an arcane projection is an arduous and expensive task that can only be attempted by
-a magician who has one or more [[Magical skills#Ritual Magic|ranks in the relevant realm]]. The magician must use their magical skills to calculate the magnitude of the effect they are trying to create. To do this requires the magician to incorporate ten mana crystals into the arcane projection being created.
+a magician who has one or more ranks in the relevant [[Realm|realm]]. The magician must use their [[Magical skills|magical skills]] to calculate the magnitude of the effect they are trying to create. To do this requires the magician to incorporate ten mana crystals into the arcane projection being created.
 It is possible to prepare more than one arcane projection at a time, or to prepare several possible variations of an effect, but each variation is considered to be its own projection; you must spend ten mana crystals for each projection you wish to create.
-During downtime, any character with the [[Magical skills#Magician|magician]] skill who has ten or more mana crystals in their character's inventory on the database can submit a request for an arcane projection automatically using their account. Log on to your account and the option to request a projection will be visible in the screen containing your character details. From shortly before the late booking deadline, it is no longer possible to submit an Arcane Projection. You must have sufficient crystal mana in your inventory when you submit the arcane projection. For example, you cannot use mana produced by a [[Mana site]] or [[Sinecure]] the same downtime it is produced.
+During [[Downtime|downtime]], any character with the magician skill who has ten or more mana crystals in their character's inventory on the database can submit a request for an arcane projection automatically using their account. Log on to your account and the option to request a projection will be visible in the screen containing your character details. From shortly before the late booking deadline, it is no longer possible to submit an Arcane Projection. You must have sufficient crystal mana in your inventory when you submit the arcane projection. For example, you cannot use mana produced by a [[Mana site]] or [[Sinecure]] the same [[Downtime|downtime]] it is produced.
 If you wish, you can also submit an arcane projection during an event using the computers in GOD, and will receive the result at the start of the next event.
-An arcane projection must incorporate numerous hearth magic effects beyond the magicians' control, such as magical tides, the seasons and the constellations. These effects are locked in when the arcane projection is created, so the preparation can be used at any time, however in some cases these effects will be fundamental requirements of the spontaneous effect. If the magician attempts to recreate the same effect later they may find that too many factors have changed and the effect can no longer be reproduced.
+An arcane projection must incorporate numerous [[Hearth magic|hearth magic]] effects beyond the magicians' control, such as magical tides, the seasons and the [[Constellations|constellations]]. These effects are locked in when the arcane projection is created, so the preparation can be used at any time, however in some cases these effects will be fundamental requirements of the spontaneous effect. If the magician attempts to recreate the same effect later they may find that too many factors have changed and the effect can no longer be reproduced.
 ### Details Required
-*You must select what realm of magic you are planning to use
+*You must select what [[Realm|realm]] of magic you are planning to use
 *It helps significantly if you provide a good in-character description of what you are attempting
 *It helps significantly if you provide a good description of what you would like the rules outcome to be
 *If you leave either element out, we will make them up
 *It does not help at all to provide the magnitude you think it will be
 When you are planning a spontaneous magic effect, it is a significant help if you provide a good in-character description of what your character or coven would like to attempt. It is just as helpful if you provide a clear explanation of what you would like the out-of-character rules outcome to be. If you don't provide either of these two details then our team will make them up, and if they are very different to the ideals you had but didn't tell us this could result in an arcane projection that is not useful to you.
-You cannot specify what magnitude you want the spontaneous effect to be. It is the job of the referee team to calculate the level of magnitude required. You must select one (and only one) of the realms of magic available to your character. Many magical effects are best produced with a single realm and some effects cannot be produced at all with the wrong realm.
+You cannot specify what magnitude you want the spontaneous effect to be. It is the job of the [[Referee|referee]] team to calculate the level of magnitude required. You must select one (and only one) of the [[Realms|realms]] of magic available to your character. Many magical effects are best produced with a single realm and some effects cannot be produced at all with the wrong realm.
 ### Outcome
 *We will work with your description to try and provide you with a ritual that is as close as possible to what you have requested.
 *If we cannot provide you with a suitable ritual, some of your mana will be refunded.

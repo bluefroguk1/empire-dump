@@ -1,20 +1,18 @@
 ---
-revision_id: 35544
-revision_date: 2015-05-07T20:52:34Z
-Tags:
-- Music
-- League-Music
-- The-League
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'League-Music', 'The-League']
 Title: Uncle Vyig
-aliases:
-- Uncle_Vyig
+aliases: ['Uncle_Vyig']
+draft: False
+revision_date: 2015-05-07 20:52:34+00:00
+revision_id: 35544
 ---
-This song is well known in [[The League territories#Temeschwar|Temeschwar]], the Varushkan city that joined The League. It’s about [[Vyig|organised crime]], which was once endemic there, and was referred to obliquely as “[[Uncle Vyig]]” (“[[Uncle Vyig]] had his hands in my pockets”, etc). The song is about how crime takes a cut of everything. It a fun song about terrible things, and is also popular as a song to sing with children in [[Varushka]].
+
+This song is well known in [[Temeschwar]], the Varushkan city that joined [[The League]]. It’s about organised crime, which was once endemic there, and was referred to obliquely as “[[Uncle Vyig]]” (“Uncle [[Vyig]] had his hands in my pockets”, etc). The song is about how crime takes a cut of everything. It a fun song about terrible things, and is also popular as a song to sing with [[Children|children]] in [[Varushka]].
 Words by Chris Edwards, tune by Daisy Abbott.
-Recording (rough): [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/Uncle-vyig.mp3 here]
-More verses coming soon. Strongly encouraged to make up your own verses, personalising any family feuds etc that are happening on the field.
-''(sung fairly slow and deep before each verse)''
+Recording (rough): [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/Uncle-[[Vyig|vyig]].mp3 here]
+More verses coming soon. Strongly encouraged to make up your own verses, personalising any [[Family|family]] feuds etc that are happening on the field.
+''([[Sung|sung]] fairly slow and deep before each verse)''
 When [[Uncle Vyig]] comes to dinner... 
 He takes a bite from every onion
 Puts his spoon right in your soup

@@ -1,21 +1,20 @@
 ---
-revision_id: 85929
-revision_date: 2022-01-24T16:46:17Z
-Tags:
-- Senate-Motion
-- 378YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '378YE-Winter']
 Title: Disburse funds for strategic rituals II
-aliases:
-- Disburse_funds_for_strategic_rituals_II
+aliases: ['Disburse_funds_for_strategic_rituals_II']
+draft: False
+revision_date: 2022-01-24 16:46:17+00:00
+revision_id: 85929
 ---
-Dispersement of funds to purchase resources to assist in strategic castings.''Proposed by Morrow, seconded by Sarvos''
+
+Dispersement of funds to purchase resources to assist in strategic castings.''Proposed by [[Morrow]], seconded by [[Sarvos]]''
 ## Overview
-* A request for funds with which to buy materials for rituals with military applications.
+* A request for funds with which to buy [[Materials|materials]] for [[Rituals|rituals]] with military applications.
 ## Date
-* Winter 378YE
-## Cost
+* [[Winter]] 378YE
+## [[Cost]]
 * Passed at 100 Thrones
 ## Progress
-* 100 Thrones disbursed to the Senator for Morrow
+* 100 Thrones disbursed to the [[Senator]] for [[Morrow]]
 __NOTOC__

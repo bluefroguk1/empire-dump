@@ -1,76 +1,76 @@
 ---
-revision_id: 107143
-revision_date: 2024-01-13T16:08:13Z
-Tags:
-- Gazetteer
-- The-Empire
-draft: false
+IgnoreLinking: False
+Tags: ['Gazetteer', 'The-Empire']
 Title: Gazetteer
+draft: False
+revision_date: 2024-01-13 16:08:13+00:00
+revision_id: 107143
 ---
+
 ## OOC Tactical Map
-## National Information and Maps
-### The Brass Coast
+## National Information and [[Maps]]
+### [[The Brass Coast]]
 * [[Feroz]]
 * [[Kahraman]]
 * [[Madruga]]
 * [[Segura]]
 See: [[Brass Coast Maps]]
-### Dawn
+### [[Dawn]]
 * [[Astolat]]
 * [[The Barrens]]
 * [[Semmerholm]]
 * [[Weirwater]]
 See: [[Dawn Maps]]
-### Highguard
+### [[Highguard]]
 * [[Bastion]]
 * [[Casinea]]
 * [[Necropolis]]
 * [[Reikos]]
 See: [[Highguard Maps]]
-### The Imperial Orcs
+### The [[Imperial Orcs]]
 * [[Skarsind]]
 See: [[Wintermark Maps]]
-### The League
+### [[The League]]
 * [[Holberg]]
-* [[Sarvos|Sarvos]]
+* [[Sarvos]]
 * [[Tassato]]
 * [[Temeschwar]]
 See: [[League Maps]]
-### The Marches
+### [[The Marches]]
 * [[Bregasland]]
 * [[Mitwold]]
 * [[Mournwold]]
 * [[Upwold]]
 See: [[Marches Maps]]
-### Navarr
+### [[Navarr]]
 * [[Brocéliande]]
 * [[Hercynia]]
 * [[Liathaven]]
 * [[Miaren]]
 * [[Therunin]]
 See: [[Navarr Maps]]
-### Urizen
+### [[Urizen]]
 * [[Morrow]]
 * [[Redoubt]]
 * [[Spiral]]
 * [[Zenith]]
 See: [[Urizen Maps]]
-### Varushka
+### [[Varushka]]
 * [[Karov]]
 * [[Karsk]]
 * [[Miekarova]]
 * [[Ossium]]
 * [[Volodmartz]]
 See: [[Varushka Maps]]
-### Wintermark
+### [[Wintermark]]
 * [[Hahnmark]]
 * [[Kallavesa]]
 * [[Sermersuaq]]
 See: [[Wintermark Maps]]
 Wondering how some of these places are usually pronounced? Try the [[Pronunciation guide]].
-## IC Maps
-A selection of IC tactical and decorative maps can be found at [[Maps]]
-[[File:EmpireDetailedMapThumb.jpg|480x335px|link=http://www.profounddecisions.co.uk/mediawiki-public/images/0/0d/EmpireDetailedMap.png]]
+## IC [[Maps]]
+A selection of IC tactical and decorative maps can be found at Maps
+480x335px|link=http://www.profounddecisions.co.uk/mediawiki-public/images/0/0d/EmpireDetailedMap.png
 ## Further Afield
 [[Bay of Catazar]]
 [[The seven seas]]

@@ -1,11 +1,11 @@
 ---
-revision_id: 79462
-revision_date: 2020-05-10T14:37:05Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: General Assembly
-aliases:
-- General_Assembly
+aliases: ['General_Assembly']
+draft: False
+revision_date: 2020-05-10 14:37:05+00:00
+revision_id: 79462
 ---
+
 #REDIRECT [[Assembly#General Assembly]]

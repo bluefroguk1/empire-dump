@@ -1,11 +1,11 @@
 ---
-revision_id: 100717
-revision_date: 2023-05-13T14:41:33Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Sovereign Specific
-aliases:
-- The_Sovereign_Specific
+aliases: ['The_Sovereign_Specific']
+draft: False
+revision_date: 2023-05-13 14:41:33+00:00
+revision_id: 100717
 ---
+
 #REDIRECT [[Master Medicinal#The Sovereign Specific]]

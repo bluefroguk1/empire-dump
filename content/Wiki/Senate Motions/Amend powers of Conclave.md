@@ -1,19 +1,17 @@
 ---
-revision_id: 86317
-revision_date: 2022-01-31T21:18:45Z
-Tags:
-- Senate-Motion
-- 381YE-Summer
-- Failed-Senate-Motion
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '381YE-Summer', 'Failed-Senate-Motion']
 Title: Amend powers of Conclave
-aliases:
-- Amend_powers_of_Conclave
+aliases: ['Amend_powers_of_Conclave']
+draft: False
+revision_date: 2022-01-31 21:18:45+00:00
+revision_id: 86317
 ---
+
 __NOTOC__
- To change the Law, so that: the Imperial Conclave can raise a “Declaration of Remorse,” striking a named ritual from the body of imperial lore, at a cost currently estimated at 25 thrones, to be provided by the person raising the Declaration. 
-Proposed by Madruga, Seconded by Upwold.
+ To change [[The Law|the Law]], so that: the [[Imperial Conclave]] can raise a “[[Declaration]] of Remorse,” striking a named [[Ritual|ritual]] from the body of [[Imperial lore|imperial lore]], at a [[Cost|cost]] currently estimated at 25 thrones, to be provided by the person raising the [[Declaration]]. 
+Proposed by [[Madruga]], Seconded by [[Upwold]].
 ### Overview
 * Failed
 ### Date
-* Summer 381YE
+* [[Summer]] 381YE

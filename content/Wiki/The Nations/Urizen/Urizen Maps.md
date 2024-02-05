@@ -1,17 +1,16 @@
 ---
-revision_id: 23586
-revision_date: 2014-04-04T13:33:14Z
-Tags:
-- Urizen
-- Maps
-draft: false
+IgnoreLinking: False
+Tags: ['Urizen', 'Maps']
 Title: Urizen Maps
-aliases:
-- Urizen_Maps
+aliases: ['Urizen_Maps']
+draft: False
+revision_date: 2014-04-04 13:33:14+00:00
+revision_id: 23586
 ---
-[[File:Nation-urizen.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-urizen.jpg]]
-[[File:Urizen-regions.png|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Urizen-regions.png]]
-[[File:Nation-urizen-texture.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-urizen-texture.jpg]]
+
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Urizen|urizen]].jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:[[Urizen]]-regions.png
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-urizen-texture.jpg
 ### See Also
 * [[Morrow]]
 * [[Redoubt]]

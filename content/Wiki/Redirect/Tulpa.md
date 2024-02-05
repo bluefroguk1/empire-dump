@@ -1,9 +1,10 @@
 ---
-revision_id: 43078
-revision_date: 2016-04-13T14:28:53Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Tulpa
+draft: False
+revision_date: 2016-04-13 14:28:53+00:00
+revision_id: 43078
 ---
+
 #REDIRECT [[Astronomancy#Tulpas]]

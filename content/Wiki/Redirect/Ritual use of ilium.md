@@ -1,11 +1,11 @@
 ---
-revision_id: 30885
-revision_date: 2015-01-18T22:11:52Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Ritual use of ilium
-aliases:
-- Ritual_use_of_ilium
+aliases: ['Ritual_use_of_ilium']
+draft: False
+revision_date: 2015-01-18 22:11:52+00:00
+revision_id: 30885
 ---
+
 #REDIRECT [[Ilium]]

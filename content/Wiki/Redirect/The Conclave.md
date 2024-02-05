@@ -1,11 +1,11 @@
 ---
-revision_id: 34673
-revision_date: 2015-03-18T20:47:03Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Conclave
-aliases:
-- The_Conclave
+aliases: ['The_Conclave']
+draft: False
+revision_date: 2015-03-18 20:47:03+00:00
+revision_id: 34673
 ---
+
 #REDIRECT [[Imperial Conclave]]

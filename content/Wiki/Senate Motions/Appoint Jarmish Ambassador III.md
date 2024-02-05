@@ -1,20 +1,19 @@
 ---
-revision_id: 86549
-revision_date: 2022-02-02T12:14:56Z
-Tags:
-- Senate-Motion
-- 380YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '380YE-Autumn']
 Title: Appoint Jarmish Ambassador III
-aliases:
-- Appoint_Jarmish_Ambassador_III
+aliases: ['Appoint_Jarmish_Ambassador_III']
+draft: False
+revision_date: 2022-02-02 12:14:56+00:00
+revision_id: 86549
 ---
+
 __NOTOC__
-To appoint an Ambassador to  the Principalities of Jarm
-Proposed by Sermersuaq, Seconded by Necropolis 
+To appoint an [[Ambassador]] to  the [[Principalities of Jarm]]
+Proposed by [[Sermersuaq]], Seconded by [[Necropolis]] 
 ### Overview
-* This motion appoints someone to be responsible for the [[Embassy|Jarmish Embassy]], and to represent the Empire in dealings with the Principalities of Jarm
+* This motion appoints someone to be responsible for the Jarmish [[Embassy]], and to represent [[The Empire|the Empire]] in dealings with the [[Principalities of Jarm]]
 ### Date
-* Autumn 380YE
-### Campaign Outcome
+* [[Autumn]] 380YE
+### [[Campaign outcome|Campaign Outcome]]
 * Oswi Twice-burned was reappointed as the [[Ambassador to Jarm]]

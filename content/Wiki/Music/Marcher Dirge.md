@@ -1,22 +1,20 @@
 ---
-revision_id: 74535
-revision_date: 2019-06-26T11:59:15Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: Marcher Dirge
-aliases:
-- Marcher_Dirge
+aliases: ['Marcher_Dirge']
+draft: False
+revision_date: 2019-06-26 11:59:15+00:00
+revision_id: 74535
 ---
-This song is often sung to accompany the body to its final resting place - particularly amongst the folk of King's Stoke, in Upwold.  It has since become well known throughout the Marches.
+
+This song is often [[Sung|sung]] to accompany the body to its final resting place - particularly amongst the folk of King's Stoke, in [[Upwold]].  It has since become well known throughout [[The Marches|the Marches]].
 Based on the Lyke Wake Dirge (a video is available [http://www.youtube.com/watch?v=g-nfC4x0p2w&feature=youtube_gdata_player here])
 Sheet [[Music|music]] available [http://www.northshield.co.uk/KitsTunes/The%20Marcher%20Dirge.pdf here]
-Each verse features a call and refrain. This dirge pre-dates the Marches conversion to the Imperial Faith, and some more traditional Priests of the Imperial faith consider it near to heretical. That said, the song is still often sung at funerals, particularly in some of the more remote parts of the Marches.
+Each verse features a call and refrain. This dirge pre-dates [[The Marches|the Marches]] conversion to the Imperial Faith, and some more traditional Priests of the Imperial faith consider it near to heretical. That said, the song is still often [[Sung|sung]] at funerals, particularly in some of the more remote parts of the [[Marches]].
 This aye nighte, this aye nighte,
 —Refrain: Every nighte and alle,
-Fire and fleet and candle-lighte,
+Fire and [[Fleet|fleet]] and candle-lighte,
 —Refrain: And Earth receive thy soul.
 When thou from hence away art past
 —Every nighte and alle,
@@ -40,9 +38,9 @@ The fire sall never make thee shrink;
 —And Earth receive thy soul.
 If meat or drink thou ne'er gav'st nane,
 —Every nighte and alle,
-The fire will burn thee to the bare bane;
+The fire [[Will|will]] burn thee to the bare bane;
 —And Earth receive thy soul
-This aye night, this aye night,
+This aye [[Night|night]], this aye night,
 —Every nighte and alle,
 Fire and sleet and candle-light,
 —And Earth receive thy soul

@@ -1,9 +1,10 @@
 ---
-revision_id: 43063
-revision_date: 2016-04-13T13:21:25Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Apothecary
+draft: False
+revision_date: 2016-04-13 13:21:25+00:00
+revision_id: 43063
 ---
+
 #REDIRECT [[Surgical skills#Apothecary]]

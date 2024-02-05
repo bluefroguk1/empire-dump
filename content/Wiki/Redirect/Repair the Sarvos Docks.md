@@ -1,11 +1,11 @@
 ---
-revision_id: 29585
-revision_date: 2014-10-09T10:40:45Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Repair the Sarvos Docks
-aliases:
-- Repair_the_Sarvos_Docks
+aliases: ['Repair_the_Sarvos_Docks']
+draft: False
+revision_date: 2014-10-09 10:40:45+00:00
+revision_id: 29585
 ---
+
 #REDIRECT [[Repair the docks at Caricomare]]

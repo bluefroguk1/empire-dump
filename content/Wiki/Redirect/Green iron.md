@@ -1,11 +1,11 @@
 ---
-revision_id: 87964
-revision_date: 2022-04-05T11:48:10Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Green iron
-aliases:
-- Green_iron
+aliases: ['Green_iron']
+draft: False
+revision_date: 2022-04-05 11:48:10+00:00
+revision_id: 87964
 ---
+
 #REDIRECT [[Materials#Green Iron]]

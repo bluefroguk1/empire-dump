@@ -1,18 +1,16 @@
 ---
-revision_id: 98453
-revision_date: 2023-03-25T08:19:18Z
-Tags:
-- Music
-- Navarr-Music
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Navarr-Music', 'Navarr']
 Title: On the Wall
-aliases:
-- On_the_Wall
+aliases: ['On_the_Wall']
+draft: False
+revision_date: 2023-03-25 08:19:18+00:00
+revision_id: 98453
 ---
+
 Original Song by Jamie Wakefield  (http://jamiewakefield.bandcamp.com/track/on-the-wall) 
 New lyrics by Jamie Wakefield
-Chords: Verse – Am G Dm G Dm Am; Chorus/Coda – Am C G
+[[Chords]]: Verse – Am G Dm G Dm Am; Chorus/Coda – Am C G
 Verse 1
 My dreams. Awake. A call
 A cry breaks over the wall 
@@ -26,7 +24,7 @@ Our hearts won’t be undone
 On the west wall
 We’re fighting free
 On the west wall
-Heroes we.
+[[Heroes]] we.
 Chorus
 One beat
 One heart 
@@ -47,7 +45,7 @@ We’ll show these beasts no fear
 On the west wall
 We’re fighting free
 On the west wall
-Heroes we.
+[[Heroes]] we.
 Chorus
 Reprise verse
 'Cause on the west wall

@@ -1,11 +1,11 @@
 ---
-revision_id: 100714
-revision_date: 2023-05-13T14:41:07Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Black Star
-aliases:
-- Black_Star
+aliases: ['Black_Star']
+draft: False
+revision_date: 2023-05-13 14:41:07+00:00
+revision_id: 100714
 ---
+
 #REDIRECT [[Magnum Opus#Black Star]]

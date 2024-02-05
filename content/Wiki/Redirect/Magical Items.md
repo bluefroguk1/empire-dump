@@ -1,11 +1,11 @@
 ---
-revision_id: 31626
-revision_date: 2015-01-21T21:53:55Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Magical items
-aliases:
-- Magical_items
+aliases: ['Magical_items']
+draft: False
+revision_date: 2015-01-21 21:53:55+00:00
+revision_id: 31626
 ---
+
 #REDIRECT [[Magic Items]]

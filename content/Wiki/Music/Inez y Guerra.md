@@ -1,28 +1,26 @@
 ---
-revision_id: 52049
-revision_date: 2017-04-29T02:17:48Z
-Tags:
-- Music
-- The-Brass-Coast
-- Brass-Coast-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'The-Brass-Coast', 'Brass-Coast-Music']
 Title: Inez y Guerra
-aliases:
-- Inez_y_Guerra
+aliases: ['Inez_y_Guerra']
+draft: False
+revision_date: 2017-04-29 02:17:48+00:00
+revision_id: 52049
 ---
+
 Words by Jude to the tune of [http://www.youtube.com/watch?v=SilpVU_5M1I Cuncti Simus Concanentes]. Call and response.
-[[File:cuncti-simus.JPG|200px|thumb|left]]
-[[File:Inez y Guerra.jpg|200px|thumb|left]]
+200px|thumb|left
+200px|thumb|left
 When I first laid eyes upon her
 [[Inez y Guerra]]
-Golden sun was shining on her
-[[Inez y Guerra]]
-She was brave and she was daring, Captain of a swift corsair
+[[Golden Sun|Golden sun]] was shining on her
+Inez y [[Guerra]]
+She was brave and she was daring, Captain of a swift [[Corsair|corsair]]
 Grace was in her every movement, fiery eyes and flowing hair
 With the crew she'd sweat and toil
 [[Inez y Guerra]]
 Every one was true and loyal 
-Inez y Guerra
+Inez y [[Guerra]]
 Every word she spoke was treasure, when she smiled it brought me joy
 Every soul aboard adored her, first mate down to cabin boy
 Though she scorned both shield and armour

@@ -1,11 +1,11 @@
 ---
-revision_id: 103637
-revision_date: 2023-07-23T14:08:05Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Administrative motion
-aliases:
-- Administrative_motion
+aliases: ['Administrative_motion']
+draft: False
+revision_date: 2023-07-23 14:08:05+00:00
+revision_id: 103637
 ---
+
 #REDIRECT [[Senate motion#Administrative Motions]]

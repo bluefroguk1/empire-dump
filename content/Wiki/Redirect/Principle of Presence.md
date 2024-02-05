@@ -1,11 +1,11 @@
 ---
-revision_id: 97428
-revision_date: 2023-02-11T20:37:17Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Principle of Presence
-aliases:
-- Principle_of_Presence
+aliases: ['Principle_of_Presence']
+draft: False
+revision_date: 2023-02-11 20:37:17+00:00
+revision_id: 97428
 ---
+
 #REDIRECT [[Imperial Conclave#Principle of Presence]]

@@ -1,11 +1,11 @@
 ---
-revision_id: 9429
-revision_date: 2012-08-30T15:32:38Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: League look and feel
-aliases:
-- League_look_and_feel
+aliases: ['League_look_and_feel']
+draft: False
+revision_date: 2012-08-30 15:32:38+00:00
+revision_id: 9429
 ---
+
 #REDIRECT [[The League look and feel]]

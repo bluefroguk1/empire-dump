@@ -1,27 +1,26 @@
 ---
-revision_id: 85951
-revision_date: 2022-01-24T16:52:48Z
-Tags:
-- Senate-Motion
-- 378YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '378YE-Winter']
 Title: Appoint Throne I
-aliases:
-- Appoint_Throne_I
+aliases: ['Appoint_Throne_I']
+draft: False
+revision_date: 2022-01-24 16:52:48+00:00
+revision_id: 85951
 ---
-That the Senate wishes to elect a citizen onto the Throne.''Proposed by Sermersuaq, Seconded by Hercynia.''
+
+That [[The Senate|the Senate]] wishes to elect a citizen onto [[The Throne|the Throne]].''Proposed by [[Sermersuaq]], Seconded by [[Hercynia]].''
 ### Overview
-* This motion is to choose a new [[The Throne|Throne]].
-* The motion passed in principle, but no candidate received sufficient votes to take the Throne.
+* This motion is to choose a new [[Throne]].
+* The motion passed in principle, but no candidate received sufficient votes to take [[The Throne|the Throne]].
 ### Date
-* Winter 378YE
+* [[Winter]] 378YE
 ### Nominees
 * The [[Navarr]] Syn Nighthaven
-* The [[Dawn|Dawnish]] [[Earl]] Beaumont de Rondell
+* The Dawnish [[Earl]] Beaumont de Rondell
 * The [[Wintermark]] Vanhe Korppi
-* The [[Imperial Orcs|Imperial orc]] Irontide Bruk
-* The [[Wintermark]] [[Wintermark Magical Traditions#Icewalkers|icewalker]] Atte Arrow-Tongue Metsastajason
-### Campaign Outcome
+* The Imperial orc Irontide Bruk
+* The [[Wintermark]] [[Icewalker|icewalker]] Atte Arrow-Tongue Metsastajason
+### [[Campaign outcome|Campaign Outcome]]
 * No single candidate received sufficient votes
 {| class="wikitable"
 |-

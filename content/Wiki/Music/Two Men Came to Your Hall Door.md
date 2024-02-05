@@ -1,15 +1,13 @@
 ---
-revision_id: 3002
-revision_date: 2012-07-24T10:17:48Z
-Tags:
-- Music
-- Wintermark
-- Wintermark-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Wintermark', 'Wintermark-Music']
 Title: Two Men Came to Your Hall Door
-aliases:
-- Two_Men_Came_to_Your_Hall_Door
+aliases: ['Two_Men_Came_to_Your_Hall_Door']
+draft: False
+revision_date: 2012-07-24 10:17:48+00:00
+revision_id: 3002
 ---
+
 The Sound of a Tear not Cried by Karine Polwart, available on [http://www.amazon.co.uk/dp/B004AUSKDK Three Ravens by Malinky]
 [[Two Men Came to Your Hall Door|Two men came to your hall door]]
 And you did not let them in
@@ -26,13 +24,13 @@ A-mutterin' and makin' their mane (moan)
 Still you scorned at the skaith (dismissed their complaint)
 You were aye sick-laith (really reluctant)
 To keep them fae the wind and rain
-As the night's grew long did you hear the throng
+As the [[Night|night]]'s grew long did you hear the throng
 Roar like a ralliach tide (stormy)
 Through the rising flood
 Did you hear your own blood
 Or the sound of a tear not cried
-They will wait no more at your hall door
+They [[Will|will]] wait no more at your hall door
 For their waiting days are done
 And there's no lock nor key
-That will hold back the sea
+That [[Will|will]] hold back the sea
 There's no chains on the rising sun

@@ -1,26 +1,24 @@
 ---
-revision_id: 32949
-revision_date: 2015-01-28T10:40:19Z
-Tags:
-- Music
-- Dawn-Music
-- Dawn
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Dawn-Music', 'Dawn']
 Title: Sir Colwyn
-aliases:
-- Sir_Colwyn
+aliases: ['Sir_Colwyn']
+draft: False
+revision_date: 2015-01-28 10:40:19+00:00
+revision_id: 32949
 ---
+
 Trad. Sir Eglamore, performed by Kate Rusby [https://www.youtube.com/watch?v=_HHLj8rKrZ8 here].
 OOC lyrics by Jude Reid
-This song is a clear adaptation of the traditional Dawnish song [[Sir Isobel]], which itself has been sung about many different knights over the years.
+This song is a clear adaptation of the traditional Dawnish song [[Sir Isobel]], which itself has been [[Sung|sung]] about many different knights over the years.
 [[Sir Colwyn]] he was a valiant knight
 ''Fa la lanky down dilly''
-He took up his sword and he went to fight
+He took up his sword and he went to [[Fight|fight]]
 ''Fa la lanky down dilly''
 As he strode through hill and dale
 All armoured in his cote of mail
 ''Fa la latten da latten da latten da lanky down dilly''
-There came an Eternal full of guile
+There came an [[Eternal]] full of guile
 ''Fa la lanky down dilly''
 His words were lies and his tongue dripped bile
 ''Fa la lanky down dilly''
@@ -32,9 +30,9 @@ Then up spoke Colwyn, brave and true
 'My kin, this fate I'll keep from you,'
 ''Fa la lanky down dilly''
 'I'll bear it bravely in your stead 
-Let this fell curse fall on my head!'
+Let this fell [[Curse|curse]] fall on my head!'
 ''Fa la latten da latten da latten da lanky down dilly''
-So on his head the curse was laid
+So on his head the [[Curse|curse]] was laid
 ''Fa la lanky down dilly''
 [[Sir Colwyn]] he was not dismayed 
 ''Fa la lanky down dilly''
@@ -59,6 +57,6 @@ A year passed ere his curse was done
 Fa la etc
 His pains were healed, his quests were won
 Fa la etc
-So through the Empire spread his fame
+So through [[The Empire|the Empire]] spread his fame
 That all shall know our hero's name
 Fa la etc

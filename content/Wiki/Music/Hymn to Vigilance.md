@@ -1,18 +1,16 @@
 ---
-revision_id: 54620
-revision_date: 2017-07-26T11:47:56Z
-Tags:
-- Music
-- Highguard
-- Highguard-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Highguard', 'Highguard-Music']
 Title: Hymn to Vigilance
-aliases:
-- Hymn_to_Vigilance
+aliases: ['Hymn_to_Vigilance']
+draft: False
+revision_date: 2017-07-26 11:47:56+00:00
+revision_id: 54620
 ---
+
 Original tune Akk Fader. Very quiet recording of original [https://www.youtube.com/watch?v=LUlBT_VWSeI&list=PL9STuhamGVYyzHKJQcl16ka8GlF8glg77&index=1 here].
 I arm myself with sword and shield
-To take the battlefield
+To take [[The Battlefield|the battlefield]]
 And daily armed with faith I go
 To face a subtler foe
 An empire pure and whole 
@@ -29,7 +27,7 @@ And raised on high to rule
 ''Defending faith and land.''
 These words shall ever be our charge
 Upon our souls writ large
-The Empire is our destiny
+[[The Empire]] is our destiny
 Its guards and lords are we
 For should we ever fail
 The darkness shall prevail

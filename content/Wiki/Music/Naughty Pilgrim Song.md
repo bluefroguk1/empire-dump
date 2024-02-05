@@ -1,16 +1,14 @@
 ---
-revision_id: 12745
-revision_date: 2012-11-28T15:29:42Z
-Tags:
-- Music
-- Highguard
-- Highguard-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Highguard', 'Highguard-Music']
 Title: Naughty Pilgrim Song
-aliases:
-- Naughty_Pilgrim_Song
+aliases: ['Naughty_Pilgrim_Song']
+draft: False
+revision_date: 2012-11-28 15:29:42+00:00
+revision_id: 12745
 ---
-By the Empire [[Music|music]] team
+
+By [[The Empire|the Empire]] [[Music|music]] team
 ----------
 For many nights I tossed and turned
 And paced the chilly floor
@@ -24,17 +22,17 @@ Than endless ma...
 My eye fell on a Dawnish knight
 Who looked so big and strong
 He sang me songs of courtly love
-At my window all night long
+At my window all [[Night|night]] long
 He took me in the gardens fair
 He rode me to the hunt
 But his sword, alas, was much to small
 To fill my empty...
 ...scabbard
-To the wintermark I went
+To the [[Wintermark|wintermark]] I went
 To find a man so warm
 He gave me furs and skins to feel
-And stroked me till the dawn
-Sagas he did tell to me, oh, how the glory lingers
+And stroked me till the [[Dawn|dawn]]
+Sagas he did tell to me, oh, how the [[Glory|glory]] lingers
 But his tongue was frozen hard
 Too cold for...
 ...telling riddles
@@ -49,16 +47,16 @@ Could not get an...
 ...arrangement
 A Brass Coast bed, so it's been said
 Is full of fire and passion
-So a freeborn man became my plan
+So a [[Freeborn|freeborn]] man became my plan
 To get my sausage ration
 I searched the nation up and down
 To the city of Siroc
 But every single man I found
 Had such a tiny...
 ...purse
-I went one day across the bay
+I went one [[Day|day]] across the bay
 To find a merchant wealthy
-I tracked one down in Holberg town
+I tracked one down in [[Holberg]] town
 Whose purse was full and healthy
 In wine and song we dallied long
 In games of chance and luck
@@ -71,10 +69,10 @@ He kissed me in the mountains high
 And also down below
 In his strong arms I plied my charms
 While hail and sleet fell thick
-But no magic spell that I could tell
+But no [[Magic|magic]] spell that I could tell
 Could raise his flaccid...
-...banner
-I found among the Navarr tribes,
+...[[Banner|banner]]
+I found among the [[Navarr]] tribes,
 A man with [[Painted|painted]] skin
 So proud and bold, his hair like gold
 I thought my luck was in
@@ -103,7 +101,7 @@ So I was back to...
 ...embroidery
 With a heart like stone I wandered home
 And found my Chaptermaster
-I told him how my pilgrimage 
+I told him how my [[Pilgrimage|pilgrimage]] 
 Had ended in disaster
 His eyes grew bright - we cuddled tight
 Until our strength was flagging

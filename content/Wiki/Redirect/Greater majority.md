@@ -1,11 +1,11 @@
 ---
-revision_id: 73023
-revision_date: 2019-05-27T10:41:48Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Greater majority
-aliases:
-- Greater_majority
+aliases: ['Greater_majority']
+draft: False
+revision_date: 2019-05-27 10:41:48+00:00
+revision_id: 73023
 ---
+
 #REDIRECT[[Judgement#Greater Majority]]

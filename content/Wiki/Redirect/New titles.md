@@ -1,11 +1,11 @@
 ---
-revision_id: 22330
-revision_date: 2014-02-14T21:30:33Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: New titles
-aliases:
-- New_titles
+aliases: ['New_titles']
+draft: False
+revision_date: 2014-02-14 21:30:33+00:00
+revision_id: 22330
 ---
+
 #REDIRECT [[New Imperial titles]]

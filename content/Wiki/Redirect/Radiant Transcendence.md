@@ -1,11 +1,11 @@
 ---
-revision_id: 100707
-revision_date: 2023-05-13T14:34:33Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Radiant Transcendence
-aliases:
-- Radiant_Transcendence
+aliases: ['Radiant_Transcendence']
+draft: False
+revision_date: 2023-05-13 14:34:33+00:00
+revision_id: 100707
 ---
+
 #REDIRECT [[Lambent Essences#Radiant Transcendence]]

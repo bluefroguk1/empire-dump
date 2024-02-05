@@ -1,11 +1,11 @@
 ---
-revision_id: 30303
-revision_date: 2015-01-14T22:55:06Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Market Towns
-aliases:
-- Market_Towns
+aliases: ['Market_Towns']
+draft: False
+revision_date: 2015-01-14 22:55:06+00:00
+revision_id: 30303
 ---
+
 #REDIRECT [[Market t[[Market Town]]

@@ -1,21 +1,20 @@
 ---
-revision_id: 86057
-revision_date: 2022-01-28T13:00:15Z
-Tags:
-- Senate-Motion
-- 381YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '381YE-Winter']
 Title: Appoint general of the Strong Reeds
-aliases:
-- Appoint_general_of_the_Strong_Reeds
+aliases: ['Appoint_general_of_the_Strong_Reeds']
+draft: False
+revision_date: 2022-01-28 13:00:15+00:00
+revision_id: 86057
 ---
+
 __NOTOC__
-The election by Senate of the General of the Strong Reeds army of the Marches.Proposed by Mitwold, seconded by Mournwold. 
+The election by [[Senate]] of the [[General]] of the [[Strong Reeds]] army of [[The Marches|the Marches]].Proposed by [[Mitwold]], seconded by [[Mournwold]]. 
 ### Overview
-* This motion appoints the [[General]] of the [[The Marches military concerns#The Strong Reeds|Strong Reeds]]
+* This motion appoints the [[General]] of the [[Strong Reeds]]
 * Passed
 ### Date
-* Winter 381YE
-### Campaign Outcome
+* [[Winter]] 381YE
+### [[Campaign outcome|Campaign Outcome]]
 * The election was held Saturday 4pm
 * Jack Flint was appointed

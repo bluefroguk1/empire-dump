@@ -1,11 +1,11 @@
 ---
-revision_id: 44754
-revision_date: 2016-06-03T20:31:32Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Abrograte Civil service observation
-aliases:
-- Abrograte_Civil_service_observation
+aliases: ['Abrograte_Civil_service_observation']
+draft: False
+revision_date: 2016-06-03 20:31:32+00:00
+revision_id: 44754
 ---
+
 #REDIRECT [[Abrogate Civil service observation]]

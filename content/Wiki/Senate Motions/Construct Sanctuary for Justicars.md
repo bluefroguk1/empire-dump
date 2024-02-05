@@ -1,24 +1,23 @@
 ---
-revision_id: 94598
-revision_date: 2022-08-19T13:04:18Z
-Tags:
-- Senate-Motion
-- 384YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '384YE-Spring']
 Title: Construct Sanctuary for Justicars
-aliases:
-- Construct_Sanctuary_for_Justicars
+aliases: ['Construct_Sanctuary_for_Justicars']
+draft: False
+revision_date: 2022-08-19 13:04:18+00:00
+revision_id: 94598
 ---
+
 stub
 __NOTOC__
-To build a sanctuary for justicars on the isle of Osseini. This will create the title "Justicar of Osseini" and be ministry for exorcism, cost 15 wains of white granite and 30 crowns. 30 crowns to be provided by High Exorcist.
+To build a [[Sanctuary|sanctuary]] for justicars on the isle of Osseini. This [[Will|will]] create the title "[[Justicar of Osseini]]" and be [[Ministry|ministry]] for [[Exorcism|exorcism]], [[Cost|cost]] 15 wains of [[White granite|white granite]] and 30 crowns. 30 crowns to be provided by [[High Exorcist]].
 ## Overview
-* Creates a sanctuary for the [[Bones in the ocean#Game Information : Justicars|justicars]] on the [[Feroz#Isle of the Osseini|Isle of the Osseini]] in [[Feroz]]. 
-* Details of this opportunity are provided in the [[Bones in the ocean#The Sanctuary of the Justicars|Bones in the ocean]] wind of fortune. 
+* Creates a sanctuary for the justicars on the Isle of the Osseini in [[Feroz]]. 
+* Details of this [[Opportunity|opportunity]] are provided in the [[Bones in the ocean]] wind of fortune. 
 * Passed at 70 Thrones
 ## Date
-* Spring 384YE
-## Cost
+* [[Spring]] 384YE
+## [[Cost]]
 * As detailed in the wind of fortune
 * 15 wains of [[White granite]]
 * 30 crowns in labour costs
@@ -26,4 +25,4 @@ To build a sanctuary for justicars on the isle of Osseini. This will create the 
 ## Progress
 CommissionProgress|Sanctuary_of_the_Justicars
 ## Outcome
-* Once complete the sanctuary would allow the [[Imperial Title|title]] [[Justicar of Osseini]] to be appointed.
+* Once complete the sanctuary would allow the title [[Justicar of Osseini]] to be appointed.

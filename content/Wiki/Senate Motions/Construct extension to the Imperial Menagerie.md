@@ -1,27 +1,26 @@
 ---
-revision_id: 85683
-revision_date: 2022-01-22T16:58:54Z
-Tags:
-- Senate-Motion
-- 382YE-Summer
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Summer']
 Title: Construct extension to the Imperial Menagerie
-aliases:
-- Construct_extension_to_the_Imperial_Menagerie
+aliases: ['Construct_extension_to_the_Imperial_Menagerie']
+draft: False
+revision_date: 2022-01-22 16:58:54+00:00
+revision_id: 85683
 ---
+
 __NOTOC__
-To expand the Imperial menagerie at the behest of the Young Heroes of the Empire, to have enclosures for more exotic creatures. ''Proposed by Volodmartz, seconded by Karov.''
+To expand the Imperial menagerie at the behest of the Young [[Heroes]] of [[The Empire|the Empire]], to have enclosures for more exotic creatures. ''Proposed by [[Volodmartz]], seconded by [[Karov]].''
 ## Overview
-* Increases the size of the [[Keeper of the Imperial Menagerie#Imperial Menagerie|Imperial Menagerie]] as part of an [[Opportunity]] presented [[Fly high#Opportunity : Imperial Menagerie|during the Spring Equinox]].
+* Increases the size of the Imperial Menagerie as part of an [[Opportunity]] presented during the [[Spring]] Equinox.
 * Passed
 ## Date
-Summer 382YE
-## Cost
-* This commission is part of an [[Fly high#Opportunity : Imperial Menagerie|opportunity]].
-* 20 wains of weirwood
+[[Summer]] 382YE
+## [[Cost]]
+* This [[Commission|commission]] is part of an [[Opportunity|opportunity]].
+* 20 wains of [[Weirwood|weirwood]]
 * 5 Thrones
 ## Progress
-* 20 wains of weirwood and 5 Thrones provided by Kay Griffinsbain after the Summer Solstice 382YE.
+* 20 wains of [[Weirwood|weirwood]] and 5 Thrones provided by Kay Griffinsbain after the Summer Solstice 382YE.
 ## Campaign
 * The [[Keeper of the Imperial Menagerie]] receives an additional income of 16 crowns each season.
-* Opportunities to expand the collection of the menagerie are now available.
+* [[Opportunities]] to expand the collection of the menagerie are now available.

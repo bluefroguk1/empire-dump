@@ -1,22 +1,21 @@
 ---
-revision_id: 78884
-revision_date: 2020-02-19T17:04:00Z
-Tags:
-- Music
-- Wintermark-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Wintermark-Music']
 Title: Wintermark music
-aliases:
-- Wintermark_music
+aliases: ['Wintermark_music']
+draft: False
+revision_date: 2020-02-19 17:04:00+00:00
+revision_id: 78884
 ---
-## The [[Music]] of Wintermark
+
+## The [[Music]] of [[Wintermark]]
 ### Style summary
-Alliterative poetry and heroic saga songs spoken or chanted, scraping fiddles, breathy pipes, and low drones. Themes of winter, seasons, mythical creatures, tales of hardship, dark wit, and of course riddles! 
-For inspiration for Wintermark look to the [[Music|music]] of the old Americas, Scandinavia and Iceland, along with certain British folk with a minor or modal sound.
+Alliterative poetry and heroic saga songs spoken or chanted, scraping fiddles, breathy pipes, and low drones. Themes of [[Winter|winter]], seasons, mythical creatures, tales of hardship, dark wit, and of course riddles! 
+For inspiration for [[Wintermark]] look to the [[Music|music]] of the old Americas, Scandinavia and Iceland, along with certain British folk with a minor or modal sound.
 ### Commonly known songs
-* [[Cattle Calls|Oy lay la loyla]] - one of several calls used when herding animals or bringing home a hunt
+* Oy lay la loyla - one of several [[Calls|calls]] used when herding animals or bringing home a hunt
 ### A musical tradition
-From [[Wintermark Military Concerns#Banner-bearers]]: Steinr Banner-bearers often carry instruments of war, drums, horns and the like to perform [[Music|music]] on the battlefield to lift spirits. Kallavesi Banner-bearers prefer to anoint their fellows with scented oils and use ancient tales to remind all of the heroes of the past. Some Suaq Banner-bearers prefer to lead their warriors in song while others learn the chirurgeons art. Most Banner-bearers are skilled warriors, but whatever their art, their purpose is to rouse the courage and fighting spirit of the band, supporting them on the battlefield.
+From [[Wintermark Military Concerns]]#[[Banner]]-bearers: [[Steinr]] Banner-bearers often carry instruments of [[War|war]], drums, horns and the like to perform music on [[The Battlefield|the battlefield]] to lift spirits. [[Kallavesi]] Banner-bearers prefer to anoint their fellows with scented oils and use ancient tales to remind all of the [[Heroes|heroes]] of the past. Some [[Suaq]] Banner-bearers prefer to lead their warriors in song while others learn the chirurgeons art. Most Banner-bearers are skilled warriors, but whatever their art, their purpose is to rouse the [[Courage|courage]] and fighting spirit of the band, supporting them on [[The Battlefield|the battlefield]].
 ### One for the kids
 [[Ho Ho Away We Go]], very easy song with optional harmonies.
 ### Funeral Songs
@@ -29,9 +28,9 @@ From [[Wintermark Military Concerns#Banner-bearers]]: Steinr Banner-bearers ofte
 * [[I Wish My Baby Was Born]]
 * [[Low Down in the Broom]]
 * [[My Ain True Love]]
-*[[The Scop's Gift]]
+*The [[Scop]]'s Gift
 *[[Lament for Skarsind]]
-*[[Falcon Wings]] - A song commissioned by the former senator for Skarsind, upon the bequeathing of that territory to the Imperial Orcs, combining Winterfolk and Imperial Orc musical traditions.
+*[[Falcon Wings]] - A song commissioned by the former [[Senator|senator]] for [[Skarsind]], upon the bequeathing of that [[Territory|territory]] to the [[Imperial Orcs]], combining Winterfolk and Imperial Orc musical traditions.
 ### Instrumentation and tunes
 * [[Kalenda Maya]] - medieval fiddle tune that sounds great with drones
 * Orcadian/Shetland tunes have the right sort of sound for Wintermark, as does the Swedish fiddle. 

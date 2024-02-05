@@ -1,15 +1,13 @@
 ---
-revision_id: 11992
-revision_date: 2012-10-03T10:44:33Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: Pretty Ploughboy
-aliases:
-- Pretty_Ploughboy
+aliases: ['Pretty_Ploughboy']
+draft: False
+revision_date: 2012-10-03 10:44:33+00:00
+revision_id: 11992
 ---
+
 Trad. [http://www.youtube.com/watch?v=osgmapmqD1o Eliza Carthy's version on youtube]
 It's of a brisk young ploughboy, he was ploughing on the plain,
 And his horses stood down in yonder shade.
@@ -22,7 +20,7 @@ They sent for the press gang and sent her love away,
 And they sent him to the wars to be slain, to be slain,
 And they sent him to the wars to be slain.
 So she sailed till she came to the very ship she thought her love lay in
-And unto the Captain she did complain.
+And unto [[The Captain|the Captain]] she did complain.
 She says, “I'm come in search for my pretty ploughing boy,
 Who was sent unto the wars to be slain, to be slain,
 Who was sent unto the wars to be slain.”

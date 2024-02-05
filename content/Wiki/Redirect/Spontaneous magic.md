@@ -1,11 +1,11 @@
 ---
-revision_id: 59655
-revision_date: 2018-02-01T18:46:18Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Spontaneous magic
-aliases:
-- Spontaneous_magic
+aliases: ['Spontaneous_magic']
+draft: False
+revision_date: 2018-02-01 18:46:18+00:00
+revision_id: 59655
 ---
+
 #REDIRECT [[Arcane projection]]

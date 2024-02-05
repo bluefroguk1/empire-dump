@@ -1,23 +1,21 @@
 ---
-revision_id: 85310
-revision_date: 2022-01-19T12:26:52Z
-Tags:
-- Urizen
-- Urizen-Music
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Urizen', 'Urizen-Music', 'Music']
 Title: Rules of Engagement
-aliases:
-- Rules_of_Engagement
+aliases: ['Rules_of_Engagement']
+draft: False
+revision_date: 2022-01-19 12:26:52+00:00
+revision_id: 85310
 ---
+
 Words by Claire Sheridan. Tune by Aneurin Redman-White and Claire Sheridan.
-Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/images/3/31/Rules_Of_Engagement.pdf PDF] here
+Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/images/3/31/[[Rules of Engagement|Rules_Of_Engagement]].pdf PDF] here
 Written in 378YE.
 [[Rules of Engagement]]
-''By Nicassia of Phoenix Reach and Eudaemon of Halcyon Spire''
+''By Nicassia of Phoenix Reach and Eudaemon of Halcyon [[Spire]]''
 Once there lived a Dawnish man,
 So gallant and so bold,
-His great Ambition was to find
+His great [[Ambition]] was to find
 A love to have and hold.
 But his path it was not easy,
 In truth ‘twas filled with woe,
@@ -28,13 +26,13 @@ Delicate as a rose,
 Her hair was as the raven dark,
 Her skin like fallen snow,
 But paler she was, and paler she grew,
-As the summer months went on,
-By autumn he had won her heart,
-But by winter she was [[Gone|gone]].
+As the [[Summer|summer]] months went on,
+By [[Autumn|autumn]] he had won her heart,
+But by [[Winter|winter]] she was [[Gone|gone]].
 Into another’s arms he fell,
 Being quite forlorn,
 He bought he circlets like evening stars,
-Dresses which shimmered like the dawn.
+Dresses which shimmered like the [[Dawn|dawn]].
 She took his gifts and more besides,
 But when her asked her to wed,
 She took herself away and back
@@ -47,13 +45,13 @@ But he lay gravely wounded,
 She feared that he was dead,
 When he came home his wounds were healed
 But another she had wed.
-Next for a Changeling bright he fell,
+Next for a [[Changeling]] bright he fell,
 With hair gold as the sun,
 He was sure in Summer’s beating heart,
 He had found the one.
 He traced the spirals on her skin,
 Thought she would be his wife,
-‘Til she answered Cathan Canae’s call
+‘Til she answered [[Cathan Canae]]’s call
 And left for a Herald’s life.
 A yeoman next did catch his eye,
 A scandal it did cause,
@@ -62,16 +60,16 @@ A woman without flaws.
 She visited them often,
 He thought she’d be his spouse,
 But her true intent became too clear
-The day she joined his house.
-A Cambion, both proud and tall
+The [[Day|day]] she joined his house.
+A [[Cambion]], both proud and tall
 Put him to the test,
 To fetch her a Chimera’s scale,
 To prove he loved her best.
 But Chimera’s scales are found on beasts
 No single man can slay,
-Wisdom calmed his mighty ardour -
+[[Wisdom]] calmed his mighty ardour -
 He would not find love that way.
-One night, drowning in his cups,
+One [[Night|night]], drowning in his cups,
 The lord told all his tale,
 Of loves long lost he’d once thought won,
 Of his fate to ever fail,

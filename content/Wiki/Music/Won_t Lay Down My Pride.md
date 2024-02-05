@@ -1,23 +1,21 @@
 ---
-revision_id: 45683
-revision_date: 2016-07-16T10:10:44Z
-Tags:
-- Urizen
-- Urizen-Music
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Urizen', 'Urizen-Music', 'Music']
 Title: Won_t Lay Down My Pride
-aliases:
-- Won't_Lay_Down_My_Pride
+aliases: ["Won't_Lay_Down_My_Pride"]
+draft: False
+revision_date: 2016-07-16 10:10:44+00:00
+revision_id: 45683
 ---
+
 Words by Claire Sheridan. Tune by [https://www.youtube.com/watch?v=u3eymY52PmM Emily Portman]
-[https://soundcloud.com/herecosyouare-1/wont-lay-down-my-pride Recording]
+[https://soundcloud.com/herecosyouare-1/wont-lay-down-my-[[Pride|pride]] Recording]
 Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/images/e/e1/Wont_Lay_Down_My_Pride.pdf PDF]
-Won't Lay Down My Pride
+Won't Lay Down My [[Pride]]
 ''By Nicassia of Phoenix Reach''
-A Sentinel went out the gate,
+A [[Sentinel]] went out the [[Gate|gate]],
 Pride, soldier, Pride,
-To battle Thule tribes was her fate,
+To battle [[Thule]] tribes was her fate,
 I won't lay down my Pride.
 They met them on a windswept field,
 Pride, soldier, Pride,
@@ -27,7 +25,7 @@ Their victory won, they turned for home,
 Pride, soldier, Pride,
 But they would not be left alone,
 I won't lay down my Pride.
-They met another band of Thule,
+They met another band of [[Thule]],
 Pride, soldier, Pride,
 Another warband, just as cruel,
 I won't lay down my Pride.
@@ -41,23 +39,23 @@ The Orcs struck through the armies’ spine:
 I won't lay down my Pride.
 The captives then were marched away,
 Pride, soldier, Pride,
-And reached the camp by the break of day,
+And reached the camp by the break of [[Day|day]],
 I won't lay down my Pride.
 The orcs they kept them all awake,
 Pride, soldier, Pride,
 Sure that they would make them break,
 I won't lay down my Pride.
-Said they, "O soldier of Urizen high,"
+Said they, "O soldier of [[Urizen]] high,"
 Pride, soldier, Pride,
-"Kneel to us or else you will die,"
+"Kneel to us or else you [[Will|will]] die,"
 I won't lay down my Pride.
-They said, "Look at you, dressed up to fight," 
+They said, "Look at you, dressed up to [[Fight|fight]]," 
 Pride, soldier, Pride,
-"A soft thing like you won't last the night,"
+"A soft thing like you won't last the [[Night|night]],"
 I won't lay down my Pride.
 But there she stayed and there she stood,
 Pride, soldier, Pride,
-Said, "All your taunts will do you no good,"
+Said, "All your taunts [[Will|will]] do you no good,"
 I won't lay down my Pride.
 For three long days they went unfed,
 Pride, soldier, Pride,
@@ -69,7 +67,7 @@ And some they joined the other side,
 I won't lay down my Pride.
 And so the offer came again,
 Pride, soldier, Pride,
-"Serve now, or not see dawn again,"
+"Serve now, or not see [[Dawn|dawn]] again,"
 I won't lay down my Pride.
 So she breathed, and with a mighty roar,
 Pride, soldier, Pride,

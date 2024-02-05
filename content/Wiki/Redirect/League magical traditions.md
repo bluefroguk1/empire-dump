@@ -1,11 +1,11 @@
 ---
-revision_id: 9443
-revision_date: 2012-08-30T15:33:58Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: League magical traditions
-aliases:
-- League_magical_traditions
+aliases: ['League_magical_traditions']
+draft: False
+revision_date: 2012-08-30 15:33:58+00:00
+revision_id: 9443
 ---
+
 #REDIRECT [[The League magical traditions]]

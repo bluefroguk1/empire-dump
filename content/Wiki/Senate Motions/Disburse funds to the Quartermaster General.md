@@ -1,22 +1,21 @@
 ---
-revision_id: 85874
-revision_date: 2022-01-23T15:29:41Z
-Tags:
-- Senate-Motion
-- 378YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '378YE-Spring']
 Title: Disburse funds to the Quartermaster General
-aliases:
-- Disburse_funds_to_the_Quartermaster_General
+aliases: ['Disburse_funds_to_the_Quartermaster_General']
+draft: False
+revision_date: 2022-01-23 15:29:41+00:00
+revision_id: 85874
 ---
-Disbursal of funds with the intent of use to be given to the Quartermaster General for resupplying of up to eight armies. (Requested, 225 thrones).Proposed by Tassato, seconded by Astolat.
+
+Disbursal of funds with the intent of use to be given to the Quartermaster [[General]] for resupplying of up to eight armies. (Requested, 225 thrones).Proposed by [[Tassato]], seconded by [[Astolat]].
 ### Overview
 * A request for funds for the [[Quartermaster General of the Imperial Armies]]
 * Passed at 175 Thrones
 ### Date
-* Spring 378YE
+* [[Spring]] 378YE
 ### Progress
-* Funds disbursed to Senator Tassato.
+* Funds disbursed to [[Senator]] [[Tassato]].
 ### Voting
 {| class="wikitable"
 |-

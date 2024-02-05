@@ -1,15 +1,13 @@
 ---
-revision_id: 2992
-revision_date: 2012-07-24T10:09:55Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: Ye Mariners All
-aliases:
-- Ye_Mariners_All
+aliases: ['Ye_Mariners_All']
+draft: False
+revision_date: 2012-07-24 10:09:55+00:00
+revision_id: 2992
 ---
+
 http://m.youtube.com/watch?v=rOwoltyeliM
 [[Ye Mariners All|Ye mariners all]], as ye pass by
 Come in and drink if you are dry

@@ -1,19 +1,17 @@
 ---
-revision_id: 20144
-revision_date: 2013-04-19T14:15:25Z
-Tags:
-- Music
-- Navarr-Music
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Navarr-Music', 'Navarr']
 Title: It Is Not Yet Day
-aliases:
-- It_Is_Not_Yet_Day
+aliases: ['It_Is_Not_Yet_Day']
+draft: False
+revision_date: 2013-04-19 14:15:25+00:00
+revision_id: 20144
 ---
+
 Adapted from Níl Sé'n Lá (trad) - http://www.youtube.com/watch?v=EcdG8LS2WHc
-Chords: Verse & Chorus - D5 Am G; Bridge - Dm F, Dm F G.
+[[Chords]]: Verse & Chorus - D5 Am G; Bridge - Dm F, Dm F G.
 Verse 1
-I came by a house last night
+I came by a house last [[Night|night]]
 told the woman I am staying
 said to her:"The moon is bright,
 and my fiddles tuned for playing"
@@ -21,10 +19,10 @@ Chorus
 Tell me that the night is long
 Tell me that the moon is glowing
 Fill my glass I'll sing a song
-And will start the [[Music|music]] flowing
+And [[Will|will]] start the [[Music|music]] flowing
 Verse 2
 Never mind the rising light
-There's no sign of day or dawning
+There's no sign of [[Day|day]] or dawning
 In my heart it's still the night
 And we'll stay here till the morning
 Chorus
@@ -48,8 +46,8 @@ Verse 5
 Tell me that the night is long
 Tell me that the moon is gleaming
 Fill my glass, I’ll sing a song 
-And we'll keep the [[Music|music]] streaming [Hold G]
-Until all the songs are sung
+And we'll keep the music [[Streaming|streaming]] [Hold G]
+Until all the songs are [[Sung|sung]]
 Chorus
 Coda
 Tell me that the night is long

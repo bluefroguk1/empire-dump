@@ -1,9 +1,10 @@
 ---
-revision_id: 97486
-revision_date: 2023-02-12T23:32:48Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Magistrates
+draft: False
+revision_date: 2023-02-12 23:32:48+00:00
+revision_id: 97486
 ---
+
 #REDIRECT [[Officers of the Law#Magistrates]]

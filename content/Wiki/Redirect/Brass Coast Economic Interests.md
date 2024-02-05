@@ -1,11 +1,11 @@
 ---
-revision_id: 43021
-revision_date: 2016-04-12T20:17:50Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Brass Coast Economic Interests
-aliases:
-- Brass_Coast_Economic_Interests
+aliases: ['Brass_Coast_Economic_Interests']
+draft: False
+revision_date: 2016-04-12 20:17:50+00:00
+revision_id: 43021
 ---
+
 #REDIRECT [[The Brass Coast economic interests]]

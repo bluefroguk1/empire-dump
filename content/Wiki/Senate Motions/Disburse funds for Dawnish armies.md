@@ -1,20 +1,19 @@
 ---
-revision_id: 85572
-revision_date: 2022-01-21T21:48:09Z
-Tags:
-- Senate-Motion
-- 382YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Winter']
 Title: Disburse funds for Dawnish armies
-aliases:
-- Disburse_funds_for_Dawnish_armies
+aliases: ['Disburse_funds_for_Dawnish_armies']
+draft: False
+revision_date: 2022-01-21 21:48:09+00:00
+revision_id: 85572
 ---
+
 __NOTOC__
-To disburse funds for the purposes of upgrading the Armies of Dawn with the exception of the Eastern Sky in line with their time sensitive opportunities.''Proposed by Astolat, seconded by Feroz''
+To disburse funds for the purposes of upgrading the Armies of [[Dawn]] with the exception of the [[Eastern Sky]] in line with their time sensitive [[Opportunities|opportunities]].''Proposed by [[Astolat]], seconded by [[Feroz]]''
 ## Overview
-* To provide money for changing the armies of Dawn in line with [[Swords and sorcery|recent opportunities]].
+* To provide money for changing the armies of [[Dawn]] in line with recent opportunities.
 * Passed at 75 Thrones
 ## Date
-* Winter 382YE
+* [[Winter]] 382YE
 ## Progress
-* 75 Thrones disbursed to Senator for Astolat.
+* 75 Thrones disbursed to [[Senator]] for [[Astolat]].

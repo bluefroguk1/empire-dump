@@ -1,15 +1,13 @@
 ---
-revision_id: 12300
-revision_date: 2012-10-24T13:55:40Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: The Unquiet Grave
-aliases:
-- The_Unquiet_Grave
+aliases: ['The_Unquiet_Grave']
+draft: False
+revision_date: 2012-10-24 13:55:40+00:00
+revision_id: 12300
 ---
+
 [[The Unquiet Grave]] - adapted for Empire, based on the traditional song as performed by Kate Rusby.
 http://www.youtube.com/watch?v=wQgiebndmbc&feature=youtube_gdata_player
 How pleasant is the wind tonight

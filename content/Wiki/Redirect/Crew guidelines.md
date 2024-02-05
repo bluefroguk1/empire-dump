@@ -1,11 +1,11 @@
 ---
-revision_id: 37630
-revision_date: 2015-08-14T01:28:38Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Crew guidelines
-aliases:
-- Crew_guidelines
+aliases: ['Crew_guidelines']
+draft: False
+revision_date: 2015-08-14 01:28:38+00:00
+revision_id: 37630
 ---
+
 #REDIRECT [[Crewing]]

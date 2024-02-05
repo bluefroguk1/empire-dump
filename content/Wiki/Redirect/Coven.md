@@ -1,9 +1,10 @@
 ---
-revision_id: 31007
-revision_date: 2015-01-19T23:08:17Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Coven
+draft: False
+revision_date: 2015-01-19 23:08:17+00:00
+revision_id: 31007
 ---
+
 #REDIRECT [[Bands#Covens]]

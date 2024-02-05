@@ -1,11 +1,11 @@
 ---
-revision_id: 56452
-revision_date: 2017-09-28T11:24:13Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Mage Armour
-aliases:
-- Mage_Armour
+aliases: ['Mage_Armour']
+draft: False
+revision_date: 2017-09-28 11:24:13+00:00
+revision_id: 56452
 ---
+
 #REDIRECT [[Weapons %26 armour#Mage Armour]]

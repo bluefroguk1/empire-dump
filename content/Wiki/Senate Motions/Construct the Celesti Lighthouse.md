@@ -1,21 +1,20 @@
 ---
-revision_id: 86577
-revision_date: 2022-02-02T12:20:45Z
-Tags:
-- Senate-Motion
-- 380YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '380YE-Autumn']
 Title: Construct the Celesti Lighthouse
-aliases:
-- Construct_the_Celesti_Lighthouse
+aliases: ['Construct_the_Celesti_Lighthouse']
+draft: False
+revision_date: 2022-02-02 12:20:45+00:00
+revision_id: 86577
 ---
+
 __NOTOC__
-Announcement by the civil commissioner of the Brass Coast to invest 16 wains of mithril in a lighthouse in the territory of Feroz to be called the 'Celesti Lighthouse'
-The Keeper of the Celesti Lighthouse will be a Freeborn Ministry appointed by the Brass Coast senators and empowered to purchase mana directly from ships captains at rates set by the civil service
-Approved by the Civilian Commissioner of the Brass Coast
+Announcement by the civil commissioner of [[The Brass Coast|the Brass Coast]] to invest 16 wains of [[Mithril|mithril]] in a lighthouse in the [[Territory|territory]] of [[Feroz]] to be called the 'Celesti Lighthouse'
+The Keeper of the Celesti Lighthouse [[Will|will]] be a [[Freeborn]] [[Ministry]] appointed by [[The Brass Coast|the Brass Coast]] senators and empowered to purchase mana directly from ships captains at rates set by the civil service
+Approved by the [[Civilian Commissioner]] of the Brass Coast
 ### Overview
 * A [[Ministry]] in [[Feroz]]
-* This motion was approved by the [[Civilian Commissioner]] of [[The Brass Coast]] using the legal power to commission constructions delegated to them by the Senate
-* This commission was announced after the maximum number of commissions had been authorised, but was announced in case one of the previous commissions had been subject to the synod's [[Veto]]. The veto was not employed and so this commission was not authorised
+* This motion was approved by the [[Civilian Commissioner]] of The Brass Coast using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
+* This [[Commission|commission]] was announced after the maximum number of commissions had been authorised, but was announced in case one of the previous commissions had been subject to [[The Synod|the synod]]'s [[Veto]]. The [[Veto|veto]] was not employed and so this commission was not authorised
 ### Date
-* Autumn 380YE
+* [[Autumn]] 380YE

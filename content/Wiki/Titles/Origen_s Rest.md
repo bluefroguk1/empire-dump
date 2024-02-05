@@ -1,23 +1,23 @@
 ---
-revision_id: 80942
-revision_date: 2020-08-14T21:05:20Z
-Tags:
-- Title
-draft: false
+IgnoreLinking: False
+Tags: ['Title']
 Title: Origen_s Rest
-aliases:
-- Origen's_Rest
+aliases: ["Origen's_Rest"]
+draft: False
+revision_date: 2020-08-14 21:05:20+00:00
+revision_id: 80942
 ---
+
 ## Overview
-Origen was a patron of the [[Anvil Hospital]]. After he stepped down as [[Speaker for the Senate]] in 377, the [[Imperial Senate]] [[Construct conservatory for the Anvil Hospital|created this sinecure]] to continue the support for the Hospital's work. It was destroyed by the Druj in 381YE.
+Origen was a patron of the [[Anvil]] Hospital. After he stepped down as [[Speaker for the Senate]] in 377, the [[Imperial Senate]] created this [[Sinecure|sinecure]] to continue the support for the Hospital's work. It was destroyed by the [[Druj]] in 381YE.
 ## Responsibilities
-The citizen appointed to oversee Origen's Rest was expected to use the bounty of herbs produced to benefit the hospital and to treat their patients.
+The citizen appointed to oversee Origen's Rest was expected to use the bounty of [[Herbs|herbs]] produced to benefit the hospital and to treat their patients.
 ## Powers
 ### Bounty of Herbs
-The conservatory will produce 10 doses of [[True Vervain]] and 5 each of [[Marrowort]], [[Imperial Roseweald]], [[Cerulean Mazzarine]] and [[Bladeroot]] each season.
-## Appointment
-The Oversee of Orgen's Rest was an Imperial position [[Appointments by the Senate#Imperial Position|appointed by the Senate]]. Any Imperial citizen could hold the title, and the overseer had tenure. They could be [[Revocation|revoked]] by the [[Assembly#General Assembly|General Assembly]] and by the [[Assembly#Assembly of the Nine|Assembly of the Nine]].
+The conservatory [[Will|will]] produce 10 doses of [[True Vervain]] and 5 each of [[Marrowort]], [[Imperial Roseweald]], [[Cerulean Mazzarine]] and [[Bladeroot]] each season.
+## [[Appointment]]
+The Oversee of Orgen's Rest was an Imperial position appointed by [[The Senate|the Senate]]. Any Imperial citizen could hold the title, and the overseer had [[Tenure|tenure]]. They could be revoked by the [[General]] [[Assembly]] and by the [[Assembly of the Nine]].
 ## The Gardens of Origen's Rest
-The beautiful gardens of Origen's Rest were destroyed when the [[381YE Summer Solstice winds of war#Valley of Darkness .28Zenith.29|Druj invaded Zenith in 381YE]].
+The beautiful gardens of Origen's Rest were destroyed when the [[Druj]] invaded [[Zenith]] in 381YE.
 ## Recent Elections
 There are no records that any citizen was ever appointed to oversee the gardens.

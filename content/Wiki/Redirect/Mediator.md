@@ -1,9 +1,10 @@
 ---
-revision_id: 88353
-revision_date: 2022-04-09T23:54:15Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Mediator
+draft: False
+revision_date: 2022-04-09 23:54:15+00:00
+revision_id: 88353
 ---
+
 #REDIRECT [[Wintermark economic interests#Mediator]]

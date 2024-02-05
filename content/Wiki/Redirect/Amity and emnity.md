@@ -1,11 +1,11 @@
 ---
-revision_id: 33348
-revision_date: 2015-02-06T15:54:40Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Amity and emnity
-aliases:
-- Amity_and_emnity
+aliases: ['Amity_and_emnity']
+draft: False
+revision_date: 2015-02-06 15:54:40+00:00
+revision_id: 33348
 ---
+
 #REDIRECT [[Amity and enmity]]

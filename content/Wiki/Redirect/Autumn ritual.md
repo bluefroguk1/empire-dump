@@ -1,11 +1,11 @@
 ---
-revision_id: 50979
-revision_date: 2017-04-07T18:54:54Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Autumn ritual
-aliases:
-- Autumn_ritual
+aliases: ['Autumn_ritual']
+draft: False
+revision_date: 2017-04-07 18:54:54+00:00
+revision_id: 50979
 ---
+
 #REDIRECT [[:Category:Autumn Ritual]]

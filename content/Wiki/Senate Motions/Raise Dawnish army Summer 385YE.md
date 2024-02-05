@@ -1,30 +1,29 @@
 ---
-revision_id: 104915
-revision_date: 2023-08-22T14:25:26Z
-Tags:
-- Senate-Motion
-- 385YE-Summer
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '385YE-Summer']
 Title: Raise Dawnish army Summer 385YE
-aliases:
-- Raise_Dawnish_army_Summer_385YE
+aliases: ['Raise_Dawnish_army_Summer_385YE']
+draft: False
+revision_date: 2023-08-22 14:25:26+00:00
+revision_id: 104915
 ---
+
 __NOTOC__
  To disburse funds for a Dawnish army.
 ## Overview
-* Raises a fourth Dawnish [[Imperial army|army]]
+* Raises a fourth Dawnish army
 * Passed at 250 thrones
-* An administrative motion was raised by the [[Speaker for the Senate]] to amend this motion to also raise a Dawnish army which passed
+* An [[Administrative motion|administrative motion]] was raised by the [[Speaker for the Senate]] to amend this motion to also raise a Dawnish army which passed
 ## Date
-* Summer 385YE
-## Cost
+* [[Summer]] 385YE
+## [[Cost]]
 * Standard costs apply
-* 200 wains of mithril
+* 200 wains of [[Mithril|mithril]]
 * 50 thrones
 * One year to complete
 ## Progress
 CommissionProgress|Raise_fourth_Dawnish_army
 ## Outcome
-* 250 thrones disbursed to the Senator for Astolat
-* Once complete, a fourth Dawnish army will be raised
-* The Senator for Astolat needs to indicate which territory of Dawn the army will raise in before any progress can be made
+* 250 thrones disbursed to the [[Senator]] for [[Astolat]]
+* Once complete, a fourth Dawnish army [[Will|will]] be raised
+* The [[Senator]] for [[Astolat]] needs to indicate which [[Territory|territory]] of [[Dawn]] the army [[Will|will]] raise in before any progress can be made

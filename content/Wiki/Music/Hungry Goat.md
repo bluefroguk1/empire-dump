@@ -1,19 +1,16 @@
 ---
-revision_id: 7379
-revision_date: 2012-08-24T18:16:09Z
-Tags:
-- Music
-- Music-for-children
-- Urizen-Music
-- Urizen
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Music-for-children', 'Urizen-Music', 'Urizen']
 Title: Hungry Goat
-aliases:
-- Hungry_Goat
+aliases: ['Hungry_Goat']
+draft: False
+revision_date: 2012-08-24 18:16:09+00:00
+revision_id: 7379
 ---
+
 ### [[Hungry Goat]] Song
 Lyrics by Jude
-Melody traditional Gaelic, as sung by Karine Polwart here:
+Melody traditional Gaelic, as [[Sung|sung]] by Karine Polwart here:
 http://www.youtube.com/watch?v=jSsmZsZhVac&feature=youtube_gdata_player
 Early in the morning
 And without any warning
@@ -25,7 +22,7 @@ Goaty, goaty, hungry all the time
 Daddy went to borrow
 Some pants to wear tomorrow
 But the goat had eaten mummy's
-And had eaten all of mine
+And had eaten all of [[Mine|mine]]
 Chorus:
 Goaty, goaty, hungry little goaty
 Goaty, goaty, hungry all the time

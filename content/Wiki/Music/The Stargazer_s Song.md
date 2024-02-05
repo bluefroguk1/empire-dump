@@ -1,18 +1,16 @@
 ---
-revision_id: 45686
-revision_date: 2016-07-16T10:45:06Z
-Tags:
-- Music
-- Urizen-Music
-- Urizen
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Urizen-Music', 'Urizen']
 Title: The Stargazer_s Song
-aliases:
-- The_Stargazer's_Song
+aliases: ["The_Stargazer's_Song"]
+draft: False
+revision_date: 2016-07-16 10:45:06+00:00
+revision_id: 45686
 ---
+
 Written by Dave Lowry and Claire Sheridan. 
 [https://soundcloud.com/herecosyouare-1/the-stargazers-song Recording]
-The Stargazer's Song
+The [[Stargazer]]'s Song
 ''Phoenix Reach''
 Looking out,
 Dancing in starlight,
@@ -24,7 +22,7 @@ The brightest vision,
 I have ever seen.
 Chorus:
 And all I see is you in the sky,
-But this empty winter’s night,
+But this empty [[Winter|winter]]’s [[Night|night]],
 Needs a thousand sunset skies.
 You my love,
 Smile down upon me,
@@ -48,7 +46,7 @@ Ending 1:
 You my love,
 Dance on forever,
 Skies on fire,
-Will never fade.
+[[Will]] never fade.
 Looking out,
 Though my hair is white and thin now,
 You smile down on me,

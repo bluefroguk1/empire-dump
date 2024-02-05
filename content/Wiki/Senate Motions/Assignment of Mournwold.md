@@ -1,20 +1,19 @@
 ---
-revision_id: 86120
-revision_date: 2022-01-28T13:28:41Z
-Tags:
-- Senate-Motion
-- 381YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '381YE-Autumn']
 Title: Assignment of Mournwold
-aliases:
-- Assignment_of_Mournwold
+aliases: ['Assignment_of_Mournwold']
+draft: False
+revision_date: 2022-01-28 13:28:41+00:00
+revision_id: 86120
 ---
+
 __NOTOC__
-Assign Mournwold to the MarchesProposed by Bregasland, Seconded by Mitwold 
+Assign [[Mournwold]] to the MarchesProposed by [[Bregasland]], Seconded by [[Mitwold]] 
 ### Overview
 * Assigned to [[The Marches]]
 * Passed
 ### Date
-* Autumn 381YE
-### Campaign Outcome
-* [[Mournwold]] has been [[Powers of the Imperial Senate#Assignment|assigned]] to the Marches, and can elect a [[Senator]]
+* [[Autumn]] 381YE
+### [[Campaign outcome|Campaign Outcome]]
+* [[Mournwold]] has been assigned to [[The Marches|the Marches]], and can elect a [[Senator]]

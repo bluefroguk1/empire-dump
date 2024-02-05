@@ -1,29 +1,28 @@
 ---
-revision_id: 102284
-revision_date: 2023-06-15T22:03:58Z
-Tags:
-- Senate-Motion
-- 384YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '384YE-Winter']
 Title: Construct Crucible of Fate
-aliases:
-- Construct_Crucible_of_Fate
+aliases: ['Construct_Crucible_of_Fate']
+draft: False
+revision_date: 2023-06-15 22:03:58+00:00
+revision_id: 102284
 ---
+
 __NOTOC__
-I Sagua i'Ezmara, Master of Koboldi hereby announce that this season's project will be the Crucible of Fate in Zenith. The roads may be broken in Kahraman but the spirits are broken in Zenith. Rebuillding the workshop where the ushabti were first created will provide tools both spiritual and physical. This will be a focal point in defining their identity as a territory and cause a mandate opportunity for the Urizeni National Assembly. The funding is being organised by Zenith Ascendant, gathering prosperous donations from the people of Urizen. A full list of donors will be available on completion. They have gathered over half of the materials already and are continuing to receive more.
+I Sagua i'Ezmara, Master of Koboldi hereby announce that this season's project [[Will|will]] be the Crucible of Fate in [[Zenith]]. The roads may be broken in [[Kahraman]] but the spirits are broken in [[Zenith]]. Rebuillding the workshop where the ushabti were first created [[Will|will]] provide tools both spiritual and physical. This will be a focal point in defining their identity as a [[Territory|territory]] and cause a [[Mandate|mandate]] [[Opportunity|opportunity]] for the Urizeni National [[Assembly]]. The funding is being organised by Zenith Ascendant, gathering prosperous donations from the people of [[Urizen]]. A full list of donors will be available on completion. They have gathered over half of the [[Materials|materials]] already and are continuing to receive more.
 ## Overview
-* Constructs a foundry in Iteri as detailed in the [[Write your own ending#The Crucible of Fate|Write your own ending]] wind of fortune.
+* Constructs a foundry in Iteri as detailed in the [[Write your own ending]] wind of fortune.
 * Announcement by the  [[Master of the Koboldi]]
 ## Date
-* Winter 384YE
-## Cost
+* [[Winter]] 384YE
+## [[Cost]]
 * As per the wind of fortune
-* 30 wains of white granite
-* 20 wains of mithril
-* 10 rings of ilium
+* 30 wains of [[White granite|white granite]]
+* 20 wains of [[Mithril|mithril]]
+* 10 rings of [[Ilium|ilium]]
 * 15 thrones
 * Six months to complete
 ## Progress
 CommissionProgress|Crucible_of_Fate
 ## Outcome
-* Once complete there will be a [[Mandate]] available that the Urizen National Assembly could choose to endorse that would encourage [[Zenith]] to embrace a new destiny as the Crucible of Fate. In addition there will be a one-off benefit of 140 ingots split equally between the [[Business|businesses]] of [[The League]].
+* Once complete there will be a [[Mandate]] available that the [[Urizen]] [[National Assembly]] could choose to endorse that would encourage Zenith to embrace a new destiny as the Crucible of Fate. In addition there will be a one-off benefit of 140 ingots split equally between the businesses of [[The League]].

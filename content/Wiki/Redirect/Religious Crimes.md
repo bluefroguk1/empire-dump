@@ -1,11 +1,11 @@
 ---
-revision_id: 50302
-revision_date: 2017-03-30T10:07:17Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Religious Crimes
-aliases:
-- Religious_Crimes
+aliases: ['Religious_Crimes']
+draft: False
+revision_date: 2017-03-30 10:07:17+00:00
+revision_id: 50302
 ---
+
 #REDIRECT [[Religious crime]]

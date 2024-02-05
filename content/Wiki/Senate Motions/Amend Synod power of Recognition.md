@@ -1,22 +1,21 @@
 ---
-revision_id: 85846
-revision_date: 2022-01-23T08:33:58Z
-Tags:
-- Senate-Motion
-- 377YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '377YE-Winter']
 Title: Amend Synod power of Recognition
-aliases:
-- Amend_Synod_power_of_Recognition
+aliases: ['Amend_Synod_power_of_Recognition']
+draft: False
+revision_date: 2022-01-23 08:33:58+00:00
+revision_id: 85846
 ---
-That the Synod's power of recognition shall be amended to conform to those defined in the statement of principles proposed by Hywel Summercrow and passed by majority of the General Assembly of the Synod in Autumn 377 YE.Proposed by [[Therunin]], seconded by Feroz.
+
+That [[The Synod|the Synod]]'s power of [[Recognition|recognition]] shall be amended to conform to those defined in the statement of principles proposed by Hywel Summercrow and passed by majority of the [[General]] [[Assembly]] of the [[Synod]] in [[Autumn]] 377 YE.Proposed by [[Therunin]], seconded by [[Feroz]].
 ### Overview
-* Recognises a [[377YE Autumn Equinox Synod judgements#Synod Judgements|judgement]] of the [[Imperial Synod]]
-“The General Assembly acknowledges that the current requirements to recognise an Exemplar of Virtue, being a Greater Majority of the a Virtue Assembly, are too easy to achieve with a small number of priests and, acknowledging that this cheapens the value of recognising an Exemplar, the recognition of an Exemplar of Virtue shall require both of:1) A Greater Majority of the relevant Virtue Assembly, and2) a Lesser Majority of the General Assembly.Furthermore, no judgement to recognise an Exemplar shall be valid unless it specifies which of the Signs of the Paragon the candidate has displayed.
+* Recognises a [[Judgement|judgement]] of the [[Imperial Synod]]
+“The [[General Assembly]] acknowledges that the current requirements to recognise an Exemplar of Virtue, being a [[Greater majority|Greater Majority]] of the a [[Virtue assembly|Virtue Assembly]], are too easy to achieve with a small number of priests and, acknowledging that this cheapens the value of recognising an Exemplar, the [[Recognition|recognition]] of an Exemplar of Virtue shall require both of:1) A Greater Majority of the relevant Virtue [[Assembly]], and2) a Lesser Majority of the [[General]] Assembly.Furthermore, no [[Judgement|judgement]] to recognise an Exemplar shall be valid unless it specifies which of the Signs of the [[Paragon]] the candidate has displayed.
 ### Date
-* Winter 377YE
-### Campaign Outcome
-* The use of the Synod power of [[Recognition]] has been amended to include the new principles.
+* [[Winter]] 377YE
+### [[Campaign outcome|Campaign Outcome]]
+* The use of the Synod power of Recognition has been amended to include the new principles.
 ### Voting
 {| class="wikitable"
 |-

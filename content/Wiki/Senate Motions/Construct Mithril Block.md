@@ -1,29 +1,28 @@
 ---
-revision_id: 85565
-revision_date: 2022-01-21T21:40:52Z
-Tags:
-- Senate-Motion
-- 382YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Winter']
 Title: Construct Mithril Block
-aliases:
-- Construct_Mithril_Block
+aliases: ['Construct_Mithril_Block']
+draft: False
+revision_date: 2022-01-21 21:40:52+00:00
+revision_id: 85565
 ---
+
 __NOTOC__
-To construct the mithril Block to ward the spires of Spiral.''Proposed by Spiral, seconded by Bastion.''
+To construct the [[Mithril|mithril]] Block to ward the [[Spires|spires]] of [[Spiral]].''Proposed by [[Spiral]], seconded by [[Bastion]].''
 ## Overview
-* Commission The Block in [[Spiral#Cinion|Cinion]] as laid our by recent [[The path that winds#The Block|proposals]]
+* [[Commission]] The Block in Cinion as laid our by recent proposals
 * Passed at 0 Thrones
 ## Date
-* Winter 382YE
-## Cost
-* This commission uses [[The path that winds#The Block|non-standard costs]].
-* 40 wains of mithril
+* [[Winter]] 382YE
+## [[Cost]]
+* This [[Commission|commission]] uses non-standard costs.
+* 40 wains of [[Mithril|mithril]]
 * 80 crowns
 * Three months to complete. 
 ## Progress
 * 22 wains of mithril provided by Edmundo of Damakhan's Forge after the Winter Solstice 382YE.
 * 18 wains of mithril and 10 thrones provided by  Maximilian after the Winter Solstice 382YE.
-## Campaign Outcome
-* When complete, the current penalties suffered to the production of [[Mana site|mana sites]], [[Congregation|congregations]], [[Herb garden|herb gardens]], [[Mine|mines]], and [[Forest|forests]] owned those living in Spiral would be removed. 
-* Furthermore, the protection offered by the block would mean that people would be feasibly able to live in Spiral despite the curse of the Black Plateau, allowing for a slight increase in the rate of recovery for the territory and its contributions to Imperial coffers.
+## [[Campaign outcome|Campaign Outcome]]
+* When complete, the current penalties suffered to the production of mana sites, congregations, [[Herb|herb]] gardens, mines, and forests owned those living in Spiral would be removed. 
+* Furthermore, the protection offered by the block would mean that people would be feasibly able to live in Spiral despite the [[Curse|curse]] of the [[Black Plateau]], allowing for a slight increase in the rate of recovery for the [[Territory|territory]] and its contributions to Imperial coffers.

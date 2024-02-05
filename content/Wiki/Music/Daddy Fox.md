@@ -1,23 +1,19 @@
 ---
-revision_id: 33889
-revision_date: 2015-02-24T15:22:17Z
-Tags:
-- League-Music
-- Dawn-Music
-- Music
-- Marches-Music
-- Brass-Coast-Music
-draft: false
+IgnoreLinking: False
+Tags: ['League-Music', 'Dawn-Music', 'Music', 'Marches-Music', 'Brass-Coast-Music']
 Title: Daddy Fox
-aliases:
-- Daddy_Fox
+aliases: ['Daddy_Fox']
+draft: False
+revision_date: 2015-02-24 15:22:17+00:00
+revision_id: 33889
 ---
+
 There are various versions of this song that are suitable for several nations. 
-This first acapella version ([http://m.youtube.com/watch?v=XAJSO35MYC8 [[Daddy Fox]], Muldoon' Picnic]) would be great for The Marches or Dawn whereas this version ([http://m.youtube.com/watch?v=_zCZ33FQE90 The Fox, Nickel Creek]) would be more suited to The League or The Brass Coast perhaps.
-A pdf of the Marches/Dawn version can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/6/6c/Daddy_Fox.pdf here]. 
+This first acapella version ([http://m.youtube.com/watch?v=XAJSO35MYC8 [[Daddy Fox]], Muldoon' Picnic]) would be great for [[The Marches]] or [[Dawn]] whereas this version ([http://m.youtube.com/watch?v=_zCZ33FQE90 The Fox, Nickel Creek]) would be more suited to [[The League]] or [[The Brass Coast]] perhaps.
+A pdf of [[The Marches|the Marches]]/[[Dawn]] version can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/6/6c/[[Daddy Fox|Daddy_Fox]].pdf here]. 
 ---------
-Marches/Dawn version
-1. [[Daddy Fox]] went out on a chilly night
+[[Marches]]/Dawn version
+1. [[Daddy Fox]] went out on a chilly [[Night|night]]
 With a ring tong dilly dong kyro me
 Prayed for the moon to give him light
 With a ring tong dilly dong kyro me.
@@ -35,7 +31,7 @@ Blew his little horn both loud and shrill
 There were the little ones 8, 9, 10
 7. Then the fox and his wife without any strife
 Cut up the goose with a carving knife
-League/Brass Coast version
+[[League]]/Brass Coast version
 The Fox went out on a chilly night 
 He prayed for the moon to give him light 
 For he had many a mile to go that night 
@@ -58,7 +54,7 @@ Well the old gray Woman jumped out of bed
 Out of the window she popped her head 
 Cryin' John, John the great goose is [[Gone|gone]] 
 The Fox is on the town-o, town-o, town-o 
-John, John the great goose is [[Gone|gone]] 
+John, John the great goose is gone 
 And the Fox is on the town-o 
 He ran till he came to his nice warm den 
 And there were the little ones 8, 9, 10 

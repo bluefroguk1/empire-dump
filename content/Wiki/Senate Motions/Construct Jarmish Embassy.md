@@ -1,30 +1,29 @@
 ---
-revision_id: 85849
-revision_date: 2022-01-23T08:34:48Z
-Tags:
-- Senate-Motion
-- 377YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '377YE-Winter']
 Title: Construct Jarmish Embassy
-aliases:
-- Construct_Jarmish_Embassy
+aliases: ['Construct_Jarmish_Embassy']
+draft: False
+revision_date: 2022-01-23 08:34:48+00:00
+revision_id: 85849
 ---
-Construct an embassy for the Principalities of Jarm in Redoubt.Proposed by Sermersuaq, seconded by Upwold.
+
+Construct an [[Embassy|embassy]] for the [[Principalities of Jarm]] in [[Redoubt]].Proposed by [[Sermersuaq]], seconded by [[Upwold]].
 ### Overview
 * Construct an [[Embassy]] for the [[Principalities of Jarm]] in Cargo, [[Redoubt]].
 * Passed at 40 Thrones
 ### Date
-* Winter 377YE
-### Cost
-* 20 White Granite
-* 20 Weirwood
-* Special: Note that this is not the [[Embassy#Costs|standard cost]] for an embassy commission.
+* [[Winter]] 377YE
+### [[Cost]]
+* 20 [[White granite|White Granite]]
+* 20 [[Weirwood]]
+* Special: Note that this is not the standard [[Cost|cost]] for an embassy [[Commission|commission]].
 ### Progress
-* Materials provided by Atte, Senator for Sermersuaq after Summer Solstice 378.
-* While the Jarmish Embassy has been built in [[Redoubt#Cargo|Cargo]], the [[Principalities of Jarm#Poltics|House of Princes]] is refusing to name an ambassador until the Senate chooses which of their [[Principalities of Jarm ports|ports]] the reciprocal embassy will be established in.
-### Campaign Outcome
-* The embassy will be a [[Ministry]] that allows the Imperial citizen appointed to operate it to purchase [[Game items#Mana Crystals|crystal mana]], [[Materials#Dragonbone|Dragonbone]], [[Materials#Ambergelt|Ambergelt]], [[Materials#Green Iron|Green Iron]], [[Materials#Iridescent Gloaming|iridescent Gloaming]], [[Cerulean Mazzarine]] and [[Marrowort]].
-* Oswi Twice-Burned was appointed [[Ambassador to Jarm]] at the Autumn Equniox 378YE
+* [[Materials]] provided by Atte, [[Senator]] for [[Sermersuaq]] after [[Summer]] Solstice 378.
+* While the Jarmish Embassy has been built in Cargo, the House of Princes is refusing to name an [[Ambassador|ambassador]] until [[The Senate|the Senate]] chooses which of their ports the reciprocal embassy [[Will|will]] be established in.
+### [[Campaign outcome|Campaign Outcome]]
+* The embassy [[Will|will]] be a [[Ministry]] that allows the Imperial citizen appointed to operate it to purchase crystal mana, [[Dragonbone]], [[Ambergelt]], [[Green iron|Green Iron]], [[Iridescent gloaming|iridescent Gloaming]], [[Cerulean Mazzarine]] and [[Marrowort]].
+* Oswi Twice-Burned was appointed [[Ambassador to Jarm]] at the [[Autumn]] Equniox 378YE
 ### Voting
 {| class="wikitable"
 |-

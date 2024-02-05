@@ -1,11 +1,11 @@
 ---
-revision_id: 100750
-revision_date: 2023-05-13T14:51:07Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Essence of Verdigris
-aliases:
-- Essence_of_Verdigris
+aliases: ['Essence_of_Verdigris']
+draft: False
+revision_date: 2023-05-13 14:51:07+00:00
+revision_id: 100750
 ---
+
 #REDIRECT [[Unguents of Falling Leaves#Essence of Verdigris]]

@@ -1,29 +1,28 @@
 ---
-revision_id: 100257
-revision_date: 2023-05-04T14:32:26Z
-Tags:
-- Senate-Motion
-- 384YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '384YE-Winter']
 Title: Construct Thornsong House
-aliases:
-- Construct_Thornsong_House
+aliases: ['Construct_Thornsong_House']
+draft: False
+revision_date: 2023-05-04 14:32:26+00:00
+revision_id: 100257
 ---
+
 __NOTOC__
-To [[Construct Thornsong House|construct Thornsong House]] to honour the heritage of healers and apothecaries in Therunin. This unique hospital college will allow the Empire to research new potions for the first time and create a centre for potion-lore in the Empire. The title of "Thornsinger", responsible for overseeing and guiding the research, will be appointed annually vs Tally of the Votes. The title will have the ability to address Senate to announce their chosen research focus. Like other Imperial research functions, there will be an upkeep cost - 10 thrones as season. This is a unique, limited opportunity.
+To [[Construct Thornsong House|construct Thornsong House]] to honour the heritage of healers and apothecaries in [[Therunin]]. This unique hospital college [[Will|will]] allow [[The Empire|the Empire]] to research new potions for the first time and create a centre for [[Potion|potion]]-lore in [[The Empire|the Empire]]. The title of "Thornsinger", responsible for overseeing and guiding the research, [[Will|will]] be appointed annually vs [[Tally of the Votes]]. The title will have the ability to address [[Senate]] to announce their chosen research focus. Like other Imperial research functions, there will be an upkeep [[Cost|cost]] - 10 thrones as season. This is a unique, limited [[Opportunity|opportunity]].
 ## Overview
-* Construct the Thornsong House as detailed in the [[Make a deal#Thornsong House|Make a deal]] wind of fortune.
+* Construct the Thornsong House as detailed in the [[Make a deal]] wind of fortune.
 * Passed
 ## Date
-* Winter 384YE
-## Cost
+* [[Winter]] 384YE
+## [[Cost]]
 * As per the wind of fortune
-* 120 wains of weirwood
+* 120 wains of [[Weirwood|weirwood]]
 * 30 thrones
 * Nine months to complete
 * 10 thrones a season upkeep
 ## Progress
 CommissionProgress|Thornsong_House
 ## Outcome
-* Once complete the Navarr title of ''Thornsinger'' will be able to be appointed through [[Tally of the Votes]].
-* In addition to controlling a ministry, the Thornsinger would oversee development of new ways for Imperial apothecaries to use herbs
+* Once complete the [[Navarr]] title of ''Thornsinger'' will be able to be appointed through [[Tally of the Votes]].
+* In addition to controlling a [[Ministry|ministry]], the Thornsinger would oversee development of new ways for Imperial apothecaries to use [[Herbs|herbs]]

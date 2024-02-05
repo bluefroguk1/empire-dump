@@ -1,9 +1,10 @@
 ---
-revision_id: 50281
-revision_date: 2017-03-30T09:42:34Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Condemnation
+draft: False
+revision_date: 2017-03-30 09:42:34+00:00
+revision_id: 50281
 ---
+
 #REDIRECT [[Sanction]]

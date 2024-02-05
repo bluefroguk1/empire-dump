@@ -1,16 +1,13 @@
 ---
-revision_id: 82672
-revision_date: 2021-03-03T12:04:48Z
-Tags:
-- Music
-- Navarr-Music
-- Music-for-children
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Navarr-Music', 'Music-for-children', 'Navarr']
 Title: All the Pretty Ponies
-aliases:
-- All_the_Pretty_Ponies
+aliases: ['All_the_Pretty_Ponies']
+draft: False
+revision_date: 2021-03-03 12:04:48+00:00
+revision_id: 82672
 ---
+
 Trad
 Here is Caroline Herring's version - https://www.youtube.com/watch?v=SCu4Jd-5ZXQ
 Hush a bye don't you cry
@@ -21,4 +18,4 @@ Blacks and bays, dapples and greys
 Hush a bye my pretty baby
 When you wake you shall have
 All the pretty little ponies
-NB The [[Horse]] is now extinct in the Empire.
+NB The [[Horse]] is now extinct in [[The Empire|the Empire]].

@@ -1,19 +1,18 @@
 ---
-revision_id: 101495
-revision_date: 2023-06-02T18:13:07Z
-Tags:
-- Day-Ritual
-- Rituals
-draft: false
+IgnoreLinking: False
+Tags: ['Day-Ritual', 'Rituals']
 Title: Quick Study
-aliases:
-- Quick_Study
+aliases: ['Quick_Study']
+draft: False
+revision_date: 2023-06-02 18:13:07+00:00
+revision_id: 101495
 ---
+
 stub
 ## Rules
 Season|Autumn|42
-Urizen Lore
-### Performing the Ritual
+[[Urizen]] Lore
+### Performing the [[Ritual]]
 Casting time|2This ritual targets a [[College of Magic]]. The character with dominion over the building (the Dean or similar title) must be present throughout. 
 [[Enchantment|enchantment]] 
 ### Effects

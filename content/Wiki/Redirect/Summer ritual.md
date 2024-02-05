@@ -1,11 +1,11 @@
 ---
-revision_id: 50978
-revision_date: 2017-04-07T18:54:39Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Summer ritual
-aliases:
-- Summer_ritual
+aliases: ['Summer_ritual']
+draft: False
+revision_date: 2017-04-07 18:54:39+00:00
+revision_id: 50978
 ---
+
 #REDIRECT [[:Category:Summer Ritual]]

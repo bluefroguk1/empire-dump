@@ -1,19 +1,17 @@
 ---
-revision_id: 82671
-revision_date: 2021-03-03T12:04:33Z
-Tags:
-- Music
-- League-Music
-- The-League
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'League-Music', 'The-League']
 Title: Lovely Joan
-aliases:
-- Lovely_Joan
+aliases: ['Lovely_Joan']
+draft: False
+revision_date: 2021-03-03 12:04:33+00:00
+revision_id: 82671
 ---
+
 Trad. Slight filk and last verse by Daisy. 
-NB The [[Horse]] is now extinct in the Empire.
-RECORDING by [http://www.madrigirls.org.uk Glasgow Madrigirls] [[Media:lovelyjoan.mp3]]
-Tune is [http://www.8notes.com/scores/6525.asp here], guitar tab [http://www.traditionalmusic.co.uk/songs-tab/Lovely_Joan.htm here]
+NB The [[Horse]] is now extinct in [[The Empire|the Empire]].
+RECORDING by [http://www.madrigirls.org.uk Glasgow Madrigirls] Media:lovelyjoan.mp3
+Tune is [http://www.8notes.com/scores/6525.asp here], guitar tab [http://www.traditionalmusic.co.uk/songs-tab/[[Lovely Joan|Lovely_Joan]].htm here]
 A fine young man he was indeed,
 He was mounted on his milk-white steed;
 He rode, he rode himself all alone,
@@ -31,14 +29,14 @@ Then he pulled off his ring of gold
 I'd freely give it for your maidenhead
 And her cheeks they blushed like the roses red."
 "Give me that ring into my hand
-And I will neither stay nor stand,
+And I [[Will|will]] neither stay nor stand,
 For this would do more good to me
 Than twwenty maidenheads," said she.
 And as he made for the pooks of hay
-She leaped on his horse and tore away
+She leaped on his [[Horse|horse]] and tore away
 He called, he called, but it was all in vain
 Young Joan she never looked back again.
-So all League men come and listen to me
+So all [[League]] men come and listen to me
 Never trust a maid for her beauty
 She'll rob you of your horse and ring
 And leave you to rage in the meadows green.

@@ -1,11 +1,11 @@
 ---
-revision_id: 24011
-revision_date: 2014-04-12T09:47:53Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Distribute Imperial budget
-aliases:
-- Distribute_Imperial_budget
+aliases: ['Distribute_Imperial_budget']
+draft: False
+revision_date: 2014-04-12 09:47:53+00:00
+revision_id: 24011
 ---
+
 #REDIRECT [[Disburse Imperial budget]]

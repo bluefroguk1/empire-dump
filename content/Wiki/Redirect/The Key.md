@@ -1,11 +1,11 @@
 ---
-revision_id: 43110
-revision_date: 2016-04-13T15:05:03Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Key
-aliases:
-- The_Key
+aliases: ['The_Key']
+draft: False
+revision_date: 2016-04-13 15:05:03+00:00
+revision_id: 43110
 ---
+
 #REDIRECT [[The Key and The Lock#The Key]]

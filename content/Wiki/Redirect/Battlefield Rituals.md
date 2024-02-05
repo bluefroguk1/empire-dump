@@ -1,11 +1,11 @@
 ---
-revision_id: 31026
-revision_date: 2015-01-20T10:26:07Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Battlefield Rituals
-aliases:
-- Battlefield_Rituals
+aliases: ['Battlefield_Rituals']
+draft: False
+revision_date: 2015-01-20 10:26:07+00:00
+revision_id: 31026
 ---
+
 #REDIRECT [[Battlefield Ritual]]

@@ -1,17 +1,15 @@
 ---
-revision_id: 25279
-revision_date: 2014-05-06T09:33:30Z
-Tags:
-- Music
-- The-Brass-Coast
-- Brass-Coast-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'The-Brass-Coast', 'Brass-Coast-Music']
 Title: Wagon song
-aliases:
-- Wagon_song
+aliases: ['Wagon_song']
+draft: False
+revision_date: 2014-05-06 09:33:30+00:00
+revision_id: 25279
 ---
+
 Original tune [http://www.youtube.com/watch?v=m3P2xWSS5YA Sancta Maria strela do di], words by Jude. Recording at [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/wagon-song.mp3 Wagon Song]
-[[File:wagon-song.gif|200px|thumb|left]] Score for the chorus only
+200px|thumb|left Score for [[The Chorus|the chorus]] only
 ''Drink up your tankards and drain your flagon''
 ''Morning has come and it's time to pack the wagon''
 Heading south, for satins soft and flowing
@@ -34,7 +32,7 @@ Then we'll turn back to the road once more.
 ''Morning has come and it's time to pack the wagon''
 Turning east, the bay is there before me
 In the distance I can see the sea
-On the road, a new adventure story
+On the road, a new [[Adventure|adventure]] story
 Nothing but a traveller's life for me
 ''Drink up your tankards and drain your flagon''
 ''Morning has come and it's time to pack the wagon''

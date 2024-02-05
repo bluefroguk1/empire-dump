@@ -1,21 +1,20 @@
 ---
-revision_id: 86652
-revision_date: 2022-02-02T17:58:56Z
-Tags:
-- Senate-Motion
-- 379YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '379YE-Winter']
 Title: Disburse funds for strategic military magic
-aliases:
-- Disburse_funds_for_strategic_military_magic
+aliases: ['Disburse_funds_for_strategic_military_magic']
+draft: False
+revision_date: 2022-02-02 17:58:56+00:00
+revision_id: 86652
 ---
-Disbursement of funds to support strategic military magic
-Proposed by Morrow, seconded by Madruga. 
+
+Disbursement of funds to support strategic military [[Magic|magic]]
+Proposed by [[Morrow]], seconded by [[Madruga]]. 
 ### Overview
 * Passed
 * Passed at 300 Thrones
 ### Date
-* Winter 379YE
+* [[Winter]] 379YE
 ### Progress
-* 300 Thrones disbursed to Senator Morrow
+* 300 Thrones disbursed to [[Senator]] [[Morrow]]
 __NOTOC__

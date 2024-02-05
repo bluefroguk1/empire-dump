@@ -1,47 +1,47 @@
 ---
-revision_id: 106726
-revision_date: 2024-01-03T14:14:35Z
-Tags:
-- Events
-- The-Game
-draft: false
+IgnoreLinking: False
+Tags: ['Events', 'The-Game']
 Title: Events
+draft: False
+revision_date: 2024-01-03 14:14:35+00:00
+revision_id: 106726
 ---
+
 stub
 ## Overview
-Profound Decisions will run four Empire [[Events|events]] each year. Although we are keen to give players the freedom to run their own Empire [[Events|events]] if they wish, we believe it is also important for players to know what level of commitment and involvement a game presents. Therefore there will only ever be four Profound Decisions Empire [[Events|events]] each year.
+Profound Decisions [[Will|will]] run four Empire [[Events|events]] each year. Although we are keen to give players the freedom to run their own Empire [[Events|events]] if they wish, we believe it is also important for players to know what level of commitment and involvement a game presents. Therefore there [[Will|will]] only ever be four Profound Decisions Empire events each year.
 ## Event Dates in 2024
 OOC details for all our events in 2024 are below. If you have any questions about the details then please [mailto:admin@profounddecisions.co.uk email us] and we will endeavour to answer them for you.
             Event
             Start
             End
             Location
-            [[Winter Solstice 2024|Winter Solstice 385YE]]
+            [[Winter]] Solstice 385YE
             26th April
             28th April
             [[Dadford Road Campsite]]
-            [[Spring Equinox 2024|Spring Equinox 386YE]]
+            [[Spring]] Equinox 386YE
             14th June
             16th June
             [[Dadford Road Campsite]]
-            [[Summer Solstice 2024|Summer Solstice 386YE]]
+            [[Summer]] Solstice 386YE
             26th July
             28th July
-            [[Dadford Road Campsite]]
-            [[Autumn Equinox 2024|Autumn Equinox 386YE]]
+            Dadford Road Campsite
+            [[Autumn]] Equinox 386YE
             13th September
             15th September
-            [[Dadford Road Campsite]]
+            Dadford Road Campsite
 ## Time-in and Time-out
 Time in is at 6pm on Friday and 10am on Saturday and Sunday morning. Time-out is at 1am Saturday morning and Sunday morning. The event ends with final time-out at 3pm on Sunday.
 ## Early Arrival
 Although there is no role-playing before time-in on Friday, you are very welcome to arrive early to begin setting up your camp. The bar will be open on Thursday evening and our caterers will be aiming to provide hot food. Please enjoy this [[Opportunity|opportunity]] to socialize out-of-character.
-The earliest that you can arrive is 1:00 pm on the Thursday before each event. Please note that the arrival time is two hours later than last year - as we need the additional time to finish site preparations before players arrive. There is an additional charge of £10 for anyone who stays on site on Thursday night that must be paid on the gate in cash only.
+The earliest that you can arrive is 1:00 pm on the Thursday before each event. Please note that the arrival time is two hours later than last year - as we need the additional time to finish site preparations before players arrive. There is an additional charge of £10 for anyone who stays on site on Thursday [[Night|night]] that must be paid on the [[Gate|gate]] in cash only.
 ## Location
-All our events in 2023 will be held at our current site next to [[Dadford Road Campsite]], off Dadford Road, near Dadford in Buckinghamshire.
+All our events in 2023 will be held at our current site next to Dadford Road Campsite, off Dadford Road, near Dadford in Buckinghamshire.
 ## Booking and Prices
-[[Online]] booking is available for all Profound Decisions events via our [http://www.profounddecisions.co.uk/ [[Online|online]] account system]. Please create an account, enter your details and choose which events you wish to attend. You can even use the [[Online|online]] booking system if you wish to pay by cheque as the system will give you a single booking reference to write on the back of your cheque.
-All our events cost £80 if booked well in advance. The price rises after the early booking deadline and then again if you pay on the gate. Please see our [http://www.profounddecisions.co.uk/event/deadlines ticket booking deadlines] for details. Various discounts are available and all discounts are cumulative.
+[[Online]] booking is available for all Profound Decisions events via our [http://www.profounddecisions.co.uk/ [[Online|online]] account system]. Please create an account, enter your details and choose which events you wish to attend. You can even use the online booking system if you wish to pay by cheque as the system will give you a single booking reference to write on the back of your cheque.
+All our events [[Cost|cost]] £80 if booked well in advance. The price rises after the early booking deadline and then again if you pay on the gate. Please see our [http://www.profounddecisions.co.uk/event/deadlines ticket booking deadlines] for details. Various discounts are available and all discounts are cumulative.
 ### Multi-booking Discounts
 If you book for more than one event simultaneously then you are receive a £5 discount for each additional event that you book. For example, if you book for three events then you are eligible for a discount of £10 from the total price. 
 ### Concessions

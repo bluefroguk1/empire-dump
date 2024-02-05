@@ -1,16 +1,15 @@
 ---
-revision_id: 90438
-revision_date: 2022-05-21T11:42:12Z
-Tags:
-- History
-- The-Throne
-draft: false
+IgnoreLinking: False
+Tags: ['History', 'The-Throne']
 Title: Historical Thrones
-aliases:
-- Historical_Thrones
+aliases: ['Historical_Thrones']
+draft: False
+revision_date: 2022-05-21 11:42:12+00:00
+revision_id: 90438
 ---
+
 ## Overview
-There have been twenty Empresses and Emperors since the Empire was founded.
+There have been twenty Empresses and Emperors since [[The Empire|the Empire]] was founded.
 {|
 |Reign
 |Name
@@ -19,134 +18,134 @@ There have been twenty Empresses and Emperors since the Empire was founded.
 |Number
 |-
 |1YE - 22YE
-|[[First Empress]]
+|First Empress
 |the First
 |Highguard
 |1
 |-
 | 23YE - 34YE
-|[[Emperor Giovanni]]
+|Emperor Giovanni
 |the Peacemaker
 |League
 |2
 |-
 | 36YE - 69YE
-|[[Empress Richilde]]
+|Empress Richilde
 |the Sun Queen
 |Dawn
 |3
 |-
 |71YE - 91YE
-|[[Empress Teleri]]
+|Empress Teleri
 |the Pious
 |Navarr
 |4
 |-
 |(91YE-103YE)
 |n/a
-|[[Imperial history#92 YE - 102 YE The First Interregnum|First Interregnum]]
+|First Interregnum
 |n/a
 |n/a
 |-
 |103YE - 120YE
-|[[Empress Aenea]]
+|Empress Aenea
 |the Builder
 |Highguard
 |5
 |-
 |125 YE - 167 YE
-|[[Empress Varkula]]
+|Empress Varkula
 |the Undying
 |Varushka
 |6
 |-
 |168YE-179YE
-|[[Emperor Frederick]]
+|Emperor Frederick
 |the Philosopher
 |League
 |7
 |-
 |180 YE - 198 YE
-|[[Emperor Barabbas]]
+|Emperor Barabbas
 |the Mariner
 |Highguard
 |8
 |-
 |200YE - 209YE
-|[[Emperor Nicovar]]
+|Emperor Nicovar
 |the Mad
 |Urizen
 |9
 |-
 |212YE - 234YE
-|[[Empress Mariika]]
+|Empress Mariika
 |the Cunning
 |Wintermark
 |10
 |-
 |239YE - 248YE
-|[[Emperor Guntherm]]
+|Emperor Guntherm
 |the Bold (or the Bloodthirsty)
 |Wintermark
 |11
 |-
 |249YE - 257YE
-|[[Empress Brannan]]
+|Empress Brannan
 |the Relentless
 |Navarr
 |12
 |-
 |258YE-281YE
-|[[Emperor James]]
+|Emperor James
 |the Wise
 |Marches
 |13
 |-
 |(281 YE - 300YE)
 |n/a
-|[[Imperial history#(281 YE - 300 YE) The Second Interregnum|Second Interregnum]]
+|Second Interregnum
 |n/a
 |n/a
 |-
 |300YE - 318YE
-|[[Empress Deanne]]
+|Empress Deanne
 |the Fair
 |Navarr
 |14
 |-
 |324YE - 329YE
-|[[Emperor Ahraz]]
+|Emperor Ahraz
 |the Liberator
 |Brass Coast
 |15
 |-
 |331YE - 346YE
-|[[Empress Giselle]]
+|Empress Giselle
 |the Unwise
 |League
 |16
 |-
 |348YE - 368YE
-|[[Emperor Hugh]]
+|Emperor Hugh
 |called the Ill-Prepared
 |Dawn
 |17
 |-
 |-
 |371YE - 373YE
-|[[Emperor Walter]]
+|Emperor Walter
 |called the Ham-fisted
 |Marches
 |18
 |-
 |374YE - 376YE
-|[[Empress Britta]]
+|Empress Britta
 |called the Young Empress
 |Wintermark
 |19
 |-
 |380YE - 383YE
-|[[Empress Lisabetta]]
+|Empress Lisabetta
 |of Flowers
 |League
 |20

@@ -1,21 +1,20 @@
 ---
-revision_id: 86468
-revision_date: 2022-02-01T21:33:21Z
-Tags:
-- Senate-Motion
-- 380YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '380YE-Winter']
 Title: Disburse funds for strategic magic II
-aliases:
-- Disburse_funds_for_strategic_magic_II
+aliases: ['Disburse_funds_for_strategic_magic_II']
+draft: False
+revision_date: 2022-02-01 21:33:21+00:00
+revision_id: 86468
 ---
+
 __NOTOC__
-To disburse funds for the strategic magic
-Proposed by Zenith, Seconded by Miaren
+To disburse funds for the strategic [[Magic|magic]]
+Proposed by [[Zenith]], Seconded by [[Miaren]]
 ### Overview
 * Passed
 * Passed at 120 thrones
 ### Date
-* Winter 380YE
+* [[Winter]] 380YE
 ### Progress
-* 120 thrones disbursed to Senator Zenith
+* 120 thrones disbursed to [[Senator]] [[Zenith]]

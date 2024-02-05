@@ -1,28 +1,27 @@
 ---
-revision_id: 85875
-revision_date: 2022-01-23T15:29:54Z
-Tags:
-- Senate-Motion
-- 378YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '378YE-Spring']
 Title: Construct Barrens Spy Network
-aliases:
-- Construct_Barrens_Spy_Network
+aliases: ['Construct_Barrens_Spy_Network']
+draft: False
+revision_date: 2022-01-23 15:29:54+00:00
+revision_id: 85875
 ---
-Create spy network in The Barrens.Proposed by Volodmartz, seconded by Skarsind. 
+
+Create [[Spy network|spy network]] in [[The Barrens]].Proposed by [[Volodmartz]], seconded by [[Skarsind]]. 
 ### Overview
-* Construct a spy network in The Barrens.
+* Construct a [[Spy network|spy network]] in [[The Barrens]].
 ### Date
-* Spring 378YE.
-### Cost
-* 10 [[Imperial Bourse#Weirwood|weirwood]]
-* Upkeep: 2 Thrones per season from the [[Imperial Senate|Senate]] budget
+* [[Spring]] 378YE.
+### [[Cost]]
+* 10 [[Weirwood|weirwood]]
+* Upkeep: 2 Thrones per season from [[The Senate|the Senate]] budget
 * Time: 3 months to construct
 ### Progress
-* 10 wains of weirwood provided by Hector de Rondell after the Spring Equinox 378.
-### Campaign Outcome
-* Creates a [[Spy network]] in [[The Barrens]].
-* The spy network was destroyed by the Druj following the Summer Solstice 382YE.
+* 10 wains of [[Weirwood|weirwood]] provided by Hector de Rondell after the Spring Equinox 378.
+### [[Campaign outcome|Campaign Outcome]]
+* Creates a Spy network in The Barrens.
+* The spy network was destroyed by the [[Druj]] following the [[Summer]] Solstice 382YE.
 ### Voting
 {| class="wikitable"
 |-

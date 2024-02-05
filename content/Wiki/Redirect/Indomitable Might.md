@@ -1,11 +1,11 @@
 ---
-revision_id: 100754
-revision_date: 2023-05-13T14:52:07Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Indomitable Might
-aliases:
-- Indomitable_Might
+aliases: ['Indomitable_Might']
+draft: False
+revision_date: 2023-05-13 14:52:07+00:00
+revision_id: 100754
 ---
+
 #REDIRECT [[Unshackled Gift#Indomitable Might]]

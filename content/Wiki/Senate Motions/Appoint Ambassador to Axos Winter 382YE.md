@@ -1,21 +1,20 @@
 ---
-revision_id: 85560
-revision_date: 2022-01-21T21:38:21Z
-Tags:
-- Senate-Motion
-- 382YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Winter']
 Title: Appoint Ambassador to Axos Winter 382YE
-aliases:
-- Appoint_Ambassador_to_Axos_Winter_382YE
+aliases: ['Appoint_Ambassador_to_Axos_Winter_382YE']
+draft: False
+revision_date: 2022-01-21 21:38:21+00:00
+revision_id: 85560
 ---
+
 __NOTOC__
-To appoint Ambassador to AxosProposed by Kalavessa, Seconded by Karsk 
+To appoint [[Ambassador]] to AxosProposed by Kalavessa, Seconded by [[Karsk]] 
 ### Overview
 * This motion appoints the [[Ambassador to Axos]]
 * Passed
 ### Date
-* Winter 381YE
-### Campaign Outcome
+* [[Winter]] 381YE
+### [[Campaign outcome|Campaign Outcome]]
 * The election was held 
 * Tarquinius Ankarien retains their position

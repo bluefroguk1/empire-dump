@@ -1,18 +1,17 @@
 ---
-revision_id: 86253
-revision_date: 2022-01-30T16:26:34Z
-Tags:
-- Summer-379YE
-- Failed-Senate-Motion
-draft: false
+IgnoreLinking: False
+Tags: ['Summer-379YE', 'Failed-Senate-Motion']
 Title: Appoint Throne III
-aliases:
-- Appoint_Throne_III
+aliases: ['Appoint_Throne_III']
+draft: False
+revision_date: 2022-01-30 16:26:34+00:00
+revision_id: 86253
 ---
-To elect an Imperial citizen to the Throne.''Proposed by Kallavesa, Seconded by Casinea.''
+
+To elect an Imperial citizen to [[The Throne|the Throne]].''Proposed by [[Kallavesa]], Seconded by [[Casinea]].''
 ### Overview
-* This motion was to choose a new [[The Throne|Throne]].
+* This motion was to choose a new [[Throne]].
 * The motion was withdrawn
 ### Date
-* Summer 379YE
+* [[Summer]] 379YE
 __NOTOC__

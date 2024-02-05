@@ -1,14 +1,14 @@
 ---
-revision_id: 26786
-revision_date: 2014-06-19T13:25:00Z
-tags:
-  - Varushka
-draft: false
+IgnoreLinking: False
 Title: Varushkan rhythms
-aliases:
-  - Varushkan_rhythms
+aliases: ['Varushkan_rhythms']
+draft: False
+revision_date: 2014-06-19 13:25:00+00:00
+revision_id: 26786
+tags: ['Varushka']
 ---
-To get a Varushkan sound to your drumming, use asymmetrical rhythm. What does this mean? Googling "Bulgarian rhythm" will give you lots of information but essentially it means that you group your notes in uneven groups across the bar. So if you are playing in 4/4 time, don't play two groups of four beats or four groups of two beats, play 3,3,2.
+
+To get a Varushkan sound to your drumming, use asymmetrical rhythm. What does this mean? Googling "Bulgarian rhythm" [[Will|will]] give you lots of information but essentially it means that you group your notes in uneven [[Groups|groups]] across the bar. So if you are playing in 4/4 time, don't play two groups of four beats or four groups of two beats, play 3,3,2.
 Better however is to go for a 7/8 bar - this is traditional for Bulgarian folk dances and can be split in a lot of fun ways:
 * 2,3,2 gives a steady, kind of funky, rhythm.
 * 3,2,2 gives a rushed, driving feel.
@@ -25,8 +25,8 @@ You can use staple and triangle to learn any of the cool rhythmic patterns sugge
 ### Got a mixed ability group?
 It can be fun to do asymmetric rhythm over the top of a straight 4/4 beat. Try a 3,3,2 quaver pattern with someone beating simple 4/4 at the same time.
 ### Lovely choral example
-This gorgeous piece (which yes, I am in the process of filking) shows the wonderful complexity of Bulgarian rhythm. Listen to it on youtube here: http://youtu.be/pwNKTXpy67M
-[[File:Poleg1.png|left|Polegnala e Todoro, only chorus reproduced]]
+This [[Gorgeous|gorgeous]] piece (which yes, I am in the process of filking) shows the wonderful complexity of Bulgarian rhythm. Listen to it on youtube here: http://youtu.be/pwNKTXpy67M
+left|Polegnala e Todoro, only chorus reproduced
 It looks (and sounds) very complex but you can break down the rhythm into staples and triangles to help. (Ignoring the grace notes) the pulse in the first four bars goes:
 Staple, staple, triangle, staple, staple | Staple staple triangle triangle and | Staple, staple, triangle, staple, staple | Staple, staple, triangle, staple, staple.
 Count it through with the recording. Then stick the grace notes in (they're simply doing them as semiquavers).

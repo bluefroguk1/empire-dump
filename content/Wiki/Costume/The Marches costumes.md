@@ -1,31 +1,31 @@
 ---
-revision_id: 85198
-revision_date: 2022-01-12T15:29:22Z
-Tags:
-- Costume
-draft: false
+IgnoreLinking: False
+Tags: ['Costume']
 Title: The Marches costumes
-aliases:
-- The_Marches_costumes
+aliases: ['The_Marches_costumes']
+draft: False
+revision_date: 2022-01-12 15:29:22+00:00
+revision_id: 85198
 ---
-Costume Advice|[[The Marches look and feel]]
+
+[[Costume]] Advice|The [[Marches Look and Feel|Marches look and feel]]
 ## Overview
-The Marches draws strongly on English history from the 12th century through to the Wars of the Roses for costume, weaponry and armour.  The look is earthy, sober and simple with plain flat colours of natural dyes and unbleached cloth. The fabrics are likewise natural - wool, calico, linen and leather combine to give a realistic look. Medieval re-enactments are a great source of inspiration for the look and feel of Marches territory - although unlike history, its worth noting that Marches society is gender neutral. Clothing is chosen according to the situation and activity, rather than through roles assigned to men or women.
-"Pride in small things, loyalty to great ones"
+[[The Marches]] draws strongly on English [[History|history]] from the 12th century through to the Wars of the Roses for [[Costume|costume]], weaponry and armour.  The look is earthy, sober and simple with plain flat colours of natural dyes and unbleached cloth. The fabrics are likewise natural - wool, calico, linen and leather combine to give a realistic look. Medieval re-enactments are a great source of inspiration for the look and feel of [[Marches]] [[Territory|territory]] - although unlike history, its [[Worth|worth]] noting that Marches society is gender neutral. Clothing is chosen according to the situation and activity, rather than through roles assigned to men or women.
+"[[Pride]] in small things, [[Loyalty|loyalty]] to great ones"
 ## 10 Quick Tips
 * Charity shop fabric rails are a great source of wool blankets that can be made into staples of Marcher costume
 * With the popularity of medieval re-enactment, its very easy to buy off the peg hose, doublets, cote-hardie and other key pieces - just head for 12th - 15th Century, rather than Tudor kit when choosing on-line or at kit fairs.
-* Don't fancy hose? Don't worry. Any reasonably close fitting trousers in earthy or dark colours will look good for practical Marches characters.
-* Households and families are important in the Marches - displaying the house livery can be done cheaply through simple sashes or badges or if you fancy something a bit clearer, follow the guides for livery coats.
-* There are a range of options for practical footwear - from bespoke re-enactment shoes to simple desert boots - any soft leather or suede with simple ties, laces or side buckles will look good.
+* Don't fancy hose? Don't worry. Any reasonably close fitting trousers in earthy or dark colours [[Will|will]] look good for practical Marches [[Characters|characters]].
+* Households and families are important in [[The Marches|the Marches]] - displaying the house livery can be done cheaply through simple sashes or badges or if you fancy something a bit clearer, follow the guides for livery coats.
+* There are a range of options for practical footwear - from bespoke re-enactment shoes to simple desert boots - any soft leather or suede with simple ties, laces or side buckles [[Will|will]] look good.
 * Worried about all that itchy wool and linen? Shirts and shifts are your friends, both are simple, loose and easily available in cotton and make a good part of the Marchers look. And whilst re-enactment markets are very useful for Marcher supplies, we're not looking for historical accuracy here - there's no expectation for you to be in itchy underwear!
-* For those playing a rich Marcher, it could be easy to make choices that make the costume seem very similar to neighbouring Dawn - by sticking to plain fabrics (wool, maybe velvet, but not silks or brocades) and choosing rich autumnal colours rather than bright summery ones confusion can be avoided
-* Marcher beaters who are likely to wear light leather armour can avoid being confused with Steinr and Navarr by staying away from furs and going for classic Marcher accessories. Bollock pouches are one example that are really simple to make and easily available to buy.
+* For those playing a rich Marcher, it could be easy to make choices that make the costume seem very similar to neighbouring [[Dawn]] - by sticking to plain fabrics (wool, maybe velvet, but not silks or brocades) and choosing rich autumnal colours rather than bright summery ones [[Confusion|confusion]] can be avoided
+* Marcher beaters who are likely to wear light leather armour can avoid being confused with [[Steinr]] and [[Navarr]] by staying away from furs and going for classic Marcher accessories. Bollock pouches are one example that are really simple to make and easily available to buy.
 * Want to indicate low status? Try adding an apron or leather trousers or swap a doublet for a sleeveless jerkin.
 * Want to show off high status? Try doing so very discreetly, with a rich lining or carefully chosen buttons rather than ostentatious trims and decoration.
 ## Making Guides and Examples
 ### Tunics
-The simplest item a Marcher can wear is the T-tunic, which is a common garment throughout the Empire. In the Marches it will usually be undecorated, long sleeved and belted, and will commonly be worn by the lower classes, with hose or trousers and maybe a simple jerkin - usually made from linen or wool.
+The simplest item a Marcher can wear is the T-tunic, which is a common garment throughout [[The Empire|the Empire]]. In the Marches it will usually be undecorated, long sleeved and belted, and will commonly be worn by the lower classes, with hose or trousers and maybe a simple jerkin - usually made from linen or wool.
 *[http://www.virtue.to/articles/tunic_worksheet.html T-Tunic instructions]
 *[http://www.angelfire.com/ia2/barony/newmembersguide/sewingtipstxt.html T-tunic instructions]
 ### [[Cotehardie]]
@@ -44,7 +44,7 @@ Shirts can be worn on their own as an alternative to a tunic, perhaps with a lea
 ### Legwear
 Marcher leg wear is practical and slim fitting.  Close fitting trousers are practical and easy to come by or make.
 *[http://www.vikingsonline.org.uk/resources/authenticity/basickit/basickit5.html Basic trousers]
-Hose is also easier to make and wear than you might think and can be very practical for both day to day wear and fighting:    
+Hose is also easier to make and wear than you might think and can be very practical for both [[Day|day]] to day wear and fighting:    
 Woollen hose come as split hose, which are two separate legs with or without integral feet, or joined hose which are one piece with a flap at the groin. Split hose should be worn with long braies, which are a mid thigh length, baggy boxer short style garment. Joined hose, and some split hose will tie or 'point' to either a doublet, or to a 'pourpoint' (literally meaning 'for pointing'), which is a waistcoat style top worn in much the same way as modern braces are! Split hose can also be held up by a belt, if they have loops at the tops of the legs.
 Both braies and  split hose are very easy to make from scratch, although joined hose are fairly complex to get the fit right, which is the vital component to stopping them splitting! The other important factor for making hose is to make them stretchy. This can be done by using boiled wool, which is naturally stretchy, or '[http://en.wikipedia.org/wiki/Bias_(textile) cutting on the bias]' to use fabric's natural stretchy-ness.
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH003.html Joined hose]
@@ -52,14 +52,14 @@ Both braies and  split hose are very easy to make from scratch, although joined 
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH004.html Split hose]
 ### Braies
 Braies are a type of trousers used as undergarments. They are a baggy boxer short style garment, generally hanging to the knees or mid-calf, resembling what are today called shorts.
-Split [[hose]] should be worn with long braies.
+Split hose should be worn with long braies.
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH024.html Reconstructing History 024]
 *[http://www.larp.com/midgard/braies.htm  Midgard Basic Clothing Standards: Braies and Trousers]
 ### Pourpoints
 *[http://www.bucks-retinue.org.uk/content/view/69/82/ Pourpoint instructions]
 ### Dresses
 Women's wear from the historical period offers the option of more fitted styling and longer lengths in a choice of simple dresses made in heavy flowing fabrics and worn over a lighter shift.
-The [[Kirtle|kirtle]] is the basic pull on, t-shaped gown which was worn throughout northern Europe from the dark ages onwards. [http://images.google.com/images?q=medieval+[[Kirtle|kirtle]] kirtles] Later kirtles became more fitted and either button or lace up the front. These are often called cotehardies  These dresses can also lace up the side, or in the back(showing status as help is required!) and can be as tight or loose as desired.[http://images.google.com/images?q=[[Cotehardie|cotehardie]] cotehardie] They're usually worn over a lightweight underdress called a shift which can be made by simply adding some panels to a t-tunic to allow for movement. All three of these dresses are straightforward to make either from patterns or from pattern diagrams and are easy to buy from both reenactment and LARP suppliers. Generally these dresses are made from wool, but heavier weights of linen or cotton are also suitable. 
+The [[Kirtle|kirtle]] is the basic pull on, t-shaped gown which was worn throughout northern Europe from the dark ages onwards. [http://images.google.com/images?q=medieval+[[Kirtle|kirtle]] kirtles] Later kirtles became more fitted and either button or lace up the front. These are often called cotehardies  These dresses can also lace up the side, or in the back(showing status as help is required!) and can be as tight or loose as desired.[http://images.google.com/images?q=cotehardie cotehardie] They're usually worn over a lightweight underdress called a shift which can be made by simply adding some panels to a t-tunic to allow for movement. All three of these dresses are straightforward to make either from patterns or from pattern diagrams and are easy to buy from both reenactment and LARP suppliers. Generally these dresses are made from wool, but heavier weights of linen or cotton are also suitable. 
 These dresses can be worn with the skirt tucked into the belt at the front to display the shift underneath, or show off a fancy lining. 
 Some sources of information and patterns are given below.
 ### Kirtles
@@ -69,7 +69,7 @@ Some sources of information and patterns are given below.
 *[http://www.classhistory.co.uk/Herts%20Fabrics/store/index.php?route=product/product&path=48_49&product_id=344 Authentic Patterns Late Medieval Kirtle]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH002.html Reconstructing History pattern RH002]
 *[http://sallypointer.com/costume-textile-pages/make-a-simple-medieval-dress Basic pattern instructions]
-*[http://medievalweddingdresses.ideasforweddings.net/making-medieval-wedding-dresses/basic-[[Kirtle|kirtle]]-gown-pattern/ Basic pattern instructions]
+*[http://medievalweddingdresses.ideasforweddings.net/making-medieval-wedding-dresses/basic-kirtle-gown-pattern/ Basic pattern instructions]
 *[http://www.neheleniapatterns.com/english/rh143.html Nehelenia Kirtle pattern]
 *McCalls Pattern 4490
 *McCalls Pattern 4491
@@ -85,8 +85,8 @@ Some sources of information and patterns are given below.
 ### Headwear
 Most Marchers will wear some sort of headwear. [http://images.google.com/images?q=medieval+hood Hoods], [http://images.google.com/images?q=medieval+[[Coif|coif]] coifs], caps and hats all add to the Marcher look.
 ### Coifs
-These can be made from linen, for every day wear, and from leather or padded linen or wool for combat. Coifs can be simple white linen, or embroidered and coloured for a fancier look.
-*[http://janes-wardrobe.deviantart.com/art/simple-medieval-[[Coif|coif]]-81783474 [[Coif]] pattern]
+These can be made from linen, for every day wear, and from leather or padded linen or wool for [[Combat|combat]]. Coifs can be simple white linen, or embroidered and coloured for a fancier look.
+*[http://janes-wardrobe.deviantart.com/art/simple-medieval-[[Coif|coif]]-81783474 Coif pattern]
 *[http://www.virtue.to/articles/coif.html 3 different styles of coif pattern]
 *[http://matildalazouche.livejournal.com/3296.html Shows how to alter the above pattern to create a nice cap for women]
 ### Hoods
@@ -97,7 +97,7 @@ Best made out of wool, or leather for beaters in particular. Another very variab
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH008.html Reconstructing History 008 - Multiple head wear items]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH009.html Reconstructing History 009 - Multiple women's head wear items]
 ### Hats and caps
-There are lots of hats that would look great in the Marches, the key kinds are a simple skullcap, a square cap, an acorn cap and the bag or sack hat. 
+There are lots of hats that would look great in the Marches, [[The Key|the key]] kinds are a simple skullcap, a square cap, an acorn cap and the bag or sack hat. 
 *[http://www.cs.vassar.edu/~capriest/manshat.html Skullcap pattern]
 *[http://www.google.co.uk/imgres?um=1&hl=en&biw=1454&bih=650&tbm=isch&tbnid=lQy41c4wrbNPWM:&imgrefurl=http://www.strangelove.net/~kieser/Russia/easybreezy.html&docid=cdRJn3nCT3sP8M&imgurl=http://www.strangelove.net/~kieser/Russia/Garb/patternfurhat.bmp&w=340&h=325&ei=aQYQUMaNM-eS0QWK1ICYBg&zoom=1&iact=hc&vpx=896&vpy=107&dur=319&hovh=219&hovw=230&tx=108&ty=98&sig=105106003821894614879&page=1&tbnh=141&tbnw=152&start=0&ndsp=24&ved=1t:429,r:13,s:0,i:110 Skullcap pattern]
 *[http://sevenstarwheel.files.wordpress.com/2010/08/cap-pattern1.jpg Skullcap pattern]
@@ -112,11 +112,11 @@ For those who'd like to make their own shoes:
 Otherwise desert boots, and other soft leather and suede boots can work well, as can re-enactment specialised supplies. Boots for the rich can rise far higher than the ankle - even over the knee in some cases.
 ### Armour
 ### Jacks
-Poor Marchers may wear just a plain coloured padded jack or gambeson as their only armour. Wealthier yeomen have jacks in their household colours and mail or plate over the top if they have it. Richer people will add chain and maybe odd pieces of plate, like a gorget on top, while the rich will wear a full harness of plate. Beaters usually wear lighter armour, either just a padded or leather jack or else a leather tunic like the ones worn by the Rangers in Lord of the Rings.
+Poor Marchers may wear just a plain coloured padded jack or [[Gambeson|gambeson]] as their only armour. Wealthier yeomen have jacks in their household colours and mail or plate over the top if they have it. Richer people will add chain and maybe odd pieces of plate, like a gorget on top, while the rich will wear a full harness of plate. Beaters usually wear lighter armour, either just a padded or leather jack or else a leather tunic like the ones worn by the Rangers in Lord of the Rings.
 Padded Jacks are fairly simple, though time consuming, to make from cheap calico quilted to 'batting' used to stuff quilts. The very simplest way is to make a T-Tunic as detailed in the men's clothes section, and simply sew the batting to the calico panels in straight lines before sewing the pieces together. More historically accurate gambesons can be made by sewing channels into the jack and stuffing them with fabric. Instructions for various styles are below;
 *[http://whitemountainarmoury.com/pdfs/armingCoat.pdf Batting stuffed gambeson]
 *[http://www.aemma.org/misc/gambeson_instructions.pdf Simple batting stuffed gambeson] 
-*[http://costumegirl.wordpress.com/2010/04/01/the-making-of-a-medieval-gambeson/ Handmade linen gambeson]
+*[http://costumegirl.wordpress.com/2010/04/01/the-making-of-a-medieval-[[Gambeson|gambeson]]/ Handmade linen gambeson]
 *[http://wychwood.wikidot.com/kit-padding Stuffed jack]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/pp101.html Padded gambesons]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/pp102.html Various arming clothes - coifs, jacks and coat of plates]
@@ -129,19 +129,19 @@ A good option for many Marchers with a bit of money is a brigandine, a series of
 *[http://www.eskimo.com/~cwn/brig_craig1.html Instructions and patterns]
 *[http://www.historiclife.com/pdf/KASF2008/15thCenturyArcher.pdf 15th Century Archer]
 ### Livery
-Any Marcher who owns farmland is a member of a Household, albeit perhaps a Household of one, and any Marcher Household can declare a livery. Members of the Household wear the livery colours in some way. Stewards of a Household that alies to a more powerful Household usually retain their own livery, or combine it with the new Households’ colours in some way. Households often wear matching livery jackets - and here's a guide, although simple sashes or badges are also effective ways of showing affiliation. 
+Any Marcher who owns farmland is a member of a Household, albeit perhaps a Household of one, and any [[Marcher Household]] can declare a livery. Members of the Household wear the livery colours in some way. Stewards of a Household that alies to a more powerful Household usually retain their own livery, or combine it with the new Households’ colours in some way. Households often wear matching livery jackets - and here's a [[Guide|guide]], although simple sashes or badges are also effective ways of showing affiliation. 
 *[http://www.saint-sebastian.org.uk/k_livery.htm How to make a livery coat]
-### Children's costumes
-Children in the Marches can be dressed in scaled down versions of their parent's clothes. For toddlers and babies, traditional smocks, or simple t-tunics and drawstring trousers are simple and easy to pull-on garments, that can be made in linen or cotton for easy washing! These types of clothes also have plenty of flexibility in terms of size, meaning you'll get more than one year's use out of them. Small coifs, made as described above are great for keeping the sun off a baby's head and simple straw hats can also be used to stop children burning. Older children can either have their own costumes, or be given adult clothes which are then rolled up and belted to fit - the practical Marchers are unlikely to waste any clothing and hand me downs are a cheap (in and out of character!) way to clothe your children!
-General tips for costume for children: 
+### [[Children]]'s costumes
+Children in the Marches can be dressed in scaled down versions of their parent's clothes. For toddlers and babies, traditional smocks, or simple t-tunics and drawstring trousers are simple and easy to pull-on garments, that can be made in linen or cotton for easy washing! These types of clothes also have plenty of flexibility in terms of size, meaning you'll get more than one year's use out of them. Small coifs, made as described above are great for keeping the sun off a baby's head and simple straw hats can also be used to stop children [[Burning|burning]]. Older children can either have their own costumes, or be given adult clothes which are then rolled up and belted to fit - the practical Marchers are unlikely to waste any clothing and hand me downs are a cheap (in and out of character!) way to clothe your children!
+[[General]] tips for costume for children: 
 * Robes that stop at knee - mid-calf will be less of a trip hazard
 * Headgear that can be very simply retied is great
 * Avoiding things that can pull around the neck is wise (strings on cloaks/hats on cords/ tabards that don't secure under the arms
 * Wider neck holes, sleeves and armholes will help with getting costume on and off, and leave room for growth
 *[http://www.mathildegirlgenius.com/Documentation/KASF2006/InfantOutfit.pdf Information on clothes and swaddling for babies]
 *[http://www.neheleniapatterns.com/english/mae1215.html Patterns for Medieval children's clothes]
-*[http://www.fabric-dreams.co.uk/Children/Burda-Schnitt-Muster-historisches-Kleid-Gr-98-128::8480.html Childrens' dresses]
-*[http://www.fabric-dreams.co.uk/Carneval-Costumes/Burda-Schnitt-Muster-Karnevalskostuem-Musketier-104-140::8481.html Childrens' shirt, tunic and hood]
+*[http://www.fabric-dreams.co.uk/Children/Burda-Schnitt-[[Muster]]-historisches-Kleid-Gr-98-128::8480.html Childrens' dresses]
+*[http://www.fabric-dreams.co.uk/Carneval-Costumes/Burda-Schnitt-[[Muster]]-Karnevalskostuem-Musketier-104-140::8481.html Childrens' shirt, tunic and hood]
 *[http://mccallpattern.mccall.com/m5499-products-8715.php?page_id=915 'Mother and Daughter' dresses]
 *[http://www.revivalclothing.com/medievalchildrensclothing.aspx Revival Clothing's Premade items for children]
 *[http://www.gambeson.pl/medieval-on-line-shop/medieval-clothing-for-kids.html Gambeson's Premade items for children]
@@ -152,7 +152,7 @@ Take a look at some of the thinking that went into creating the Look and Feel of
 As with military clothes, dresses can reflect household livery. 'Parti-coloured' (or split coloured) dresses look very effective. 
 [http://www.laracorsets.com/15th_Cen_Womens_clothing.htm Lara Corset's] website gives an excellent overview of all aspects of women's wardrobes in the late 1400s, 
 [http://matildalazouche.livejournal.com/ Matilda la Zouche's] wardrobe follows the reconstruction of several historically accurate outfits for a broad medieval period.
-Some general pattern books are available which cover all types of women's wear: 
+Some [[General|general]] pattern books are available which cover all types of women's wear: 
 * [http://www.classhistory.co.uk/Herts%20Fabrics/store/index.php?route=product/product&path=47&product_id=240 Medieval Women's dress] 
 * [http://www.classhistory.co.uk/Herts%20Fabrics/store/index.php?route=product/product&path=47&product_id=227 High medieval women's dress]
 * [http://www.amazon.co.uk/The-Medieval-Tailors-Assistant-1200-1500/dp/0896762394/ref=sr_1_2?ie=UTF8&qid=1341860986&sr=8-2 The Medieval Tailor’s Assistant]
@@ -180,9 +180,9 @@ Some general pattern books are available which cover all types of men's wear:
 * Arms and Armour of the Medieval Knight, David Edge & John Miles Paddock, Saturn Books
 ### Costume sellers
 *[https://www.facebook.com/themidgardseamstress The Midgard Seamstress] Custom made UK LARP and Re-enactment costumes
-*[http://armstreet.com/ Arm Street] Medieval and Fantasy clothing from Russia (English language website)
+*[http://armstreet.com/ Arm Street] Medieval and Fantasy clothing from Russia (English [[Language|language]] website)
 *[http://www.cloakedanddaggered.com Cloak’d and Dagger’d] 
-*[https://www.facebook.com/groups/customcostumecompany/ Custom Costume Company] Bespoke designs for re-enactors and roleplayers
+*[https://www.facebook.com/[[Groups|groups]]/customcostumecompany/ Custom Costume Company] Bespoke designs for re-enactors and roleplayers
 *[http://historicenterprises.com Historic Enterprises]American based costume company. Trades at TORM
 *[http://medievaldresscompany.com/index.htm Medieval Dress Company] Clothing and leatherwork
 *[http://www.matuls.pl/index.php?IDP=1&Lng=en Matuls] Clothing, armour tents and camp accessories from Poland (English language website)
@@ -202,15 +202,15 @@ Some general pattern books are available which cover all types of men's wear:
 *http://www.whiteroseapparel.com/
 *http://www.whiterosearmoury.com/
 *[http://www.darkbladeuk.co.uk/EMPIRE-LARP/Marches/c-1-114-121/ Darkblade] studded leather armour
-* [https://www.facebook.com/TotallyLeathered Totally Leathered] [[Totally Leathered]] provides custom tooled leatherwork & bespoke armour.
-* [[Idiom Productions]] Costume and Props Workshop creates custom hand-tooled leather armour, clothing and LRP weapons
+* [https://www.facebook.com/TotallyLeathered Totally Leathered] Totally Leathered provides custom tooled leatherwork & bespoke armour.
+* Idiom Productions Costume and Props Workshop creates custom hand-tooled leather armour, clothing and LRP weapons
 ### Leather items including shoes
 *[http://www.philfraser.com/index.htm Phil Fraser]
 *[http://www.re-enactment-shoes.co.uk/ Re-enactment shoes ]
 *[http://www.np-historicalshoes.com/home.php?lang=en Historical Shoes]
 *[http://www.historische-schuhe.de/epages/61580448.sf/en_GB/?ViewObjectID=102641CP-Schule Historic Shoes] German company (English language website)
 *[http://ravenswoodleather.com/index.php?p=home Ravenswood Leather Items] America site. Non-historical leather items.
-### Fur and traditional materials
+### Fur and traditional [[Materials|materials]]
 *[http://www.houseofdeclifford.co.uk/ House of de Clifford] Ethically sourced furs of all kinds
 *[http://www.candles-for-all-ages.com/ Candles for All Ages] Tallow and Beeswax Candles 
 *Herts Fabrics

@@ -1,11 +1,11 @@
 ---
-revision_id: 87959
-revision_date: 2022-04-05T11:46:11Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Beggar_s lye
-aliases:
-- Beggar's_lye
+aliases: ["Beggar's_lye"]
+draft: False
+revision_date: 2022-04-05 11:46:11+00:00
+revision_id: 87959
 ---
+
 #Redirect [[Materials#Beggar.27s Lye]]

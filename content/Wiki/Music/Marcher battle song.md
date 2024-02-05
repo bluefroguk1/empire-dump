@@ -1,16 +1,14 @@
 ---
-revision_id: 45301
-revision_date: 2016-06-24T15:54:49Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: Marcher battle song
-aliases:
-- Marcher_battle_song
+aliases: ['Marcher_battle_song']
+draft: False
+revision_date: 2016-06-24 15:54:49+00:00
+revision_id: 45301
 ---
-Original tune [http://www.youtube.com/watch?v=nOumjsxelws Hughie Graeme] as sung by June Tabor. Lyrics by Daisy Abbott and Chris Edwards. Recording at [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/marcher-battle-song.mp3 Marcher Battle Song] or try [[media:Marcher Battle Song.mid]]
+
+Original tune [http://www.youtube.com/watch?v=nOumjsxelws Hughie Graeme] as [[Sung|sung]] by June Tabor. Lyrics by Daisy Abbott and Chris Edwards. Recording at [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/daisy/marcher-battle-song.mp3 Marcher Battle Song] or try media:[[Marcher battle song|Marcher Battle Song]].mid
 Sheet [[Music|music]] available [http://www.northshield.co.uk/KitsTunes/Marcher%20Battle%20Song.pdf here]
 Em
 Marcher lasses, Marcher lads,
@@ -27,17 +25,17 @@ Come along and join with me
 A __________________ Em
 Hear the horns the Beaters blow
 Em
-Our foes will fall before the scythe
+Our foes [[Will|will]] fall before the scythe
 Em______________ Bm___Em
 From earth we come, to earth we go
 Join me marching ever on
 With your billhook in your hand
 Feel the ground begin to shake
-When Marchers fight for Marcher land
+When Marchers [[Fight|fight]] for Marcher land
 ''Repeat''
 Chorus
 We are stout and we are strong
-Marcher folk will never yield
+Marcher folk [[Will|will]] never yield
 We shall never be afraid
 With Virtue as our shining shield
 ''Repeat''

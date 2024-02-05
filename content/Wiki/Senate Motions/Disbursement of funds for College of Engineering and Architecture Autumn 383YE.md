@@ -1,21 +1,20 @@
 ---
-revision_id: 85444
-revision_date: 2022-01-21T13:29:11Z
-Tags:
-- Senate-Motion
-- 383YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '383YE-Autumn']
 Title: Disbursement of funds for College of Engineering and Architecture Autumn 383YE
-aliases:
-- Disbursement_of_funds_for_College_of_Engineering_and_Architecture_Autumn_383YE
+aliases: ['Disbursement_of_funds_for_College_of_Engineering_and_Architecture_Autumn_383YE']
+draft: False
+revision_date: 2022-01-21 13:29:11+00:00
+revision_id: 85444
 ---
+
 __NOTOC__
-That there be a disbursal of funds to complete the construction of the Adamant College in Temeschwar.
-''Proposed by Tassato, seconded by Redoubt.''
+That there be a disbursal of funds to complete the construction of the [[Adamant]] College in [[Temeschwar]].
+''Proposed by [[Tassato]], seconded by [[Redoubt]].''
 ## Overview
-* This followed on from a previous [[Disburse funds for College of Engineering and Architecture|motion]] to disburse funds for the [[Construct College of Engineering and Architecture|College of Engineering and Architecture]]
+* This followed on from a previous motion to disburse funds for the College of Engineering and Architecture
 * Passed at 120 thrones
 ## Date
-* Autumn 383YE
+* [[Autumn]] 383YE
 ## Progress
-* 120 thrones disbursed to the Senator for Tassato
+* 120 thrones disbursed to the [[Senator]] for [[Tassato]]

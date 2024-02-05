@@ -1,21 +1,21 @@
 ---
-revision_id: 78497
-revision_date: 2019-12-10T23:03:34Z
-Tags:
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music']
 Title: When the Ancestors Call
-aliases:
-- When_the_Ancestors_Call
+aliases: ['When_the_Ancestors_Call']
+draft: False
+revision_date: 2019-12-10 23:03:34+00:00
+revision_id: 78497
 ---
-* Lyrics by Will Kitchen
-* [https://soundcloud.com/christopher-clarke-580791164/jotun When the Ancestors Call] on SoundCloud, sung by Chris Clarke and Asha Menai Oldale
-When the winter is at an end
-And it's time to make war again
+
+* Lyrics by [[Will]] Kitchen
+* [https://soundcloud.com/christopher-clarke-580791164/[[Jotun|jotun]] When the Ancestors Call] on SoundCloud, [[Sung|sung]] by Chris Clarke and Asha Menai Oldale
+When the [[Winter|winter]] is at an end
+And it's time to make [[War|war]] again
 When the blood is upon the moon
 Ancestors call and we sing this tune
-Jotun, Jotun!
-Marching to battle, by night or noon
+[[Jotun]], Jotun!
+Marching to battle, by [[Night|night]] or noon
 Jotun, Jotun
 Ancestors call and we sing this tune!
 When we march into hostile land

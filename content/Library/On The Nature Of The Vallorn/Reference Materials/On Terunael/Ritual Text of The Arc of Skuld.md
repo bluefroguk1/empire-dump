@@ -1,16 +1,16 @@
-**Below is the text of the ritual The Arc of Skuld, a large-scale Winter curse  provided by the Thule in discussions regarding the Vallorn. It provides into both the ritual itself and the people of Terunael, especially those of Emrys.**
+**Below is the text of the [[Ritual|ritual]] The Arc of Skuld, a large-scale [[Winter]] [[Curse|curse]]  provided by the [[Thule]] in discussions regarding [[The Vallorn|the Vallorn]]. It provides into both the ritual itself and the people of Terunael, especially those of Emrys.**
 
-**I have included faithful depictions of the imagery used in the document but have chosen a more legible type face than the spiked calligraphy of ritual itself. I will however also include a sample of the calligraphy after the body of text.**
+**I have included faithful depictions of the imagery used in the document but have chosen a more legible type face than the spiked calligraphy of ritual itself. I [[Will|will]] however also include a sample of the calligraphy after the body of text.**
 
 Here is shown the Red Eye
 Who is called also Ráfandimathur and Routhauger.
 Who turns things awry.
 Who is not what it is seen to be.
 Who is the harbinger of fate and chaos.
-Who is the guardian of Fate.
+Who is the [[Guardian|guardian]] of Fate.
 Who is the symbol of the unknown.
 Whose place cannot be marked; only the signs of their passing.
-The Red Eye alone goes where it will.
+The Red Eye alone goes where it [[Will|will]].
 It cannot be tamed.
 It cannot be gainsaid.
 It does not ask permission.
@@ -24,27 +24,27 @@ All things at their core are unknown.
 It is the outcast who rules.
 
 It is the star of ill omen
-Yet it is the star of opportunity.
-The hunter shuns the red star.
+Yet it is the star of [[Opportunity|opportunity]].
+The hunter shuns the [[Red star|red star]].
 It is inconstant; it is not to be followed.
-The red star will lead you to the abode of horrors.
+The [[Red star|red star]] will lead you to the abode of horrors.
 The red star will show you the path to doom.
 The red star rules over the place of wings.
 The red star fills the mammoths with rage.
 When the red star rises the rusalka sing.
 The warlock does not shun the red eye.
 The warlock does not embrace the red eye.
-Where it walks walks opportunity.
-It lead the Dragons to the mountain.
+Where it walks walks [[Opportunity|opportunity]].
+It lead the Dragons to [[The Mountain|the mountain]].
 It surmounts the great thrones.
-It watches over the people of the north.
+It watches over the [[People of the North|people of the north]].
 It is both gift star and plague star.
 
-Here is shown the Dragon Throne
+Here is shown the Dragon [[Throne]]
 Who is called also Vithvarandir
 Who endures all things.
 Who resists the change from without.
-Who is the warden of strength.
+Who is the [[Warden|warden]] of strength.
 Who survives the Long Winter.
 Who rises from the barren lands.
 Who stands against the blizzard.
@@ -53,12 +53,12 @@ The Dragon Throne does not wither.
 It gains strength as it endures.
 It is the wall against the foe.
 It is the shield of tradition.
-It is the will to continue against the Night.
-It is the fire that burns in the mountain.
+It is the will to continue against the [[Night]].
+It is the fire that burns in [[The Mountain|the mountain]].
 It stands guard over the ways of the people.
 The Dragon Throne is the power that preserves.
 The guardian looks to the Dragon Throne
-To grant strength to fight the vermin of the south.
+To grant strength to [[Fight|fight]] the [[Vermin|vermin]] of the south.
 The warlock looks to the Dragon Throne
 To grant surety of purpose.
 The Hunter looks to the Dragon Throne
@@ -74,47 +74,47 @@ The five Dragons endure.
 These words exist because the Dragon Hinodir has decreed they should exist.
 Let any who gaze upon them by stealth blinded by the light of the heavens.
 Let any who lays hand upon them without permission be struck with sickness.
-Let any who takes these words from their resting placebe torn apart by chains of green iron and their shrieking soul hurled into the Abyss to be unmade.
+Let any who takes these words from their resting placebe torn apart by chains of [[Green iron|green iron]] and their shrieking soul hurled into the Abyss to be unmade.
 
-### The First Coming of the Vermin of the South
-In days long ago, the people lived on the plains north of the mountains. They lived the in the forests south of the mountains. Yet the old scrolls say that a human people came to the forest south of the mountains. They came from far beyond the lands of our people, lands known only to She of the Bright Orb.
+### The First Coming of the [[Vermin]] of the South
+In days long ago, the people lived on the plains north of the mountains. They lived the in the forests south of the mountains. Yet the old scrolls say that a human people came to the [[Forest|forest]] south of the mountains. They came from far beyond the lands of our people, lands known only to She of the Bright Orb.
 
 They spread through the forests. Sometimes these human people met with the true people. Sometimes the two peoples contended for land, or wealth, or slaves. Sometimes they traded for land, or wealth, or slaves. They had their own strange ways, and honoured human spirits, but they were careful, and clever, and wise enough not to raise the ire of the Five Who Sit Upon The Mountain Thrones.
 
-And as the seasons turned, so there as battle and peace between the true people, and the people of the forest who dwelt in the shadows beneath the trees.
+And as the seasons turned, so there as battle and peace between the true people, and the people of the [[Forest|forest]] who dwelt in the shadows beneath the trees.
 
 In time, however, new humans came, who we call the Vermin of the South.
 
-They were not like the people of the forest. They were not wise and clever, but cruel and hard. They came in great numbers. They contended with all people the people of the forest and the true people. They came in time even so far as the foot of the mountains. They made war upon our people who lived in the forests as they did upon the humans.
+They were not like the people of the forest. They were not wise and clever, but cruel and hard. They came in great numbers. They contended with all people the people of the forest and the true people. They came in time even so far as the foot of the mountains. They made [[War|war]] upon our people who lived in the forests as they did upon the humans.
 
 In time, they came through the passes that lie to the east of the Traveler.
 
-They came at first single-spy. Then in greater numbers. In time an army of the vermin of the south came from across the mountains. Their warlocks brought strange magic. Their warriors brought spears and shields of surpassing strength. They brought bloodshed and war.
+They came at first single-spy. Then in greater numbers. In time an army of the vermin of the south came from across the mountains. Their warlocks brought strange [[Magic|magic]]. Their warriors brought spears and shields of surpassing strength. They brought bloodshed and [[War|war]].
 
-The people resisted them and for a time they were held back. But then the voice of the Five spoke from the mountain. The Five spoke and said "We shall wait, We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their weakness. We will allow the Winter itself to undo their design."
+The people resisted them and for a time they were held back. But then the voice of the Five spoke from the mountain. The Five spoke and said "We shall wait, We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their [[Weakness|weakness]]. We will allow the Winter itself to undo their design."
 
 The people did not question. They fell back before the advance of the intruders from the south. They came through Hahlerm - and pressed into Stathas and
 Kógur.
 
-The vermin of the south began to lay down their camps, Through the spring and the summer. Then autumn came, and the leaves fell, and the wind begin to blow. Then the winter came, and the first snows, and the intruders died as the frost stole into their hearts and froze their blood, They fell upon one another, desperate for food, and in their foolishness they cracked the door to the Walker of the Wastes and he fell upon them when the winds howled harshest.
+The vermin of the south began to lay down their camps, Through the [[Spring|spring]] and the [[Summer|summer]]. Then [[Autumn|autumn]] came, and the leaves fell, and the wind begin to blow. Then the winter came, and the first snows, and the intruders died as the frost stole into their hearts and froze their blood, They fell upon one another, desperate for food, and in their foolishness they cracked [[The Door|the door]] to the Walker of the Wastes and he fell upon them when the winds howled harshest.
 
-Then the first day of Spring came, as it always did in these days. The armies of the people closed their warding arc and spilled the blood of the upon the thawing soil.
+Then the first [[Day|day]] of Spring came, as it always did in these days. The armies of the people closed their warding arc and spilled the blood of the upon the thawing soil.
 
-Those who did not die fled back across the mountains and the people of forests met their weakness with chains and rope and spears.
+Those who did not die fled back across the mountains and the people of forests met their [[Weakness|weakness]] with chains and rope and spears.
 
 Those who did not die, who did not flee, remained as servants of the People.
 
 **The Tear of Fire**
 A generation passed; a blink of an eye for Those Who Sit Upon the Thrones. A heartbeat for the Five who are One. Then came the time of the Red Tear the child of Routhauger that brought destruction and power.
 
-The Will of the Dragons joined with the people to one end to guide the Tear-of-Fire and to reduce the damage that it would cause when it fell. It was their Will that the
+The Will of the Dragons joined with the people to one end to [[Guide|guide]] the Tear-of-Fire and to reduce the damage that it would cause when it fell. It was their Will that the
 tear fall in Luhguren and their Will made manifest guided the tear to fall where they chose.
 
-Yet as they turned their Will to this task, as every warlock worked to bind their will to the Will, the vermin of the south sensed that our focus was elsewhere. They sent scouts, who marked that we looked to the stars and not to the and mountains. the They waited, and they planned against us the Tear-of-Fire fell where the Five commanded and the face of Sküld was remade - but not beyond recognition.
+Yet as they turned their Will to this task, as every warlock worked to bind their will to the Will, the vermin of the south sensed that our focus was elsewhere. They sent scouts, who marked that we looked to the stars and not to the and mountains. the They waited, and they planned against us the Tear-of-Fire fell where the Five commanded and the face of Sküld was remade - but not beyond [[Recognition|recognition]].
 
 Trees still stood, the mammoths and the yaks still roamed the tundra. The people still lived although one sixth of them had fallen as the star fell. In time we would have rebuilt Sküld but we were not given our chance to do so, because the treachery of the vermin of the south.
 
-They took advantage of our momentary weakness, and surged forth to contest Sküld with us. They sent their hunters north to try and steal the bounty of the Crimson Tear, and their builders to Hahlerm, and Stashas, and Kógur to raise their burning sphere above the trees and make war upon us and even these many years later, our command of Sküld is incomplete.
+They took advantage of our momentary weakness, and surged forth to contest Sküld with us. They sent their hunters north to try and steal the bounty of the Crimson Tear, and their builders to Hahlerm, and Stashas, and Kógur to raise their [[Burning|burning]] sphere above the trees and make war upon us and even these many years later, our command of Sküld is incomplete.
 
 **The Second Coming of the People of the South**
 
@@ -122,19 +122,19 @@ The vermin of the far south came again, in the time immediately after the fall o
 
 They came cautiously; their hubris leavened with fear. They came again through Hahlerm to Sarthas and there they stopped.
 
-They threw up their own arc of spears and shields. They resisted the traps the people laid for them. And as Spring turned to Summer they began to build. A tower of enduring white granite and precious mithril, a symbol of their challenge to the Dragons.
+They threw up their own arc of spears and shields. They resisted the traps the people laid for them. And as Spring turned to Summer they began to build. A tower of enduring [[White granite|white granite]] and precious [[Mithril|mithril]], a symbol of their [[Challenge|challenge]] to the Dragons.
 
 And again the voice of the Five spoke. "We shall wait." they said. We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their weakness."
 
 So the people fell back again, and laid another arc of spears, and waited and watched.
 
-As Summer turned to Autumn, the vermin of the south finished their tower and raised atop it a great sphere of polished orichalcum.
+As Summer turned to Autumn, the vermin of the south finished their tower and raised atop it a great sphere of polished [[Orichalcum|orichalcum]].
 
 And then as the first sun of Winter rose in the east, the many lesser warlocks that had come with the armies of the distant south raised up their voices and their hands and they spilled their blood upon the cold earth and upon the stones of their tower and upon their golden sphere. They sang and chanted for five days and six nights. And on the morning of the sixth day as the first snow fell a great cry went up from the invaders and the golden sphere burst into light and a wave of heat, like the first sun of Spring, washed across Stathas.
 
 **The Second Sun**
 
-The vermin of south did not stop with a tower. Over the next year they built more towers both to live-in and to watch. They built tall walls of white granite.
+The vermin of south did not stop with a tower. Over the next year they built more towers both to live-in and to watch. They built tall walls of [[White granite|white granite]].
 
 They built a road south through the pass into the lands of the people of the forest.
 
@@ -152,19 +152,19 @@ As the city of the invaders grew, we learned that they had paid passage-toll to 
 
 But the voice of the Five again spoke saying "Patience, Wait. Watch. This too is as we Will it."
 
-At first the golden sun was weak but over time its strength increased. Where it touched the soil, it brought the life of Sprint, and the fire of Summer, and the gold of Autumn.
+At first the [[Golden Sun|golden sun]] was weak but over time its strength increased. Where it touched the soil, it brought the life of Sprint, and the fire of Summer, and the gold of Autumn.
 
 The invaders laid out their farms and their fields and the soil was rich.
 
 They raised golden grains such as the people had never seen.
 
-They planted trees that bore strange fruit in colours rarely seen in the north.
+They planted trees that bore [[Strange fruit|strange fruit]] in colours rarely seen in the north.
 
 They bred herds of sheep and cattle, and slaughtered them in their season, and feasted. 
 
 When Winter came the light of the sun diminished; the life it gave was lessened; yet even when the harsh winds blew from the North the snow fell lightly on Stathas, and on Hahlerm, and on Kógur. As the people wrapped themselves in cloaks of bear-fur, the vermin of the south walked abroad in cloaks of fine wool.
 
-And as the first sun of Spring rose, they renewed the light of their golden sun and renewed it's life-giving touch.
+And as the first sun of Spring rose, they renewed the light of their [[Golden Sun|golden sun]] and renewed it's life-giving touch.
 
 And the Five on their Thrones in the great mountain waited, and they watched.
 
@@ -179,19 +179,19 @@ They found the people waiting for them. They found the arc of spears that lay ac
 For generations the Five had waited and watched and seen the
 weakness of the invaders. They saw their hubris. They saw that they judged the people to be weak. To be savages. They saw that the vermin of the south mistook the caution of the Five, and of their warlocks, for lack of strength.
 
-They saw their pride had grown to eclipse their wisdom.
+They saw their [[Pride|pride]] had grown to eclipse their [[Wisdom|wisdom]].
 
 And the Five laid the stress of their regard upon the invaders.
 
 Tahenon the Gyre, great in his wrath, walked with the warriors of the people, and smote the vermin of the south with lightning and thunder and punishing rain.
 
-Night-Dark Fraynir, the one who waits, slipped through the shadows and wove curses of fear and despair against the children of the vermin.
+Night-Dark Fraynir, the one who waits, slipped through the shadows and wove curses of fear and despair against the [[Children|children]] of the vermin.
 
 Caridis Runebinder, speaker of the truth, wove the north winds into a shield and laid it between the people and the warriors sent by the vermin of the south,
 
 Hinodir of the Bright Orb, who sees all, looked into the hearts of their warlocks and discerned their plans.
 
-And Orobus the Chained, who brings and binds, brought allies from the realms and bound them to the aid of the people.
+And Orobus the Chained, who brings and binds, brought allies from the [[Realms|realms]] and bound them to the aid of the people.
 
 For all the vermin of the south had their warriors, and their lesser warlocks, they could not stand against the unbound wrath of the people and the Five who strode beside their in spirit and Will.
 
@@ -205,11 +205,11 @@ They fought, but they were driven back again and again.
 They stood upon their walls of white stone and looked out with terror upon the forest of our spears, and knew that they could not endure and that the punishment for their hubris was to be their absolute destruction.
 
 **The Sun Falls**
-In their hubris, in their knowledge that they were beaten, in their jealousy and spite, the people of the city of the golden sun raised up their magic. They could not harm the People, for the Five protected them. They could not strike against the Five, for the People protected them.
+In their hubris, in their knowledge that they were beaten, in their jealousy and spite, the people of the city of the golden sun raised up their [[Magic|magic]]. They could not harm the People, for the Five protected them. They could not strike against the Five, for the People protected them.
 
 So they turned their magic on themselves.
 
-Rather than allow the People to claim their prize, they raised up their hands to Rafandimathur and Routhauger, They called upon the Red Eye saying "Protect us! Raise a wall around out city! Are we not mighty? Have we not raised a second sun and brought eternal Spring to the lands of winter? Are we not more powerful than those who come against us, who have thrown a ring of spears around oue city? Tuen your eye upon us, oh walker in the sky, that we may show these orcs that our power is greater even tan that of their Dragons upon their mighty Thrones."
+Rather than allow the People to claim their prize, they raised up their hands to Rafandimathur and Routhauger, They called upon the Red Eye saying "Protect us! Raise a wall around out city! Are we not mighty? Have we not raised a second sun and brought [[Eternal|eternal]] Spring to the lands of winter? Are we not more powerful than those who come against us, who have thrown a ring of spears around oue city? Tuen your eye upon us, oh walker in the sky, that we may show these orcs that our power is greater even tan that of their Dragons upon their mighty Thrones."
 
 And the Red Eye looked down upon them.
 
@@ -222,7 +222,7 @@ From the ruins of their tower, and their sun, the Greenhunger came. It rose as g
 
 As the boiling water of the hot spring gathers and rises, sending a plume of fire against the sky, it came. Yet where the water of the hot springs falls back to the pool, ready to rise again, the tide of the Greenhunger did not ebb. It rose and rose and where it touched it tore down the city of the intruders.
 
-And the Five upon their Thrones looked upon the folly of the invaders. They saw what they had unleashed in their hubris and their jealousy. They saw that it was a hunger that could never be sated, a hunger even greater than that of He Who Walks Behind The Wind. They saw it rising, and growing, and in time consuming all the world.
+And the Five upon their Thrones looked upon the [[Folly|folly]] of the invaders. They saw what they had unleashed in their hubris and their jealousy. They saw that it was a hunger that could never be sated, a hunger even greater than that of He Who Walks Behind The Wind. They saw it rising, and growing, and in time consuming all the world.
 
 The warlocks among the vermin of the south raised up their hands, and spilled their blood, and spoke their words of power but their magic was weak. At best they could slow the Greenhunger for a time, time enough for their cowardly flight south.
 
@@ -234,7 +234,7 @@ Yet apart from the weak magic of the intruders, the land itself rebelled against
 
 And where the cold winds blew, the Greenhunger faltered and became sluggish, and its expansion slowed, and it fell to slumber. In this way was Kogur spared, although the thing coul not be rooted from Stathis or Hahlerm.
 
-The Five on their Thrones knew that the Winter would not last nor should for eternal Winter would be a curse as terrible as eternal Spring but again it it bought time for a true solution to be found.
+The Five on their Thrones knew that the Winter would not last nor should for [[Eternal|eternal]] Winter would be a [[Curse|curse]] as terrible as eternal Spring but again it it bought time for a true solution to be found.
 
 And in the year that followed, the Five turned all their thought toward devising a solution.
 
@@ -247,11 +247,11 @@ And Hinodir of the Bright Orb called the warlocks to her Throne and set upon the
 And so a great working was begun, to ward all the world against the
 Greenhunger.
 
-First, guided by Orobus the Chained and by the wisdom of Grandmother Winter, and the artifice of the Raiser-of-Walls an Hammer-Forged-Flame, an arc of power was laid upon the land. Not an arc of spears but an arc of mithril woven with the Will of the Chained, to hold and channel the magic of the ward.
+First, guided by Orobus the Chained and by the [[Wisdom|wisdom]] of Grandmother Winter, and the artifice of the Raiser-of-Walls an Hammer-Forged-Flame, an arc of power was laid upon the land. Not an arc of spears but an arc of [[Mithril|mithril]] woven with the Will of the Chained, to hold and channel the magic of the ward.
 
 Then as the last sun of Winter set and the cold Red Eye rose, the Five bound their Will as One with their People and drew down the power of the stars of Year's Ending.
 
-The Will of Caridis Runebinder carved the runes of protection into the land, and the Will of Tahenon the Gyre gave strength to the People that they might burn like beacons beneath the cold stars, and the Will of Hinodir of the Bight Orb brought light to the warlocks so that they might see one another and work as one, and the Will of Orobus the Chained bound all the People as one, and the Will of Night-Dark Fraynir looked outwards through the eyes of his watchers to ensure none came unlooked for to the place where all their Will was made manifest.
+The Will of Caridis Runebinder carved the [[Runes|runes]] of protection into the land, and the Will of Tahenon the Gyre gave strength to the People that they might burn like beacons beneath the cold stars, and the Will of Hinodir of the Bight Orb brought light to the warlocks so that they might see one another and work as one, and the Will of Orobus the Chained bound all the People as one, and the Will of Night-Dark Fraynir looked outwards through the eyes of his watchers to ensure none came unlooked for to the place where all their Will was made manifest.
 
 Strengthened by the profligate gifts of Grandfather Shadow, and by sacrifice given to the King-of-Ruins, they placed a great ban upon the Greenhunger and upon all the land of Sküld.
 
@@ -273,9 +273,9 @@ The people who dwell in Sküld, who watch the Greenhunger, and the mountains of 
 
 Yet still the people endure, through the will of their warlocks, who bring the blessings of the Five, the touch of Caridis Runebinder, to quicken the seed in its season and ensure there is sufficient food for all who need it.
 
-Yet it is not the Will of the Runebinder that every farm and ever herd beear the mark of that touch. so that the people may prosper.
+Yet it is not the Will of the Runebinder that every [[Farm|farm]] and ever herd beear the mark of that touch. so that the people may prosper.
 
-Those who wish to raise a family to the glory of the Five will travel the road toward the setting sun and dwell for a time in Nithoggir or Verthandi before returning with their children to rejoin their tribes and raise their offspring on the plains of Sküld.
+Those who wish to raise a [[Family|family]] to the [[Glory|glory]] of the Five will travel the road toward [[The setting|the setting]] sun and dwell for a time in Nithoggir or [[Verthandi]] before returning with their children to rejoin their tribes and raise their offspring on the plains of Sküld.
 
 We pay the price of our sacrifice willingly for one day we know that the Red King will speak again and say "The promise is fulfilled, and the oath answered, and I turn my eye elsewhere".
 
@@ -287,7 +287,7 @@ The Greenhunger of Sküld slumbers.
 
 Yet within a handspan of years since, a second Tear-of-Fire has fallen, a second Child-of-Ráfandimathur-and-Routhaugen has been born, and a second time have the Dragons reached out their hands and decreed that it fall upon Sküld.
 
-In time, one who as a far descendant of the vermin who wrought the Greenhunger was brought before the Throne of Chains, and spoke respectfully, and the one who sits upon the Throne inclined their head to him and listened to his petition. This one was named "Merel of the Far Forest" and while he was of the blood of the vermin, still the Five Who Sit Upon The Mountain Thrones heard his words.
+In time, one who as a far descendant of the vermin who wrought the Greenhunger was brought before [[The Throne|the Throne]] of Chains, and spoke respectfully, and the one who sits upon [[The Throne|the Throne]] inclined their head to him and listened to his petition. This one was named "Merel of the Far Forest" and while he was of the blood of the vermin, still the Five Who Sit Upon The Mountain Thrones heard his words.
 
 And when the Tear-of-Fire fell from the heaven, and people of the forest wove their magic at stood the Will the of the Five, and sent it to fall upon Sküld, we stood at the boundary of Stathas and looked upon the Greenhunger so that we might tell this "Merel of the Far Forest" what occurred.
 
@@ -310,7 +310,7 @@ Some of the shards of fire fell upon Stathas. Where they struck, they burned awa
 
 The Dragons teach us that when the Greenhunger is hurt it grows back more furious than before, which is why we are patient, and watch, and wait for it to show its weakness just as its progenitors did so many turnings of the sky ago.
 
-**Sample Thule Calligraphy**
+**Sample [[Thule]] Calligraphy**
 These words exist because the Dragon
 Hinodir has decreed they should exist.
 Let any who gaze upon them by stealth be

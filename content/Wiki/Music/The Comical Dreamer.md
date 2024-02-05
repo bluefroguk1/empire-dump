@@ -1,20 +1,18 @@
 ---
-revision_id: 44819
-revision_date: 2016-06-04T17:29:35Z
-Tags:
-- Urizen
-- Urizen-Music
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Urizen', 'Urizen-Music', 'Music']
 Title: The Comical Dreamer
-aliases:
-- The_Comical_Dreamer
+aliases: ['The_Comical_Dreamer']
+draft: False
+revision_date: 2016-06-04 17:29:35+00:00
+revision_id: 44819
 ---
+
 Trad.
-Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/images/e/ec/The_Comical_Dreamer.pdf PDF]
+Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/images/e/ec/[[The Comical Dreamer|The_Comical_Dreamer]].pdf PDF]
 [[The Comical Dreamer]]
 ''Traditional Urizeni
-Last night a dream came into my head
+Last [[Night|night]] a dream came into my head
 Thou wert a fine white loaf of bread.
 Then if may butter I could be
 How I would spread

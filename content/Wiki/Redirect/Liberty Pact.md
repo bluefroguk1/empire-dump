@@ -1,11 +1,11 @@
 ---
-revision_id: 95501
-revision_date: 2022-09-05T14:00:09Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Liberty Pact
-aliases:
-- Liberty_Pact
+aliases: ['Liberty_Pact']
+draft: False
+revision_date: 2022-09-05 14:00:09+00:00
+revision_id: 95501
 ---
+
 #REDIRECT[[Voice of Liberty#Liberty Pact]]

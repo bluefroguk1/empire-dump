@@ -1,20 +1,18 @@
 ---
-revision_id: 43863
-revision_date: 2016-04-27T09:41:48Z
-Tags:
-- Music
-- The-Brass-Coast
-- Brass-Coast-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'The-Brass-Coast', 'Brass-Coast-Music']
 Title: Fire Maringo
-aliases:
-- Fire_Maringo
+aliases: ['Fire_Maringo']
+draft: False
+revision_date: 2016-04-27 09:41:48+00:00
+revision_id: 43863
 ---
+
 Trad. Recording by Madrigirls [http://www.madrigirls.org.uk/audio/16firemaringo.mp3 here]
 Harmonies as taught by Daisy
-[[File:fire-maringo.jpg|800px|thumb|left]]
+800px|thumb|left
 Tune
-[[File:Fire Maringo.jpg|800px|thumb|left]]
+800px|thumb|left
 Lift him up and carry him along,
 ''Fire Marengo, fire away,''
 Send him down where he belongs,

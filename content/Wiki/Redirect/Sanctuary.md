@@ -1,9 +1,10 @@
 ---
-revision_id: 50303
-revision_date: 2017-03-30T10:07:51Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Sanctuary
+draft: False
+revision_date: 2017-03-30 10:07:51+00:00
+revision_id: 50303
 ---
+
 #REDIRECT [[Member of the Synod#Sanctuary]]

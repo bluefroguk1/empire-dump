@@ -1,18 +1,18 @@
 ---
-revision_id: 20882
-revision_date: 2013-06-23T11:05:24Z
-tags:
-  - Music
-draft: false
+IgnoreLinking: False
 Title: Sir Isobel
-aliases:
-  - Sir_Isobel
+aliases: ['Sir_Isobel']
+draft: False
+revision_date: 2013-06-23 11:05:24+00:00
+revision_id: 20882
+tags: ['Music']
 ---
-This is filked from the traditional song Sir Eglamore, as sung by Kate Rushby [http://www.youtube.com/watch?v=_HHLj8rKrZ8 here]. 
-A pdf of the lyrics and tune can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/5/5f/Sir_Isobel.pdf here]. 
+
+This is filked from the traditional song Sir Eglamore, as [[Sung|sung]] by Kate Rushby [http://www.youtube.com/watch?v=_HHLj8rKrZ8 here]. 
+A pdf of the lyrics and tune can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/5/5f/[[Sir Isobel|Sir_Isobel]].pdf here]. 
 [[Sir Isobel]] was a valiant knight
 She was fair as a lily 
-She took up her sword and she went to fight
+She took up her sword and she went to [[Fight|fight]]
 Fair and pale as a lily
 When she came to Applefell
 All armoured in her coat of mail
@@ -31,9 +31,9 @@ Fair and pale as a lily
 Her blade rebounded from its skin
 It seemed a battle none could win
 She was brave as a lion and she was as fair as a lily
-They fought until the day was done
+They fought until the [[Day|day]] was done
 She was fair as a lily 
-Blood spilled red as the setting sun
+Blood spilled red as [[The setting|the setting]] sun
 Fair and pale as a lily
 The ripper gaped its jaws and roared
 And down its throat she thrust her sword
@@ -47,7 +47,7 @@ And bade her there a sad farewell
 She was brave as a lion and she was as fair as a lily
 Though to the labyrinth she's [[Gone|gone]]
 She was fair as a lily 
-Her name and glory shall live on
+Her name and [[Glory|glory]] shall live on
 Fair and pale as a lily
 Across the land I'll spread her fame
 That all shall know our hero's name

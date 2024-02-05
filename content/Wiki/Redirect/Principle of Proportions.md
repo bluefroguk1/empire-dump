@@ -1,11 +1,11 @@
 ---
-revision_id: 97429
-revision_date: 2023-02-11T20:37:46Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Principle of Proportions
-aliases:
-- Principle_of_Proportions
+aliases: ['Principle_of_Proportions']
+draft: False
+revision_date: 2023-02-11 20:37:46+00:00
+revision_id: 97429
 ---
+
 #REDIRECT [[Imperial Conclave#Principle of Proportions]]

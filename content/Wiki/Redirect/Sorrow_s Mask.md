@@ -1,11 +1,11 @@
 ---
-revision_id: 100699
-revision_date: 2023-05-13T14:32:53Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Sorrow_s Mask
-aliases:
-- Sorrow's_Mask
+aliases: ["Sorrow's_Mask"]
+draft: False
+revision_date: 2023-05-13 14:32:53+00:00
+revision_id: 100699
 ---
+
 #REDIRECT [[Decoctions of Hoarfrost#Sorrow's Mask]]

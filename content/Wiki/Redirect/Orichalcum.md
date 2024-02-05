@@ -1,9 +1,10 @@
 ---
-revision_id: 87962
-revision_date: 2022-04-05T11:47:40Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Orichalcum
+draft: False
+revision_date: 2022-04-05 11:47:40+00:00
+revision_id: 87962
 ---
+
 #REDIRECT [[Materials#Orichalcum]]

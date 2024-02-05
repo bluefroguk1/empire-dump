@@ -1,11 +1,11 @@
 ---
-revision_id: 89299
-revision_date: 2022-05-02T12:10:53Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Wagon raider
-aliases:
-- Wagon_raider
+aliases: ['Wagon_raider']
+draft: False
+revision_date: 2022-05-02 12:10:53+00:00
+revision_id: 89299
 ---
+
 #REDIRECT [[Varushka military concerns#Wagon Raiders and Sell Swords]]

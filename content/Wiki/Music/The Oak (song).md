@@ -1,17 +1,15 @@
 ---
-revision_id: 20153
-revision_date: 2013-04-19T15:14:17Z
-Tags:
-- Music
-- Navarr-Music
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Navarr-Music', 'Navarr']
 Title: The Oak (song)
-aliases:
-- The_Oak_(song)
+aliases: ['The_Oak_(song)']
+draft: False
+revision_date: 2013-04-19 15:14:17+00:00
+revision_id: 20153
 ---
-Adaptation of The Oak by Frank Gorga - http://www.youtube.com/watch?v=Zb2aoZr6bEM
-Chords: Am G Em x4
+
+Adaptation of [[The Oak]] by Frank Gorga - http://www.youtube.com/watch?v=Zb2aoZr6bEM
+[[Chords]]: Am G Em x4
 Chorus
 The limbs, the veins, the head and the heart
 The earth, the roots, the leaves and the bark
@@ -19,12 +17,12 @@ The limbs, the veins, the head and the heart
 The earth, the roots, the leaves and the bark
 Chorus
 Verse 1
-For shelter and shade has the oak tree grown
+For shelter and shade has [[The Oak|the oak]] tree grown
 (The limbs, the veins, the head and the heart)
 The boat and cradle, the [[Hearth and Home|hearth and home]]
 (The earth, the roots, the leaves and the bark)
 Verse 2
-Tear the leaves and the crops will fail
+Tear the leaves and the crops [[Will|will]] fail
 (The limbs, the veins, the head and the heart)
 Cut the branch and your ships won’t sail
 (The earth, the roots, the leaves and the bark)

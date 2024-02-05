@@ -1,11 +1,11 @@
 ---
-revision_id: 9317
-revision_date: 2012-08-29T23:04:13Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Noble Houses
-aliases:
-- Noble_Houses
+aliases: ['Noble_Houses']
+draft: False
+revision_date: 2012-08-29 23:04:13+00:00
+revision_id: 9317
 ---
+
 #REDIRECT [[Noble House]]

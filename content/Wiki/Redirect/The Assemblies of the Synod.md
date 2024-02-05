@@ -1,11 +1,11 @@
 ---
-revision_id: 50299
-revision_date: 2017-03-30T10:04:50Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Assemblies of the Synod
-aliases:
-- The_Assemblies_of_the_Synod
+aliases: ['The_Assemblies_of_the_Synod']
+draft: False
+revision_date: 2017-03-30 10:04:50+00:00
+revision_id: 50299
 ---
+
 #REDIRECT [[Assembly]]

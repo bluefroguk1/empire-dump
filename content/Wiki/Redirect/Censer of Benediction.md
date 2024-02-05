@@ -1,11 +1,11 @@
 ---
-revision_id: 49483
-revision_date: 2017-03-17T13:19:56Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Censer of Benediction
-aliases:
-- Censer_of_Benediction
+aliases: ['Censer_of_Benediction']
+draft: False
+revision_date: 2017-03-17 13:19:56+00:00
+revision_id: 49483
 ---
+
 #REDIRECT [[Brazier of Benediction]]

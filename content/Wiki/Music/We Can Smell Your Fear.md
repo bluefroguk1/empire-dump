@@ -1,24 +1,24 @@
 ---
-revision_id: 72057
-revision_date: 2019-05-02T17:21:12Z
-Tags:
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music']
 Title: We Can Smell Your Fear
-aliases:
-- We_Can_Smell_Your_Fear
+aliases: ['We_Can_Smell_Your_Fear']
+draft: False
+revision_date: 2019-05-02 17:21:12+00:00
+revision_id: 72057
 ---
-* Lyrics by Will Kitchen
+
+* Lyrics by [[Will]] Kitchen
 * [https://soundcloud.com/christopher-clarke-580791164/hear-it-in-the-stilling-bird?fbclid=IwAR0FgnRbPRWZjLC_xo564Hd3B3LhKfjDCqOcr4UEOMLuoXSavLE60pm2Lc0| We can smell your fear] on Soundcloud, performed by Chris Clarke
 Hear it in the stilling bird song
 Taste it in the air
-Druj are here to take your homeland
+[[Druj]] are here to take your homeland
 [[We Can Smell Your Fear|WE CAN SMELL YOUR FEAR]]
 Latch your doors and hide your cattle
 Keep your windows barred
-Soon the Druj will be upon you 
+Soon the [[Druj]] [[Will|will]] be upon you 
 Soon life will be hard
-Hold your children close and whisper comforts in their ear
+Hold your [[Children|children]] close and whisper comforts in their ear
 Druj are here to make some orphans
 [[We Can Smell Your Fear|WE CAN SMELL YOUR FEAR]]
 Send them off
@@ -29,14 +29,14 @@ But they will see your face again
 Cry yourself to sleep
 Because you know that we are near
 Druj are here to go a-slaving
-[[We Can Smell Your Fear|WE CAN SMELL YOUR FEAR]]
-Cast away all hope and pride 
-Scream and cry and curse
+WE CAN SMELL YOUR FEAR
+Cast away all hope and [[Pride|pride]] 
+Scream and cry and [[Curse|curse]]
 You'll envy soon the dead my dear
 The living have it worse
 Keep a ready watch
 When it is getting dark and drear
-Druj are here by night a-raiding
+Druj are here by [[Night|night]] a-raiding
 WE CAN SMELL YOUR FEAR
 Jump at all the shadows
 When you watch for the attack
@@ -49,10 +49,10 @@ WE CAN SMELL YOUR FEAR
 We're the razor at your throat
 We are your fevered dreams
 We are all those come to life
-It's just the way it seems
+It's just [[The Way|the way]] it seems
 Look into our eyes
 And see the blood upon our spears
-Druj are here to gut the Empire
+Druj are here to gut [[The Empire|the Empire]]
 WE CAN SMELL YOUR FEAR
 Run away, forget your duties
 Leave your friends behind

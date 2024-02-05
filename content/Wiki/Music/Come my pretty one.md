@@ -1,19 +1,17 @@
 ---
-revision_id: 20863
-revision_date: 2013-06-23T10:34:13Z
-Tags:
-- Music
-- Dawn-Music
-- Dawn
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Dawn-Music', 'Dawn']
 Title: Come my pretty one
-aliases:
-- Come_my_pretty_one
+aliases: ['Come_my_pretty_one']
+draft: False
+revision_date: 2013-06-23 10:34:13+00:00
+revision_id: 20863
 ---
+
 Come, My Pretty One - Traditional Dawnish courting song
 Lyrics and [[Music|music]] by Claire Bowden
 https://soundcloud.com/herecosyouare-1/come-my-pretty-wav
-A pdf of the tune and lyrics can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/a/ae/Come_My_Pretty_One.pdf here].
+A pdf of the tune and lyrics can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/a/ae/[[Come my pretty one|Come_My_Pretty_One]].pdf here].
 Come, my pretty one, and dance with me,
 All in your red dress, trimmed with ribbons,
 There’s a whole wide world out there for you to see,
@@ -25,16 +23,16 @@ My pretty one.
 Come, my merry one, and sing with me,
 All by the firelight, gaily glowing,
 There’s a whole wide world out there for you to see,
-But the night is dark, and filled with terrors,*
+But the [[Night|night]] is dark, and filled with terrors,*
 So sing, sing, sing, sing,
 sing, sing, sing, sing,
 sing, sing, sing, sing,
 My merry one
-Come my bravest one and fight with me,
+Come my bravest one and [[Fight|fight]] with me,
 All in your armour, brightly gleaming,
 There’s a whole wide world out there for you to see,
 Your enemy’s near and great in number,
-So fight, fight, etc…
+So [[Fight|fight]], fight, etc…
 My bravest one.
 Come, my jolly one and drink with me,
 Where wine and beer are freely flowing,
@@ -55,7 +53,7 @@ But the night is dark, and all too lonely,
 So lie, lie, etc
 My darling one.
 Come, my fearless on and die with me,
-All for the glory and songs hereafter,
+All for the [[Glory|glory]] and songs hereafter,
 There’s a whole wide world out there for you to see,
 But our lives are short and ever changing,
 So die, die, etc

@@ -1,13 +1,13 @@
 ---
-revision_id: 26770
-revision_date: 2014-06-10T10:38:28Z
-Tags:
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music']
 Title: The Faculty Song
-aliases:
-- The_Faculty_Song
+aliases: ['The_Faculty_Song']
+draft: False
+revision_date: 2014-06-10 10:38:28+00:00
+revision_id: 26770
 ---
+
 [[Music]] by Jamie Wakefield (link to come)
 Lyrics by Jamie Wakefield and [[The Academy]] students.
 Chorus
@@ -23,7 +23,7 @@ We are taught by the faculty.
 With Mr Harrow, who teaches us field craft.
 Sasha is the secretary,
 Spiritual studies are run by Emme,
-And the Chancellor does magic with his hat.
+And the Chancellor does [[Magic|magic]] with his hat.
 Chorus
 Verse 2
 This is our Academy.

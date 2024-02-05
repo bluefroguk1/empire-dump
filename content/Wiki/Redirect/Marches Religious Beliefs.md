@@ -1,11 +1,11 @@
 ---
-revision_id: 9469
-revision_date: 2012-08-30T15:37:24Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Marches religious beliefs
-aliases:
-- Marches_religious_beliefs
+aliases: ['Marches_religious_beliefs']
+draft: False
+revision_date: 2012-08-30 15:37:24+00:00
+revision_id: 9469
 ---
+
 #REDIRECT [[The Marches religious beliefs]]

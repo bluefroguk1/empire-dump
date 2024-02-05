@@ -1,11 +1,11 @@
 ---
-revision_id: 100719
-revision_date: 2023-05-13T14:41:55Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Philtre of Heavenly Lore
-aliases:
-- The_Philtre_of_Heavenly_Lore
+aliases: ['The_Philtre_of_Heavenly_Lore']
+draft: False
+revision_date: 2023-05-13 14:41:55+00:00
+revision_id: 100719
 ---
+
 #REDIRECT [[Philtres of the High Peaks#The Philtre of Heavenly Lore]]

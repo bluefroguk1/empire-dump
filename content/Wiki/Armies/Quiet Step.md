@@ -1,20 +1,18 @@
 ---
-revision_id: 92831
-revision_date: 2022-07-10T19:20:43Z
-Tags:
-- Navarr
-- Imperial-Army
-- Military-Council
-draft: false
+IgnoreLinking: False
+Tags: ['Navarr', 'Imperial-Army', 'Military-Council']
 Title: Quiet Step
-aliases:
-- Quiet_Step
+aliases: ['Quiet_Step']
+draft: False
+revision_date: 2022-07-10 19:20:43+00:00
+revision_id: 92831
 ---
+
 Army Page
 ### Overview
-The army of the [[Quiet Step]] is loosely organised, allowing individual components a certain amount of leeway to operate as they see fit but benefiting from a central logistical core. They were once known for their experienced scouts capable of quickly gathering information about the enemy armies they encounter. They are equally adept at facing barbarian orcs, vallornspawn and [[Varushka|Varushkan]] monsters. Since the Winter Solstice 381Y, however, they refocused their purpose toward more aggressive tactics, employing [[Army qualities#Cunning|cunning]] strategies to confound and slaughter their foes. This shift in emphasis was effected with the assistance of the [[Eternal]] known as the [[Arhallogen|Spider King]] - heralds and creatures loyal to Arhallogen sometimes accompany or support the army.
-The second Navarr General leads the [[Quiet Step]] army, and is appointed (or re-appointed) at the Autumn equinox each year.
-### History
+The army of the [[Quiet Step]] is loosely organised, allowing individual components a certain amount of leeway to operate as they see fit but benefiting from a central logistical core. They were once known for their experienced scouts capable of quickly gathering information about the enemy armies they encounter. They are equally adept at facing [[Barbarian|barbarian]] orcs, vallornspawn and [[Varushkan Monsters|Varushkan monsters]]. Since the [[Winter]] Solstice 381Y, however, they refocused their purpose toward more aggressive tactics, employing cunning strategies to confound and slaughter their foes. This shift in emphasis was effected with the [[Assistance|assistance]] of the [[Eternal]] known as [[The Spider|the Spider]] King - heralds and creatures loyal to [[Arhallogen]] sometimes accompany or support the army.
+The second [[Navarr]] [[General]] leads the [[Quiet Step]] army, and is appointed (or re-appointed) at the [[Autumn]] equinox each year.
+### [[History]]
 TBC
 __TOC__
 TBC
@@ -25,5 +23,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Cunning
-Originally perhaps better known for their [[Army qualities#Scouts|scouts]], following the Winter Solstice 381Y, they refocused their purpose toward more aggressive tactics, employing [[Army qualities#Cunning|cunning]] strategies to confound and slaughter their foes. This shift in emphasis was effected with the assistance of the [[Eternal]] known as the [[Arhallogen|Spider King]] - heralds and creatures loyal to Arhallogen sometimes accompany or support the army.
-RecentElections|General_of_the_Quiet_Step|the title of [[General]] of the [[Quiet Step]]
+Originally perhaps better known for their scouts, following the Winter Solstice 381Y, they refocused their purpose toward more aggressive tactics, employing cunning strategies to confound and slaughter their foes. This shift in emphasis was effected with the [[Assistance|assistance]] of the [[Eternal]] known as the Spider King - heralds and creatures loyal to [[Arhallogen]] sometimes accompany or support the army.
+RecentElections|General_of_the_Quiet_Step|the title of [[General]] of the Quiet Step

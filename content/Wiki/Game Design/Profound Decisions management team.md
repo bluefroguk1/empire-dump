@@ -1,16 +1,16 @@
 ---
-revision_id: 84971
-revision_date: 2021-12-11T12:28:23Z
-tags:
-  - Game-Design
-draft: false
+IgnoreLinking: False
 Title: Profound Decisions management team
-aliases:
-  - Profound_Decisions_management_team
+aliases: ['Profound_Decisions_management_team']
+draft: False
+revision_date: 2021-12-11 12:28:23+00:00
+revision_id: 84971
+tags: ['Game-Design']
 ---
+
 ## Overview
 Profound Decisions is a professional [[Live roleplaying|live roleplaying]] company dedicated to producing high quality [[Events|events]]. However the majority of crew that you encounter at an event are volunteers who have freely given up their time to make the event more enjoyable for everyone. Please respect their generosity and do not ask them to receive complaints. Please remember that this is their hobby too. We require our players to be civil towards all members of the volunteer crew at all times.
-If you do have a complaint or a concern then please go to GOD and ask to speak to the appropriate member of the [[Profound Decisions management team]]. If you aren't sure who to speak to, then please ask to speak to Matt Pennington. The management team are all employees of Profound Decisions whose job it is to deal with any serious problems that you have. If an issue is serious or distressing then we would urge you to bring it to our attention as early as possible. We will try to promptly resolve any problems that arise.
+If you do have a complaint or a concern then please go to GOD and ask to speak to the appropriate member of the [[Profound Decisions management team]]. If you aren't sure who to speak to, then please ask to speak to Matt Pennington. The management team are all employees of Profound Decisions whose job it is to deal with any serious problems that you have. If an issue is serious or distressing then we would urge you to bring it to our attention as early as possible. We [[Will|will]] try to promptly resolve any problems that arise.
 __NOTOC__
 ## Alison Pennington
 Alison is responsible for all issues to do with the site and security. If you have a problem with the toilets or showers or other site facilities then please ask to speak to Alison. If you have any concerns about the event security then you should bring them to Alison's attention. Alison is also the best person to speak to if you need help with practical matters, like broken tents, stuck cars or the like. We can't promise to help, but we always do what we can. You can also speak to Alison if you have a problem with a member of crew or another player and you prefer to speak to a woman. Alison is also one of the two safeguarding officers for the event.

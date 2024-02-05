@@ -1,23 +1,22 @@
 ---
-revision_id: 92570
-revision_date: 2022-07-04T13:30:30Z
-Tags:
-- Senate-Motion
-- 382YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Winter']
 Title: Legalise Asavean mercenary work
-aliases:
-- Legalise_Asavean_mercenary_work
+aliases: ['Legalise_Asavean_mercenary_work']
+draft: False
+revision_date: 2022-07-04 13:30:30+00:00
+revision_id: 92570
 ---
+
 __NOTOC__
-To make it legal for Imperial captains to send their military units to support or engage with either the Asavean state or the current uprising.''Proposed by Miaren, seconded by Sarvos.''
+To make it legal for Imperial captains to send their military units to support or engage with either the Asavean state or the current uprising.''Proposed by [[Miaren]], seconded by [[Sarvos]].''
 ## Overview
-* Relating to the legal situation regarding the [[The divide between|current turmoil]] in the [[Asavean Archipelago]].
+* Relating to the legal situation regarding the current turmoil in the [[Asavean Archipelago]].
 * This motion was judged to have Constitutional implications.
 * Passed
 ## Date
-* Winter 382YE
-## Campaign Outcome
-* It is legal to send [[Military unit|military units]] to either [[The divide between#Suppress Asavean Uprising|suppress]] or [[The divide between#Support Asavean Uprising|support]] the uprising in Asavea.
-* In the opinion of the chief magistrate, this means that citizens will not be prosecuted by Imperial magistrates for crimes they commit while undertaking mercenary work in Asavea, but nor will they receive any protection from the law in relation to the actions of others employed as mercenaries.
-* Anyone wishing to explore this law in more detail should speak to Chief Magistrate Karkovitch.
+* [[Winter]] 382YE
+## [[Campaign outcome|Campaign Outcome]]
+* It is legal to send military units to either suppress or support the uprising in [[Asavea]].
+* In the opinion of the chief magistrate, this means that citizens [[Will|will]] not be prosecuted by Imperial [[Magistrates|magistrates]] for crimes they commit while undertaking mercenary work in Asavea, but nor [[Will|will]] they receive any protection from [[The Law|the law]] in relation to the actions of others employed as mercenaries.
+* Anyone wishing to explore this [[Law|law]] in more detail should speak to Chief Magistrate Karkovitch.

@@ -1,11 +1,11 @@
 ---
-revision_id: 7563
-revision_date: 2012-08-25T07:11:19Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Navarri History
-aliases:
-- Navarri_History
+aliases: ['Navarri_History']
+draft: False
+revision_date: 2012-08-25 07:11:19+00:00
+revision_id: 7563
 ---
+
 #REDIRECT [[Navarr History]]

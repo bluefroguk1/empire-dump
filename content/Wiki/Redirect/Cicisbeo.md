@@ -1,9 +1,10 @@
 ---
-revision_id: 88334
-revision_date: 2022-04-09T22:43:14Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Cicisbeo
+draft: False
+revision_date: 2022-04-09 22:43:14+00:00
+revision_id: 88334
 ---
+
 #REDIRECT [[The League culture and customs#Relationships]]

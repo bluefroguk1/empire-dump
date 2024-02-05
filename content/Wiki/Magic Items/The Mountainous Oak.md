@@ -1,16 +1,16 @@
 ---
-revision_id: 32431
-revision_date: 2015-01-22T19:36:44Z
-Tags:
-- Magic-Item
-draft: false
+IgnoreLinking: False
+Tags: ['Magic-Item']
 Title: The Mountainous Oak
-aliases:
-- The_Mountainous_Oak
+aliases: ['The_Mountainous_Oak']
+draft: False
+revision_date: 2015-01-22 19:36:44+00:00
+revision_id: 32431
 ---
+
 ## Description
-[[The Mountainous Oak]] is strongly tied to the resolute magic of the Summer realm.
+[[The Mountainous Oak]] is strongly tied to the resolute [[Magic|magic]] of the [[Summer]] [[Realm|realm]].
 ## Rules
 Paraphernalia
-* Effect: Twice per day the coven may perform a Summer ritual that does not count towards their daily limit of rituals performed.
-* Materials: Crafting [[The Mountainous Oak|the mountainous oak]] requires twelve measures of [[Materials#Orichalcum|orichalcum]], nine ingots of [[Materials#Green Iron|green iron]], seven ingots of [[Materials#Tempest Jade|tempest jade]], seven ingots of [[Materials#Ambergelt|ambergelt]], five measures of [[Materials#Dragonbone|dragonbone]] and two measures of [[Materials#Iridescent Gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* Effect: Twice per [[Day|day]] the [[Coven|coven]] may perform a [[Summer ritual]] that does not count towards their daily limit of [[Rituals|rituals]] performed.
+* [[Materials]]: Crafting [[The Mountainous Oak|the mountainous oak]] requires twelve measures of [[Orichalcum|orichalcum]], nine ingots of [[Green iron|green iron]], seven ingots of [[Tempest jade|tempest jade]], seven ingots of [[Ambergelt|ambergelt]], five measures of [[Dragonbone|dragonbone]] and two measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

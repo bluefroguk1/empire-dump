@@ -1,11 +1,11 @@
 ---
-revision_id: 69976
-revision_date: 2018-11-20T16:12:06Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Brass Coast History
-aliases:
-- Brass_Coast_History
+aliases: ['Brass_Coast_History']
+draft: False
+revision_date: 2018-11-20 16:12:06+00:00
+revision_id: 69976
 ---
+
 #REDIRECT [[The Brass Coast history]]

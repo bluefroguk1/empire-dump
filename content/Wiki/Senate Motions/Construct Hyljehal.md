@@ -1,28 +1,27 @@
 ---
-revision_id: 85516
-revision_date: 2022-01-21T21:10:14Z
-Tags:
-- Senate-Motion
-- 383YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '383YE-Spring']
 Title: Construct Hyljehal
-aliases:
-- Construct_Hyljehal
+aliases: ['Construct_Hyljehal']
+draft: False
+revision_date: 2022-01-21 21:10:14+00:00
+revision_id: 85516
 ---
+
 __NOTOC__
- [[Senate motion]] to build Hylje floating hall on Rikkivesi, creating the position of Mediator of the Hyljehal. To be appointed by Wintermark Senators with consideration that the Hylje ask for a Suaq Mediator in good standing. This is a highly effective mana ministry, requires weirwood, and would show our thanks to the Hylje for their assistance in the war with the Jotun.
-''Proposed by Hahnmark, seconded by Kallavesa''
+ [[Senate motion]] to build Hylje floating hall on Rikkivesi, creating the position of [[Mediator]] of the Hyljehal. To be appointed by [[Wintermark]] Senators with consideration that the Hylje ask for a [[Suaq]] Mediator in good standing. This is a highly effective mana [[Ministry|ministry]], requires [[Weirwood|weirwood]], and would show our thanks to the Hylje for their [[Assistance|assistance]] in the [[War|war]] with the [[Jotun]].
+''Proposed by [[Hahnmark]], seconded by [[Kallavesa]]''
 ## Overview
-* Relates to the [[Opportunity]] to construct a [[Honey and vinegar#Floating Stones|floating hall]] on the lake of Rikkivesi, [[Kallavesa#Skymark|Skymark]].
+* Relates to the [[Opportunity]] to construct a floating hall on the lake of Rikkivesi, Skymark.
 * Passed
 ## Date
-* Spring 383YE
-## Cost
-* The commission uses [[Honey and vinegar#Floating Stones|non-standard costs]].
-* 12 wains of weirwood
+* [[Spring]] 383YE
+## [[Cost]]
+* The [[Commission|commission]] uses non-standard costs.
+* 12 wains of [[Weirwood|weirwood]]
 * 24 crowns in labour costs
 * 3 months to construct
 ## Progress
 *  12 wains of weirwood, and 24 crowns provided by Hengest Dunn after the Spring Equinox 383YE.
-## Campaign Outcome
-* When complete, the [[Ministry]] will create an [[Imperial Title]], [[Mediator of Hyljehal]]
+## [[Campaign outcome|Campaign Outcome]]
+* When complete, the [[Ministry]] [[Will|will]] create an [[Imperial Title]], [[Mediator of Hyljehal]]

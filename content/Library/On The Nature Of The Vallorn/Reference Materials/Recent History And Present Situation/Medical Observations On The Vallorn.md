@@ -1,8 +1,8 @@
-By Dr Cadfael Eternal.
+By Dr Cadfael [[Eternal]].
 
 **First Principles.**
 
-As a surgeon or healer, you will deal with Vallorn related conditions from two sources, Gross injury from vallorn-infected creatures and the effects of the Miasma.
+As a surgeon or healer, you [[Will|will]] deal with [[Vallorn]] related conditions from two sources, Gross injury from [[Vallorn|vallorn]]-infected creatures and the effects of the Miasma.
 
 Note carefully that miasma is all pervasive and intrusive. Masks and other screens might slow or reduce infection or affliction but DO NOT prevent it.
 
@@ -10,17 +10,17 @@ Fortunately, barring massive infection, I have yet to see any secondary infectio
 
 **Gross Injury**
 
-Gross Injury may be treated in likewise manner to any physical injury but, I stress, any open wounds must be checked for spores, seeds, venom or other alien or unknown elements and dealt with promptly and appropriately. A wash of Bladeroot or similar cleanser has, in my experience, proved effective but do not assume it has worked without secondary inspection.
+Gross Injury may be treated in likewise manner to any physical injury but, I stress, any open wounds must be checked for spores, seeds, [[Venom|venom]] or other alien or unknown elements and dealt with promptly and appropriately. A wash of [[Bladeroot]] or similar cleanser has, in my experience, proved effective but do not assume it has worked without secondary inspection.
 
-Envenomation is all too common as both a primary and secondary factor in vallorn related attacks. This may and should be treated by either correct application of Imperial Roseweald or use of Ritual magic.
+Envenomation is all too common as both a primary and secondary factor in vallorn related attacks. This may and should be treated by either correct application of [[Imperial Roseweald]] or use of [[Ritual]] [[Magic|magic]].
 
-All too often fighters will unaware or indifferent to being envenomed. As a healer, it is your duty to treat them regardless of obstinance or ignorance.
+All too often fighters [[Will|will]] unaware or indifferent to being envenomed. As a healer, it is your duty to treat them regardless of obstinance or ignorance.
 
 **Miasmic Conditions**
 
 Personal observation and treatment thereof have shown, to date, three main manifestations of having been present in a miasmatic area.
 
-**Green Lung** is caused by inhalation of spores, this results in both internal growth of fungal-seeming tendrils and the rapid and life-threatening production of fluids and phlegm in the lungs and throat. It may be treated by a hot infusion of Bladeroot, where the inhalation of the vapours from the infusion are VITAL. Reports on the amount of infusion/Bladeroot required per patient are unclear and confusing. This surgeon recommends not stinting and using a full measure of Bladreoot per patient.
+**Green Lung** is caused by inhalation of spores, this results in both internal growth of fungal-seeming tendrils and the rapid and life-threatening production of fluids and phlegm in the lungs and throat. It may be treated by a hot infusion of [[Bladeroot]], where the inhalation of the vapours from the infusion are VITAL. Reports on the amount of infusion/Bladeroot required per patient are unclear and confusing. This surgeon recommends not stinting and using a full measure of Bladreoot per patient.
 
 **Green Vein** (my name) has been seen to result from both injury and miasmatic infection of open sores or wounds. In this unpleasant condition, areas of the vascular (blood circulation) system begin to turn green and swollen as plant threads grow within them. The only solution so far is to open the blood vessel and physically remove the threads and the spawning spores.
 

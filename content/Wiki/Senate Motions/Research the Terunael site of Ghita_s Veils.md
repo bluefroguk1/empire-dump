@@ -1,21 +1,20 @@
 ---
-revision_id: 85533
-revision_date: 2022-01-21T21:14:15Z
-Tags:
-- Senate-Motion
-- 383YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '383YE-Spring']
 Title: Research the Terunael site of Ghita_s Veils
-aliases:
-- Research_the_Terunael_site_of_Ghita's_Veils
+aliases: ["Research_the_Terunael_site_of_Ghita's_Veils"]
+draft: False
+revision_date: 2022-01-21 21:14:15+00:00
+revision_id: 85533
 ---
+
 __NOTOC__
-I, Harwyn Hollowwatcher, Proxy of Siân Eternal, commission the Civil Service to research the Terunael site known as Ghita’s Veil, in Segura, and similar locations such as Sobral’s Stand
-''Announced by Advisor on the Vallorn''
+I, Harwyn Hollowwatcher, [[Proxy]] of Siân [[Eternal]], [[Commission|commission]] the Civil Service to research the Terunael site known as Ghita’s Veil, in [[Segura]], and similar locations such as Sobral’s Stand
+''Announced by [[Advisor on the Vallorn]]''
 ## Overview
 * Commissions [[Historical research]]
 ## Date
-* Spring 383YE
+* [[Spring]] 383YE
 ## Outcome
 * A report was compiled and provided to the Advisor.
-* The bulk of the report is now [[Ghita's Veils|publicly available]].
+* The bulk of the report is now publicly available.

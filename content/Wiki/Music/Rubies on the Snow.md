@@ -1,32 +1,30 @@
 ---
-revision_id: 42464
-revision_date: 2016-03-14T14:08:43Z
-Tags:
-- Music
-- Varushka-Music
-- Varushka
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Varushka-Music', 'Varushka']
 Title: Rubies on the Snow
-aliases:
-- Rubies_on_the_Snow
+aliases: ['Rubies_on_the_Snow']
+draft: False
+revision_date: 2016-03-14 14:08:43+00:00
+revision_id: 42464
 ---
+
 To the tune of Hana Ava Baba Not. Lyrics JR/[[Music|music]] trad.
-RECORDING of this song : [[Media:rubies-on-the-snow.mp3]]
-This is thought to be a very old song, which has resurfaced recently. Some bards of Varushka and Navarr have said it appeared in their dreams, but nobody can recall when or where they learnt it...
-Thick fell the snows on Navarr
+RECORDING of this song : Media:rubies-on-the-snow.mp3
+This is thought to be a very old song, which has resurfaced recently. Some bards of [[Varushka]] and [[Navarr]] have said it appeared in their dreams, but nobody can recall when or where they learnt it...
+Thick fell the snows on [[Navarr]]
 Far we had come, following the battle drum
 And their blood fell like [[Rubies on the Snow|rubies on the snow]]
 Swift were the blades of the Vard
-Hard iron wrought; and like heroes bold we fought 
+Hard iron wrought; and like [[Heroes|heroes]] bold we fought 
 And the blood fell like [[Rubies on the Snow|rubies on the snow]]
 Chorus:
 ''Snow falls thick in the hollow
-''Covering the earth, and war's bloody stain
+''Covering the earth, and [[War|war]]'s bloody stain
 ''Schlachta came here to conquer
 ''Now here we ever must remain''
-Our foes heard an Ushkan Mage call
-All was not lost if they'd pay his bloody cost
-Where the blood fell like [[Rubies on the Snow|rubies on the snow]].
+Our foes heard an Ushkan [[Mage]] call
+All was not lost if they'd pay his bloody [[Cost|cost]]
+Where the blood fell like rubies on the snow.
 Deals struck in darkness and cold
 Gold he was paid, darkest promises were made
 And our blood fell like rubies on the snow

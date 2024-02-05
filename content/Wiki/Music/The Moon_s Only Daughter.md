@@ -1,18 +1,16 @@
 ---
-revision_id: 20865
-revision_date: 2013-06-23T10:38:22Z
-Tags:
-- Music
-- Dawn-Music
-- Dawn
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Dawn-Music', 'Dawn']
 Title: The Moon_s Only Daughter
-aliases:
-- The_Moon's_Only_Daughter
+aliases: ["The_Moon's_Only_Daughter"]
+draft: False
+revision_date: 2013-06-23 10:38:22+00:00
+revision_id: 20865
 ---
+
 Lyrics by Amelia Crowley, [[Music]] by Jude Reid.
 A pdf of the lyrics and tune can be found [http://www.profounddecisions.co.uk/mediawiki-public/images/7/78/The_Moon%27s_Only_Daughter.pdf here]. 
-William of Astolat walking by night
+William of [[Astolat]] walking by [[Night|night]]
 Was struck by a beacon of pearl grey light
 Fashioned of starfire, lovely and chill
 The moon's only daughter came over the hill
@@ -29,11 +27,11 @@ He followed through forests and fields thick with grain
 He followed her over the silvery moor
 Till he saw her go in at her mother's white door
 He waited without, for her dared not go in
-Dared not touch the door, for he feared 'twas a sin
+Dared not touch [[The Door|the door]], for he feared 'twas a sin
 That to touch the moon's whiteness would damn him for sure
-So he stood there, in silence, a step from the door
-William of Astolat walks by the hill
+So he stood there, in silence, a step from [[The Door|the door]]
+William of [[Astolat]] walks by the hill
 And as he goes dreaming true lovers fall still
-For dawn found him walking, all dew-drenched and dazed
-And his heart will keep aching for all of his days.
-[[File:William.jpg]]
+For [[Dawn|dawn]] found him walking, all dew-drenched and dazed
+And his heart [[Will|will]] keep aching for all of his days.
+File:William.jpg

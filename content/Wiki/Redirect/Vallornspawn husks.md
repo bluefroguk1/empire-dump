@@ -1,11 +1,11 @@
 ---
-revision_id: 30139
-revision_date: 2015-01-08T22:17:10Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Vallornspawn husks
-aliases:
-- Vallornspawn_husks
+aliases: ['Vallornspawn_husks']
+draft: False
+revision_date: 2015-01-08 22:17:10+00:00
+revision_id: 30139
 ---
+
 #REDIRECT [[Vallornspawn husk]]

@@ -1,25 +1,24 @@
 ---
-revision_id: 102552
-revision_date: 2023-06-21T19:41:12Z
-Tags:
-- Music
-- Dawn-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Dawn-Music']
 Title: Dawn music
-aliases:
-- Dawn_music
+aliases: ['Dawn_music']
+draft: False
+revision_date: 2023-06-21 19:41:12+00:00
+revision_id: 102552
 ---
-## The [[Music]] of Dawn
+
+## The [[Music]] of [[Dawn]]
 ### Style summary
 Arthurian high medieval, chivalric, courtly, 'high' culture, battle anthems, tales of love, [[Glory]], and tragedy. 
-Dawn draws on the more formal folk and classical traditions of Shakespearean/Elizabethan period, for example madrigals, as well as fantastical folk tales from the English or Irish tradition.
+[[Dawn]] draws on the more formal folk and classical traditions of Shakespearean/Elizabethan period, for example madrigals, as well as fantastical folk tales from the English or Irish tradition.
 ### Commonly known songs
-[https://docs.google.com/document/d/14LO1G-ncE_LoSdE1ra6vqeqn_Lw2WNho97_kELNIjCg/edit?usp=sharing Dawn Songbooks, Songs and Signposts] A player collated list of songs, recordings and songbooks that are available for other players to use. Suggestions are welcome. The songs listed on the wiki are to be considered the most commonly known songs in the nation. This document is to provide further resources and signposting to songbooks of interest to Dawnish performers and singers.
+[https://docs.google.com/document/d/14LO1G-ncE_LoSdE1ra6vqeqn_Lw2WNho97_kELNIjCg/edit?usp=sharing Dawn Songbooks, Songs and Signposts] A player collated list of songs, recordings and songbooks that are available for other players to use. Suggestions are welcome. The songs listed on [[The wiki|the wiki]] are to be considered the most commonly known songs in the nation. This document is to provide further resources and signposting to songbooks of interest to Dawnish performers and singers.
 * [[Sweet Kate]] - medium difficulty madrigal for 3 female voices 
 * [[Dawnish War Song]] - medieval song with drums and other instruments
-* [[Britta's Glory]] - Verse-chorus war song
+* Britta's [[Glory]] - Verse-chorus [[War|war]] song
 ### A musical tradition
-All sensible knights understand that for their glory to continue after death, you rely on the skill and conviction of minstrels and storytellers. What better way to earn glory and reputation than to let them see your deeds for themselves? Therefore it is not uncommon for questing knights to invite along the best minstrel they can find to accompany them on a quest - it goes without saying that the safety of the minstrel is paramount. The best singers and storytellers have a song or tale ready for the victory feast the same evening, and direct retellings of glorious battles and the valour of Dawnish knights in either victory or death are always enthusiastically received!
+All sensible knights understand that for their glory to continue after death, you rely on the skill and [[Conviction|conviction]] of minstrels and [[Storytellers|storytellers]]. What better way to earn glory and reputation than to let them see your deeds for themselves? Therefore it is not uncommon for questing knights to invite along the best minstrel they can find to accompany them on a quest - it goes without saying that the safety of the minstrel is paramount. The best singers and storytellers have a song or tale ready for the victory feast the same evening, and direct retellings of glorious [[Battles|battles]] and the valour of Dawnish knights in either victory or death are always enthusiastically received!
 ### One for the kids
 * [[Five Little Ploughboys]]
 * [[Chants for naughty children]]
@@ -39,15 +38,15 @@ All sensible knights understand that for their glory to continue after death, yo
 ### Songs
 *[[Come my pretty one]] - Dawnish song about life
 * [[Sweet Kate]] - medium difficulty madrigal for 3 female voices 
-* [[April is in my mistress' face]] - difficult madrigal set for SATB
+* April is in my mistress' face - difficult madrigal set for SATB
 * [[Annan Water]] - gloomy ballad about drowning, medium
 * [[Though Philomena Lost Her Love]] - medium difficulty madrigal, 3 female voices.
 * [[My Bonny Lass She Smileth]] - SATB madrigal
 * [[Weep O Mine Eyes]] - SATB madrigal, hardish
-*[[Tanner's Hill]] - fantastical ballad, easy
-*[[The Moon's Only Daughter]] - wistful ballad, easy
-*[[His Banner's Not Mine]] - Love song, easy
-*[[Weaver's Curse]] - cautionary tale, easy
+*Tanner's Hill - fantastical ballad, easy
+*The Moon's Only Daughter - wistful ballad, easy
+*His [[Banner]]'s Not [[Mine]] - Love song, easy
+*[[Weaver]]'s [[Curse]] - cautionary tale, easy
 *[[Spinning Song]] - tragic love song, easy
 *[[The Rose Garden]] - Tragic love song, easy
 *[[Sweet, Stay Awhile]] - Elizabethan love song, medium

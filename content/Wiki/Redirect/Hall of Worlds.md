@@ -1,11 +1,11 @@
 ---
-revision_id: 96723
-revision_date: 2023-01-03T14:02:32Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Hall of Worlds
-aliases:
-- Hall_of_Worlds
+aliases: ['Hall_of_Worlds']
+draft: False
+revision_date: 2023-01-03 14:02:32+00:00
+revision_id: 96723
 ---
+
 #REDIRECT [[Anvil#The Hall of Worlds]]

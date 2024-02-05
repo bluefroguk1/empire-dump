@@ -1,23 +1,22 @@
 ---
-revision_id: 85810
-revision_date: 2022-01-22T21:20:14Z
-Tags:
-- Senate-Motion
-- 382YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Spring']
 Title: Relinquish Brilliant Shore
-aliases:
-- Relinquish_Brilliant_Shore
+aliases: ['Relinquish_Brilliant_Shore']
+draft: False
+revision_date: 2022-01-22 21:20:14+00:00
+revision_id: 85810
 ---
+
 __NOTOC__
-To relinquish the Brilliant Shore, the National Bourse position located in Skarsind.
-''Proposed by Skarsind, seconded by Sermersuaq.''
+To relinquish the [[Brilliant Shore]], the National [[Bourse]] position located in [[Skarsind]].
+''Proposed by [[Skarsind]], seconded by [[Sermersuaq]].''
 ### Overview
-* Uses the Senate power of [[Powers of the Imperial Senate#Relinquishment|relinquishment]] to propose that the [[Brilliant Shore]] become available for [[Powers of the Imperial Senate#Allocation|allocation]].
-* Passed with a [[Senate motion#Constitutional Vote|constitutional majority]]; [[The Throne#Ratification|ratified]] by [[The Throne]].
+* Uses [[The Senate|the Senate]] power of relinquishment to propose that the [[Brilliant Shore]] become available for allocation.
+* Passed with a constitutional majority; ratified by [[The Throne]].
 ### Date
-* Spring 382YE
-### Cost
+* [[Spring]] 382YE
+### [[Cost]]
 * None
-### Campaign Outcome
+### [[Campaign outcome|Campaign Outcome]]
 * The Brilliant Shore ceases to be a National position, and is available for allocation.

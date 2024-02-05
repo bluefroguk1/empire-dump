@@ -1,20 +1,18 @@
 ---
-revision_id: 86802
-revision_date: 2022-02-03T19:13:23Z
-Tags:
-- Senate-Motion
-- Failed-Senate-Motion
-- 380YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', 'Failed-Senate-Motion', '380YE-Spring']
 Title: Disburse funds for summer college
-aliases:
-- Disburse_funds_for_summer_college
+aliases: ['Disburse_funds_for_summer_college']
+draft: False
+revision_date: 2022-02-03 19:13:23+00:00
+revision_id: 86802
 ---
+
 __NOTOC__
-To disburse funds for the completion of the Summer college, The Icy Crag of the Eternal Sun.
-Proposed by Miaren, seconded by Miekarova 
+To disburse funds for the completion of the [[Summer]] college, The Icy Crag of the [[Eternal]] Sun.
+Proposed by [[Miaren]], seconded by [[Miekarova]] 
 ### Overview
-* This motion follows on from a [[Construct College of Summer Magic|previous]] motion to commission the construction of the Summer College of Magic.
+* This motion follows on from a previous motion to [[Commission|commission]] the construction of the Summer [[College of Magic]].
 * Withdrawn
 ### Date
-* Spring 380YE
+* [[Spring]] 380YE

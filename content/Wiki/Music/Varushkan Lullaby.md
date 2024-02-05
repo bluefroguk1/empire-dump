@@ -1,32 +1,30 @@
 ---
-revision_id: 90209
-revision_date: 2022-05-14T00:57:14Z
-Tags:
-- Music
-- Varushkan-Music
-- Varushka
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Varushkan-Music', 'Varushka']
 Title: Varushkan Lullaby
-aliases:
-- Varushkan_Lullaby
+aliases: ['Varushkan_Lullaby']
+draft: False
+revision_date: 2022-05-14 00:57:14+00:00
+revision_id: 90209
 ---
-Hush [[My Child|my child]] for night draws near,
+
+Hush [[My Child|my child]] for [[Night|night]] draws near,
 Within the wards we’ve nought to fear,
 When the wolves howl, we shall all hear,
 So stay in my arms, and be safe my dear.
 When the night is dark as coal,
 With a heart like a witches soal,
 Don’t be afraid as life takes its toll,
-The day shall return, as mothers call.
+The [[Day|day]] shall return, as mothers call.
 Though now you rest in the snow alone,
-At dawn you’ll find a [[Hearth and Home|hearth and home]],
+At [[Dawn|dawn]] you’ll find a [[Hearth and Home|hearth and home]],
 So heed the words your mother said,
-Or cold Varushka will take your head.
-In the sky, the Mora will be,
+Or cold [[Varushka]] [[Will|will]] take your head.
+In the sky, the Mora [[Will|will]] be,
 Unless in human form you do see,
 Guard your manners, keep them like kin,
 And you shall bind them into their skin.
-Varushka is wild, but beautiful too,
+[[Varushka]] is wild, but beautiful too,
 Beware the monsters out to hunt you,
 But stay on the roads, and I swear it's true,
 You shall be safe in all that you do.

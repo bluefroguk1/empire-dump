@@ -1,32 +1,32 @@
 ---
-revision_id: 100778
-revision_date: 2023-05-15T20:41:37Z
-tags:
-  - Music
-draft: false
+IgnoreLinking: False
 Title: The Riggers Dirge
-aliases:
-  - The_Riggers_Dirge
+aliases: ['The_Riggers_Dirge']
+draft: False
+revision_date: 2023-05-15 20:41:37+00:00
+revision_id: 100778
+tags: ['Music']
 ---
+
 The tune is [https://www.youtube.com/watch?v=yNGwKYvECvk Wild River Child (S J Tucker)]. Words by Clare Ryder.
 I come from the land the Scorerro winds through
 Where the people won’t utter a thing that’s untrue
 Better keep this in mind when you sign with this crew,
-It will wash us all away.
+It [[Will|will]] wash us all away.
 The river it shines, with star metal gleam,
 But Scorerro is hungry for blood, so it seems.
 It’s not for the faint-hearted, know what I mean.
-It will wash us all away.
+It [[Will|will]] wash us all away.
 We all put the work in, we just take it as it comes
-When the hard rain falls and the west wind calls.
+When the hard rain falls and the west wind [[Calls|calls]].
 But you cannot stop the river when it decides
-Tonight's the night to rise.
+Tonight's the [[Night|night]] to rise.
 The riches there lie, to be won by our lives.
 Through the wind and the storm, we compete for the prize
 If you've got what it takes, bring your nets and keen eyes
 It will wash us all away.
 Netriggers sing, mourners decry,
-Mountebanks claim that they'll teach you to fly.
+[[Mountebanks]] claim that they'll teach you to fly.
 In the time that it takes just to form our reply
 It will wash us all away.
 Steal silver from the wild, wild river.

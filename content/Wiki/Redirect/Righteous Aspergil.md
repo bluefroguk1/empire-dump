@@ -1,11 +1,11 @@
 ---
-revision_id: 49489
-revision_date: 2017-03-17T13:38:53Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Righteous Aspergil
-aliases:
-- Righteous_Aspergil
+aliases: ['Righteous_Aspergil']
+draft: False
+revision_date: 2017-03-17 13:38:53+00:00
+revision_id: 49489
 ---
+
 #REDIRECT [[Skein Bowl]]

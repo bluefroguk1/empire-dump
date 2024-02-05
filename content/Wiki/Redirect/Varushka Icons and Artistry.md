@@ -1,11 +1,11 @@
 ---
-revision_id: 10259
-revision_date: 2012-09-01T19:39:13Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Varushka Icons and Artistry
-aliases:
-- Varushka_Icons_and_Artistry
+aliases: ['Varushka_Icons_and_Artistry']
+draft: False
+revision_date: 2012-09-01 19:39:13+00:00
+revision_id: 10259
 ---
+
 #REDIRECT [[Varushka Icons and Artistry]]

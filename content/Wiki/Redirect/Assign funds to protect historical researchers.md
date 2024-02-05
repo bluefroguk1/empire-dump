@@ -1,11 +1,11 @@
 ---
-revision_id: 37868
-revision_date: 2015-08-21T15:55:41Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Assign funds to protect historical researchers
-aliases:
-- Assign_funds_to_protect_historical_researchers
+aliases: ['Assign_funds_to_protect_historical_researchers']
+draft: False
+revision_date: 2015-08-21 15:55:41+00:00
+revision_id: 37868
 ---
+
 #REDIRECT [[Assign guards to historical researchers]]

@@ -1,13 +1,13 @@
 ---
-revision_id: 65098
-revision_date: 2018-06-28T22:11:58Z
-tags:
-  - Music
-draft: false
+IgnoreLinking: False
 Title: Close Every Door
-aliases:
-  - Close_Every_Door
+aliases: ['Close_Every_Door']
+draft: False
+revision_date: 2018-06-28 22:11:58+00:00
+revision_id: 65098
+tags: ['Music']
 ---
+
 By Brian Tollady, based on [[Close Every Door]] by Andrew Lloyd-Webber.
 Listen to Brian's rendition [https://youtu.be/qXtDzZ_9nfo here].
 Bind me in shackle, hold me in chain,
@@ -20,13 +20,13 @@ Indentured in service, forever a slave.
 ''Keep me in darkness, shut out the light.
 ''Do what you want with me,
 ''Hate me and laugh at me,
-''Darken my daytime, torture my night.''
+''Darken my daytime, torture my [[Night|night]].''
 Hands twisted, back broken, I'm all skin and bone;
 A life with no meaning; no freedom, no home;
 No mercy for my kin, we're whipped to behave,
 Down in these dark mines we work to the grave.
 ''Chorus''
-When will death take me? I pray for the end;
+When [[Will|will]] death take me? I pray for the end;
 My story and sorrow most can't comprehend;
 I do not matter: I'm only an orc,
 Ancestors have damned me, alone I must walk.

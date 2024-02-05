@@ -1,16 +1,15 @@
 ---
-revision_id: 106515
-revision_date: 2023-12-18T15:58:29Z
-tags:
-  - Crew
-  - Game-Design
-draft: false
+IgnoreLinking: False
 Title: Credits 2019
-aliases:
-  - Credits_2019
+aliases: ['Credits_2019']
+draft: False
+revision_date: 2023-12-18 15:58:29+00:00
+revision_id: 106515
+tags: ['Crew', 'Game-Design']
 ---
+
 ## Overview
-Putting on an Empire event requires a huge amount of work from a small army of people. This page lists everyone who was a member of Empire [[Crewing|crew]] at an event this year to help create [[The game|the game]] throughout 2019. Many people worked in multiple departments, but to make the list readable we've credited them as members of their primary team and department. Some people crewed one event, some people crewed all four, but Profound Decisions would be unable to operate its [[Events|events]] without the passion and dedication of the volunteers who work tirelessly to bring their game to life in whatever capacity.
+Putting on an Empire event requires a huge amount of work from a small army of people. This page lists everyone who was a member of Empire crew at an event this year to help create [[The game|the game]] throughout 2019. Many people worked in multiple departments, but to make the list readable we've credited them as members of their primary team and department. Some people crewed one event, some people crewed all four, but Profound Decisions would be unable to operate its [[Events|events]] without the passion and [[Dedication|dedication]] of the volunteers who work tirelessly to bring their game to life in whatever capacity.
 CrewTeamDepartment
 Neil AlexanderNPCPlot
 Ramadan AliSkirmish TeamPlot
@@ -93,7 +92,7 @@ Phil ClaytonInfrastructureSite
 Zachary ClaytonSkirmish TeamPlot
 Jon ColeNPCPlot
 Toby ColemanSkirmish TeamPlot
-Ruth CollierSite CrewSite
+[[Ruth]] CollierSite CrewSite
 Andrew ConnellBattle TeamPlot
 Sally ConnollySkirmish TeamPlot
 Charles CookeITAdmin

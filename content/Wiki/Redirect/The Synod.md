@@ -1,11 +1,11 @@
 ---
-revision_id: 8770
-revision_date: 2012-08-28T15:48:06Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Synod
-aliases:
-- The_Synod
+aliases: ['The_Synod']
+draft: False
+revision_date: 2012-08-28 15:48:06+00:00
+revision_id: 8770
 ---
+
 #REDIRECT [[Synod]]

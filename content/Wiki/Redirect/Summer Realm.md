@@ -1,11 +1,11 @@
 ---
-revision_id: 88874
-revision_date: 2022-04-22T00:05:59Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Summer Realm
-aliases:
-- Summer_Realm
+aliases: ['Summer_Realm']
+draft: False
+revision_date: 2022-04-22 00:05:59+00:00
+revision_id: 88874
 ---
+
 #REDIRECT [[Realm]]

@@ -1,22 +1,21 @@
 ---
-revision_id: 86012
-revision_date: 2022-01-28T12:05:50Z
-Tags:
-- Senate-Motion
-- Spring-379YE
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', 'Spring-379YE']
 Title: Disburse further funds to the Quartermaster General
-aliases:
-- Disburse_further_funds_to_the_Quartermaster_General
+aliases: ['Disburse_further_funds_to_the_Quartermaster_General']
+draft: False
+revision_date: 2022-01-28 12:05:50+00:00
+revision_id: 86012
 ---
-Disbursal of funds with the intention that the Quartermaster General can resupply the imperial armies.''Proposed by Skarsind, seconded by TBC''
+
+Disbursal of funds with the intention that the Quartermaster [[General]] can resupply the [[Imperial armies|imperial armies]].''Proposed by [[Skarsind]], seconded by TBC''
 ### Overview
-* A further request for funds in addition to those disbursed through [[Disburse Funds to the Quartermaster General III|an earlier motion]].
+* A further request for funds in addition to those disbursed through an earlier motion.
 * Passed at 200 Thrones.
 ## Date
-* Spring 379YE
-## Cost
+* [[Spring]] 379YE
+## [[Cost]]
 * 200 Thrones
 ## Progress
-* 200 Thrones disbursed to Senator Skarsind.
+* 200 Thrones disbursed to [[Senator]] [[Skarsind]].
 __NOTOC__

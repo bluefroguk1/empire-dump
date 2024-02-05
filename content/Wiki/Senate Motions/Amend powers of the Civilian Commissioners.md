@@ -1,22 +1,21 @@
 ---
-revision_id: 86805
-revision_date: 2022-02-03T19:13:43Z
-Tags:
-- Senate-Motion
-- 380YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '380YE-Spring']
 Title: Amend powers of the Civilian Commissioners
-aliases:
-- Amend_powers_of_the_Civilian_Commissioners
+aliases: ['Amend_powers_of_the_Civilian_Commissioners']
+draft: False
+revision_date: 2022-02-03 19:13:43+00:00
+revision_id: 86805
 ---
+
 __NOTOC__
-To amend the motion to create the titles of Civilian Commissioners, which was passed at the Winter Solstice 379YE, to limit the number of commissions each Civilian Commissioner may authorise to one per summit.
-Administrative Motion 
+To amend the motion to create the titles of Civilian Commissioners, which was passed at the [[Winter]] Solstice 379YE, to limit the number of commissions each [[Civilian Commissioner]] may authorise to one per summit.
+[[Administrative motion|Administrative Motion]] 
 ### Overview
-* This motion was part of a larger series of motions to amend the powers of the titles created by the Senate which have the power of commission, following on from the recent understanding of the limitations of the Imperial Surveyors. 
+* This motion was part of a larger series of motions to amend the powers of the titles created by [[The Senate|the Senate]] which have the power of [[Commission|commission]], following on from the recent understanding of the limitations of the Imperial Surveyors. 
 * Passed
 ### Date
-* Spring 380YE
-### Campaign Outcome
-* Each Civilian Commissioner may only authorise one commission each summit.
+* [[Spring]] 380YE
+### [[Campaign outcome|Campaign Outcome]]
+* Each [[Civilian Commissioner]] may only authorise one [[Commission|commission]] each summit.
 * The title was updated to reflect this change.

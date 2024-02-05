@@ -1,109 +1,108 @@
 ---
-revision_id: 105759
-revision_date: 2023-09-18T19:02:49Z
-tags:
-  - Elections
-  - Senate
-draft: false
+IgnoreLinking: False
 Title: Election schedule
-aliases:
-  - Election_schedule
+aliases: ['Election_schedule']
+draft: False
+revision_date: 2023-09-18 19:02:49+00:00
+revision_id: 105759
+tags: ['Elections', 'Senate']
 ---
+
 ## Overview
-Most significant [[Imperial Title|Imperial titles]] are [[Imperial Elections|reelected]] annually on a specific date, for instance an election for the title of [[Senator]] of [[Madruga]] is held every summit at the Winter Solstice. If the title dies, is revoked or steps down then the title becomes vacant; it is re-elected at the earliest practical opportunity but an election for the title still takes place at the normal date.
-Some Imperial titles appointed by the [[Imperial Senate]] serve for a year from the summit where they were appointed. Such a title becomes eligible for reappointment at anytime during the summit one year later. The incumbent remains in position until replaced or at the end of the event - whichever comes sooner.  If the Senate wish, they can choose to elect a title to serve for less than a year. This must be explicit in the wording of the Senate motion.  It is not possible to extend the term beyond a year, nor to make it shorter than a single season, nor to restrict the length served of a tenured position.  
+Most significant Imperial titles are reelected annually on a specific date, for instance an election for the title of [[Senator]] of [[Madruga]] is held every summit at the [[Winter]] Solstice. If the title dies, is revoked or steps down then the title becomes vacant; it is re-elected at the earliest practical [[Opportunity|opportunity]] but an election for the title still takes place at the normal date.
+Some Imperial titles appointed by the [[Imperial Senate]] serve for a year from the summit where they were appointed. Such a title becomes eligible for reappointment at anytime during the summit one year later. The incumbent remains in position until replaced or at the end of the event - whichever comes sooner.  If [[The Senate|the Senate]] wish, they can choose to elect a title to serve for less than a year. This must be explicit in the wording of the [[Senate motion]].  It is not possible to extend the term beyond a year, nor to make it shorter than a single season, nor to restrict the length served of a tenured position.  
 The majority of titles appointed by the [[Imperial Conclave]] can be reelected at any time through a [[Declaration]] of [[Candidacy]]. 
-Some Imperial titles have tenure. The title is held until the citizen dies or steps down. 
-The schedule below shows the earliest summit at which each Imperial title will become eligible for reelection. A title may become eligible at any point before this if the title holder dies, steps down or is revoked.
+Some Imperial titles have [[Tenure|tenure]]. The title is held until the citizen dies or steps down. 
+The schedule below shows the earliest summit at which each [[Imperial Title|Imperial title]] [[Will|will]] become eligible for reelection. A title may become eligible at any point before this if the title holder dies, steps down or is revoked.
 ## Winter
 ### National Election
-* [[Astolat|Senator for Astolat]]
-* [[Bregasland|Senator for Bregasland]]
-* [[Hercynia|Senator for Hercynia]]
-* [[Kallavesa|Senator for Kallavesa]]
-* [[Madruga|Senator for Madruga]]
-* [[Miekarova|Senator for Miekarova]]
-* [[Necropolis|Senator for Necropolis]]
-* [[Ossium|Senator for Ossium]]
-* [[Skarsind|Senator for Skarsind]]
-* [[Temeschwar|Senator for Temeschwar]]
-* [[Zenith|Senator for Zenith]]
-### Senate Appointment
+* [[Senator]] for [[Astolat]]
+* Senator for [[Bregasland]]
+* Senator for [[Hercynia]]
+* Senator for [[Kallavesa]]
+* Senator for [[Madruga]]
+* Senator for [[Miekarova]]
+* Senator for [[Necropolis]]
+* Senator for [[Ossium]]
+* Senator for [[Skarsind]]
+* Senator for [[Temeschwar]]
+* Senator for [[Zenith]]
+### [[Senate]] [[Appointment]]
 * [[Ambassador to Axos]]
 * [[Ambassador to Jarm]]
 * [[Ambassador to the Grendel]]
 * [[Ambassador to the Iron Confederacy]]
-* [[Burning Falcon|General of the Burning Falcon]]
-* [[Golden Axe|General of the Golden Axe]]
-* [[Green Shield|General of the Green Shield]]
-* [[Strong Reeds|General of the Strong Reeds]]
-* [[Towerjacks|General of the Towerjacks]]
-* [[Winter Sun|General of the Winter Sun]]
-* [[Apothecary of Orieb|Apothecary of Orieb]]
-* [[Cabalist of the Hollow Stone|Cabalist of the Hollow Stone]]
+* [[General]] of the [[Burning Falcon]]
+* [[General]] of the [[Golden Axe]]
+* General of the [[Green Shield]]
+* General of the [[Strong Reeds]]
+* General of the [[Towerjacks]]
+* General of the [[Winter Sun]]
+* [[Apothecary of Orieb]]
+* [[Cabalist of the Hollow Stone]]
 * [[Custodian of the Bloody Great Sausage]]
-* [[Grieftender of the Forgotten|Grieftender of the Forgotten]]
+* [[Grieftender of the Forgotten]]
 * [[Grimnir of Wittal Grove]]
-* [[Keeper of the Bonehives|Keeper of the Bone Hives]]
+* Keeper of the Bone Hives
 * [[Keeper of the Breadbasket]]
 * [[Master of Sarcombe Metal Market]]
 * [[Merchant-Boyar of the Stinking Market|Merchant-boyar of the Stinking Market]]
-* [[Tender of the Blood Orchard|Tender of the Blood Orchard]]
-### Throne Appointment
+* [[Tender of the Blood Orchard]]
+### [[Throne]] [[Appointment]]
 * [[Captain of the Throne Guard]]
-### Synod Judgement
+### [[Synod]] [[Judgement]]
 * [[Cardinal of Prosperity]]
 * [[Cardinal of the Way]]
-* [[Virtue Inquisitor|Inquisitor of Courage]]
-* [[Virtue Inquisitor|Inquisitor of Wisdom]]
+* [[Inquisitor]] of [[Courage]]
+* Inquisitor of [[Wisdom]]
 * [[Basilisk of the Bourse]]
 * [[High Exorcist]]
 * [[Hand of Guerra]]
 * [[Keeper of the Orchard]]
 * [[Liaison to the Temple in Nemoria]]
 * [[Speaker of the Highborn Assembly]]
-* [[Voice of Barbs|Voice of the House of Barbs]]
+* Voice of the House of Barbs
 * [[Champion of Loyalty]]
 * [[Champion of Pride]]
-### Cardinal Appointment
+### [[Cardinal]] Appointment
 * [[Conscience of the Senate]]
-* [[Gatekeeper|Gatekeeper of Prosperity]]
-* [[Curator of the Printer's Guild Museum]]
-### Conclave Order Vote
-* [[Celestial Arch|Celestial Arch]]
-* [[Rod and Shield|Rod and Shield]]
-### Bourse Auction
+* [[Gatekeeper of Prosperity]]
+* Curator of the Printer's [[Guild]] Museum
+### [[Conclave order|Conclave Order]] Vote
+* [[Celestial Arch]]
+* [[Rod and Shield]]
+### [[Bourse]] Auction
 * [[Canterspire Circle]]
 * [[Golden Trees of Seren]]
 * [[Great Forest at Reikos]]
 * [[Heartwood of the Great Vale]]
 * [[Hunt of Alderei the Fair]]
 * [[Weirwater Vales]]
-* [[Arbiter of the Rogue Declaration|Arbiter of the Rogue Declaration]]
-* [[Bearer of an Imperial Wayleave|First Imperial Wayleave]]
+* [[Arbiter of the Rogue Declaration]]
+* First Imperial Wayleave
 * [[Prime Factor of the Pallas Docks]]
-* [[Bearer of an Imperial Wayleave|Second Imperial Wayleave]]
+* Second Imperial Wayleave
 ### Bourse Vote
 * [[Thimble]]
 * [[Bailiff of the Grand Market]]
 * [[Broker of the Invisible Cord]]
 * [[Chair of the Wolf]]
-* [[Four Seasons' Boneweaver]]
+* Four Seasons' [[Boneweaver]]
 * [[Harbourmaster of the Semmerlak]]
 * [[Overseer of the Westward Road]]
-* [[Reeve of Boar's Market]]
+* Reeve of Boar's Market
 * [[Steward of Good Leaf Gardens]]
-* [[Warden of the Trees and Hills|Warden of the Trees and Hills]]
+* [[Warden of the Trees and Hills]]
 ### Other
-* [[Knight-protector|Knight-protector of Winter]]
-## Spring
+* [[Knight-protector]] of Winter
+## [[Spring]]
 ### National Election
-* [[Holberg|Senator for Holberg]]
-* [[Karsk|Senator for Karsk]]
-* [[Mournwold|Senator for Mournwold]]
-* [[Reikos|Senator for Reikos]]
-* [[Segura|Senator for Segura]]
-* [[The Barrens|Senator for the Barrens]]
+* Senator for [[Holberg]]
+* Senator for [[Karsk]]
+* Senator for [[Mournwold]]
+* Senator for [[Reikos]]
+* Senator for [[Segura]]
+* Senator for [[The Barrens|the Barrens]]
 ### Senate Appointment
 * [[Advisor on Orc Affairs]]
 * [[Ambassador to Faraden]]
@@ -112,128 +111,128 @@ The schedule below shows the earliest summit at which each Imperial title will b
 * [[Ambassador to the Sumaah Republic]]
 * [[Crystal Architect of the Spires]]
 * [[Imperial Spymaster]]
-* [[Navarr military concerns#Isaella.27s Dance|General of Isaella's Dance]]
-* [[Bloodcloaks|General of the Bloodcloaks]]
-* [[Gryphon%27s Pride|General of the Gryphons Pride]]
-* [[Iron Helms|General of the Iron Helms]]
-* [[Tusks|General of the Tusks]]
-* [[Valiant Pegasus|General of the Valiant Pegasus]]
-* [[Magic Butcher|Butcher of the Meat and Mana Market of Temeschwar]]
+* General of [[Isaella]]'s Dance
+* General of the [[Bloodcloaks]]
+* General of the Gryphons [[Pride]]
+* General of the [[Iron Helms]]
+* General of the [[Tusks]]
+* General of the [[Valiant Pegasus]]
+* Butcher of the Meat and Mana Market of [[Temeschwar]]
 * [[Custodian of the Kennels]]
 * [[Mayor of Caricomare]]
 * [[Steward of the Sarvos Mana Exchange]]
-### Synod Judgement
-* [[Lepidean Librarian|Lepidean Librarian]]
+### Synod [[Judgement]]
+* [[Lepidean Librarian]]
 * [[Cardinal of Ambition]]
 * [[Cardinal of Vigilance]]
-* [[Virtue Inquisitor|Inquisitor of Loyalty]]
-* [[Virtue Inquisitor|Inquisitor of Pride]]
+* Inquisitor of [[Loyalty]]
+* Inquisitor of [[Pride]]
 * [[Auditor of Senatorial Accountability]]
-* [[Guardian of Britta's Memorial]]
+* [[Guardian]] of Britta's Memorial
 * [[High Bard of the Empire]]
 * [[Voice of the Twin Roses]]
 * [[Champion of Prosperity]]
-### Cardinal Appointment
-* [[Gatekeeper|Gatekeeper of Ambition]]
-* [[Gatekeeper|Gatekeeper of Vigilance]]
+### [[Cardinal]] Appointment
+* [[Gatekeeper of Ambition]]
+* [[Gatekeeper of Vigilance]]
 * [[Imperial Chaplain Consular]]
-### Military Council Appointment
+### [[Military Council]] Appointment
 * [[Imperial Fleet Master]]
-### Conclave Order Vote
-* [[Golden Pyramid|Golden Pyramid]]
-* [[Sevenfold Path|Sevenfold Path]]
+### [[Conclave order|Conclave Order]] Vote
+* [[Golden Pyramid]]
+* [[Sevenfold Path]]
 ### Bourse Auction
 * [[Master of the Imperial Mint]]
 * [[Regario Dossier]]
-* [[Syrene's Wisdom]]
-* [[Arbiter of the Rogue Declaration|Arbiter of the Rogue Declaration]]
-* [[Bearer of an Imperial Wayleave|First Imperial Wayleave]]
+* Syrene's [[Wisdom]]
+* [[Arbiter]] of the Rogue [[Declaration]]
+* First Imperial Wayleave
 * [[Kruidenkenner Trademaster]]
-* [[Bearer of an Imperial Wayleave|Second Imperial Wayleave]]
+* Second Imperial Wayleave
 * [[Seer of the Spiral Sword]]
 ### Bourse Vote
 * [[Cerevado Nets]]
 * [[Gift of the Dwindling Star]]
-* [[Mediator of Wreck|Mediator of Wreck]]
+* [[Mediator of Wreck]]
 * [[Steel Fist]]
-* [[Tassatan Hills|Tassatan Hills]]
+* [[Tassatan Hills]]
 * [[Bonesetter of Torfast Trading Post]]
 * [[Bursar of the House of Spirits]]
 * [[Custodian of Ivarsgard Docks]]
-* [[Custodian of the Assayer's Guild]]
+* Custodian of the Assayer's [[Guild]]
 * [[Marracossa Sendito]]
 * [[Merchant Boyar of the Bittershore]]
 * [[Preceptor of the Skarsind College of Warcasting]]
-* [[Quaymaster of the Elosian Docks|Quaymaster of the Elosian Docks]]
+* [[Quaymaster of the Elosian Docks]]
 * [[Steward of the Mines of Gulhule]]
-* [[Talon of Kauppahall|Talon of Kauppahall]]
+* [[Talon of Kauppahall]]
 * [[Vizier of the Incarnadine Satchel]]
 ### Other
-* [[Knight-protector|Knight-protector of Spring]]
-## Summer
+* [[Knight-protector]] of Spring
+## [[Summer]]
 ### National Election
-* [[Bastion|Senator for Bastion]]
-* [[Karov|Senator for Karov]]
-* [[Miaren|Senator for Miaren]]
-* [[Mitwold|Senator for Mitwold]]
-* [[Redoubt|Senator for Redoubt]]
-* [[Sarvos|Senator for Sarvos]]
-* [[Sermersuaq|Senator for Sermersuaq]]
-* [[Spiral|Senator for Spiral]]
-* [[Weirwater|Senator for Weirwater]]
+* Senator for [[Bastion]]
+* Senator for [[Karov]]
+* Senator for [[Miaren]]
+* Senator for [[Mitwold]]
+* Senator for [[Redoubt]]
+* Senator for [[Sarvos]]
+* Senator for [[Sermersuaq]]
+* Senator for [[Spiral]]
+* Senator for [[Weirwater]]
 ### Senate Appointment
 * [[Imperial Consul]]
 * [[Ambassador to Asavea]]
 * [[Dean of the Academy]]
 * [[Imperial Advisor for the Feni]]
 * [[Minister of Historical Research]]
-* [[Black Thorns|General of the Black Thorns]]
-* [[Citadel Guard|General of the Citadel Guard]]
-* [[Drakes|General of the Drakes]]
-* [[Fist of the Mountains|General of the Fist of the Mountains]]
-* [[Golden Sun|General of the Golden Sun]]
-* [[Granite Pillar|General of the Granite Pillar]]
-* [[Northern Eagle|General of the Northern Eagle]]
-* [[Red Wind Corsairs|General of the Red Wind Corsairs]]
-* [[Summer Storm|General of the Summer Storm]]
+* General of the [[Black Thorns]]
+* General of the [[Citadel Guard]]
+* General of the [[Drakes]]
+* General of the [[Fist of the Mountains]]
+* General of the [[Golden Sun]]
+* General of the [[Granite Pillar]]
+* General of the [[Northern Eagle]]
+* General of the [[Red Wind Corsairs]]
+* General of the [[Summer Storm]]
 * [[Blackroot Broker]]
 * [[Churnspire Adjutor]]
 * [[Eastern Broker]]
-* [[Keeper of Aurelie's Garden]]
+* Keeper of Aurelie's Garden
 * [[Master of the Clearing House]]
 * [[Mediator of Hyljehal]]
 * [[Steward of the Tassato Mana Exchange]]
 * [[Woundbinder of the Mark]]
 ### Throne Appointment
-* [[Queen's Rose]]
+* Queen's Rose
 ### Synod Judgement
 * [[Cardinal of Courage]]
 * [[Cardinal of Wisdom]]
 * [[Imperial Inquisitor]]
-* [[Virtue Inquisitor|Inquisitor of Prosperity]]
-* [[Virtue Inquisitor|Inquisitor of The Way]]
-* [[Arbiter of the Four Winds|Arbiter of the Four Winds]]
-* [[Banner-bearer of Atkonaroq|Banner-bearer of Atkonaroq]]
-* [[Bishop of the Navigators|Bishop of the Navigators]]
+* Inquisitor of [[Prosperity]]
+* Inquisitor of [[The Way]]
+* [[Arbiter of the Four Winds]]
+* [[Banner-bearer of Atkonaroq]]
+* [[Bishop of the Navigators]]
 * [[Keeper of the Garden]]
-* [[Prelate of Adelmar's Shrine|Prelate of Adelmar's Shrine]]
+* Prelate of Adelmar's Shrine
 * [[Champion of Ambition]]
 * [[Champion of Vigilance]]
 ### Cardinal Appointment
-* [[Gatekeeper|Gatekeeper of Courage]]
-* [[Gatekeeper|Gatekeeper of Wisdom]]
-### Conclave Order Vote
-* [[Unfettered Mind|Unfettered Mind]]
+* [[Gatekeeper of Courage]]
+* [[Gatekeeper of Wisdom]]
+### [[Conclave]] Order Vote
+* [[Unfettered Mind]]
 ### Bourse Auction
 * [[Arratan Gamble]]
 * [[Brilliant Shore]]
 * [[Damatian Cliffs]]
 * [[Night Quarry]]
 * [[Sutton Stone Quarries]]
-* [[Arbiter of the Rogue Declaration|Arbiter of the Rogue Declaration]]
+* [[Arbiter of the Rogue Declaration]]
 * [[Custodian of the Concordium Dock]]
-* [[Bearer of an Imperial Wayleave|First Imperial Wayleave]]
-* [[Bearer of an Imperial Wayleave|Second Imperial Wayleave]]
+* First Imperial Wayleave
+* Second Imperial Wayleave
 ### Bourse Vote
 * [[Granites of Veltsgorsk]]
 * [[Vigilant Swan]]
@@ -241,96 +240,96 @@ The schedule below shows the earliest summit at which each Imperial title will b
 * [[Broker of Treji Wayhouse]]
 * [[Burgher of Ketsov]]
 * [[Cinderpath Custodian]]
-* [[Hakima of Salt and Sand|Hakima of Salt and Sand]]
+* [[Hakima of Salt and Sand]]
 * [[Kalpaheim Tradeholder]]
-* [[Keeper of the Tome|Keeper of the Tome]]
-* [[Master of Rings|Master of Rings]]
+* [[Keeper of the Tome]]
+* [[Master of Rings]]
 * [[Master of the Root and Stem]]
 * [[Mistress of the Glass Parador]]
 * [[Northbound Trademaster]]
 ### Other
-* [[Brock's Toll|Keeper of Brock's Toll]]
-* [[Knight-protector|Knight-protector of Summer]]
-## Autumn
+* Keeper of Brock's Toll
+* Knight-protector of Summer
+## [[Autumn]]
 ### National Election
-* [[Casinea|Senator for Casinea]]
-* [[Hahnmark|Senator for Hahnmark]]
-* [[Kahraman|Senator for Kahraman]]
-* [[Morrow|Senator for Morrow]]
-* [[Semmerholm|Senator for Semmerholm]]
-* [[Tassato|Senator for Tassato]]
-* [[Therunin|Senator for Therunin]]
-* [[Upwold|Senator for Upwold]]
-* [[Volodmartz|Senator for Volodmartz]]
+* Senator for [[Casinea]]
+* Senator for [[Hahnmark]]
+* Senator for [[Kahraman]]
+* Senator for [[Morrow]]
+* Senator for [[Semmerholm]]
+* Senator for [[Tassato]]
+* Senator for [[Therunin]]
+* Senator for [[Upwold]]
+* Senator for [[Volodmartz]]
 ### Senate Appointment
 * [[Ambassador to the Sarcophan Delves]]
-* [[Imperial Administrator|Imperial Administrator]]
-* [[Bounders|General of the Bounders]]
-* [[Eastern Sky|General of the Eastern Sky]]
-* [[Fire of the South|General of the Fire of the South]]
-* [[Quiet Step|General of the Quiet Step]]
-* [[Seventh Wave|General of the Seventh Wave]]
-* [[Wolves of War|General of the Wolves of War]]
+* [[Imperial Administrator]]
+* General of the [[Bounders]]
+* General of the [[Eastern Sky]]
+* General of the [[Fire of the South]]
+* General of the [[Quiet Step]]
+* General of the [[Seventh Wave]]
+* General of the [[Wolves of War]]
 * [[Bailiff of the Downs]]
 * [[Captain of the Senate Guard]]
-* [[Guildmaster of the Artisans|Guildmaster of the Artisans]]
-* [[Polemarch of Highwatch|Polemarch of Highwatch]]
+* [[Guildmaster of the Artisans]]
+* [[Polemarch of Highwatch]]
 * [[Raven Seer]]
-* [[Spear of the Seven|Spear of the Seven]]
-* [[Steward of the Nabarr|Steward of the Nabarr]]
-* [[Tender of Tekkupala%27s Hives|Tender of Tekkupala's Hives]]
+* [[Spear of the Seven]]
+* [[Steward of the Nabarr]]
+* Tender of Tekkupala's Hives
 ### Synod Judgement
 * [[Cardinal of Loyalty]]
 * [[Cardinal of Pride]]
-* [[Virtue Inquisitor|Inquisitor of Ambition]]
-* [[Virtue Inquisitor|Inquisitor of Vigilance]]
-* [[Archivist of the Echoing Obelisk|Archivist of the Echoing Obelisk]]
-* [[Challenger in Waiting|Challenger in Waiting]]
+* Inquisitor of [[Ambition]]
+* Inquisitor of [[Vigilance]]
+* [[Archivist of the Echoing Obelisk]]
+* [[Challenger in Waiting]]
 * [[Guardian of the Maze of Zoria]]
-* [[Keeper of the Magpies|Keeper of the Magpies]]
-* [[Knight of the Greenwood|Knight of the Greenwood]]
-* [[Reeve of Greenforest Fair|Reeve of Greenforest Fair]]
-* [[Watcher of Ratibor's Torch|Watcher of Ratibor's Torch]]
-* [[Champion of Courage|Champion of Courage]]
+* Keeper of the Magpies
+* [[Knight of the Greenwood]]
+* [[Reeve of Greenforest Fair]]
+* Watcher of Ratibor's Torch
+* [[Champion of Courage]]
 * [[Champion of Wisdom]]
 ### Cardinal Appointment
-* [[Gatekeeper|Gatekeeper of Loyalty]]
-* [[Gatekeeper|Gatekeeper of Pride]]
+* [[Gatekeeper of Loyalty]]
+* [[Gatekeeper of Pride]]
 ### Military Council Appointment
 * [[Quartermaster General of the Imperial Armies]]
-* [[Imperial Warcaster|Imperial Warcaster]]
-* [[Imperial Huntsmarshall|Imperial Huntsmarshall]]
-* [[Imperial Master of Works|Imperial Master of Works]]
-* [[Legate of the Imperial Auxiliaries|Legate of the Imperial Auxiliaries]]
-* [[Oblivion Sentinel|Oblivion Sentinel]]
-* [[Wisdom of the Tenebrous Path|Wisdom of the Tenebrous Path]]
+* [[Imperial Warcaster]]
+* [[Imperial Huntsmarshall]]
+* [[Imperial Master of Works]]
+* [[Legate of the Imperial Auxiliaries]]
+* [[Oblivion Sentinel]]
+* [[Wisdom of the Tenebrous Path]]
 ### Conclave Order Vote
-* [[Shuttered Lantern|Shuttered Lantern]]
-* [[Silver Chalice|Silver Chalice]]
+* [[Shuttered Lantern]]
+* [[Silver Chalice]]
 ### Bourse Auction
 * [[Fortress of Salt]]
 * [[Great Mine of Briante]]
 * [[Great Pits of Ennerlund]]
 * [[Legacy]]
-* [[Overseer of the Gloaming Road|Overseer of the Gloaming Road]]
+* [[Overseer of the Gloaming Road]]
 * [[Sunless Depths]]
-* [[Arbiter of the Rogue Declaration|Arbiter of the Rogue Declaration]]
+* [[Arbiter]] of the Rogue Declaration
 * [[Delver of the Depths]]
 * [[Elosian Architect]]
-* [[Bearer of an Imperial Wayleave|First Imperial Wayleave]]
+* First Imperial Wayleave
 * [[Quaymaster of the Black Sails]]
-* [[Bearer of an Imperial Wayleave|Second Imperial Wayleave]]
+* Second Imperial Wayleave
 ### Bourse Vote
 * [[Brilliant Star]]
 * [[Eternal Shafts of Time]]
-* [[Pride of Ikka's Tears]]
+* Pride of Ikka's Tears
 * [[Singing Caves]]
 * [[Castellan of Spiral Castle]]
 * [[Bargainer of the Iron Tower]]
 * [[Dhomiro of the Cinnabar Hills]]
 * [[Legion Engineer]]
-* [[Mistress of the Dust Parador|Mistress of the Dust Parador]]
-* [[Tolvoli Butcher|Tolvoli Butcher]]
+* [[Mistress of the Dust Parador]]
+* [[Tolvoli Butcher]]
 ### Other
 * [[Emissary to the Celestial Library]]
-* [[Knight-protector|Knight-protector of Autumn]]
+* Knight-protector of Autumn

@@ -1,9 +1,10 @@
 ---
-revision_id: 88262
-revision_date: 2022-04-09T11:07:02Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Ritual
+draft: False
+revision_date: 2022-04-09 11:07:02+00:00
+revision_id: 88262
 ---
+
 #REDIRECT [[Rituals]]

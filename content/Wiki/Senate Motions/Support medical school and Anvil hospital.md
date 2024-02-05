@@ -1,24 +1,23 @@
 ---
-revision_id: 85723
-revision_date: 2022-01-22T17:08:59Z
-Tags:
-- Senate-Motion
-- 377YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '377YE-Spring']
 Title: Support medical school and Anvil hospital
-aliases:
-- Support_medical_school_and_Anvil_hospital
+aliases: ['Support_medical_school_and_Anvil_hospital']
+draft: False
+revision_date: 2022-01-22 17:08:59+00:00
+revision_id: 85723
 ---
-Fund, found and recognize an Imperial school of medicine and Anvil hospital
-''Proposed by Bregasland, seconded by Sarvos''
+
+Fund, found and recognize an Imperial school of medicine and [[Anvil]] hospital
+''Proposed by [[Bregasland]], seconded by [[Sarvos]]''
 ### Overview
-* Disburse funds to be used for the benefit of a medical school and Anvil hospital.
-* Testimony from an expert witness, Elizabeth Eastville nee Talbot, was solicited.
+* Disburse funds to be used for the benefit of a medical school and [[Anvil]] hospital.
+* [[Testimony]] from an expert [[Witness|witness]], Elizabeth Eastville nee Talbot, was solicited.
 * Passed at 20 Thrones with 11 votes against.
 ### Date
-* Passed Spring 377 (Event Two 2013).
-### Cost
+* Passed [[Spring]] 377 (Event Two 2013).
+### [[Cost]]
 * None
 ### Progress
-* Funds disbursed to Richard of Bourholt, Senator for [[Bregasland]].
+* Funds disbursed to Richard of Bourholt, [[Senator]] for [[Bregasland]].
 __NOTOC__

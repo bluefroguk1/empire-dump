@@ -1,11 +1,11 @@
 ---
-revision_id: 10018
-revision_date: 2012-09-01T10:04:06Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Imperial Orc Costumes
-aliases:
-- Imperial_Orc_Costumes
+aliases: ['Imperial_Orc_Costumes']
+draft: False
+revision_date: 2012-09-01 10:04:06+00:00
+revision_id: 10018
 ---
+
 #REDIRECT [[Imperial Orc Costumes]]

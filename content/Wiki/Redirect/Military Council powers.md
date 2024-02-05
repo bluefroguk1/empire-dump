@@ -1,11 +1,11 @@
 ---
-revision_id: 28010
-revision_date: 2014-07-08T15:10:49Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Military Council powers
-aliases:
-- Military_Council_powers
+aliases: ['Military_Council_powers']
+draft: False
+revision_date: 2014-07-08 15:10:49+00:00
+revision_id: 28010
 ---
+
 #REDIRECT [[Powers of the Imperial Military Council]]

@@ -1,11 +1,11 @@
 ---
-revision_id: 19435
-revision_date: 2013-03-23T23:22:13Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Realm Lore
-aliases:
-- Realm_Lore
+aliases: ['Realm_Lore']
+draft: False
+revision_date: 2013-03-23 23:22:13+00:00
+revision_id: 19435
 ---
+
 #REDIRECT [[Magical skills#Ritual Magic]]

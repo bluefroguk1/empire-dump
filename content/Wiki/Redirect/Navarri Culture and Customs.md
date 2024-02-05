@@ -1,11 +1,11 @@
 ---
-revision_id: 7559
-revision_date: 2012-08-25T07:09:39Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Navarri Culture and Customs
-aliases:
-- Navarri_Culture_and_Customs
+aliases: ['Navarri_Culture_and_Customs']
+draft: False
+revision_date: 2012-08-25 07:09:39+00:00
+revision_id: 7559
 ---
+
 #REDIRECT [[Navarr Culture and Customs]]

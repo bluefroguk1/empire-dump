@@ -1,24 +1,23 @@
 ---
-revision_id: 85809
-revision_date: 2022-01-22T21:20:04Z
-Tags:
-- Senate-Motion
-- 382YE-Spring
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Spring']
 Title: Raise Highborn army
-aliases:
-- Raise_Highborn_army
+aliases: ['Raise_Highborn_army']
+draft: False
+revision_date: 2022-01-22 21:20:04+00:00
+revision_id: 85809
 ---
+
 __NOTOC__
-To recruit a fourth Highborn army in Reikos.Proposed by Reikos, seconded by Necropolis.
+To recruit a fourth Highborn army in [[Reikos]].Proposed by [[Reikos]], seconded by [[Necropolis]].
 ## Overview
-* To raise a fourth [[Highguard|Highborn]] [[Imperial army|army]] in [[Reikos]].
+* To raise a fourth Highborn army in Reikos.
 * Passed at 0 Thrones
 ## Date
-* Spring 382YE
-## Cost
-* [[Imperial army#Recruitment|Standard costs]] apply.
+* [[Spring]] 382YE
+## [[Cost]]
+* Standard costs apply.
 ## Progress
 * None
-## Campaign Outcome
-* A fourth Highborn army will be raised.
+## [[Campaign outcome|Campaign Outcome]]
+* A fourth Highborn army [[Will|will]] be raised.

@@ -1,11 +1,11 @@
 ---
-revision_id: 88883
-revision_date: 2022-04-22T00:09:10Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Night Realm
-aliases:
-- Night_Realm
+aliases: ['Night_Realm']
+draft: False
+revision_date: 2022-04-22 00:09:10+00:00
+revision_id: 88883
 ---
+
 #REDIRECT [[Realm]]

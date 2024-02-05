@@ -1,13 +1,14 @@
 ---
-revision_id: 107379
-revision_date: 2024-01-29T10:49:55Z
-tags:
-  - Game-Design
-draft: false
+IgnoreLinking: False
 Title: Imperial_TitleBar
+draft: False
+revision_date: 2024-01-29 10:49:55+00:00
+revision_id: 107379
+tags: ['Game-Design']
 ---
+
 * [[The game|The Game]]
-** [[Live roleplaying|What is Live Roleplaying?]]
+** What is [[Live roleplaying|Live Roleplaying]]?
 ** --
 ** = About Empire =
 ** [[The game|The Game]]
@@ -15,14 +16,14 @@ Title: Imperial_TitleBar
 ** [[Children]]
 ** --
 ** = [[Events]] =
-** [[Events|Event List]]
-** [[Dadford Road Campsite|Event Site]]
-** [[Event Information|Standard Event Details]]
+** Event List
+** Event Site
+** Standard Event Details
 ** [[Sanctioned events|Sanctioned Events]]
 ** [[Accessibility]]
 ** --
 ** = Contact Details =
-** [[Contact Profound Decisions|Contact Us]]
+** [[Contact us|Contact Us]]
 ** [[Feedback]]
 ** [[Online]]
 ** [[Forums & Facebook]]
@@ -30,7 +31,7 @@ Title: Imperial_TitleBar
 ** = Crew =
 ** [[Crewing]]
 * Nations
-** [[Nation overview|Overview]]
+** Overview
 ** --
 ** [[The Brass Coast]]
 ** [[Dawn]]
@@ -46,34 +47,34 @@ Title: Imperial_TitleBar
 ** [[Nationality]]
 ** [[Music]]
 ** --
-** [[Nation FAQ|FAQ]]
+** [[FAQ]]
 * [[The Empire]]
-** [[Empire overview|Overview]]
+** Overview
 ** --
 ** = Imperial Structures =
-** [[Imperial Senate|The Senate]]
-** [[Imperial Synod|The Synod]]
-** [[Imperial Military Council|The Military Council]]
-** [[Imperial Conclave|The Conclave]]
-** [[Imperial Bourse|The Bourse]]
+** [[The Senate]]
+** [[The Synod]]
+** The [[Military Council]]
+** [[The Conclave]]
+** [[The Bourse]]
 ** --
 ** [[The Throne]]
 ** --
 ** [[The Academy]]
-** [[Imperial Sodality|Imperial Sodalities]]
+** Imperial Sodalities
 ** --
-** [[Imperial Law|Imperial Law]]
+** [[Imperial Law]]
 ** [[Imperial history|Imperial History]]
-** [[Imperial Elections|Imperial Elections]]
-** [[Recent history|Recent History]]
+** [[Imperial Elections]]
+** Recent [[History]]
 ** --
-** [[Sentinel Gate|The Sentinel Gate]]
+** The [[Sentinel Gate]]
 * The People
 ** = Species =
-** [[Orc]]
+** [[Imperial Orcs]]
 ** --
-** =Lineage=
-** [[Lineage|Overview]]
+** =[[Lineage]]=
+** Overview
 ** [[Briar]]
 ** [[Cambion]]
 ** [[Changeling]]
@@ -81,26 +82,26 @@ Title: Imperial_TitleBar
 ** [[Merrow]]
 ** [[Naga]]
 ** --
-** [[Lineage and species FAQ|FAQ]]
+** FAQ
 * [[Magic]]
 ** = Rules =
 ** [[Magical skills|Magical Skills]]
 ** [[Spellcasting]]
 ** [[Rituals]]
-** [[Magic Items|Magic Items]]
-** [[Potion|Herbs & Potions]]
+** [[Magic Items]]
+** [[Herbs]] & Potions
 ** --
 ** = Imperial [[Magic]] =
-** [[Ritual theory|Ritual Theory]]
-** [[Magical tradition|Magical Traditions]]
+** [[Ritual Theory]]
+** Magical Traditions
 ** [[Hearth magic|Hearth Magic]]
 ** --
 ** = Cosmology =
-** [[Eternal|Eternals]]
-** [[Realm|Realms]]
+** Eternals
+** [[Realms]]
 ** [[Regio]]
 * Religion
-** [[The Way|Overview]]
+** Overview
 ** --
 ** = Rules =
 ** [[Religious skills|Religious Skills]]
@@ -121,35 +122,35 @@ Title: Imperial_TitleBar
 ** [[Maps]]
 ** [[Gazetteer]]
 ** --
-** [[Barbarian|Barbarians]]
-** [[Foreign Nations|Foreign Nations]]
+** [[Barbarians]]
+** [[Foreign Nations]]
 ** --
 ** [[Languages]]
 ** [[Pronunciation guide|Pronunciation Guide]]
 ** --
 ** [[Setting FAQ]]
 * Rules
-** = General Rules =
+** = [[General]] Rules =
 ** [[Characters]]
 ** [[Playing the game|Playing the Game]]
-** [[Referee|Referees & GOD]]
-** [[Safety overview|Safety]]
+** Referees & GOD
+** Safety
 ** [[Conduct]]
 ** [[Downtime]]
 ** --
 ** = Core Rules =
 ** [[Combat]]
 ** [[Calls]]
-** [[Weapons & Armour|Weapons & Armour]]
-** [[Magic]]
+** [[Weapons & Armour]]
+** Magic
 ** [[Game items|Game Items]]
 ** [[Roleplaying effects|Roleplaying Effects]]
 ** --
 ** = Character Creation =
-** [[Background|Backgrounds]]
+** Backgrounds
 ** [[Skills]]
 ** [[Bands]]
 ** [[Resource]]
 ** --
-** [[Rules update 2024|Rules Update]]
-** [[General FAQ|FAQ]]
+** [[Rules update|Rules Update]]
+** FAQ

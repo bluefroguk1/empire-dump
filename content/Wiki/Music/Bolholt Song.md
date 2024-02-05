@@ -1,23 +1,21 @@
 ---
-revision_id: 74528
-revision_date: 2019-06-26T11:57:04Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: Bolholt Song
-aliases:
-- Bolholt_Song
+aliases: ['Bolholt_Song']
+draft: False
+revision_date: 2019-06-26 11:57:04+00:00
+revision_id: 74528
 ---
+
 Tune by Kathryn Wheeler, lyrics by Jude Reid
 Bregaslanders, [[Blood and Bone|blood and bone]]
 ''Bolholt! Bolholt!''
 Strong as iron, hard as stone
 ''Bolholt! Bolholt!''
-Hard at work by day and night
-Never beaten in the fight
-''Courage, pride and loyalty''
+Hard at work by [[Day|day]] and [[Night|night]]
+Never beaten in the [[Fight|fight]]
+''[[Courage]], [[Pride|pride]] and [[Loyalty|loyalty]]''
 ''Marcher yeomen are we''
 For the land we'll tireless toil
 ''Bolholt! Bolholt!''
@@ -25,11 +23,11 @@ Golden corn and rich brown soil
 ''Bolholt! Bolholt!''
 By our oath and duty bound
 Loyal as a hunting hound
-''Courage, pride and loyalty''
+''[[Courage]], [[Pride|pride]] and [[Loyalty|loyalty]]''
 ''Marcher yeomen are we''
 Bolholt maids have beauty rare
 ''Bolholt! Bolholt!''
-In all the Empire none so fair
+In all [[The Empire|the Empire]] none so fair
 ''Bolholt! Bolholt!''
 Bolholt lads are stout and strong
 Handsome as the day is long
@@ -37,9 +35,9 @@ Handsome as the day is long
 ''Marcher yeomen are we''
 Fearsome foes wait on the field
 ''Bolholt! Bolholt!''
-Still we'll fight and never yield
+Still we'll [[Fight|fight]] and never yield
 ''Bolholt! Bolholt!''
-Raise the banner up on high
+Raise the [[Banner|banner]] up on high
 Now they'll hear the battle cry
 ''Courage, pride and loyalty''
 ''Marcher yeomen are we''

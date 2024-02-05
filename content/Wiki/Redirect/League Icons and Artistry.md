@@ -1,11 +1,11 @@
 ---
-revision_id: 10551
-revision_date: 2012-09-02T06:05:34Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: League Icons and Artistry
-aliases:
-- League_Icons_and_Artistry
+aliases: ['League_Icons_and_Artistry']
+draft: False
+revision_date: 2012-09-02 06:05:34+00:00
+revision_id: 10551
 ---
+
 #REDIRECT [[League Icons and Artistry]]

@@ -1,18 +1,16 @@
 ---
-revision_id: 11764
-revision_date: 2012-09-12T10:38:46Z
-Tags:
-- Music
-- The-Brass-Coast
-- Brass-Coast-Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'The-Brass-Coast', 'Brass-Coast-Music']
 Title: Sail Away Across the Sea
-aliases:
-- Sail_Away_Across_the_Sea
+aliases: ['Sail_Away_Across_the_Sea']
+draft: False
+revision_date: 2012-09-12 10:38:46+00:00
+revision_id: 11764
 ---
+
 Original tune is called Los Set Gotxs Recomptarem, words by Daisy and Jude.
-RECORDING of this song : [[Media:sail-away.mp3]]
-[[File:sail-away.jpg|200px|thumb|left]] 
+RECORDING of this song : Media:sail-away.mp3
+200px|thumb|left 
 Watch out for the 5/4 bar, if you want add a rest beat at the end of each "Haul away " line so it doesn't throw out your accompanying drummers! Or get the drummers to add in a beat's rest at the end of the line like in the recording.
 [http://http://www.youtube.com/watch?v=K08byZFazYw youtube version] 
 Waves on the prow and spray in the air

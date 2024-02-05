@@ -1,21 +1,20 @@
 ---
-revision_id: 85445
-revision_date: 2022-01-21T13:29:25Z
-Tags:
-- Senate-Motion
-- 383YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '383YE-Autumn']
 Title: Disbursement of funds for enlarging the Golden Sun Autumn 383YE
-aliases:
-- Disbursement_of_funds_for_enlarging_the_Golden_Sun_Autumn_383YE
+aliases: ['Disbursement_of_funds_for_enlarging_the_Golden_Sun_Autumn_383YE']
+draft: False
+revision_date: 2022-01-21 13:29:25+00:00
+revision_id: 85445
 ---
+
 __NOTOC__
 To disburse funds to continue the [[Enlargement of the Golden Sun|enlargement of the Golden Sun]].
-''Proposed by Astolat, seconded by Semmerholm''
+''Proposed by [[Astolat]], seconded by [[Semmerholm]]''
 ## Overview
-* This followed on from a previous [[Disburse funds for enlargement of Golden Sun|motion]] to disburse funds to [[Enlargement of the Golden Sun|enlarge the Golden Sun]]
+* This followed on from a previous motion to disburse funds to enlarge the [[Golden Sun]]
 * Passed at 375 thrones
 ## Date
-* Autumn 383YE
+* [[Autumn]] 383YE
 ## Progress
-* 375 thrones disbursed to the Senator for Astolat
+* 375 thrones disbursed to the [[Senator]] for [[Astolat]]

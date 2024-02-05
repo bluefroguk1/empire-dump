@@ -1,17 +1,16 @@
 ---
-revision_id: 24262
-revision_date: 2014-04-14T11:07:04Z
-Tags:
-- Maps
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Maps', 'Navarr']
 Title: Navarr Maps
-aliases:
-- Navarr_Maps
+aliases: ['Navarr_Maps']
+draft: False
+revision_date: 2014-04-14 11:07:04+00:00
+revision_id: 24262
 ---
-[[File:Nation-navarr.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-navarr.jpg]]
-[[File:Nation-navarr-regions.png|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-navarr-regions.png]]
-[[File:Nation-navarr-texture.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-navarr-texture.jpg]]
+
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Navarr|navarr]].jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Navarr|navarr]]-regions.png
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-navarr-texture.jpg
 ### See Also
 * [[Brocéliande]]
 * [[Hercynia]]

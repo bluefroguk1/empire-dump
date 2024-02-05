@@ -1,17 +1,16 @@
 ---
-revision_id: 23583
-revision_date: 2014-04-04T13:27:06Z
-Tags:
-- Maps
-- Dawn
-draft: false
+IgnoreLinking: False
+Tags: ['Maps', 'Dawn']
 Title: Dawn Maps
-aliases:
-- Dawn_Maps
+aliases: ['Dawn_Maps']
+draft: False
+revision_date: 2014-04-04 13:27:06+00:00
+revision_id: 23583
 ---
-[[File:Nation-dawn.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-dawn.jpg]]
-[[File:Dawn-regions.png|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Dawn-regions.png]]
-[[File:Nation-dawn-texture.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-dawn-texture.jpg]]
+
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Dawn|dawn]].jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:[[Dawn]]-regions.png
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-dawn-texture.jpg
 ### See Also
 * [[Astolat]]
 * [[The Barrens]]

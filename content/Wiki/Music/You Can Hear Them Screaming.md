@@ -1,23 +1,23 @@
 ---
-revision_id: 72049
-revision_date: 2019-05-02T17:10:59Z
-Tags:
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music']
 Title: You Can Hear Them Screaming
-aliases:
-- You_Can_Hear_Them_Screaming
+aliases: ['You_Can_Hear_Them_Screaming']
+draft: False
+revision_date: 2019-05-02 17:10:59+00:00
+revision_id: 72049
 ---
+
 * Lyrics by Chris Clarke
 * To the the tune of [https://www.youtube.com/watch?v=0_aM4Ar73j0| Sospan Fach] (Traditional Welsh)
-* [https://soundcloud.com/christopher-clarke-580791164/at-night-you-can-hear-them-screaming-barbarian-[[Music|music]]-for-druj?fbclid=IwAR2_pY5KX01Dhc4pHKCVE-tFEJbEbhFfucDyvECJRsTGpXxA_IoljI4Dhlc| At night you can hear them screaming] on Soundcloud, performed by Chris Clarke
+* [https://soundcloud.com/christopher-clarke-580791164/at-[[Night|night]]-you-can-hear-them-screaming-[[Barbarian|barbarian]]-[[Music|music]]-for-[[Druj|druj]]?fbclid=IwAR2_pY5KX01Dhc4pHKCVE-tFEJbEbhFfucDyvECJRsTGpXxA_IoljI4Dhlc| At night you can hear them screaming] on Soundcloud, performed by Chris Clarke
 At night [[You Can Hear Them Screaming|you can hear them screaming]]
 The unlucky ones who have survived
 You can still see the last village blazing
-Your next now the Druj have arrived!
-You can run, but we will always catch you
-You can hide, but we will find you soon
-Now's when the empire meets its doom
+Your next now the [[Druj]] have arrived!
+You can run, but we [[Will|will]] always catch you
+You can hide, but we [[Will|will]] find you soon
+Now's when [[The Empire|the empire]] meets its doom
 Sometimes the foe begs for mercy
 But I do not know what that means
 Flee leave your comrades behind you

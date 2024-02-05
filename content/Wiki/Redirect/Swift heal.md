@@ -1,11 +1,11 @@
 ---
-revision_id: 74628
-revision_date: 2019-06-26T15:15:47Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Swift heal
-aliases:
-- Swift_heal
+aliases: ['Swift_heal']
+draft: False
+revision_date: 2019-06-26 15:15:47+00:00
+revision_id: 74628
 ---
+
 #REDIRECT[[Heal]]

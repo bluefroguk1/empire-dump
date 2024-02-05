@@ -1,13 +1,13 @@
 ---
-revision_id: 32490
-revision_date: 2015-01-22T22:32:45Z
-Tags:
-- Music
-draft: false
+IgnoreLinking: False
+Tags: ['Music']
 Title: The Lion and the Unicorn
-aliases:
-- The_Lion_and_the_Unicorn
+aliases: ['The_Lion_and_the_Unicorn']
+draft: False
+revision_date: 2015-01-22 22:32:45+00:00
+revision_id: 32490
 ---
+
 Trad. The Keeper Did A-Hunting Go. A rather slow version [https://www.youtube.com/watch?v=s-LB2i5On5c here].
 OOC lyrics by Jude Reid.
 The lion did a hunting go
@@ -52,7 +52,7 @@ Among the leaves so green o
 Chorus:
 The lion roared in rage and spite
 The hunter's snare it held her tight
-And there she hung both day and night
+And there she hung both [[Day|day]] and [[Night|night]]
 Among the leaves so green o
 The lion pleaded all in vain
 The unicorn went home again

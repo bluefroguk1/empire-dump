@@ -1,11 +1,11 @@
 ---
-revision_id: 15330
-revision_date: 2013-01-12T19:21:20Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Dragonblood Spike
-aliases:
-- Dragonblood_Spike
+aliases: ['Dragonblood_Spike']
+draft: False
+revision_date: 2013-01-12 19:21:20+00:00
+revision_id: 15330
 ---
+
 #REDIRECT [[Bloodsilver Spike]]

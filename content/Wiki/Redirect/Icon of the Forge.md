@@ -1,11 +1,11 @@
 ---
-revision_id: 49729
-revision_date: 2017-03-20T15:39:01Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Icon of the Forge
-aliases:
-- Icon_of_the_Forge
+aliases: ['Icon_of_the_Forge']
+draft: False
+revision_date: 2017-03-20 15:39:01+00:00
+revision_id: 49729
 ---
+
 #REDIRECT [[Icon of the Smith]]

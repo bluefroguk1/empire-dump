@@ -1,19 +1,19 @@
 ---
-revision_id: 107357
-revision_date: 2024-01-26T11:34:08Z
-Tags:
-- Magic-Item
-draft: false
+IgnoreLinking: False
+Tags: ['Magic-Item']
 Title: Thaneshall Banner
-aliases:
-- Thaneshall_Banner
+aliases: ['Thaneshall_Banner']
+draft: False
+revision_date: 2024-01-26 11:34:08+00:00
+revision_id: 107357
 ---
+
 ### Description
-A [[Thaneshall Banner]] is a potent magical reminder of the history and martial prowess of the people of the Empire. It usually bears a symbol that represents a historical hero, one who performed great deeds on the battlefield. [[Materials#Beggars Lye|Bleached]] wool and [[Materials#Iridescent Gloaming|vibrant dyes]] are used to create the banner itself, while the weirwood banner pole is usually reinforced with [[Materials#Green Iron|green iron]] and embellished with [[Materials#Dragonbone|dragonbone]] and [[Materials#Orichalcum|orichalcum]].
-The [[Thaneshall Banner]] takes its common name from [[Wintermark]], but it is known throughout the Empire.  Among various other nations it might be called a ''dhomiro's flag'', ''exarch's banner'', ''earl's pennant'', ''steward's standard'', ''warlord's banner'', ''wolfshead standard'', ''brand's rally'', ''boyar's banner'', or an ''arbiter's inspiration''. The warrior-standard bearers who carry a [[Thaneshall Banner]] into battle often draw on its strength not only to allow them to inspire their allies, but also to renew their [[Heroic skills#Get it Together|their fighting spirit]] or even [[Heroic skills#Stay With Me|will to live]]. Others lead the way into the thick of battle wielding their banner in one hand and a weapon in the other - anything from an [[Apprentice's Blade]] to a [[Winternight Lifestealer]] may be granted extra potency by the standard's magic.
-One of the most famous examples of this magical standard is surely ''Winter Fury'', the white-stag battle-flag of Queen Ilsin whose army was apparently devoured long ago by vallornspawn in [[Hercynia#Deer's Folly|Hercynia]] following a short-lived war with the pre-Imperial Navarr.
+A [[Thaneshall Banner]] is a potent magical reminder of the [[History|history]] and martial prowess of the people of [[The Empire|the Empire]]. It usually bears a symbol that represents a historical hero, one who performed great deeds on [[The Battlefield|the battlefield]]. Bleached wool and vibrant dyes are used to create the [[Banner|banner]] itself, while the [[Weirwood|weirwood]] banner pole is usually reinforced with [[Green iron|green iron]] and embellished with [[Dragonbone|dragonbone]] and [[Orichalcum|orichalcum]].
+The [[Thaneshall Banner]] takes its common name from [[Wintermark]], but it is known throughout [[The Empire|the Empire]].  Among various other nations it might be called a ''[[Dhomiro|dhomiro]]'s flag'', ''[[Exarch|exarch]]'s banner'', ''[[Earl|earl]]'s pennant'', ''[[Steward|steward]]'s standard'', ''[[Warlord|warlord]]'s banner'', ''wolfshead standard'', ''[[Brand|brand]]'s rally'', ''[[Boyar|boyar]]'s banner'', or an ''[[Arbiter|arbiter]]'s inspiration''. The warrior-standard bearers who carry a Thaneshall Banner into battle often draw on its strength not only to allow them to inspire their allies, but also to renew their their fighting spirit or even [[Will|will]] to live. Others lead [[The Way|the way]] into the thick of battle wielding their banner in one hand and a weapon in the other - anything from an Apprentice's Blade to a [[Winternight Lifestealer]] may be granted extra potency by the standard's [[Magic|magic]].
+One of the most famous examples of this magical standard is surely ''[[Winter]] Fury'', the white-stag battle-flag of Queen Ilsin whose army was apparently devoured long ago by vallornspawn in [[Hercynia]] following a short-lived [[War|war]] with the pre-Imperial [[Navarr]].
 ### Rules
 Magical Standards
 * Effect: While wielding this standard you gain three additional hero points.
-* Roleplaying Effect: This banner thrums with barely contained energy. While holding this banner you feel driven to live up to the heroic ideals of your people.
-* Materials: Crafting a Thaneshall Banner requires seven ingots of [[Materials#Orichalcum|orichalcum]], eleven ingots of [[Materials#Green Iron|green iron]], eleven measures of [[Materials#Dragonbone|dragonbone]], seven measures of [[Materials#Beggar's Lye|beggar's lye]], and seven measures of [[Materials#Iridescent Gloaming|iridescent gloaming]]. It takes one month to make one of these items.
+* [[Roleplaying effect|Roleplaying Effect]]: This banner thrums with barely contained energy. While holding this banner you feel driven to live up to the heroic ideals of your people.
+* [[Materials]]: Crafting a Thaneshall Banner requires seven ingots of orichalcum, eleven ingots of green iron, eleven measures of dragonbone, seven measures of beggar's lye, and seven measures of [[Iridescent gloaming|iridescent gloaming]]. It takes one month to make one of these items.

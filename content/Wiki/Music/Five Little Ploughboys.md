@@ -1,23 +1,20 @@
 ---
-revision_id: 7421
-revision_date: 2012-08-24T19:06:23Z
-Tags:
-- Music
-- Music-for-children
-- Dawn-Music
-- Dawn
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Music-for-children', 'Dawn-Music', 'Dawn']
 Title: Five Little Ploughboys
-aliases:
-- Five_Little_Ploughboys
+aliases: ['Five_Little_Ploughboys']
+draft: False
+revision_date: 2012-08-24 19:06:23+00:00
+revision_id: 7421
 ---
+
 Lyrics by Jude 
 Tune - 3 little monkeys
-[[Five Little Ploughboys|Five little ploughboys]] marching off to war
+[[Five Little Ploughboys|Five little ploughboys]] marching off to [[War|war]]
 Pitchforks boldly held before
 One forgot his brush and one forgot his comb
 [[Five Little Ploughboys|Five little ploughboys]] had to march back home 
-Four little plough boys marching off to  war
+Four little plough boys marching off to  [[War|war]]
 Pitchforks boldly held before
 One forgot his  pouch and one forgot his sack
 Four little ploughboys had to march right back 

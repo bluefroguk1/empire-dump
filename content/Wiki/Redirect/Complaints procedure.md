@@ -1,11 +1,11 @@
 ---
-revision_id: 36892
-revision_date: 2015-07-14T10:08:35Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Complaints procedure
-aliases:
-- Complaints_procedure
+aliases: ['Complaints_procedure']
+draft: False
+revision_date: 2015-07-14 10:08:35+00:00
+revision_id: 36892
 ---
+
 #REDIRECT [[Feedback]]

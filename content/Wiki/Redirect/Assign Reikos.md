@@ -1,11 +1,11 @@
 ---
-revision_id: 44760
-revision_date: 2016-06-03T20:39:09Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Assign Reikos
-aliases:
-- Assign_Reikos
+aliases: ['Assign_Reikos']
+draft: False
+revision_date: 2016-06-03 20:39:09+00:00
+revision_id: 44760
 ---
+
 #REDIRECT [[Assignment of Reikos]]

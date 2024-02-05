@@ -1,22 +1,20 @@
 ---
-revision_id: 74536
-revision_date: 2019-06-26T11:59:52Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: The Culloch Boar
-aliases:
-- The_Culloch_Boar
+aliases: ['The_Culloch_Boar']
+draft: False
+revision_date: 2019-06-26 11:59:52+00:00
+revision_id: 74536
 ---
+
 Tune by Kathryn Wheeler, lyrics by Kathryn Wheeler and Jude Reid
-Sheet [[Music|music]] is available [http://www.northshield.co.uk/KitsTunes/The_Culloch_Boar.pdf here]
+Sheet [[Music|music]] is available [http://www.northshield.co.uk/KitsTunes/[[The Culloch Boar|The_Culloch_Boar]].pdf here]
 High upon the Culloch fell
-In forest thick and black as hell
+In [[Forest|forest]] thick and black as hell
 Dwells a boar with eyes aglow
 To its lair none dares to go
-One cold winter, hard the ground
+One cold [[Winter|winter]], hard the ground
 The boar it comes a-snuffling round
 Takes a taste for human meat
 Finds the blood and marrow sweet
@@ -25,17 +23,17 @@ CHORUS
 ''Take up arms and heed the call''
 ''Evermore my kin shall be''
 ''Those who hunt the boar with me''
-Every night it kills again
+Every [[Night|night]] it kills again
 Hungry for the blood of men
 Till the keeper tells the town
 One of you must hunt it down
 Every heart is filled with fear
 There's no yeoman dares go near
-Till a beater, bold and brave
+Till a [[Beater|beater]], bold and brave
 Vows he'll go, the town to save
 CHORUS
 He takes his bow, he takes his spear
-He kisses wife and children dear
+He kisses wife and [[Children|children]] dear
 He goes his speed and skill to try
 To slay the boar or else to die
 Now the beaters, keen of eye
@@ -46,9 +44,9 @@ CHORUS
 Every spear in bright array
 Is turned to hold the beast at bay
 But with one charge a man lies dead
-Its tusks and muzzle drip with red
+Its [[Tusks|tusks]] and muzzle drip with red
 Our beater lad, with all his might
-Steps up now to join the fight
+Steps up now to join the [[Fight|fight]]
 Thrusts and parries with his spear
 Holds at bay both beast and fear
 CHORUS

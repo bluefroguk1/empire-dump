@@ -1,16 +1,16 @@
 ---
-revision_id: 97257
-revision_date: 2023-02-03T16:23:41Z
-tags:
-  - Game-Design
-draft: false
+IgnoreLinking: False
 Title: Weapon checking
-aliases:
-  - Weapon_checking
+aliases: ['Weapon_checking']
+draft: False
+revision_date: 2023-02-03 16:23:41+00:00
+revision_id: 97257
+tags: ['Game-Design']
 ---
+
 ## Overview
 All weapons, bows, arrows, shields and armour, must be checked by a member of the Profound Decisions [[Weapon checking|weapon checking]] team before they are used at our [[Events|events]]. They check every item to ensure that the design, construction and condition of it is suitable for use at our [[Events|events]]. If they are not satisfied that an item is safe for use then you must secure the item in the OOC area and may not use it at the event. The team use the following guidelines when checking weapons.
-Not all weapons that are sold [[Online|online]] are suitable for use at Empire LRP [[Events|events]] - even if they are sold for LRP. It is always advisable to buy your weapons from a trader on site where possible - to ensure the least possible chance of disappointment.
+Not all weapons that are sold [[Online|online]] are suitable for use at Empire LRP events - even if they are sold for LRP. It is always advisable to buy your weapons from a trader on site where possible - to ensure the least possible chance of disappointment.
 ## [[Traders]]
 *You must get any item you buy at the event checked before you use it.
 Items on sale at all Profound Decisions events have not been checked by a weapon checker. Please take any item that you purchase to a weapon checker and have it checked.
@@ -53,7 +53,7 @@ Empire arrowheads must be made using a three part construction, with a robust bl
 IDV tear-drop arrows and archery tag screw-on arrowheads are not acceptable at any Profound Decisions events.
 ## Shields
 Please take care when using shields in melee [[Combat|combat]]. You must not use the shield as a weapon. 
-For events currently you will able to use shields with a rigid former at Empire. We will be monitoring rigid shields on an ongoing basis and it is possible that they may be removed as an option in future years. 
+For events currently you [[Will|will]] able to use shields with a rigid former at Empire. We [[Will|will]] be monitoring rigid shields on an ongoing basis and it is possible that they may be removed as an option in future years. 
 Therefore if you are making or buying new shields we strongly recommend you use a foam and latex shield.
 *A rigid former may currently be used during Empire events, but shields should preferably be of full-foam construction
 *If you use a rigid former then there must be at least 6mm of high-density foam on the face and no protruding bolts
@@ -72,8 +72,8 @@ You may only thrust with a weapon that has been passed as ‘thrust-safe’ by a
 *Construction must combine a low-density foam tip with a high-density spear head
 *Specific construction guidelines will be forthcoming
 ## Props
-Battle props are items that are present in [[Combat|combat]], but are not used as weapons. As they do not conform to the regulations that govern weapons and shields they must not be used for offence or active defence. As they are likely to be present in combat they must not have any extremely sharp protrusions. Otherwise they must be removed from the combat preferably in an out of the way area. 
-All weapons and implements taken onto a battlefield must have been passed by a weapon checker. You cannot use a wooden staff as a mage staff, or a wooden stick as a wand on a battlefield, even if you do not intend to hit anyone with it.
+Battle props are items that are present in combat, but are not used as weapons. As they do not conform to the regulations that govern weapons and shields they must not be used for offence or active defence. As they are likely to be present in combat they must not have any extremely sharp protrusions. Otherwise they must be removed from the combat preferably in an out of [[The Way|the way]] area. 
+All weapons and implements taken onto a battlefield must have been passed by a weapon checker. You cannot use a wooden staff as a [[Mage|mage]] staff, or a wooden stick as a wand on a battlefield, even if you do not intend to hit anyone with it.
 ## Banned items
 The following items cannot be used at Empire events, either for reasons of safety or because they are unsuitable for the campaign. The [[Traders|traders]] are permitted to sell these items but only on the condition that they are collected at the end of the event. You must not carry these items on site in an IC area. 
 *Real weapons, including bayonets, re-enactment weapons and any sort of non-replica firearm

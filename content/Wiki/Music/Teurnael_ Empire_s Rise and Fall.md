@@ -1,15 +1,13 @@
 ---
-revision_id: 77129
-revision_date: 2019-09-07T10:09:27Z
-Tags:
-- Music
-- Navarr-Music
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Navarr-Music', 'Navarr']
 Title: Teurnael_ Empire_s Rise and Fall
-aliases:
-- Teurnael:_Empire's_Rise_and_Fall
+aliases: ["Teurnael:_Empire's_Rise_and_Fall"]
+draft: False
+revision_date: 2019-09-07 10:09:27+00:00
+revision_id: 77129
 ---
+
 Score by Gabrielle Falquero
 * Tune: [https://soundcloud.com/gabrielle-joanne-198076671/terunael Songcloud Link]
 -------------------
@@ -26,9 +24,9 @@ Empires rise and fall
 Heralds hear our call
 Ternuael
 It was monstrous and deadly driving them out of their homes
-Navarr and Thorn, laid down their lives
-Trods created just to weaken the Vallorn
+[[Navarr]] and [[Thorn]], laid down their lives
+[[Trods]] created just to weaken [[The Vallorn|the Vallorn]]
 Travelling far to defeat it
-Strike it down, together fight as one
-Magic unwound, vines they grew, crushing all they found
+Strike it down, together [[Fight|fight]] as one
+[[Magic]] unwound, vines they grew, crushing all they found
 Terunael, Terunael

@@ -1,11 +1,11 @@
 ---
-revision_id: 9486
-revision_date: 2012-08-30T15:38:50Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Marches tales
-aliases:
-- Marches_tales
+aliases: ['Marches_tales']
+draft: False
+revision_date: 2012-08-30 15:38:50+00:00
+revision_id: 9486
 ---
+
 #REDIRECT [[The Marches tales]]

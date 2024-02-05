@@ -1,11 +1,11 @@
 ---
-revision_id: 100716
-revision_date: 2023-05-13T14:41:25Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Maledict_s Medicament
-aliases:
-- Maledict's_Medicament
+aliases: ["Maledict's_Medicament"]
+draft: False
+revision_date: 2023-05-13 14:41:25+00:00
+revision_id: 100716
 ---
+
 #REDIRECT [[Master Medicinal#Maledict's Medicament]]

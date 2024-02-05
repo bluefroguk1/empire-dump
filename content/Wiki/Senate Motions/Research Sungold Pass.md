@@ -1,17 +1,16 @@
 ---
-revision_id: 85591
-revision_date: 2022-01-21T21:54:11Z
-Tags:
-- Senate-Motion
-- 382YE-Winter
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Winter']
 Title: Research Sungold Pass
-aliases:
-- Research_Sungold_Pass
+aliases: ['Research_Sungold_Pass']
+draft: False
+revision_date: 2022-01-21 21:54:11+00:00
+revision_id: 85591
 ---
+
 __NOTOC__
-Historical Research by the Minister of Historical Research: To research the history of the Sungold Pass mine that the Thule are laying claim to on the bounddary of Otkodov eastern foothills of Opascari.''Announced by Minister of Historical Research''
+[[Historical research|Historical Research]] by the [[Minister of Historical Research]]: To research the [[History|history]] of the [[Sungold Pass]] [[Mine|mine]] that the [[Thule]] are laying claim to on the bounddary of [[Otkodov]] eastern foothills of Opascari.''Announced by [[Minister of Historical Research]]''
 ## Overview
 * Commissions [[Historical research]].
 ## Date
-* Winter 382YE
+* [[Winter]] 382YE

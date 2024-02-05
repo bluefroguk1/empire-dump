@@ -1,23 +1,22 @@
 ---
-revision_id: 77126
-revision_date: 2019-09-07T10:00:57Z
-Tags:
-- Music
-- Navarr-Music
-- Navarr
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Navarr-Music', 'Navarr']
 Title: Painted
+draft: False
+revision_date: 2019-09-07 10:00:57+00:00
+revision_id: 77126
 ---
+
 Score by Gabrielle Falquero
 * Tune: [https://soundcloud.com/gabrielle-joanne-198076671/[[Painted|painted]] Songcloud Link]
 -------------------
 [[Painted]]
-[[Painted]], we’re Painted, we are, hayayayayayaah x2 - Em   G  Em  Em
+Painted, we’re Painted, we are, hayayayayayaah x2 - Em   G  Em  Em
 Cold and sharp metal biting my skin - 	Em
 A deep a binding oath - G
 We do it to remind ourselves and keep our promises close - Em    G
 With needle and ink we indelibly mark - Em
-Our Brands bear hot metal which leaves them a scar - C
+Our [[Brands]] bear hot metal which leaves them a scar - C
 Navarri we’re painted and that how we are - Em
 I’ll spread our message afar - C   D   Em
 Painted, we’re Painted, we are, hayayayayayaah x2   - Em   G  Em  Em

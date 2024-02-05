@@ -1,11 +1,11 @@
 ---
-revision_id: 35137
-revision_date: 2015-04-01T19:04:51Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: The Bourse
-aliases:
-- The_Bourse
+aliases: ['The_Bourse']
+draft: False
+revision_date: 2015-04-01 19:04:51+00:00
+revision_id: 35137
 ---
+
 #REDIRECT [[Imperial Bourse]]

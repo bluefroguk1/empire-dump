@@ -1,19 +1,18 @@
 ---
-revision_id: 86255
-revision_date: 2022-01-30T16:26:56Z
-Tags:
-- Summer-379YE
-- Failed-Senate-Motion
-draft: false
+IgnoreLinking: False
+Tags: ['Summer-379YE', 'Failed-Senate-Motion']
 Title: Abrogate Trade Envoys
-aliases:
-- Abrogate_Trade_Envoys
+aliases: ['Abrogate_Trade_Envoys']
+draft: False
+revision_date: 2022-01-30 16:26:56+00:00
+revision_id: 86255
 ---
-To abrogate the motion to have the title of trade envoy.Proposed by Temeschwar, Seconded by Astolat.
+
+To abrogate the motion to have the title of [[Trade envoy|trade envoy]].Proposed by [[Temeschwar]], Seconded by [[Astolat]].
 ### Overview
-* The ceremonial [[Create title of trade envoy|title of trade envoy]] would be [[Powers of the Imperial Senate#Abrogation|abrogated]].
+* The ceremonial title of [[Trade envoy|trade envoy]] would be abrogated.
 ### Date
-* Defeated Summer 379YE
-### Campaign Outcome
+* Defeated [[Summer]] 379YE
+### [[Campaign outcome|Campaign Outcome]]
 * The motion was defeated.
 __NOTOC__

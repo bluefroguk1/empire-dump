@@ -1,15 +1,13 @@
 ---
-revision_id: 2997
-revision_date: 2012-07-24T10:13:43Z
-Tags:
-- Music
-- Varushka-Music
-- Varushka
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Varushka-Music', 'Varushka']
 Title: The Beast of Volgadurn
-aliases:
-- The_Beast_of_Volgadurn
+aliases: ['The_Beast_of_Volgadurn']
+draft: False
+revision_date: 2012-07-24 10:13:43+00:00
+revision_id: 2997
 ---
+
 By Chris Edwards
 --------------------------
 From my father’s hold with iron cold
@@ -23,7 +21,7 @@ Oh, [[The Beast of Volgadurn|the beast of Volgadurn]]
 ‘Twas the high-woods trail that I tried to scale
 Where first it sought to turn
 In my pursuit I stopped to shoot
-At [[The Beast of Volgadurn|the beast of Volgadurn]]
+At the beast of Volgadurn
 The arrow flew, the shot was true
 Hot blood fell like to burn
 It whined and fled, and crimson bled
@@ -32,7 +30,7 @@ To my father’s hold with iron cold
 I rushed with grave concern
 I found him dead from my arrow-head
 The Beast of Volgadurn
-When Winter’s chills come scour these hills
+When [[Winter]]’s chills come scour these hills
 My blood begins to churn
 For my fur is won, my father’s son
 Is the Beast of Volgadurn…

@@ -1,23 +1,22 @@
 ---
-revision_id: 85693
-revision_date: 2022-01-22T17:01:37Z
-Tags:
-- Senate-Motion
-- 382YE-Summer
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '382YE-Summer']
 Title: Create title Custodian of Ivarsgard Docks
-aliases:
-- Create_title_Custodian_of_Ivarsgard_Docks
+aliases: ['Create_title_Custodian_of_Ivarsgard_Docks']
+draft: False
+revision_date: 2022-01-22 17:01:37+00:00
+revision_id: 85693
 ---
+
 __NOTOC__
-To designate an area of Ivarsgard docks on the Semmerlak as a herb ministry (cerulean mazzarine). Requiring no construction. This will take advantage of an offer by the Bedelaar Huisbaas Vak Eck. This will create the title of ‘Custodian of Ivarsgard Docks’. This will be appointed by the Varushkan forest owners as an annual appointment.''Proposed by Karsk, seconded by the Dean of the Academy.''
+To designate an area of Ivarsgard docks on [[The Semmerlak|the Semmerlak]] as a [[Herb|herb]] [[Ministry|ministry]] ([[Cerulean Mazzarine|cerulean mazzarine]]). Requiring no construction. This [[Will|will]] take advantage of an offer by the Bedelaar Huisbaas Vak Eck. This [[Will|will]] create the title of ‘[[Custodian of Ivarsgard Docks]]’. This will be appointed by the Varushkan [[Forest|forest]] owners as an annual [[Appointment|appointment]].''Proposed by [[Karsk]], seconded by the [[Dean of the Academy]].''
 ## Overview
 * Passed
 ## Date
-* Summer 382YE
+* [[Summer]] 382YE
 ## Costs
 * None
-## Campaign Outcome
+## [[Campaign outcome|Campaign Outcome]]
 * This represents an agreement between a [[Sarcophan Delves]] concern and the people of Ivarsgard.
-* It creates an [[Imperial Title]] ''[[Custodian of Ivarsgard Docks]]'', appointed by Varushkan citizens who maintain a [[Forest]] or [[Mine]] resource annualy at the Spring Equinox.
+* It creates an [[Imperial Title]] ''[[Custodian of Ivarsgard Docks]]'', appointed by Varushkan citizens who maintain a [[Forest]] or [[Mine]] [[Resource|resource]] annualy at the [[Spring]] Equinox.
 * The custodian will be able to purchase [[Cerulean Mazzarine]] from Sarcophan merchants using the docks on [[The Semmerlak]].

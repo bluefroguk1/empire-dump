@@ -1,15 +1,13 @@
 ---
-revision_id: 74533
-revision_date: 2019-06-26T11:58:43Z
-Tags:
-- Music
-- Marches-Music
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Music', 'Marches-Music', 'The-Marches']
 Title: John Barleycorn
-aliases:
-- John_Barleycorn
+aliases: ['John_Barleycorn']
+draft: False
+revision_date: 2019-06-26 11:58:43+00:00
+revision_id: 74533
 ---
+
 [http://www.youtube.com/watch?v=CBv6soG1tp4 Martin Carthy's youtube version]
 --------
 There was three men came out of the west,
@@ -38,7 +36,7 @@ And the loader he served him worse than that,
 For he bound him to the cart.
 They wheeled him round and round the field
 Till they came unto a barn,
-And there they made a solemn mow of poor [[John Barleycorn]].
+And there they made a solemn mow of poor John Barleycorn.
 They hired men with the crab-tree sticks
 To cut him skin from bone,
 And the miller he served him worse than that,
@@ -49,5 +47,5 @@ And little Lord John in the nut-brown bowl
 Proved the stronger man at last.
 And the huntsman he can’t hunt the fox,
 Nor so loudly blow his horn,
-And the tinker he can’t mend kettles nor pots
+And the tinker he can’t [[Mend|mend]] kettles nor pots
 Without a little of Barleycorn.

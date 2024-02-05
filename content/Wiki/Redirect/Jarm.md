@@ -1,9 +1,10 @@
 ---
-revision_id: 43711
-revision_date: 2016-04-21T18:42:40Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Jarm
+draft: False
+revision_date: 2016-04-21 18:42:40+00:00
+revision_id: 43711
 ---
+
 #REDIRECT [[Principalities of Jarm]]

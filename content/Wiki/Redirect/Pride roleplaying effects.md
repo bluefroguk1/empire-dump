@@ -1,11 +1,11 @@
 ---
-revision_id: 45656
-revision_date: 2016-07-15T11:05:45Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Pride roleplaying effects
-aliases:
-- Pride_roleplaying_effects
+aliases: ['Pride_roleplaying_effects']
+draft: False
+revision_date: 2016-07-15 11:05:45+00:00
+revision_id: 45656
 ---
+
 #REDIRECT [[Auras of Pride]]

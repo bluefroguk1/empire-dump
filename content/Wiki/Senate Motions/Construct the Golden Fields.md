@@ -1,28 +1,27 @@
 ---
-revision_id: 86573
-revision_date: 2022-02-02T12:19:55Z
-Tags:
-- Senate-Motion
-- 380YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '380YE-Autumn']
 Title: Construct the Golden Fields
-aliases:
-- Construct_the_Golden_Fields
+aliases: ['Construct_the_Golden_Fields']
+draft: False
+revision_date: 2022-02-02 12:19:55+00:00
+revision_id: 86573
 ---
+
 __NOTOC__
-Construct a mana sinecure in Hay, Mitwold. 
-Creates the title of Keeper of the Golden Fields.
-Lifetime Appointment by Marcher Senators.
-Approved by the Civilian Commissioner of the Marches
+Construct a mana [[Sinecure|sinecure]] in Hay, [[Mitwold]]. 
+Creates the title of [[Keeper of the Golden Fields]].
+Lifetime [[Appointment]] by Marcher Senators.
+Approved by the [[Civilian Commissioner]] of [[The Marches|the Marches]]
 __NOTOC__
 ### Overview
 * A [[Sinecure]] in Golden Downs, [[Mitwold]]
-* This motion was approved by the [[Civilian Commissioner]] of [[The Marches]] using the legal power to commission constructions delegated to them by the Senate
+* This motion was approved by the [[Civilian Commissioner]] of [[The Marches]] using the legal power to [[Commission|commission]] constructions delegated to them by [[The Senate|the Senate]]
 ### Date
-* Autumn 380YE
-### Cost
-* Unknown, but [[Sinecure#Costs|standard costs]] apply
+* [[Autumn]] 380YE
+### [[Cost]]
+* Unknown, but standard costs apply
 ### Progress
-* 10 mithril and 2 thrones provided by Slias Merrick after Spring Solstice 381YE.
-### Campaign Outcome
-* This sinecure, once completed, will create the Marcher national position of [[Keeper of the Golden Fields]]
+* 10 [[Mithril|mithril]] and 2 thrones provided by Slias Merrick after [[Spring]] Solstice 381YE.
+### [[Campaign outcome|Campaign Outcome]]
+* This sinecure, once completed, [[Will|will]] create the Marcher national position of [[Keeper of the Golden Fields]]

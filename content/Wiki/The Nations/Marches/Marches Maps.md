@@ -1,17 +1,16 @@
 ---
-revision_id: 23585
-revision_date: 2014-04-04T13:30:49Z
-Tags:
-- Maps
-- The-Marches
-draft: false
+IgnoreLinking: False
+Tags: ['Maps', 'The-Marches']
 Title: Marches Maps
-aliases:
-- Marches_Maps
+aliases: ['Marches_Maps']
+draft: False
+revision_date: 2014-04-04 13:30:49+00:00
+revision_id: 23585
 ---
-[[File:Nation-marches.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-marches.jpg]]
-[[File:Marches-regions.png|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Marches-regions.png]]
-[[File:Nation-marches-texture.jpg|640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-marches-texture.jpg]]
+
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Marches|marches]].jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Marches-regions.png
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-marches-texture.jpg
 ### See Also
 * [[Bregasland]]
 * [[Mitwold]]

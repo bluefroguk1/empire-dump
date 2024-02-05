@@ -1,9 +1,10 @@
 ---
-revision_id: 8472
-revision_date: 2012-08-28T12:36:50Z
-Tags:
-
-draft: false
+IgnoreLinking: False
+Tags: None
 Title: Knights-errant
+draft: False
+revision_date: 2012-08-28 12:36:50+00:00
+revision_id: 8472
 ---
+
 #REDIRECT [[Knight-errant]]

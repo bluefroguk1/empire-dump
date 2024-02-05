@@ -1,19 +1,18 @@
 ---
-revision_id: 86118
-revision_date: 2022-01-28T13:28:12Z
-Tags:
-- Senate-Motion
-- 381YE-Autumn
-draft: false
+IgnoreLinking: False
+Tags: ['Senate-Motion', '381YE-Autumn']
 Title: Appoint Jarmish Ambassador IV
-aliases:
-- Appoint_Jarmish_Ambassador_IV
+aliases: ['Appoint_Jarmish_Ambassador_IV']
+draft: False
+revision_date: 2022-01-28 13:28:12+00:00
+revision_id: 86118
 ---
+
 __NOTOC__
-To appoint an Ambassador to  the Principalities of JarmProposed by Hercynia, Seconded by Madruga 
+To appoint an [[Ambassador]] to  the Principalities of JarmProposed by [[Hercynia]], Seconded by [[Madruga]] 
 ### Overview
-* This motion appoints someone to be responsible for the [[Embassy|Jarmish Embassy]], and to represent the Empire in dealings with the Principalities of Jarm
+* This motion appoints someone to be responsible for the Jarmish [[Embassy]], and to represent [[The Empire|the Empire]] in dealings with the [[Principalities of Jarm]]
 ### Date
-* Autumn 381YE
-### Campaign Outcome
+* [[Autumn]] 381YE
+### [[Campaign outcome|Campaign Outcome]]
 * Oswi Twice-burned was reappointed as the [[Ambassador to Jarm]]
