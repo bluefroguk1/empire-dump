@@ -21,18 +21,18 @@ The Keeper of the Iron Weir does not look at the herald, does not smile.
 "I wondered when Marcus of Endsmeet would get round to us." They say, distantly.
 They start to walk, the hem of their long robe whispering across the stone flags of the courtyard. The herald follows. The two talk as they walk.
 "It's actually from someone called Lina daughter of Feliciana, on behalf of the [[Archmage]]." says the Herald. "Lina is Adelina, I think, from a later line."
-"Is it indeed." The Patron of Spies and Traitors is interested, now. "Has there been a [[Challenge]]? Is Adelina archmage now?"
+"Is it indeed." The Patron of Spies and Traitors is interested, now. "Has there been a Challenge? Is Adelina archmage now?"
 The herald pauses, cocks her head, pausing for a moment as if listening intently to someone else, then hurries to catch up with the Sovereign.
 "Not as far as we know." says the herald quickly. "Indications are that Marcus' position appears strong following the Reed resolution - or so our agents report."
 "Fascinating. So what do they want, then?" The Guardian of the Black Vaults does not break stride. 
-"There's a list." says the herald, reading verbatim. "They want to discuss acquiring information about the relationships between the [[Druj]] and the Eternals, maps of Druj territory, ways to catch and set more spies, and details of [[Barbarian]] armies."
+"There's a list." says the herald, reading verbatim. "They want to discuss acquiring information about the relationships between the [[Druj]] and the Eternals, maps of Druj territory, ways to catch and set more spies, and details of Barbarian armies."
 "Well well well. Marcus and presumably Adelina. Together." 
 The Sovereign pauses, and looks directly at the herald for the first time, their eyes flickering between silver and bronze. 
 "Tell them yes on all counts. Then summon the Vizier, and find me something that will make a nice gift. Let us see what [[The Empire]] has learned."
 ## Plenipotentiaries
 * [[Rhianos]], [[Wise Rangara]], [[Phaleron]], Irra Harrah, [[Lashonar]], and [[Basileus Flint]] have publicly responded to plenipotentiary messages from archmages.
 Each Archmage has the ability to send a plenipotentiary message to an [[Eternal]] once during each summit. Following the Autumn Equinox, six eternals have responded to these messages. Some have confirmed that they accept a formal parley, others have agreed to a less formal meeting and Rhianos has declined a meeting but offered other aid.
-In each case, the eternals have specified the topics about which they or their representatives will discuss. Within the bounds of the parley, they are likely to refuse to discuss matters that fall outside the potentially rigid list of things they have agreed. It is still possible to try and bring up topics outside of the matters agreed on in advance, but there is absolutely no guarantee the representative of the realms will want to discuss them - and some of the more formal entities might well be annoyed enough to end the parley Early if they are badgered by (for example) a crowd of Magicians all wanting ''their'' [[Opportunity]] to explain why the eternal should pay attention to them.
+In each case, the eternals have specified the topics about which they or their representatives will discuss. Within the bounds of the parley, they are likely to refuse to discuss matters that fall outside the potentially rigid list of things they have agreed. It is still possible to try and bring up topics outside of the matters agreed on in advance, but there is absolutely no guarantee the representative of the realms will want to discuss them - and some of the more formal entities might well be annoyed enough to end the parley Early if they are badgered by (for example) a crowd of Magicians all wanting ''their'' Opportunity to explain why the eternal should pay attention to them.
 ## [[Irra Harah]]
 * Irra Harah offers parley with the Spring Archmage at 10pm on Friday
 * At the start of the Winter Solstice, the [[Archmage of Spring]] is Ser Fabienne De Miel

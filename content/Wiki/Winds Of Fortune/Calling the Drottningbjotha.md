@@ -15,7 +15,7 @@ revision_id: 82113
 "Hear the words of Hirak the Huntsmaster!
 Who speaks with the voice of the Frozen Throne!
 The Drottningbjotha is called.
-The royal [[Challenge]] of [[Cathan Canae]].
+The royal Challenge of [[Cathan Canae]].
 A test of champions; a battle of [[Heroes]].
 A contest of prowess, stamina, and might."
 Hirak the Huntsmaster, challenge-keeper of the Summer Tyrant Cathan Canae lays down this challenge.
@@ -36,7 +36,7 @@ The ultimate winner receives a crown, and an undisclosed boon from the Queen of 
 ## Significance
 The Drottningbjotha (Pronounced: Drott-ning-BEE-yo-thar) is to begin at three o'clock on Saturday. Each of the ten nations of the Empire can put forward one champion, accompanied by a herald-announcer. How a nation picks a champion is up to them - in the event that two people turn up claiming to be from the same nation, the Huntsmaster will decide which one will fight. 
 This is not just an Imperial Challenge - Cathan Canae has invited champions from other nations including the [[Thule]], Jotun, [[Druj]] and [[Grendel]] but there are rumours of other participants from [[Faraden]] and [[Axos]] and perhaps even further afield. The assumption appears to be that these champions will be protected by the law of delegation protection, as aMended by the [[Imperial Senate]] during the Winter Solstice last year.
-The law of delegation protection (as amended by the Imperial Senate during the Winter summit of 378YE) clearly states that "''Any delegations from [[Barbarian]] nations who arrive on the field of [[Anvil]] under a flag of peace shall have protection under the law as if they were imperial citizens for the duration of their Visit and for their direct passage out of the empire.''"
+The law of delegation protection (as amended by the Imperial Senate during the Winter summit of 378YE) clearly states that "''Any delegations from Barbarian nations who arrive on the field of [[Anvil]] under a flag of peace shall have protection under the law as if they were imperial citizens for the duration of their Visit and for their direct passage out of the empire.''"
 The intent is clear - while the Druj are on the field at Anvil, they are protected by all the laws of The Empire. Likewise, they are expected to respect and uphold those laws. Any violence against them will be treated by the magistrates as if it were violence against an Imperial citizen.
 ## Resolution
 Champions from several foreign and barbarian nations contended with the ten chosen champions of the Imperial nations. The Drottningbjotha was won by the Dawnish [[Questing knight]] Vulgaris Vicarious of House Orzel.

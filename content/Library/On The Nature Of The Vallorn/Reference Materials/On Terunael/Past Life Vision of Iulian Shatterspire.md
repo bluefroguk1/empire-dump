@@ -47,7 +47,7 @@ in Urizen about this investigation, please talk to Levitia of Endsmeet Spire
 
 NEB
 
-The following is a precis of my vision and surrounding work. FUller versions are available, however at the request of my collaborator for the surrounding work, I am keeping references deliberately obscure. Something happened in my vision that is an open [[Challenge]] for Imperial Virtue and until I have run that past my spiritual advisors and the Assemblies of Vigilance and [[Wisdom]] I'm afraid the account that you will get is an expurgated one.
+The following is a precis of my vision and surrounding work. FUller versions are available, however at the request of my collaborator for the surrounding work, I am keeping references deliberately obscure. Something happened in my vision that is an open Challenge for Imperial Virtue and until I have run that past my spiritual advisors and the Assemblies of Vigilance and [[Wisdom]] I'm afraid the account that you will get is an expurgated one.
 
 The horoscope for my vision and surrounding work should be understood to be Wanderer surmounting Fountain crossing Phoenix.
 
@@ -76,7 +76,7 @@ I felt Merenael's mind close upon the core of what she had to do; I felt the mom
 **Subsequent dreams: dream the first**
  
 I was standing atop a tall tower, looking out over a city. I noted that it was a white-granite tower, and that many of the buildings of the city were also of [[White granite]], and I mused briefly upon what that substance was; I noticed further that this was my city, and that its name was Emrys, and that the of the city 'Emrys' name
-was so spelled, and that we were far to the north. I glanced up at a sphere that shed down upon me and my city a pleasing summer warmth, and I noted that this sphere was made of metal. And outside the walls of my city there was a [[Forest]].
+was so spelled, and that we were far to the north. I glanced up at a sphere that shed down upon me and my city a pleasing summer warmth, and I noted that this sphere was made of metal. And outside the walls of my city there was a Forest.
 
 Abruptly a crossbow bolt came from nowhere and buried itself in my stomach. And from that bolt, plant life burst, striking out with hatred and growing uncontrollably in all directions to consume the city. I was lifted up by this torrent of life and I was carried forwards; I was carried at the head of this surging torrent as it flowed onwards to consume all before it.
 

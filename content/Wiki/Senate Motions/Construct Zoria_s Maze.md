@@ -14,12 +14,12 @@ revision_id: 85491
 __NOTOC__
 To enhance the shrine, [[Zoria]]’s Maze, to house the knowledge and teachings of Zoria, Paragon of [[Wisdom]], in the vale of Griejezdo in [[Miekarova]]. This will give 18 additional synod votes and will [[Cost]] 18 wains of [[White granite]] and 36 Crowns, to be self funded by the Vor-Azi. The existing maze is recognised as the final resting place of Zoria by the Wisdom [[Assembly]] and the Varushkan National Assembly.''Proposed by [[Weirwater]], seconded by [[Ossium]]''
 ## Overview
-* This [[Opportunity]] arises from recent interest in the paragon Zoria.
+* This Opportunity arises from recent interest in the paragon Zoria.
 * Passed.
 ## Date
 * Summer 383YE
 ## Costs
-* This [[Commission]] uses non-standard costs
+* This Commission uses non-standard costs
 * 18 wains of White Granite
 * 36 crowns labour
 * Three months to complete

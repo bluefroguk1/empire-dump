@@ -12,7 +12,7 @@ revision_id: 94634
 ---
 
 __NOTOC__
-That there be a dispersal of funds to [[Commission]] and fund the creation of the Imperial Consulate building in [[Tassato]]
+That there be a dispersal of funds to Commission and fund the creation of the Imperial Consulate building in [[Tassato]]
 ## Overview
 * Motion to construct an Imperial Consulate as detailed in the [[All the news from Twin Town]] wind of fortune
 * Passed

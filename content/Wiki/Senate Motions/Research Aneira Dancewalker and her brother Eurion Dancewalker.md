@@ -12,7 +12,7 @@ revision_id: 86321
 ---
 
 __NOTOC__
-Announcement: I [[Commission]] research into Aneira Dancewalker, thought to be [[General]] of the [[Quiet Step]] during the fall of [[Liathaven]], and her brother Eurion Dancewalker who forged Aneira's Talon, an improved Scorpion's Sting. They were believed to have lived in a [[Steading]] in West Ranging. 
+Announcement: I Commission research into Aneira Dancewalker, thought to be [[General]] of the [[Quiet Step]] during the fall of [[Liathaven]], and her brother Eurion Dancewalker who forged Aneira's Talon, an improved Scorpion's Sting. They were believed to have lived in a Steading in West Ranging. 
 Announced by Eleri Bronwen's Rest, [[Dredgemaster of Feverwater]].
 ### Overview
 * [[Historical research]] concerning this topic has been commissioned through the civil service.

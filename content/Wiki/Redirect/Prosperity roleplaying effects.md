@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Prosperity roleplaying effects
-aliases: ['Prosperity_roleplaying_effects']
-draft: False
+aliases:
+- Prosperity_roleplaying_effects
+draft: false
 revision_date: 2016-07-15 11:06:27+00:00
 revision_id: 45666
 ---
 
-#REDIRECT [[Auras of Prosperity]]
+#REDIRECT Auras of Prosperity

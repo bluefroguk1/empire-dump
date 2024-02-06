@@ -13,7 +13,7 @@ revision_id: 86794
 ---
 
 __NOTOC__
-For the allocation of the Great [[Forest]] as a national bourse position for [[Highguard]], and is proposed on the virtue of [[Prosperity]]
+For the allocation of the Great Forest as a national bourse position for [[Highguard]], and is proposed on the virtue of [[Prosperity]]
 Proposed by [[Reikos]], Seconded by [[Astolat]] 
 ### Overview
 * This motion would have allocated the [[Great Forest at Reikos]] bourse seat in Reikos as a national position.

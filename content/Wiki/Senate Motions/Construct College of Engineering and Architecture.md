@@ -14,7 +14,7 @@ revision_id: 94610
 __NOTOC__
 That there be a disbursal of funds to construct a college of Engineering and Architecture in [[Temeschwar]]. This structure will be ceded to the [[Eternal]] “King [[Adamant]]”. This will create the [[Imperial Title]] “The [[Master of the Koboldi]].” This position will be appointed by a [[Declaration]] of [[Candidacy]] through the Conclave.''Proposed by [[Tassato]], seconded by [[Astolat]].''
 ## Overview
-* [[Commission]] a unique college in Temeschwar as part of an [[Opportunity]] presented by the Eternal Adamant.
+* Commission a unique college in Temeschwar as part of an Opportunity presented by the Eternal Adamant.
 * The construction will create a unique Imperial title.
 * Passed in principle.
 ## Date

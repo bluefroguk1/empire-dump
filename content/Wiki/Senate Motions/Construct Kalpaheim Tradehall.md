@@ -14,7 +14,7 @@ revision_id: 85564
 __NOTOC__
 Build the Kalpaheim Tradehall [[Ministry]] connected to the [[Northern trade network]]. A very productive tradehall requested by artisans and traders of [[Wintermark]].''Proposed by [[Hahnmark]], seconded by [[Kallavesa]].''
 ## Overview
-* [[Commission]] a trade hall in Kalpaheim in line with the recent proposal.
+* Commission a trade hall in Kalpaheim in line with the recent proposal.
 * Passed
 ## Date
 * Winter 382YE

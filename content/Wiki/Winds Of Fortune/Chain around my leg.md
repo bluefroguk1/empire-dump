@@ -26,7 +26,7 @@ His rage collapsed in on itself, turning into a ball of all-consuming sorrow tha
 He heard Mord calmly and politely telling the Riqueza merchant that it was ''really'' not a good time, and perhaps she should come back in the morning. She nodded, pale faced, clearly scared, and backed away. As she lifted the tent flap, the rhythmic thunder from the fighting pit became louder for a moment, each beat of the drums like a nail driven into Kellek's temples.
 When the human woman was gone, the madness went out of him. He slumped back down on the bench with his head in his hands. Sakkia sat on one side of him and Mord on the other, body to body, and none of them said anything for quite some time.
 ## Overview
-This season both [[Imperial Orcs]] armies are resting in [[Casinea]]. While the [[Summer Storm]] resupply and recover from their recent engagements against the [[Barbarian]] orcs, the [[Winter Sun]] are engaged in much more esoteric pursuits.
+This season both [[Imperial Orcs]] armies are resting in [[Casinea]]. While the [[Summer Storm]] resupply and recover from their recent engagements against the Barbarian orcs, the [[Winter Sun]] are engaged in much more esoteric pursuits.
 During the Autumn Equinox a powerful [[Enchantment]] was lain over venerable [[General]] Mor'gur. A spontaneous [[Day magic]] ritual created by the Skywise, and woven by the magicians of [[Urizen]], using the inscribed skull known as ''Defiance'' as a focus, it is intended to make it easier for the orcs to hear their ancestors.
 During the day the soldiers of the Winter Sun drill and practice and maintain their weapons, their armour, and their tents. At night they gather together to tell stories and meditate on the nature of [[Worth]] and those who have gone before. Many seek communion in impromptu fighting pits, or make the PilgriPilgrimage to [[Anvil]] to use the pit built there long ago by the first Imperial Orcs. The nature of the magic used, drawing as it does on the [[Realm]] of Day, is often at odds with the ceremonies of the orcs and the shaman. Loud drumming, dancing, and fighting are ideal for getting the blood pumping and drawing the attention of the ancestors but they are anathema to the rationality and calm of the realm.
 Still, the magic of the Day Day realm has a resonance for focus, and most importantly for revelation and clarity. Although, it must always be born in mind that receiving a revelation, seeing with absolute clarity, is not necessarily a comfortable or comforting experience.
@@ -64,7 +64,7 @@ Break the chains
 * Casualties suffered by this army are decreased by three tenths.
 * Casualties inflicted by this army are decreased by a fifth.
 The army uses their mastery of wilderness survival to outmaneuver enemy advances, and make contact with local forces that share their enemies. They free slaves and prisoners, seek the support of rebels and bandits, and sabotage labour camps and prisons alike. Allies are helped to reach camps in defensible locations, shown hidden paths, and the like. The army avoids pitched battles, and focuses on gaining allies among subject populations, some of whom join the army as fresh recruits.
-## Limited [[Opportunity]]
+## Limited Opportunity
 Bloodcrow Morg'ur, the General of the Winter Sun has contributed 25 weirwood to begin transitioning the army to its new quality.
 ## Resolution
 Bloodcrow Morg'ur acquired and employed the required weirwood; the quality of the Winter Sun has permanently changed as a consequence.

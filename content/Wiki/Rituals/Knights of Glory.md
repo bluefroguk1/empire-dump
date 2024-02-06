@@ -20,8 +20,8 @@ Casting time|10 Imperial Reduction This ritual targets an [[Imperial army]]. The
 [[Enchantment]]
 ### Effects
 This ritual summons a number of Warriors from the Summer [[Realm]] to support a campaign army. The presence of these supernatural warriors will raise the strength of the campaign army by the equivalent of 2,000 additional soldiers. Army Strength Ritual
-While the enchantment is in place the general of the army experiences a Roleplaying effect: ''You are confident you can face and overcome any [[Challenge]], no matter how daunting. When someone adVises caution or [[Restraint]], it is difficult not to view that as a challenge and double-down on your glorious course of action.''  
-The ritual draws warriors from the realm of [[Eleonaris]]. These heralds have been known to exert unpredictable influence those Fighting alongside them, especially those with the [[Changeling]] [[Lineage]]. Past effects have included lingering roleplaying effects or temporary hero points for The Captains of Military units supporting the [[Enchanted]] army. Such effects are unpredictable; when they occur they are described in the appropriate Winds of [[War]].
+While the enchantment is in place the general of the army experiences a Roleplaying effect: ''You are confident you can face and overcome any Challenge, no matter how daunting. When someone adVises caution or [[Restraint]], it is difficult not to view that as a challenge and double-down on your glorious course of action.''  
+The ritual draws warriors from the realm of [[Eleonaris]]. These heralds have been known to exert unpredictable influence those Fighting alongside them, especially those with the [[Changeling]] Lineage. Past effects have included lingering roleplaying effects or temporary hero points for The Captains of Military units supporting the [[Enchanted]] army. Such effects are unpredictable; when they occur they are described in the appropriate Winds of [[War]].
 Season Duration
 ### Assurance
 The ritual loses all power and becomes useless if [[The Empire]] ever finds itself in a position where it is not at war with any neighbouring great power.

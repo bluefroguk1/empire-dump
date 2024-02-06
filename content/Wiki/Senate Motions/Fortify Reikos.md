@@ -16,7 +16,7 @@ To construct a [[Fortification]] in [[Reikos]]
 Proposed by [[Bastion]], Seconded by [[Upwold]]
 __NOTOC__
 ### Overview
-* A fortification built in Broken Ride, Reikos taking advantage of the [[Opportunity]] detailed here
+* A fortification built in Broken Ride, Reikos taking advantage of the Opportunity detailed here
 * Passed
 ### Date
 * Winter 380YE

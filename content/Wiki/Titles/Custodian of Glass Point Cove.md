@@ -15,7 +15,7 @@ revision_id: 90086
 Glass Point Cove is a secluded beach in southern Uccelini. It was Commissioned by Dalibor Marek do Saverio Von [[Temeschwar]] in summer 381YE, using an Imperial Wayleave. The position is a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana. 
 While the title is officially "[[Custodian of Glass Point Cove]]", many Sarvosan citizens prefer to call it the "Glass Custodian", drawing parallels with the [[Jade Custodian]] who oversees the Wellspring of Jade in northern Foracci.
 ## Responsibilities
-The Custodian has no particular responsibilities; they simply receive a bounty of crystal mana from Glass Point Cove. If the Cove were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats.  Likewise, if any [[Opportunity]] relating to the cove presented itself, they would make any decisions needed to take advantage of it.
+The Custodian has no particular responsibilities; they simply receive a bounty of crystal mana from Glass Point Cove. If the Cove were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats.  Likewise, if any Opportunity relating to the cove presented itself, they would make any decisions needed to take advantage of it.
 ## Powers
 ### Bounty of Mana
 The Custodian receives an income of 9 crystal mana each season from Glass Point Cove.

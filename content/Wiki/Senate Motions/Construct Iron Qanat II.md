@@ -12,9 +12,9 @@ revision_id: 85487
 ---
 
 __NOTOC__
-To [[Commission]] the [[Great work]] ‘The Iron Qanat’ in Yellow Chase, [[Segura]], to allow the capacity for the Freeborn to support an additional army and guarantee supply for the existing ones. Costs: 50 [[Weirwood]], 100 crowns with zero upkeep [[Cost]]. This project is self-funded.''Proposed by Segura, seconded by [[Sarvos]]''
+To Commission the [[Great work]] ‘The Iron Qanat’ in Yellow Chase, [[Segura]], to allow the capacity for the Freeborn to support an additional army and guarantee supply for the existing ones. Costs: 50 [[Weirwood]], 100 crowns with zero upkeep [[Cost]]. This project is self-funded.''Proposed by Segura, seconded by [[Sarvos]]''
 ## Outcome
-* Construct the Iron Qanat, taking advantage of the [[Opportunity]] presented by the settlers from the Isle of [[Zemress]].
+* Construct the Iron Qanat, taking advantage of the Opportunity presented by the settlers from the Isle of [[Zemress]].
 * Passed
 ## Date
 * Summer 383YE

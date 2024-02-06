@@ -15,7 +15,7 @@ revision_id: 20152
 Original Song: Searchlights by The Levellers - http://www.youtube.com/watch?v=2C-n6T4gZGc
 New lyrics by Richard East.
 Verse 1
-I see a [[Forest]] where there was a home before
+I see a Forest where there was a home before
 The flowers in [[The Garden]] have crept in through [[The Door]]
 Oh aye, the beauty that I could bring to you
 But [[Outside in the Distance]] I hear something coming through

@@ -17,7 +17,7 @@ Construct the [[Great work]], Gardens of [[Morrow]], to produce herbs in Morrow.
 Approved by the [[Civilian Commissioner]] of [[Urizen]]
 ### Overview
 * A Great work in Morrow
-* This motion was approved by the Civilian Commissioner of Urizen using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of Urizen using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Summer 380YE
 ### Cost
@@ -27,4 +27,4 @@ Approved by the [[Civilian Commissioner]] of [[Urizen]]
 ### PrOgress
 * 40 wains of weirwood and 10 thrones provided by Juliana after Spring Equinox 381YE.
 ### Campaign Outcome
-* This Gardens of Morrow provide 75 herbs to the citizens who own [[Herb]] gardens in Morrow, split equally.
+* This Gardens of Morrow provide 75 herbs to the citizens who own Herb gardens in Morrow, split equally.

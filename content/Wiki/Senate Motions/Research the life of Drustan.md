@@ -12,7 +12,7 @@ revision_id: 85590
 ---
 
 __NOTOC__
-[[Historical research]] announcement by the [[Advisor on the Vallorn]]: to [[Commission]] further historical research into the life of drustan (Ddurstan) of the [[Briar]] and his works against [[The Vallorn]].''Announced by Advisor on the [[Vallorn]]''
+[[Historical research]] announcement by the [[Advisor on the Vallorn]]: to Commission further historical research into the life of drustan (Ddurstan) of the [[Briar]] and his works against [[The Vallorn]].''Announced by Advisor on the [[Vallorn]]''
 ## Overview
 * Commissions Historical research.
 ## Date

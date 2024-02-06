@@ -73,7 +73,7 @@ file:HoupeThereItIs.png
 file:Dawn Mugs.jpg
 file:WilliamDeGauvain.jpg
 ### Children
-Young children are an [[Opportunity]] for noble houses to display their wealth and power. Squires are dressed in robes decorated with the house symbols. Older children, noble or yeofolk, want the most expensive clothes their parents can afford. Even when it is not ornamented, it is often strikingly coloured.
+Young children are an Opportunity for noble houses to display their wealth and power. Squires are dressed in robes decorated with the house symbols. Older children, noble or yeofolk, want the most expensive clothes their parents can afford. Even when it is not ornamented, it is often strikingly coloured.
 file:[[Squire]].jpg
 file:TestOfCitizenship.jpg
 file:YoungDawn.jpg

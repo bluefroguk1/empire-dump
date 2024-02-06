@@ -12,7 +12,7 @@ revision_id: 86775
 ---
 
 __NOTOC__
-To [[Commission]] the [[Great work]] of “The Butchers Benevolence : The Blood Red Roads” to improve trade and transportation at the heart of [[The Empire]].
+To Commission the [[Great work]] of “The Butchers Benevolence : The Blood Red Roads” to improve trade and transportation at the heart of [[The Empire]].
 Initially connecting the cities of [[Temeschwar]], [[Sarvos]], [[Tassato]] and [[Holberg]] with [[Anvil]] and the territories of [[Casinea]], [[Astolat]] and [[Semmerholm]]. And subsequently connecting to [[Upwold]], [[Hahnmark]], [[Miaren]], [[Karov]] and [[Madruga]]. 
 At a [[Cost]] of 360 wains of [[White granite]] and 90 Thrones.
 To be overseen by Lorenzo La Volpe and self-funded by the Bloody Butchers [[Guild]] of TemeschwarProposed by Tassato, seconded by Casinea 

@@ -12,7 +12,7 @@ revision_id: 99814
 ---
 
 __NOTOC__
-To [[Commission]] a [[Folly]] - smithy and armoury in Gildermark. 60 wains of [[Mithril]]. 120 crowns. Folly to be ceded to the Ethengraw.
+To Commission a [[Folly]] - smithy and armoury in Gildermark. 60 wains of [[Mithril]]. 120 crowns. Folly to be ceded to the Ethengraw.
 ## Overview
 * Creates a armoury-smithy for the [[Ossium]] by the Ethengraw sept as detailed in the [[All too well]] wind of fortune.
 * Passed

@@ -19,7 +19,7 @@ Now we march from field and fen
 On to victory 
 Now's the day, and now's the hour; 
 See the front o' battle lour; 
-See approach [[Barbarian]] power- 
+See approach Barbarian power- 
 Chains and slavery!
 What will be a traitor knave? 
 What can fill a coWard's grave? 

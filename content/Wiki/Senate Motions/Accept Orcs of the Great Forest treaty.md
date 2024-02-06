@@ -12,7 +12,7 @@ revision_id: 104941
 ---
 
 __NOTOC__
-The Senate ratifies the treaty with the Orcs of the Great [[Forest]].
+The Senate ratifies the treaty with the Orcs of the Great Forest.
 Proposed by [[Holberg]], Seconded by [[Feroz]].
 ### Overview
 * The motion to accept this peace treaty with the [[Great Forest Orcs]] was passed

@@ -14,7 +14,7 @@ revision_id: 104666
 
 Army Page
 ### Overview
-The army of [[Isaella]]'s Dance was founded around a solid core of Thorns with a reliance on vates adept at manipulating the power of the Spring [[Realm]], and supported by some of the finest masters of [[Herb]] lore in [[The Empire]].
+The army of [[Isaella]]'s Dance was founded around a solid core of Thorns with a reliance on vates adept at manipulating the power of the Spring [[Realm]], and supported by some of the finest masters of Herb lore in [[The Empire]].
 The third [[Navarr]] [[General]] leads the army of  Isaella's Dance, and is appointed (or re-appointed) at the Spring Equinox each year.
 ### History
 TBC

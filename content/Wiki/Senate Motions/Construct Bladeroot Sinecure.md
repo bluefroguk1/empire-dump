@@ -12,7 +12,7 @@ revision_id: 96810
 ---
 
 __NOTOC__
-To [[Commission]] a [[Sinecure]] for the production of [[Bladeroot]]. To be constructed in Old Ranging, [[Hercynia]], creating the title of "[[Steward of the Nabarr]]" appointed by the Senators of [[Navarr]]. Self funded. Virtue demands [[Ambition]].
+To Commission a [[Sinecure]] for the production of [[Bladeroot]]. To be constructed in Old Ranging, [[Hercynia]], creating the title of "[[Steward of the Nabarr]]" appointed by the Senators of [[Navarr]]. Self funded. Virtue demands [[Ambition]].
 ## Overview
 * Commissions a [[Herb garden]] Sinecure in Hercynia
 * Passed

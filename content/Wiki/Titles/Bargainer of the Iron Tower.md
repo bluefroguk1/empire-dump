@@ -13,7 +13,7 @@ revision_id: 106119
 ---
 
 ## Overview
-The Iron Roundtower was constructed by announcement of the [[Bearer of an Imperial Wayleave]] during the Summer Solstice 383YE, following an [[Opportunity]] presented during the Spring Equinox of the same year. Construction was completed shortly before the Autumn Equinox 383YE.
+The Iron Roundtower was constructed by announcement of the [[Bearer of an Imperial Wayleave]] during the Summer Solstice 383YE, following an Opportunity presented during the Spring Equinox of the same year. Construction was completed shortly before the Autumn Equinox 383YE.
 ## Responsibilities
 The [[Bargainer of the Iron Tower]] is responsible for ensuring good relations with the Varushkans who offer their [[Mithril]] in trade. If the Iron Roundtower were to be threatened in any way, it would be the responsibility of the Bargainer to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Iron Roundtower, the Bargainer would expect to be consulted as to how that opportunity might be resolved.
 ## Powers

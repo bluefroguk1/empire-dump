@@ -13,7 +13,7 @@ revision_id: 85869
 
 Assignment of conquered territory of [[Karsk]] to an Imperial nation.Procedural vote. 
 ### Overview
-* The territory of Karsk was conquered following a heroic [[Opportunity]] in the Region of Lestasny
+* The territory of Karsk was conquered following a heroic Opportunity in the Region of Lestasny
 ### Date
 * Spring 378YE
 ### Campaign Outcome

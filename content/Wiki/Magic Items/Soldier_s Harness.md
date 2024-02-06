@@ -23,7 +23,7 @@ The two old Farmhands sat on a bench outside the alehouse.
 “All on'em?”
 “So I hear... That's what Carter said. Every last one.”
 "What they gon' t'do?"
-"Well, they've all those [[Herb]] gardens. Powerful Potions, they'd brew up, I s'pose."
+"Well, they've all those Herb gardens. Powerful Potions, they'd brew up, I s'pose."
 The column marched past, each and every one in homespun robes and simple jack, buckler and sword.
 “Bloody'ell. They are too. They'll not last, though? Not in battle? Too much time devotin', not enough workin', I reckon.”
 “You're forgetting that wood of theirs. All pines, they is. Not good, solid oaks. Funny sort of tree, if you ask me. They ooze. Can't be right. But that stuff you get, that Ambergelt. Special, is that. [[Landskeeper]]'ll go a long way to get some, but those monks have been gardening it for years. Those trees came from [[Upwold]]-way. Further north that that, maybe. My grand-da said so. Came in on a cart, he said. In sacks, he said. Height of you, he said, ruffled my hair, and I was six at the time. All that way, kept live ever since, for that resin. [[Magic]], it is. Those jacks they had on: did-ja see the shine? That weren't sweat, nor pig-grease neither, that were that stuff. Makes armour magical, it does. They gave a [[Gambeson]] made with that stuff to my cousin the SteSteward last year. He says he's been more the man in a [[Fight]] ever since. Wears it under his mail, he does. Dare say it'll help'em out a bit.”

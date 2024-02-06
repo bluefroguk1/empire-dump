@@ -18,7 +18,7 @@ A number of different maps of the Empire and its environs exist.
 ThreeColIconImage|file=PoliticalMapY2E1.png|link=Gazetteer
 The Empire is made up of many territories, each of which has their own page.
 ## Barbarians
-ThreeColIconImage|file=OrcsCharging.jpg|link=[[Barbarian]]
+ThreeColIconImage|file=OrcsCharging.jpg|link=Barbarian
 The enemies of the Empire are classified as barbarians, including the [[Jotun]] and the [[Druj]] orcs.
 ## [[Foreign Nations]]
 ThreeColIconImage|file=Bay_of_Catazaar.png|link=Foreign nations

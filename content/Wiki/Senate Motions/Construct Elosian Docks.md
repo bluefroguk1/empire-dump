@@ -15,7 +15,7 @@ __NOTOC__
  To construct the Elosian Docks, a [[White granite]] [[Ministry]]. This will create a title, [[Quaymaster of the Elosian Docks]], which will be appointed as an [[Urizen]] national position in the Bourse. Costs: 30 [[Weirwood]] and 60 crowns.
 ''Proposed by [[Redoubt]], seconded by [[Tassato]].''
 ## Outcome
-* Construct the Elosian Docks, taking advantage of the [[Opportunity]] presented by the Hesychia of Elos.
+* Construct the Elosian Docks, taking advantage of the Opportunity presented by the Hesychia of Elos.
 * Passed at 140 thrones
 ## Date
 * Autumn 383YE
@@ -27,4 +27,4 @@ __NOTOC__
 ## PrOgress
 CommissionProgress|Elosian_Docks
 ## Campaign Outcome
-* Once completed this [[Commission]] will be overseen by the title ''Quaymaster of the Elosian Docks'', who will be have access to a Ministry to trade dragonbone for White granite
+* Once completed this Commission will be overseen by the title ''Quaymaster of the Elosian Docks'', who will be have access to a Ministry to trade dragonbone for White granite

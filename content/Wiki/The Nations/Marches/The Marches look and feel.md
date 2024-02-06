@@ -61,7 +61,7 @@ Beater Andrew Daybell.jpg
 Morgan Archer.jpg
 Wild Man Of The Mourn.jpg
 ### Aldermen and Townsfolk
-Many aldermen take great [[Pride]] in their ceremonial chains of office, sometimes referred to as "Chains of [[Prosperity]]". Some go so far as to [[Commission]] them as magical items, such as an Alder's Edge.
+Many aldermen take great [[Pride]] in their ceremonial chains of office, sometimes referred to as "Chains of [[Prosperity]]". Some go so far as to Commission them as magical items, such as an Alder's Edge.
 Tea-dious Business.jpg
 Householder.jpg
 Alderman with Hats.jpg
@@ -123,7 +123,7 @@ Not All Gloom And Doom.jpg
 Gates and doors are traditionally decorated with woven bundles of grain on either side, the respect shown to the land prEvents evil doers from entering. The hearth is where food taken from the land is prepared. It is the core of a Marcher home and should always be kept clean, ideally decorated with fresh cut flowers to prevent food cooked there causing a poison of the blood. Poor March Folk or those on campaign will make do with bundles of grass or common meadow flowers.
 Marcher Camp.jpg
 Shanks_Awning.jpg
-[[Herb]] Business.jpg
+Herb Business.jpg
 Dancing Pole.jpg
 Stay Off My Land.jpg
 Boundaryman Tarp.jpg

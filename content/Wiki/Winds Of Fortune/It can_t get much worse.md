@@ -14,7 +14,7 @@ revision_id: 94901
 ---
 
 ## Overview
-Before each summit, the Imperial [[War]] scouts and the prognosticators produce lists of every conjunction that they have been able to identify. These are not all the [[Conjunctions]], these are simply all the conjunctions that they have been able to find. Because of their focus, these conjunctions are usually very military-orientated; they are focused on the movement of [[The Empire]]'s armies and the [[Barbarian]] forces arrayed against them. Smaller conjunctions that allow groups to purse their own personal agendas are only rarely discovered by the [[Imperial Civil Service]].
+Before each summit, the Imperial [[War]] scouts and the prognosticators produce lists of every conjunction that they have been able to identify. These are not all the [[Conjunctions]], these are simply all the conjunctions that they have been able to find. Because of their focus, these conjunctions are usually very military-orientated; they are focused on the movement of [[The Empire]]'s armies and the Barbarian forces arrayed against them. Smaller conjunctions that allow groups to purse their own personal agendas are only rarely discovered by the [[Imperial Civil Service]].
 It is important to note that the details of a conjunction is not fixed - in theory new conjunctions can appear and the destination or size of a conjunction are know to be mutable. The civil service strongly recomMend that you check the size and timing of any Conjunctions that interest you after you arrive at [[Anvil]].
 ### OOC Note
 Depending on the number of skirmish crew available, the size of the Conjunctions might be increased between now and the event. They will be fixed Friday afternoon at time-in. Please check the Conjunctions Early Friday evening to confirm the gate size.
@@ -26,14 +26,14 @@ Conjunctions
 WhereWhenSizeTime
 Floes Descent, Pakanan's Pass, Skarsind18:10 Friday30 people10 minutes
 Floes Descent, Pakanan's Pass, Skarsind18:30 Friday60 people20 minutes
-A further [[Opportunity]] shortly afterwards will allow a larger force to intercept the main Jotun warband and engage them in battle. Any heroes that attempted this venture can expect to meet with the heavy resistance of a well disciplined force moving against them. As the Mark [[Fight]] with their skops and grimnir beside them, the barbarian force has Healers, champions and priests bolstering their fighting strength. Any Wintermarker eager to make a name for themselves or an Imperial Orc wanting to protect their new homeland from the Jotun would do well to make themselves known to their [[Egregores]].
+A further Opportunity shortly afterwards will allow a larger force to intercept the main Jotun warband and engage them in battle. Any heroes that attempted this venture can expect to meet with the heavy resistance of a well disciplined force moving against them. As the Mark [[Fight]] with their skops and grimnir beside them, the barbarian force has Healers, champions and priests bolstering their fighting strength. Any Wintermarker eager to make a name for themselves or an Imperial Orc wanting to protect their new homeland from the Jotun would do well to make themselves known to their [[Egregores]].
 Success in the woods of Floes Descent will save the lives of Imperial citizens who would otherwise not be able to make it to Anvil for the Autumn Equinox. Defeating the Jotun force and preventing them from moving a small force of warriors - a small raiding force - into the Region of Pakaanan's Pass, in Skarsind, will deny them the ability to scout the region adjacent to Sermersuaq and learn move about routes into the Imperial Orc lands.
 Note: We are offering a chance for any ''Wintermark'' player who has their ''personal resource'' located in the territory of ''Sermersuaq'' to start the event fleeing for their lives across the border from Sermersuaq into Skarsind. Anyone interested in taking part should meet with our Battle Team at the Battle Prep Tent at 17:45, ready to time in at 18:00. Your character will be lost along with others in the woodland, with no knowledge that you might be rescued, and only a vague idea of where safety in Skarsind lies.
 There is every chance that you will be involved in combat as part of this encounter. It will involve moving (likely at speed) across rough terrain in the woodland. There is no requirement for you to participate and it is entirely fine that your character made it out of Sermersuaq and to Anvil earlier in the season.
 If you do not meet the criteria above, please do not email us asking if you can participate. This opportunity is only available for those players that meet the criteria.
 ### Souls of malice
 "There's a sound. In those bushes, there's a sound. There's a noise. A noise like people."
-Polonius sighed and put a hand on his brother's arm where he lay. "There's going to be sounds, Salvius. We're in a [[Forest]]. Try to get some sleep. We'll be walking all day toMorrow. And when we get to [[Therunin]], it'll be nothing ''but'' forest." ''In another hundred miles,'' he left unsaid, and it tightened his stomach to think of it.
+Polonius sighed and put a hand on his brother's arm where he lay. "There's going to be sounds, Salvius. We're in a Forest. Try to get some sleep. We'll be walking all day toMorrow. And when we get to [[Therunin]], it'll be nothing ''but'' forest." ''In another hundred miles,'' he left unsaid, and it tightened his stomach to think of it.
 "But what if it's the [[Druj]]?" The younger student rolled to look at him, pale and shivering.
 Polonius took a deep breath and watched the bushes intently. If he was looking up, his brother couldn't see the tears threatening his Poise. "Then we... fall on our swords like heroes," he said, steeling his voice, "There's no sense being caught. I don't want to go back to the Labyrinth in pieces. And there's nobody coming to rescue us."
 "How sure are you about that?" a quiet voice, far too close, came from behind them.
@@ -87,7 +87,7 @@ The war scout will be able to provide more information to any citizens intereste
 Note: This skirmish is being filmed by UniLad. Anyone who does not want to be filmed will need to skip this skirmish.
 Note: This skirmish is located in an area affected by the Druj's fear miasma. The entire location is under this effect. All Imperial Heroes will be under a permanent [[Weakness]] unless they:
 * spend a hero point upon passing into the area
-* use their [[Changeling]] [[Lineage]] to fight the effect
+* use their [[Changeling]] Lineage to fight the effect
 * have a magical item or ritual [[Enchantment]] that mitigates the effect
 * are anointed
 ### Display of power

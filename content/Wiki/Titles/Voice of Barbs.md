@@ -36,7 +36,7 @@ The eight circles, from largest to smallest, and the figures they commemorate ar
 * [[Pride]]: Dušan Otecovna Zlata of [[Varushka]] pointing angrily, his hand on a wand at his hip, back to back with the Highborn Zephraim of Cantiarch's Hold with his arms crossed.
 * [[Loyalty]]:  The child Izzy Sumercrow grinning holding a towel. 
 * [[Prosperity]]: The Highborn [[Ruth]] holding a blade in one hand. [[The Blade]] is inscribed "''Prosperity is sometime knowing when what you have is perfect.''"
-* [[Vigilance]]: Ulric Y’basden with his foot planted on a faceless [[Barbarian]] human, a dagger in one with an expression of innocence. The more vigilant person will spot barbarian coins spilling from the barbarian's hand and Horsehead motifs woven into the tattoos carved into Ulric's skin and rod tipped with the imperial throne hidden behind his back.
+* [[Vigilance]]: Ulric Y’basden with his foot planted on a faceless Barbarian human, a dagger in one with an expression of innocence. The more vigilant person will spot barbarian coins spilling from the barbarian's hand and Horsehead motifs woven into the tattoos carved into Ulric's skin and rod tipped with the imperial throne hidden behind his back.
 * [[Wisdom]]: Rhiannon Fleetfoot glaring while leaning on a staff as if unhappy about being there.
 * The Way:  A willow tree under which sits a rock and dagger bound in its roots.
 RecentElections|Voice_of_the_House_of_Barbs

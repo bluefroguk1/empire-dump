@@ -17,7 +17,7 @@ Proposed by [[Redoubt]], Seconded by [[Morrow]]
 ### Overview
 * Passed
 * Stipend passed at 8 thrones
-* This is relating to the [[Opportunity]] presented here.
+* This is relating to the Opportunity presented here.
 ### Date
 * Winter 380YE
 ### Campaign Outcome

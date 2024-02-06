@@ -16,7 +16,7 @@ I, Vitore van [[Temeschwar]], the [[Arcane Architect]] announce the construction
 Announced by the Arcane [[Architect]]
 ### Overview
 * A Sinecure in Naris, Redoubt.
-* This motion was announced by the Arcane Architect using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This motion was announced by the Arcane Architect using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Spring 381YE
 ### [[Cost]]

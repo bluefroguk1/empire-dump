@@ -12,7 +12,7 @@ revision_id: 85482
 ---
 
 __NOTOC__
-An [[Appraisal]], to [[Commission]] Graciana i Lopez i [[Guerra]] to research options to permanently or temporarily improve the effectiveness of the [[Trod]] network at depleting The [[The Vallorn]].''Proposed by [[Therunin]], seconded by [[Hercynia]]''
+An [[Appraisal]], to Commission Graciana i Lopez i [[Guerra]] to research options to permanently or temporarily improve the effectiveness of the [[Trod]] network at depleting The [[The Vallorn]].''Proposed by [[Therunin]], seconded by [[Hercynia]]''
 ## Overview
 * An Appraisal related to the efficiency of the Trods.
 * Passed

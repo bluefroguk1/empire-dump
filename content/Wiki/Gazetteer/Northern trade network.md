@@ -17,7 +17,7 @@ revision_id: 103250
 ---
 
 ## Overview
-Established in 380YE, the [[Northern trade network]] is a series of routes favoured by merchants that pass through the trade hub of Torfast in the Imperial orc Territory of [[Skarsind]]. The network was established (or perhaps more properly, re-established) in response to an [[Opportunity]] offered by the influx of [[Imperial Orcs]] into Skarsind, the so-called [[Crossroads]] of the north. The network consists (currently) of five individual ministries, one in each nation. They are:
+Established in 380YE, the [[Northern trade network]] is a series of routes favoured by merchants that pass through the trade hub of Torfast in the Imperial orc Territory of [[Skarsind]]. The network was established (or perhaps more properly, re-established) in response to an Opportunity offered by the influx of [[Imperial Orcs]] into Skarsind, the so-called [[Crossroads]] of the north. The network consists (currently) of five individual ministries, one in each nation. They are:
 * Torfast Trading Post in Skarsind
 * Treji [[Wayhouse]] in [[Hercynia]]
 * Delev Market in [[Karov]]

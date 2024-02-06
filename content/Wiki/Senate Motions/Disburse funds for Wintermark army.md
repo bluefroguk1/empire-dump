@@ -15,7 +15,7 @@ __NOTOC__
 Disbursement of funds for levying [[Wintermark]] army
 Proposed by [[Hahnmark]], Seconded by [[Karsk]]
 ### Overview
-* A request for funds toWards the [[Commission]] of a third Wintermark army
+* A request for funds toWards the Commission of a third Wintermark army
 * Passed in principle
 ### Date
 * Autumn 380YE

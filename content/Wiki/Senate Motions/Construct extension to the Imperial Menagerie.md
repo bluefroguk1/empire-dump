@@ -14,12 +14,12 @@ revision_id: 85683
 __NOTOC__
 To expand the Imperial menagerie at the behest of the Young [[Heroes]] of [[The Empire]], to have enclosures for more exotic creatures. ''Proposed by [[Volodmartz]], seconded by [[Karov]].''
 ## Overview
-* Increases the size of the Imperial Menagerie as part of an [[Opportunity]] presented during the Spring Equinox.
+* Increases the size of the Imperial Menagerie as part of an Opportunity presented during the Spring Equinox.
 * Passed
 ## Date
 Summer 382YE
 ## [[Cost]]
-* This [[Commission]] is part of an opportunity.
+* This Commission is part of an opportunity.
 * 20 wains of [[Weirwood]]
 * 5 Thrones
 ## PrOgress

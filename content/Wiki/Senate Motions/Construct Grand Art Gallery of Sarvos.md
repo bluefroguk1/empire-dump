@@ -15,7 +15,7 @@ __NOTOC__
 To build a [[Great work]] in the form of a grand art gallery in [[Sarvos]], dedicated to [[Pride]] in accordance with the recent Virtuous Interest in our cultural renaissance.
 Proposed by Sarvos, Seconded by [[Tassato]]
 ### Overview
-* A Great work in Sarvos to take advantage of the [[Opportunity]] that presented itself during the recent period of inspiration
+* A Great work in Sarvos to take advantage of the Opportunity that presented itself during the recent period of inspiration
 * Passed
 ### Date
 * Spring 381YE

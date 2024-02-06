@@ -14,7 +14,7 @@ revision_id: 90191
 __NOTOC__
 To construct a new seminary to celebrate the life of the exemplar [[Zemress]] and to welcome pilgrims from around the world with the help of Prince Jonah von [[Holberg]] of the Printer's [[Guild]]. This is a self-funded build.''Proposed by [[Madruga]], seconded by [[Kahraman]].''
 ## Overview
-* [[Commission]] a [[Folly]] - a seminary in line with a recent proposal.
+* Commission a [[Folly]] - a seminary in line with a recent proposal.
 * Passed
 ## Date
 * Winter 382YE

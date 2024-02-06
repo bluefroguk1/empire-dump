@@ -14,12 +14,12 @@ revision_id: 85485
 __NOTOC__
 To transform the Grand Library of CanterSpire and cede it to the [[Eternal]] [[Phaleron]] in line with proposals from its archiVists, securing it in perpetuity against harm or invasion, and creating the institution of [[Urizen]] Lore, which will act as a lasting monument to the nation’s Magical [[Ambition]] and [[Pride]].''Proposed by [[Redoubt]], seconded by [[Tassato]]''
 ## Overview
-* This [[Opportunity]] arises from an agreement between the people of Urizen and the Eternal Phaleron
+* This Opportunity arises from an agreement between the people of Urizen and the Eternal Phaleron
 * Passed
 ## Date
 * Summer 383YE
 ## Costs
-* This [[Commission]] uses non-standard costs. Following discussion with Novus, herald of Phaleron costs have been ascertained by the civil service.
+* This Commission uses non-standard costs. Following discussion with Novus, herald of Phaleron costs have been ascertained by the civil service.
 * 40 wains of [[Mithril]]
 * 80 crowns
 * Three months to complete

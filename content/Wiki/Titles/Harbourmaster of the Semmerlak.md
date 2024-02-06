@@ -13,7 +13,7 @@ revision_id: 106091
 ---
 
 ## Overview
-The docks of Korotny were expanded by an announcement from Pavel Novak, [[Bearer of an Imperial Wayleave]]. during the Spring Equinox 384YE, following an [[Opportunity]] presented during the Winter Equinox of 383YE. Construction was completed shortly before the Summer Solstice 384YE.  
+The docks of Korotny were expanded by an announcement from Pavel Novak, [[Bearer of an Imperial Wayleave]]. during the Spring Equinox 384YE, following an Opportunity presented during the Winter Equinox of 383YE. Construction was completed shortly before the Summer Solstice 384YE.  
 The amount of [[Ilium]] available to purchase was reduced following the rise of [[The Sovereign]] Dho'uala which saw shipping on [[The Semmerlak]] significantly impacted, and ultimately dropped to nothing following a change in the law during the Summer Solstice 385YE.
 ## Responsibilities
 The [[Harbourmaster of the Semmerlak]] is responsible for ensuring good relations with those who offer their [[Weirwood]] and ilium for trade. If the docks of Korotny were to be threatened in any way, it would be the responsibility of the Harbourmaster to deal with those threats. Likewise, if any particular Opportunity were to arise related to the docks, the Harbourmaster would expect to be consulted as to how that opportunity might be resolved.

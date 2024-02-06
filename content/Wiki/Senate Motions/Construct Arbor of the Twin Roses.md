@@ -12,7 +12,7 @@ revision_id: 94636
 ---
 
 __NOTOC__
-To [[Commission]] a [[Sinecure]] "The Arbor of the Twin Roses" in [[Semmerholm]] to honour the exemplar [[Elayne Silverlark]].
+To Commission a [[Sinecure]] "The Arbor of the Twin Roses" in [[Semmerholm]] to honour the exemplar [[Elayne Silverlark]].
 Creating the position "The [[Voice of the Twin Roses]]" elected annually by the Dawnish National [[Assembly]]. Revocable by the Dawnish National Assembly.
 Self-funded
 ## Overview

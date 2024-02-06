@@ -37,7 +37,7 @@ OOC details for all our events in 2024 are below. If you have any questions abou
 ## Time-in and Time-out
 Time in is at 6pm on Friday and 10am on Saturday and Sunday morning. Time-out is at 1am Saturday morning and Sunday morning. The event ends with final time-out at 3pm on Sunday.
 ## Early Arrival
-Although there is no role-playing before time-in on Friday, you are very welcome to arrive early to begin setting up your camp. The bar will be open on Thursday evening and our caterers will be aiming to provide hot food. Please enjoy this [[Opportunity]] to socialize out-of-character.
+Although there is no role-playing before time-in on Friday, you are very welcome to arrive early to begin setting up your camp. The bar will be open on Thursday evening and our caterers will be aiming to provide hot food. Please enjoy this Opportunity to socialize out-of-character.
 The earliest that you can arrive is 1:00 pm on the Thursday before each event. Please note that the arrival time is two hours later than last year - as we need the additional time to finish site preparations before players arrive. There is an additional charge of £10 for anyone who stays on site on Thursday night that must be paid on the gate in cash only.
 ## Location
 All our events in 2023 will be held at our current site next to Dadford Road Campsite, off Dadford Road, near Dadford in Buckinghamshire.

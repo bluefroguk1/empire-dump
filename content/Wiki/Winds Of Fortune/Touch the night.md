@@ -22,11 +22,11 @@ It poured over his notes, the remains of his dinner, the mask of [[The Captain]]
 ## Overview
 At the Spring Equinox a coven of night Magicians used the [[Regio]] at [[Anvil]] to perform the ritual [[Wondrous Forests of the Night]]. This is one of the most powerful Enchantments in [[Imperial lore]], a magnitude 160 ritual that suffuses the entire Empire with magical energies drawn from the [[Realm]] of Night Realm. There are a small number of these enchantments (such as [[Bright Eyes Gleam in the Depths]] and [[Hallow of the Green World]]) known to work at such a level of power, but this is only the third one laid across [[The Empire]] since before the reign of [[Emperor Hugh]]. 
 The effects of performing such a momentous ritual are wide and far-reaching - they are also not entirely predictable. 
-## [[Forest]] Bounty
+## Forest Bounty
 The ritual was developed to increase the productivity of forests across the Empire; this is the one effect that is always certain to happen when it is cast.
 Every forest in the Empire has produced an additional bounty over the last three months. The bounty is deterMined by the nature of the forest (an Ambergelt forest will have produced additional Ambergelt, for example). In addition to the benefits experienced by player-characters, this is also likely to mean an increase in the amount of Ambergelt, beggar's lye, dragonbone, and [[Iridescent gloaming]] available on the [[Public auction]].
 ## Creatures of Night
-* Any [[Naga]] character may choose to use the ritual effects to strengthen their [[Lineage]] trappings
+* Any [[Naga]] character may choose to use the ritual effects to strengthen their Lineage trappings
 * Naga across the Empire experience a powerful ''roleplaying effect''
 * While they experience the roleplaying effect, naga characters with the hero skill have their reserve of hero points increased by one
 The influx of [[Night magic]] into the Empire can have significant effects on those whose blood is touched by the realm - those of the Naga Lineage. There are reports of a [[Kallavesi]] naga in [[Hahnmark]] who went to sleep with a full head of hair and work to find it gone. In its place was a downy covering of brilliant red and gold feathers. Similar reports, albeit not as extreme, have been reported across The Empire. Any character with the Naga lineage may choose to take advantage of the powerful Night [[Magic]] to strengthen the trappings of their lineage. 
@@ -43,7 +43,7 @@ The magicians working with Valeria at her [[Spire]] have been feverishly identif
 * The rituals [[The Eight-Spoked Wheel]] and [[The Retrograde Wheel]] affect twice as many resources if performed at the Summer Solstice
 The alchemical rituals, The Eight-spoked Wheel, and The Retrograde Wheel, will allow the ritualist to transmute up to six ingots or measures as standard, rather than the normal three. This does not effect the ability to add even more [[Materials]] to the ritual when using a [[Mask of Gold and Lead]].
 ### The Bounty
-* The ritual [[Verdant Bounty of the Twilight Bayou]] can be cast on [[Herb]] gardens at the Summer Solstice. It produces five random herbs and a dose of crystal fire
+* The ritual [[Verdant Bounty of the Twilight Bayou]] can be cast on Herb gardens at the Summer Solstice. It produces five random herbs and a dose of crystal fire
 Verdant Bounty is normally cast on forests so that the Night night magic help them find resources more easily. The [[Enchantment]] cannot normally be cast on a [[Herb garden]] - but it will be possible at the next summit. If that happens, the Herb garden will produce an five random herbs as those who work [[The Garden]] are helped to find the most productive plants. In addition the ritual will cause a single dose of crystal fire to appear somewhere in the garden.
 Valeria adVises cautions anyone considering using [[Ilium]] to attempt to make this enchantment permanent on a herb garden, she is not confident that the benefits of the enchantment on herb gardens will endure beyond the season even if the enchantment does.
 MagnitudeMaximum Measures TargetedCrystal Fire Received

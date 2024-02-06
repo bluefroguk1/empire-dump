@@ -12,7 +12,7 @@ revision_id: 106087
 ---
 
 ## Overview
-The [[Blackroot Broker]] is an [[Imperial Title]]  aWarded to a [[Navarr]] citizen. It was Commissioned in Spring 382YE by order of the [[Imperial Senate]], and completed shortly before the Summer Solstice. The [[Opportunity]] to construct the brokerage arose as a result of a meeting of brokers in [[Miaren]] following successes Fighting The [[The Vallorn]] of [[Liathaven]].
+The [[Blackroot Broker]] is an [[Imperial Title]]  aWarded to a [[Navarr]] citizen. It was Commissioned in Spring 382YE by order of the [[Imperial Senate]], and completed shortly before the Summer Solstice. The Opportunity to construct the brokerage arose as a result of a meeting of brokers in [[Miaren]] following successes Fighting The [[The Vallorn]] of [[Liathaven]].
 ## Responsibilities
 The Broker is expected to gather tools for fighting the [[Vallorn]] not only from Navarr apothecaries and artisans, but also from crafters across [[The Empire]]. How these tools are deployed is at the discretion of the Broker but it is assumed at least some will be made available to those directly opposing The the vallorn's wickedness. The brokerage allows the Broker to purchase herbs to combat vallorn miasma and green lung, blade [[Venom]] inimical to many vallorn creatures, and Scorpion's Sting daggers whose powers are likewise lethal to creatures such as the [[Vallornspawn husk]].
 ## Powers
@@ -35,6 +35,6 @@ The brokerage is designed to provide several items specifically of use to those 
 This title is appointed during the Summer Solstice by unanimous decision of the Senators of Navarr. If a unanimous decision cannot be reached, the title may be appointed by the Imperial Senate instead.
 The title can be held by a Navarr citizen. The Broker is appointed annually. They can be revoked by the [[General]] [[Assembly]], the Navarr National Assembly, and by the Assembly of the Nine.
 ## Honest Twyll's Gardening Supplies
-This unassuming appearing brokerage is found near the large [[Steading]] of Holt in Holtford. It purportedly sells a wide variety of gardening and agricultural supplies, but it also serves as a centre of commerce for Navarr brokers who deal in herbs, potions, and weapons against The the vallorn. 
+This unassuming appearing brokerage is found near the large Steading of Holt in Holtford. It purportedly sells a wide variety of gardening and agricultural supplies, but it also serves as a centre of commerce for Navarr brokers who deal in herbs, potions, and weapons against The the vallorn. 
 RecentElections|[[Blackroot_Broker]] 
 Responsibilities Expectation

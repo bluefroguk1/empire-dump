@@ -13,14 +13,14 @@ revision_id: 86572
 
 __NOTOC__
 I, Juliana of Phoenix Reach, the [[Civilian Commissioner]] of [[Urizen]] have commissioned.
-A [[Herb]] [[Sinecure]], [[The Garden]] of [[Pallas]].
+A Herb [[Sinecure]], [[The Garden]] of [[Pallas]].
 Located in [[Zenith]].
 Creates the [[Imperial Title]] of [[Head Gardener of Urizen]].
 Approved by the Civilian Commissioner of Urizen
 __NOTOC__
 ### Overview
 * A Sinecure in Zenith
-* This motion was approved by the Civilian Commissioner of Urizen using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of Urizen using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Autumn 380YE
 ### [[Cost]]

@@ -12,7 +12,7 @@ revision_id: 86477
 ---
 
 __NOTOC__
-I, the [[Civilian Commissioner]] of [[Navarr]] [[Commission]] the construction of the [[Eternal Flame of Miaren]]. Approved by the Civilian Commissioner of Navarr
+I, the [[Civilian Commissioner]] of [[Navarr]] Commission the construction of the [[Eternal Flame of Miaren]]. Approved by the Civilian Commissioner of Navarr
 ### Overview
 * A [[Sinecure]] that produces mana crystals in Seren, [[Miaren]]
 * This motion was approved by the Civilian Commissioner of Navarr using the legal power to commission constructions delegated to them by the Senate

@@ -12,7 +12,7 @@ revision_id: 85629
 ---
 
 __NOTOC__
-To [[Commission]] a [[Ministry]] in Sarcombe, [[Mournwold]], to allow the purchase of metals, called the Sarcombe Metal Market. A ministry to create the Marcher position of Keeper of Metal, to be appointed annually by agreement of the Marcher Senators, revocable by the Marcher [[Assembly]]. Self-funded.''Proposed by Mournwold, seconded by [[Bregasland]]''
+To Commission a [[Ministry]] in Sarcombe, [[Mournwold]], to allow the purchase of metals, called the Sarcombe Metal Market. A ministry to create the Marcher position of Keeper of Metal, to be appointed annually by agreement of the Marcher Senators, revocable by the Marcher [[Assembly]]. Self-funded.''Proposed by Mournwold, seconded by [[Bregasland]]''
 ## Overview
 * Commission a Ministry in Mournwold.
 * Passed in principle.

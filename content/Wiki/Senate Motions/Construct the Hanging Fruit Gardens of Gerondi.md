@@ -16,7 +16,7 @@ Construction of the Hanging Fruit Gardens of Gerondi in Serenael, [[Miaren]] to 
 Approved by the [[Civilian Commissioner]] of [[Navarr]]
 ### Overview
 * A [[Great work]] in Serenael, Miaren
-* This motion was approved by the Civilian Commissioner of Navarr using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of Navarr using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Autumn 380YE
 ### [[Cost]]
@@ -27,4 +27,4 @@ Approved by the [[Civilian Commissioner]] of [[Navarr]]
 ### Autumn Equinox 381
 * This commission has lapsed
 ### Campaign Outcome
-* This great work, once complete, will provide an additional 75 herbs spread between the owners of [[Herb]] gardens in the territory of Miaren who attended the previous [[Anvil]] summit
+* This great work, once complete, will provide an additional 75 herbs spread between the owners of Herb gardens in the territory of Miaren who attended the previous [[Anvil]] summit

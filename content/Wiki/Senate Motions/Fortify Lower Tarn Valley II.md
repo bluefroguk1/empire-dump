@@ -14,14 +14,14 @@ revision_id: 85576
 __NOTOC__
 To rebegin construction of the Holt of [[The Oak]] in the Lower Tarn Valley, [[Therunin]].''Proposed by Therunin, Seconded by [[Miekarova]].''
 ## Overview
-* This motion reCommissions the Holt of the Oak in the Lower Tarn Valley in Therunin, following an offer by the orcs of the Great [[Forest]].
+* This motion reCommissions the Holt of the Oak in the Lower Tarn Valley in Therunin, following an offer by the orcs of the Great Forest.
 * The original motion lapsed shortly after the Autumn Equinox 382YE.
 * Passed
 ## Date
 * Winter 382YE
 * Work was restarted at Winter 383YE.
 ## [[Cost]]
-* As the result of an [[Opportunity]], non-standard costs apply.
+* As the result of an Opportunity, non-standard costs apply.
 * 80 wains of [[Weirwood]]
 * 20 thrones
 * Time: One Year

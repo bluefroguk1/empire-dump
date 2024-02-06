@@ -11,7 +11,7 @@ revision_date: 2022-01-22 17:07:47+00:00
 revision_id: 85718
 ---
 
-To allow EdWard Watcher and Lucifier son of Cyrus on behalf of [[The Empire]] to [[Commission]] research in the Imperial Archives into the prophecies and True [[Liao]] Visions of [[Abraxus]]. An ideal budget to be 5 Thrones. Report to be made available.
+To allow EdWard Watcher and Lucifier son of Cyrus on behalf of [[The Empire]] to Commission research in the Imperial Archives into the prophecies and True [[Liao]] Visions of [[Abraxus]]. An ideal budget to be 5 Thrones. Report to be made available.
 ''Proposed by [[Casinea]], seconded by [[Morrow]].''
 ### Overview
 * [[Historical research]].

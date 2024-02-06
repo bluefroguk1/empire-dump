@@ -13,7 +13,7 @@ revision_id: 106308
 ---
 
 ## Overview
-The title was created in Summer 382YE when the [[Imperial Senate]] voted to reallocate one of the Imperial Wayleaves auctioned by the Bourse to the exclusive use of the [[Imperial Orcs]]. There were some initial Constitutional Court issues around the [[Appointment]] of the title, but they were quickly resolved.  it was further aMended during Winter 383YE, following clarification of its appointment method and usage of its power to [[Commission]] new construction. At the same time, the Constitutional Court changed the name of the title to "[[Legion Engineer]]" to better reflect the fact that it was significantly different to the existing Wayleave titles.
+The title was created in Summer 382YE when the [[Imperial Senate]] voted to reallocate one of the Imperial Wayleaves auctioned by the Bourse to the exclusive use of the [[Imperial Orcs]]. There were some initial Constitutional Court issues around the [[Appointment]] of the title, but they were quickly resolved.  it was further aMended during Winter 383YE, following clarification of its appointment method and usage of its power to Commission new construction. At the same time, the Constitutional Court changed the name of the title to "[[Legion Engineer]]" to better reflect the fact that it was significantly different to the existing Wayleave titles.
 ==Responsibilities== 
 The Legion Engineer has no particular responsibilities and may use the authority granted by the title to order any commission they choose. 
 ## Powers

@@ -12,7 +12,7 @@ tags:
 
 This page refers to an obsolete [[Imperial Title]]; the Civilian Commissioners were abrogated by the Senate during the Winter 380YE summit.
 ## Overview
-Each nation of [[The Empire]] appointed a [[Civilian Commissioner]] to oversee construction of Sinecures, ministries, and Great works in that nation. The commissioner was usually selected by the Senators of their nation but in rare circumstances it was possible for them to be elected by the [[Imperial Senate]]. Although the commissioner was not a member of the Senate, they had powers comparable to or greater than those of a [[Senator]] - and any constructions they intended to [[Commission]] were announced in the Senate.
+Each nation of [[The Empire]] appointed a [[Civilian Commissioner]] to oversee construction of Sinecures, ministries, and Great works in that nation. The commissioner was usually selected by the Senators of their nation but in rare circumstances it was possible for them to be elected by the [[Imperial Senate]]. Although the commissioner was not a member of the Senate, they had powers comparable to or greater than those of a [[Senator]] - and any constructions they intended to Commission were announced in the Senate.
 The title was created at the Winter Solstice summit of 379YE. It was abrogated during the Winter Solstice 380YE, a year later.
 ==Responsibilities== 
 The Commissioners were responsible for the [[Prosperity]] of the Empire. They were expected to approve and oversee the Commission of sinecures, ministries, and great works in their nation.
@@ -24,7 +24,7 @@ Prior to Spring 380YE, this power was unlimited. An administrative motion aMende
 To use their power of Commission, the commissioner needed to provide an announcement to the Civil Service, who presented the decision to the Senate. No voting was possible by the Senate at this point, as the power had been delegated to the commissioner. The [[Imperial Synod]] could, however, choose to exercise their [[Veto]] over the commissioner's decision.
 ## Limitations
 A civilian commissioner could Commission anything that requires an ''upkeep''.
-A civilian commissioner could not commission anything that provided votes in the Imperial Synod. Having such sinecures be assigned by the Senators of a nation would be unconstitutional. This meant that was not normally possible to commission a sinecure that produces [[Liao]] (as sinecures that produce liao also provide votes in the Synod), without an [[Opportunity]] that specifically permits such a thing.
+A civilian commissioner could not commission anything that provided votes in the Imperial Synod. Having such sinecures be assigned by the Senators of a nation would be unconstitutional. This meant that was not normally possible to commission a sinecure that produces [[Liao]] (as sinecures that produce liao also provide votes in the Synod), without an Opportunity that specifically permits such a thing.
 ## Selection
 The commissioner was a national position appointed by the Senate. Under normal circumstances it was appointed by unanimous vote of the senators of that nation.
 Only a citizen of the appropriate nation could be appointed as the commissioner from that nation.

@@ -15,7 +15,7 @@ __NOTOC__
 Issachar of the Unbound, [[Proxy]] to Caleb of Reumah's [[Redoubt]], the [[Bearer of an Imperial Wayleave]]. Building the Cinderpath Exchange. [[Materials]]: 10 [[White granite]], 20 crowns. Title: The [[Cinderpath Custodian]]. Self-funded. A White Granite [[Ministry]] in [[Highguard]]. [[Appointment]] by the Highguard Bourse voting method on advice from the Constitutional Court.
 ''Announced by bearer of an Imperial Wayleave''
 ## Overview
-* [[Commission]] a Ministry in Mareholm, [[Casinea]] that draws on an [[Opportunity]] presented by the benefactors of Highguard
+* Commission a Ministry in Mareholm, [[Casinea]] that draws on an Opportunity presented by the benefactors of Highguard
 * This announcement follows on from two, previous, failed motions
 * Announcement
 ## Date

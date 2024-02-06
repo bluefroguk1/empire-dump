@@ -12,9 +12,9 @@ revision_id: 94615
 ---
 
 __NOTOC__
-An Announcement by [[Bearer of an Imperial Wayleave]]. Tristan Exile’s End announces the construction of a covered market in the territory of [[Holberg]], to facilitate trade between Holberg citizens and the Sand Fishers. The [[Commission]] would be managed by the Merchant Prince of the Misericorde Market, a title with lifetime tenure, appointed by the well worn paths of the Senate by unanimous consent of [[The League]] Senators. This is self-funded, revokable the the League [[Assembly]] and the [[General]] Assembly.''Announcement by Tristan Exile’s End, bearer of an Imperial Wayleave''
+An Announcement by [[Bearer of an Imperial Wayleave]]. Tristan Exile’s End announces the construction of a covered market in the territory of [[Holberg]], to facilitate trade between Holberg citizens and the Sand Fishers. The Commission would be managed by the Merchant Prince of the Misericorde Market, a title with lifetime tenure, appointed by the well worn paths of the Senate by unanimous consent of [[The League]] Senators. This is self-funded, revokable the the League [[Assembly]] and the [[General]] Assembly.''Announcement by Tristan Exile’s End, bearer of an Imperial Wayleave''
 ## Overview
-* This takes advantage of the [[Opportunity]] to build a market for use by the Sand Fishers orcs at Holberg.
+* This takes advantage of the Opportunity to build a market for use by the Sand Fishers orcs at Holberg.
 * Passed
 ## Date
 * Summer 383YE

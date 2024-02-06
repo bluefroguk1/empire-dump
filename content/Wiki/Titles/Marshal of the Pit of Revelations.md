@@ -14,7 +14,7 @@ revision_id: 90131
 ## Overview
 [[Marshal of the Pit of Revelations]] is an Imperial Orc [[Imperial Title]] created following an announcement during the Spring Equinox 383YE by the Bearer of the [[Imperial Orcs]] Wayleave. The construction was completed shortly before the 383YE Summer Solstice. The position of Marshal of the Pit of Revelations is a [[Sinecure]] in [[Skarsind]], requiring minimal responsibility but offering a regular income of crystal mana. 
 ## Responsibilities
-The Marshal of the Pit of Revelations has no particular responsibilities; they simply receive a bounty of mana crystals from the Pit. If the Pit itself were to be threatened in any way, it would be the responsibility of the Marshal to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Marshal of the Pit of Revelations has no particular responsibilities; they simply receive a bounty of mana crystals from the Pit. If the Pit itself were to be threatened in any way, it would be the responsibility of the Marshal to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
 The Marshal has custodianship of a sinecure and receives an income of 9 crystal mana each season.

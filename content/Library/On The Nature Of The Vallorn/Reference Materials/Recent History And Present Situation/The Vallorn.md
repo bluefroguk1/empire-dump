@@ -58,7 +58,7 @@ All Imperial Territories have working Trods in them, although the lost Territori
 
 [[Brocéliande]] is where The Dance of the Dance of Navarr and Thorn was first performed. Although it is not in Imperial Territory, the Navarr here walk through the Vallorn. It is interesting to note that it is not the fact that the territory is not imperial controlled that stops the Navarr walking it, it is the fact that Barbarians stop the Navarr walking it. There are Steadings in the vallorn territories in all the [[Navarr Territories]] and Stridings regularly walk those Trods.
 
-In 75YE and 245YE Trods were created in [[The Barrens]]. It was confirmed by some of the Orcs from the Barrens that the Great [[Forest]] of Peytah was not happy with the creation of Trods in that area. Whether the Barrens Orcs themselves damage them or whether the Great Forest has some supernatural way of combatting the Trods it is still unknown. The Barrens Orcs said that the Great Forest could be placated, so the Trods could still be build there.
+In 75YE and 245YE Trods were created in [[The Barrens]]. It was confirmed by some of the Orcs from the Barrens that the Great Forest of Peytah was not happy with the creation of Trods in that area. Whether the Barrens Orcs themselves damage them or whether the Great Forest has some supernatural way of combatting the Trods it is still unknown. The Barrens Orcs said that the Great Forest could be placated, so the Trods could still be build there.
 
 Trods cannot be created over water, and although some cross rivers that can be forded it is not possible to create Trods over Seas or even large lakes.
 

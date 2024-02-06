@@ -16,7 +16,7 @@ To build the [[Ministry]] of Industry and [[Skarsind]] Trade, in the territory o
 Proposed by [[Kahraman]], seconded by [[Madruga]] 
 ### Overview
 * Passed
-* This motion was to take advantage of the [[Opportunity]] presented to improve the wealth of Skarsind.
+* This motion was to take advantage of the Opportunity presented to improve the wealth of Skarsind.
 ### Date
 * Spring 380YE
 ### [[Cost]]

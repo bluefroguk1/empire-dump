@@ -12,7 +12,7 @@ revision_id: 103055
 ---
 
 ## Overview
-The [[Minister of Historical Research]] is an [[Imperial Title]] appointed by the Senate. It was established by majority vote of the Senate in Autumn 377 to help the Senate handle requests for [[Historical research]]. Prior to the Spring Equinox 384YE, two other titles (the [[Advisor on the Vallorn]] and the [[Imperial Advisor for the Feni]]) also had the power to [[Commission]] Historical research. Their powers were removed following changes to how the Department was organised. The Minister is now the only title able to instruct the Department to perform research on their behalf.
+The [[Minister of Historical Research]] is an [[Imperial Title]] appointed by the Senate. It was established by majority vote of the Senate in Autumn 377 to help the Senate handle requests for [[Historical research]]. Prior to the Spring Equinox 384YE, two other titles (the [[Advisor on the Vallorn]] and the [[Imperial Advisor for the Feni]]) also had the power to Commission Historical research. Their powers were removed following changes to how the Department was organised. The Minister is now the only title able to instruct the Department to perform research on their behalf.
 ## Responsibilities
 The purpose of the Minister is to authorise research requests, freeing the [[Imperial Senate]] from the need to assess each request directly.
 ## Power

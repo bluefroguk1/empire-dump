@@ -13,7 +13,7 @@ revision_id: 86478
 
 __NOTOC__
 [[Senate announcement]] on behalf of Lorenzo 'La Volpe', [[Civilian Commissioner]] of [[The League]]:
-To [[Commission]] the construction of a [[Sinecure]] in the countryside of [[Sarvos]]. To be self funded by Giacomo Corvusuro and Lorenzo La Volpe, Civilian Commissioner of The League
+To Commission the construction of a [[Sinecure]] in the countryside of [[Sarvos]]. To be self funded by Giacomo Corvusuro and Lorenzo La Volpe, Civilian Commissioner of The League
 Announced by the Civilian Commissioner of The League
 ### Overview
 * A Sinecure in Sarvos

@@ -10,10 +10,10 @@ revision_id: 61877
 ---
 
 ## The Path of [[Courage]]
-Courage is a popular virtue amongst the soldiers of [[The Empire]] who must face bloodthirsty foes and the spectre of death. However, the Virtue of Courage has lessons for those in all walks of life. Courage calls for citizens to stand firm in the face of all that would cause them to falter. The [[Senator]] whose conscience compels them to vote against the populist measure; the proud leader who must face the shame of a secret exposed; the [[General]] who must pass on ill news to their people – all of these must draw on the Virtue of Courage in their time of trial. It is easy for many citizens to pay lip service to the Virtue of Courage but harder to cling to when the [[Challenge]] finally comes.
+Courage is a popular virtue amongst the soldiers of [[The Empire]] who must face bloodthirsty foes and the spectre of death. However, the Virtue of Courage has lessons for those in all walks of life. Courage calls for citizens to stand firm in the face of all that would cause them to falter. The [[Senator]] whose conscience compels them to vote against the populist measure; the proud leader who must face the shame of a secret exposed; the [[General]] who must pass on ill news to their people – all of these must draw on the Virtue of Courage in their time of trial. It is easy for many citizens to pay lip service to the Virtue of Courage but harder to cling to when the Challenge finally comes.
 ### Guidance on the Path
 Through meditation on the [[Auras of Courage]], and study of the lives of [[Paragons and Exemplars]], the priests of [[The Way]] have gleaned [[Insight]] into the heart of the virtue and how best to pursue it. There are collections of parables, tales, sayings and teachings that distil this for Imperial citizens to learn from. The following are a handful of teachings and sayings deemed to be essential to understanding the path:
-* The Virtuous face unwelcome tRuths as boldly as any [[Barbarian]] charge.
+* The Virtuous face unwelcome tRuths as boldly as any Barbarian charge.
 * Do not fear to act; only be shamed by inaction.
 * Cleave to what you know is true, even where others wish you to doubt.
 * Never accept defeat; adapt your strategy and try anew.
@@ -22,7 +22,7 @@ Through meditation on the [[Auras of Courage]], and study of the lives of [[Para
 A Highborn Litany of Courage
 ## Paragons and Exemplars
 Recognised Paragons and Exemplars of Courage include:
-* The oldest recorded paragon, [[Korl]], whose legendary learned the secrets of metal in the darkest places of the world and used them to craft the first axe, with which he drove back the dark [[Forest]] and slew the beasts who dwelt within.
+* The oldest recorded paragon, [[Korl]], whose legendary learned the secrets of metal in the darkest places of the world and used them to craft the first axe, with which he drove back the dark Forest and slew the beasts who dwelt within.
 * The exemplar [[Permion]] of the Highborn who opposed the wicked power of the corrupt Patrician’s Council and Empowered the [[Assembly]] of the Virtuous in its place.
 * The exemplar [[Gilda Ashwine]] of [[Dawn]] whose fortitude and commitment freed her [[Family]] and brought down the corrupt [[Earl]] who had enslaved them.
 * The exemplar [[Inga Tarn]] of [[Wintermark]] whose fearlessness and forthrightness inSpired generations to seize the opportunities life presents.

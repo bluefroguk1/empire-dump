@@ -24,7 +24,7 @@ Proposed by Kallavesa, Seconded by [[Karov]]
 * 10 wains of [[Weirwood]]
 * 10 Thrones in labour costs
 * Time: 3 months to construct
-* This Great Work is an [[Opportunity]] to draw pilgrims to Kallavesa.
+* This Great Work is an Opportunity to draw pilgrims to Kallavesa.
 ### PrOgress
 *  60 Thrones disbursed to [[Senator]] Kallavesa
 * 30 wains of white granite, 10 wains of weirwood and 10 thrones provided by Olle Markusson after Spring Equinox 380YE.

@@ -11,7 +11,7 @@ revision_date: 2022-01-23 08:42:58+00:00
 revision_id: 85864
 ---
 
-Disbursement of funds with the intent to purchase or [[Commission]] a [[Vorpal Sword]] for Sen. Ywain De Gauvain in [[Recognition]] of his virtuous acts on [[The Battlefield]].Proposed by [[Casinea]], seconded by Conscience.
+Disbursement of funds with the intent to purchase or Commission a [[Vorpal Sword]] for Sen. Ywain De Gauvain in [[Recognition]] of his virtuous acts on [[The Battlefield]].Proposed by [[Casinea]], seconded by Conscience.
 ### Overview
 * A request for a disbursement to be used to commission a Vorpal Sword.
 * Defeated in principle

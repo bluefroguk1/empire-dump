@@ -15,7 +15,7 @@ __NOTOC__
 To construct a Grand Conservatory of [[Music]] in the territory of [[Redoubt]] to match the [[Pride]] of [[Urizen]] in creating the [[Enchantment]] of Art and Culture upon [[The Empire]] and to continue to foster our Pride in both our music and our [[Magic]].
 Proposed by [[Morrow]], Seconded by [[Hercynia]]
 ### Overview
-* A [[Great work]] in Redoubt to take advantage of the [[Opportunity]] that presented itself during the period of inspiration.
+* A [[Great work]] in Redoubt to take advantage of the Opportunity that presented itself during the period of inspiration.
 * Passed
 ### Date
 * Spring 381YE

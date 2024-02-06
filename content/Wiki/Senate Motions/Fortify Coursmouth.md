@@ -19,7 +19,7 @@ Motion: to construct a [[Fortification]] along the coast in Coursemouth, [[Necro
 ### Date
 * Autumn 382YE
 ### [[Cost]]
-* This [[Commission]] uses standard costs.
+* This Commission uses standard costs.
 * 80 wains of [[White granite]]
 * 160 crowns labour costs
 * Time: 1 year
@@ -28,7 +28,7 @@ Motion: to construct a [[Fortification]] along the coast in Coursemouth, [[Necro
 * 24 wains of white granite and 48 crowns provided by Lieselotte van [[Holberg]] after the Autumn Equinox 382YE.
 * Targetted by ''The Immaculate [[Architect]]'' after the Autumn Equinox 382YE.
 * 30 wains of white granite and 10 Thrones provided by Imperatrix Lisabetta after the Winter Solstice 382YE.
-* 16 wains white granite and 32 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity]].
+* 16 wains white granite and 32 crowns effectively provided due to the Silent [[Sentinel]] Opportunity.
 * 10 white granite provided by Ehud of Reumah's [[Redoubt]] after the Spring Equinox 383YE.
 ### Campaign Outcome
 * A new fortification, Reumah's Rest was built at Coursmouth in Necropolis.

@@ -49,7 +49,7 @@ While there is no universally accepted connection between runes and Virtues, the
 * Wisdom is unsurprisingly represented by Irremais, Rune of Wisdom.
 * While not corresponding directly to an Imperial Virtue, the runes Yoorn and Evrom are sometimes used together to represent the concept of reincarnation; in this case Yoorn represents the end of one life, and Evrom the beginning of another.
 These correspondences are mostly symbolic, used as decoration or divination rather than working magic. The runes seem to lack any ability to directly interact with or influence the Imperial Virtues in [[The Way]] that [[Liao]] Ceremonies do. While Irremais may be evoked to grant wisdom, it has no special ability to interact with a shrine Consecrated to the Imperial Virtue of Wisdom. The exact relationship between Magic and Virtue is a topic of much debate among scholars from all walks of life.
-### Runes and [[Lineage]]
+### Runes and Lineage
 A strong connection exists between certain runes and the nature of those with lineage. While this set of connections is not universally accepted, five of the six lineages have a natural affiliation for six of the runes. As with the correspondences with the Imperial Virtues, these connections are most commonly used during divination.
 * The blood of the [[Briar]] lineage is said to have a correspondence with the Rune of Blood, Rhyv. 
 * The [[Cambion]] lineage is said to correspond with the Rune of Bargains, Lann.

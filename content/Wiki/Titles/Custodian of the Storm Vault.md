@@ -14,7 +14,7 @@ revision_id: 80058
 This title lost its bounty of mana when the [[Druj]] destroyed the Storm Vault. 
 ## Overview
 The [[Custodian of the Storm Vault]] was an [[Urizen]] [[Imperial Title]] created following an announcement in Summer 379YE by the [[Crystal [[Architect]] of the Spires]]. Built in Proceris in the Urizen Territory of [[Zenith]], the Custodian oversaw the Storm Vault as a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana. 
-After the Spring Equinox 380YE, a plague of crystal-eating [[Vermin]] saw the Senate [[Commission]] [[White granite]] Wards to help protect the Vault, which had the unexpected outcome of adding additional production to the sinecure.
+After the Spring Equinox 380YE, a plague of crystal-eating [[Vermin]] saw the Senate Commission [[White granite]] Wards to help protect the Vault, which had the unexpected outcome of adding additional production to the sinecure.
 During the 381YE Druj invasion of Zenith, the Storm Vault was destroyed by orc invaders. While its position high in The Mountains allowed it to avoid the devastating flood, it was quickly overrun and Ruined by the orcs.
 ## Responsibilities
 The Custodian had no particular responsibilities; they simply received a bounty of crystal mana from the Storm Vault in Zenith. 

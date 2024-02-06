@@ -18,7 +18,7 @@ They will be appointed by unanimous agreement of the highguard Senators and revo
 Approved by the Civilian Commissioner of Highguard
 ### Overview
 * A Ministry in Sybella Cross, Bastion
-* This motion was approved by the Civilian Commissioner of Highguard using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of Highguard using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Autumn 380YE
 ### [[Cost]]

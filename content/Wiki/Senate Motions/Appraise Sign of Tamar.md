@@ -12,7 +12,7 @@ revision_id: 85432
 ---
 
 __NOTOC__
-To appraise ways in which the Sign of Tamar in Tamarbode, [[Reikos]], can be prevented from being reclaimed by the [[Forest]], and ways in which it may be used by [[The Empire]] once it is preserved. We direct Graciana i Lopez i [[Guerra]] to undertake this work.
+To appraise ways in which the Sign of Tamar in Tamarbode, [[Reikos]], can be prevented from being reclaimed by the Forest, and ways in which it may be used by [[The Empire]] once it is preserved. We direct Graciana i Lopez i [[Guerra]] to undertake this work.
 ''Proposed by [[Weirwater]], seconded by [[Sarvos]]''
 ## Overview
 * An [[Appraisal]] related to the Sign of Tamar

@@ -19,7 +19,7 @@ Casting time|2 Target Character The target character must have the Autumn lore s
 ### Effects
 The target gains one effective rank of the Autumn lore skill for purposes of performing [[Rituals]], subject to the normal rules for effective skill. In addition, they gain the ability to trade valuable [[Materials]] for additional power. When performing an Autumn ritual they have mastered, they can substitute ingots of orichalcum, weltsilver, tempest jade, or green iron for crystal mana. Every 2 ingots spent counts as 1 crystal mana when contributing to the ritual. 
 While the enchantment lasts, the target character experiences a Roleplaying effect: you sense that people who want you to do something for them without offering appropriate recompense are trying to take advantage of you. It is difficult for you to engage in even the most trivial social interactions without seeing them in terms of an exchange of influence and favours.
-If the target is a [[Cambion]], the roleplaying effect is especially pronounced. A cambion may also choose to temporarily add to or increase physical trappings of their [[Lineage]]. These changes are temporary and do not last more than a few hours after the enchantment ends. 
+If the target is a [[Cambion]], the roleplaying effect is especially pronounced. A cambion may also choose to temporarily add to or increase physical trappings of their Lineage. These changes are temporary and do not last more than a few hours after the enchantment ends. 
 Season Duration
 ### Additional Targets
 This ritual can affect additional characters from the same coven. Each additional character increases the magnitude by 15. Additional characters must be present throughout.

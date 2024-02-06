@@ -14,7 +14,7 @@ revision_id: 86061
 __NOTOC__
 to construct the Harps of [[Astolat]], a mana [[Great work]].Proposed by Astolat, seconded by [[Sarvos]].
 ## Overview
-* This motion builds a powerful Great work in Astolat related to this [[Opportunity]]
+* This motion builds a powerful Great work in Astolat related to this Opportunity
 * Passed at 150 thrones.
 ## Date
 * Winter 381YE

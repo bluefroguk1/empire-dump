@@ -18,8 +18,8 @@ We are going to do this because it will attract many pilgrims to the area increa
 This [[Great work]] is also expected to increase the Pride Congregations across the territory.
 Announced by Ella, Daughter of Zemira, of Reumah's [[Redoubt]], [[Highguard]]
 ### Overview
-* A Great work in Reikos to take advantage of the [[Opportunity]] that presented itself during the recent period of inspiration
-* This [[Sinecure]] was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission]] constructions delegated to them by the Senate
+* A Great work in Reikos to take advantage of the Opportunity that presented itself during the recent period of inspiration
+* This [[Sinecure]] was announced by a holder of an Imperial Wayleave, using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Spring 381YE
 ### [[Cost]]

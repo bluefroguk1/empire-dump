@@ -13,7 +13,7 @@ revision_id: 86570
 
 __NOTOC__
 [[Senate announcement]] on behalf of Lorenzo 'La Volpe', [[Civilian Commissioner]] of [[The League]]:
-To [[Commission]] construction in the City of [[Sarvos]] of a [[Great work]] to be known as 
+To Commission construction in the City of [[Sarvos]] of a [[Great work]] to be known as 
 “The Colossus of Sarvos”
 To celebrate the liberation of Sarvos and commemorate those heroic citizens who fell defending their city. To be funded by the Bloody Butchers [[Guild]] and other loyal citizens of The League. 
 Construction to be overseen by Lorenzo 'La Volpe' OverSeer-[[General]] of the Blood Red Roads, Patron of Imperial Art and [[The Empire]]'s First 'Beacon of [[Pride]]'.

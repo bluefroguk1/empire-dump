@@ -40,7 +40,7 @@ If the mandate is enacted, then immediately after the Autumn Equinox a new actio
 How effective the project is will depend on how much effective strength The Empire can bring to bear. Enchantments that aid independent action would apply their full effects, but the Fleet would not receive the normal production for independent action. A standard fleet taking this action receives 1 measure of beggar's lye, 1 ingot of orichalcum, 1 ingot of tempest jade, 1 crystal mana, and luxury goods worth 12 rings; higher or lower rank fleets will receive commensurately more or less.
 At least 5,000 strength
 * The majority of orcs currently trapped in Axos would be brought back to the Empire.
-* Sufficient Axou Orcs would be rescued to create an [[Opportunity]] for the Imperial Orc nation.
+* Sufficient Axou Orcs would be rescued to create an Opportunity for the Imperial Orc nation.
 At least 10,000 strength
 * ''All'' the orcs currently trapped in Axos would be brought back to the Empire
 * Sufficient Axou Orcs would be rescued that they would represent a significant force in Skarsind, at similar in impact to the Ossean septs.

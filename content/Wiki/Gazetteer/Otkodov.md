@@ -10,8 +10,8 @@ revision_id: 94880
 ---
 
 ## Overview
-[[Otkodov]] is a cold [[Barbarian]] nation dominated by the [[Thule]]. It consists of four territories: Urdur in the south-west, [[Verthandi]] in the south, Sküld in the east and Nithoggir in the north.
-Much of Otkodov is chilly plains and tundra, with a massive sprawling coniferous [[Forest]] that covers half of Sküld and a wide range of hills and mountains that covers the southern border with [[Wintermark]] and [[Varushka]]. 
+[[Otkodov]] is a cold Barbarian nation dominated by the [[Thule]]. It consists of four territories: Urdur in the south-west, [[Verthandi]] in the south, Sküld in the east and Nithoggir in the north.
+Much of Otkodov is chilly plains and tundra, with a massive sprawling coniferous Forest that covers half of Sküld and a wide range of hills and mountains that covers the southern border with [[Wintermark]] and [[Varushka]]. 
 The environment seems more "active" in Otkodov than in [[The Empire]]. Naturally occurring bodies of hot or even boiling water are common, as are springs, pools and even lakes whose waters are undrinkable due to concentrations of toxins and Minerals from deep underground. . A number of sites are also marked by irregular geysers of boiling water that explode upWard without warning. In some places, Viscous black tar bubbles to the surface creating a hazard that combines the horror of drowning with the agony of being boiled alive In a few areas, vents in the ground release clouds of choking sulphur or boiling steam. The earth, water and air of Otkodov themselves can be a threat to scouts and spies attempting to avoid more populated areas.
 ## Recent History
 This information was gathered through the use of a [[Spy network]] constructed by the [[Imperial Senate]] in 377YE. Much of Otkodov remains unknown.

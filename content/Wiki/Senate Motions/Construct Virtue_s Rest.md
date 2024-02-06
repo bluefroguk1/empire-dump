@@ -12,7 +12,7 @@ revision_id: 96767
 ---
 
 __NOTOC__
-to create the [[Great work]] called “Virtue’s Rest”, based upon the plans for the Pilgrim’s Road hostelry drawn up by Philemon of Fulmon’s Bounty. This will create a network of seven hostels, one dedicated to each Virtue. These hostels will provide plans of safety and rest for all pilgrims on their PilgriPilgrimage to and from the white city. This [[Opportunity]] will only be available while Philemon of Fulmon’s Bounty has the interest and support of the local populace. The [[Cost]] will be 100 wains of [[White granite]] and 25 Thrones and will be self funded by the citizens of [[Highguard]].''Proposed by [[Bastion]], seconded by [[Bregasland]].''
+to create the [[Great work]] called “Virtue’s Rest”, based upon the plans for the Pilgrim’s Road hostelry drawn up by Philemon of Fulmon’s Bounty. This will create a network of seven hostels, one dedicated to each Virtue. These hostels will provide plans of safety and rest for all pilgrims on their PilgriPilgrimage to and from the white city. This Opportunity will only be available while Philemon of Fulmon’s Bounty has the interest and support of the local populace. The [[Cost]] will be 100 wains of [[White granite]] and 25 Thrones and will be self funded by the citizens of [[Highguard]].''Proposed by [[Bastion]], seconded by [[Bregasland]].''
 ## Outcome
 * To construct a Great work in Bastion based on plans drawn up by Philemon of the [[Chapter]] of Fulmon's Bounty.
 * Passed

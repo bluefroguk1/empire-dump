@@ -20,7 +20,7 @@ This ritual permanently changes the personality of the target character.
 * This can be a subtle alteration or a fUll 'rewrite' of their nature, goals, aims, beliefs and behaviour. 
 * The changes may be as sweeping or minor as the target desires, and seem perfectly natural to the target from that point onwards.
 * The character still remembers who they are and what they did before; memories do not change. 
-* They remain physically the same person; their [[Lineage]], sex and appearance do not change.
+* They remain physically the same person; their Lineage, sex and appearance do not change.
 * Their abilities do not change.
 * Everything else from the kind of food they like or dislike to their core beliefs can be changed with immediate effect. 
 The decision about what elements of personality are changed and in what way is left in the hands of the target; the coven performing the ritual may try to influence these changes, but the final decision is up to the target. 

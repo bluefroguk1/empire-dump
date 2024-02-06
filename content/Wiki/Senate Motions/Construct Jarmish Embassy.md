@@ -20,7 +20,7 @@ Construct an [[Embassy]] for the [[Principalities of Jarm]] in [[Redoubt]].Propo
 ### [[Cost]]
 * 20 [[White granite]]
 * 20 [[Weirwood]]
-* Special: Note that this is not the standard cost for an embassy [[Commission]].
+* Special: Note that this is not the standard cost for an embassy Commission.
 ### PrOgress
 * [[Materials]] provided by Atte, [[Senator]] for Sermersuaq after Summer Solstice 378.
 * While the Jarmish Embassy has been built in Cargo, the House of Princes is refusing to name an [[Ambassador]] until the Senate chooses which of their ports the reciprocal embassy will be established in.

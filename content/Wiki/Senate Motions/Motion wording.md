@@ -20,7 +20,7 @@ The wording of the motion is recorded for posterity in the Imperial archives, so
 ## AMendments
 The wording of a senate motion may change after it has been submitted, based on advice the proposer has received from the Constitutional Court, the civil service, the magistrates, and other citizens. It is not possible to alter the wording of a motion once the motion is read out on the floor of the Senate. At that point the wording is fixed and cannot be changed; the proposer will not be able to submit a new or altered motion during that summit even if they withdraw their motion.
 ## Necessary Details
-Many motions have a number of necessary details which are required for the civil service to enable the motion to be carried out. For example, a [[Commission]] to construct a [[Fortification]] cannot proceed until it is clear ''where'' the fortification is to be built.
+Many motions have a number of necessary details which are required for the civil service to enable the motion to be carried out. For example, a Commission to construct a [[Fortification]] cannot proceed until it is clear ''where'' the fortification is to be built.
 A senator is free to deterMine any of the necessary details that are omitted from their proposed motion. Shrewd senators have been known to deliberately omit details from a motion to try to avoid a hostile reception by the Senate. 
 The Constitutional Court may [[Veto]] a motion if the necessary details provided by a senator would breach the spirit of the Constitution, regardless of when they are specified. If the additional details mean that the Constitutional Court would require a constitutional vote to pass the motion - and it was not passed with a constitutional vote on the day - then it will be rejected.
 ### Commission

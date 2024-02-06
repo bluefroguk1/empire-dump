@@ -35,4 +35,4 @@ Excessive and extended use of Ironblood Tonic has been known to permanently redu
 * Roleplaying Effects: You find it very hard to care about the feelings of other people, and tend to take the most expedient course of action regardless of who it might hurt.
 * Mechanical Effects: You gain three additional ranks of endurance until the next sunrise. This is a tonic; the effect of any other tonic you have drunk immediately ends.
 * Recipe: Three drams of [[Marrowort]], two drams each of True Vervain and Cerulean Mazzarine, and one dram of Bladeroot.
-PotionTable|Tonics of the Deep [[Forest]]
+PotionTable|Tonics of the Deep Forest

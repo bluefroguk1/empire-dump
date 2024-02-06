@@ -32,7 +32,7 @@ Leave your blood or leave no mark
 We are the reason
 You fear the dark
 Liathaven x2 (and throughout)
-Poorly guarded [[Steading]]
+Poorly guarded Steading
 The trap was laid
 Slaughtering the Joutn
 Be afraid

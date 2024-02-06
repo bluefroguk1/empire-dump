@@ -10,8 +10,8 @@ revision_id: 61294
 
 ## [[Eternal]] of Spring
 ### Sobriquets
-Most commonly, Yaw'nagrah is called the ''Green Mother'' or the ''Queen of the [[Forest]]''. 
-She is occasionally called ''Mother of Briars'' or ''Barkspawner'' and some stories tentatively link her with the foundation of the [[Briar]] [[Lineage]]. Her handmaidens have never offered conclusive proof one way or another, and according to many Magicians appear not to understand the question - although it cannot be denied that Yaw'nagrah and her handmaidens respond much more favourably to briars than to other mortals, even for a Spring Eternal.
+Most commonly, Yaw'nagrah is called the ''Green Mother'' or the ''Queen of the Forest''. 
+She is occasionally called ''Mother of Briars'' or ''Barkspawner'' and some stories tentatively link her with the foundation of the [[Briar]] Lineage. Her handmaidens have never offered conclusive proof one way or another, and according to many Magicians appear not to understand the question - although it cannot be denied that Yaw'nagrah and her handmaidens respond much more favourably to briars than to other mortals, even for a Spring Eternal.
 ### Appearance
 Like [[Llofir]], Yaw'nagrah is immense. She appears to be a primeval forest of immense size that spreads across an area of the Spring [[Realm]] roughly the size of [[Varushka]], although it is possible that this estimation is out by several magnitudes. She rarely speaks directly to magicians, but spawns ''handmaidens'' from her body that take the form of human-shaped tree creatures who work to make her guests more at home. 
 Some magicians describe these handmaidens as being comely humanoids, often with briar trappings, rather than animate tree creatures but it is not clear if these are a different kind of creature (possibly heralds), or the result of some exposure to hallucinogenic pollen or spores

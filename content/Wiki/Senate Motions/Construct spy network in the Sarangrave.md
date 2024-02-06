@@ -12,7 +12,7 @@ revision_id: 85489
 ---
 
 __NOTOC__
- A motion to [[Commission]] a [[Spy network]] in the Sarengrave. Costing 10 [[Weirwood]], 2 Thrones 4 Crowns to build, funded by Cyrus of Felix’s Watch. Upkeep costs will be 2 Thrones per season.Proposed by [[Temeschwar]], seconded by [[Karsk]]
+ A motion to Commission a [[Spy network]] in the Sarengrave. Costing 10 [[Weirwood]], 2 Thrones 4 Crowns to build, funded by Cyrus of Felix’s Watch. Upkeep costs will be 2 Thrones per season.Proposed by [[Temeschwar]], seconded by [[Karsk]]
 ## Overview
 * Commissions a Spy network in the [[Sarangrave]] in [[The Mallum]]
 * Passed at 40 Thrones.

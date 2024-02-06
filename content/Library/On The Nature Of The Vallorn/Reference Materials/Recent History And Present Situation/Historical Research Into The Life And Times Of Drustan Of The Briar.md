@@ -22,7 +22,7 @@ Arrayne the Troubadour had an apprentice named Ysabel. She kept a journal which,
 
 "How could you not remember if it was so huge?" I asked and Arrayne looked at me and said "yes, how could that happen to a troubadour who spent their life focusing on retaining details?" They didn't say so, but I suspect [[Night magic]]"
 
-Ysabel quickly turns to the idea of a night [[Mage]] she knows and might speak to, to ask, but the page turns quickly to youthful daydreaming, nothing of more use. As a researcher though, I ask the question "if there was something [[Worth]] hiding with night [[Magic]], then perhaps there was a plan worth knowing about rather than just a Briar caught in the obsessions of their [[Lineage]]?" I cannot find evidence of it though. Nothing for the forty years or more following that last meeting.
+Ysabel quickly turns to the idea of a night [[Mage]] she knows and might speak to, to ask, but the page turns quickly to youthful daydreaming, nothing of more use. As a researcher though, I ask the question "if there was something [[Worth]] hiding with night [[Magic]], then perhaps there was a plan worth knowing about rather than just a Briar caught in the obsessions of their Lineage?" I cannot find evidence of it though. Nothing for the forty years or more following that last meeting.
 
 **On the name, recurring into the present**
 

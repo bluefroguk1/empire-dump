@@ -28,7 +28,7 @@ I am Kostjya of Cabal Lyktan and the Wulfen Reavers, holder of an Imperial Wayle
 CommissionProgress|Kostjyas_Respite
 ## Outcome
 * Establishes a port town in Ossium, on the shores of The Semmerlak, named ''Kostjyas Respite''. 
-* The [[Opportunity]] specifies the town will occupy the same cove that the [[Druj]] launched rafts from to attack [[Semmerholm]] during the reign of [[Empress Varkula]]
+* The Opportunity specifies the town will occupy the same cove that the [[Druj]] launched rafts from to attack [[Semmerholm]] during the reign of [[Empress Varkula]]
 * Once completed, the port on the Bittershore will remove the under-developed quality from the Region of Bittershore
 * It will also create an [[Imperial Title]] - ''Merchant-boyar of Bittershore''
 * The well worn path to elect such a title would be either [[Appointment by the Senate]] or through the Bourse via [[Tally of the Votes]], as decided by the bearer of the Imperial Wayleave 

@@ -16,8 +16,8 @@ Construction of Trading Post in [[Karov]].
 Funding and [[Materials]] provided.
 Approved by the [[Civilian Commissioner]] of [[Varushka]]
 ### Overview
-* This motion was to take advantage of the [[Opportunity]] presented to improve the wealth of [[Skarsind]]
-* This motion was approved by the Civilian Commissioner of Varushka using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This motion was to take advantage of the Opportunity presented to improve the wealth of [[Skarsind]]
+* This motion was approved by the Civilian Commissioner of Varushka using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Summer 380YE
 ### [[Cost]]

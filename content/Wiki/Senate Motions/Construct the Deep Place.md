@@ -12,7 +12,7 @@ revision_id: 105768
 ---
 
 __NOTOC__
-To construct [[Mine]] workings in The Mountains of Brez, to aid the cabalists of Void and maintain [[Vigilance]] over their doings. A time limited [[Opportunity]], creating the title 'Bredavoi Emissary' to be elected by the Senators of [[Varushka]].
+To construct [[Mine]] workings in The Mountains of Brez, to aid the cabalists of Void and maintain [[Vigilance]] over their doings. A time limited Opportunity, creating the title 'Bredavoi Emissary' to be elected by the Senators of [[Varushka]].
 ## Overview
 * Constructs a [[Ministry]] in [[Volodmartz]] as per the [[The horror and the wild]] wind of fortune
 * Passed

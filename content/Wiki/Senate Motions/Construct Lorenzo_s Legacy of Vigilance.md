@@ -15,7 +15,7 @@ __NOTOC__
 To construct a [[Great work]] in New Dunhall of [[Hahnmark]] to enhance the production of mana. To be known as ‘Lorenzo’s [[Legacy]] of [[Vigilance]]’. At a [[Cost]] of 40 wains of [[Mithril]] and 10 thrones, to be funded by Lorenzo ‘La Volpe’ and the Bloody Butchers [[Guild]] of [[Temeschwar]]. To be built by the Asavean [[Architect]].''Proposed by [[Sermersuaq]], Seconded by Hahnmark.''
 ## Overview
 * This motion was to build a Great work in Hahnmark to improve the production of Mana sites 
-* This [[Commission]] will be overseen by Almodin Oktístis, Priest of the Builder.
+* This Commission will be overseen by Almodin Oktístis, Priest of the Builder.
 * Passed
 ## Date
 * Winter 381YE

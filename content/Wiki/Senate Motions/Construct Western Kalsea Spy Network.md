@@ -15,7 +15,7 @@ __NOTOC__
 Construct a [[Spy network]] to the west of [[Skallahn]] to super charge the offensive against the [[Jotun]]
 ## Overview
 * Commissions a Spy network in the territory west of Skallahn.
-* Builds on the [[Opportunity]] presented by the success of the Skallahn raid to build a spy network in the Territory west of Skallahn. This opportunity was presented in the [[Take it further]] wind of fortune.
+* Builds on the Opportunity presented by the success of the Skallahn raid to build a spy network in the Territory west of Skallahn. This opportunity was presented in the [[Take it further]] wind of fortune.
 * Announcement by the [[Imperial Spymaster]]
 ## Date
 * Autumn 384YE

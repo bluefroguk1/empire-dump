@@ -12,7 +12,7 @@ revision_id: 100759
 ---
 
 ## Overview
-The [[Great [[Forest]] at Reikos]] is located on the southern borders of the [[Great Forest of Peytaht]]. It covers the eastern hills of Broken Ride in the Highborn Territory of [[Reikos]]. Custodianship of the Great Forest grants an [[Imperial Title]]; a seat on the [[Imperial Bourse]]; and a seasonal bounty of valuable [[Weirwood]]
+The [[Great Forest at Reikos]] is located on the southern borders of the [[Great Forest of Peytaht]]. It covers the eastern hills of Broken Ride in the Highborn Territory of [[Reikos]]. Custodianship of the Great Forest grants an [[Imperial Title]]; a seat on the [[Imperial Bourse]]; and a seasonal bounty of valuable [[Weirwood]]
 ## The Resource
 On the borders of Reikos, the Great forest is an abundant source of valuable timber including precious weirwood. It was lost when the territory was over-run by [[Druj]] barbarians in 369YE, and [[Liberated]] by Dawnish and [[Navarr]] forces shortly before the Winter Solstice 379YE. Only swift Imperial action prevented the orcs from firing the groves in a final, spiteful attempt to deny them to [[The Empire]].
 The Great Forest at Reikos covers the eastern hills of Broken Ride, and the trees beyond the groves are an abundant source of valuable timber. Before Reikos fell to the orcs, it was an Imperial seat; the [[Imperial Senate]] voted to allocate the seat as Imperial during the Spring Equinox 380YE.
@@ -20,7 +20,7 @@ The weirwood groves, and the section of forest that the Highborn harvest for lum
 The Highborn woods are relatively safe - or at least they were before the Druj braved the heart of the great forest and launched their surprise invasion. The further north one travels, however, the more eerie and inhospitable the woods become. Beyond the northern borders of Reikos, the forest is largely untouched and there are many local tales of travellers or foolhardy entrepreneurs disappearing without a trace after pushing too far into unknown areas.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of weirwood which is theirs to do with as they will. If the Great Forest at Reikos were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Great Forest at Reikos, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of weirwood which is theirs to do with as they will. If the Great Forest at Reikos were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Great Forest at Reikos, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Great Forest at Reikos comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

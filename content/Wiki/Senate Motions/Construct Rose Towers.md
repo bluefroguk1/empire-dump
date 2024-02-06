@@ -20,7 +20,7 @@ An announcement by bearer of a Wayleave, to build a [[Sinecure]] in Senmer’s R
 ## Date
 * Winter 381YE
 ## [[Cost]]
-* An [[Opportunity]] applies
+* An Opportunity applies
 * 15 wains of [[White granite]]
 * 30 crowns
 * 3 months to complete
@@ -28,7 +28,7 @@ An announcement by bearer of a Wayleave, to build a [[Sinecure]] in Senmer’s R
 * 15 wains of white granite and 30 crowns provided by Sandro Visconti di Sarvos after the Spring Equinox 382YE.
 ## Outcome
 * When complete, creates the [[Imperial Title]] ''The Queen's Rose'' with custodianship of a place of PilgriPilgrimage, providing 12 doses of liao and 24 votes in the [[Imperial Synod]].
-* While The Wayleave references the [[Fortification]] at Semmer's Rose, the pLanned [[Commission]] in fact makes use of the minor fortifications at Lacre in the Region of Lacuve.
+* While The Wayleave references the [[Fortification]] at Semmer's Rose, the pLanned Commission in fact makes use of the minor fortifications at Lacre in the Region of Lacuve.
 ## Constitution
 * The well-worn path for a sinecure such as this would be [[Appointment]] by an [[Assembly]] of the Imperial Synod.
 * In [[Recognition]] of the purpose of the commission, and with the support of [[Statement of Principle]] from the [[Dawn]] national assembly1, appointment by The Throne in its role as Monarch of Dawn has been approved. In the absence of a Throne, this title could not be appointed.

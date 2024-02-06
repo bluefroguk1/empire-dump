@@ -10,7 +10,7 @@ revision_id: 104898
 
 ## Overview
 The world of Empire is known to touch six other planes of existence. These are home to Magical entities called Eternals, some of whom are interested in the human world. Players - especially magicians - can meet and negotiate with the eternals. The eternals are not gods but posses magical powers that players will find useful. They have their own motivations and personalities, and characters will be able to bargain with them to advance their own agendas.
-Eternals have distinct personalities, but most respond positively to mortals who demonstrate personality traits in keeping with those  common to the [[Lineage]] associated with their [[Realm]].
+Eternals have distinct personalities, but most respond positively to mortals who demonstrate personality traits in keeping with those  common to the Lineage associated with their [[Realm]].
 The [[Imperial Conclave]] has the power to set the status of various Eternals with regards to [[The Empire]] via a [[Declaration]] of [[Alignment]]. A list of the current status of all Eternals can be found here.
 ### Eternals Interested in the Empire
 This list of eternals is not exhaustive; rather it lists some of those beings who have shown a special interest in the Empire since its formation.

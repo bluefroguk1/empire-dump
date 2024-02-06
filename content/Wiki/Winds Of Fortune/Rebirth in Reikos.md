@@ -42,6 +42,6 @@ As always, in the event that multiple incompatible judgements are passed, the Ju
 There's a lot going on in Reikos this season. You may also want to look at some of the following sections:
 * Winds of [[War]]
 * More details of the general situation
-* An [[Opportunity]] for the Imperial Synod regarding the weird fungi growing in parts of Reikos.
+* An Opportunity for the Imperial Synod regarding the weird fungi growing in parts of Reikos.
 ## Resolution
 The Imperial Synod supported Jared, [[Cardinal of Loyalty]], in [[Spreading the word]] of Yael's teachings throughout the entire Empire. You can learn more about the repercussions of this event here.

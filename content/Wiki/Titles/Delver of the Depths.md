@@ -12,7 +12,7 @@ revision_id: 104283
 ---
 
 ## Overview
-The Delver of the Deep is an [[Imperial Title]] created by the [[Imperial Senate]] in as a response to the great sinkhole that opened up in the north-western Empire in 381YE. The hole swallowed parts of [[Miaren]], [[Temeschwar]], [[Upwold]], and [[Hahnmark]], and while it presented an [[Opportunity]] to claim a significant amount of weltsilver it did so alongside a significant threat of [[Trogoni]] attacks.
+The Delver of the Deep is an [[Imperial Title]] created by the [[Imperial Senate]] in as a response to the great sinkhole that opened up in the north-western Empire in 381YE. The hole swallowed parts of [[Miaren]], [[Temeschwar]], [[Upwold]], and [[Hahnmark]], and while it presented an Opportunity to claim a significant amount of weltsilver it did so alongside a significant threat of [[Trogoni]] attacks.
 The title is similar to those that grant custodianship of a [[Sinecure]], in that it provides a regular income of valuable [[Materials]]. Unlike a sinecure, however, the [[Delver of the Depths]] did not need to be Commissioned, and has an upkeep for the Senate of 5 Thrones each season.
 ## Responsibilities
 The Delver of the Depths has few responsibilities regarding ''Lorenzo's Deep Pockets'' as the sinkhole has been officially named. They are responsible for protecting the sinkhole and its bounty - but also for protecting the lands around it from the creatures that lair in its depths. If any Opportunity relating to the sinkhole were to arise, the Delver of the Depths would likely be responsible for determining how those opportunities might be exploited - for example granting permission to an adventurous scholar to explore the depths of the hole.

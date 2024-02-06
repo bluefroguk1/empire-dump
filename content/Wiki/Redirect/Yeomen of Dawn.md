@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Yeomen of Dawn
-aliases: ['Yeomen_of_Dawn']
-draft: False
+aliases:
+- Yeomen_of_Dawn
+draft: false
 revision_date: 2012-08-28 12:37:09+00:00
 revision_id: 8474
 ---
 
-#REDIRECT [[Yeoman of Dawn]]
+#REDIRECT Yeoman of Dawn

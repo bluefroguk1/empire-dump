@@ -14,7 +14,7 @@ revision_id: 96804
 __NOTOC__
 To construct the "Garden of the Imperial Auxiliaries" in Coursmouth, [[Necropolis]], a [[Herb garden]] [[Sinecure]]. This creates the title "[[Legate of the Imperial Auxiliaries]]" with the power to address Military Council, to be elected by Military Council. This position has the responsibility to support the Imperial Auxiliaries in aiding the Field Marshall with communicating on major [[Conjunctions]] through the [[Sentinel Gate]]. Revokable by the [[General]] and the [[Assembly]] of Nine.
 ## Overview
-* Commissions a [[Herb]] garden Sinecure in Necropolis
+* Commissions a Herb garden Sinecure in Necropolis
 * Passed
 ## Date
 * Summer 384YE

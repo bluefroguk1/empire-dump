@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Tonic of Sunlit Glass
-aliases: ['Tonic_of_Sunlit_Glass']
-draft: False
+aliases:
+- Tonic_of_Sunlit_Glass
+draft: false
 revision_date: 2023-05-13 14:49:50+00:00
 revision_id: 100742
 ---
 
-#REDIRECT [[Tonics of the Open Sky#Tonic of Sunlit Glass]]
+#REDIRECT Tonics of the Open Sky#Tonic of Sunlit Glass

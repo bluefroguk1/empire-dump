@@ -12,7 +12,7 @@ tags:
 
 Of course the Creator has a sense of humour. Who else would pit a merchant against a priest?
 ## Overview
-[[White granite]] is a highly precious smooth white glittering stone prized for the ability to withstand daMage while maintaining a beautiful finish. It is one of the key [[Materials]] used by the Senate to raise and repair fortifications or to [[Commission]] new buildings and is a vital component of many opportunities.
+[[White granite]] is a highly precious smooth white glittering stone prized for the ability to withstand daMage while maintaining a beautiful finish. It is one of the key [[Materials]] used by the Senate to raise and repair fortifications or to Commission new buildings and is a vital component of many opportunities.
 White granite is bought and sold in Imperial wains. These weigh about 500kg, with a volume of half a cubic metre. Due to the vast weight, trading is done in Bourse Certificates provided by the civil service.
 ## Bourse Certificate
 White granite is too bulky to easily transport to [[Anvil]]. To help facilitate trade across [[The Empire]], the [[Imperial Civil Service]] provide Bourse certificates for every wain. Citizens can trade these certificates safe in the knowledge that they can be exchanged for a wain of white granite when the need arises.
@@ -21,7 +21,7 @@ White granite is too bulky to easily transport to [[Anvil]]. To help facilitate 
 White granite is primarily useful as a building material. [[Emperor James]] was known as the White granite Emperor for the large number of fortifications he created during his reign. 
 The Senate can Commission a range of buildings that fortify, enrich or uplift the Empire. White granite is usually required in the construction of:
 * [[Fortification]] 
-* [[Ministry]] - a ministry built with white granite would allow the purchase of [[Forest]] materials
+* [[Ministry]] - a ministry built with white granite would allow the purchase of Forest materials
 * [[Sinecure]]  - a sinecure built with white granite would generate rings, forest materials, or a combination of [[Liao]] and votes in the [[Imperial Synod]]
 * [[Great work]] - a great work built with white granite would generate rings or forest materials
 * [[Runeforge]]

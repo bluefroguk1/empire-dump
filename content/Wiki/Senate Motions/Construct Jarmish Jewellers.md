@@ -14,8 +14,8 @@ revision_id: 90245
 __NOTOC__
 To construct the Jarmish Star Jewellery exchange in Seren, [[Miaren]], the liaison to be appointed by open auction on the [[Imperial Bourse]]. Costs are 24 crowns, 8 [[White granite]], 4 [[Mithril]]. To be self-funded.''Proposed by [[Temeschwar]], seconded by [[Kahraman]].''
 ## Overview
-* [[Commission]] a fortified premesis for the Kobarid [[Family]] of Jarm to sell ''glazamy neba'' to Imperial customers.
-* This [[Opportunity]] is the result of an offer by the Jarmish Magician-Prince Matvei Kobarid.
+* Commission a fortified premesis for the Kobarid [[Family]] of Jarm to sell ''glazamy neba'' to Imperial customers.
+* This Opportunity is the result of an offer by the Jarmish Magician-Prince Matvei Kobarid.
 * Passed in principle.
 * This motion was abrogated during the Winter Solstice 382YE.
 ## Date

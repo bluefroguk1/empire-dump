@@ -15,7 +15,7 @@ __NOTOC__
 To disburse funds for and modernise the pumps of Syrene's [[Wisdom]]. This will result in better [[Ilium]] returns and much safer conditions for the Miners. .
 ## Overview
 * Commissions improvements to Syrene's Wisdom in [[Casinea]]
-* The [[Opportunity]] is detailed in the [[Wake up crying]] Wind of Fortune.
+* The Opportunity is detailed in the [[Wake up crying]] Wind of Fortune.
 * Until completed, Syrene's Wisdom will produce only 4 rings of ilium each season
 * Passed
 ## Date

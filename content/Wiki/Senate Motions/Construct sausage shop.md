@@ -14,7 +14,7 @@ revision_id: 90241
 __NOTOC__
  to construct a [[Great work]] in [[Holberg]] recognising the works of the companies of proVisioners and victuaries during the siege of Holberg. This Great Work will create the position of “[[Custodian of the Bloody Great Sausage]]”, chosen annually by the Senators of [[The League]]. It will [[Cost]] 20 [[White granite]] and 40 crowns to construct, provided by Lorenzo La Volpe of the Bloody Butcher’s [[Guild]]. No annual upkeep.''Proposed by Holberg, seconded by [[Temeschwar]].''
 ## Overview
-* To expand sausage production and distribution in Holberg, as part of an [[Opportunity]].
+* To expand sausage production and distribution in Holberg, as part of an Opportunity.
 * Passed.
 ## Date
 * Spring 382YE

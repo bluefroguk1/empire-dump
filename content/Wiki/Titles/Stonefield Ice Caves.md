@@ -12,7 +12,7 @@ revision_date: 2020-08-04 14:00:14+00:00
 revision_id: 80389
 ---
 
-As of Summer 379YE, the [[Stonefield Ice Caves]] are controlled by the [[Thule]] and are no longer an [[Imperial Bourse]] seat. This page reflects their status before they were lost to the [[Barbarian]] orcs.
+As of Summer 379YE, the [[Stonefield Ice Caves]] are controlled by the [[Thule]] and are no longer an [[Imperial Bourse]] seat. This page reflects their status before they were lost to the Barbarian orcs.
 ## Overview
 The Stonefield Ice Caves are found on the lower slopes of the Silverpeaks in the [[Wintermark]] Territory of [[Sermersuaq]]. Custodianship of the Caves granted an [[Imperial Title]]; a seat on the Imperial Bourse; and a seasonal bounty of valuable [[Ilium]]. They were ceded to the Thule, along with the rest of the Silverpeaks, as part of a peace treaty in Summer 379YE.
 ## The Resource
@@ -21,7 +21,7 @@ In 224YE, a major incident occurred in the caves when a team of workers unexpect
 To reward the Winterfolk for the risks they take, during the Spring Equinox control of the Stonefield Ice Caves was allocated to whichever [[Military unit]] performed the largest raid against the enemies of [[The Empire]]. During the Summer 379YE summit, after a year of bitter fighting in the SIlverpeaks. the [[Imperial Senate]] voted to accept a peace treaty negotiated with the Thule. As part of the terms, The Mountains were ceded to the barbarian orcs - which included the Stonefield Ice Caves. Some Winterfolk are still (perhaps understandably) angry that "what the Thule failed to take in battle, the Senate simply gave them."
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of ilium which is theirs to do with as they will. If the Stonefield Ice Caves were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Stonefield Ice Caves, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of ilium which is theirs to do with as they will. If the Stonefield Ice Caves were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Stonefield Ice Caves, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Stonefield Ice Caves comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

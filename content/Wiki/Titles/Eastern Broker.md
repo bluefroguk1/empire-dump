@@ -15,7 +15,7 @@ revision_id: 106142
 The Khiklotu Khrysoú are a loose alliance of Axou traders which the civil service suggest are equivalent to a Chamber of Commerce. Shortly before the Summer Solstice 382YE, a trading post was established in Peakedge Song, created by Selenius as the [[Bearer of an Imperial Wayleave]]. The [[Eastern Broker]] is an [[Imperial Title]]  aWarded to a [[Navarr]] citizen who oversees relations between the brokers of [[Therunin]] and those [[Axos]] merchants prepared to make the long trip north from the [[Bay of Catazar]] to trade with them.
 Following the [[Mandate]] raised by Maximillian Ankarien in Summer 383YE, encouraging Imperial traders to seek out closer ties with the people of Axos, an influx of traders from The Chambers of Issyk brought additional opportunities to the Eastern Broker. The merchants of Issyk brought [[Cerulean Mazzarine]], [[Ambergelt]], and green iron to trade at the Brokerage. Shortly after the Winter Solstice 384YE the docks of Issyk were torched by the [[Grendel]] removing the extra [[Ministry]] from the Eastern Broker. Likewise the ongoing issues between the Citadels of Axos and [[The Empire]] led to a reduction in goods offered in both [[Materials]] and mana.
 ## Responsibilities
-The Broker is expected to ensure trade continues between the Khiklotu Khrysoú and the Navarr. This close contact with the traders allows ample [[Opportunity]] for the Broker to acquire supplies at bargain prices from the Axou merchants.
+The Broker is expected to ensure trade continues between the Khiklotu Khrysoú and the Navarr. This close contact with the traders allows ample Opportunity for the Broker to acquire supplies at bargain prices from the Axou merchants.
 ## Powers
 ### Ministry
 Materials

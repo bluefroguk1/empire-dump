@@ -20,7 +20,7 @@ to raise the walls of [[Holberg]] from their current level to double their curre
 ## Date
 * Winter 381YE
 ## [[Cost]]
-* An [[Opportunity]] applies
+* An Opportunity applies
 * 200 wains of [[White granite]]
 * 50 Thrones
 * 1 year to complete

@@ -25,7 +25,7 @@ Finn kept her gaze a little longer. "I'll head for [[Anvil]] - in the morning. O
 * The Thane and his companions are will seek out the Scops of [[Wintermark]] at 9 o'clock on Saturday
 At the Spring Equinox just gone, a [[Kallavesi]] named Alfmund Forwinsson put forWard a [[Judgement]] to the [[Imperial Synod]] urging the Winterfolk to remember The Ways of Heroism that aren't about going to battle. The judgement enCouraged the people of the Mark to recall the [[Wisdom]] of the Kallavesi and the cunning of the [[Suaq]] and not to rely solely on heroism in battle.
 One who agreed strongly with Alfmund's judgement is an elderly [[Steinr]] artisan named Cenred Xunhand. His daughter Erna, chose to become Suaq, and was noted for her keen mind before she was killed defending [[Skarsind]] with Britta as adjutant of the Green Shields. The call to see all forms of heroism celebrated by the Mark has driven the elderly thane to come to Anvil. 
-The thane intends to present a [[Challenge]] to the scops of the Winterfolk to tell him the best story of heroism that ''doesn't'' involve battle. He plans to present a prize for the best such story.
+The thane intends to present a Challenge to the scops of the Winterfolk to tell him the best story of heroism that ''doesn't'' involve battle. He plans to present a prize for the best such story.
 ## The Accounter
 * Vulpius, herald of [[Ephisis]], is hosting a silent auction in the Hall of Worlds
 * The auction is expected to start at 2 o'clock on Saturday, with final forms handed in at 3 o'clock
@@ -34,7 +34,7 @@ The silent auction will have a number of items available, laid out to inspect ne
 ## The Enigma
 * ''Something'' has made its home in the other side of a Night [[Regio]] in [[Miaren]]
 * It has requested company, and is willing to offer rewards for new experiences
-In a quiet [[Forest]], not far from the Ruins of Seren, there is a small night regio. It has been there for some time, the vates of the Stridings nearby will occasionally use it for the casting of [[Rituals]], or use the flowers that grow there for their tattoos.
+In a quiet Forest, not far from the Ruins of Seren, there is a small night regio. It has been there for some time, the vates of the Stridings nearby will occasionally use it for the casting of [[Rituals]], or use the flowers that grow there for their tattoos.
 OOC NOTE
 This encounter will have low lighting, if you need to bring something to read by then it is entirely fine but please bring it yourself
 Something has changed in the last three months though, since the surge of [[Night magic]] that spread across [[The Empire]], something new has made its home in a chamber [[On the other side]] of the regio. It has sent through small ''tendrils'' of itself, to ask the people it encounters to come to it. To speak, sing and perform for it. To provide it with things that are old, and new. Things that can excite the senses, things that can dUll them such that it can experience everything again.

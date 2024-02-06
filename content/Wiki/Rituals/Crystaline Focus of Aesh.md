@@ -20,7 +20,7 @@ Casting time|2 Target Character The target character must possess the Day Lore s
 The target gains one effective rank of the Day lore skill for purposes of performing [[Rituals]], subject to the normal rules for effective skill. 
 They gain two effective ranks (total) to the appropriate ritual lore if they are contributing to the performance of any ritual that divines information. The ritual does not need to be part of Day lore, but the normal rules for effective skill still apply. 
 While the enchantment lasts the target experiences a Roleplaying effect: You feel incredibly focused, able to bring all your faculties to bear on a single topic. Distractions become irritating, however, and it can often prove difficult for you to shift your focus to another subject or think about more than one thing at a time.
-If the target is a [[Merrow]], the roleplaying effect is especially pronounced. A merrow may also choose to temporarily add to or increase physical trappings of their [[Lineage]]. These changes are temporary and do not last more than a few hours after the enchantment ends.
+If the target is a [[Merrow]], the roleplaying effect is especially pronounced. A merrow may also choose to temporarily add to or increase physical trappings of their Lineage. These changes are temporary and do not last more than a few hours after the enchantment ends.
 Season Duration
 __TOC__
 ### Additional Targets

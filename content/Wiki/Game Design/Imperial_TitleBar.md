@@ -1,156 +1,157 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Title: Imperial_TitleBar
-draft: False
+draft: false
 revision_date: 2024-01-29 10:49:55+00:00
 revision_id: 107379
-tags: ['Game-Design']
+tags:
+- Game-Design
 ---
 
-* [[The game|The Game]]
-** What is [[Live roleplaying|Live Roleplaying]]?
+* The Game
+** What is Live Roleplaying?
 ** --
 ** = About Empire =
-** [[The game|The Game]]
-** [[Costume]]
-** [[Children]]
+** The Game
+** Costume
+** Children
 ** --
-** = [[Events]] =
+** = Events =
 ** Event List
 ** Event Site
 ** Standard Event Details
-** [[Sanctioned events|Sanctioned Events]]
-** [[Accessibility]]
+** Sanctioned Events
+** Accessibility
 ** --
 ** = Contact Details =
-** [[Contact us|Contact Us]]
-** [[Feedback]]
-** [[Online]]
-** [[Forums & Facebook]]
+** Contact Us
+** Feedback
+** Online
+** Forums & Facebook
 ** --
 ** = Crew =
-** [[Crewing]]
+** Crewing
 * Nations
 ** Overview
 ** --
-** [[The Brass Coast]]
-** [[Dawn]]
-** [[Highguard]]
-** [[Imperial Orcs]]
-** [[The League]]
-** [[The Marches]]
-** [[Navarr]]
-** [[Urizen]]
-** [[Varushka]]
-** [[Wintermark]]
+** The Brass Coast
+** Dawn
+** Highguard
+** Imperial Orcs
+** The League
+** The Marches
+** Navarr
+** Urizen
+** Varushka
+** Wintermark
 ** --
-** [[Nationality]]
-** [[Music]]
+** Nationality
+** Music
 ** --
-** [[FAQ]]
-* [[The Empire]]
+** FAQ
+* The Empire
 ** Overview
 ** --
 ** = Imperial Structures =
-** [[The Senate]]
-** [[The Synod]]
-** The [[Military Council]]
-** [[The Conclave]]
-** [[The Bourse]]
+** The Senate
+** The Synod
+** The Military Council
+** The Conclave
+** The Bourse
 ** --
-** [[The Throne]]
+** The Throne
 ** --
-** [[The Academy]]
+** The Academy
 ** Imperial Sodalities
 ** --
-** [[Imperial Law]]
-** [[Imperial history|Imperial History]]
-** [[Imperial Elections]]
-** Recent [[History]]
+** Imperial Law
+** Imperial History
+** Imperial Elections
+** Recent History
 ** --
-** The [[Sentinel Gate]]
+** The Sentinel Gate
 * The People
 ** = Species =
-** [[Imperial Orcs]]
+** Imperial Orcs
 ** --
-** =[[Lineage]]=
+** =Lineage=
 ** Overview
-** [[Briar]]
-** [[Cambion]]
-** [[Changeling]]
-** [[Draughir]]
-** [[Merrow]]
-** [[Naga]]
+** Briar
+** Cambion
+** Changeling
+** Draughir
+** Merrow
+** Naga
 ** --
 ** FAQ
-* [[Magic]]
+* Magic
 ** = Rules =
-** [[Magical skills|Magical Skills]]
-** [[Spellcasting]]
-** [[Rituals]]
-** [[Magic Items]]
-** [[Herbs]] & Potions
+** Magical Skills
+** Spellcasting
+** Rituals
+** Magic Items
+** Herbs & Potions
 ** --
-** = Imperial [[Magic]] =
-** [[Ritual Theory]]
+** = Imperial Magic =
+** Ritual Theory
 ** Magical Traditions
-** [[Hearth magic|Hearth Magic]]
+** Hearth Magic
 ** --
 ** = Cosmology =
 ** Eternals
-** [[Realms]]
-** [[Regio]]
+** Realms
+** Regio
 * Religion
 ** Overview
 ** --
 ** = Rules =
-** [[Religious skills|Religious Skills]]
-** [[Aura]]
-** [[Liao]]
+** Religious Skills
+** Aura
+** Liao
 ** --
 ** = The Seven Virtues =
-** [[Ambition]]
-** [[Courage]]
-** [[Loyalty]]
-** [[Pride]]
-** [[Prosperity]]
-** [[Vigilance]]
-** [[Wisdom]]
+** Ambition
+** Courage
+** Loyalty
+** Pride
+** Prosperity
+** Vigilance
+** Wisdom
 ** --
-** [[Imperial Theology]]
+** Imperial Theology
 * The World
-** [[Maps]]
-** [[Gazetteer]]
+** Maps
+** Gazetteer
 ** --
-** [[Barbarians]]
-** [[Foreign Nations]]
+** Barbarians
+** Foreign Nations
 ** --
-** [[Languages]]
-** [[Pronunciation guide|Pronunciation Guide]]
+** Languages
+** Pronunciation Guide
 ** --
-** [[Setting FAQ]]
+** Setting FAQ
 * Rules
-** = [[General]] Rules =
-** [[Characters]]
-** [[Playing the game|Playing the Game]]
+** = General Rules =
+** Characters
+** Playing the Game
 ** Referees & GOD
 ** Safety
-** [[Conduct]]
-** [[Downtime]]
+** Conduct
+** Downtime
 ** --
 ** = Core Rules =
-** [[Combat]]
-** [[Calls]]
-** [[Weapons & Armour]]
-** [[Magic]]
-** [[Game items|Game Items]]
-** [[Roleplaying effects|Roleplaying Effects]]
+** Combat
+** Calls
+** Weapons & Armour
+** Magic
+** Game Items
+** Roleplaying Effects
 ** --
 ** = Character Creation =
 ** Backgrounds
-** [[Skills]]
-** [[Bands]]
-** [[Resource]]
+** Skills
+** Bands
+** Resource
 ** --
-** [[Rules update|Rules Update]]
+** Rules Update
 ** FAQ

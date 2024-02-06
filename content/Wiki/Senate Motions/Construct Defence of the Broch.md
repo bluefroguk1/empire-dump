@@ -14,7 +14,7 @@ revision_id: 94617
 __NOTOC__
 To construct the defence of the Broch, an installation which will help defend Broceliande, provide a bounty of 75 herbs, and function as a [[Spy network]]. Costs 40 WW and 10 Th.''Proposed by [[Miaren]], seconded by [[Therunin]]''
 ## Outcome
-* Construct the Defence of the Broch, taking advantage of the [[Opportunity]] presented by the people of the steadings.
+* Construct the Defence of the Broch, taking advantage of the Opportunity presented by the people of the steadings.
 * Passed at 150 thrones
 ## Date
 * Autumn 383YE

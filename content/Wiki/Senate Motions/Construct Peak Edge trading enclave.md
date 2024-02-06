@@ -12,7 +12,7 @@ revision_id: 85814
 ---
 
 __NOTOC__
-A large trading enclave in [[Therunin]] arranged with the Axou nation and Imperial servants. Allows trade with Axou, for exotic herbs and resources. Counts as a single [[Commission]]. Self funded.''Imperial Wayleave by Selenius''
+A large trading enclave in [[Therunin]] arranged with the Axou nation and Imperial servants. Allows trade with Axou, for exotic herbs and resources. Counts as a single Commission. Self funded.''Imperial Wayleave by Selenius''
 ## Overview
 * Passed.
 ## Date

@@ -47,7 +47,7 @@ O Orcish Tribes, with eyes aflame,
 Fighting for [[The Empire]]’s name,
 Who very frankly speak your mind – 
 Be sure you treat your love in kind,
-O [[Navarr]] of the [[Forest]] [[Trod]],
+O [[Navarr]] of the Forest [[Trod]],
 Nimble scouts all leather-shod,
 If you hide too long amid the trees
 There’ll be none left for you to please.

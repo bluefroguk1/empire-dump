@@ -15,7 +15,7 @@ The dispersal of Senate funds to Senate of [[Holberg]] for the purpose of contin
 ### Overview
 * Passed in principle
 * Passed at 350 Thrones
-* A request for additional funds toWards the [http://www.profounddecisions.co.uk/empire-wiki/Raise [[Raise_Towerjacks_army]] [[Commission]]] of the [http://www.profounddecisions.co.uk/empire-wiki/[[The_League]] League] army [http://www.profounddecisions.co.uk/empire-wiki/[[The_League_military_concerns]]#The_Towerjacks The [[Towerjacks]]]
+* A request for additional funds toWards the [http://www.profounddecisions.co.uk/empire-wiki/Raise [[Raise_Towerjacks_army]] Commission] of the [http://www.profounddecisions.co.uk/empire-wiki/[[The_League]] League] army [http://www.profounddecisions.co.uk/empire-wiki/[[The_League_military_concerns]]#The_Towerjacks The [[Towerjacks]]]
 ### Date
 * Autumn 379YE
 ### PrOgress

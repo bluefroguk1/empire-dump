@@ -12,7 +12,7 @@ revision_id: 103040
 ---
 
 ## Overview
-The [[Imperial Advisor for the Feni]] is an [[Imperial Title]] appointed by the Senate. The title was created during the Spring Equinox 383YE. Prior to the Spring Equinox 384YE the Advisor had the power to [[Commission]] [[Historical research]]. That power was removed following changes to how the Department was organised.
+The [[Imperial Advisor for the Feni]] is an [[Imperial Title]] appointed by the Senate. The title was created during the Spring Equinox 383YE. Prior to the Spring Equinox 384YE the Advisor had the power to Commission [[Historical research]]. That power was removed following changes to how the Department was organised.
 ## Responsibilities
 The purpose of the Imperial Advisor for the [[Feni]] is to diplome with the Feni, and to use the power of historical research in their dealings with them.
 ### Constitutional Note

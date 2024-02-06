@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Overview
-Most significant Imperial Titles are reelected annually on a specific date, for instance an election for the title of [[Senator]] of [[Madruga]] is held every summit at the Winter Solstice. If the title dies, is revoked or steps down then the title becomes vacant; it is re-elected at the Earliest practical [[Opportunity]] but an election for the title still takes place at the normal date.
+Most significant Imperial Titles are reelected annually on a specific date, for instance an election for the title of [[Senator]] of [[Madruga]] is held every summit at the Winter Solstice. If the title dies, is revoked or steps down then the title becomes vacant; it is re-elected at the Earliest practical Opportunity but an election for the title still takes place at the normal date.
 Some Imperial titles appointed by the [[Imperial Senate]] serve for a year from the summit where they were appointed. Such a title becomes eligible for reAppointment at anytime during the summit one year later. The incumbent remains in position until replaced or at the end of the event - whichever comes sooner.  If the Senate wish, they can choose to elect a title to serve for less than a year. This must be explicit in the wording of the [[Senate motion]].  It is not possible to extend the term beyond a year, nor to make it shorter than a single season, nor to restrict the length served of a tenured position.  
 The majority of titles appointed by the [[Imperial Conclave]] can be reelected at any time through a [[Declaration]] of [[Candidacy]]. 
 Some Imperial titles have tenure. The title is held until the citizen dies or steps down. 
@@ -77,7 +77,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title]] wi
 ### Bourse Auction
 * [[Canterspire Circle]]
 * [[Golden Trees of Seren]]
-* [[Great [[Forest]] at Reikos]]
+* [[Great Forest at Reikos]]
 * [[Heartwood of the Great Vale]]
 * [[Hunt of Alderei the Fair]]
 * [[Weirwater Vales]]

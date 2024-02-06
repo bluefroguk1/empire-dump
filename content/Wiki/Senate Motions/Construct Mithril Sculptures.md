@@ -12,7 +12,7 @@ revision_id: 105101
 ---
 
 __NOTOC__
-To [[Commission]] a [[Folly]] of two [[Mithril]] statues, one in southern Proceris and one in the peaks of Optarion. This creates the [[Urizen]] national title of [[Oblivion Sentinel]], with the responsibility to keep watch over the [[Black Plateau]] and deal with any threats associated with it. To be elected by vote of the Urizen Generals. Disbursements of funds needed.
+To Commission a [[Folly]] of two [[Mithril]] statues, one in southern Proceris and one in the peaks of Optarion. This creates the [[Urizen]] national title of [[Oblivion Sentinel]], with the responsibility to keep watch over the [[Black Plateau]] and deal with any threats associated with it. To be elected by vote of the Urizen Generals. Disbursements of funds needed.
 ## Overview
 * Constructs a folly in [[Redoubt]] and [[Zenith]] as per the [[The fate of the many]] wind of fortune. 
 * Passed at 11 thrones and 6 crowns

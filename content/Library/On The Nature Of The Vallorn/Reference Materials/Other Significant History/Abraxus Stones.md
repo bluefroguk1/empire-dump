@@ -43,7 +43,7 @@ The research explored a potential connection between the magical jewellery and t
 
 **Excerpts from Luca von Holberg's initial letter detailing his research:**
 
-"First let me say thank you for the [[Opportunity]] to study one of, in my opinion, the most interesting items that artisans are able to produce. The common use of [[Cavul]] and its obvious history with the peoples of [[Navarr]] and [[Highguard]] paint a fascinating picture of pre-Imperial life.
+"First let me say thank you for the Opportunity to study one of, in my opinion, the most interesting items that artisans are able to produce. The common use of [[Cavul]] and its obvious history with the peoples of [[Navarr]] and [[Highguard]] paint a fascinating picture of pre-Imperial life.
 
 Origin of the Abraxus Stones
 

@@ -15,7 +15,7 @@ stub
 [[Navarr]] [[Navarr Costumes]] are, above all, practical for moving around woodland or rough terrain- even the most settled Navarr will spend a good deal of their time in Forests. Clothes won't ever be discarded will have been worn and worn and Mended and worn- but don't feel you need to look scrappy.
 Decoration is common- for someone on the move it means they can take art with them without adding weight to their pack. Thorns, leaves, flowers are all good. Things you find in forests.
 The woodland and autumnal colour palette is very important for Navarr, bringing the nation's look together far more than anything else. Clothes are always in a woodland palette- predominantly brown and green with maybe accents of amber, blood-red and cream. Tattoos and Warpaint will also tend to be in these colours or black.
-Basically, can you run and sneak around a [[Forest]] in it for days at a time without standing out like a sore thumb or getting caught in something? If so, it's good Navarr kit.
+Basically, can you run and sneak around a Forest in it for days at a time without standing out like a sore thumb or getting caught in something? If so, it's good Navarr kit.
 ## [[Costume]] Fundamentals
 Tunic and Trousers: The standard base layers of Navarr  costume. Trousers can be of any style as long as they can be moved in easily, and tunics can lie anywhere from hip length to knee length, often belted in. Shirts are also popular as well as tunics, especially worn under wool or leather jerkins.
 Dresses and skirts

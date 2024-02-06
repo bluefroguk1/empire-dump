@@ -15,7 +15,7 @@ __NOTOC__
 That the Senate use the [[Skills]] of the Asavean [[Architect]] to construct a [[Great work]] in [[Tassato]]. This great work will be for the production of Mana. To be known as "Lorenzo's [[Legacy]] of [[Ambition]]" To [[Cost]] 40 wains of [[Mithril]] and 10 thrones to be funded by the Bloody Butchers Bank..''Proposed by [[Karov]], seconded by Tassato.''
 ## Overview
 * This motion was to build a Great work in Tassato to improve the production of Mana sites 
-* This [[Commission]] will be overseen by Almodin Oktístis, Priest of the Builder.
+* This Commission will be overseen by Almodin Oktístis, Priest of the Builder.
 * Passed
 ## Date
 * Autumn 381YE

@@ -29,5 +29,5 @@ To build a [[Fortification]] at Overton in [[Mitwold]]''Proposed by Mitwold, sec
 ### Campaign Outcome
 The fortification of Orchard's Watch is now complete.
 ### Correction
-The implementation of this motion was affected by accounting and processing errors by the Civil Service, which delayed the correct accounting of the Summer Solstice shipment of White granite and incorrectly stated that the construction could not be completed in time due to the year required. In fact a Senate [[Commission]] has a year to ''begin'' construction from the date it passes, not a year to complete construction.
+The implementation of this motion was affected by accounting and processing errors by the Civil Service, which delayed the correct accounting of the Summer Solstice shipment of White granite and incorrectly stated that the construction could not be completed in time due to the year required. In fact a Senate Commission has a year to ''begin'' construction from the date it passes, not a year to complete construction.
 __NOTOC__

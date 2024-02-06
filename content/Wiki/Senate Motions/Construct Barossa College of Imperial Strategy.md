@@ -14,12 +14,12 @@ revision_id: 85484
 __NOTOC__
 The Senate give permission to build the Barossa College of Imperial Strategy. That the prismatic ink produced by this College be divided between [[The League]] Generals.''Proposed by [[Tassato]], seconded by [[Redoubt]]''
 ## Overview
-* This [[Opportunity]] arose from a suggestion by the [[Eternal]] [[Zakalwe]].
+* This Opportunity arose from a suggestion by the [[Eternal]] [[Zakalwe]].
 * Passed.
 ## Date
 * Summer 383YE
 ## Costs
-* This [[Commission]] uses non-standard costs
+* This Commission uses non-standard costs
 * 20 wains of [[White granite]]
 * 20 wains of [[Mithril]]
 * 20 wains of [[Weirwood]]

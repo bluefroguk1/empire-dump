@@ -12,7 +12,7 @@ revision_id: 95749
 ---
 
 __NOTOC__
-There there be a disbursal of funds to upgrade mana ministries in [[Tassato]], [[Sarvos]] and [[Temeschwar]], taking advantage of the [[Opportunity]] to upgrade the Grandmasters of the conclave orders respective [[Ministry]] by so doing.
+There there be a disbursal of funds to upgrade mana ministries in [[Tassato]], [[Sarvos]] and [[Temeschwar]], taking advantage of the Opportunity to upgrade the Grandmasters of the conclave orders respective [[Ministry]] by so doing.
 ## Overview
 * This project expands the ability of the Conclave grandmasters to purchase crystal mana. 
 * More details on the opportunity to upgrade of the mana ministries can be found in the [[Honey and vinegar]] wind of fortune.

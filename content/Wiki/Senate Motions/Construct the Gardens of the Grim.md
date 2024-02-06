@@ -12,7 +12,7 @@ revision_id: 86566
 ---
 
 __NOTOC__
-Motion to create a [[Herb]] [[Sinecure]] in [[Miekarova]] to be named The Gardens of The Grim
+Motion to create a Herb [[Sinecure]] in [[Miekarova]] to be named The Gardens of The Grim
 Title of the holder to be named “The [[Grim Gardener]]”
 to be repository of Chernebog's Chains
 Title to be elected unanimously by Varushkan Senators

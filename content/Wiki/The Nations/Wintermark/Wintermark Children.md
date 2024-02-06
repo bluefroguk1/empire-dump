@@ -19,6 +19,6 @@ When playing amongst themselves, however, children are encouraged to be boistero
 *Stand on your own two feet. Every person in Wintermark should be able to stand up for themself.
 *Heroism is not found in the mouth. Listen to what adults are saying, and avoid spreading tales. If you must tell someone, find a stormcrow and let them know what you have heard.
 *Never back down when you know you are right. Never let anyone bUlly you or keep you from your rights. The Winterfolk stand firm and keep what is theirs.
-*Be cunning as the [[Suaq]], and wise as the [[Kallavesi]]. Learn about riddles and [[Challenge]] each other with them. Riddles will sharpen your mind like a whetstone sharpens a sword.
+*Be cunning as the [[Suaq]], and wise as the [[Kallavesi]]. Learn about riddles and Challenge each other with them. Riddles will sharpen your mind like a whetstone sharpens a sword.
 *Choose your own path. Learn about all three traditions of the Winterfolk so that you can decide which one you wish to follow.
 Wintermark Links

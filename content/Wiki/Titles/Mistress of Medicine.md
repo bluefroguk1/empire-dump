@@ -16,7 +16,7 @@ __NOTOC__
 The [[Mistress of Medicine]] is an [[Imperial Title]] Commissioned by the [[Imperial Senate]] in Summer 384YE. The position of Mistress of Medicine is a [[Sinecure]], requiring minimal responsibility but offering a regular income of valuable herbs.
 The Angelica Vergo di [[Sarvos]] Memorial House of Healing is in the Region of Riposi, Sarvos.
 ## Responsibilities
-The Mistress of Medicine has a responsibility to support the national block of [[The League]] in excursions through the [[Sentinel Gate]]. If the House of Healing were to be threatened in any way, it would be the responsibility of the Mistress to deal with those threats.  Likewise, if any [[Opportunity]] relating to the House presented itself, they would make any decisions needed to take advantage of it.
+The Mistress of Medicine has a responsibility to support the national block of [[The League]] in excursions through the [[Sentinel Gate]]. If the House of Healing were to be threatened in any way, it would be the responsibility of the Mistress to deal with those threats.  Likewise, if any Opportunity relating to the House presented itself, they would make any decisions needed to take advantage of it.
 ## Powers
 ### Bounty of Herbs
 The Mistress of Medicine receives an income of 18 drams of [[Cerulean Mazzarine]] each season from the Angelica Vergo di Sarvos Memorial House of Healing.

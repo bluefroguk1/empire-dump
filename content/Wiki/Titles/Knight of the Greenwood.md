@@ -27,4 +27,4 @@ The title can be held by any Dawnish citizen. They can be revoked by the [[Gener
 Responsibilities Expectation
 RecentElections|[[Knight_of_the_Greenwood]]
 ## Further Reading
-* [[Between wind and water]] - Winter 383YE Wind of Fortune detailing the [[Opportunity]] to build Greenwood Manor
+* [[Between wind and water]] - Winter 383YE Wind of Fortune detailing the Opportunity to build Greenwood Manor

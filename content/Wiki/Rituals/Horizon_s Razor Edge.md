@@ -18,7 +18,7 @@ Casting time|2 Target Character
 [[Enchantment]]
 ### Effects
 The target may call CLEAVE once each day with any melee weapon except a pike. 
-While under the enchantment the target experiences a Roleplaying effect: you feel focused and ready, you are on the lookout for an [[Opportunity]] to act decisively, achieving your goals with as little unnecessary effort as possible.
+While under the enchantment the target experiences a Roleplaying effect: you feel focused and ready, you are on the lookout for an Opportunity to act decisively, achieving your goals with as little unnecessary effort as possible.
 Season Duration
 ### Additional Targets
 This ritual can affect additional characters from the same banner. Every two additional characters increases the magnitude by 5. Additional characters must be present throughout.

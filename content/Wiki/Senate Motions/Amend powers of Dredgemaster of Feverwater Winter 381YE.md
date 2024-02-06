@@ -19,4 +19,4 @@ to aMend the title ‘[[Dredgemaster of Feverwater]]’ to remove the power of [
 ### Date
 * Winter 381YE
 ### Campaign Outcome
-* The Dredgemaster of Feverwater has lost the ability to [[Commission]] historical research.
+* The Dredgemaster of Feverwater has lost the ability to Commission historical research.

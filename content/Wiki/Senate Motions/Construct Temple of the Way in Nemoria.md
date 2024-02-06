@@ -15,7 +15,7 @@ __NOTOC__
 To begin construction in Nemoria, capital of Asavea, of a Temple of [[The Way]]
 Proposed by [[Feroz]], seconded by [[Madruga]] 
 ### Overview
-* This is relating to the Temple of Balo and the Black BUll and the [[Opportunity]] presented here
+* This is relating to the Temple of Balo and the Black BUll and the Opportunity presented here
 * Passed
 ### Date
 * Winter 380YE

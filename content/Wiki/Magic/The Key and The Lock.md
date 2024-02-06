@@ -35,7 +35,7 @@ Things are Revealed
 The Key is formed by a pair of twin stars and found almost directly above the Lock. It sits outside the curve where The Great [[The Great Wyrm]] passes behind the tail of [[The Phoenix]].
 ### Symbolism
 Opener of The Ways, standing in opposition to both the Door and the Lock, the Key is a recondite and Mystical constellation with considerably more significance than just the opening of things. 
-The Key symbolises understanding; the key to a code, the key to a secret, the key to a map. Specialist knowledge that must be possessed to make other things clear; hidden [[Wisdom]] that makes other knowledge manifest. The principles of the Key are that there are no secrets; just levels of understanding that anyone can pursue if they have the will, [[Opportunity]] and desire. 
+The Key symbolises understanding; the key to a code, the key to a secret, the key to a map. Specialist knowledge that must be possessed to make other things clear; hidden [[Wisdom]] that makes other knowledge manifest. The principles of the Key are that there are no secrets; just levels of understanding that anyone can pursue if they have the will, Opportunity and desire. 
 The Key is the constellation of the Torchbearers; indeed, in Urizen and Highguard the Key is sometimes referred to as the Torch. 
 ### Invoking the Key in Magic
 The Key is one of the most commonly used astronomantic invocations. Its simplest use is in direct opposition to invocations of the Lock; opening what is sealed, revealing what is hidden, undoing what has been done. But it has subtler and more nuanced uses too.

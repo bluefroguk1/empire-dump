@@ -13,7 +13,7 @@ revision_id: 86244
 
 Disburse funds for continuing to build the fourth Dawnish army.''Proposed by [[Weirwater]], seconded by [[Semmerholm]]''
 ### Overview
-* A request for additional funds toWards the [[Commission]] of a fourth Dawnish army.
+* A request for additional funds toWards the Commission of a fourth Dawnish army.
 * Passed at 100 Thrones
 ## Date
 * Summer 379YE

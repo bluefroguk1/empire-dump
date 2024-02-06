@@ -15,7 +15,7 @@ __NOTOC__
  To create the title of [[Weigher of Worth]], a reliquary in The Mountains of Gildermark to take the form of a mana [[Sinecure]] in [[Skarsind]], to be appointed by the [[Senator]] of Skarsind. The title is revocable by the Imperial Orc National [[Assembly]]. To be made using 10 wains of [[Mithril]]. 
 Announced by Azzam i Zaydan i Requeza.
 ### Overview
-* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Summer 381YE
 ### PrOgress

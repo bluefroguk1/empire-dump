@@ -12,7 +12,7 @@ revision_id: 86136
 ---
 
 __NOTOC__
-To allow the [[Great [[Forest]] Orcs]] to work the [[Thimble]]. In return they will receive 4 wains of [[Weirwood]] each season. This agreement will last until either the treaty with the Great Forest Orcs ends or this motion is revoked.''Proposed by [[Therunin]], Seconded by [[Karov]].''
+To allow the [[Great Forest Orcs]] to work the [[Thimble]]. In return they will receive 4 wains of [[Weirwood]] each season. This agreement will last until either the treaty with the Great Forest Orcs ends or this motion is revoked.''Proposed by [[Therunin]], Seconded by [[Karov]].''
 ## Overview
 * This motion accepts the offer of the Great Forest Orcs to tend the weirwood groves of the Thimble in Therunin.
 * This is the result of an offer by the orcs of the Great Forest.

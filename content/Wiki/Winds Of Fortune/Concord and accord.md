@@ -18,7 +18,7 @@ The other four stared at him with an assortment of expressions. They'd been disc
 "It's a completely different matter, and you clEarly know nothing," interrupted Incantio. "The Synod gets a veto because it's a Constitutional vote, not because it's a motion to appoint a Throne."
 Allisto ducked his head and blushed beetroot red. But something inside him refused to back down from Incantio. Not this time.
 "Well then it's obvious," he said, looking in Incantio's direction but not actually looking ''at'' him. "The Conclave should ''also'' have the power of the veto over Constitutional matters. It could be a new form of [[Declaration]]."
-"Declaration of Fucking with the Senate?" Joked Patricia. She rarely passed up an [[Opportunity]] to needle Incantio, and made few bones about the fact she considered him a pompous ass.
+"Declaration of Fucking with the Senate?" Joked Patricia. She rarely passed up an Opportunity to needle Incantio, and made few bones about the fact she considered him a pompous ass.
 "Don't enCourage him!" Incantio snapped. "We're trying to have a serious discussion here about the implications of the [[Imperial Magus]]'..."
 "Why ''doesn't'' the Conclave have a veto, though?" asked Patricia mildly, eyes twinkling at Incantio's growing frustration. "It's like the Constitution was written by people who didn't think Magicians were as important as priests. One might argue."
 Incantio opened his mouth to rebut his colleague's point when he was again interrupted, this time by Barto, who was by this time several glasses ahead of the rest of the coterie.

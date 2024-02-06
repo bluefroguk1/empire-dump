@@ -17,7 +17,7 @@ This will be elected by the [[Assembly]] of [[Courage]], revocable by the Assemb
 This will repurpose [[The Tomb]] into a site of PilgriPilgrimage for pilgrims of Courage.
 Title holder responsible for safeguarding the site
 ## Overview
-* Motion to amend the title of Guardian of Britta's Shrine in line with the [[Opportunity]] detailed in the [[Daughters of the Empire]] wind of fortune
+* Motion to amend the title of Guardian of Britta's Shrine in line with the Opportunity detailed in the [[Daughters of the Empire]] wind of fortune
 * Passed
 ## Date
 * Winter 383YE

@@ -17,7 +17,7 @@ The Keeper of the Celesti Lighthouse will be a Freeborn [[Ministry]] appointed b
 Approved by the [[Civilian Commissioner]] of the Brass Coast
 ### Overview
 * A Ministry in Feroz
-* This motion was approved by the Civilian Commissioner of The Brass Coast using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of The Brass Coast using the legal power to Commission constructions delegated to them by the Senate
 * This commission was announced after the maximum number of commissions had been authorised, but was announced in case one of the previous commissions had been subject to the synod's [[Veto]]. The veto was not employed and so this commission was not authorised
 ### Date
 * Autumn 380YE

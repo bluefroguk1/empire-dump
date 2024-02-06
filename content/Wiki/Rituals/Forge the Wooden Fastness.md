@@ -21,7 +21,7 @@ This ritual targets a specific region. During the performance of the ritual the 
 The ritual may target a region in a territory which is under Imperial control (that is, which is eligible to appoint a [[Senator]]) when cast from the Imperial regio. To effect a region in a territory that is not under Imperial control, the ritual must be performed at a regio within the target territory.
 [[Enchantment]]
 ### Effects
-The ritual targets a single region of [[Forest]] within a territory. Over the course of the next few days a powerful Enchantment settles over the region which offers protection to armies belonging to the force that controls the area.
+The ritual targets a single region of Forest within a territory. Over the course of the next few days a powerful Enchantment settles over the region which offers protection to armies belonging to the force that controls the area.
 [[Fortification]]
 Season Duration
 ## Description
@@ -29,7 +29,7 @@ This Enchantment causes existing vegetation to weave itself together into defens
 In addition existing vegetation becomes more dangerous. Fungal blooms sprout in damp wood that release hallucinogenic or poisonous spores when enemies come too close. Open wounds caused by briars or thorns quickly become infected, potentially leading to fever and even death. Insects become larger and more hostile, and any wasp or bee-sting is likely to result in painful swelling rather than a mere nuisance. While vegetation does not move when anyone is looking, trails and clearings often seem to vanish overnight leading to armies and scouts becoming lost.
 This ritual increases the difficulty a hostile force will have in claiming a region, even if there is no army to oppose them directly, Local militia and the like are able to take advantage of the defensive Enchantment (once they recognise it for what it is) to engage in effective guerrilla tactics, harrying and confusing a much larger force, at least for a time.
 The ritual is an Enchantment, and can in theory be made permanent with [[Ilium]]. This has not been done in the history of [[The Empire]], however.
-The ritual can occasionally backfire; the ritual always aids the force that claims the region. Occasionally Imperial ritualists have inadvertently aided the enemies of the Empire when a dramatic shift has allowed a [[Barbarian]] force to claim an area of land while the ''[[Forge the Wooden Fastness]]'' was in effect.
+The ritual can occasionally backfire; the ritual always aids the force that claims the region. Occasionally Imperial ritualists have inadvertently aided the enemies of the Empire when a dramatic shift has allowed a Barbarian force to claim an area of land while the ''[[Forge the Wooden Fastness]]'' was in effect.
 ## Common Elements
 During the performance of the ritual it is common to weave strands of thread, wool, rope or vine together either to form makeshift walls or to create complex, shifting patterns. Often natural plants are woven together as part of the performance, symbolising the formation of larger structures in the target forest. Poisonous creatures may be involved as part of the ritual, and noxious herbs may be burnt. 
 A map is often used as the focus for this ritual and obscured during the casting, buried in fertile earth or soaked with water and left for spores or even plant [[Cuttings]] to overwhelm. Sometimes the map is created from sand or painstakingly drawn with salt or coloured powders, so it can be easily washed away at the culmination of the ritual. 

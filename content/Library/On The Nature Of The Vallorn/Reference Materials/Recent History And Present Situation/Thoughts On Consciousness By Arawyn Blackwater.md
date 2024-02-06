@@ -40,7 +40,7 @@ These are at least my ponderings, I do not know how I would go about proving any
 
 **Addendum by Sian Eternal:**
 
-The above document was found at the [[Steading]] of Return. While it is formed mostly of theorising it has since been confirmed that vallornspawn hold the souls of those it has taken.
+The above document was found at the Steading of Return. While it is formed mostly of theorising it has since been confirmed that vallornspawn hold the souls of those it has taken.
 
 At Return Ceinwen Eternal was gifted a magical item by the eternal [[Meraud]] that allowed her to use the Speak With Dead spell upon the husks there. It allowed her to call forth the person trapped within, they were not only aWare of their lives before but also had an awareness and regret for their actions after becoming vallornspawn.
 

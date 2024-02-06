@@ -12,7 +12,7 @@ revision_id: 105769
 ---
 
 __NOTOC__
-To [[Reconstruct the Tower of the Fall]] in Occursion, [[Zenith]], and make it a part of the Proffered Hand network. This is an existing [[Opportunity]] and is a mana [[Sinecure]] for the [[Cost]] of 6 [[Mithril]] and 9 thrones. This will produce ten mana and 6 heart's blood a season to the [[Keeper of the Tower of the Fall]], an existing tenured title in [[Urizen]]. Self-funded by Herminius of the Temple of [[The Wanderer]]. Appointed by Urizen Senators.
+To [[Reconstruct the Tower of the Fall]] in Occursion, [[Zenith]], and make it a part of the Proffered Hand network. This is an existing Opportunity and is a mana [[Sinecure]] for the [[Cost]] of 6 [[Mithril]] and 9 thrones. This will produce ten mana and 6 heart's blood a season to the [[Keeper of the Tower of the Fall]], an existing tenured title in [[Urizen]]. Self-funded by Herminius of the Temple of [[The Wanderer]]. Appointed by Urizen Senators.
 ## Overview
 * Repairs a mana sinecure in Zenith as per the [[Write your own ending]] wind of fortune
 * Passed

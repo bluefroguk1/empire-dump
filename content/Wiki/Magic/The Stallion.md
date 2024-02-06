@@ -23,5 +23,5 @@ The most obvious use of The Stallion in ritual is to invoke blessings on unborn 
 ### Tulpas of the Stallion
 Some legends speak of creatures half horse half man deep in the Forests – sometimes these are said to be near feral but other times are regarded as wise teachers. There is an old tale among the Dawnish yeofolk of the mysterious ale merchant who plies a shy husband with ale on his wedding night to give him the [[Courage]] to approach his beautiful but intimidating spouse naked.
 ### [[Alignment]]
-Ritualists who invoke the Stallion speak of a sense of great virility, [[Pride]] in [[Family]] and overwhelming sense of freedom – and indeed of a heightened desire to secure their own [[Lineage]]. More than one ritualist in such a state has found themselves doused with cold water by their own collaborators. 
+Ritualists who invoke the Stallion speak of a sense of great virility, [[Pride]] in [[Family]] and overwhelming sense of freedom – and indeed of a heightened desire to secure their own Lineage. More than one ritualist in such a state has found themselves doused with cold water by their own collaborators. 
 Category:Constellation

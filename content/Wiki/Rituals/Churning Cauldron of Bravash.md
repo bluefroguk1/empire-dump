@@ -17,7 +17,7 @@ Season|Spring|8
 Casting time|2 The ritual requires a receptacle such as a bowl or cauldron into which the target herbs are placed.
 ### Effects
 This ritual requires up to five drams of herbs ([[Imperial Roseweald]], [[Bladeroot]], True Vervain, [[Cerulean Mazzarine]] or [[Marrowort]]), which are placed into a container such as a bowl or cauldron. All the herbs must be of the same type. 
-The ritual creates one dram of herbs for each [[Herb]] placed in the container during the ritual. 
+The ritual creates one dram of herbs for each Herb placed in the container during the ritual. 
 The referee will put the additional herbs into the container. It may take up to an hour for the additional herbs to form, and the referee may offer a prompt when the cauldron has finished ''churning''. If the herbs are removed prematurely the ritual may fail, or result in less herbs being created.
 The ritual may be performed using drams of herbs not common to [[The Empire]], but the results are likely to be unpredictable.
 ## Description

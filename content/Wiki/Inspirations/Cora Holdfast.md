@@ -14,8 +14,8 @@ revision_id: 102835
 ## Virtue
 [[Cora Holdfast]] was recognised as an Exemplar of [[Loyalty]] by the Loyalty [[Assembly]], then by the [[General]] Assembly, at the [[Anvil]] Summit of the Summer Solstice 379 YE. Her friend and congregant Cerwynn Brackensong raised both Judgements.
 ## Biography
-Cora was born and raised in Holdfast [[Steading]] in [[Therunin]]. Trained as a physick, she took the [[Brand]] oath to lead her steading in 377YE.
-She displayed the fierce personal confidence and forceful disposition of her high [[Cambion]] [[Lineage]], modelling herself on the ideal of the leader-who-serves. Her personal brand of Loyalty was strictly pragmatic and famously no-nonsense, and her (self-professed) "meddling" knew no bounds of nation or status. In the turmoil following the death of [[Empress Britta]], she quickly established herself as a factotum, someone who could get things done across and beyond the Anvil field.
+Cora was born and raised in Holdfast Steading in [[Therunin]]. Trained as a physick, she took the [[Brand]] oath to lead her steading in 377YE.
+She displayed the fierce personal confidence and forceful disposition of her high [[Cambion]] Lineage, modelling herself on the ideal of the leader-who-serves. Her personal brand of Loyalty was strictly pragmatic and famously no-nonsense, and her (self-professed) "meddling" knew no bounds of nation or status. In the turmoil following the death of [[Empress Britta]], she quickly established herself as a factotum, someone who could get things done across and beyond the Anvil field.
 She was involved in the founding of the Anvil Hospital & Imperial School of Medicine , where her practical disposition lent itself well to the work of [https://en.wikipedia.org/wiki/Triage triaging] critically injured [[Heroes]]. She served regularly there, both as a physick and the organiser of physicks, and her personal set of surgical tools - now Hallowed - were passed to the hospital after her death.
 __TOC__
 Cora was also instrumental in creating the Book of Oaths, a book detailing binding promises which is kept among the members of the Loyalty Assembly. 

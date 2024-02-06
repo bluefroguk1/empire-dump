@@ -12,7 +12,7 @@ revision_id: 102298
 ---
 
 __NOTOC__
-To [[Commission]] the Trading Hall at Wreck, a [[Ministry]] to buy [[Ilium]], in East Floes, [[Sermersuaq]]. The holder, the [[Mediator of Wreck]], will be appointed by the [[Tally of the Votes]] of [[Wintermark]]. Self Funded. This will allow us to trade food for ilium with the [[Thule]], so they may feed their people and navigate the Prosperous path after abolishing slavery.
+To Commission the Trading Hall at Wreck, a [[Ministry]] to buy [[Ilium]], in East Floes, [[Sermersuaq]]. The holder, the [[Mediator of Wreck]], will be appointed by the [[Tally of the Votes]] of [[Wintermark]]. Self Funded. This will allow us to trade food for ilium with the [[Thule]], so they may feed their people and navigate the Prosperous path after abolishing slavery.
 ## Overview
 * Creates a trading hall in Wreck, as detailed in the [[Write the lines]] wind of fortune
 * Passed

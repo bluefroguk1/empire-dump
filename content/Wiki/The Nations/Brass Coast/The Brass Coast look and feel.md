@@ -69,7 +69,7 @@ Bejewelled Freeborn.jpg
 Sharazhad.jpg
 Bejeweled [[Changeling]].jpg
 ### Children
-Children are an [[Opportunity]] for parents to show off their wealth, dressing their offspring in traditional Freeborn styles.
+Children are an Opportunity for parents to show off their wealth, dressing their offspring in traditional Freeborn styles.
 [[Family]] Freeborn.jpg
 Headstrong Freeborn and parent.png
 FreebornToddler.jpg

@@ -12,7 +12,7 @@ revision_id: 105774
 ---
 
 __NOTOC__
-To [[Commission]] the Red Depths in [[Kahraman]] as a Brass Coast National Bourse seat, self funded by the virtuous citizens of [[The Brass Coast]].
+To Commission the Red Depths in [[Kahraman]] as a Brass Coast National Bourse seat, self funded by the virtuous citizens of [[The Brass Coast]].
 ## Overview
 * Creates a [[Mithril]] seat in Kahraman as per the [[Landscape]] wind of fortune
 * Passed

@@ -36,7 +36,7 @@ Where a magistrate has reason to believe that the accused is an absconsion risk 
 If an accused absconds then the magistrate may try them in their absence. It is likely the magistrate will draw an adverse inference from the accused's failure to attend and also find them guilty of contempt of court. Any citizen can use reasonable force to apprehend them for the reWard, although in practice it is often Thief-takers and militia who are in the best position to do so.
 Exceptionally, the magistrate may order the accused to be held in supervised custody until their trial can begin. This is only permitted where the magistrate believes the accused would be likely to commit further crimes if they were released. If so, the trial must be carried out as soon as reasonably practicable.
 ## Structure of the trial process
-The magistrate summarises the charges and then questions the accused about their version of [[Events]]. The accused may be given an [[Opportunity]] to make a statement.
+The magistrate summarises the charges and then questions the accused about their version of [[Events]]. The accused may be given an Opportunity to make a statement.
 The magistrate questions any witnesses and examines any other evidence. The accused may also be given an opportunity to question witnesses or examine the evidence.
 The magistrate may give the accused a final opportunity to speak before either retiring to consider or passing judgement. The magistrate will then pronounce the sentence. Punishment is usually carried out swiftly but those sentenced to death might be allowed time to make final arrangements.
 ## [[Sanctions]] for contempt of court

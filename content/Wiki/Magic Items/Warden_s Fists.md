@@ -18,7 +18,7 @@ In [[Urizen]] they are favourite among The Sentinels who believe that the balanc
 Arcane Weapons
 * Effect: Once per day you may either use the weapon to call CLEAVE or instead use the implement to cast [[Repel]] without spending hero points or mana.
 * [[Materials]]: Crafting a set of Warden's Fists requires two measures of dragonbone, two ingots of tempest jade, two ingots of green iron and two ingots of orichalcum. It takes one month to make a pair of these items.
-The Wolves circled her in the creeping darkness of the [[Forest]]. The wall that was a road was out of sight now. She had been tracking them for days, and nights, without sleep. She could smell the putrid breath of the flesh-feasters, as they hissed in gloating hunger. 
+The Wolves circled her in the creeping darkness of the Forest. The wall that was a road was out of sight now. She had been tracking them for days, and nights, without sleep. She could smell the putrid breath of the flesh-feasters, as they hissed in gloating hunger. 
 Maybe three of them. No, four.
 She was alone.
 She crouched in the glade, undergrowth knotted about her feet. She was wounded, a gash in the side from a bone sharp branch. Her power was spent, and the Wolves could smell the metallic tang of blood in the air. They made a guttural noise in their throats. She tensed.

@@ -4,7 +4,7 @@
 
 A first-hand account of a Vision received of the founding of the nation of [[Navarr]] by Bledri [[Eternal]]. For more information on Rhonwen's Fall see page 173
 
-We had gathered at Rhonwen's Fall to witness the opening of the locked doors behind the fall. On entering the hall I saw that the walls were covered in Spiralling carvings that reminded me of the the patterns of the Trods. I was intrigued by this and the once in a life time [[Opportunity]] to cast [[Magic]] in this unknown hall.
+We had gathered at Rhonwen's Fall to witness the opening of the locked doors behind the fall. On entering the hall I saw that the walls were covered in Spiralling carvings that reminded me of the the patterns of the Trods. I was intrigued by this and the once in a life time Opportunity to cast [[Magic]] in this unknown hall.
 
 Casting the Ritual [[Clear Lens of the Eternal River]] I cast my sight into the magic of the Day [[Realm]] and the following is what I was able to witness in the Hall.
 

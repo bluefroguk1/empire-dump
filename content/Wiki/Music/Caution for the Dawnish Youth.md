@@ -31,7 +31,7 @@ Noble grace will send you to your grave.
 Chorus
 Verse 3 with bridge.
 The [[Striding]] walks the [[Trod]] to save our homeland.
-The [[Steading]] guards the wood 'till they return.
+The Steading guards the wood 'till they return.
 You would blindly wander in alone?
 You cannot see.
 You cannot hear.

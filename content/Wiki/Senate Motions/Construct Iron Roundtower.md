@@ -14,7 +14,7 @@ revision_id: 85505
 __NOTOC__
 An Announcement by [[Bearer of an Imperial Wayleave]], to build the Iron Round tower, a [[Mithril]] [[Ministry]]. In Delev, near [[Temeschwar]], to create the title "[[Bargainer of the Iron Tower]]”''Announced by Dragomir Dragovich''
 ## Overview
-* This [[Commission]] takes advantage of an [[Opportunity]] to create a Ministry in [[Varushka]] that deals in mithril called the Iron Roundtower
+* This Commission takes advantage of an Opportunity to create a Ministry in [[Varushka]] that deals in mithril called the Iron Roundtower
 * Announcement
 ## Date
 * Summer 383YE

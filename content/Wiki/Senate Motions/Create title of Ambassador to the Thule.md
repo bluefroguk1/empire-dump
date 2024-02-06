@@ -17,7 +17,7 @@ To create the title of [[Ambassador]] to the [[Thule]].
 Revoked by well worn path.
 Proposed by [[Kallavesa]], Seconded by [[Morrow]]
 ### Overview
-* This motion creates the title of Ambassador to the Thule taking advantage of the recent [[Opportunity]]
+* This motion creates the title of Ambassador to the Thule taking advantage of the recent Opportunity
 * Passed
 ### Date
 * Spring 381YE

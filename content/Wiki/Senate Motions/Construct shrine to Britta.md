@@ -17,7 +17,7 @@ Proposed by [[Hahnmark]], Seconded by [[Reikos]]
 * A [[Sinecure]] in the [[Kallavesa]] Marsh in Kallavesa which provides [[Liao]] and votes in the [[Imperial Synod]]
 * Passed in principle
 * Passed at 75 Thrones
-* This is to capitalise on the [[Opportunity]] to build a shrine to Empress Britta after their regalia was interred in the marshes of Kallavesa
+* This is to capitalise on the Opportunity to build a shrine to Empress Britta after their regalia was interred in the marshes of Kallavesa
 ### Date
 * Winter 379YE
 ### [[Cost]]

@@ -13,7 +13,7 @@ revision_id: 106122
 ---
 
 ## Overview
-The motion to [[Construct Kauppahall]] was raised by ''Hengest Dun'', [[Senator]] for [[Hahnmark]], during the Winter Solstice 383YE, taking advantage of an [[Opportunity]] presented that season. Construction was completed shortly before the Spring Equinox 384YE but election of the title was stalled due to issues raised by the Constitutional Court. The [[Imperial Senate]] voted to aMend the position and the first [[Talon of Kauppahall]] was elected at the same summit.
+The motion to [[Construct Kauppahall]] was raised by ''Hengest Dun'', [[Senator]] for [[Hahnmark]], during the Winter Solstice 383YE, taking advantage of an Opportunity presented that season. Construction was completed shortly before the Spring Equinox 384YE but election of the title was stalled due to issues raised by the Constitutional Court. The [[Imperial Senate]] voted to aMend the position and the first [[Talon of Kauppahall]] was elected at the same summit.
 ## Responsibilities
 The Talon of Kauppahall is responsible for ensuring the safety of the Kauppahall. If it were to be threatened in any way, it would be the responsibility of the Talon to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Kauppahall, the Talon would expect to be consulted as to how that opportunity might be resolved.
 ## Powers

@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Censer of Benediction
-aliases: ['Censer_of_Benediction']
-draft: False
+aliases:
+- Censer_of_Benediction
+draft: false
 revision_date: 2017-03-17 13:19:56+00:00
 revision_id: 49483
 ---
 
-#REDIRECT [[Brazier of Benediction]]
+#REDIRECT Brazier of Benediction

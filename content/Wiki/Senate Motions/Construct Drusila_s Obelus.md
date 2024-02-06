@@ -14,7 +14,7 @@ revision_id: 98468
 __NOTOC__
 An announcement by [[Bearer of an Imperial Wayleave]], Lukash, to construct the [[Sinecure]] Drusilla’s Obelus in the Morass, [[Holberg]]. Producing 18 drams of [[Bladeroot]] per season. [[Cost]] 10 [[Weirwood]] and 20 crowns. To be appointed for life by Bourse auction.''Imperial Wayleave by Lukash''
 ## Overview
-* [[Commission]] a Sinecure in the Morass, Holberg
+* Commission a Sinecure in the Morass, Holberg
 * Announcement.
 ## Date
 * Autumn 382YE

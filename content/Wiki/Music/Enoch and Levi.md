@@ -33,7 +33,7 @@ He's laughed like the jackdaw and he's fled like the hare.
 And prove you're a hunter, if you'd be my man."
 Then Enoch's straight on him, he's swift to the trail
 Swears "May my heart burst ere I falter or fail!"
-Through fen and through [[Forest]] they're running full well
+Through fen and through Forest they're running full well
 And Levi's the faster on flat and on fell.
 But Enoch so tireless, never pauses nor rests;
 While Levi's heart's stuttering so quick in his breast.

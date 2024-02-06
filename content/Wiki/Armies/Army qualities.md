@@ -10,10 +10,10 @@ revision_id: 103438
 ---
 
 ## Overview
-All Imperial armies and most [[Barbarian]] armies possess a single unique quality that give them advantages in certain situations. These qualities represent the unique strength of each army reflecting the flavour of the army and the nation to which it belongs. The most common qualities are described below. Other qualities exist, and some such as [[Highest discipline]] may even be unique to a specific army.
+All Imperial armies and most Barbarian armies possess a single unique quality that give them advantages in certain situations. These qualities represent the unique strength of each army reflecting the flavour of the army and the nation to which it belongs. The most common qualities are described below. Other qualities exist, and some such as [[Highest discipline]] may even be unique to a specific army.
 ## New Qualities
 When a new [[Imperial army]] is raised, it receives a quality automatically that reflects its purpose, the nation who has raised it, and the conditions under which it was mobilized. Most Imperial nations have one or two qualities that are common for their armies, but it is possible for plot developments to provide the option for to choose a different quality.
-Existing Imperial armies already have a quality representing their traditional roles and history. It is never possible for an army to have more than one quality or to diversify its abilities, but it is possible for an army to improve their essential quality if a plot [[Opportunity]] presents that option.
+Existing Imperial armies already have a quality representing their traditional roles and history. It is never possible for an army to have more than one quality or to diversify its abilities, but it is possible for an army to improve their essential quality if a plot Opportunity presents that option.
 ## Conquering
 * Can use the ''push the line'' order when attacking
 * Other Descriptors: Methodical, InSpired
@@ -80,7 +80,7 @@ The army unleashes hell against the fortification. While catapults and trebuchet
 Dig In
 * The army must be defending a region.
 * If the region does not already contain a Fortification then the army can erect temporary defences to help defend the area.
-* If the region contains an ongoing [[Commission]], the army can assist with the construction, reducing the construction time by one season.
+* If the region contains an ongoing Commission, the army can assist with the construction, reducing the construction time by one season.
 * Casualties suffered by the army are decreased by a fifth.
 An army that digs in can be ordered to construct temporary defences, raising earthworks, digging ditches and erecting palisades. After a season of effort, the resulting earthworks act as a 1000 strength Fortification. This temporary fort decays at a rate of 500 force per season after the first, but is not fUlly removed until it's strength is reduced to zero. If there is an existing earthworks in the region, the army can prevent any decay and increases the strength by an additional 1000 force. An army cannot construct temporary fortifications in a region that has an existing or magical Fortification, and temporary fortifications cannot be [[Enchanted]].
 Instead of creating temporary defences, the general can order the army to assist with the construction of a specific commission. The troops will be assigned to help with the labour, digging foundations, cutting stone and timber etc - but they also include skilled engineers who can oversee the work and ensure it is done accurately. An army that digs in can reduce the total time required to complete a commission by one season just once. No commission can benefit from this specific ability more than once, no matter the source.
@@ -112,7 +112,7 @@ Plunder
 * Casualties inflicted by this army are reduced by one tenth.
 * The ability of this army to capture territory is reduced by one tenth.
 * The army generates wealth based on the number of victory points generated.
-The army concentrates on looting enemy forces. They launch attacks intended to capture baggage trains and other financial objectives. They focus on capturing mines, [[Forest]] preserves, Farms, businesses, Mana sites and [[Herb]] gardens. A portion of this bounty in the form of money, herbs, crystal mana, crafting Materials and potentially even rare materials such as weirwood, mithril or white granite are claimed by the army general.
+The army concentrates on looting enemy forces. They launch attacks intended to capture baggage trains and other financial objectives. They focus on capturing mines, Forest preserves, Farms, businesses, Mana sites and Herb gardens. A portion of this bounty in the form of money, herbs, crystal mana, crafting Materials and potentially even rare materials such as weirwood, mithril or white granite are claimed by the army general.
 ## Freedom Fighters
 * Can use the ''break the chains'' order when attacking
 * Can use the ''hit and run'' order when defending

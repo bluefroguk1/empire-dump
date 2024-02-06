@@ -40,7 +40,7 @@ The Bourse appoints national positions by vote of members of that nation who hol
 * [[The League]] - Business
 * [[The Marches]] - [[Farm]]
 * [[Urizen]] - [[Mana site]]
-* [[Varushka]] - [[Mine]] and [[Forest]] owners
+* [[Varushka]] - [[Mine]] and Forest owners
 * [[Wintermark]] - Military unit
 (1) Prior to the Spring Equinox 384YE, votes in the Brass Coast were restricted to fleets engaging in privateering during the previous year. This was changed following a [[Statement of Principle]] by the Brass Coast National [[Assembly]] that gained widespread support in the nation.
 ## Production

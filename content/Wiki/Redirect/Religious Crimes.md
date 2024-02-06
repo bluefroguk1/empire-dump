@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Religious Crimes
-aliases: ['Religious_Crimes']
-draft: False
+aliases:
+- Religious_Crimes
+draft: false
 revision_date: 2017-03-30 10:07:17+00:00
 revision_id: 50302
 ---
 
-#REDIRECT [[Religious crime]]
+#REDIRECT Religious crime

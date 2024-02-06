@@ -11,7 +11,7 @@ revision_date: 2022-02-02 17:58:34+00:00
 revision_id: 86650
 ---
 
-To [[Commission]] a [[Mithril]] [[Mine]] in [[Sermersuaq]]
+To Commission a [[Mithril]] [[Mine]] in [[Sermersuaq]]
 Proposed by Sermersuaq, Seconded by [[Mitwold]] 
 ### Overview
 * Passed

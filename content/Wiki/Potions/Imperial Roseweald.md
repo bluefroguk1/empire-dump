@@ -20,5 +20,5 @@ An apothecary with access to an [[Wyrmstone Mortar]] can substitute two doses of
 ## Rules
 * Can only be applied by a character with the physick skill.
 * Using 30 seconds of Appropriate roleplaying, the physick can remove the venom condition from a target.
-*The [[Herb]] use fails if you or your target are hit or attack another character during application, but the herb is not consumed
+*The Herb use fails if you or your target are hit or attack another character during application, but the herb is not consumed
 Category:Herbs

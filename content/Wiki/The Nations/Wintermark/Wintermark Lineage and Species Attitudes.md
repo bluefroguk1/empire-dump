@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Overview
-The Winterfolk tend to judge people as individuals so they rarely discriminate against a particular [[Lineage]], though they are unforgiving of people's failures. For Winterfolk to say that an individual “''cannot help themselves, it’s in their blood''” is meant as a final condemnation not as a mitigating justification.
+The Winterfolk tend to judge people as individuals so they rarely discriminate against a particular Lineage, though they are unforgiving of people's failures. For Winterfolk to say that an individual “''cannot help themselves, it’s in their blood''” is meant as a final condemnation not as a mitigating justification.
 ## Specific Lineages
 A spontaneous [[Changeling]] birth is regarded as a sign of good luck, and having “''sharp ears''” is a common compliment for anyone who shows alertness or initiative.
 There are a number of groups of [[Kallavesi]] that are heavily dominated by those with the [[Naga]] lineage. Some of these naga-dominated halls disdain [[Magic]], preferring to focus on the arts of [[War]] and take a rapturous joy in battle which can disquiet even the militant [[Steinr]].

@@ -15,7 +15,7 @@ __NOTOC__
 The construction of a Mana [[Sinecure]] in New Dunholm in [[Hahnmark]]. To cultivate and collect the crystalisations forming in the vicinity of (yet to be named) hole. With the goal the increased [[Prosperity]] in [[Wintermark]]. It will [[Cost]] 10 wains of [[Mithril]] to Construct and 20 crowns. It will be self-funded.Announced by Breeta Dunning. 
 ## Overview
 * This motion was to build a Sinecure to oversee the creation of mana in New Dunhall, in Hahnmark. The sinecure will be built to take advantage of the mana flows in and around Lorenzo's Deep Pockets.
-* This Sinecure was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This Sinecure was announced by a holder of an Imperial Wayleave, using the legal power to Commission constructions delegated to them by the Senate.
 ## Date
 * Autumn 381YE
 ## Cost

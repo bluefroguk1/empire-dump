@@ -21,9 +21,9 @@ revision_id: 101066
 "That ain't fair - I ain't old enough to help with the garden. Come on Hywel. Be Ambitious!"
 Hywel snorted at his little sister. "You're so stupid you only know the first virtue!"
 "Do Not! There's not arguing and being kind and cleaning up your room as well!"
-Tiring of the game and realizing he was not going to get any peace, he took one of the precious sweets from the bag and held it out. As Niamh reached for it, he jerked his hand back and then flung the sweet over her head into the [[Forest]]. "There - that's all you're getting".
+Tiring of the game and realizing he was not going to get any peace, he took one of the precious sweets from the bag and held it out. As Niamh reached for it, he jerked his hand back and then flung the sweet over her head into the Forest. "There - that's all you're getting".
 "That ain't nice!" Niamh shouted, but her voice was breaking, tears welling up in her eyes.
-"Nice ain't a virtue!" he snarled and turned his back on his sister - surely the most annoying six year old in the [[Steading]].
+"Nice ain't a virtue!" he snarled and turned his back on his sister - surely the most annoying six year old in the Steading.
 ## Overview
 The [[Iron Helms]], the infamously cruel Varushkan army continue to be diVisive.The [[Urizen]], [[Highguard]], and [[Dawn]] assemblies have joined their voices with [[Navarr]] and [[Varushka]] in Sanctioning the use of cruelty and fear on [[The Battlefield]].
 Several significant opportunities have arisen as a result of the Synod's ongoing discussion of what is, or is not, too high a price to pay for victory.
@@ -37,7 +37,7 @@ Ruthless Onslaught
 * Casualties suffered by this army are increased by a fifth
 * Casualties inflicted by this army are increased by a fifth
 * This ruthless tactic is apparent to everyone present in the territory where it is taken.
-Ruthless onslaught is as effective as balanced attack in claiming enemy territory and securing strategic objectives, but significantly increases the casualties inflicted by the army - as forces take every [[Opportunity]] to slaughter their enemies. The drawback is that enemy forces tend to respond in kind, slaughtering every Imperial soldier that falls into their hands.
+Ruthless onslaught is as effective as balanced attack in claiming enemy territory and securing strategic objectives, but significantly increases the casualties inflicted by the army - as forces take every Opportunity to slaughter their enemies. The drawback is that enemy forces tend to respond in kind, slaughtering every Imperial soldier that falls into their hands.
 The glorious troubadours of Dawn support the generals of the Empire in waging war in light of Virtuous Counsel. Specifically, cruel armies are a tool to be used against our enemies.
 ## That Which Does Not Kill Us
 * The National [[Assembly]] of Dawn may enCourage the [[Eastern Sky]] to embrace ''bloodthirsty'' tactics, allowing an opportunity to permanently change their quality.

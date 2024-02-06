@@ -61,7 +61,7 @@ Lora’s natural charisma drew many under her banner, and even those who had onl
 * Traditions: Mixed
 * Thane: 
 Hendal Hearth Hall was founded by Winterfolk who left Skarsind following the motion to Relinquish relinquish Skarsind in 379YE. They came from several halls, united by a decision to make a fresh start in Wood Heath. Many of Hendal Hearth still bear grudges over Skarsind, believing a trail of broken promises have followed in its wake - oaths not kept and weregild not paid. 
-Hendal Hearth itself was founded by the late thane, Bjarne, known as the ''Faithful Defender''. The hall is known both for its extensive [[Herb]] gardens, and for being home to the Winterforge Armouries.
+Hendal Hearth itself was founded by the late thane, Bjarne, known as the ''Faithful Defender''. The hall is known both for its extensive Herb gardens, and for being home to the Winterforge Armouries.
 While all three traditions are part of Hendal Hearth, a [[Kallavesi]] can never be thane. Instead, the Kallavesi choose the thanes and serve as adVisors. They have chosen their most recent thane after the death of the founder.
 ### Hounds of Fortune
 * Location: 
@@ -156,14 +156,14 @@ Greyholm is a shelter to the disillusioned, its numbers swollen by refugees driv
 *Location: Skymark
 *Traditions: Mixed
 *Thane: Wren Ironclaw
-Years ago, the founders of the hall fled from unknown threats from the shores of the Gullet, abandoning their Fleets behind and travelling inland to find a new home. There they found a home on the shore of one of the lakes of Skymark. They also found the "''ironclaw crabs''" which were monstrous crustaceans with shells as hard as iron and claws able to slay lightly armoured foes. The founders of the halls hunted the crabs to extinction, eating their flesh and remaking the shells left behind to serve as rudimentary armour. They chose to take Ironclaws as the name of their hall, acknowledging the beasts that they saw as their greatest [[Challenge]].
+Years ago, the founders of the hall fled from unknown threats from the shores of the Gullet, abandoning their Fleets behind and travelling inland to find a new home. There they found a home on the shore of one of the lakes of Skymark. They also found the "''ironclaw crabs''" which were monstrous crustaceans with shells as hard as iron and claws able to slay lightly armoured foes. The founders of the halls hunted the crabs to extinction, eating their flesh and remaking the shells left behind to serve as rudimentary armour. They chose to take Ironclaws as the name of their hall, acknowledging the beasts that they saw as their greatest Challenge.
 The Ironclaws are now a stalwart people with experience in both welfare and warfare. They accept refugees, understanding the suffering that comes with being forced to flee your home. The hall has a strong preference towards the virtues of Loyalty and Prosperity; those in the hall are encouraged to consider where their loyalties lie, and to use their wealth to support those struggling.
 Since first visiting Anvil during the Winter Solstice 383YE, their Ambitions have grown. The Ironclaws seek to further their connections, businesses and Prosperity with the best and brightest that the Empire has to offer, while still remaining loyal to the traditions of their hall, the nation of Wintermark and the Empire as a whole
 ### Kingfishers of Fisk
 * Location: Wittal Grove
 * Traditions: Mixed
 * Thane: 
-The hall was formed in 383YE by some of the most prominent tradespeople and ritualists of Fisk, the Kingfishers seek to enhance the Prosperity and influence of their home by bringing their wares and expertise to Anvil. At the core of the hall is a coven of Autumn ritualists, who work to enhance the many businesses and fleets based in Fisk. An unusually high number of the hall members are of [[Cambion]] [[Lineage]].
+The hall was formed in 383YE by some of the most prominent tradespeople and ritualists of Fisk, the Kingfishers seek to enhance the Prosperity and influence of their home by bringing their wares and expertise to Anvil. At the core of the hall is a coven of Autumn ritualists, who work to enhance the many businesses and fleets based in Fisk. An unusually high number of the hall members are of [[Cambion]] Lineage.
 Among the trades represented in the Kingfishers are shipwrights and papermakers, who take advantage of the abundance of timber Forested from Wittal Grove, food importers, who have easy access to the Marches and lands beyond the Westmere, and the herbalist, mystics, and apothecaries who maintain traditional local practices.
 ## Halls of Sermersuaq
 ### Fjellreven
@@ -313,7 +313,7 @@ The banner of Sigehold continues to be used to rally the Heart of the Mark in ba
 ### Stenstorp
 Hall Banner: Face of Sten Rockbeard in gold on a blood red background.
 Traditions: Unknown
-Stenstorp hall was founded by Sten Rockbeard and his companions after a legendary encounter with the troll Toothcutter, chief of the Rotting Tooth [[Tribe]]. Having driven the trolls from the lost Vale of Kivikylma, Sten established a settlement there, which flourished. After a long period of relative peace, [[Barbarian]] orcs attacked the settlement - and if the tales are to be believed, they were accompanied by a returned Toothcutter himself. They came in such numbers that survivors were forced to flee the Vale of Kivikylma. 
+Stenstorp hall was founded by Sten Rockbeard and his companions after a legendary encounter with the troll Toothcutter, chief of the Rotting Tooth [[Tribe]]. Having driven the trolls from the lost Vale of Kivikylma, Sten established a settlement there, which flourished. After a long period of relative peace, Barbarian orcs attacked the settlement - and if the tales are to be believed, they were accompanied by a returned Toothcutter himself. They came in such numbers that survivors were forced to flee the Vale of Kivikylma. 
 Following Sten's eventual passing, successive thanes and generations have sought for The Vale of Kivikylma in vain. Following the recent tragic death of Thane Algar, Stenstorp Hall adopted Sverrir Hordson, an experienced armourer and weapon smith whom they had spent time with in Anvil, as thane. 
 Currently Stenstorp Hall is based at Sverrir's mining settlement and workshops, Malmurheim, in Hahnmark. It is not clear why the histories transmitted have not allowed Stenstorp Hall to find the Vale of Kivikylma. It is unlikely that the Hall will lose hope of one day returning to their original home.
 ### Stormspire

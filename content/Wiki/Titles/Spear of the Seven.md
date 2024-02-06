@@ -12,7 +12,7 @@ revision_id: 106097
 ---
 
 ## Overview
-The [[Spear of the Seven]] is an [[Imperial Title]] aWarded to a citizen of [[Navarr]]. Construction of the Hall of the Seven was announced by Bertrand as Bearer of the First Imperial Wayleave during the Spring Equinox 385YE following an [[Opportunity]] presented to take advantage of the inspiration presented by the knights of [[Dawn]] to the Thorns of Navarr.
+The [[Spear of the Seven]] is an [[Imperial Title]] aWarded to a citizen of [[Navarr]]. Construction of the Hall of the Seven was announced by Bertrand as Bearer of the First Imperial Wayleave during the Spring Equinox 385YE following an Opportunity presented to take advantage of the inspiration presented by the knights of [[Dawn]] to the Thorns of Navarr.
 ## Responsibilities
 The Spear of the Seven is expected to support Imperial [[Heroes]] Fighting The [[The Vallorn]], to organise captains to support the struggle against the [[Vallorn]], and to gather resources to [[Empower]] and assist efforts against The the vallorn and vallornspawn.
 ## Powers

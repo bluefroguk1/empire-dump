@@ -12,7 +12,7 @@ revision_id: 86651
 ---
 
 [[Senate motion]]
-To [[Commission]] a [[Fortification]], The First Step, in the Region of Ore Hills, [[Mournwold]].
+To Commission a [[Fortification]], The First Step, in the Region of Ore Hills, [[Mournwold]].
 Proposed by [[Upwold]], Seconded by [[Hahnmark]] 
 ### Overview
 * This was to begin work to complete the half-built fortification abandoned by the [[Jotun]] in Mournwold.
@@ -24,7 +24,7 @@ Proposed by [[Upwold]], Seconded by [[Hahnmark]]
 * 40 wains of [[White granite]]
 * 10 Thrones labour costs
 * Time: 6 months to construct
-* The reduced costs are due to the [[Opportunity]] presented by the capture of a partially built Jotun fort.
+* The reduced costs are due to the Opportunity presented by the capture of a partially built Jotun fort.
 ### PrOgress
 * 150 Thrones disbursed to [[Senator]] Upwold
 * 40 wains of white granite and 10 thrones provided by Silas Merrick after the Winter Solstice 379YE.

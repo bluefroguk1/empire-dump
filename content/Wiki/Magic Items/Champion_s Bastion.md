@@ -22,7 +22,7 @@ In Dawn, the Gryphon [[Runes]] are commonly used as a set upon these shields, al
 Shields
 * Effect: Whenever you spend a hero point you regain one lost hit immediately afterward.
 * [[Materials]]: Crafting a champion's bastion requires seven ingots of green iron, five ingots of tempest jade and five ingots of weltsilver. It takes one month to make one of these items.
-The scop was holding court in a raucous corner of the tavern. He had an audience of drinkers all over the Empire, but his attention was on three: a Marcher, a Dawnish knight and most particularly on the hero of his Hall. She'd recently returned from [[Skarsind]]. The [[Imperial army]] had lost, and his job was to drag crumbs of glory out of defeat, to fire the citizens of Empire to the [[Challenge]] of battles to come.
+The scop was holding court in a raucous corner of the tavern. He had an audience of drinkers all over the Empire, but his attention was on three: a Marcher, a Dawnish knight and most particularly on the hero of his Hall. She'd recently returned from [[Skarsind]]. The [[Imperial army]] had lost, and his job was to drag crumbs of glory out of defeat, to fire the citizens of Empire to the Challenge of battles to come.
 "Shield-guarded glory-tall, legend, tho' stature-small,
 Great Kiri! Axe-maid! The best of our hall!
 Two foes she faced alone, turn-swings she cut one down,

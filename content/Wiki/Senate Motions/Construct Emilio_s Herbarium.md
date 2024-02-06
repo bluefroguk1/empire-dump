@@ -12,9 +12,9 @@ revision_id: 85586
 ---
 
 __NOTOC__
-The [[Imperial Orcs]] would like to use their Wayleave for a [[Weirwood]]-[[Herb]] [[Sinecure]] located in Foracci, [[Sarvos]]. Named Emilio's Herbarium for [[Anvil]] hospital. Title: Keeper of Emilio's Herbarium, it's a tenure position, [[Loyalty]] [[Assembly]].''Imperial Wayleave by Palerictus Krunk''
+The [[Imperial Orcs]] would like to use their Wayleave for a [[Weirwood]]-Herb [[Sinecure]] located in Foracci, [[Sarvos]]. Named Emilio's Herbarium for [[Anvil]] hospital. Title: Keeper of Emilio's Herbarium, it's a tenure position, [[Loyalty]] [[Assembly]].''Imperial Wayleave by Palerictus Krunk''
 ## Overview
-* [[Commission]] a Sinecure in Sarvos
+* Commission a Sinecure in Sarvos
 * Announcement.
 ## Date
 * Winter 382YE

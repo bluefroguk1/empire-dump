@@ -12,7 +12,7 @@ revision_id: 105770
 ---
 
 __NOTOC__
-To [[Commission]] the Lakesedge Highway connecting the Holmauer Gate to Misericorde through Rebeshof in [[Holberg]]. This creates the [[Imperial Title]] Rebeshof RoadWarden, to be elected annually by the Senators of [[The League]].
+To Commission the Lakesedge Highway connecting the Holmauer Gate to Misericorde through Rebeshof in [[Holberg]]. This creates the [[Imperial Title]] Rebeshof RoadWarden, to be elected annually by the Senators of [[The League]].
 ## Overview
 * Constructs a [[Sinecure]] in Holberg as per the [[Schools and sawmills]] wind of fortune
 * Passed

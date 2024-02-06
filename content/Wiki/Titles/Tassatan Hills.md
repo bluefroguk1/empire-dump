@@ -17,7 +17,7 @@ The [[Tassatan Hills]] are located the hills about [[Tassato]] Mestra, in [[The 
 The Hills were established by motion of the [[Imperial Senate]] at the Winter Solstice 384YE, following the plans of Gemma SteWart of Tassato
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of ilium which is theirs to do with as they will. If the Tassatan Hills were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Tassatan Hills, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of ilium which is theirs to do with as they will. If the Tassatan Hills were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Tassatan Hills, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Tassatan Hills comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

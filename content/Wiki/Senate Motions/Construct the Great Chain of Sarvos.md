@@ -12,7 +12,7 @@ revision_id: 104563
 ---
 
 __NOTOC__
-I, Sagua i'Ezmara, [[Master of the Koboldi]], hereby announce that this season's project will be the Steel Rings of [[Sarvos]], utilising [[The Chain]] against Chains [[Opportunity]] to protect Sarvos from naval attack. This will also make them better able to build and protect a navy if the Naval Arsenal is also built. The funds are being gathered by Merchant Prince Shauni di Vergo, [[Senator]] of Sarvos
+I, Sagua i'Ezmara, [[Master of the Koboldi]], hereby announce that this season's project will be the Steel Rings of [[Sarvos]], utilising [[The Chain]] against Chains Opportunity to protect Sarvos from naval attack. This will also make them better able to build and protect a navy if the Naval Arsenal is also built. The funds are being gathered by Merchant Prince Shauni di Vergo, [[Senator]] of Sarvos
 ## Overview
 * Constructs a [[Fortification]] in Sarvos as detailed in [[The parents of security]] wind of fortune 
 * Announcement by the Master of the Koboldi

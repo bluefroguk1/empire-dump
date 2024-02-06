@@ -15,7 +15,7 @@ __NOTOC__
 To enlarge and [[Expand the Docks at Korotny]] and create the title of [[Harbourmaster of the Semmerlak]]
 ## Overview
 * Expands the docks at Korotny.
-* More information on the [[Opportunity]] to expand the docks at Korotny can be found in the [[Apples from a tree]] wind of fortune
+* More information on the Opportunity to expand the docks at Korotny can be found in the [[Apples from a tree]] wind of fortune
 * Announcement by [[Bearer of an Imperial Wayleave]].
 ## Date
 * Spring 384YE

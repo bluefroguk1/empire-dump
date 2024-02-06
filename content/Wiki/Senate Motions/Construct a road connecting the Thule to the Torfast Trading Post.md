@@ -19,7 +19,7 @@ Proposed by Skarsind, Seconded by [[Temeschwar]].
 ### Date
 * Summer 381YE
 ### [[Cost]]
-* As detailed in this [[Opportunity]].
+* As detailed in this Opportunity.
 * 30 wains of [[White granite]]
 * 60 crowns in labour costs
 * Six months to construct

@@ -11,7 +11,7 @@ revision_id: 24522
 ---
 
 Original Song by Jamie Wakefield  (https://soundcloud.com/jamie-wakefield/[[Redhound]]) 
-Redhound is a player character in the [[Eternal]] [[Family]] [[Steading]].
+Redhound is a player character in the [[Eternal]] [[Family]] Steading.
 [[Chords]]: Verse – Gm,  Gm F; Chorus – Gm F x2, D# Gm x2, F E Gm x2
 Verse 1
 Here's a little story,
@@ -39,7 +39,7 @@ Brave and free, is Redhound. (Redhound.)
 Bursting through the trees,
 Mightily, is Redhound. (Redhound.)
 His enemies flee at the sound,
-When out of the [[Forest]], with a single bound,
+When out of the Forest, with a single bound,
 He'll cut them down to the ground.
 He's Redhound. He's Redhound. 
 ''howl''

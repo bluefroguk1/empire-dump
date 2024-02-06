@@ -12,7 +12,7 @@ revision_id: 106536
 ---
 
 __NOTOC__
-[[Commission]] the Grand Inspiration of [[The Way]] in [[Bastion]]. 1000 [[White granite]], 250 thrones, 3 years.
+Commission the Grand Inspiration of [[The Way]] in [[Bastion]]. 1000 [[White granite]], 250 thrones, 3 years.
 * Constructs a [[Folly]] in Bastion as per the [[Blood will thicken]] wind of fortune
 * Passed
 ## Date

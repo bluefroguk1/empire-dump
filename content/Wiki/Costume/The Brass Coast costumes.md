@@ -57,7 +57,7 @@ Waistcoats and open robes are another possibility to layer over a tunic, or even
 The perfect Brass Coast headdress is the [http://en.wikipedia.org/wiki/Tagelmust tagelmust]. Red, orange, or yellow are ideal for The Brass Coast. Tagelmusts in the indigo-dyed shades worn by the [https://en.wikipedia.org/wiki/Tuareg_people Tuareg] people in the real world are inappropriate at Empire, due to their actual cultural significance. 
 [http://youtu.be/SGvneAtiE_U How to tie a tagelmust video]
 ## Children
-Children are an [[Opportunity]] for parents to show off their wealth, dressing their offspring in traditional Freeborn styles. Children in The Brass Coast are often dressed in scaled down versions of their parents clothes.
+Children are an Opportunity for parents to show off their wealth, dressing their offspring in traditional Freeborn styles. Children in The Brass Coast are often dressed in scaled down versions of their parents clothes.
 For toddlers and babies, simple t-tunics and drawstring trousers are simple and easy to pull-on garments, that can be made in linen or cotton for easy washing! These types of clothes also have plenty of flexibility in terms of size, meaning they should last for more than one year. Choosing sleeveless and none form fitted top layers like the melia/stola should make several years of wear possible, making fancy trims and embellishments Worthwhile.
 [[General]] tips for costume for children: 
 * Robes that stop at knee - mid-calf will be less of a trip hazard

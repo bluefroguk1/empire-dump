@@ -116,7 +116,7 @@ In addition to the wains required, it costs 3 crowns per wain to pay for labour 
 |}
 The tables shows some standard purchase costs for a range of different sized ministries. For example a ministry created by the Senate using 16 wains of mithril could allow the purchase of 8, 16, 25, or 33 mana crystals each season. There is no upper limit on how many wains can be used to construct a ministry; provided at least 12 wains are used, then any amount can be spent to build it.
 ## Limitations
-It is not possible to create a ministry which allows the purchase of [[Ilium]], Liao, Mithril, [[Weirwood]], or [[White granite]] without a suitable [[Opportunity]].
+It is not possible to create a ministry which allows the purchase of [[Ilium]], Liao, Mithril, [[Weirwood]], or [[White granite]] without a suitable Opportunity.
 Although a ministry produces items like a personal resource, it cannot be upgraded or diversified in the same way a personal resource can. The only options available are what Materials to buy. A ministry that produces liao will not come with an option to sell that liao in downtime, a ministry that produces green iron cannot be paid to produce more in [[The Way]] a green iron [[Mine]] could.
 Ministries are not affected by [[Rituals]] that target a personal resource. A ritual that increases the production of a green iron mine will not affect a ministry that produces green iron.
 ## Responsibility

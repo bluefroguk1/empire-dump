@@ -12,7 +12,7 @@ revision_id: 85517
 ---
 
 __NOTOC__
- Motion to construct a Kruidenkenner Warehouse in Meade to trade specifically in [[Bladeroot]]. To be called the ‘Root and Stem Apothecarium.’ To create the title ‘[[Master of the Root and Stem]]’, to be appointed Nationally by the Bourse. Limited [[Opportunity]], self funded.
+ Motion to construct a Kruidenkenner Warehouse in Meade to trade specifically in [[Bladeroot]]. To be called the ‘Root and Stem Apothecarium.’ To create the title ‘[[Master of the Root and Stem]]’, to be appointed Nationally by the Bourse. Limited Opportunity, self funded.
 ''Proposed by [[Mitwold]], seconded by [[Mournwold]]''
 ## Overview
 * Relates to the Opportunity to construct a warehouse in the town of Meade, Mitwold 

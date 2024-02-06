@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Song of the Noonday Sun
-aliases: ['Song_of_the_Noonday_Sun']
-draft: False
+aliases:
+- Song_of_the_Noonday_Sun
+draft: false
 revision_date: 2017-03-23 11:52:41+00:00
 revision_id: 49806
 ---
 
-#REDIRECT [[Icon of the Proud]]
+#REDIRECT Icon of the Proud

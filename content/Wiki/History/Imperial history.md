@@ -24,7 +24,7 @@ At its height, the Terunael empire may have lasted for between a hundred and thr
 Terunael culture was centred around their cities. The heart of their Empire, the city of Terunael, stood in [[Brocéliande]] while other cities existed in [[Miaren]], [[Hercynia]], [[Liathaven]], and [[Therunin]]. Some historians believe there were between two and five other cities, located outside the area that the Empire now controls. Exact information about this period is fragmentary, but it is Generally believed that the rulers of Terunael were its Magicians.
 This period ends with the catastrophic Fall, and the creation of The [[The Vallorn]].
 ## Chaos
-After the fall of Terunael, the lands of the Bay of Catazar descended into chaos. Following the calamity, the [[Barbarian]] orcs, who had largely been pushed out of the central lands, swept back in. A great many humans were enslaved, or killed, and their continued invasions sped the collapse of whatever infrastructure had survived the Bane of Terunael. Those human cultures who survived were isolated or lived in places the orcs were not interested in - the Suaq and [[Kallavesa]] in the north-west, the Ushka in the north-east, and the Urizen in the south-east.
+After the fall of Terunael, the lands of the Bay of Catazar descended into chaos. Following the calamity, the Barbarian orcs, who had largely been pushed out of the central lands, swept back in. A great many humans were enslaved, or killed, and their continued invasions sped the collapse of whatever infrastructure had survived the Bane of Terunael. Those human cultures who survived were isolated or lived in places the orcs were not interested in - the Suaq and [[Kallavesa]] in the north-west, the Ushka in the north-east, and the Urizen in the south-east.
 Some historians believe that it was during the latter part of this period that the Vard and the [[Steinr]] fell from the heavens, and encountered (respectively) the people who would later form [[Wintermark]] and [[Varushka]]. Regardless, the Chaos is generally considered to end with the arrival of the Highborn.
 Imperial histories tend to place the founding of Nemoria and the city that would become the [[Sarcophan Delves]] during this period, despite the claims of foreign scholars to the contrary.
 ## Pre-Imperial
@@ -59,7 +59,7 @@ An unusual alliance between Marcher and Dawnish forces caused the destruction of
 ### (54 YE) Scouring of [[Redoubt]]
 A combined Imperial force assisted the Seers of Urizen in systematically removing the majority of orc occupants from the territory of Redoubt. Urizen control of the territory expanded allowing it to be represented in the Senate.
 ### (56 YE) [[Reikos]] gained
-Highborn forces finally succeeded in conquering Reikos on the borders of the [[Great [[Forest]] of Peytaht]]. The territory was accepted as part of the Empire although it took over a year to return the first senator for the territory.
+Highborn forces finally succeeded in conquering Reikos on the borders of the [[Great Forest of Peytaht]]. The territory was accepted as part of the Empire although it took over a year to return the first senator for the territory.
 ### (71 YE - 91 YE) Reign of [[Empress Teleri]], "the Pious"
 This Navarr Empress was deeply involved in the business of the Synod, and it was during her reign that they first began to exert the political powers they possessed. During her reign, the Synod gained increasing influence over all other parts of Imperial life, especially the [[Imperial Senate]]. 
 ### (74 YE) Westward expansion

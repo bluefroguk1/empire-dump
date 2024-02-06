@@ -29,7 +29,7 @@ Proposed by [[Kahraman]], Seconded by [[Sarvos]]
 ### Constitution
 * Each Wayleave must be an [[Imperial Title]] subject to all the normal rules for an Imperial title
 * It is possible for this proposed Imperial title to have a term of a single summit
-* The [[Commission]] would have to be announced at the same summit that the title was auctioned
+* The Commission would have to be announced at the same summit that the title was auctioned
 * The number of commissions available to the Senate would be reduced in advance by the number of Wayleaves auctioned
 It is not possible to vest the powers of the state in a document that is auctioned - they must be an Imperial title that is held. The constitution demands that no Imperial citizen hold two titles at once - allowing documents to carry powers of state would create the potential for an individual to effectively circumvent this limitation. The closest comparable situation is the favour of [[The Throne]] - a highly complex and constitutionally challenging arrangement.
 The constitutionally valid way to achieve the closest outcome that the court can identify is to auction one or more Imperial titles through the Bourse each summit. These titles would last for the duration of the summit - and would allow the appointed citizen to announce a single commission in the Senate at that summit. They would be subject to all the normal rules for Imperial titles.

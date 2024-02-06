@@ -12,7 +12,7 @@ revision_id: 100257
 ---
 
 __NOTOC__
-To Construct [[Construct Thornsong House]] to honour the heritage of Healers and apothecaries in [[Therunin]]. This unique hospital college will allow [[The Empire]] to research new Potions for the first time and create a centre for [[Potion]]-lore in the Empire. The title of "Thornsinger", responsible for overseeing and guiding the research, will be appointed annually vs [[Tally of the Votes]]. The title will have the ability to address Senate to announce their chosen research focus. Like other Imperial research functions, there will be an upkeep [[Cost]] - 10 thrones as season. This is a unique, limited [[Opportunity]].
+To Construct [[Construct Thornsong House]] to honour the heritage of Healers and apothecaries in [[Therunin]]. This unique hospital college will allow [[The Empire]] to research new Potions for the first time and create a centre for [[Potion]]-lore in the Empire. The title of "Thornsinger", responsible for overseeing and guiding the research, will be appointed annually vs [[Tally of the Votes]]. The title will have the ability to address Senate to announce their chosen research focus. Like other Imperial research functions, there will be an upkeep [[Cost]] - 10 thrones as season. This is a unique, limited Opportunity.
 ## Overview
 * Construct the Thornsong House as detailed in the [[Make a deal]] wind of fortune.
 * Passed

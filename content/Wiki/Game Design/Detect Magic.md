@@ -31,7 +31,7 @@ You can use this spell to discern the magnitude and realm of a ritual that is be
 ### Identify Magical Item
 By casting the spell on a single magic item you can determine its basic abilities. When used in this way it does not reveal the presence of any additional qualities such as the presence of a [[Curse]], [[Hallow]] or hidden roleplaying effect. Using the spell in this way will also detect any enchantments on the target item.
 ### Discern [[Arcane Mark]]
-You may cast this spell on a single target to determine if they have an Arcane Mark, and whether than arcane mark is the same as your own (assuming you have one). When cast for this specific purpose, it does not discover any other information about enchantments on the target. This use of Detect detect magic is closely tied to the Right of [[Challenge]] of the members of the Conclave orders.
+You may cast this spell on a single target to determine if they have an Arcane Mark, and whether than arcane mark is the same as your own (assuming you have one). When cast for this specific purpose, it does not discover any other information about enchantments on the target. This use of Detect detect magic is closely tied to the Right of Challenge of the members of the Conclave orders.
 ### Identify [[Regio]]
 You may cast this spell on a Regio to confirm it ''is'' a regio, and to determine which of the six realms it is associated with,. It will also reveal if that regio has any intrinsic special properties. It will identify if a regio is "strong" or not (that is if it will allow targeting of large-scale rituals on a territory), or provide information on any special bonuses that might apply to Rituals cast there.
 ### Discover Conjunction

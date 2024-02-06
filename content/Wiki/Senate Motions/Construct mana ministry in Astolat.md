@@ -24,7 +24,7 @@ Proposed by Asolat, Seconded by [[Weirwater]]
 * Unknown, but standard costs apply
 ### PrOgress
 ### Autumn Equinox 381
-* This [[Commission]] has lapsed
+* This Commission has lapsed
 ### Campaign Outcome
 * There are necessary details missing from this motion, [[Senator]] Astolat may decide on these.
 * This ministry, once completed, will create a Dawnish national position.

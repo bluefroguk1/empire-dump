@@ -14,7 +14,7 @@ revision_id: 94608
 __NOTOC__
 To disburse funds to improve the [[Towerjacks]] providing the Engineer quality.
 ## Overview
-* The motion comes from an [[Opportunity]] to improve the Towerjacks presented in the [[Watches from the Wall]] wind of fortune.
+* The motion comes from an Opportunity to improve the Towerjacks presented in the [[Watches from the Wall]] wind of fortune.
 * Passed at 140 Thrones. The fUll amount was disbursed to the [[Senator]] for [[Astolat]].
 ## Date
 * Spring 384YE

@@ -12,7 +12,7 @@ revision_id: 102179
 ---
 
 __NOTOC__
-To [[Commission]] the Smokehouse of Atalaq, a [[Great work]] in Atalaq, [[Sermersuaq]], consisting of a vast smokehouse in Atalaq and a network of supporting structures around Sermersuaq, returning [[Prosperity]] to the Farms and hunters of the territory. As well as supporting the recovery in Sermersuaq from [[Jotun]] invasion, this allows the imMinent fourth [[Wintermark]] army to receive training in The Ways of the [[Suaq]], further restoring [[Pride]] to the people of the ice. The people of Sermersuaq request funds from [[The Empire]] for this ambitious endeavour. 
+To Commission the Smokehouse of Atalaq, a [[Great work]] in Atalaq, [[Sermersuaq]], consisting of a vast smokehouse in Atalaq and a network of supporting structures around Sermersuaq, returning [[Prosperity]] to the Farms and hunters of the territory. As well as supporting the recovery in Sermersuaq from [[Jotun]] invasion, this allows the imMinent fourth [[Wintermark]] army to receive training in The Ways of the [[Suaq]], further restoring [[Pride]] to the people of the ice. The people of Sermersuaq request funds from [[The Empire]] for this ambitious endeavour. 
 ## Overview
 * Constructs a smokehouse in Atalaq, Sermersuaq that will function as a Great work and allow the fourth Wintermark army to be raised with a focus on Suaq traditions, as detailed in the [[Write the lines]] wind of fortune
 * Passed at 215 thrones

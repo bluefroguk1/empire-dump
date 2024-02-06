@@ -13,9 +13,9 @@ revision_id: 107156
 ---
 
 ## Overview
-"[[The Mallum]]" is the name given to the land claimed by the [[Druj]] orcs, east of [[The Empire]]. What little reliable information the Empire has about the Mallum has come from the orcs of the Great [[Forest]]. There are at least four territories considered to form part of the Mallum, and [[The Barrens]] is often considered to represent a fifth.
+"[[The Mallum]]" is the name given to the land claimed by the [[Druj]] orcs, east of [[The Empire]]. What little reliable information the Empire has about the Mallum has come from the orcs of the Great Forest. There are at least four territories considered to form part of the Mallum, and [[The Barrens]] is often considered to represent a fifth.
 These are only the lands of the Mallum that the [[Great Forest Orcs]] know about. They cannot say with certainty if they represent all the lands of the Druj or not - but they are all the lands that border the Barrens. They also stress that there are more than just Druj living in these lands - the Druj have subject nations who do most of their menial labour - but Warn that the spirit of rebellion has been all but snuffed out. Each of these territories is infused with the same miasma that apparently hangs over [[Ossium]], eroding the will of those who are weak in the face of Druj oppression.
-During the Winter Solstice 382YE the Great Great Forest orcs offered an [[Opportunity]] to map the Mallum in more detail. The [[Imperial Senate]] declined the offer.
+During the Winter Solstice 382YE the Great Great Forest orcs offered an Opportunity to map the Mallum in more detail. The [[Imperial Senate]] declined the offer.
 ## The Barrens
 The Empire already knows a great deal about The Barrens. The Druj as a nation have always coveted this territory and at various points through history have controlled all, some, or none of it. This sprawling land represents not only great wealth but also allows the Druj to move their armies quickly and efficiently between the various territories they control - and the Imperial territory they covet.
 ## Ossium

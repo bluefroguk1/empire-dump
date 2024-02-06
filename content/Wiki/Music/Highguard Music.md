@@ -23,7 +23,7 @@ Popular with all strata of Highguard society, these three songs are heard in cha
 The Highguard Battle Choirs are a great imperial tradition - no nation marches to battle with the same holy fervour in their singing. Usually accompanied by a single drumbeat, the sound of the Highguard army in full voice is an awe-inspiring and intimidating sound. Often a small number of more confident singers lead the chant in a call-and-response pattern. At least in this context the choirsters are warriors first and musicians second - the singers need not be particularly talented, as it is holy fervour and their indomitable will that characterises the battle choir.
 ### One for the kids
 *Circle March - very easy repeating song
-*[[Nursery Rhyme about Lineage]]- a very naughty chant, not to be repeated in front of anyone with [[Lineage]]!
+*[[Nursery Rhyme about Lineage]]- a very naughty chant, not to be repeated in front of anyone with Lineage!
 ### Songs about notable people and entities in Highguard
 * [[Enoch and Levi]] - romantic ballad, Highguard style...
 * [[Pride of the Highborn]] - anthem of Adina's Charge

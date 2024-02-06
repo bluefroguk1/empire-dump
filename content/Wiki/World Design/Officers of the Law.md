@@ -15,7 +15,7 @@ revision_id: 98490
 * The imperial militia; these are almost always Player Characters, but may also be Non-Player Characters
 * Civil service magistrates, presiding over the militia and the courts; these are always Non-Player Characters 
 * Civil service legislators and administrators, primarily supporting the [[Imperial Senate]]; these are always Non-Player Characters.
-In Empire players will have the [[Opportunity]] to be deputised into the imperial militia during the course of play. The militia are all drawn from the player base and they are responsible for investigating crime and maintaining law and order. If you wish to apply to join the militia you should approach a magistrate during time-in. If the militia are currently recruiting they will hold interviews in order to select the very best candidates. No advantage will be gained from including in your character’s background that they have been involved in [[Imperial Law]] enforcement in their past.
+In Empire players will have the Opportunity to be deputised into the imperial militia during the course of play. The militia are all drawn from the player base and they are responsible for investigating crime and maintaining law and order. If you wish to apply to join the militia you should approach a magistrate during time-in. If the militia are currently recruiting they will hold interviews in order to select the very best candidates. No advantage will be gained from including in your character’s background that they have been involved in [[Imperial Law]] enforcement in their past.
 ## Magistrates
 Magistrates can be recognised by their white robes bearing the militia lantern motif.
 Magistrates are those members of the civil service who are Empowered to uphold the law by:

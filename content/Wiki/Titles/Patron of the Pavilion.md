@@ -14,7 +14,7 @@ revision_id: 90135
 ## Overview
 The [[Patron of the Pavilion]] is an [[Imperial Title]] created by the [[Imperial Senate]] in Autumn 383YE. The position of patron is a [[Sinecure]], requiring minimal responsibility but offering a regular income of [[Liao]], and votes in the [[Imperial Synod]]. 
 ## Responsibilities
-The Patron oversees the Pavilion on Looking Glass Lake in [[Holberg]]. If the Pavilion were to be threatened, it would be the responsibility of the Patron to face those threats; likewise should any [[Opportunity]] related to the Pavilion arise the Patron would decide how to respond.
+The Patron oversees the Pavilion on Looking Glass Lake in [[Holberg]]. If the Pavilion were to be threatened, it would be the responsibility of the Patron to face those threats; likewise should any Opportunity related to the Pavilion arise the Patron would decide how to respond.
 ## Powers
 ### Bounty of Liao
 The sinecure provides ten measures of Liao to the Patron each season, to be used as they see fit.

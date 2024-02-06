@@ -21,7 +21,7 @@ Inacia i Correrro i [[Riqueza]] was the [[Architect]] who designed four of the f
 The funding of guards in Kahraman has ensured that despite problems with raiders, the custodian continues to receive 27 wains of white granite every season.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of white granite which is theirs to do with as they will. If the Damatian Cliffs were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Damatian Cliffs, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of white granite which is theirs to do with as they will. If the Damatian Cliffs were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Damatian Cliffs, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Damatian Cliffs comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

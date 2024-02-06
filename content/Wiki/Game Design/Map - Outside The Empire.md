@@ -1,11 +1,14 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Title: Map - Outside The Empire
-aliases: ['Map_-_Outside_The_Empire']
-draft: False
+aliases:
+- Map_-_Outside_The_Empire
+draft: false
 revision_date: 2013-03-02 11:41:59+00:00
 revision_id: 17627
-tags: ['Maps', 'Game-Design']
+tags:
+- Maps
+- Game-Design
 ---
 
 640x453px|center|link=http://www.profounddecisions.co.uk/mediawiki-public/images/2/26/World-map-woodcut.png

@@ -41,7 +41,7 @@ Commentary: The Doctrine of the Labyrinth was created by the Synod as a response
 History: The Doctrine of the Howling Abyss was created by the Synod during the [[Symposium of Revelation]] during the Winter Solstice 380YE. It was proposed by the Imperial Orc preacher Bonewall Rek, and accepted by the [[General]] [[Assembly]] as part of an attempt to better understand the nature of the orc soul, and the place of the Imperial Orcs in the Way. The Howling Abyss is a feature of Imperial Orcs belief shared by both the Imperial Orcs and the barbarians, as far as is understood.
 ### The Doctrine of the Ancestors
 ''To cross the Howling Abyss an orc must be known for their deeds. Though there may be other ways to cross, embracing the Seven Virtues leads an orc to the Great and Inspiring deeds that make an Ancestor and a Virtuous Ancestor can guide future generations on the Way.''
-History: As with the Doctrine of the Howling Abyss, the Doctrine of the Ancestors was created during the [[Symposium]] of Revelation. It was proposed by Bonewall Cole, and supported by the General Assembly. The belief in ancestor spirits is a key feature of the beliefs of many orcs, both Imperial and [[Barbarian]].
+History: As with the Doctrine of the Howling Abyss, the Doctrine of the Ancestors was created during the [[Symposium]] of Revelation. It was proposed by Bonewall Cole, and supported by the General Assembly. The belief in ancestor spirits is a key feature of the beliefs of many orcs, both Imperial and Barbarian.
 ## Further Reading
 *The Way of Virtue
 * [[Imperial Theology]]

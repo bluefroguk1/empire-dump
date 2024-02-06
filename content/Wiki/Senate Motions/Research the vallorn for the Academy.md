@@ -14,7 +14,7 @@ revision_id: 85912
 To allow [[The Academy]] to research the origin of The [[The Vallorn]] and for the Civil Service to provide that research.''Proposed by [[Astolat]], Seconded by [[Miaren]].''
 ### Overview
 * Research project.
-* [[Commission]] research into the [[Vallorn]] to be provided to the Academy.
+* Commission research into the [[Vallorn]] to be provided to the Academy.
 ### Date
 * Passed Autumn 378YE
 ### [[Cost]]

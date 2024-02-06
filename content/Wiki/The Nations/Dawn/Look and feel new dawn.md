@@ -51,7 +51,7 @@ Ritual staffs in Dawn are a way to display your prowess. They are often highly d
 ## [[Mage]] Armour
 The armour [[Of The War]] witch often echoes the forms and shapes of traditional plate, although in sections, and can be decorated with heraldic symbols. 
 =Children=
-Young children are an [[Opportunity]] for noble houses to display their wealth and power. Squires are dressed in robes decorated with the house symbols. Older children, noble or yeoman, want the most expensive clothes their parents can afford. Even when not ornamented, clothing is often strikingly coloured.
+Young children are an Opportunity for noble houses to display their wealth and power. Squires are dressed in robes decorated with the house symbols. Older children, noble or yeoman, want the most expensive clothes their parents can afford. Even when not ornamented, clothing is often strikingly coloured.
 =Camps=
 When travelling, a Dawnish household still attempts to maintain distinctiveness. Tents might be plain, but are often decorated in the house colours, with bunting and floral decoration being popular. Large banners bearing a house's or individual's heraldry can be prominently displayed, as can small painted shields and devices. 
 =Similar Nations= 

@@ -19,4 +19,4 @@ To assign an [[Ambassador]] to the [[Sumaah]] RepublicProposed by [[Miaren]], se
 * Autumn 379YE.
 ### Campaign Outcome
 * The actual [[Appointment]] took place during the Winter 379YE summit, but ultimately no candidate received the backing of the senate and so the title remained vacant.
-* With the completion of the Sumaah [[Embassy]] in [[Necropolis]], the Senate will have another administrative [[Opportunity]] to appoint an ambassador during Spring 380YE.
+* With the completion of the Sumaah [[Embassy]] in [[Necropolis]], the Senate will have another administrative Opportunity to appoint an ambassador during Spring 380YE.

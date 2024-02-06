@@ -12,7 +12,7 @@ revision_date: 2022-06-27 13:12:09+00:00
 revision_id: 92350
 ---
 
-As of Spring 383YE, the [[Broken Shore Bounty]] is controlled by the [[Grendel]] and is no longer an [[Imperial Bourse]] seat. This page reflects their status before it was lost to the [[Barbarian]] orcs.
+As of Spring 383YE, the [[Broken Shore Bounty]] is controlled by the [[Grendel]] and is no longer an [[Imperial Bourse]] seat. This page reflects their status before it was lost to the Barbarian orcs.
 ## Overview
 The Broken Shore Bounty is technically located near Cazar in the Territory of [[Feroz]]. Custodianship of the Broken Shore Bounty grants an [[Imperial Title]]; a seat on the Imperial Bourse; and a seasonal bounty of valuable [[Ilium]].
 The Broken Shore Bounty has effectively, as of Autumn 383YE, ceased to exist, in part due to the peace treaty with the Grendel. Part of the bounty went to the then [[Imperial [[Fleet]] Master]], Esteban I Del Rio Blanco I [[Guerra]], in [[Recognition]] of his role in opposing the Grendel. This continues only as long as they are Imperial Fleet Master. Of the remainder, the amount of ilium being auctioned through the Public Bourse Auction was increased by four rings.
@@ -24,7 +24,7 @@ The ilium that the Seat provides is claimed from the fishing nets of the boats t
 The seat comes with a well-protected villa in the port-town of Cazar, in Feroz. The corsairs families of the Brass Coast see it as a point of honour to control the Broken Shore Bounty. The Ilium is collected and overseen by members of the i Orieni i [[Riqueza]] [[Family]], who have extensive ties with fishing families and mercantile ship owners throughout the Brass Coast, and the southern territories of  [[The League]], [[Highguard]], and [[Urizen]]. The current dhomiro of the i Orien family is named Riguel.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of Ilium which is theirs to do with as they will. If the Broken Shore Bounty were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Broken Shore Bounty, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of Ilium which is theirs to do with as they will. If the Broken Shore Bounty were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Broken Shore Bounty, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Broken Shore Bounty comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

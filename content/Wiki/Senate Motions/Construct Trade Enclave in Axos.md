@@ -12,7 +12,7 @@ revision_id: 105620
 ---
 
 __NOTOC__
-Raise a motion to construct a trade enclave in [[Axos]] to trade with [[Skoura]] in minor [[Materials]]. This would create the [[Imperial Title]] ‘[[Merchant to Skoura]]’ to oversee the enclave. Appointed by the Senators of [[Urizen]]. The enclave functions as a [[Ministry]]. No upkeep is required. No senate or civilian [[Commission]] will be required—constructed in Axos by Axou. Self-funded. This is the first [[Opportunity]] to engage with Skoura, who have no direct border with [[The Empire]].
+Raise a motion to construct a trade enclave in [[Axos]] to trade with [[Skoura]] in minor [[Materials]]. This would create the [[Imperial Title]] ‘[[Merchant to Skoura]]’ to oversee the enclave. Appointed by the Senators of [[Urizen]]. The enclave functions as a [[Ministry]]. No upkeep is required. No senate or civilian Commission will be required—constructed in Axos by Axou. Self-funded. This is the first Opportunity to engage with Skoura, who have no direct border with [[The Empire]].
 ''Proposed by [[Morrow]], seconded by [[Reikos]].''
 ## Outcome
 * Construct a trade enclave in Axos to establish trade with Skoura

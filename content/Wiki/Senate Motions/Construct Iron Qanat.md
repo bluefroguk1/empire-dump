@@ -14,7 +14,7 @@ revision_id: 85794
 __NOTOC__
 To employ the Asavean [[Architect]] to construct the fortified Iron Qanat in [[Segura]].''Proposed by [[Tassato]], seconded by [[Kahraman]].''
 ## Outcome
-* Construct the Iron Qanat, taking advantage of the [[Opportunity]] presented by the settlers from the Isle of [[Zemress]].
+* Construct the Iron Qanat, taking advantage of the Opportunity presented by the settlers from the Isle of [[Zemress]].
 * Passed
 ## Date
 * Spring 382YE
@@ -27,7 +27,7 @@ To employ the Asavean [[Architect]] to construct the fortified Iron Qanat in [[S
 ## PrOgress
 * None
 ## Campaign Outcome
-* This [[Commission]] will be overseen by Almodin Oktístis, Priest of the Builder.
+* This Commission will be overseen by Almodin Oktístis, Priest of the Builder.
 ** With the Asavean Architect being fired by the Senate, construction cannot be completed.
 * The Iron Qanat and Water Tower provides significant benefits once complete.
 ** [[The Brass Coast]] would be able to support an additional army or navy.

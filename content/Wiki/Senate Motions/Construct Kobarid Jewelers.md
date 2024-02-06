@@ -14,8 +14,8 @@ revision_id: 85584
 __NOTOC__
 To build the Jarmish Jewelry Exchange [[Ministry]] in [[Miaren]], [[Navarr]]. This will create the title of the "Star Jeweler" to be appointed by an [[Imperial Bourse]] Auction. Costing 8 [[White granite]], 4 [[Mithril]], and 24 Crowns, to be self funded.''Proposed by [[Temeschwar]], seconded by [[Madruga]].''
 ## Overview
-* [[Commission]] a fortified premesis for the Kobarid [[Family]] of Jarm to sell ''glazamy neba'' to Imperial customers.
-* This [[Opportunity]] is the result of an offer by the Jarmish Magician-Prince Matvei Kobarid.
+* Commission a fortified premesis for the Kobarid [[Family]] of Jarm to sell ''glazamy neba'' to Imperial customers.
+* This Opportunity is the result of an offer by the Jarmish Magician-Prince Matvei Kobarid.
 * It was raised following the abrogation of the Earlier motion to build the jewelers. 
 * Failed
 ## Date

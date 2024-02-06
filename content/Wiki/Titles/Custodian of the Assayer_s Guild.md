@@ -18,7 +18,7 @@ The Custodian is responsible for checking the weights and measures used by the T
 Early attempts were made to keep this position solely in the control of the citizens of [[Temeschwar]], but merchants in the other League cities asserted that the decisions made by the Custodian directly impacted their businesses, and the election was left as pan-League.
 During the Summer of 385YE, the completion of the Iron Roads saw an influx of Varushkan metals passing through Delev Market in [[Karov]], providing additional opportunities to purchase goods.
 ## Responsibilities
-The Custodian is expected to ensure that the weights and measures used by the assayers of Temeschwar - and by extension, the rest of [[The League]] - are maintained and untampered with. The close contact with miners, smelters and assayers all over the League allows ample [[Opportunity]] for the Custodian to acquire supplies of rare metals at bargain prices, and it is expected they will make those metals available to their cousins in the League - at an appropriate profit, of course.
+The Custodian is expected to ensure that the weights and measures used by the assayers of Temeschwar - and by extension, the rest of [[The League]] - are maintained and untampered with. The close contact with miners, smelters and assayers all over the League allows ample Opportunity for the Custodian to acquire supplies of rare metals at bargain prices, and it is expected they will make those metals available to their cousins in the League - at an appropriate profit, of course.
 ## Powers
 Assayers of Temeschwar
 12 crowns8 ingots of green Iron , 4 ingots of orichalcum, 4 ingots of weltsilver

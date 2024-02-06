@@ -12,7 +12,7 @@ revision_id: 105441
 ---
 
 ## Overview
-The [[Imperial Master of Works]] is an [[Imperial Title]] appointed by the Senate. The title was created at the Autumn Equinox summit of 377YE. The title has been aMended several times since its creation. At the Spring Equinox 378YE, the Senate voted to remove the Master of Works' ability to create new fortifications. They also removed a 10 Throne stipend the title had initially enjoyed. The Imperial Master of Works has further amended in Spring 380YE; it was limited to a single [[Commission]] each season in line with other similar titles.
+The [[Imperial Master of Works]] is an [[Imperial Title]] appointed by the Senate. The title was created at the Autumn Equinox summit of 377YE. The title has been aMended several times since its creation. At the Spring Equinox 378YE, the Senate voted to remove the Master of Works' ability to create new fortifications. They also removed a 10 Throne stipend the title had initially enjoyed. The Imperial Master of Works has further amended in Spring 380YE; it was limited to a single Commission each season in line with other similar titles.
 ==Responsibilities== 
 The Master of Works is responsible for overseeing the maintenance and improvement of Fortifications on behalf of the Senate. When first created, the Master of Works had the ability to commission new fortifications, but that power was removed by the [[Imperial Senate]] in Spring 378YE.
 ## Powers

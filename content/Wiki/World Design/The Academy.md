@@ -47,7 +47,7 @@ The ages are intended purely as a guide.
 * 1900 - 2030 - Tests of Citizenship & Arms.
 ### Sat Morning
 * 1000 - 1200 - Arts & Crafts (I, [[Empress Mariika]], extend my patronage to the Academy at Canterspire in Urizen, in [[Recognition]] of the work undertaken by them to preparate and educate the children of all nations of our great Empire.
-To ensure the future greatness of the Empire the best of all the Empire's children must be afforded instruction unparalleled in [[The Way]], the arts of [[War]], the weaving of magics, the grimnir's craft and all other such disciplines as are required to produce generations of heroes to defend this land. With this [[Endowment]], the Academy at Canterspire shall be ready to meet this [[Challenge]].
+To ensure the future greatness of the Empire the best of all the Empire's children must be afforded instruction unparalleled in [[The Way]], the arts of [[War]], the weaving of magics, the grimnir's craft and all other such disciplines as are required to produce generations of heroes to defend this land. With this [[Endowment]], the Academy at Canterspire shall be ready to meet this Challenge.
 To the most civil servants of [[The Throne]] I give encouragement to seek out the best of the Academy's teachers and accept them as your own that they might administer the Test of Citizenship, so that future leaders of the Empire may commence their service to The Empire as soon as they are fit to be called Citizens.
 Let all the citizens of this Empire hear my words and render to this Acamdey what aid they have within their means, that it might prosper. 
 Let all those who teach here do so in the knowledge that their work will secure the centuries to come.

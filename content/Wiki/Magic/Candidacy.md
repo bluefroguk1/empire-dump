@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Overview
-Unlike most Imperial Titles, there are no regular election dates for any Imperial titles appointed by the Conclave. However a new election can be called for any position at any [[Conclave session]] using a [[Declaration]] of [[Candidacy]]. If a declaration is raised, there is no debate; rather the civil service invite candidates for the position to put themselves forWard and then each is given an [[Opportunity]] to present their case to the Conclave.
+Unlike most Imperial Titles, there are no regular election dates for any Imperial titles appointed by the Conclave. However a new election can be called for any position at any [[Conclave session]] using a [[Declaration]] of [[Candidacy]]. If a declaration is raised, there is no debate; rather the civil service invite candidates for the position to put themselves forWard and then each is given an Opportunity to present their case to the Conclave.
 Those present are able to vote for the incumbent or any candidates who put themselves forward. Magicians can also vote for "none of the above" if they wish the title to become or remain vacant.
 [[The Throne]] has the power to raise a Declaration of Candidacy each summit.
 ## Necessary Details
@@ -31,7 +31,7 @@ There is no additional debate. Once the last candidate has spoken, the orders ha
 If the vote results in a new title holder, the chosen candidate assumes all the responsibilities and powers of the title at the end of the Conclave session. It is the responsibility of the previous holder of the title to ensure that all regalia passes to the new title holder speedily and with the minimum of fuss.
 Every Imperial title appointed by Declaration of Candidacy has tenure; they remain in position until they die, resign the title, or are replaced by a new declaration. The Constitution states that the Conclave "shall be guided by fraternities of magicians under the [[General]] aegis of the Senate, and without interference from the Synod." As a result it is not possible for the [[Imperial Synod]] to revoke an Imperial title appointed by the Conclave.
 ## Titles appointed by Candidacy
-* [[Arcane Architect]] - can [[Commission]] Sinecures that produce crystal mana or [[Vis]]
+* [[Arcane Architect]] - can Commission Sinecures that produce crystal mana or [[Vis]]
 * [[Archmage]] - one for each [[Realm]]; deals with the [[Magic]] and entities of that realm
 * [[Bursar of the Conclave]] - helps the Conclave acquire resources; can purchase crystal mana
 * [[Custodian of the Lost]] - receives 108 rings each season

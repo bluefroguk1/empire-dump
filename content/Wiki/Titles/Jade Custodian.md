@@ -12,7 +12,7 @@ revision_id: 91137
 ---
 
 ## Overview
-The [[Jade Custodian]] is an [[Imperial Title]] that has custodianship of the Wellspring of Jade. This idyllic pool is set among light woodlands in eastern Foracci, at the source of one of a minor tributary of the Gancio. It was  announced by the then-[[Civilian Commissioner]] of [[The League]] in Winter 380YE. Work was completed shortly before the Spring Equinox 381YE. The title represents a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana.  Likewise, if any [[Opportunity]] relating to the wellspring presented itself, they would make any decisions needed to take advantage of it.
+The [[Jade Custodian]] is an [[Imperial Title]] that has custodianship of the Wellspring of Jade. This idyllic pool is set among light woodlands in eastern Foracci, at the source of one of a minor tributary of the Gancio. It was  announced by the then-[[Civilian Commissioner]] of [[The League]] in Winter 380YE. Work was completed shortly before the Spring Equinox 381YE. The title represents a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana.  Likewise, if any Opportunity relating to the wellspring presented itself, they would make any decisions needed to take advantage of it.
 ## Responsibilities
 The Jade Custodian has no particular responsibilities; they simply receive a bounty of crystal mana from the Wellspring. If the Wellspring were to be threatened in any way, it would be the responsibility of the Jade Custodian to deal with those threats.
 ## Powers

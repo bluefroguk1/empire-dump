@@ -23,6 +23,6 @@ Proposed by [[Therunin]], seconded by [[Hercynia]]
 * 50 Thrones in labour costs
 * Time : 1 year to recruit
 ### PrOgress
-* This [[Commission]] has been abrogated in Winter 380YE.
+* This Commission has been abrogated in Winter 380YE.
 ### Campaign Outcome
 * This army, once complete, will automatically create the Navarri national title of [[General]].

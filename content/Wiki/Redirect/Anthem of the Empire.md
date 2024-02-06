@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Anthem of the Empire
-aliases: ['Anthem_of_the_Empire']
-draft: False
+aliases:
+- Anthem_of_the_Empire
+draft: false
 revision_date: 2012-09-02 13:30:03+00:00
 revision_id: 10765
 ---
 
-#REDIRECT [[Battle Anthem]]
+#REDIRECT Battle Anthem

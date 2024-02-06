@@ -12,7 +12,7 @@ revision_id: 104491
 ---
 
 __NOTOC__
-To fUlly improve the town of Orieb, and the Stinking Market within, establishing the first true vale of the Drownbark [[Forest]]. Fully self funded by Varushkan [[Prosperity]], requiring a single [[Commission]] slot, not two.
+To fUlly improve the town of Orieb, and the Stinking Market within, establishing the first true vale of the Drownbark Forest. Fully self funded by Varushkan [[Prosperity]], requiring a single Commission slot, not two.
 * Expands the town of Orieb as per the [[Thousands or more]] wind of fortune
 * Passed
 ## Date

@@ -16,28 +16,28 @@ revision_id: 107143
 * [[Kahraman]]
 * [[Madruga]]
 * [[Segura]]
-See: [[Brass Coast Maps]]
+See: Brass Coast Maps
 ### [[Dawn]]
 * [[Astolat]]
 * [[The Barrens]]
 * [[Semmerholm]]
 * [[Weirwater]]
-See: [[Dawn Maps]]
+See: Dawn Maps
 ### [[Highguard]]
 * [[Bastion]]
 * [[Casinea]]
 * [[Necropolis]]
 * [[Reikos]]
-See: [[Highguard Maps]]
+See: Highguard Maps
 ### The [[Imperial Orcs]]
 * [[Skarsind]]
-See: [[Wintermark Maps]]
+See: [[Wintermark]] Maps
 ### [[The League]]
 * [[Holberg]]
 * [[Sarvos]]
 * [[Tassato]]
 * [[Temeschwar]]
-See: [[League Maps]]
+See: League Maps
 ### [[The Marches]]
 * [[Bregasland]]
 * [[Mitwold]]
@@ -50,7 +50,7 @@ See: [[Marches Maps]]
 * [[Liathaven]]
 * [[Miaren]]
 * [[Therunin]]
-See: [[Navarr Maps]]
+See: Navarr Maps
 ### [[Urizen]]
 * [[Morrow]]
 * [[Redoubt]]
@@ -63,13 +63,13 @@ See: [[Urizen Maps]]
 * [[Miekarova]]
 * [[Ossium]]
 * [[Volodmartz]]
-See: [[Varushka Maps]]
-### [[Wintermark]]
+See: Varushka Maps
+### Wintermark
 * [[Hahnmark]]
 * [[Kallavesa]]
 * [[Sermersuaq]]
 See: Wintermark Maps
-Wondering how some of these places are usually pronounced? Try the [[Pronunciation guide]].
+Wondering how some of these places are usually pronounced? Try the Pronunciation guide.
 ## IC Maps
 A selection of IC tactical and decorative maps can be found at Maps
 480x335px|link=http://www.profounddecisions.co.uk/mediawiki-public/iMages/0/0d/EmpireDetailedMap.png

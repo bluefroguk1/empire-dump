@@ -14,7 +14,7 @@ revision_id: 99100
 ## Overview
 [[Dauntless Warrior]] is an Imperial Orc [[Imperial Title]] created following an announcement in Autumn 383YE. The construction was completed shortly before the 383YE Winter Solstice. The position of Dauntless Warrior is a [[Sinecure]] in [[Skarsind]], requiring minimal responsibility but offering a regular income of mana crystals. 
 ## Responsibilities
-The Dauntless Warrior has no particular responsibilities; they simply receive a bounty of mana crystals from the [[Forest]]. If the Forest itself were to be threatened in any way, it would be the responsibility of the Dauntless Warrior to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Dauntless Warrior has no particular responsibilities; they simply receive a bounty of mana crystals from the Forest. If the Forest itself were to be threatened in any way, it would be the responsibility of the Dauntless Warrior to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
 The Dauntless Warrior has custodianship of a sinecure and receives an income of 9 mana crystals each season.

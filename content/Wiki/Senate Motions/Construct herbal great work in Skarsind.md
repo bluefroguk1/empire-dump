@@ -12,11 +12,11 @@ revision_id: 86551
 ---
 
 __NOTOC__
-To [[Commission]] a [[Great work]] in [[Skarsind]] to those orcs that never got to see a homeland
+To Commission a [[Great work]] in [[Skarsind]] to those orcs that never got to see a homeland
 Proposed by Skarsind, Seconded by [[Sermersuaq]]
 ### Overview
 * A Great work in Skarsind that will produce True Vervain
-* This motion was to take advantage of the [[Opportunity]] presented following the [[Assignment of Skarsind]] to the [[Imperial Orcs]]
+* This motion was to take advantage of the Opportunity presented following the [[Assignment of Skarsind]] to the [[Imperial Orcs]]
 * Passed
 ### Date
 * Autumn 380YE
@@ -27,4 +27,4 @@ Proposed by Skarsind, Seconded by [[Sermersuaq]]
 ### PrOgress
 * 45 wains of weirwood and 90 crowns provided by Bloodcrow Yargol after Winter Solstice 380YE.
 ### Campaign Outcome
-* This great work, once complete, will provide 90 doses of True Vervain split between the owners of [[Herb]] gardens in Skarsind who attended the previous [[Anvil]] summit
+* This great work, once complete, will provide 90 doses of True Vervain split between the owners of Herb gardens in Skarsind who attended the previous [[Anvil]] summit

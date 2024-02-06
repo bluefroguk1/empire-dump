@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Python_s Hug
-aliases: ["Python's_Hug"]
-draft: False
+aliases:
+- Python's_Hug
+draft: false
 revision_date: 2023-05-13 14:44:07+00:00
 revision_id: 100730
 ---
 
-#REDIRECT [[The Last Resort#Python's Hug]]
+#REDIRECT The Last Resort#Python's Hug

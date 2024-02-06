@@ -14,7 +14,7 @@ revision_id: 102436
 ## Overview
 The [[Custodian of the Pelican Tower]] is an [[Imperial Title]] of [[The League]] created following an announcement during the Spring Equinox 384YE by Achille di [[Sarvos]], [[Bearer of an Imperial Wayleave]]. The construction was completed shortly before the 384YE Summer Solstice.
 ## Responsibilities
-The Custodian has no particular responsibilities; they simply receive a bounty of mana crystals from Pelican Tower. If the Tower were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats. Likewise, if any [[Opportunity]] relating to the Tower presented itself, they would make any decisions needed to take advantage of it.
+The Custodian has no particular responsibilities; they simply receive a bounty of mana crystals from Pelican Tower. If the Tower were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats. Likewise, if any Opportunity relating to the Tower presented itself, they would make any decisions needed to take advantage of it.
 ## Powers
 ### Bounty of Mana
 The Custodian receives an income of 9 mana crystals each season from the Pelican Tower.

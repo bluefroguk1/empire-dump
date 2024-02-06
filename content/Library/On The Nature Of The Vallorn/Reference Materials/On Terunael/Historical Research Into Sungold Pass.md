@@ -26,7 +26,7 @@ Obviously, there was some interest in these ruins among the [[Navarr]]. Speculat
 
 **The Snowstorm Henk Incident**
 
-In Spring 383YE. The Minister of [[Historical research]], Caleb of the Cenotaph, instructed the Department of Historical Research to prepare a report on the history of the area. As part of the [[Commission]], the adventurous Imperial Ore scholar Snowstorm Henk led a small team of ore researchers up to the pass. While exploring the area, the civil servants were taken prisoner by the Thule who accused them of trespass, theft, and espionage.
+In Spring 383YE. The Minister of [[Historical research]], Caleb of the Cenotaph, instructed the Department of Historical Research to prepare a report on the history of the area. As part of the Commission, the adventurous Imperial Ore scholar Snowstorm Henk led a small team of ore researchers up to the pass. While exploring the area, the civil servants were taken prisoner by the Thule who accused them of trespass, theft, and espionage.
 
 The researcher and four of his companions were imprisoned in the Thule camp on the northern slopes of the Traveller. A Navarr magistrate was grudgingly allowed into the camp to see them - and was consequently able to smuggle a short report prepared by Henk back to the Minister of Historical Research.
 
@@ -34,7 +34,7 @@ After further negotiation, Yevgeni Katzev (the [[Ambassador to Otkodov]]) issued
 
 **The Sungold Treaty**
 
-Finally, in Summer 383YE, Yegeni Katzev prepared a treaty for ratification by the Senate, part of which concerned the disposition of Sungold Pass. Along with proVisions for the return of Imperial slaves held in Otkodov, the Sungold Treaty formally conceded the Pass to the orcs. It was again proposed by the [[Senator]] for [[Karsk]] - Vuk The Wolfeater - and approved by the Senate. The Thule queried the exact language used, claiming that their understanding was that the treaty would recognise that Sungold Pass was in Otkodov rather than in the Empire, but they did not [[Challenge]] the treaty.
+Finally, in Summer 383YE, Yegeni Katzev prepared a treaty for ratification by the Senate, part of which concerned the disposition of Sungold Pass. Along with proVisions for the return of Imperial slaves held in Otkodov, the Sungold Treaty formally conceded the Pass to the orcs. It was again proposed by the [[Senator]] for [[Karsk]] - Vuk The Wolfeater - and approved by the Senate. The Thule queried the exact language used, claiming that their understanding was that the treaty would recognise that Sungold Pass was in Otkodov rather than in the Empire, but they did not Challenge the treaty.
 
 Almost immediately, according to Varushkan observers, the Thule moved labourers and soldiers into the pass and set about constructing a fortified wall that coincidentally served to conceal the mine workings from prying eyes. it is believed that the mine has now been reopened, and that metal is once again flowing down the northern slopes of the Traveller into Otkodov.
 

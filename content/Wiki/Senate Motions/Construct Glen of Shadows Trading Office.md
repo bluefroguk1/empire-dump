@@ -17,7 +17,7 @@ Proposed by Hercynia, Seconded by [[Feroz]]
 * This motion followed on from a previous motion to establish a trading post in the town of Torfast.
 * Passed in principle
 * Passed at 22 Thrones
-* Part of an [[Opportunity]] to improve the wealth of Skarsind.
+* Part of an Opportunity to improve the wealth of Skarsind.
 ### Date
 * Winter 379YE.
 ### [[Cost]]

@@ -12,7 +12,7 @@ revision_id: 86733
 ---
 
 __NOTOC__
-To grant the Orcs of the [[Great [[Forest]] of Peytaht]] the status of foreigners
+To grant the Orcs of the [[Great Forest of Peytaht]] the status of foreigners
 Proposed by [[Casinea]], Seconded by [[Necropolis]]
 ### Overview
 * Under [[Imperial Law]], this motion grants all the legal protections and responsiblities of a foreigner to the orcs of the Great Forest of Peytaht.

@@ -17,10 +17,10 @@ In recent years we have learned of a Paragon soul returning from beyond the Laby
 We have seen a miracle of bodily Ascension, and will surely be called on to pass [[Judgement]] on [[Recognition]] of a new Paragon.
 We have recovered lost ritual lore, granting us access to forgotten methods of scrying on our past lives.
 We have recovered the Prophecies of [[Abraxus]], and with them the chance to understand the true extent of the gift of Imperial [[Liao]].
-We have welcomed Orcs into our Human faith, and face the [[Challenge]] of defining their place in doctrine.
+We have welcomed Orcs into our Human faith, and face the Challenge of defining their place in doctrine.
 We are developing new understanding of the interactions between the human soul and the Magical realms.
 These Revelations, and other matters of the Faith, demand debate and response through refinement of Doctrine.
-As Symposiarch, I will ensure that we use this [[Symposium]] as an [[Opportunity]] to pass Judgement on the most pressing of these matters. [[Wisdom]] directs us to act on what we know, this Symposium is our chance to gather as the [[Imperial Synod]] and refine our faith.
+As Symposiarch, I will ensure that we use this [[Symposium]] as an Opportunity to pass Judgement on the most pressing of these matters. [[Wisdom]] directs us to act on what we know, this Symposium is our chance to gather as the [[Imperial Synod]] and refine our faith.
 Walk with virtue.
 Friar EdWard of King’s Stoke, called Watcher, Symposiarch. Winter 380
 ## Overview
@@ -89,7 +89,7 @@ The advocate pUlled out a scroll of her own.
 "You mean they like us?" Asked Ser Hannah making a face.
 "Oh dear paragons no. They embraced the virtues, not the Way. They're too proud to like us, and too courageous not to have told us. They're probably not attending the Symposium anyway, what with being at [[War]] with The Empire and allied with the Jotun. Or part of the Jotun. It's unclear."
 "Oh. Alright, what about the [[Grendel]]. I understand we invited the Grendel. What do we know?"
-"[[Barbarian]] orcs from the south. Heretics, or possibly blasphemers. Smug, confident, think they're clever. They're at war with us. They've accepted the invitation and are sending a delegation and apparently are looking forward to educating us about the true virtues."
+"Barbarian orcs from the south. Heretics, or possibly blasphemers. Smug, confident, think they're clever. They're at war with us. They've accepted the invitation and are sending a delegation and apparently are looking forward to educating us about the true virtues."
 "That ... could be interesting." Ser Hannah spoke slowly as if tasting each word. "Who else?"
 "[[Axos]] and [[Faraden]]. Both have expressed cautious interest."
 "That sounds more like it! They're humans, we're at peace with them, that sounds like it could be a good start."

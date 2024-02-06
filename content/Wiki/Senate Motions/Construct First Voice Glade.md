@@ -15,7 +15,7 @@ __NOTOC__
 An announcement by [[Bearer of an Imperial Wayleave]]. To announce the construction of a [[Herb garden]] [[Sinecure]] called:
 ‘Geralt the bard was First Voice of the [[Navarr]] nation who died at Return. The bards of Navarr gather at his Glade.’ (To be called First Voice Glade.) In [[Miaren]], appointed by the Navarr Senators, revocable by National [[Assembly]]..''Imperial Wayleave by Idwyn Splitroot, [[Proxy]] to Matt Twisted Tree''
 ## Overview
-* [[Commission]] a Sinecure in Miaren
+* Commission a Sinecure in Miaren
 * Announcement.
 ## Date
 * Autumn 382YE

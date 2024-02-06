@@ -15,10 +15,10 @@ __NOTOC__
 That an [[Imperial army]] should have its quality changed to that of 'physick'
 Proposed by [[Bastion]], Seconded by [[Therunin]]
 ### Overview
-* This motion was to take advantage of the [[Opportunity]] presented following the celebrations of [[Empress Lisabetta]]'s coronation which granted the Senate the chance to retrain an Imperial army to have the quality of physick
+* This motion was to take advantage of the Opportunity presented following the celebrations of [[Empress Lisabetta]]'s coronation which granted the Senate the chance to retrain an Imperial army to have the quality of physick
 * The Highborn army, The [[Valiant Pegasus]] was nominated
 * Passed
 ### Date
 * Autumn 380YE
 ### Campaign Outcome
-* The Valiant Pegasus has lost its siege training and has received an influx of trained [[Herb]] masters who are in the process of changing the army's quality
+* The Valiant Pegasus has lost its siege training and has received an influx of trained Herb masters who are in the process of changing the army's quality

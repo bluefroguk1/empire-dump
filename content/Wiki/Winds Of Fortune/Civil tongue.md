@@ -25,7 +25,7 @@ Zana nodded again. She took out a scroll, unrolled it, laid it on the table and 
 "No passes that I can see, not on any of the maps. Not from poor [[Zenith]], not from poor [[Spiral]]. Perhaps a proper map would help to find them, what do you think."
 Alemenus of Kantor stopped being annoyed that she had moved his bowl, and leaned forward to look at the map.
 "It is the same on our side, I understand. Studying the space between, we might find more about the edges. About the borders of your Empire, and our land. It is a Worthy endeavour, I think."
-"Maybe," said Zana carefully. "But you can see why there are questions. [[The Empire]] has prepared this [[Opportunity]] to explore the [[Mountains of the Moon]]. We paid for it, we secured the [[Weirwood]], the funds. [[Axos]] may be keen to help, but the Empire does not in point of fact ''need'' your help."
+"Maybe," said Zana carefully. "But you can see why there are questions. [[The Empire]] has prepared this Opportunity to explore the [[Mountains of the Moon]]. We paid for it, we secured the [[Weirwood]], the funds. [[Axos]] may be keen to help, but the Empire does not in point of fact ''need'' your help."
 The Axos [[Ambassador]] spluttered, and made a negative gesture with his hand. Before he could construct a coherent sentence, Zana removed the weights and let the scroll roll closed.
 "It is not my decision to make, however. Nor yours. The Military Council, or the Senate, will decide if they will permit Axos to send their scouts. The Ambassador will adVise, I am sure."
 "And who will advise the Ambassador?" snapped Alemenus. "If not you?"

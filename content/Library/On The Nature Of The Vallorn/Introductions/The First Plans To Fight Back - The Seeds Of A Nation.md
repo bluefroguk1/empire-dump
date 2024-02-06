@@ -4,7 +4,7 @@
 
 After the fall of Terunael the lands fell into what is known as the time of chaos.
 The refugees of a once great nation scattered in the hopes of finding safety
-from the threats of The [[The Vallorn]] and the [[Barbarian]] orc Tribes. It was at this time
+from the threats of The [[The Vallorn]] and the Barbarian orc Tribes. It was at this time
 that those who opposed The Great Ritual but either lacked the [[Courage]] to speak
 up or were not in the position to be listened to reflected on the calamity and
 how it could be undone.
@@ -136,7 +136,7 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > that this took almost ten years to create those Trods and to make sure that she
 > had enough followers to defend them from the Orcs. It was in Brocéliande that
 > there are stories of a major offensive on the [[Druj]], pushing them back into the
-> Barrens and forming the fortified [[Steading]] of Carnstead there. Although there are several reports of the battles that took place in [[The Barrens]], it is thought that Navarr did not go straight to [[Therunin]] and instead formed Trods through [[Reikos]] to hold Therunin.
+> Barrens and forming the fortified Steading of Carnstead there. Although there are several reports of the battles that took place in [[The Barrens]], it is thought that Navarr did not go straight to [[Therunin]] and instead formed Trods through [[Reikos]] to hold Therunin.
 > 
 > From the writings that remain, it implies that Navarr was around the
 > forty when she reached Therunin. It is interesting to note that if she age of
@@ -149,7 +149,7 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > would attack the Orc armies before Navarr would more into a Region.
 > From reading sources from other nations from around this time, there are
 > many who believed that Navarr knew the secrets of The the Vallorn and had the
-> ability to control the [[Forest]] to do her bidding. Although this is possible, it is
+> ability to control the Forest to do her bidding. Although this is possible, it is
 > not probable. It is more likely that she had several Spring covens who she
 > had taught and they used [[Spring rituals]] to create forests or to control the trees.
 > 

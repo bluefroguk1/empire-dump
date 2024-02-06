@@ -25,4 +25,4 @@ To build a mana [[Sinecure]] in Happiston in the Chalkdowns in the [[Mournwold]]
 CommissionProgress|Potato_Fields_of_Happiston
 ## Outcome
 * Once complete, the sinecure is intended to provide mana to the [[Imperial Title]] appointed to oversee it, although the mechanism whereby it will do so is not clear.
-* This motion was missing necessary details regarding the nature of the sinecure, and the cost to create it. These were provided after the Winter Solstice 384YE, and the [[Commission]] is now complete, with the [[Keeper of the Happiston Fields]] ready to be appointed at the Spring Equinox 385YE
+* This motion was missing necessary details regarding the nature of the sinecure, and the cost to create it. These were provided after the Winter Solstice 384YE, and the Commission is now complete, with the [[Keeper of the Happiston Fields]] ready to be appointed at the Spring Equinox 385YE

@@ -11,7 +11,7 @@ revision_date: 2022-02-02 09:23:33+00:00
 revision_id: 86501
 ---
 
-To [[Commission]] a [[Great work]] The Rebuilding of the Roads of [[Karsk]] in Karsk.
+To Commission a [[Great work]] The Rebuilding of the Roads of [[Karsk]] in Karsk.
 To benefit the Mines and Forests of Region with 100 resources.
 Will also allow [[Varushka]] to support a third Army.
 Self Funded.Proposed by Karsk, seconded by [[Holberg]]. 

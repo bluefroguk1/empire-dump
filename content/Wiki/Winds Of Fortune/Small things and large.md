@@ -45,5 +45,5 @@ The granaries will need to be Commissioned by the Senate, but provided the entir
 ### The effect of the curse
 The curse, identified as [[Naeve]]'s Twisting Blight, has already had its effect (reduced production for Marcher farms) and will have faded by the time the Summer solstice starts.
 ## Resolution
-The [[Imperial Senate]] voted to take advantage of this [[Opportunity]]. Work has already begun on the new granaries, and all the [[Materials]] have been supplied to ensure its completion. It is expected that the granaries will be complete by the start of the Spring Equinox 381YE.
+The [[Imperial Senate]] voted to take advantage of this Opportunity. Work has already begun on the new granaries, and all the [[Materials]] have been supplied to ensure its completion. It is expected that the granaries will be complete by the start of the Spring Equinox 381YE.
 With the creation of the [[Keeper of the Breadbasket]] in autumn 381YE, decisions relating to this great work would now be made by the bearer of that [[Imperial Title]], not the Marcher senators.

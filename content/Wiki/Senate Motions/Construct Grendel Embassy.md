@@ -15,7 +15,7 @@ __NOTOC__
 To aMend the title of Imperial Fleetmaster by constructing an [[Embassy]] to the [[Grendel]] in Cargo. It Costs 25 [[Weirwood]] and 25 [[White granite]].
 ## Overview
 * Commissions the construction of an embassy for the Grendel at Cargo in [[Redoubt]].
-* Related to an [[Opportunity]] presented in the [[Everything has a price]] wind of fortune, but the Senate declined to build the large embassy outlined in that proposal.
+* Related to an Opportunity presented in the [[Everything has a price]] wind of fortune, but the Senate declined to build the large embassy outlined in that proposal.
 * Passed at 0 Thrones
 ## Date
 * Spring 384YE

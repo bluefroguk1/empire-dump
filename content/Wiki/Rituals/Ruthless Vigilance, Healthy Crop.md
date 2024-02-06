@@ -18,7 +18,7 @@ Season|Winter|8
 Casting time|2 Target Resource|[[Herb garden]]
 [[Enchantment]]
 ### Effects
-The [[Herb]] garden produces an extra two drams of each herb over the next season. 
+The Herb garden produces an extra two drams of each herb over the next season. 
 Downtime buff
 Season Duration
 ### Additional Targets

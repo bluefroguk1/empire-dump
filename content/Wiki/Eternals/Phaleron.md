@@ -34,4 +34,4 @@ There are five Attendants who have especial interest in [[The Empire]] and its w
 * Pollaman (interested in religion; has a special interest in the Highborn and the [[Imperial Orcs]])
 * Arannia (interested in astronomy, mathematics and philosophy; has a special interest in [[The League]])
 * Melchiore (interested in [[Magic]]; has a special interest in the Freeborn and people of [[Varushka]])
-As with the other attendants, they tend to appear as high-[[Lineage]] merrow, and when meeting with magicians are known to adopt the dress of scholars from the nations that interest them.
+As with the other attendants, they tend to appear as high-Lineage merrow, and when meeting with magicians are known to adopt the dress of scholars from the nations that interest them.

@@ -12,7 +12,7 @@ revision_id: 99287
 
 ## Description
 A Landsknecht's Zweihänder is a famous two-handed sword, popular among the mercenaries of [[Tassato]] and  [[Temeschwar]]. There is occasional light-hearted debate on whether its power is Magical in nature or simply down to the weight of the large quantities of tempest jade and orichalcum which go into their production.
-The [[Unconquered]] of [[Highguard]] also employ these swords as part of their guerrilla tactics, disarming and disabling their opponents as often as they simply run them through or chop them in half. Merab of Tobias' Patrol was famed for her skill in deploying her sword and was responsible for the slaughter of every orc shaman in the [[Great [[Forest]] of Peytaht]]. There have been mutterings that Merab may have been an Exemplar of [[Vigilance]], but insufficient evidence has been presented to the Synod on the matter. 
+The [[Unconquered]] of [[Highguard]] also employ these swords as part of their guerrilla tactics, disarming and disabling their opponents as often as they simply run them through or chop them in half. Merab of Tobias' Patrol was famed for her skill in deploying her sword and was responsible for the slaughter of every orc shaman in the [[Great Forest of Peytaht]]. There have been mutterings that Merab may have been an Exemplar of [[Vigilance]], but insufficient evidence has been presented to the Synod on the matter. 
 ## Rules
 Two-Handed Weapons
 * Effect: Twice per day you may call IMPALE with this two-handed weapon.

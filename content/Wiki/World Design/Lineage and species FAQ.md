@@ -13,7 +13,7 @@ revision_id: 98441
 
 ## Overview
 FAQ
-This section of the FAQ contains questions about [[Lineage]] and orcs. For questions about other parts of the game, please see the [[General]] FAQ.
+This section of the FAQ contains questions about Lineage and orcs. For questions about other parts of the game, please see the [[General]] FAQ.
 ## Lineage
 ### Can I play a lineaged character with no physical trappings?
 No. Every lineaged character must have at least one of the physical trappings listed.
@@ -36,7 +36,7 @@ No - all lineages are found everywhere, although some are regarded more or less 
 ### Will it ever be possible for orcs to use virtue-based Religious [[Religious skills]]?
 No. It is a fundamental design principle that orcs and humans are different with regard to spiritual roleplaying. No orc will ever become dedicated, for example. There is no way that an orc character will ever be able to use the Religious [[Skills]] available to humans
 ### How do I tell the orcs apart?
-[[Imperial Orcs]] and [[Barbarian]] Orcs are physiologically identical - in the same way that Scousers and Mancunians are physiologically identical. Telling them apart is possible, even easy, if you know them - but very hard if you're from Paris. The Imperial Orc players know about this problem and they're cool with it. Players who aren't playing orcs who have an IC concern about telling the Imperial Orcs from the Barbarians will need to make some kind of IC effort to learn to tell them apart. This is a deliberate part of the game design - it's a feature, not a bug.
+[[Imperial Orcs]] and Barbarian Orcs are physiologically identical - in the same way that Scousers and Mancunians are physiologically identical. Telling them apart is possible, even easy, if you know them - but very hard if you're from Paris. The Imperial Orc players know about this problem and they're cool with it. Players who aren't playing orcs who have an IC concern about telling the Imperial Orcs from the Barbarians will need to make some kind of IC effort to learn to tell them apart. This is a deliberate part of the game design - it's a feature, not a bug.
 ### Can I hear ancestors from another nation?
 Under normal circumstances you can hear an ancestor if (a) you are genetically related to them or (b) you met them personally or are genetically related to someone who met them personally. What can't be done - currently - is to hear the voice of someone who isn't in that set. Ritual magic alone cannot allow an orc to hear the ancestor of an adoptive parent.
 ### Can I play an orc who belongs to one of the main barbarian orc nation?

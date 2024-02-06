@@ -14,7 +14,7 @@ revision_id: 85795
 __NOTOC__
 To create a [[Ministry]] to be located in Crown’s Quay in [[Necropolis]], to take advantage of the Kruidenkenner offer of [[Cerulean Mazzarine]]. This will take the form of a Warehouse and will be auctioned via the Bourse, this auction shall take place in Spring. The ministry requires 8 wains of [[Weirwood]] and 16 crowns for construction.''Proposed by Necropolis, seconded by [[Casinea]].''
 ## Overview
-* [[Commission]] a Ministry in Necropolis to allow the purchase of Cerulean Mazzarine from [[Sarcophan Delves]] Herbalists.
+* Commission a Ministry in Necropolis to allow the purchase of Cerulean Mazzarine from [[Sarcophan Delves]] Herbalists.
 * Passed at 40 Thrones.
 ## Date
 * Spring 382YE

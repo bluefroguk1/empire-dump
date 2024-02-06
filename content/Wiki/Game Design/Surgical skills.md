@@ -17,7 +17,7 @@ revision_id: 97695
 *1-point skill
 *You must purchase this skill before you can take any other surgical skills
 If you spend at least 30 seconds of appropriate roleplaying treating a character who is bleeding to death, then you can restore a single lost hit. The bleeding character's death count is paused while you treat them. This skill has no effect on a character who is not on zero hits. You must complete this time without being interrupted; if you or your patient attacks another character, or either of you are hit, then the attempt to use the chirurgeon skill fails and must be begun again.
-If your character also has the physick skill then you may also apply a single [[Herb]] during this time.
+If your character also has the physick skill then you may also apply a single Herb during this time.
 ## Physick
 *3-point skill
 *You can use appropriate roleplaying to treat a range of conditions

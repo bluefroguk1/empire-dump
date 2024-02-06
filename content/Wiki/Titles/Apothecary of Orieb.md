@@ -12,7 +12,7 @@ revision_id: 106139
 ---
 
 ## Overview
-The [[Apothecary of Orieb]] is an [[Imperial Title]] created by the Senate in Winter 383YE to oversee the Palace of Orieb following the conquest of [[Ossium]]. The position of Apothecary is a [[Sinecure]] and a [[Ministry]], producing a variety of herbs, including the rare [[Realmsroot]]. The Palace is in the former [[Druj]] town of Orieb in Drownbark [[Forest]], Ossium.
+The [[Apothecary of Orieb]] is an [[Imperial Title]] created by the Senate in Winter 383YE to oversee the Palace of Orieb following the conquest of [[Ossium]]. The position of Apothecary is a [[Sinecure]] and a [[Ministry]], producing a variety of herbs, including the rare [[Realmsroot]]. The Palace is in the former [[Druj]] town of Orieb in Drownbark Forest, Ossium.
 ## Responsibilities
 The Apothecary has no particular responsibilities; they simply receive a bounty of herbs from the Palace and are able to hire locals to greatly improve this bounty. If the Palace were to be threatened in any way, it would be the responsibility of the Apothecary to deal with those threats. 
 ## Powers
@@ -51,7 +51,7 @@ Following the Summer Solstice 384YE, the [[Minister of Historical Research]] dis
 7 crowns2 doses of Ancestor's Word, 2 doses of Indomitable Might
 16 crowns4 doses of Ancestor's Word, 2 doses of Indomitable Might, 2 doses of Legionnaire's Will
 30 crowns7 doses of Ancestor's Word, 3 doses of Indomitable Might, 3 doses of Legionnaire's Will
-The apothecary facilities woven through the palace are badly daMaged by a combination of Fighting, Druj malice, and the fury of their former slaves. These could be restored with a [[Commission]] at any time, either from the Senate or a [[Bearer of an Imperial Wayleave]]. Construction would require 15 wains of [[Weirwood]] and 30 crowns labour Costs. The project would take three months to complete. The Palace would then also provide a ministry that allowed the purchase of Potions drawn from the [[Legacy]] of Thorns, Double-sided Blade, and Unshackled Gift [[Potion]] lists. The potions associated with the Double-sided Blade were interdicted by [[Declaration]] of the [[Imperial Conclave]] in Autumn 382YE. It is illegal for any Imperial citizen to make, use, or own either preparation, so this option would not available while the [[Interdiction]] remains in place.
+The apothecary facilities woven through the palace are badly daMaged by a combination of Fighting, Druj malice, and the fury of their former slaves. These could be restored with a Commission at any time, either from the Senate or a [[Bearer of an Imperial Wayleave]]. Construction would require 15 wains of [[Weirwood]] and 30 crowns labour Costs. The project would take three months to complete. The Palace would then also provide a ministry that allowed the purchase of Potions drawn from the [[Legacy]] of Thorns, Double-sided Blade, and Unshackled Gift [[Potion]] lists. The potions associated with the Double-sided Blade were interdicted by [[Declaration]] of the [[Imperial Conclave]] in Autumn 382YE. It is illegal for any Imperial citizen to make, use, or own either preparation, so this option would not available while the [[Interdiction]] remains in place.
 ### Shrines at Orieb
 [[Eternal]] Shrine
 4 crowns2 doses of [[Vis]]

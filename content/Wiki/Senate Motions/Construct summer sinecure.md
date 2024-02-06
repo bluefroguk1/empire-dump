@@ -14,7 +14,7 @@ revision_id: 85813
 __NOTOC__
 Using the powers of the [[Arcane Architect]], I am intending to construct a summer mana [[Sinecure]] in [[Reikos]]. It is a self-funded, highly efficient sinecure.''Raised by the Arcane [[Architect]]''
 ## Overview
-* The Arcane Architect used their power to [[Commission]] mana structures to announce this construction.
+* The Arcane Architect used their power to Commission mana structures to announce this construction.
 ## Date
 * Spring 382YE
 ## [[Cost]]
@@ -26,5 +26,5 @@ Using the powers of the [[Arcane Architect]], I am intending to construct a summ
 * The Arcane Architect will need to provide additional necessary details about the commission including the Region where it well be located and the method of appointing the associated title.
 ## Constitution
 * When complete the sinecure will create a title [[Keeper of the Cox]].
-* It is not possible to create a sinecure that produces [[Vis]] without an appropriate [[Opportunity]]; it is assumed that the Arcane Architect is in possession of such a thing.
+* It is not possible to create a sinecure that produces [[Vis]] without an appropriate Opportunity; it is assumed that the Arcane Architect is in possession of such a thing.
 * The strict wording of the powers of the Arcane Architect suggested that they could commission ''structures that will produce crystal mana.'' Summer vis is not crystal mana; the Constitutional Court sought the guidance of the [[Imperial Senate]] on whether they intended to allow structures that produce vis to be included in the Architect's remit, and the Senators confirmed that they did.

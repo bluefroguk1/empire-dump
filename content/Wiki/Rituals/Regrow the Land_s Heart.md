@@ -19,7 +19,7 @@ Casting time|10 Imperial Reduction
 [[Enchantment]]
 ### Effects
 The ritual targets a single territory. Over the next season, soft rain falls on the territory and new life flourishes. The [[Magic]] particularly focuses on areas scarred by [[War]] or natural disaster, causing new plants to grow wildly. It primarily affects the [[Landscape]], but people living in the territory find it easier to let go of pain caused by war or calamity. As new plants grow, old scars fade. 
-While the enchantment is in place, animals and people find it easier to conceive, and plants grow more Healthily. Children born or conceived in the territory under the enchantment are more likely to express the [[Briar]] [[Lineage]].
+While the enchantment is in place, animals and people find it easier to conceive, and plants grow more Healthily. Children born or conceived in the territory under the enchantment are more likely to express the [[Briar]] Lineage.
 The ritual will have no effect on the [[Black Plateau]] oppression, [[Druj miasma]], or similar effects.
 Season Duration
 ## Description

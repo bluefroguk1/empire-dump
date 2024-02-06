@@ -54,7 +54,7 @@ Heavy boots stomp through rubble and ashes. A warrior in mail loots the candlest
 
 #### Terunael Plate
 
-*An old dinner plate owned by Darkhaven [[Steading]] kept in good condition for its age.*
+*An old dinner plate owned by Darkhaven Steading kept in good condition for its age.*
 
 Bread and cheeses sit on the plate and goblets of wine are shared. A small group share a meal and grumble in hushed tones. They aren't happy being in Hercynia, it's just as bad as it was on previous visits. They find comfort in the fact that they will soon be returning to Beantal Dol.
 

@@ -14,7 +14,7 @@ revision_id: 85635
 __NOTOC__
 Enlarge the Highborne army the [[Seventh Wave]].''Proposed by [[Reikos]], seconded by [[Miaren]].''
 ## Overview
-* To enlarge the Seventh Wave army, in line with the [[Opportunity]] presented by the gathering of soldiers in [[Highguard]].
+* To enlarge the Seventh Wave army, in line with the Opportunity presented by the gathering of soldiers in [[Highguard]].
 * Passed in principle.
 ## Date
 * Autumn 382YE

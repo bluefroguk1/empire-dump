@@ -12,7 +12,7 @@ revision_id: 89367
 ---
 
 __NOTOC__
-[[Commission]] [[Historical research]] into the Heirs of Terunael and their founders and activities.
+Commission [[Historical research]] into the Heirs of Terunael and their founders and activities.
 ''Announced by the [[Advisor on the Vallorn]], Siân [[Eternal]]''
 ## Overview
 * Commissions Historical research

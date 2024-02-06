@@ -14,7 +14,7 @@ revision_id: 90112
 ## Overview
 The Guardian of Giselle's Tomb is an [[Imperial Title]] created by the [[Imperial Senate]] in Autumn 380YE. Work on [[The Tomb]] was completed shortly before the Spring Equinox 381YE. The position of guardian is a [[Sinecure]], requiring minimal responsibility but offering a regular income of [[Liao]], and additional votes in the [[Imperial Synod]]. 
 ## Responsibilities
-The Guardian oversees the shrine in [[Temeschwar]] that houses the sarcophagus of  [[Empress Giselle]]. If the tomb were to be threatened, it would be the responsibility of the Guardian to face those threats; likewise should any [[Opportunity]] related to the shrine arise the Guardian would decide how to respond.
+The Guardian oversees the shrine in [[Temeschwar]] that houses the sarcophagus of  [[Empress Giselle]]. If the tomb were to be threatened, it would be the responsibility of the Guardian to face those threats; likewise should any Opportunity related to the shrine arise the Guardian would decide how to respond.
 ## Powers
 ### Bounty of Liao
 The sinecure provides five measures of Liao to the Guardian each season, to be used as they see fit.

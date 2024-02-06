@@ -90,6 +90,6 @@ We have already received a good deal of information through our dealings with th
 
 An arguably more difficult route to undertake however we have already secured some information from The Thule in the form of the [[Ritual Text of The Arc of Skuld]]. The ritual details not only the people of Terunael and their actions but also what happened when a star fell upon the Vallorn. Should diplomatic relations continue on a good footing we could potentially learn more from the Dragons.
 
-**[[Ossium]] and The [[Great [[Forest]] Orcs]]**
+**[[Ossium]] and The [[Great Forest Orcs]]**
 
 The only Vallorn heart we do not know the precise location of is that of Beantol Dol in [[The Mallum]]. While we can speculate on where it is we could get a better idea of the lay of the land from the people of the now [[Liberated]] Ossium, or perhaps from the Great Forest Orcs who have in the past offered to map the Mallum for the Empire.

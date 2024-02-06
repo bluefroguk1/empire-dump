@@ -14,7 +14,7 @@ revision_id: 85587
 __NOTOC__
 To build a Seminary School known as the Hearth of Virtue that none may doubt Varushkas [[Dedication]] to [[The Way]]. This will be built in Perumaki, Miekaova and will be appointed by ?, revocable by the Varsuhkan National [[Assembly]].''Imperial Wayleave by Nikolovich Drakov''
 ## Overview
-* [[Commission]] a [[Sinecure]] in [[Miekarova]]
+* Commission a [[Sinecure]] in [[Miekarova]]
 * Announcement.
 ## Date
 * Winter 382YE

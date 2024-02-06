@@ -14,7 +14,7 @@ revision_id: 85760
 Request for access to archives for research of Exemplar [[Zemress]] past lives.''Proposed by [[Madruga]], Seconded by [[Bregasland]].''
 ### Overview
 * Research project.
-* [[Commission]] research into the life of the Zemress, Exemplar of [[Prosperity]].
+* Commission research into the life of the Zemress, Exemplar of [[Prosperity]].
 * Passed by 27 votes to 0, funded at 1 Throne.
 ### Date
 * Passed Summer 377YE (Event Three 2013).

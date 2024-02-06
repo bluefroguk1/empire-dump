@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Courage roleplaying effects
-aliases: ['Courage_roleplaying_effects']
-draft: False
+aliases:
+- Courage_roleplaying_effects
+draft: false
 revision_date: 2016-07-15 11:06:02+00:00
 revision_id: 45660
 ---
 
-#REDIRECT [[Auras of Courage]]
+#REDIRECT Auras of Courage

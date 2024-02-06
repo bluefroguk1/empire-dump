@@ -12,9 +12,9 @@ revision_id: 85630
 ---
 
 __NOTOC__
-To construct an annexe to the Lyceum. [[Opportunity]] from [[Sadogua]] via the Dean. Allows the Dean to speed up research with [[Iridescent gloaming]]. Self-Funded. No [[White granite]] involved.''Proposed by [[Redoubt]], seconded by [[Miekarova]]''
+To construct an annexe to the Lyceum. Opportunity from [[Sadogua]] via the Dean. Allows the Dean to speed up research with [[Iridescent gloaming]]. Self-Funded. No [[White granite]] involved.''Proposed by [[Redoubt]], seconded by [[Miekarova]]''
 ## Overview
-* [[Commission]] an annexe at the Lyceum to allow faster codification of [[Rituals]].
+* Commission an annexe at the Lyceum to allow faster codification of [[Rituals]].
 * This Opportunity is the result of an offer from the [[Eternal]] Sadogua made during Summer 382YE to the [[Dean of the Lyceum]].
 * Passed in principle, no funds requested.
 ## Date

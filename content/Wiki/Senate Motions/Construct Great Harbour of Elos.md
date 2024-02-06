@@ -13,10 +13,10 @@ revision_id: 94595
 
 stub
 __NOTOC__
-To disburse funds for and [[Commission]] the restoration of the Great Harbour of Elos in [[Redoubt]], a [[Great work]] yielding Prosperous returns to the territory and the tax budget. Overseen by the [[Elosian Architect]], an [[Imperial Title]] appointed by [[Imperial Bourse]] Auction, with the right to purchase foreign herbs.
+To disburse funds for and Commission the restoration of the Great Harbour of Elos in [[Redoubt]], a [[Great work]] yielding Prosperous returns to the territory and the tax budget. Overseen by the [[Elosian Architect]], an [[Imperial Title]] appointed by [[Imperial Bourse]] Auction, with the right to purchase foreign herbs.
 ## Overview
 * Commissions the construction of a Great Harbour at Elos, in the Naris Region of Redoubt.
-* Details of this [[Opportunity]] can be found in the [[To see what you sell]] Wind of Fortune.
+* Details of this Opportunity can be found in the [[To see what you sell]] Wind of Fortune.
 * Passed at 300 Thrones
 ## Date
 * Spring 384YE

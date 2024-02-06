@@ -12,7 +12,7 @@ revision_id: 94616
 ---
 
 __NOTOC__
-To [[Commission]] the creation of the third [[Navarr]] army to be Mustered in [[Miaren]]. The army to have the Thornbound quality. Self funded, to be created by the [[Opportunity]] existing. Built by the will of the Navarr and the friendship and solidarity of [[The Empire]]. Virtue demands we turn words to action.''Proposed by [[Hercynia]], seconded by [[Bastion]]''
+To Commission the creation of the third [[Navarr]] army to be Mustered in [[Miaren]]. The army to have the Thornbound quality. Self funded, to be created by the Opportunity existing. Built by the will of the Navarr and the friendship and solidarity of [[The Empire]]. Virtue demands we turn words to action.''Proposed by [[Hercynia]], seconded by [[Bastion]]''
 ## Overview
 * This motion takes advantage of the Opportunity presented by the Navarr vates.
 * Passed in principle

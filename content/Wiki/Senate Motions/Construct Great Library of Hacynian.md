@@ -12,7 +12,7 @@ revision_id: 96579
 ---
 
 __NOTOC__
-To expand through construction [[The Library]] of Hacynian in [[Hercynia]] to be the Great Library, collating the lore of The [[The Vallorn]] from across the world. The title 'AdVisor of the [[Vallorn]]' to remain unchanged. The library will be the culmination of a people's desire of a future, and [[Testimony]] to an Empire that will win the long [[War]] against its greater spiritual foe. This is a time-limited [[Opportunity]] that a nation has waited generations for, so let us stride with [[Ambition]] to a brighter future. Given the Costs of the Library's expansion at 50 wains of [[White granite]], 40 wains of [[Weirwood]], and 30 wains of [[Mithril]], and 240 crowns, [[Navarr]] request's a disbursement of funds from the Senate for this [[Commission]].
+To expand through construction [[The Library]] of Hacynian in [[Hercynia]] to be the Great Library, collating the lore of The [[The Vallorn]] from across the world. The title 'AdVisor of the [[Vallorn]]' to remain unchanged. The library will be the culmination of a people's desire of a future, and [[Testimony]] to an Empire that will win the long [[War]] against its greater spiritual foe. This is a time-limited Opportunity that a nation has waited generations for, so let us stride with [[Ambition]] to a brighter future. Given the Costs of the Library's expansion at 50 wains of [[White granite]], 40 wains of [[Weirwood]], and 30 wains of [[Mithril]], and 240 crowns, [[Navarr]] request's a disbursement of funds from the Senate for this Commission.
 ## Overview
 * Commissions improvements to the Great Library of Hacynian
 * The Opportunity is detailed in the [[The bones of what you believe]] Wind of Fortune.

@@ -13,11 +13,11 @@ revision_id: 94637
 
 __NOTOC__
 To refurbish the Parador of Dust in the Jade Range, [[Kahraman]] as a [[Mithril]] [[Ministry]].
-A [[Commission]] to create the title [[Mistress of the Dust Parador]] with the power to purchase mithril and the responsibility to use it for the benefit of the Freeborn people.
+A Commission to create the title [[Mistress of the Dust Parador]] with the power to purchase mithril and the responsibility to use it for the benefit of the Freeborn people.
 The title will be appointed through the bourse.
 Self funded.
 ## Overview
-* Commission a Ministry in Jade Range, Kahraman that draws on an [[Opportunity]] presented by the merchants of [[The Brass Coast]]
+* Commission a Ministry in Jade Range, Kahraman that draws on an Opportunity presented by the merchants of [[The Brass Coast]]
 * Passed
 ## Date
 * Winter 383YE

@@ -15,7 +15,7 @@ __NOTOC__
 To expand the Iron Roads project into [[Ossium]] and to request the disbursement of funds for this project. 
 ## Overview
 * This project will expand the Iron Roads into Ossium. 
-* More details on the [[Opportunity]] to expand the Iron Roads can be found in the [[Thousands or more]] wind of fortune. 
+* More details on the Opportunity to expand the Iron Roads can be found in the [[Thousands or more]] wind of fortune. 
 * Passed at 128 Thrones
 ## Date
 * Spring 384YE

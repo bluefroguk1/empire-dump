@@ -44,7 +44,7 @@ Blood Rituals often rely on percussion support to evoke the feel of the pumping 
 * Terunael - A remembrance song.
 ### Songs on Travelling
 * [[Down in the Rugged Glen]] - Joyful song of travelling, easy.
-* [[Heart of the Song]] - A song of respite. Associated with the Brackensong [[Steading]], medium.
+* [[Heart of the Song]] - A song of respite. Associated with the Brackensong Steading, medium.
 * [[Miaren]] - Wistful song on the competing desires to travel and to return home to Seren , Hard.
 * Ten Thousand Miles - song of love/travelling, medium.
 * [[Run Thorns Run]] - A boisterous call and response, easy.

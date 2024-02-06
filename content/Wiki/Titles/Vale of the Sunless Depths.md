@@ -22,7 +22,7 @@ Rather than overhaul the Mine, in Spring 384YE the Senate chose to allow the new
 Prior to the start of 385YE, the Sunless Depths produced only 14 wains of mithril each season. With the completion of the Iron Roads in Ossium, however, improved access meant they were capable of producing 16 wains each season.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of mithril which is theirs to do with as they will. If the Sunless Depths were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Sunless Depths, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of mithril which is theirs to do with as they will. If the Sunless Depths were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Sunless Depths, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Sunless Depths comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

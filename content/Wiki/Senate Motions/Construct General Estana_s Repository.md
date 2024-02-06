@@ -18,7 +18,7 @@ Note that while we are seeking permission to build now, we will not commence con
 Approved by the [[Civilian Commissioner]] of [[The Brass Coast]]
 ### Overview
 * A folly in Feroz dedicated to the Eternal Callidus
-* This motion was approved by the Civilian Commissioner of The Brass Coast using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This motion was approved by the Civilian Commissioner of The Brass Coast using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Summer 380YE
 ### [[Cost]]

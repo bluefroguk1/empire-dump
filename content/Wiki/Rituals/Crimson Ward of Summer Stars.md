@@ -18,7 +18,7 @@ Casting time|2 Target Character The target character must possess the battle [[M
 [[Enchantment]]
 ### Effects
 The target character gains two additional ranks of endurance, but only while wearing Mage armour. 
-They are also under a Roleplaying effect; you feel confident in their personal prowess, and certain that your [[Magic]] is a match for any [[Challenge]] they may encounter.
+They are also under a Roleplaying effect; you feel confident in their personal prowess, and certain that your [[Magic]] is a match for any Challenge they may encounter.
 Season Duration
 ### Additional Targets
 This ritual can affect additional characters from the same coven. Each additional character increases the magnitude by 6. Additional characters must be present throughout.

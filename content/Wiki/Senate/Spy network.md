@@ -12,7 +12,7 @@ revision_id: 107309
 ---
 
 ## Overview
-[[The Empire]] uses Spy networks to spy on [[Barbarian]] territories and armies. There is only a small [[Cost]] to build and upkeep a [[Spy network]] but to operate them requires Military units be assigned to support them, exactly as if the [[Military unit]] were supporting an [[Imperial army]]. The more military units are assigned to a spy network, the more information about the territory is produced. It is not currently possible to construct a spy network which can be supported by Fleets without an appropriate [[Opportunity]].
+[[The Empire]] uses Spy networks to spy on Barbarian territories and armies. There is only a small [[Cost]] to build and upkeep a [[Spy network]] but to operate them requires Military units be assigned to support them, exactly as if the [[Military unit]] were supporting an [[Imperial army]]. The more military units are assigned to a spy network, the more information about the territory is produced. It is not currently possible to construct a spy network which can be supported by Fleets without an appropriate Opportunity.
 ## Senate Commissions
 The [[Imperial Senate]] can pass motions to create a new spy network. There is no benefit to having two spy networks in a territory.
 ### Costs

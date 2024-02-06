@@ -14,7 +14,7 @@ Though many citizens associate the Virtue of Ambition with an eye on a [[Senator
 ### Guidance on the Path
 Through meditation on the [[Auras of Ambition]], and study of the lives of [[Paragons and Exemplars]], the priests of [[The Way]] have gleaned [[Insight]] into the heart of the virtue and how best to pursue it. There are collections of parables, tales, sayings and teachings that distil this for Imperial citizens to learn from. The following are a handful of teachings and sayings deemed to be essential to understanding the path:
 * Aim high; pursue your dreams; nothing is beyond your grasp.
-* Even the most impenetrable [[Forest]] may fall one tree at a time.
+* Even the most impenetrable Forest may fall one tree at a time.
 * Consequences are the price of Ambition; no price is too high to realise your dreams.
 * It is better, by far, to try and fail, than fail to try.
 * Despise the [[Weakness]] that comes from pettiness and lack of Vision.

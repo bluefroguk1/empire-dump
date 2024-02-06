@@ -2,9 +2,6 @@
 {}
 ---
 
-[[Autumn magic]]:
-- [[Autumn_magic]]
-
 [[Army orders]]:
 - [[Army_orders]]
 
@@ -509,7 +506,7 @@
 [[Ghita_s Veils]]:
 - [[Ghita's_Veils]]
 
-[[Great [[Forest]] of Peytaht]]:
+[[Great Forest of Peytaht]]:
 - [[Great_Forest_of_Peytaht]]
 
 [[Great Forest Orcs]]:
@@ -544,9 +541,6 @@
 
 [[Principalities of Jarm]]:
 - [[Principalities_of_Jarm]]
-
-[[Pronunciation guide]]:
-- [[Pronunciation_guide]]
 
 [[Public auction]]:
 - [[Public_auction]]
@@ -976,6 +970,9 @@
 
 [[Arcane Colloquium]]:
 - [[Arcane_Colloquium]]
+
+[[Autumn magic]]:
+- [[Autumn_magic]]
 
 [[Blood magic]]:
 - [[Blood_magic]]
@@ -4739,7 +4736,7 @@ Blood and Salt:
 [[Construct Healing House of Wittal Grove]]:
 - [[Construct_Healing_House_of_Wittal_Grove]]
 
-[[Construct [[Herb]] gardens at Treji]]:
+[[Construct herb gardens at Treji]]:
 - [[Construct_herb_gardens_at_Treji]]
 
 [[Construct herbal great work in Skarsind]]:
@@ -6491,9 +6488,6 @@ Construct Runeforge:
 [[Brass Coast Egregore]]:
 - [[Brass_Coast_egregore]]
 
-[[Brass Coast Maps]]:
-- [[Brass_Coast_Maps]]
-
 [[Segura Spoils of War]]:
 - [[Segura_spoils_of_war]]
 
@@ -6565,9 +6559,6 @@ Construct Runeforge:
 
 [[Dawn Magical Traditions]]:
 - [[Dawn_magical_traditions]]
-
-[[Dawn Maps]]:
-- [[Dawn_Maps]]
 
 [[Dawn Military Concerns]]:
 - [[Dawn_military_concerns]]
@@ -6641,7 +6632,7 @@ Construct Runeforge:
 [[Highguard Leadership]]:
 - [[Highguard_leadership]]
 
-[[Highguard [[Lineage]] and Species Attitudes]]:
+[[Highguard Lineage and Species Attitudes]]:
 - [[Highguard_lineage_and_species_attitudes]]
 
 [[Highguard Look and Feel]]:
@@ -6649,9 +6640,6 @@ Construct Runeforge:
 
 [[Highguard Magical Traditions]]:
 - [[Highguard_magical_traditions]]
-
-[[Highguard Maps]]:
-- [[Highguard_Maps]]
 
 [[Highguard Military Concerns]]:
 - [[Highguard_military_concerns]]
@@ -6724,9 +6712,6 @@ Construct Runeforge:
 
 [[League Egregore]]:
 - [[League_Egregore]]
-
-[[League Maps]]:
-- [[League_Maps]]
 
 [[Rings in the League]]:
 - [[Rings_in_the_League]]
@@ -6923,9 +6908,6 @@ Market Town:
 [[Navarr Magical Traditions]]:
 - [[Navarr_magical_traditions]]
 
-[[Navarr Maps]]:
-- [[Navarr_Maps]]
-
 [[Navarr Military Concerns]]:
 - [[Navarr_military_concerns]]
 
@@ -7025,9 +7007,6 @@ Market Town:
 [[Varushka Look and Feel]]:
 - [[Varushka_look_and_feel]]
 
-[[Varushka Maps]]:
-- [[Varushka_Maps]]
-
 [[Varushka Military Concerns]]:
 - [[Varushka_military_concerns]]
 
@@ -7078,9 +7057,6 @@ Market Town:
 
 [[Wintermark Magical Traditions]]:
 - [[Wintermark_magical_traditions]]
-
-[[Wintermark Maps]]:
-- [[Wintermark_Maps]]
 
 [[Wintermark Military Concerns]]:
 - [[Wintermark_military_concerns]]

@@ -11,7 +11,7 @@ revision_date: 2023-04-28 11:03:13+00:00
 revision_id: 99974
 ---
 
-To [[Commission]] the raise of a Freeborn army, the [[Burning Falcon]]. The [[General]] of the [[Burning]] Falcon shall hold the Flame Rampant banner as their regalia. We request a disbursement of funds from the Senate for this commission.
+To Commission the raise of a Freeborn army, the [[Burning Falcon]]. The [[General]] of the [[Burning]] Falcon shall hold the Flame Rampant banner as their regalia. We request a disbursement of funds from the Senate for this commission.
 __NOTOC__
 ### Overview
 * This motion was to raise the Burning Falcon.

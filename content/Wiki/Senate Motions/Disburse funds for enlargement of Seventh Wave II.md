@@ -15,7 +15,7 @@ __NOTOC__
 Disburse funds for the Enlargement of the [[Enlargement of the Seventh Wave]].
 ''Proposed by [[Reikos]], seconded by [[Weirwater]]''
 ## Overview
-* This followed on from a previous motion to enlarge the [[Seventh Wave]] as a result of an [[Opportunity]]
+* This followed on from a previous motion to enlarge the [[Seventh Wave]] as a result of an Opportunity
 * Passed at 190 thrones
 ## Date
 * Spring 383YE

@@ -19,4 +19,4 @@ Mother Varushka has two current hosts.
 ### Sirka the Wise One
 Sirka Parakgoosier Bashnya from the Red Tower, known to Varushkan people as Wise One. He looks to the [[Vigilance]] of the Varushkan people and is always ready to give advice on the virtuous path to take and maybe give a Warming bowl of bigos too.
 ### Yelislaveta the Grandmother
-Yelislaveta Syrnaova Vlanich, formerly of the Wychlovar and the [[Forest]] of White caves. A weaver of stories, known as ‘Grandmother’. She promotes the oldest traditions, and teaches the vigilance and [[Wisdom]] of understanding the monsters, to know when to kill them, when to bind them and when to use them. She is always happy to listen to your songs and stories and offer a few of her own.
+Yelislaveta Syrnaova Vlanich, formerly of the Wychlovar and the Forest of White caves. A weaver of stories, known as ‘Grandmother’. She promotes the oldest traditions, and teaches the vigilance and [[Wisdom]] of understanding the monsters, to know when to kill them, when to bind them and when to use them. She is always happy to listen to your songs and stories and offer a few of her own.

@@ -12,7 +12,7 @@ revision_id: 78498
 
 * To the tune of [https://www.youtube.com/watch?v=lM5x3TJpP24| South Australia]  a traditional sea shanty
 * Lyrics adapted by Will Kitchen
-* [https://soundcloud.com/christopher-clarke-580791164/south-catazar-[[Barbarian]]-[[Music]]-for-[[Grendel]] [[South Catazar]] on SoundCloud], [[Sung]] by Chris Clarke, with Mark Kuggeleijn, Ed, and Lilly,
+* [https://soundcloud.com/christopher-clarke-580791164/south-catazar-Barbarian-[[Music]]-for-[[Grendel]] [[South Catazar]] on SoundCloud], [[Sung]] by Chris Clarke, with Mark Kuggeleijn, Ed, and Lilly,
 In South Catazar I was born, 
 Heave away, haul away!
 In South Catazar, on the 'shore

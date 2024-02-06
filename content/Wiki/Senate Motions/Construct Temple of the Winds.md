@@ -14,7 +14,7 @@ revision_id: 87622
 __NOTOC__
 To construct the Temple of the Winds in [[Morrow]] to provide a permanent home for the Sword scholars.''Proposed by [[Miekarova]], seconded by Morrow.''
 ## Overview
-* [[Commission]] a [[Sinecure]] in Morrow as part of an [[Opportunity]] presented by the sword scholars allowing them a central [[Spire]] from which to spread their philosophy.
+* Commission a [[Sinecure]] in Morrow as part of an Opportunity presented by the sword scholars allowing them a central [[Spire]] from which to spread their philosophy.
 * As originally enVisioned the construction will create an [[Imperial Title]]
 * Passed in principle.
 ## Date

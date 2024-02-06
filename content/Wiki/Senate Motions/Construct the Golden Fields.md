@@ -19,7 +19,7 @@ Approved by the [[Civilian Commissioner]] of [[The Marches]]
 __NOTOC__
 ### Overview
 * A Sinecure in Golden Downs, Mitwold
-* This motion was approved by the Civilian Commissioner of The Marches using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of The Marches using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Autumn 380YE
 ### [[Cost]]

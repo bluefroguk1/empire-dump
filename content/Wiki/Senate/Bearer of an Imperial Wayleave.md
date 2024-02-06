@@ -13,7 +13,7 @@ revision_id: 106309
 
 ## Overview
 
-The [[Bearer of an Imperial Wayleave]] has the right to announce a single [[Commission]]. There are currently two of these titles, all auctioned through the [[Imperial Bourse]]. Although the bearer is not a member of the [[Imperial Senate]], they may use a single [[Senate announcement]] to instruct [[The Empire]] to approve a commission ''provided that they do so at the summit that the title was appointed.''
+The [[Bearer of an Imperial Wayleave]] has the right to announce a single Commission. There are currently two of these titles, all auctioned through the [[Imperial Bourse]]. Although the bearer is not a member of the [[Imperial Senate]], they may use a single [[Senate announcement]] to instruct [[The Empire]] to approve a commission ''provided that they do so at the summit that the title was appointed.''
 The titles were created at the Winter Solstice summit of 380YE. The titles were used to replace the existing Civilian Commissioners who were expected to approve and oversee the Commission of Sinecures, ministries, and Great works in their nation.
 In Summer 382YE, the Imperial Senate voted to reallocate one of the Imperial Wayleaves as an [[Imperial Orcs]] national position creating the Imperial Orc Wayleave.  This reduced the number of Imperial Wayleaves from three to two. They further aMended the powers of the Imperial Orc Wayleave during the Winter Solstice 383YE, leading to the Constitutional Court to request that the name of the title be changed to reflect the fact it was no longer a wayleave - it is now called [[Legion Engineer]]. 
 ==Responsibilities== 

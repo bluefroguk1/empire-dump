@@ -25,7 +25,7 @@ To construct a Magical College aligned with the [[Realm]] of Summer within the t
 * Upkeep: 25 Thrones (this number is dependant on the number of other colleges in [[The Empire]])
 * Special: This college of Summer [[Magic]] is being built to designs provided by the [[Eternal]] [[Meraud]]; as such it differs from the standard cost to build a College of Magic.
 ### PrOgress
-* This [[Commission]] has lapsed
+* This Commission has lapsed
 ### Campaign Outcome
 * When complete, the college will automatically create the [[Imperial Title]] of "Dean".
 * Dean of the college will be appointed through the [[Declaration]] of [[Candidacy]].

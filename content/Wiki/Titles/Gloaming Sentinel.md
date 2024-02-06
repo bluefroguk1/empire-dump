@@ -12,7 +12,7 @@ revision_id: 98568
 ---
 
 ## Overview
-The Butterfly Holt is a preserve in the light woodlands of southern Srodkoja, not far from the vale of Olodny. It was Commissioned in Spring 381YE by the [[Urizen]] Julianna of Phoenix Reach using one of the new Imperial Wayleaves. Its creation followed an [[Opportunity]] resulting from a performance of [[Wondrous Forests of the Night]]. Work was completed shortly before the Summer Solstice 381YE.
+The Butterfly Holt is a preserve in the light woodlands of southern Srodkoja, not far from the vale of Olodny. It was Commissioned in Spring 381YE by the [[Urizen]] Julianna of Phoenix Reach using one of the new Imperial Wayleaves. Its creation followed an Opportunity resulting from a performance of [[Wondrous Forests of the Night]]. Work was completed shortly before the Summer Solstice 381YE.
 This [[Imperial Title]] grants custodianship of a [[Sinecure]], requiring minimal responsibility but offering a regular income of [[Iridescent gloaming]]. 
 ## Responsibilities
 The [[Gloaming Sentinel]] has no particular responsibilities; they simply receive a bounty of Iridescent Gloaming from the Butterfly Holt. If the Holt were to be threatened in any way, it would be the responsibility of the Gloaming [[Sentinel]] to deal with those threats.

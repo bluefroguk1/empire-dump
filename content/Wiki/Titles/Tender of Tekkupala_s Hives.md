@@ -12,7 +12,7 @@ revision_id: 104924
 ---
 
 ## Overview
-The Tender of Tekkupala's Hives was created when the [[Imperial Senate]] voted to construct Tekkupala's Hives. during the Summer Solstice 385YE, following an [[Opportunity]] presented before the Winter Solstice.of 383YE Construction was completed shortly before the Autumn Equinox 385YE.
+The Tender of Tekkupala's Hives was created when the [[Imperial Senate]] voted to construct Tekkupala's Hives. during the Summer Solstice 385YE, following an Opportunity presented before the Winter Solstice.of 383YE Construction was completed shortly before the Autumn Equinox 385YE.
 ## Responsibilities
 The Tender of Tekkupala's Hives has no particular responsibilities; they simply receive an income of unusual drugs from Tekkupala's Hives each season. If the hives were to be threatened in any way, it would be the responsibility of the Tender to deal with those threats. 
 ## Powers

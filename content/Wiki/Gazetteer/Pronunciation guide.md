@@ -1,17 +1,17 @@
 ---
-IgnoreLinking: false
-Tags:
-- The-World
-- The-Empire
+IgnoreLinking: true
 Title: Pronunciation guide
 aliases:
 - Pronunciation_guide
 draft: false
 revision_date: 2022-03-30 10:36:04+00:00
 revision_id: 87894
+tags:
+- The-World
+- The-Empire
 ---
 
-By popular demand, here's a list of some of the words in [[The Empire]] setting and how we usually say them.
+By popular demand, here's a list of some of the words in The Empire setting and how we usually say them.
 These are simply guidelines, and you won't be bludgeoned over the head if you say things differently. There are no hard and fast rules -- as many people have pointed out, pronunciation could vary depending on nation, accent and culture.
 If there are other Empire words you're not sure of, please let us know and we'll add them to this list.
 {|
@@ -25,13 +25,13 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Anozel || an-o-ZELL || Brass Coast settlement
 |-
-| [[Arete]] || Ah-REH-teh || [[Urizen]] concept
+| Arete || Ah-REH-teh || Urizen concept
 |-
 | Arnet || ARNAY || Dawnish settlement
 |-
-| [[Astolat]] || ASS-toe-latt || [[Dawn]] territory
+| Astolat || ASS-toe-latt || Dawn territory
 |-
-| Atalaq || AT-al-ack || [[Wintermark]] settlement
+| Atalaq || AT-al-ack || Wintermark settlement
 |-
 | Atalaya || ah-tah-LIE-yah || Brass Coast settlement
 |-
@@ -39,69 +39,69 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Auvanne || oh-VAN || Dawnish settlement
 |-
-| [[Bastion]] || BASS-tee-onn || [[Highguard]] city and territory
+| Bastion || BASS-tee-onn || Highguard city and territory
 |-
-| Boyar || BOY-arr || Leader of a vale in [[Varushka]]
+| Boyar || BOY-arr || Leader of a vale in Varushka
 |-
-| [[Bregasland]] || BREG-az-land || Marches territory
+| Bregasland || BREG-az-land || Marches territory
 |-
 | Briante || bree-AN-teh || Brass Coast settlement
 |-
-| [[Briar]] || BRY-arr || [[Lineage]]
+| Briar || BRY-arr || Lineage
 |-
-| [[Brocéliande]] || brock-KELL-ee-ond || Navarri territory
+| Brocéliande || brock-KELL-ee-ond || Navarri territory
 |-
 | Calvos || KALL-voss || Brass Coast settlement
 |-
-| [[Cambion]] || CAM-bee-on || Lineage
+| Cambion || CAM-bee-on || Lineage
 |-
-| [[Caricomare]] || ka-ricko-MAH-ray || League place of interest
+| Caricomare || ka-ricko-MAH-ray || League place of interest
 |-
-| [[Casinea]] || cass-SIN-ee-ah || Highguard territory
+| Casinea || cass-SIN-ee-ah || Highguard territory
 |-
 | Cazar || ka-ZARR || Brass Coast settlement
 |-
 | Cerevado || che-reh-VA-doe || Brass Coast settlement
 |-
-| Cevia || CHE-vee-ah || [[Tassato]] settlement
+| Cevia || CHE-vee-ah || Tassato settlement
 |-
-| Cicisbeo || kick-a-BEY-o || Companion for hire in [[The League]]
+| Cicisbeo || kick-a-BEY-o || Companion for hire in The League
 |-
 | Culwich || CUll-itch || Dawnish settlement
 |-
 | Dhomiro || dome-EAR-roe || Brass Coast leader
 |-
-| [[Draughir]] || DRAW-gheer || Lineage
+| Draughir || DRAW-gheer || Lineage
 |-
-| Eleri’s Stead || ell-AIRY || [[Navarr]] settlement
+| Eleri’s Stead || ell-AIRY || Navarr settlement
 |-
 | Elos || ELL-oss || Urizen settlement
 |-
 | Egregore || EGG-regg-orr || Magical embodiment of a nation
 |-
-| [[Erigo]] || ehr-IH-goe || Brass Coast [[Tribe]]
+| Erigo || ehr-IH-goe || Brass Coast Tribe
 |-
-| [[Feni]] || FAY-nee || Pre-Imperial humans who still harass the western Imperial lands
+| Feni || FAY-nee || Pre-Imperial humans who still harass the western Imperial lands
 |-
-| [[Feroz]] || FERR-ozz || Brass Coast territory
+| Feroz || FERR-ozz || Brass Coast territory
 |-
 | Fort Mezudan || MEZZ-oo-dan || Urizen settlement
 |-
 | Gildenheim || GILL-den-hime || Imperial Orc settlement
 |-
-| [[Guerra]] || GWERR-ah || Brass Coast tribe
+| Guerra || GWERR-ah || Brass Coast tribe
 |-
 | Gulhule || gull-HOOLY || Imperial Orc settlement
 |-
 | Gulnar’s Deeps || GOOL-narr's Deeps || Wintermark settlement
 |-
-| [[Hahnmark]] || HANN-mark || Wintermark territory
+| Hahnmark || HANN-mark || Wintermark territory
 |-
-| [[Hakima]] || hack-EE-ma || Brass Coast role
+| Hakima || hack-EE-ma || Brass Coast role
 |-
 | Hedra || HEE-dra || Highguard settlement
 |-
-| [[Hercynia]] || herr-KIN-ee-ah || Navarri territory
+| Hercynia || herr-KIN-ee-ah || Navarri territory
 |-
 | High Chalcis || CHALL-siss || Highguard settlement
 |-
@@ -115,17 +115,17 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Joharra || yo-HARRA || Brass Coast settlement
 |-
-| [[Jotun]] || YUH-toon || [[Barbarian]] culture
+| Jotun || YUH-toon || Barbarian culture
 |-
 | Kalpaheim || KALPA-hime || Wintermark settlement 
 |-
-| [[Kahraman]] || KARR-ah-mann || Brass Coast territory
+| Kahraman || KARR-ah-mann || Brass Coast territory
 |-
-| [[Kallavesa]] || kalla-VEH-sah || Wintermark territory
+| Kallavesa || kalla-VEH-sah || Wintermark territory
 |-
-| [[Kallavesi]] || kalla-VEH-see || Wintermark subculture
+| Kallavesi || kalla-VEH-see || Wintermark subculture
 |-
-| [[Kohan]] || KOE-han || Brass Coast role
+| Kohan || KOE-han || Brass Coast role
 |-
 | Kolvy || KOLL-vee || Varushkan settlement
 |-
@@ -139,27 +139,27 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Lacre || LACK-ruh || Dawnish settlement
 |-
-| [[Liao]] || LEE-ow   ''(ow as in "ow, that hurt")'' || Religious drug
+| Liao || LEE-ow   ''(ow as in "ow, that hurt")'' || Religious drug
 |-
-| [[Liathaven]] || LEE-ath-ah-venn || Navarri territory
+| Liathaven || LEE-ath-ah-venn || Navarri territory
 |-
 | Liaven’s Dance || LEE-ah-venn|| Navarr settlement
 |-
-| [[Madruga]] || mad-ROO-gah || Brass Coast territory
+| Madruga || mad-ROO-gah || Brass Coast territory
 |-
 | Masi || MASSY || Wintermark settlement 
 |-
-| [[Miaren]] || MEE-arr-enn || Navarri territory
+| Miaren || MEE-arr-enn || Navarri territory
 |-
-| [[Miekarova]] || MEE-karr-OVE-ah || Varushkan territory
+| Miekarova || MEE-karr-OVE-ah || Varushkan territory
 |-
-| [[Mitwold]] || MITT-wolled || Marches territory
+| Mitwold || MITT-wolled || Marches territory
 |-
 | Mormyk || MORR-mick || Varushkan settlement
 |-
-| [[Mournwold]] || MORN-wolled || Marches territory
+| Mournwold || MORN-wolled || Marches territory
 |-
-| [[Naga]] || NAH-gah || Lineage
+| Naga || NAH-gah || Lineage
 |-
 | Navarr || nah-VARR || Nation
 |-
@@ -171,9 +171,9 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Oran || o-RANN || Brass Coast settlement
 |-
-| Pakaanen || pa-KHAN-en || Legendary Wintermark [[Mage]]
+| Pakaanen || pa-KHAN-en || Legendary Wintermark Mage
 |-
-| Peytaht || pay-tatt || [[Forest]] that covers parts of [[Reikos]] and much of [[The Barrens]]
+| Peytaht || pay-tatt || Forest that covers parts of Reikos and much of The Barrens
 |-
 | The Pits of Brychel || brih-CHEL (''ch as in loch'') || Dawn place of interest
 |-
@@ -181,7 +181,7 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Reikos || RYE-koss || Highguard territory
 |-
-| [[Riqueza]] || rick-AY-za || Brass Coast tribe
+| Riqueza || rick-AY-za || Brass Coast tribe
 |-
 | Rojota || ro-YOE-tah || Brass Coast settlement
 |-
@@ -193,33 +193,33 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Sarcombe || SARR-kum || Marcher settlement
 |-
-| [[Sadogua]] || Sadogua is said by some to believe that the more pronunciations of his name there are, the more potential rhymes there are for constructing hymns to his [[Glory]], or poems to amuse him. However, both "Sa-dog-uwa" and "sad-dog-wah" have been commonly noted.|| [[Eternal]]
+| Sadogua || Sadogua is said by some to believe that the more pronunciations of his name there are, the more potential rhymes there are for constructing hymns to his Glory, or poems to amuse him. However, both "Sa-dog-uwa" and "sad-dog-wah" have been commonly noted.|| Eternal
 |-
-| [[Sarvos]] || SAHRR-voss || League city
+| Sarvos || SAHRR-voss || League city
 |-
 | Schlacta || SHLAK-ta || Professional Warriors of Varushka
 |-
-| [[Segura]] || seg-GOO-rah || Brass Coast territory
+| Segura || seg-GOO-rah || Brass Coast territory
 |-
-| [[Sermersuaq]] || SERR-merr-SOO-ack || Wintermark territory
+| Sermersuaq || SERR-merr-SOO-ack || Wintermark territory
 |-
 | The Sign of Tamar || TAY-mar || Highguard place of interest
 |-
 | Siroc || SIRR-ock || Brass Coast city
 |-
-| [[Steinr]] || STY-ner || Wintermark subculture
+| Steinr || STY-ner || Wintermark subculture
 |-
-| [[Skarsind]] || SCAR-sinned || Imperial Orc territory
+| Skarsind || SCAR-sinned || Imperial Orc territory
 |-
 | Solvi || SOLL-vee || Imperial Orc settlement
 |-
 | Sovevann || so-VEH-van || Wintermark lake
 |-
-| [[Suaq]] || SOO-ack || Wintermark subculture
+| Suaq || SOO-ack || Wintermark subculture
 |-
-| [[Semmerholm]] || SEMMER-home || Dawn territory
+| Semmerholm || SEMMER-home || Dawn territory
 |-
-| [[Sutannir]] || SOO-tan-neer || Brass Coast role
+| Sutannir || SOO-tan-neer || Brass Coast role
 |-
 | Sybela || sih-BELLA || Highguard settlement
 |-
@@ -227,7 +227,7 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Syrene || SIGH-reen || Highguard settlement
 |-
-| [[Stzena]] || stuh-ZZEHN-ah || Varushkan role
+| Stzena || stuh-ZZEHN-ah || Varushkan role
 |-
 | Tabulos || TAB-you-loss || Urizen settlement
 |-
@@ -239,9 +239,9 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Tassato Regario || tass-AH-toh reh-GARR-ee-oh || League city
 |-
-| [[Temeschwar]] || TEH-meh-shwarr || League city
+| Temeschwar || TEH-meh-shwarr || League city
 |-
-| [[Therunin]] || therr-OON-inn || Navarri territory
+| Therunin || therr-OON-inn || Navarri territory
 |-
 | Trajadoz || tra-ha-doss || Brass Coast settlement
 |-
@@ -255,13 +255,13 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Ulmo || OOL-moh || Wintermark King 
 |-
-| [[Upwold]] || UP-wolled || Marches territory
+| Upwold || UP-wolled || Marches territory
 |-
 | Urizen || OOH-rih-zen || Nation
 |-
 | Valashal || VALASS-hal || Wintermark settlement
 |-
-| [[Vallorn]] || VALL-lawn || Dangerous woodland ecosystem
+| Vallorn || VALL-lawn || Dangerous woodland ecosystem
 |-
 | Varushka || vah-ROOSH-kah || Nation
 |-
@@ -273,7 +273,7 @@ If there are other Empire words you're not sure of, please let us know and we'll
 |-
 | Vate || VAYT || Navarri role
 |- 
-| [[Volodny]] || voll-LODD-nee || Varushkan role
+| Volodny || voll-LODD-nee || Varushkan role
 |-
-| [[Weirwater]] || WEER-water || Dawn territory
+| Weirwater || WEER-water || Dawn territory
 |}

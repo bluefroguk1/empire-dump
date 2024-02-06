@@ -12,7 +12,7 @@ revision_id: 94622
 ---
 
 __NOTOC__
- To [[Commission]] the Lepidean University in [[Bastion]], [[Highguard]]. This would create the title [[Lepidean Librarian]]. It would also produce a dose of true [[Liao]]. It is a time limited [[Opportunity]]. The Librarian would have the power to conduct [[Historical research]] strictly to investigate the lives of [[Paragons and Exemplars]] or the details of a True true liao Vision. It would be appointed by the Highguard national [[Assembly]]. Revocable by the Highguard National national assembly and the [[General]] Assembly. The true liao would be distributed via a [[Judgement]] of ReRewarding raised in the General Assembly. Costing 60 wains [[White granite]], 30 wains [[Weirwood]], 180 crowns labour. Upkeep 20 thrones a season.
+ To Commission the Lepidean University in [[Bastion]], [[Highguard]]. This would create the title [[Lepidean Librarian]]. It would also produce a dose of true [[Liao]]. It is a time limited Opportunity. The Librarian would have the power to conduct [[Historical research]] strictly to investigate the lives of [[Paragons and Exemplars]] or the details of a True true liao Vision. It would be appointed by the Highguard national [[Assembly]]. Revocable by the Highguard National national assembly and the [[General]] Assembly. The true liao would be distributed via a [[Judgement]] of ReRewarding raised in the General Assembly. Costing 60 wains [[White granite]], 30 wains [[Weirwood]], 180 crowns labour. Upkeep 20 thrones a season.
 ''Proposed by Bastion, seconded by [[Casinea]]. ''
 ## Outcome
 * Construct a university in Bastion drawing on the plans of Frederick di [[Sarvos]].

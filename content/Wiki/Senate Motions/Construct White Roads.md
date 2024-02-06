@@ -12,7 +12,7 @@ revision_id: 96807
 ---
 
 __NOTOC__
-To construct the White Roads of Virtue's Path in [[Bastion]], [[Necropolis]], and [[Reikos]]. This will improve the [[Prosperity]] of businesses and Farms, and bring pilgrims to the hostels of Virtue's Rest. This requires a single [[Commission]] based on previous designed by Johanna of Ravensfell and is self funded.
+To construct the White Roads of Virtue's Path in [[Bastion]], [[Necropolis]], and [[Reikos]]. This will improve the [[Prosperity]] of businesses and Farms, and bring pilgrims to the hostels of Virtue's Rest. This requires a single Commission based on previous designed by Johanna of Ravensfell and is self funded.
 ## Overview
 * Commissions the White Roads, which function as Great works, in Bastion, Reikos, and Necropolis
 * Further details on the White Roads, and what their construction means, can be found here

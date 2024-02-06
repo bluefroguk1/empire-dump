@@ -10,7 +10,7 @@
 
 Drakov was selected as a Visionary by the Council of Gatekeepers.
 
-The visionary came to in a chamber with several people discussing what to do about an orc invasion of their land. The people were two Generals (one either a [[Changeling]] or a [[Cambion]], one apparently unLineaged), a [[Draughir]] artisan, and a [[Mage]] (of whose [[Lineage]] the visionary was not certain).
+The visionary came to in a chamber with several people discussing what to do about an orc invasion of their land. The people were two Generals (one either a [[Changeling]] or a [[Cambion]], one apparently unLineaged), a [[Draughir]] artisan, and a [[Mage]] (of whose Lineage the visionary was not certain).
 
 They referred to the visionary as a [[Magister]], and talked of plans to use [[Spring magic]] to wash away what they described as the filth of the invading orcs. They were pLanning [[Rituals]] that they wished to make permanent in effect, and had already sent another [[General]] with an army into [[Urizen]], where she had raided for [[Ilium]].
 

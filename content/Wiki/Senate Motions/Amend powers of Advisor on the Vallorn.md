@@ -14,7 +14,7 @@ revision_id: 86077
 __NOTOC__
 to aMend the title ‘[[Advisor on the Vallorn]]’ to remove the power of [[Historical research]].Proposed by [[Volodmartz]], seconded by [[Miekarova]].
 ### Overview
-* To remove the ability to [[Commission]] Historical research from the Advisor on [[The Vallorn]].
+* To remove the ability to Commission Historical research from the Advisor on [[The Vallorn]].
 * Failed
 ### Date
 * Winter 381YE

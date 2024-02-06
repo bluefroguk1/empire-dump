@@ -20,7 +20,7 @@ Proposed by [[Temeschwar]], Seconded by [[Holberg]]
 ### Date
 * Spring 381YE
 ### [[Cost]]
-* Unknown; this [[Commission]] represents an [[Opportunity]].
+* Unknown; this Commission represents an Opportunity.
 ### PrOgress
 * 10 wains of [[Weirwood]] and 20 crowns provided by Gant Archama after the Spring Equinox 381YE.
 ### Campaign Outcome

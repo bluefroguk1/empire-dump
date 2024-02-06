@@ -1,5 +1,5 @@
 ---
-IgnoreLinking: false
+IgnoreLinking: true
 Title: Varushka Maps
 aliases:
 - Varushka_Maps
@@ -11,13 +11,13 @@ tags:
 - Varushka
 ---
 
-640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-[[Varushka]].jpg
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-Varushka.jpg
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Varushka-Regions.png
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-varushka-texture.jpg
 ### See Also
-* [[Karov]]
-* [[Karsk]]
-* [[Miekarova]]
-* [[Volodmartz]]
-* [[Ossium]]
+* Karov
+* Karsk
+* Miekarova
+* Volodmartz
+* Ossium
 MapPrintingInfo

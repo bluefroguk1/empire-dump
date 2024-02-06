@@ -14,7 +14,7 @@ revision_id: 85567
 __NOTOC__
 To repair and rebuild the Heliopticon in [[Urizen]].''Proposed by [[Redoubt]], seconded by [[Astolat]].''
 ## Overview
-* [[Commission]] to repair the central heliopticon towers in [[Morrow]] and [[Spiral]] in line with recent proposals.
+* Commission to repair the central heliopticon towers in [[Morrow]] and [[Spiral]] in line with recent proposals.
 * Passed at 27 Thrones and 2 Crowns.
 ## Date
 * Winter 382YE

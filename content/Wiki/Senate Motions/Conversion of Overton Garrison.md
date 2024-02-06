@@ -12,7 +12,7 @@ revision_id: 86778
 ---
 
 __NOTOC__
-To [[Commission]] the conversion of the Overton Garrison in Overton, [[Mournwold]] into a [[Sinecure]], The Sheriff's House in Overton, Mournwold to stem the banditry and raiding on the Mournwold Mines and reclaim ore.
+To Commission the conversion of the Overton Garrison in Overton, [[Mournwold]] into a [[Sinecure]], The Sheriff's House in Overton, Mournwold to stem the banditry and raiding on the Mournwold Mines and reclaim ore.
 Sinecure to create the annual national title [[Sheriff of Overton]] to be appointed by a vote of Marcher Farmers revocable by the Marcher national [[Assembly]].
 Proposed by [[Upwold]], Seconded by [[Bregasland]] 
 ### Overview

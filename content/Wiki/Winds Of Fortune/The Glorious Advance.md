@@ -26,6 +26,6 @@ With specific reference to Segura:
 * If the Assembly of Pride makes a Statement of Principle celebrating the Brass Coast's efforts in reclaiming Segura, and the Senate approves the founding of a navy in that nation, then the civil service estimates it will require 50 less [[Weirwood]] to raise that navy than it normally would owing to the zeal raised in Freeborn corsairs.
 * If both nations are celebrated in the same, or different, Statements, then the impact on the citizens is diluted and the benefit is lost.
 * It is noted that the [[General]] Assembly is regarded as having greater weight and authority than Virtue Assembles. Consequently, a Statement of Principle by the General Assembly could supersede that of the Assembly of Pride, but only after the Assembly of Pride had first made a [[Judgement]].
-Note: This [[Opportunity]] is only available in the aftermath of this victory, which is to say that the [[Senate motion]] must be passed at the Winter Solstice, 378YE. If construction commences after this time, then it would be at full [[Cost]].
+Note: This Opportunity is only available in the aftermath of this victory, which is to say that the [[Senate motion]] must be passed at the Winter Solstice, 378YE. If construction commences after this time, then it would be at full [[Cost]].
 ## Resolution
 The Assembly of Pride celebrated the achievements of the Brass Coast in reclaiming Segura. The resulting enthusiasm helped with the Mustering of the [[Freeborn Storm]] naval force.

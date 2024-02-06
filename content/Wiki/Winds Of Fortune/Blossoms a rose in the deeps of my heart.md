@@ -12,10 +12,10 @@ revision_date: 2022-02-03 18:58:37+00:00
 revision_id: 86748
 ---
 
-Startled, the woodsman looked up at the creature in front of him, his hand going to his axe. Then he relaxed slightly. Not a creature. A person. One with strong [[Naga]] [[Lineage]]. Why did he think creature?
+Startled, the woodsman looked up at the creature in front of him, his hand going to his axe. Then he relaxed slightly. Not a creature. A person. One with strong [[Naga]] Lineage. Why did he think creature?
 ‘Hello there.’ he said. The naga cocked its head. It moved closer. 
 ''Naga'' said his eyes. ''Creature'' said his brain.
-It was dressed in the manner of a Freeborn, in deep scarlet and ... black? Not Freeborn then. It had a shock of bright red hair, and the scales on its face and neck glittered in the [[Forest]] gloom like rubies. It reminded him incongruously of a fanciful iMage of an exotic beast of distant lands - a flame salamander they called it. As it closed with him, he realised it was much taller than he had at first thought. It seemed to thrum with nervous energy.
+It was dressed in the manner of a Freeborn, in deep scarlet and ... black? Not Freeborn then. It had a shock of bright red hair, and the scales on its face and neck glittered in the Forest gloom like rubies. It reminded him incongruously of a fanciful iMage of an exotic beast of distant lands - a flame salamander they called it. As it closed with him, he realised it was much taller than he had at first thought. It seemed to thrum with nervous energy.
 ‘Hello?’ he was less certain. There had been some idle conversation about the forest recently, about it being darker. A few reports of strange fires starting from nowhere and [[Burning]] out just as quickly.
 "You smell of fear but also are curious and bravery and just a little excitement" said the naga in a sing song voice as it came still closer.
 ‘Look….’ he replied, backing away. The naga cut him off.

@@ -11,7 +11,7 @@ revision_date: 2022-02-02 09:24:05+00:00
 revision_id: 86504
 ---
 
-To [[Commission]] the [[Sinecure]] Reckoners ReWard to be administered by The Book Keeper.
+To Commission the [[Sinecure]] Reckoners ReWard to be administered by The Book Keeper.
 To be built in [[Sarvos]]
 [[Cost]] of 12 wains of [[Mithril]], 3 ThronesProposed by [[Tassato]], seconded by [[Karov]]. 
 ### Overview

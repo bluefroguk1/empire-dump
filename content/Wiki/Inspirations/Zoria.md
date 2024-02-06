@@ -17,10 +17,10 @@ She is also credited with weaving the first cloth dyed with [[Iridescent gloamin
 The assembly of Wisdom cited the following signs as proof that Zoria was a paragon.
 * Zoria taught others how to domesticate animals and grow crops, as well as encouraging them to exaMine the world around them and learn from it. This is taken as a sign her Benevolence. It is also cited as a examples of Salvation - encouraging others to embrace the virtue of Wisdom.
 * She remains an Inspiration for Magicians,apothecaries, farmers, hunters, weaves, craftspeople of all kinds, and anyone who deal with the Challenges of the natural world. 
-* The stories of Zoria cite numerous Miracles that go beyond mastery of [[Herb]] lore or ritual [[Magic]]. The most commonly cited example is her ability to speak with [[Birds]] and beasts, and get them to do her bidding.
+* The stories of Zoria cite numerous Miracles that go beyond mastery of Herb lore or ritual [[Magic]]. The most commonly cited example is her ability to speak with [[Birds]] and beasts, and get them to do her bidding.
 * Zoria left numerous relics both in the form of tools she used, and in places dotted across the north of [[The Empire]] touched by her presence such as the Maze of Zoria. These items and places provide an enduring [[Legacy]].
 * Nobody has ever had a Past life [[Past life vision]] of Zoria, and the Assembly of Wisdom agreed that if anyone has actually achieved Liberation, Zoria has.
 ## Further Reading
 * Wisdom
 * [[Guardian of the Maze of Zoria]] - An [[Imperial Title]] that oversees the Maze of Zoria in [[Miekarova]]
-* [[Three celebrations and a funeral]] - Winter 383YE Wind of Fortune relating to an [[Opportunity]] to create a central place of PilgriPilgrimage dedicated to Zoria
+* [[Three celebrations and a funeral]] - Winter 383YE Wind of Fortune relating to an Opportunity to create a central place of PilgriPilgrimage dedicated to Zoria

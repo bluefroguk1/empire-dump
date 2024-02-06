@@ -15,7 +15,7 @@ __NOTOC__
 A motion to secure the Wunderkind Woods recognising the Rebeshi Players as Guardians of the Wood. This creates the [[Imperial Title]] "[[Tender of the Blood Orchard]]" to be appointed annually by the Senators of [[The League]]. Funded by the Looking Glass. This gives access to a [[Ministry]] that produces winter [[Vis]] and ritual staves.
 ## Overview
 * The motion allows the Rebeshi Players of [[Holberg]] to cultivate the Blood Orchard in Holmauer Park (formerly known as ''Wunderkind Woods'').
-* This [[Opportunity]] was outlined in the [[Dear green space]] Wind of Fortune.
+* This Opportunity was outlined in the [[Dear green space]] Wind of Fortune.
 * Passed
 ## Date
 * Autumn 384YE.

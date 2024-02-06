@@ -12,7 +12,7 @@ revision_id: 86320
 ---
 
 __NOTOC__
-Announcement: I wish to [[Commission]] [[Historical research]] into the Spring and Summer [[Mage]] known as Star, compatriot to [[Navarr]] and [[Thorn]].
+Announcement: I wish to Commission [[Historical research]] into the Spring and Summer [[Mage]] known as Star, compatriot to [[Navarr]] and [[Thorn]].
 Announced by Siân [[Eternal]], [[Advisor on the Vallorn]].
 ### Overview
 * Historical Research concerning this topic has been commissioned through the civil service.

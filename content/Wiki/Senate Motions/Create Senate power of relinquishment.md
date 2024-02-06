@@ -15,7 +15,7 @@ __NOTOC__
 [[Create Senate power of relinquishment]]. To allow a [[Senator]] to raise a motion to relinquish the territory they represent, or an [[Imperial Bourse]] position or National Bourse position located in their territory.Proposed by [[Bastion]], seconded by [[Mitwold]].
 ### Overview
 * Requires Constitutional vote.
-* Relates to this [[Opportunity]]
+* Relates to this Opportunity
 * Failed to achieve constitutional majority
 ### Date
 * Winter 381YE

@@ -31,7 +31,7 @@ Each member of an order can cast one vote during elections to deterMine who the 
 ### Establishing Precedence
 * Orders receive precedence to speak and access to Conclave resources based on the size of their order
 The number of members of an order attending [[Anvil]] determines precedence. The precedence of an order determines when they speak during a [[Conclave session]], and what share of the Conclave resources they receive. Only members of the order who bear the order's Arcane Mark count for precedence. Precedence is determined by the Civil Service by performing a census of the arcane mark possessed by each magician attending the summit shortly before it begins.
-### Right of [[Challenge]]
+### Right of Challenge
 * Members of an order may challenge another magician to confirm membership
 Claiming to be in an order one is not a member of is considered electoral fraud. Any member of an order may request that another member prove their membership in the presence of a magistrate; in this case the onus is always on the challenger to examine the target's Arcane Mark using the Detect detect magic spell. If the outcome is disputed then the [[Prefect of the Conclave]] will repeat the spell.
 ### Challenging the Grandmaster

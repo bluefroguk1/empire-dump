@@ -15,7 +15,7 @@ __NOTOC__
 To construct a [[Great work]] in [[Holberg]] for the production of mana. To be known as "Lorenzo's [[Legacy]] of [[Courage]]". To [[Cost]] 40 wains of [[Mithril]] and 10 thrones to be funded by the Bloody Butchers [[Guild]].''Announced by Lorenzo MacelLiao von [[Temeschwar]].''
 ## Overview
 * This motion was to build a Great work in Holberg to improve the production of Mana sites 
-* Thisgreat work was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* Thisgreat work was announced by a holder of an Imperial Wayleave, using the legal power to Commission constructions delegated to them by the Senate.
 ## Date
 * Autumn 381YE
 ## Cost

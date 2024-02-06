@@ -26,5 +26,5 @@ To use the Asavean [[Architect]] to construct a gaming house and casino in [[Tem
 ## PrOgress
 * 40 wains of white granite and 10 Thrones received from Lorenzo “La Volpe” MacelLiao von Temeschwar after Spring Equinox 382YE.
 ## Campaign Outcome
-* This [[Commission]] will be overseen by Almodin Oktístis, Priest of the Builder.
+* This Commission will be overseen by Almodin Oktístis, Priest of the Builder.
 * As a Great work, Loenzo's Great Game will provide additional income to business owners in Temeschwar.

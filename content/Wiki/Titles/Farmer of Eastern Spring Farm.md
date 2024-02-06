@@ -14,7 +14,7 @@ revision_id: 96799
 ## Overview
 [[Farmer of Eastern Spring Farm]] is an Imperial Orc [[Imperial Title]] created following an announcement in Autumn 382YE. The construction was completed shortly before the 382YE Winter Solstice. The position of Farmer of Eastern Spring [[Farm]] is a [[Sinecure]] in [[Skarsind]], requiring minimal responsibility but offering a regular income of crystal mana. 
 ## Responsibilities
-The Farmer of Eastern Spring Farm has no particular responsibilities; they simply receive a bounty of mana crystals from the farm. If the farm itself were to be threatened in any way, it would be the responsibility of the Farmer to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Farmer of Eastern Spring Farm has no particular responsibilities; they simply receive a bounty of mana crystals from the farm. If the farm itself were to be threatened in any way, it would be the responsibility of the Farmer to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
 The Farmer has custodianship of a sinecure and receives an income of 9 crystal mana each season.

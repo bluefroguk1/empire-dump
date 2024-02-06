@@ -12,7 +12,7 @@ revision_id: 96815
 ---
 
 __NOTOC__
- Construct a fortified [[Steading]] in the Feverwater, [[Therunin]], called "Mudlark's Haven." This is a limited [[Opportunity]] and fUlly funded. 
+ Construct a fortified Steading in the Feverwater, [[Therunin]], called "Mudlark's Haven." This is a limited Opportunity and fUlly funded. 
 ## Overview
 * Commissions an expansion of [[The Feverwater docks]], Therunin.
 * Further details on the Feverwater Docks, and what their construction means, can be found here

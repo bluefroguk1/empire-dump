@@ -15,7 +15,7 @@ revision_id: 75684
 ## Rules
 Season|Night|6
 ### Performing the Ritual
-Casting time|2 Target Resource|[[Forest]]
+Casting time|2 Target Resource|Forest
 [[Enchantment]]
 ### Effects
 At the start of the next event, the target Forest produces an additional five measures of material. The additional [[Materials]] are always of the same type as the basic forest, regardless of any improvements. 

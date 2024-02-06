@@ -15,7 +15,7 @@ revision_id: 91311
 The [[Custodian of the Kennels]] is an [[Imperial Title]] constructed by the Senate. The position of Custodian of the Kennels is a [[Sinecure]], requiring minimal responsibility but offering a regular monetary income. Work on the kennels were finished shortly before Spring Equinox 383YE. The Kennels of Holfried are in the Region of Holfried, [[Holberg]].
 At the Winter Solstice 383YE, the [[Imperial Senate]] authorised an expansion to the kennels, after the graduates of Georgie's House achieved renown for their [[Skills]] in catching rats, increasing the income of the Custodian by 100 rings, and allowing the expanded business to provide trained hounds to purchasers across the entire Empire.
 ## Responsibilities
-The Custodian receives a stipend from the kennels. In return they are expected to offer support and aid to the houndmaster, who is responsible for the day to day running of the kennel. Furthermore, if the Kennels of Holfried were to be threatened in any way it would be their responsibility to deal with those threats. Likewise, if any [[Opportunity]] relating to the kennels presented itself it would their responsibility to make the decisions needed to take advantage of it.
+The Custodian receives a stipend from the kennels. In return they are expected to offer support and aid to the houndmaster, who is responsible for the day to day running of the kennel. Furthermore, if the Kennels of Holfried were to be threatened in any way it would be their responsibility to deal with those threats. Likewise, if any Opportunity relating to the kennels presented itself it would their responsibility to make the decisions needed to take advantage of it.
 ## Powers
 __TOC__
 ### Custodian's Stipend

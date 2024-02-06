@@ -12,7 +12,7 @@ revision_id: 96782
 ---
 
 __NOTOC__
-[[Commission]] the Reapers' Repose [[Sinecure]] in Melfort, [[Temeschwar]] Costing 10 [[White granite]], 5 [[Weirwood]], and 30 crowns. This will create the title "Chatelan of the Reapers' Repose" to be appointed by the Senators of [[The League]].
+Commission the Reapers' Repose [[Sinecure]] in Melfort, [[Temeschwar]] Costing 10 [[White granite]], 5 [[Weirwood]], and 30 crowns. This will create the title "Chatelan of the Reapers' Repose" to be appointed by the Senators of [[The League]].
 ## Overview
 * Commissions some kind of Sinecure in Temeschwar
 * Passed

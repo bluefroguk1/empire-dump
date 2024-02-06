@@ -15,7 +15,7 @@ __NOTOC__
 That the Senate grant permission to build a Great works in [[Tassato]] dedicated to [[Pride]], taking advantage of the recent surge in Pride and the arts.
 Proposed by Tassato, Seconded by [[Astolat]]
 ### Overview
-* A [[Great work]] in Tassato to take advantage of the [[Opportunity]] that presented itself during the recent period of inspiration
+* A [[Great work]] in Tassato to take advantage of the Opportunity that presented itself during the recent period of inspiration
 * Passed
 ### Date
 * Spring 381YE

@@ -15,7 +15,7 @@ To disburse final funds to [[Senator]] [[Weirwater]] to complete [[Mithril]] pur
 With [[War]] on all fronts this army is of vital utility to the military Ambitions of [[The Empire]] and timely completion of the muster is essential.
 Amount in thrones requested to be set on the senate floor but must cover 70 wains of Mithril at current price.Proposed by Weirwater, seconded by [[Semmerholm]]. 
 ### Overview
-* A request for additional funds towards the [http://www.profounddecisions.co.uk/empire-wiki/[[Raise_Dawnish_army_II]] [[Commission]]] of the [http://www.profounddecisions.co.uk/empire-wiki/[[Dawn]] Dawnish] army, Gryphon's Pride
+* A request for additional funds towards the [http://www.profounddecisions.co.uk/empire-wiki/[[Raise_Dawnish_army_II]] Commission] of the [http://www.profounddecisions.co.uk/empire-wiki/[[Dawn]] Dawnish] army, Gryphon's Pride
 * Passed in principle
 * Passed at 420 Thrones
 ### Date

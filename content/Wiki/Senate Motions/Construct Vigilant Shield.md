@@ -25,4 +25,4 @@ To build a [[Liao]] [[Sinecure]] in [[Casinea]] called the Vigilant Shield, crea
 ## Outcome
 * The intent is that the Vigilant Shield would be placed in the custody of the new [[Imperial Title]], Captain of The Throne Guard.
 ## Constitution
-* It is not possible to make a sinecure that provides liao without an [[Opportunity]] - so the viable constitutional interpretation of this motion is to [[Commission]] a sinecure that provides both votes and liao.
+* It is not possible to make a sinecure that provides liao without an Opportunity - so the viable constitutional interpretation of this motion is to Commission a sinecure that provides both votes and liao.

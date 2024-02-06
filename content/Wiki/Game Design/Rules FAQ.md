@@ -38,7 +38,7 @@ Your character cannot be killed by Profound Decisions in downtime, regardless of
 ### Can I purchase a downtime ticket?
 No. There is no option to purchase downtime only tickets for Empire.
 ### Can I recover a body in downtime?
-No. It is a deliberate part of the game that players must decide whether to take the risk of recovering the body of a fallen comrade while on a quest, battle, or skirmish. It's unfortunately not possible to resolve that dilemma in downtime if the body was not recovered in uptime, unless the plot team creates a specific [[Opportunity]] to do so.
+No. It is a deliberate part of the game that players must decide whether to take the risk of recovering the body of a fallen comrade while on a quest, battle, or skirmish. It's unfortunately not possible to resolve that dilemma in downtime if the body was not recovered in uptime, unless the plot team creates a specific Opportunity to do so.
 ## Skills and Characters
 ### Can I change my skills?
 After your first event, if you decide the skills you've chosen don't suit your character, you can change them. Before your next event you can e-mail admin@profounddecisions,co.uk, including your Player ID number, and the skills you want to change. After that point, there are rules that allow you to change a single skill after every event. For more information see this section of the Downtime rules about retraining

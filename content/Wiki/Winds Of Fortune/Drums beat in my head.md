@@ -38,7 +38,7 @@ But suggests Ottilie, why not rebuild the Nets on the rapids, upstream of Feroz,
 * Parador masters of Cerevado promise to pay 60 thrones to the Senate if they build the seat and allocate it to the Brass Coast
 * If built, the Cerevado Nets will destroy the Scorrero Nets, denying all the ilium to Governor Rahab
 [[Establish Cerevado Nets]]
-Type:[[Senate motion]] (not a [[Commission]])
+Type:[[Senate motion]] (not a Commission)
 Location: Lucksprings, Segura
 [[Cost]]: 200 Thrones, 5 Thrones upkeep, three months
 Effect: Creates a new Bourse seat providing 4 ilium each season

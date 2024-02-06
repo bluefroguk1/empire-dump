@@ -12,7 +12,7 @@ revision_id: 85533
 ---
 
 __NOTOC__
-I, Harwyn Hollowwatcher, [[Proxy]] of Siân [[Eternal]], [[Commission]] the Civil Service to research the Terunael site known as Ghita’s Veil, in [[Segura]], and similar locations such as Sobral’s Stand
+I, Harwyn Hollowwatcher, [[Proxy]] of Siân [[Eternal]], Commission the Civil Service to research the Terunael site known as Ghita’s Veil, in [[Segura]], and similar locations such as Sobral’s Stand
 ''Announced by [[Advisor on the Vallorn]]''
 ## Overview
 * Commissions [[Historical research]]

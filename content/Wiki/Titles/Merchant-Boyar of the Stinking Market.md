@@ -12,7 +12,7 @@ revision_id: 107291
 ---
 
 ## Overview
-The [[Merchant-Boyar of the Stinking Market]] is an [[Imperial Title]] created by the Senate in Winter 383YE to oversee the Stinking Market following the conquest of [[Ossium]]. The position of Merchant-Boyar is a [[Sinecure]] and a [[Ministry]], producing a steady stream of income and allowing the holder to purchase [[Forest]] resources in bulk. The Stinking Market is in the former [[Druj]] town of Orieb in Drownbark Forest, Ossium. The Stinking Market, and the vale of Orieb were expanded and improved by the [[Imperial Senate]] with a [[Commission]] raised by Yegor, the [[Senator]] for [[Karsk]].
+The [[Merchant-Boyar of the Stinking Market]] is an [[Imperial Title]] created by the Senate in Winter 383YE to oversee the Stinking Market following the conquest of [[Ossium]]. The position of Merchant-Boyar is a [[Sinecure]] and a [[Ministry]], producing a steady stream of income and allowing the holder to purchase Forest resources in bulk. The Stinking Market is in the former [[Druj]] town of Orieb in Drownbark Forest, Ossium. The Stinking Market, and the vale of Orieb were expanded and improved by the [[Imperial Senate]] with a Commission raised by Yegor, the [[Senator]] for [[Karsk]].
 ## Responsibilities
 The Merchant-Boyar has no particular responsibilities; they simply receive an income from the Market and are able to purchase bargains from wagon-raiders who bring their goods there. If the Stinking Market were to be threatened in any way, it would be the responsibility of the Merchant-Boyar to deal with those threats. 
 ## Powers

@@ -24,5 +24,5 @@ Next came raw, agonising pain as another farmer stabbed a glaive down into the r
 His hands just left reddened smears as the farmer leaned down against the glaive.
 Alone in his world of pain, the raider didn't pay heed to the noise of the carnage, the shouts and screams that he'd recognise as his own kin and, then, the muddy thudding of retreating boots. The world was getting dark and cold as he finally lost the will to struggle any further, hands gripping the glaive as if embracing it now. The farmer just looked down dispassionately, as if seeing off a slaughtered animal in a pen.
 “Bit of a mess.” Another farmer, blood splashed up one arm, mopping his brow.
-“Aye, that it is,” the first retorted, finally wrenching his weapon from the [[Barbarian]]'s innards. He glanced up at the dark clouds overhead. “Think there's rain coming.”
+“Aye, that it is,” the first retorted, finally wrenching his weapon from the Barbarian's innards. He glanced up at the dark clouds overhead. “Think there's rain coming.”
 “Aye. Best we get the injured back for tending before it falls,” the second Marcher nodded, sparing the fallen raider a last look. “And be getting these buried in the dirt.”

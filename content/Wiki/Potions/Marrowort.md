@@ -17,6 +17,6 @@ An apothecary with access to an [[Escharotic Cauldron]] can substitute two doses
 ## Rules
 * Can only be applied by a character with the physick skill.
 * Using 30 seconds of Appropriate roleplaying, the physick can allow a target to ignore the ''roleplaying effects'' of traumatic wounds until the end of the battle.
-*The [[Herb]] use fails if you or your target are hit or attack another character during application, but the herb is not consumed
+*The Herb use fails if you or your target are hit or attack another character during application, but the herb is not consumed
 A character who is treated with Marrowort by a physick may ignore the roleplaying effects of any traumatic wounds they have received until the end of the battle. If a traumatic wound has specific rules effects, then these effects are not affected by marrowort. The benefits apply until the end of the entire battle that the character is in - effectively until the character leaves [[The Battlefield]] and returns to [[Anvil]] or a similar location.
 Category:Herbs

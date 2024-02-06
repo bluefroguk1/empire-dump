@@ -18,9 +18,9 @@ It will be overseen by the Master Botanist of High Chalcis. The position will be
 Approved by the Civilian Commissioner of Highguard
 __NOTOC__
 ### Overview
-* A [[Great work]] in Reikos to take advantage of the [[Opportunity]] that presented itself after the reclaiming of the territory
-* This motion was approved by the Civilian Commissioner of Highguard using the legal power to [[Commission]] constructions delegated to them by the Senate
-* The great work will provide a bounty of 120 herbs spread amongst those citizens of Reikos who own [[Herb]] gardens each season, following attendance at the [[Anvil]] Summit
+* A [[Great work]] in Reikos to take advantage of the Opportunity that presented itself after the reclaiming of the territory
+* This motion was approved by the Civilian Commissioner of Highguard using the legal power to Commission constructions delegated to them by the Senate
+* The great work will provide a bounty of 120 herbs spread amongst those citizens of Reikos who own Herb gardens each season, following attendance at the [[Anvil]] Summit
 ### Date
 * Summer 380YE
 ### Cost

@@ -12,7 +12,7 @@ revision_id: 94635
 ---
 
 __NOTOC__
-To [[Commission]] a [[Sinecure]] "The Teneberous path" in [[Hercynia]] Old Ranging, with the title of "[[Wisdom of the Tenebrous Path]]". Self-funded at ten wains of [[Mithril]]. To be appointed yEarly as a [[Navarr]] National position at the Spring Summit by the Military council.
+To Commission a [[Sinecure]] "The Teneberous path" in [[Hercynia]] Old Ranging, with the title of "[[Wisdom of the Tenebrous Path]]". Self-funded at ten wains of [[Mithril]]. To be appointed yEarly as a [[Navarr]] National position at the Spring Summit by the Military council.
 [[The Vallorn]] are the greatest spiritual threat to [[The Empire]], and with the Senate's [[Wisdom]], we are building the first army specifically to [[Fight]] it. [[Isaella]]'s dance will [[Muster]] at [[Miaren]] in the coming summer.
 An army is a ship without a rudder, an arrow without a bow without an intent to wield it. This proposed sinecure is to inSpire wisdom to the Thorns of Navarr to those who desire to wield a [[General]]'s banner.
 This Senate's duty is not to the titles of this room but to the people we serve.

@@ -16,7 +16,7 @@ __NOTOC__
 To build a sanctuary for justicars on the isle of Osseini. This will create the title "[[Justicar of Osseini]]" and be [[Ministry]] for [[Exorcism]], [[Cost]] 15 wains of [[White granite]] and 30 crowns. 30 crowns to be provided by [[High Exorcist]].
 ## Overview
 * Creates a sanctuary for the justicars on the Isle of the Osseini in [[Feroz]]. 
-* Details of this [[Opportunity]] are provided in the [[Bones in the ocean]] wind of fortune. 
+* Details of this Opportunity are provided in the [[Bones in the ocean]] wind of fortune. 
 * Passed at 70 Thrones
 ## Date
 * Spring 384YE

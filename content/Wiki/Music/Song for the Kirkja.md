@@ -11,7 +11,7 @@ revision_id: 72577
 ---
 
 * Original composition by Chris Clarke
-* [https://soundcloud.com/christopher-clarke-580791164/a-song-for-the-kirkja-[[Barbarian]]-[[Music]]-for-[[Jotun]]?fbclid=IWar1GjPuywUTwO1Y5TTHZ8ZooH-HXmbUGPaahu6tmhuQVuipOcwFj9Fc-JlE| A [[Song for the Kirkja]]]
+* [https://soundcloud.com/christopher-clarke-580791164/a-song-for-the-kirkja-Barbarian-[[Music]]-for-[[Jotun]]?fbclid=IWar1GjPuywUTwO1Y5TTHZ8ZooH-HXmbUGPaahu6tmhuQVuipOcwFj9Fc-JlE| A [[Song for the Kirkja]]]
 Remember those who have come before you
 And be inSpired by their deads
 Praise them with song and story

@@ -10,7 +10,7 @@ revision_id: 102535
 
 ## [[Eternal]] of Summer
 ### Sobriquets
-[[Jaheris]] is the ''Unicorn Prince'', and the ''Lord of the [[Forest]] of Arden''.
+[[Jaheris]] is the ''Unicorn Prince'', and the ''Lord of the Forest of Arden''.
 ### Appearance
 The ''Moonsilver Prince'' is usually clad in blue-and-silver, and appears with the horns of a stag. His device is a silver unicorn on a blue background. He has white hair, which has earned him the moniker ''Silverbrow''.
 The ''Lord of Despite'' is closely associated with the eternal [[Eleonaris]]. He is sometimes her rival, and sometimes her ally. In some stories he is her father whom she overthrew to claim her throne, in others he is her son who strives to usurp his mothers' seat. Sometimes it seems he is her beloved consort, but he always plots against her and is cast down. Sometimes he is her brother, who seeks to take her throne by force. In recent years, their relationship appears to have undergone a fundamental shift, and Jaheris has quit The Fields of [[The Fields of Glory]] for the Forest of Arden, which he now rules as his own [[Realm]].

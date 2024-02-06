@@ -12,7 +12,7 @@ revision_id: 102318
 ---
 
 __NOTOC__
-[[Commission]] to rebuild the roads in [[Kahraman]] and to build a series of Kamkrag across the territory to allow improved troop movement and defence. This will require 100 [[White granite]], 50 [[Weirwood]], and 300 crowns. if [[The Empire]] ever cuts trading ties with the [[Faraden]], the Senate will reimburse the Faraden families for the [[Materials]] they contribute.
+Commission to rebuild the roads in [[Kahraman]] and to build a series of Kamkrag across the territory to allow improved troop movement and defence. This will require 100 [[White granite]], 50 [[Weirwood]], and 300 crowns. if [[The Empire]] ever cuts trading ties with the [[Faraden]], the Senate will reimburse the Faraden families for the [[Materials]] they contribute.
 ## Overview
 * Rebuilds the roads in Kahraman, as detailed in the [[Time and time again]] wind of fortune
 * Passed at 200 thrones

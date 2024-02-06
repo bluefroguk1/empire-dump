@@ -77,5 +77,5 @@ The following traders have booked for the event.
 *[http://www.skianmhor.co.uk Skian Mhor] Latex Weapons and props. Costume, armour, leatherwork, chainmail, tents and all types of LRP supplies and essentials.
 * [http://www.velvetglove.pwp.blueyonder.co.uk/ Velvet Glove Costumes] Costumes, make-up, prosthetics, jewellery with more to come!
 * [http://www.whiteroseapparel.com/index.htm White Rose Apparel] Beautiful armour.
-* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and [[Commission]] work.
+* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and Commission work.
 * Wonderlust Couture - custom made, individual jewellery and costume in various designs.

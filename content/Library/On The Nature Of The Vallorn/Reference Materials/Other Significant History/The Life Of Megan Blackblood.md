@@ -6,7 +6,7 @@ This document was compiled by the civil service in response to a request for [[H
 
 **Early Life**
 
-According to a letter she wrote to a friend in [[Miaren]] in 104YE, the child Megan was born in 77YE during the reign of [[Empress Teleri]]. Her parents were part of Quiet Clay (The Quiet Secret Hidden in the Red Clay) [[Steading]] in western [[Therunin]]. Raised on the shores of the Feverwater, her steading cultivated a section of [[Forest]] spotted with rich deposits of dragonbone in southern Eastring. She describes her childhood as "typical; I climbed and ran with the other children, got into trouble, was once almost eaten by a monstrous insect horror out of the Greenheart - typical, as I said."
+According to a letter she wrote to a friend in [[Miaren]] in 104YE, the child Megan was born in 77YE during the reign of [[Empress Teleri]]. Her parents were part of Quiet Clay (The Quiet Secret Hidden in the Red Clay) Steading in western [[Therunin]]. Raised on the shores of the Feverwater, her steading cultivated a section of Forest spotted with rich deposits of dragonbone in southern Eastring. She describes her childhood as "typical; I climbed and ran with the other children, got into trouble, was once almost eaten by a monstrous insect horror out of the Greenheart - typical, as I said."
 
 Typical as she might consider her youth, it was clear from an early age that she was fascinated by the Great Dance. She studied occasionally with the vates who passed through her steading on their long migration along the trods, and at fourteen decided to travel with members of one particular band, the Slow [[Spiral]] [[Striding]] (The Long Slow Spiral That Curves OutWard From The Heart). She showed little aptitude for the work of the magician, however, and while she obviously felt drawn to a life of service, at the age of seventeen she chose a different path.
 
@@ -38,7 +38,7 @@ Despite the supernatural attack of the forests. The Dawnish forces scattered the
 
 **The Moving Forest**
 
-Her experiences in Weirwater prompted a period of introspection and discussion between Megan and several vates. By this time, she and Bran of Alderley had sworn oaths of love and companionship, bound as wife and husband, and Bran officially became Bran Green Loom. The pair became a regular presence at the meetings of the Nations at [[Anvil]], using this as an [[Opportunity]] to spread the philosophy of the Navarr in the Synod and the Conclave.
+Her experiences in Weirwater prompted a period of introspection and discussion between Megan and several vates. By this time, she and Bran of Alderley had sworn oaths of love and companionship, bound as wife and husband, and Bran officially became Bran Green Loom. The pair became a regular presence at the meetings of the Nations at [[Anvil]], using this as an Opportunity to spread the philosophy of the Navarr in the Synod and the Conclave.
 
 Despite her lack of training in ritual magic, Megan sought the assistance of the [[Dean of the Lyceum]], a Navarr magician named Idris Adder Storm, in codifying a ritual based on her observations in Weirwater.
 
@@ -52,7 +52,7 @@ Further, when the ritual in Weirwater ended, the trees began to move back to the
 
 Finally, she suggested several benefits to this magic. Vallorn vegetation is incredibly resilient to attacks from weapons and fire. They are often home to monstrous insects, and Megan cautiously suggested that rather than attacking the insects directly, the vallorn vegetation would ignore them - but the creatures themselves might follow 'their' trees into battle.
 
-The magicians of the Conclave were horrified by the suggestion that they tamper with the Vallorn. Megan, calmly practical, refuted their claims that it was madness to meddle and explained that whatever else it was, The Vallorn must be bound by the same laws as everything else in the world. While then ability to use vallorn vegetation against the enemies of the Empire was of limited use, she theorised that it could be especially effective at removing [[Barbarian]] ores from [[Brocéliande]] or Therunin, or even from [[Hercynia]] or Liathaven.
+The magicians of the Conclave were horrified by the suggestion that they tamper with the Vallorn. Megan, calmly practical, refuted their claims that it was madness to meddle and explained that whatever else it was, The Vallorn must be bound by the same laws as everything else in the world. While then ability to use vallorn vegetation against the enemies of the Empire was of limited use, she theorised that it could be especially effective at removing Barbarian ores from [[Brocéliande]] or Therunin, or even from [[Hercynia]] or Liathaven.
 
 Critics suggested that The Vallorn vegetation would be equally dangerous to Navarr steadings as to enemy forces, and Megan countered by pointing out that the trees raised by Thunderous Tread tended to expend their wrath on fortifications and large concentrations of troops rather than steadings which often have low populations while some villages were destroyed in Weirwater, her argument was that in the long term the damage to the Dawnish yeomanry was less than it would have been had they just been conquered by the Druj.
 

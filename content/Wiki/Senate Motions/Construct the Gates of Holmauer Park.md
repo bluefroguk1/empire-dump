@@ -12,7 +12,7 @@ revision_id: 105788
 ---
 
 __NOTOC__
-To [[Commission]] a [[Great work]] “The Gates of Holmauer Park” in Holmauer. [[Holberg]], to secure the Park's eight gates with [[Mithril]], and providing security to the Park's Visitors in the form of a small garrison supplemented with local Magicians and priests. The influx of paying tourists would provide coin that will benefit business owners of Holberg. InSpired by the [[Judgement]] of the [[Cardinal of Wisdom]], Hembeneth i [[Guerra]], in Summer 384YE. Self-funded by Lula and Bernhard Kleist von Ennerlund together with other citizens of [[The League]]. Costs are 20 wains of mithril and 60 crowns.
+To Commission a [[Great work]] “The Gates of Holmauer Park” in Holmauer. [[Holberg]], to secure the Park's eight gates with [[Mithril]], and providing security to the Park's Visitors in the form of a small garrison supplemented with local Magicians and priests. The influx of paying tourists would provide coin that will benefit business owners of Holberg. InSpired by the [[Judgement]] of the [[Cardinal of Wisdom]], Hembeneth i [[Guerra]], in Summer 384YE. Self-funded by Lula and Bernhard Kleist von Ennerlund together with other citizens of [[The League]]. Costs are 20 wains of mithril and 60 crowns.
 ## Overview
 * Creates a great work in Holberg as per the [[Dear green space]] wind of fortune
 * Announcement by the [[Chair of the Wolf]]

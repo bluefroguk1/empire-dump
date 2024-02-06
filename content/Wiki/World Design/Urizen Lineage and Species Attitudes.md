@@ -13,7 +13,7 @@ revision_id: 83444
 __NOTOC__
 Our true nationality is humankind. 
 ## Overview
-[[Lineage]] is common in [[Urizen]]. The Urizen philosophers were the first to study and codify [[The Way]] lineage may be passed on through bloodlines, and to describe the effects of [[Eternal]] supernatural influence on humans. They also have a great deal of interest in ways that eternal influence manifests in other species.
+Lineage is common in [[Urizen]]. The Urizen philosophers were the first to study and codify [[The Way]] lineage may be passed on through bloodlines, and to describe the effects of [[Eternal]] supernatural influence on humans. They also have a great deal of interest in ways that eternal influence manifests in other species.
 ## Specific Lineage
 A number of [[Merrow]] who live in Urizen were born in [[The Brass Coast]]. The Freeborn see the calm nature of the Merrow is being at odds with their way of life and it is true that merrow rarely find themselves comfortable in Freeborn society. Many Freeborn parents of a merrow child will take that child across the bay to Urizen, where the child will find a better life.
 Only the [[Briar]] lineage is not well represented in Urizen. The instinctual attitudes of the Spring lineage sit poorly with many Urizen. It is not the superstitions about sinister Spring influence that concern many Urizen, but what they see as a built-in anti-intellectualism. That said, there are a number who have made a name for themselves as Sentinels. The instinct of the briar to take direct, straightforWard routes around problems helps them to focus their attention on the pursuit of physical, rather than purely mental, excellence.

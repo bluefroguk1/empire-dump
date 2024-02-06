@@ -13,7 +13,7 @@ revision_id: 105682
 A [[Shipyard]] is a significant undertaking, creating a facility specifically designed for the creation and support of naval vessels. 
 ## Senate Commissions
 The [[Imperial Senate]] may pass a motion for the construction of a shipyard. The senate must select a Territory, and a Region within that territory that possesses the ''coastal'' quality, where the shipyard will be constructed.
-Since there is no active governance of a shipyard, there is no [[Imperial Title]] associated with the [[Commission]].
+Since there is no active governance of a shipyard, there is no [[Imperial Title]] associated with the Commission.
 ## Benefits
 ### Naval Construction
 The Imperial Senate can use a shipyard to Commission the construction of an [[Imperial navy]]. A single Shipyard can work on only one Imperial navy at a time, and can build a navy for any Imperial nation regardless of which nation controls the territory where the Shipyard has been built.

@@ -44,6 +44,6 @@ Hunter thinks of crying children
 Follows on as darkness falls.
 ''Chorus''
 Silver body lies before him
-Crumpled on the [[Forest]] floor
+Crumpled on the Forest floor
 Hunter sees, then come the growlings
 Children they are crying still.

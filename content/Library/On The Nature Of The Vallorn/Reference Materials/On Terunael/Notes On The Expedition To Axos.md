@@ -10,7 +10,7 @@
 
 #### PART ONE
 
-**A Report from the [[Forest]] of Visokuma** 
+**A Report from the Forest of Visokuma** 
 **For Siân [[Eternal]] the Advisor on the Vallorn**
 
 It has been a long three months. I am going through my notes, marveling at how far we have come. Collecting my thoughts while torrential rain pounds against the canvas above my head. Back home, it would be a cold Winter night but here... here the nights are Warm. Warmer than [[Therunin]], heavy and humid and oppressive. It is hard to sleep, even without the constant sounds of the forest beasts. Forest? Jungle more like - but with the abhorrent fecundity of The the vallorn it is sometimes hard to be certain.
@@ -97,7 +97,7 @@ Her story was grim, but she told it dispassionately, and tRuthfully as near as I
 
 **The Axos and the Vallorn**
 
-After discussion with Istacia, I also spent some time speaking to Ilarch Maxatious. He had little interest in the history of Visokuma, but a great deal of interest in the vallorn. To him, and to the Grand Ilarch of Kantor, it represents a lost [[Opportunity]]. The taint of the vallorn keeps them out of the woodlands, but they represent a vast source of untapped wealth. Not only are there potentially great reserves of [[Ambergelt]], dragonbone, and beggar's lye in Visokuma but there is apparently a great Forest of weirwood trees.
+After discussion with Istacia, I also spent some time speaking to Ilarch Maxatious. He had little interest in the history of Visokuma, but a great deal of interest in the vallorn. To him, and to the Grand Ilarch of Kantor, it represents a lost Opportunity. The taint of the vallorn keeps them out of the woodlands, but they represent a vast source of untapped wealth. Not only are there potentially great reserves of [[Ambergelt]], dragonbone, and beggar's lye in Visokuma but there is apparently a great Forest of weirwood trees.
 
 We know from the liberation of Miaren and Therunin that the Vallorn does not taint Weirwood trees. The great forest spoken of a thousand years ago, that Istacia says brought the Terunael here in the first place, almost certainly still exists - but choked by the miasma and crowded with husks and abominable spawn.
 
@@ -145,7 +145,7 @@ Regardless; the trip was not wasted. While the guides warned we should not linge
 
 It was breathtaking. A great pool of vibrant, deep green, shot through with currents of blood red. There are no trods here. There have never been any trods here. If Brocéliande is a wellspring of the vallorns might, this place is like an inland sea - like one of the bottomless mountain lakes of [[Hercynia]]. It is deep beyond measuring. It has never been tamed, and its power has never been diminished. It has been tended - there are marks of this "Invocation of the Throne of Maykop" that Maxatious spoke of - and the presence that underlies the power of the vallorn seems somnolent. Slumbering power, not watchful or bitter like some of the vallorn to the west.
 
-But it is a vallon. It is a aloet that has possessed the entire forest of Visokuma for a thousand sears, one that has never known the tread of a [[Striding]] or the watchful eyes of a [[Steading]].
+But it is a vallon. It is a aloet that has possessed the entire forest of Visokuma for a thousand sears, one that has never known the tread of a [[Striding]] or the watchful eyes of a Steading.
 
 There was one other thing that we noticed as we wove our Magic — an absence. There is an absence near the heart of the vallorn large enough to register as something of note to our scrying eyes, Given everything Maxatious said, and the recounting of Istacia, I would guess that what we are seeing is the largest weirwood forest I have ever heard of - larger than the [[Golden Trees of Seren]].
 
@@ -172,7 +172,7 @@ As I write these words my companions are sleeping, all save Ekimunna our guide f
 
 **From Visokuma**
 
-From the tormented depths of Viskuma our party returned to Kantor to recuperate. While at the embassy there, we received your [[Commission]] to continue. We spent some time speaking with the Axou merchants, discussing the problem of traveling easily from one side - in this cast the east coast - to the other side of the nation. The forest of Visokuma prevents easy travel overland. If we wished to learn more about the Terunael refugees who sought sanctuary at the vanished Citadel of Solokha, we would need to pursue a circuitous route that would take us through all three of the remaining citadels.
+From the tormented depths of Viskuma our party returned to Kantor to recuperate. While at the embassy there, we received your Commission to continue. We spent some time speaking with the Axou merchants, discussing the problem of traveling easily from one side - in this cast the east coast - to the other side of the nation. The forest of Visokuma prevents easy travel overland. If we wished to learn more about the Terunael refugees who sought sanctuary at the vanished Citadel of Solokha, we would need to pursue a circuitous route that would take us through all three of the remaining citadels.
 
 I negotiated with Istacia of Maykop to make the first leg of the journey with her aboard her black-sailed vessel. I think in part she still felt some guilt for the actions of her ancestors. We spoke of a number of topics, mostly around our shared experience as scholars and researchers.
 

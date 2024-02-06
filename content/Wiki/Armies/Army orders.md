@@ -44,7 +44,7 @@ A General who seeks victory at any price can order an overwhelming assault. The 
 * Casualties inflicted by this army are reduced by a fifth
 * Only Imperial armies may take this order.
 Every Imperial army is accompanied by a cadre of battlefield physicks and chirurgeons, and Magicians skilled in Healing [[Magic]], who are more than prepared to take risks to help minimize Imperial losses. By adapting strategies to make the most use of these resources, a general can ensure no part of the army is ever too far away from skilled medical attention. At the same time, the general ensures that the soldiers in their army eschew risky tactics, or those that would lead to unnecessary loss of life, in pursuit of spilling enemy blood.
-Steady conquest is as effective as balanced attack in claiming enemy territory and securing strategic objectives, but significantly reduces the casualties suffered by the army - at the [[Cost]] of inflicting less casualties on enemy forces. This order became possible after the coronation of the twentieth Throne, [[Empress Lisabetta]], when Imperial strategy was reassessed in the light of significant losses inflicted by the [[Barbarian]] orcs.
+Steady conquest is as effective as balanced attack in claiming enemy territory and securing strategic objectives, but significantly reduces the casualties suffered by the army - at the [[Cost]] of inflicting less casualties on enemy forces. This order became possible after the coronation of the twentieth Throne, [[Empress Lisabetta]], when Imperial strategy was reassessed in the light of significant losses inflicted by the Barbarian orcs.
 ## Defending
 * Imperial armies can only defend a region that is controlled by the Empire
 * No campaign will take place unless another force issues an order to attack
@@ -63,7 +63,7 @@ An army that attempts the solid defence of a region will seek to make best use o
 ### Heroic Stand
 * Casualties suffered by this army are increased by a fifth
 * The ability of this army to defend territory is increased by three tenths
-An army that commits to a heroic stand will not initiate a military campaign - but they will make the enemy pay for every inch of ground they take. The army will take every [[Opportunity]] to engage with the enemy side, they won't fight to the last soldier, but they will fight on even until the cause is utterly hopeless. Marcher armies favour this strategy; their natural belligerence makes them loathe to leave any battlefield while the chance of victory remains.
+An army that commits to a heroic stand will not initiate a military campaign - but they will make the enemy pay for every inch of ground they take. The army will take every Opportunity to engage with the enemy side, they won't fight to the last soldier, but they will fight on even until the cause is utterly hopeless. Marcher armies favour this strategy; their natural belligerence makes them loathe to leave any battlefield while the chance of victory remains.
 ### Billet
 * Can use the order to billet an army in a territory when defending [[Upwold]], or [[Mitwold]]
 * There are no bonuses or penalties to defend the territory, or to casualties taken or received

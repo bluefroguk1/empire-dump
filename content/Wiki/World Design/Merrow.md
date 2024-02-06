@@ -12,7 +12,7 @@ __TOC__
 ## Overview
 The [[Merrow]] are touched by the [[Realm]] of Day, a realm of reason and shining light where sky and ocean merge. They are rational, calm, curious people who are fascinated by the complexity of the cosmos.
 Merrow prefer roles that allow them to remain principled and detached. They are at home in the Conclave - some of [[The Empire]]'s most brilliant Magicians have been merrow - but they also flourish in the Synod, where their calm reason allows them to judge others impartially. A few merrow have a fascination for economics but many find trade and commerce prosaic. Few merrow are effective battle leaders, they often lack the charisma and passion to motivate soldiers, but they do make effective Generals, having a ready mastery for strategy and tactics. The passion and oratory required of politics, as well as the inevitable grubby compromises, often vex them.
-The Merrow [[Lineage]] is intended to appeal to not only players who want to create scholastic, intellectual or magician character concepts, but also to anyone who enjoys gathering information. Spies, scouts and loremasters of all types all make good Merrow characters.
+The Merrow Lineage is intended to appeal to not only players who want to create scholastic, intellectual or magician character concepts, but also to anyone who enjoys gathering information. Spies, scouts and loremasters of all types all make good Merrow characters.
 ### Sobriquets
 Other terms for Merrow, both within the Empire and in other parts of the world, include: Tritons, Merfolk, Fendwellers, Vodyanoi
 ## What they are not
@@ -88,7 +88,7 @@ Merrow find a special place in a few nations of the Empire.
 * Merrow children from the Brass Coast are often sent to be raised in [[Urizen]], in the belief they will have a happier life.
 ### Becoming a merrow
 *The Eternals [[Kimus]] and [[Sinokenon]] can both offer boons to allow a character to gain the merrow lineage
-*The [[Steading]] of Glimmerwater can provide access to a lantern with origins in the Day realm over downtime that will grant an unlineaged human the merrow lineage
+*The Steading of Glimmerwater can provide access to a lantern with origins in the Day realm over downtime that will grant an unlineaged human the merrow lineage
 Viziers of Kimus have in the past offered a small crystal known as a ''concentration of light''. They have been known to offer a crystal as payment for an intense debate on such topics as perception of the self, the nature of time, and what change comes about from experiencing significant events. Some unlineaged people who sleep grasping one of the crystals in their hand wake up the next day with the merrow lineage, the crystal having disappeared without a trace.
 The servitors of Sinokenon are able to offer the use of the ''vial of the apex'' to mortals who have been able to explain their understanding of [[Loyalty]], and provide evidence of their commitment of prOgressing to perfection to a satisfiable extent. Pure water drunk directly from a ''vial of the apex'' will see most unlineaged adults develop the merrow lineage over the course of the next twelve hours.
 Downtime

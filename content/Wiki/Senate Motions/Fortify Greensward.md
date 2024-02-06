@@ -26,7 +26,7 @@ To build a fort in GreensWard named "Farstriders Watch". To be funded by the Imp
 * Upkeep: 10 Thrones
 ### PrOgress
 * 40 wains of white granite provided by Orrick after Winter Solstice 381YE.
-* 16 wains white granite and 32 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity]].
+* 16 wains white granite and 32 crowns effectively provided due to the Silent [[Sentinel]] Opportunity.
 * 24 wains of white granite and 16 thrones provided by Orrick after Spring Equinox 382YE.
 ### Campaign Outcome
 * This will build a new rank one fortification in the Greensward.

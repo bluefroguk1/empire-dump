@@ -15,7 +15,7 @@ revision_id: 106088
 ## Overview
 The history of the Cinderpath Exchange is convoluted. First raised by the [[Senator]] for [[Necropolis]] during the Summer Solstice 382YE then raised by the senator for [[Bastion]] at the Spring Equinox 383YE. They were eventually Commissioned by an announcement from the [[Bearer of an Imperial Wayleave]] at the Spring Equinox 383YE, and work was completed shortly before the start of the Summer Solstice of the same year. 
 ## Responsibilities
-The [[Cinderpath Custodian]] is responsible for ensuring good relations with the Highborn who offer their [[White granite]] in trade. If the Cinderpath Exchange were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Cinderpath Exchange, the Custodian would expect to be consulted as to how that opportunity might be resolved.
+The [[Cinderpath Custodian]] is responsible for ensuring good relations with the Highborn who offer their [[White granite]] in trade. If the Cinderpath Exchange were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Cinderpath Exchange, the Custodian would expect to be consulted as to how that opportunity might be resolved.
 ## Powers
 ### [[Ministry]]
 White Granite

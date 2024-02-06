@@ -16,7 +16,7 @@ Announcement: to build a vineyard cf. an Earlier motion, and subsequent abrogati
 Announced by Brother Dagon of the Shattered Tower.
 ### Overview
 * This announcement relates to an earlier motion and abrogation of a motion to build a vineyard money [[Sinecure]] in [[Sarvos]]. 
-* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Summer 381YE
 ### PrOgress

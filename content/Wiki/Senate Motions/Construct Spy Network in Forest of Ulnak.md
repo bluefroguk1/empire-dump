@@ -13,7 +13,7 @@ revision_id: 104472
 
 __NOTOC__
 Construct a [[Spy network]] in [[Forest of Ulnak]]. To speed destruction of the vile fear cult formerly known as the [[Druj]]. In the interest of Imperial security, stability and victory. Through virtue's illumination comes a Prosperous future.
-* Constructs a Spy network in the [[Forest]] of Ulnak
+* Constructs a Spy network in the Forest of Ulnak
 * Announcement by the [[Imperial Spymaster]]
 ## Date
 * Summer 385YE

@@ -12,7 +12,7 @@ revision_id: 103190
 ---
 
 __NOTOC__
-To [[Commission]] the [[Folly]] "Lowther's Lift", within the [[Singing Caves]], near Overton in [[Mournwold]]. This folly would enable the extraction of greater quantities of [[Mithril]] in the form of a [[Ministry]]. This will [[Cost]] 10 wains of [[Weirwood]] and 20 crowns. This is self funded.
+To Commission the [[Folly]] "Lowther's Lift", within the [[Singing Caves]], near Overton in [[Mournwold]]. This folly would enable the extraction of greater quantities of [[Mithril]] in the form of a [[Ministry]]. This will [[Cost]] 10 wains of [[Weirwood]] and 20 crowns. This is self funded.
 ## Overview
 * Constructs a lift that allows access to rich new veins of Mithril, as detailed in the [[Wildest dreams]] wind of fortune
 * Passed

@@ -14,7 +14,7 @@ tags:
 Lann is also used when making promises, and it is also a rune that implies a degree of balance. When a dangerous imbalance exists, Lann may be evoked to help bring opposing forces into rough agreement. In this role it is called the Balancing Scales – but it does not represent absolute equality, or perfect balance. It instead represents the idea of bringing two things into rough harmony, so that neither side is angry or unhappy, but it absolutely contains the idea that one side may benefit from a bargain more than the other.
 It is also called the Talon, or the Rune of Debts, representing favours as well as things that are owed. 
 Some Freeborn Scriveners suggest using the rune as a seal when helping to draw up a contract, but it is also the rune most closely associated with interactions with Eternals, especially those of Autumn. Dawnish Enchanters often wear it as an amulet, as do [[Navarr]] brokers.
-Lann is often said to have a strong correspondence with the [[Cambion]] [[Lineage]], and is closely associated with the Imperial Virtue of [[Loyalty]].
+Lann is often said to have a strong correspondence with the [[Cambion]] Lineage, and is closely associated with the Imperial Virtue of [[Loyalty]].
 ### Using Lann in [[Magic]]
 Lann is evoked when working magic that enCourages or enforces promises or agreements, and in any ritual that transfers power from one person or thing to another. Some Healing magic is enhanced with Lann, representing an agreement by the healed individual to repay the healer in some manner. 
 ### Crafting with Lann

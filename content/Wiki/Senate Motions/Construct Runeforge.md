@@ -28,7 +28,7 @@ Proposed by [[Hahnmark]], seconded by [[Karsk]]
 ### PrOgress
 * 75 Thrones disbursed to [[Senator]] Hahnmark
 * 75 Thrones returned to the Senate treasury by Senator Hahnmark after the Spring Equinox 382YE.
-* This [[Commission]] has lapsed
+* This Commission has lapsed
 ### Campaign Outcome
 * There are certain necessary details missing from this motion, the Senator may decide on these.
 * Once completed, the Runeforge will automatically create a new [[Imperial Title]]

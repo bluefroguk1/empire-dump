@@ -40,8 +40,8 @@ A former Urizen citizen who leaves the nation loses access to Rituals that are p
 RitualExplanationRealmMagnitude
 Good Green OakGrants one rank of endurance for a seasonSpring6
 Wellspring of the High PeakTrades measures of [[Ambergelt]] with an eternal to produce Spring VisSpring6
-A Goblet of StarsEnchants a physick with the ability to use any healing [[Herb]] as if it were true vervainSpring8
-Fountain's BountyEnchants a [[Mana site]] to produce additional herbs, [[Forest]] [[Materials]], and moneySpring12
+A Goblet of StarsEnchants a physick with the ability to use any healing Herb as if it were true vervainSpring8
+Fountain's BountyEnchants a [[Mana site]] to produce additional herbs, Forest [[Materials]], and moneySpring12
 Woven Strands of LifeTransforms a mana site into a [[Herb garden]] for a season that receives additional productionSpring14
 Aspect of the MountainGrants a significant increase to the strength of a [[Military unit]] when supporting a FortificationSummer20
 Raise the Dragonsworn CohortProvides a powerful military unit for a season in return for a mineSummer20

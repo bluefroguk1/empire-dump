@@ -13,7 +13,7 @@ revision_id: 99886
 
 ## Overview
 The [[Arcane Architect]] is an [[Imperial Title]] appointed by the [[Imperial Conclave]]. The title was created by the [[Imperial Senate]] during the Autumn Equinox 379YE.
-When the title was initially created, it had an unlimited power to [[Commission]] the construction of mana structures. The Senate aMended the power to once per season as part of an administrative motion. The Senate voted to further amend the powers of the Arcane [[Architect]] during the Autumn Equinox 383YE by extending their power of commission to ministries and Great works.
+When the title was initially created, it had an unlimited power to Commission the construction of mana structures. The Senate aMended the power to once per season as part of an administrative motion. The Senate voted to further amend the powers of the Arcane [[Architect]] during the Autumn Equinox 383YE by extending their power of commission to ministries and Great works.
 ==Responsibilities== 
 The Arcane Architect is responsible for supporting the ritual Magicians of [[The Empire]] in virtuous application of mana.
 ## Powers

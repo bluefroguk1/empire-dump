@@ -12,7 +12,7 @@ revision_id: 106099
 ---
 
 ## Overview
-The [[Grimnir of Wittal Grove]] is an [[Imperial Title]] aWarded to a [[Wintermark]] citizen. The motion to construct the Healing House of Wittal Grove was passed by the [[Imperial Senate]] during the Winter Solstice 383YE following an [[Opportunity]] presented by Elina of Redleaf's Hall. 
+The [[Grimnir of Wittal Grove]] is an [[Imperial Title]] aWarded to a [[Wintermark]] citizen. The motion to construct the Healing House of Wittal Grove was passed by the [[Imperial Senate]] during the Winter Solstice 383YE following an Opportunity presented by Elina of Redleaf's Hall. 
 ## Responsibilities
 The Grimnir of Wittal Grove is expected to oversee the Healing House of Wittal Grove. They have a responsibility to purchase surplus herbs from the grimnir who Visit and to allow the herbalists of [[Kallavesa]] to respond to the needs of the [[Heroes]] of Wintermark. If the Healing House of Wittal Grove were to be threatened in any way, however, it would be the responsibility of the Grimnir to deal with those threats.
 ## Power
@@ -24,7 +24,7 @@ Herbs
 ### [[Ministry]]
 As a Ministry, the title of Grimnir of Wittal Grove allows the holder to purchase quantities of herbs at a set price. The Grimnir spends their money and makes their choices during downtime from their character page. Money is removed from, and herbs are placed into, the character's inventory when the downtime is processed.
 ### Bounty of the marshes
-The Healing House of Wittal Grove is also a [[Great work]] that provides a share of herbs to every [[Herb garden]] in Kallavesa owned by a citizen of Wintermark. As standard this is a selection of random herbs however the Grimnir of Wittal Grove can make an announcement in the Imperial Senate to indicate which variety of [[Herb]] they wish the herb masters to focus on.
+The Healing House of Wittal Grove is also a [[Great work]] that provides a share of herbs to every [[Herb garden]] in Kallavesa owned by a citizen of Wintermark. As standard this is a selection of random herbs however the Grimnir of Wittal Grove can make an announcement in the Imperial Senate to indicate which variety of Herb they wish the herb masters to focus on.
 If the Grimnir selects true vervain, [[Bladeroot]], [[Marrowort]], or [[Imperial Roseweald]] the entire 90 herb bounty will be of this type. If they pick [[Cerulean Mazzarine]] - a herb that struggles to prosper in Wintermark, even in the relatively temperate climate of Kallavesa - then the bounty is reduced to 45 herbs but again, every Herb garden will benefit from added production of the rare healing herb. The Grimnir of Wittal Grove only needs to make an announcement to change the Herb, either to a specific type or to return to no particular herbal focus.
 No voting is possible by the Senate at this point, as the power has been delegated to the Grimnir of Wittal Grove. The [[Imperial Synod]] may, however, choose to exercise their [[Veto]] over the Grimnir's decision.
 ## [[Appointment]]

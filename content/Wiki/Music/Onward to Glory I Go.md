@@ -33,7 +33,7 @@ I'll follow my [[Earl]] till the end.
 I'll tell all the world proudly
 He’s Lord Orzel! He’s my friend!
 Hear me now
-Oh thou bleak and [[Barbarian]] world,
+Oh thou bleak and Barbarian world,
 Thou art base and debauched as can be;
 And the knights with their banners all bravely unfurled
 Now hurl down their gauntlets to thee!

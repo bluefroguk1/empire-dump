@@ -13,7 +13,7 @@ revision_id: 98722
 
 __NOTOC__
 ## Overview
-The Chatelaine of the Reapers' Repose is an [[Imperial Title]] aWarded to a citizen of [[The League]]. The Reapers' Repose was Commissioned by the [[Imperial Senate]] during the Autumn Equinox 384YE following an [[Opportunity]] presented by Sovia Lahm von [[Temeschwar]]. Work was completed on the Reapers Repose shortly before the Winter Solstice 384YE.
+The Chatelaine of the Reapers' Repose is an [[Imperial Title]] aWarded to a citizen of [[The League]]. The Reapers' Repose was Commissioned by the [[Imperial Senate]] during the Autumn Equinox 384YE following an Opportunity presented by Sovia Lahm von [[Temeschwar]]. Work was completed on the Reapers Repose shortly before the Winter Solstice 384YE.
 ## Responsibilities
 The Chatelaine of the Reapers' Repose has a number of responsibilities; to oversee the running of the Reapers' Repose treatment centre, to provide virtuous counselling and therapeutic interventions to Imperial citizens, and to ensure that strict Visitor-counsellor confidentiality is maintained. In addition if the Reapers' Repose were to be threatened in any way, it would be the responsibility of the Chatelaine to deal with those threats.  Likewise, if any Opportunity relating to the Repose presented itself, they would make any decisions needed to take advantage of it.
 ## Powers

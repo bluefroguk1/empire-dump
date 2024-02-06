@@ -12,7 +12,7 @@ revision_id: 106840
 ---
 
 ## Overview
-Questing knights are romantic figures in [[Dawn]], knights-errant who continue to pursue an adventurous lifestyle after passing their Test of Mettle, seeking greater [[Glory]] for themselves and their houses. They travel far and wide across Dawn - a quest isn't just a monster to kill or a people to free from [[Barbarian]] tyranny, after all, but a long and arduous journey to get there first.
+Questing knights are romantic figures in [[Dawn]], knights-errant who continue to pursue an adventurous lifestyle after passing their Test of Mettle, seeking greater [[Glory]] for themselves and their houses. They travel far and wide across Dawn - a quest isn't just a monster to kill or a people to free from Barbarian tyranny, after all, but a long and arduous journey to get there first.
 Questing knights strive to embody the high ideals not just of Dawn, but of the quest. If they come to a place where there is a wicked magistrate abusing their power, or a monster snatching children away, or an innocent young fellow about to be forced into a marriage he doesn't want, then it is their right and duty to right the wrong. Questing knights who ignore evil or danger that they meet along [[The Way]] are no better than mercenaries paid coin for their work. Most questing knights prefer to travel in the company of a [[Troubadour]], who can document their triumphs.
 Some questing knights form groups called Knightly orders. A [[Knightly order]] may create and display their own heraldry. Noble membership of most knightly orders is by invitation only, and orders often require solemn oaths, as they have a glorious reputation of their own to protect.
 ## Creating a [[Questing knight]]

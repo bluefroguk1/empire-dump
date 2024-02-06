@@ -13,7 +13,7 @@ revision_id: 90090
 
 ## Overview
 The [[Custodian of the Claw]] is an [[Urizen]] [[Imperial Title]] created following an announcement in Autumn 378YE by the [[Crystal [[Architect]] of the Spires]]. Expansion of the Caves of [[The Claw]] was completed shortly before the 379YE Summer Solstice. 
-During the Spring Equinox 380YE, a plague of crystal-eating [[Vermin]] saw the Senate [[Commission]] [[White granite]] Wards to help protect the Claw, which had the unexpected outcome of adding additional production to the [[Sinecure]]. 
+During the Spring Equinox 380YE, a plague of crystal-eating [[Vermin]] saw the Senate Commission [[White granite]] Wards to help protect the Claw, which had the unexpected outcome of adding additional production to the [[Sinecure]]. 
 ## Responsibilities
 The Custodian has no particular responsibilities; they simply receive a bounty of crystal mana from the Caves of the Claw in [[Morrow]]. If the Caves were to be threatened in any way, it would be the responsibility of the Custodian to deal with those threats.
 ## Powers

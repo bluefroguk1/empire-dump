@@ -13,7 +13,7 @@ revision_id: 106124
 ---
 
 ## Overview
-Constructed by order of ''Irina Vasillova Dukov'' as the [[Bearer of an Imperial Wayleave]], work on the construction of the Trade Exchange was completed shortly before the Summer Solstice 383YE. The [[Opportunity]] arose as part of the conquest of [[Ossium]], and was requested by the inhabitants of the town of Ketsov.
+Constructed by order of ''Irina Vasillova Dukov'' as the [[Bearer of an Imperial Wayleave]], work on the construction of the Trade Exchange was completed shortly before the Summer Solstice 383YE. The Opportunity arose as part of the conquest of [[Ossium]], and was requested by the inhabitants of the town of Ketsov.
 ## Responsibilities
 The [[Burgher of Ketsov]] is expected to ensure the [[Prosperity]] of the town by overseeing trade. If the Trade Exchange was ever directly threatened, the Burgher would be responsible for dealing with those threats - but also for making decisions about any Opportunity related to the Trade Exchange.
 ## Powers
@@ -26,7 +26,7 @@ Knightly Redoubts
 450 rings2 Knightly Redoubts
 700 rings3 Knightly Redoubts
 Measures
-140 rings8 dragonbone, 4 random [[Forest]] resources
+140 rings8 dragonbone, 4 random Forest resources
 340 rings16 dragonbone, 8 random forest resources
 600 rings24 dragonbone, 12 random forest resources
 ### [[Ministry]]

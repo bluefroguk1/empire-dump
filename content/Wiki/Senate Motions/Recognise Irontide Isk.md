@@ -20,6 +20,6 @@ Recognise and applaud the service of the orc Irontide Isk both for Senate securi
 * None
 ### Campaign Outcome
 * Irontide Isk was recognised and applauded by the Senate.
-OOC Note: One of the powers of the Senate is to reWard Imperial citizens. The Senate could have given Isk a material comMendation; it could have disbursed funds from the treasury directly  as a financial reward, or used treasury funds to [[Commission]] the a suitable magical item as a material reward.
+OOC Note: One of the powers of the Senate is to reWard Imperial citizens. The Senate could have given Isk a material comMendation; it could have disbursed funds from the treasury directly  as a financial reward, or used treasury funds to Commission the a suitable magical item as a material reward.
 OOC Note 2: The 100 Throne coin was on the field due to an OOC error. Profound Decisions policy is to maintain a clear divide between in-character and out-of-character matters. We are grateful to the player for their out-of-character [[Honesty]], and have put an out-of-character credit on their account character as thanks.
 __NOTOC__

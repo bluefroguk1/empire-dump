@@ -39,11 +39,11 @@ In the event a box is not claimed for whatever reason (the token has been lost, 
 These changes will ''not'' alter any specific trades agreed on in advance. For example, taking advantage of the ''Bailiffs of the Guttered Flame'' offer, or the various offers by Autumn assassins for the heads and hearts of Imperial citizens, will work as normal.
 ### A Market of Gold
 Golden Market of Aggido
-[[Commission]] Type: [[Ministry]]
+Commission Type: [[Ministry]]
 Location: Ashbrook, Anozel, or Gildenheim
 [[Cost]]: 30 [[Mithril]], 60 crowns, three months to construct
 Effect: Creates the position of ''Agent of the Golden Consortium'' who is able to purchase quantities of [[Vis]] from heralds of Ephisis.
-Time Limit: If the Golden Market of Aggido is not commissioned by the end of the Autumn Equinox 385YE the [[Opportunity]] is lost
+Time Limit: If the Golden Market of Aggido is not commissioned by the end of the Autumn Equinox 385YE the Opportunity is lost
 Restriction: The Golden Market of Aggido can only be commissioned by a [[Bearer of an Imperial Wayleave]]
 Opportunity: This commission has required elements; if any are not all fulfilled the commission does nothing
 Agent of the Golden Consortium

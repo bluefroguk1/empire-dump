@@ -21,7 +21,7 @@ Those of a rational persuasion do not believe the Gamble to be cursed.  Many of 
 Still, a wise Seat apportions the bounty of white granite provided by the Seat cautiously; is careful never to get into debt; and gives the actual quarry itself (and its workers) a wide berth.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of white granite which is theirs to do with as they will. If the Arratan Gamble were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Arratan Gamble, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of white granite which is theirs to do with as they will. If the Arratan Gamble were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Arratan Gamble, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Arratan Gamble comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

@@ -14,7 +14,7 @@ Fortunately, the [[Vigilance]] of the [[Assembly]] of Nine has set the [[Silent 
 
 The Silent Bell are a loose affiliation of pilgrims from every nation devoted to the virtue of Vigilance. In addition to the core membership there are supporters and affiliates in every part of [[The Empire]]. During the Summer Solstice, the Assembly of Nine sent the Silent Bell to investigate the dangerous group who call themselves the Heirs of Terunael - a timely decision as it turns out.
 
-The so-called Heirs of Terunael appear to be humans - predominantly with [[Briar]] [[Lineage]] - who wish to spread the influence of The the vallorn for some reason. There is some evidence that this group is just the latest iteration of a conspiracy that has been active in the Empire - especially among the Navarr - for years. Groups such as the Whispering Drays - a gathering of briars who sought some mad communion with the vallorn - may have been influenced by the Heirs of Terunael. There is some evidence that survivors of these groups, and others like them, have come together in loose alliance with the Heirs to put their various unhinged schemes into operation.
+The so-called Heirs of Terunael appear to be humans - predominantly with [[Briar]] Lineage - who wish to spread the influence of The the vallorn for some reason. There is some evidence that this group is just the latest iteration of a conspiracy that has been active in the Empire - especially among the Navarr - for years. Groups such as the Whispering Drays - a gathering of briars who sought some mad communion with the vallorn - may have been influenced by the Heirs of Terunael. There is some evidence that survivors of these groups, and others like them, have come together in loose alliance with the Heirs to put their various unhinged schemes into operation.
 
 They are best known for their involvement in the recent chaos in Liathaven and Brocéliande, working in collusion with the Children of Yaw'nagrah to spread the vallorns through those territories. With their defeat in Brocéliande, the assumption is that they will be forced to regroup and provide a degree of respite to the Empire... an assumption that could have been dangerously premature.
 
@@ -30,7 +30,7 @@ The first gathering of the Heirs of Terunael that the Silent Bell have identifie
 
 It has been some years since The the vallorn of Hercynia has been active, but its infrequent excursions have been of unmatched viciousness.
 
-[[Right now]], the Silent Bell can confirm as many as sixty Heirs of Terunael moving around the borders of Deer's Folly, with no way to tell how many more may be in the depths of the Region. The Heirs have already begun rousing the Ettercaps and vallornspawn that dwell in the dark heart of Hercynia. There have been a few scattered encounters already - a [[Steading]] in Summersend assaulted; a [[Striding]] in the Glen of Shadows decimated while pausing on the borders of the vallorn.
+[[Right now]], the Silent Bell can confirm as many as sixty Heirs of Terunael moving around the borders of Deer's Folly, with no way to tell how many more may be in the depths of the Region. The Heirs have already begun rousing the Ettercaps and vallornspawn that dwell in the dark heart of Hercynia. There have been a few scattered encounters already - a Steading in Summersend assaulted; a [[Striding]] in the Glen of Shadows decimated while pausing on the borders of the vallorn.
 
 The Silent Bell are also concerned that there are Heirs of Terunael - or sympathisers - hiding in plain sight in the steadings of Hercynia prepared to sow chaos through acts of sabotage and murder as soon as the vallornspawn begin to move. Even more worryingly, there have been reports of at least two groups of Varushkan cabalists coming along the eastern road into Treji before disappearing. The Silent Bell's resources are stretched, but it does appear at least one of these groups belonged to the ominously titled "Cabal of the Green Mother" from northern [[Volodmartz]].
 
@@ -42,7 +42,7 @@ The vallorn of Hercynia is contained in a single region, but its central positio
 
 If the Heirs of Terunael were only active in Hercynia, it would be bad enough... but the Silent Bell report that they are also gathering in Therunin. There are fewer Heirs here as far as the Silent Bell can ascertain - perhaps no more than fifty - but the vallorn of Therunin is considerably larger. In addition to the vallornspawn, the Heirs are riling up the great insects and there are reports of at least one vallorn-infected marshwalker along the shores of the Feverwater.
 
-Messengers were quickly dispatched to the [[Great [[Forest]] Orcs]] in Lower Tarn Valley to warn them of the coming danger.
+Messengers were quickly dispatched to the [[Great Forest Orcs]] in Lower Tarn Valley to warn them of the coming danger.
 
 Worse, while the Heirs themselves are not as concentrated here it appears that they are receiving additional support from the Children of Yaw'nagrah. A Urizeni coven of briar magicians and Sentinels from Peregro have come down out of the mountains and launched a precipitous attack against Peakedge Stead.
 

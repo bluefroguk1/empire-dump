@@ -38,7 +38,7 @@ As they described them in their duty.
 When the orcs came up the hill,
 With swords and shields and maces,
 The brave heroes held their ground,
-Against the hundred [[Barbarian]] faces.
+Against the hundred Barbarian faces.
 The Flowers fell on by one by one,
 The bright lives ended and plucked,
 But the hill stayed with [[Semmerholm]],

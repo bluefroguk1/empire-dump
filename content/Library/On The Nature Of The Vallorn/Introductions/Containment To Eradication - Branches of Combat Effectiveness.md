@@ -73,7 +73,7 @@ Should the worst happen and one of you fall then the body must be retrieved for 
 
 There are several items that are of use in the fight against The Vallorn that people should familiarise themselves with to aid in their battle preparations:
 
-*[[Imperial Roseweald]]* - This [[Herb]] allows a trained physic to remove the effects of venoms. This is of obvious use in removing the effects of a Vallorn miasma. However, within a miasma you will suffer re-infection.
+*[[Imperial Roseweald]]* - This Herb allows a trained physic to remove the effects of venoms. This is of obvious use in removing the effects of a Vallorn miasma. However, within a miasma you will suffer re-infection.
 
 *Bloodharrow Philtre* - This is an apothecary [[Potion]] that you can drink that will have the same effects as Imperial Roseweald administered by a physic. This is a very useful potion to carry with you. This can be recognised as follows - This translucent red liquid has tiny white particles suspended in it. It has a spicy scent, and a tiny amount on your tongue or your finger tingles unpleasantly for a moment.
 

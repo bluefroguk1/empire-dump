@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Cabalists
-draft: False
+draft: false
 revision_date: 2022-04-09 23:47:49+00:00
 revision_id: 88346
 ---
 
-#REDIRECT [[Varushka magical traditions#Cabalists]]
+#REDIRECT Varushka magical traditions#Cabalists

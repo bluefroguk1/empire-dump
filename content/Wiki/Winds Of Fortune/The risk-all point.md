@@ -43,7 +43,7 @@ The Senate requested that the civil service prepare an [[Appraisal]] both of the
 ## The Pirates of Attar
 * [[Grendel]] pirates and privateers continue to raid Imperial shipping.
 * During the coming season all Fleets from [[Tassato]], [[Sarvos]], [[The Brass Coast]], [[Highguard]], or [[Urizen]] will suffer a 1 rank penalty to production if they engage in trade.
-* There is an [[Opportunity]] to put an end to the pirate attacks. You can read about it here.
+* There is an Opportunity to put an end to the pirate attacks. You can read about it here.
 The pirates of Attar - the orc independent captains of the Broken Shore - continue to harass merchant vessels operating out of the territories along the [[Bay of Catazar]]. An opportunity exists to put a stop the pirate raids - potentially for the foreseeable future. You can read about it here.
 ## Citadels of Axos
 * Axos is a signatory to the Liberty Pact.

@@ -12,7 +12,7 @@ revision_id: 96407
 ---
 
 __NOTOC__
-The Senate creates the new Synod [[Judgement]] of Virtuous [[Challenge]]. A Judgement of Virtuous Challenge may be raised against a Tenured [[Imperial Title]] where a priest believes there is a citizen whose Virtues, or Vision for that titled position, are superior to the incumbent's. The [[Assembly]] raising the Judgement must have oversight of that titled position. If the Judgement is upheld the position will be eligible for election at the following summit. The incumbent remains in post until that time. Any Tenured Imperial Title that has been challenged in this way may not be the subject of another such challenge until a year has passed but the title holder may still be Revoked in that time.
+The Senate creates the new Synod [[Judgement]] of Virtuous Challenge. A Judgement of Virtuous Challenge may be raised against a Tenured [[Imperial Title]] where a priest believes there is a citizen whose Virtues, or Vision for that titled position, are superior to the incumbent's. The [[Assembly]] raising the Judgement must have oversight of that titled position. If the Judgement is upheld the position will be eligible for election at the following summit. The incumbent remains in post until that time. Any Tenured Imperial Title that has been challenged in this way may not be the subject of another such challenge until a year has passed but the title holder may still be Revoked in that time.
 ## Overview
 * The motion proposes a new Judgement available to the [[Imperial Synod]]
 * Passed

@@ -28,4 +28,4 @@ CommissionProgress|Tournament_Grounds_of_Laroc
 ## Outcome
 * 50 thrones disbursed to [[Senator]] Astolat
 * Once complete the Tournament Grounds will function as a [[Great work]] that will provide a share of 743 rings to every Business in Astolat. The season it is completed the [[Castellan of [[Spiral]] Castle]] will be able to select up to a dozen Military units owned by a citizen of [[Dawn]] to be upgraded to rank 2. For the next year after it is completed any Dawnish [[Military unit]] can be upgraded for one less wain of [[Mithril]] less than the normal costs.
-* The [[Opportunity]] allows for the colour scheme and decorations for the tourney grounds to be specified as a neccessary detail; this decision lies with the Senator for Astolat who proposed the motion.
+* The Opportunity allows for the colour scheme and decorations for the tourney grounds to be specified as a neccessary detail; this decision lies with the Senator for Astolat who proposed the motion.

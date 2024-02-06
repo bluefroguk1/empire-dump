@@ -19,7 +19,7 @@ revision_id: 104910
 "We're too fast for those lumbering oxen," scoffed Alov. "They'd be stumbling around in the undergrowth while we were picking off the rest of them, and gone before the last body hit the ground."
 "I can't believe even you are that stupid, Alov," she said, her patience beginning to fray. He shot her a hurt look, as much from her tone as her words. "When a half dozen of them turn up with our arrows stuck in their necks, what do you think they'll do? Do you think they'll blame the crows? Start looking for husks with bows? Roust the Branocfolk? Be serious. They'll come straight to us, and they'll kill us."
 "Got to find us first," muttered Alov without looking at her. But he put his arrow back in its quiver and let his bow fall. "I know these woods better than they do."
-"And what about everyone else? Do you think the Varushkans will care ''which'' orcs shot their priest? What in all the wide [[Forest]] makes you think they'll care about something like that?"
+"And what about everyone else? Do you think the Varushkans will care ''which'' orcs shot their priest? What in all the wide Forest makes you think they'll care about something like that?"
 Alov mumbled something.
 "What was that?"
 He cleared his throat. "We could ask the Battlefed to protect us."
@@ -46,11 +46,11 @@ It's an open secret that since freeing their slaves, the Thule have been having 
 * Once complete, it would allow the title-holder to purchase up to 4 extra rings of [[Ilium]] from the Thule
 * These benefits would end if the Empire ever went to [[War]] with the Thule
 The High Path
-[[Commission]] Type: [[Ministry]].
+Commission Type: [[Ministry]].
 Location: [[Volodmartz]], Brez
 Cost: 8 white granite, 16 crowns, three months
 Effect: Allows the trade of food for ilium
-Time Limit: The [[Opportunity]] to commission the High Path is only available until the end of the Summer Solstice 385YE, and if work is not completed before the start of the Autumn Equinox 385YE the commission fails
+Time Limit: The Opportunity to commission the High Path is only available until the end of the Summer Solstice 385YE, and if work is not completed before the start of the Autumn Equinox 385YE the commission fails
 Time Limit: This commission has required elements; if any are not all fulfilled then it does nothing
 Trade with Volodmartz
 CostRed star Ilium
@@ -109,7 +109,7 @@ The warlocks have already secured the blessing of the Thule Ambassador to make t
 * It is possible to steal the secret of cultivating and preparing the red moss from the warlocks
 * The Varushkan or Highborn Assembly could use a mandate to steal the secret of red moss
 * The [[Shuttered Lantern]] could use a [[Declaration]] of [[Concord]] to steal the secret
-While visiting the Mirnatocz orcs, and examining the ''red moss'', a wagon raider named ''Urod Malok Malkeivitch'' comes away with a slightly different proposal in mind, one that is backed up by a Highborn unconquered named ''Bathsheba of Corous Cross''. It seems that the ''red moss'' is just a plant - albeit one like [[Realmsroot]] that needs careful cultivation in a specific environment. It is not possible to use the processed substance the warlocks are offering to work out how the [[Herb]] was grown and prepared. but Urod says it is possible to just flat-out ''steal'' the secret of the manufacture from Mirnatocz and replicate it elsewhere. 
+While visiting the Mirnatocz orcs, and examining the ''red moss'', a wagon raider named ''Urod Malok Malkeivitch'' comes away with a slightly different proposal in mind, one that is backed up by a Highborn unconquered named ''Bathsheba of Corous Cross''. It seems that the ''red moss'' is just a plant - albeit one like [[Realmsroot]] that needs careful cultivation in a specific environment. It is not possible to use the processed substance the warlocks are offering to work out how the Herb was grown and prepared. but Urod says it is possible to just flat-out ''steal'' the secret of the manufacture from Mirnatocz and replicate it elsewhere. 
 The Varushkan Synod could encourage their wagon raiders to carry out a ''discreet'' raid on the tower to steal the secret of red moss.
 Mandate|Mandate= Consequences are the price of [[Ambition]]. We send {named priest} with 25 doses of liao to urge the wagon-raiders to find a covert way to steal the secret of red moss from the Thule. No price is too high to realise our dreams.|Assembly=Varushkan National Assembly
 Velko Perunovich Razoradze has provided wording for an alternate mandate.

@@ -17,7 +17,7 @@ Ability to freely create mana producing Sinecures, funding for these Sinecures t
 Right of Address to Conclave once per summit.
 Title appointed by [[Declaration]] of [[Candidacy]] within ConclaveProposed by [[Volodmartz]], seconded by [[Madruga]]. 
 ### Overview
-* Create a title within the [[Imperial Conclave]] to [[Commission]] mana sinecures.
+* Create a title within the [[Imperial Conclave]] to Commission mana sinecures.
 * Passed
 ### Date
 * Autumn 379YE.

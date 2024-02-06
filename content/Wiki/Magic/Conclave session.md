@@ -39,7 +39,7 @@ In each case, the Civil Service announce the wording of the declaration and then
 Once the final declaration has been resolved, the session ends and any declarations that have passed come into force. If a session ends prematurely for any reason, remaining declarations are abandoned.
 ## Debating a Declaration
 * After presented is complete, the Civil Service will allow one minute for members of the Conclave to talk among themselves before the formal debate begins
-* The debate takes place over a series of rounds; each order has one [[Opportunity]] to participate in each round in strict order of Precedence, from smallest to largest
+* The debate takes place over a series of rounds; each order has one Opportunity to participate in each round in strict order of Precedence, from smallest to largest
 * At their order's appointed turn each grandmaster may choose to nominate a single speaker, to pass, or to move to vote
 * The debate ends immediately if all seven grandmasters declined to nominate or at the end of a round in which or half or more of the grandmasters moved to vote
 After the presentation is complete, the Civil Service allow one minute for members of the Conclave to discuss the declaration with each other before the formal debate begins. The debate takes place in rounds; each order has one chance to speak in each round, proceeding according to the Principle of Precedence, from the smallest to the largest.

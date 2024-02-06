@@ -12,7 +12,7 @@ revision_id: 105887
 ---
 
 __NOTOC__
-To [[Commission]] a money [[Sinecure]] in Sarcombe in the [[Mournwold]] named the Townsend Treasury. This will create a most glorious Marcher national title the 'Town Clerk of Sarcombe' to be appointed annually by unanimous vote of Marcher Senators at the Winter Solstice. All Costs to be provided (10 [[White granite]] and building costs) by Morgan Townsend
+To Commission a money [[Sinecure]] in Sarcombe in the [[Mournwold]] named the Townsend Treasury. This will create a most glorious Marcher national title the 'Town Clerk of Sarcombe' to be appointed annually by unanimous vote of Marcher Senators at the Winter Solstice. All Costs to be provided (10 [[White granite]] and building costs) by Morgan Townsend
 ## Overview
 * Constructs a Sinecure in the Mournwold.
 * Announcement by the [[Bearer of an Imperial Wayleave]]

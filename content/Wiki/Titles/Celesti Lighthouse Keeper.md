@@ -15,7 +15,7 @@ Following the [[Grendel]] conquest of [[Feroz]], this title cannot currently be 
 ### Overview
 The [[Celesti Lighthouse Keeper]] is an [[Imperial Title]] created by the Freeborn [[Civilian Commissioner]] in Winter 380YE. The Celesti lighthouse itself is built near the town of Oran, in Feroz; a stone tower topped with a massive beacon of polished [[Mithril]] mirrors.
 ### Responsibilities
-The Lighthouse Keeper is expected to ensure the Celesti lighthouse remains functional, providing a beacon to sailors along the coast of Feroz. They would also be the responsible for dealing with any threats to the Lighthouse - or in theory to Oran itself - but would also to deal with any [[Opportunity]] related to the Celesti lighthouse.
+The Lighthouse Keeper is expected to ensure the Celesti lighthouse remains functional, providing a beacon to sailors along the coast of Feroz. They would also be the responsible for dealing with any threats to the Lighthouse - or in theory to Oran itself - but would also to deal with any Opportunity related to the Celesti lighthouse.
 ## Powers
 Total Money SpentProduction
 7 Crowns8 mana crystals

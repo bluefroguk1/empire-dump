@@ -12,7 +12,7 @@ revision_id: 104741
 
 ## Overview
 [[Sarangrave]] is the south-western territory of [[The Mallum]]. It borders [[Therunin]], [[Zenith]], [[Axos]], and [[The Barrens]], as well as the [[Salt Flats of Sanath]]. It absolutely teems with life - where [[Ossium]] was grim and dour, strangled with dark Forests, Sarangrave is wide open and fecund. It is bounded to the south by the [[Mountains of the Moon]] and the peaks of Axos.
-There is a great deal of agriculture here - both crops and herd animals in great profusion. The Great [[Great [[Forest]] Orcs]] speak of the Sarangrave in dark tones. They say that there is something corrupt in the marsh, a malignant presence that the [[Druj]] commune with. Some speculate that it is perhaps related to the terrible spirit that occupies the great Ruins that lie along the northern river - the river that flows out of the Feverwater in Therunin.
+There is a great deal of agriculture here - both crops and herd animals in great profusion. The Great [[Great Forest Orcs]] speak of the Sarangrave in dark tones. They say that there is something corrupt in the marsh, a malignant presence that the [[Druj]] commune with. Some speculate that it is perhaps related to the terrible spirit that occupies the great Ruins that lie along the northern river - the river that flows out of the Feverwater in Therunin.
 There are three clans of Druj in Sarangrave; the south is dominated by the Thornwasp clan, the northern Regions are controlled by the Banded Snake, and the eastern regions are under control of the Marshlizard. These three powerful clans rule over a number of smaller clans, septs of subject orcs, and a few handfuls of humans.
 ## Economics
 It is likely that, were the territory conquered by [[The Empire]], it would experience similar problems to those encountered in Ossium with regard to establishing Commissions and the like. Sarangrave appears on the surface to be a very fertile territory - perhaps even on par with parts of [[The Marches]] - and it is likely that Farms would be readily established and prosper here.
@@ -74,7 +74,7 @@ Grim fens and dour marshes and dozens of streams and rivers feet into the Feverw
 ## OOC Notes
 * Every region except Bendol belongs to the Druj; this is a Druj territory
 * The Tower of the Skink is a rank four Fortification.
-* Strategic consideration: Thanks to the presence of the Feverwater, campaign armies cannot move west from Bloodwater Marsh to Therunin, nor can that region be invaded from the east, ''without'' an appropriate [[Opportunity]]. The lake also prEvents passage between Nesustak Forest and Bloodwater Marsh.
+* Strategic consideration: Thanks to the presence of the Feverwater, campaign armies cannot move west from Bloodwater Marsh to Therunin, nor can that region be invaded from the east, ''without'' an appropriate Opportunity. The lake also prEvents passage between Nesustak Forest and Bloodwater Marsh.
 ## Further Reading
 * The Mallum
 * [[Make it happen]] - Summer 384YE wind of fortune regarding [[Appraisal]] of the chances of creating an uprising in Sarangrave using the Spy network there.

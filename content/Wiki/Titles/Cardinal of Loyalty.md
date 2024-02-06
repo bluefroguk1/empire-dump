@@ -22,7 +22,7 @@ The Cardinal of Loyalty has the powers common to all cardinals: membership of th
 ### Virtue Appointments
 A virtue title might be designed in such a way that it is appointed by the Cardinal alone. Currently they have the power to appoint the [[Gatekeeper]] of Loyalty, an important position that controls the distribution of true [[Liao]].
 ### Additional Powers - The Eyes of Loyalty
-The Cardinal of Loyalty may possess additional powers, not shared with their fellow cardinals, either through the action of the Imperial Senate or through opportunities presented to them. During the Summer Solstice 383YE, in response to such an [[Opportunity]], the Assembly of Loyalty enacted a [[Mandate]] restating the nature of the virtue. 
+The Cardinal of Loyalty may possess additional powers, not shared with their fellow cardinals, either through the action of the Imperial Senate or through opportunities presented to them. During the Summer Solstice 383YE, in response to such an Opportunity, the Assembly of Loyalty enacted a [[Mandate]] restating the nature of the virtue. 
 As a consequence, the Cardinal gained the ability to reinforce another mandate - turning the "eyes of loyalty" on it - using their Judgement in the Loyalty Assembly. This ability initially lasted only for a year, but during the Spring Equinox 384YE, was made permanent.
 ## Appointment
 The Cardinal of Loyalty is appointed during the Autumn Equinox by the Assembly of Loyalty, and must be a member of that assembly. Selection is by a judgement of Appointment raised by the Tribune in the standard manner.

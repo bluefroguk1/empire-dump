@@ -16,7 +16,7 @@ The [[Civilian Commissioner]] for [[The Brass Coast]] will invest 16 wains of [[
 "The Keeper of the Celesti Lighthouse" will be a Freeborn [[Ministry]] Empowered to purchase mana directly from ship captains at rates set by the Civil Service.Approved by the Civilian Commissioner of the Brass Coast
 ### Overview
 * A Ministry that allows the purchase of mana crystals in Oran, Feroz
-* This motion was approved by the Civilian Commissioner of the Brass Coast using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of the Brass Coast using the legal power to Commission constructions delegated to them by the Senate
 * This construction follows on from a previous, unauthorised motion from Autumn 380YE
 ### Date
 * Winter 380YE

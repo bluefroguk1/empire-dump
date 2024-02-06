@@ -18,7 +18,7 @@ Lifetime [[Appointment]] by the [[Imperial Orcs]] Senators
 Approved by the [[Civilian Commissioner]] of the Imperial Orcs
 ### Overview
 * A Sinecure in Estermark, Skarsind
-* This motion was approved by the Civilian Commissioner of The Imperial Orcs using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of The Imperial Orcs using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Summer 380YE
 ### [[Cost]]

@@ -16,7 +16,7 @@ __NOTOC__
 To disburse funds for the completion of the Summer college, The Icy Crag of the [[Eternal]] Sun.
 Proposed by [[Miaren]], seconded by [[Miekarova]] 
 ### Overview
-* This motion follows on from a previous motion to [[Commission]] the construction of the Summer [[College of Magic]].
+* This motion follows on from a previous motion to Commission the construction of the Summer [[College of Magic]].
 * Withdrawn
 ### Date
 * Spring 380YE

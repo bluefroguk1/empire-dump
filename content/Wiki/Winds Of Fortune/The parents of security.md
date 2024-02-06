@@ -13,7 +13,7 @@ revision_id: 88737
 ---
 
 "You wanted to see me, Doctor Moretti?"
-[[The Doctor]] swallowed nervously and shuffled forWards. "Thank you so much for this [[Opportunity]], my illustrious prince, I am so grateful for this..." 
+[[The Doctor]] swallowed nervously and shuffled forWards. "Thank you so much for this Opportunity, my illustrious prince, I am so grateful for this..." 
 The merchant prince cut the nervous man off before he could finish his sentence. "Yes, yes, Doctor. I'm illustrious, you're grateful... Marvellous. Now I'm also very busy, so lets see your proposal, shall we?"
 "Sorry, sorry... my proposal, of course, of course! My proposal, yes..." he prattled on as he scrambled for his papers, all the time desperately telling himself not to prattle so as not to annoy [[The Prince]]. In his haste, he dropped the plans, his hands were shaking so much.
 With a click of the prince's fingers the beautiful cicisbeo swooped down, and snatched the plans from the floor. Before he could react she had placed them in her prince's hands. The prince unrolled the scrolls and began to study them carefUlly.
@@ -34,7 +34,7 @@ The Arsenal would require 100 wains of white granite and 30 wains of [[Weirwood]
 * Thirdly, it would allow naval construction to take place, just as a shipyard does, following all the normal rules.
 * Finally, and perhaps most importantly, it would allow the League to raise and maintain an Imperial navy, the core of which would be supported by the maritime guilds of Sarvos. As long as the Region of Cigno remained under League control, they would be able to support the navy, regardless of what other territory they might gain or lose. If they lost control of Cigno, however, the navy would be assumed to have insufficient supply and begin to deteriorate.
 We acknowledge the [[Loyalty]] and [[Courage]] of the people of Sarvos in defending their home. We encourage them to show their [[Pride]] and [[Prosperity]] by rebuilding their city with vigour. 
-At the moment, there is some enthusiasm among the Guilds of Sarvos for the Arsenal and Dockyard, but that may not last much beyond the end of the year - memories can be short in the League - so the opportunity to [[Commission]] this construction is available only until the end of the Winter Solstice.
+At the moment, there is some enthusiasm among the Guilds of Sarvos for the Arsenal and Dockyard, but that may not last much beyond the end of the year - memories can be short in the League - so the opportunity to Commission this construction is available only until the end of the Winter Solstice.
 ## A Chain Against Chains
 * An opportunity to construct a great [[Fortification]] to protect the city of Sarvos from future Grendel invasion
 The Arsenal of Francesca di Sarvos is not the only large-scale building project being discussed in the city, however. When the Grendel invaded, they did as little damage to the actual city as they could. It was not until the nights of rage, under the peculiar chaotic fog, that there was much actual destruction of property. In the months following the invasion, most of the destruction was repaired as the Sarvosans got on with their life. That said ... the ease with which the Grendel took control of the city still gives many of the residents nightmares. As a port city, Sarvos is very vulnerable to attack from the sea. Rebuilding is all very well, but when an armada of orcs could invade at any moment ...

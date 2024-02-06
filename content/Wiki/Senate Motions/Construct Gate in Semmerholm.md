@@ -19,7 +19,7 @@ To rebuild the [[Fortification]] known as ‘The Gate’ in [[Semmerholm]] by ac
 ## Date
 * Winter 381YE
 ## [[Cost]]
-* An [[Opportunity]] applies
+* An Opportunity applies
 * 160 wains of [[White granite]]
 * No labour cost
 * 12 months to complete

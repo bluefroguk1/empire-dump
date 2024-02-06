@@ -11,7 +11,7 @@ revision_date: 2022-02-02 18:01:02+00:00
 revision_id: 86661
 ---
 
-To [[Commission]] a mana [[Ministry]] in [[Tassato]]
+To Commission a mana [[Ministry]] in [[Tassato]]
 The Tassato Mana Exchange
 Proposed by Tassato, Seconded by [[Kahraman]] 
 ### Overview

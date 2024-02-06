@@ -13,7 +13,7 @@ revision_id: 97255
 
 Following the liberation of [[Skarsind]] by Imperial troops in 377YE, these resources were presented to the Military council for assignment as [[Spoils of War]]
 ===Goeki Expanses=== 
-Dragonbone [[Forest]] / Rank 4 
+Dragonbone Forest / Rank 4 
 A wide expanse of forest in the hinterlands of the Skogei Glens is particularly rich in dragonbone. A twisting maze of interconnected paths forms a network throughout the area along which collectors pick their way, searching the undergrowth for deposits of the valuable material.
 ### Solvihill Beggarwood Barrens
 Beggar's Lye Forest / Rank 2

@@ -12,11 +12,11 @@ revision_id: 86115
 ---
 
 __NOTOC__
-To redistribute the bounty of herbs granted by the [[Gardens of High Chalcis]] to the [[Great [[Forest]] Orcs]].
+To redistribute the bounty of herbs granted by the [[Gardens of High Chalcis]] to the [[Great Forest Orcs]].
 Proposed by [[Reikos]], Seconded by [[Necropolis]]. 
 ### Overview
 * This motion was to use the Gardens of High Chalcis to provide support to the orcs of the Great Forest  currently resident in [[Therunin]]
-* It concerns an [[Opportunity]] presented here.
+* It concerns an Opportunity presented here.
 * Passed
 ### Date
 * Autumn 381YE

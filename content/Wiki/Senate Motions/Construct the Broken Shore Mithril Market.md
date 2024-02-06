@@ -12,7 +12,7 @@ revision_id: 94631
 ---
 
 __NOTOC__
-I, Octavius of Damakan's Forge, request the [[Commission]] of the [[Ministry]] the Broken Shore [[Mithril]] Market to be built in Cargo for the purpose of exchanging [[Weirwood]] for mithril.
+I, Octavius of Damakan's Forge, request the Commission of the [[Ministry]] the Broken Shore [[Mithril]] Market to be built in Cargo for the purpose of exchanging [[Weirwood]] for mithril.
 The position of [[Broker of the Broken Shore]] is to be appointed by the Tally of Votes by [[Urizen]] national [[Mana site]] holders, to be appointed on a yEarly basis.
 The commission is self funded
 ## Overview

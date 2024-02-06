@@ -20,7 +20,7 @@ To expand and upgrade the [[Navarr]] national [[Sinecure]] ‘the House of Barbs
 ## Date
 * Summer 382YE
 ## [[Cost]]
-* This [[Commission]] uses standard costs.
+* This Commission uses standard costs.
 ## PrOgress
 * 6 wains of [[White granite]] and 12 crowns provided by Meredith Nighthaven after the Autumn Equinox 382YE.
 ## Outcome

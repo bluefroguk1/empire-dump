@@ -44,7 +44,7 @@ There is, however, a problem. The Senate recently Commissioned a set of docks in
 ## Citadels of [[Axos]]
 * Any character with a Congregation can sell [[Liao]] in downtime for [[18 Rings]] a dose (rather than the more usual 12)
 Word from traders visiting the Towers of Kantor is that the Axou attitude towards the Empire remains broadly positive. Several of the more well-connected merchants speak particularly highly of Tarquinius of Ankarien (the current Imperial [[Ambassador to Axos]]).
-The Axou continue to pay over the odds for Liao. While there are still some voices concerned about what use it might be being put to, the price remains half again as high as it has been in recent years. The [[Imperial Synod]] could still use a [[Statement of Principle]] to encourage or discourage the trade of liao to Axos, and if the statement passed with a greater majority, it might influence the outcome of this [[Opportunity]]. Likewise, the [[Imperial Senate]] may pass a [[Senate motion]] to aMend the law regarding the trade of liao to the Axou - making it illegal - in which case they could remove this opportunity completely.
+The Axou continue to pay over the odds for Liao. While there are still some voices concerned about what use it might be being put to, the price remains half again as high as it has been in recent years. The [[Imperial Synod]] could still use a [[Statement of Principle]] to encourage or discourage the trade of liao to Axos, and if the statement passed with a greater majority, it might influence the outcome of this Opportunity. Likewise, the [[Imperial Senate]] may pass a [[Senate motion]] to aMend the law regarding the trade of liao to the Axou - making it illegal - in which case they could remove this opportunity completely.
 ## [[Principalities of Jarm]]
 * The northern port of Kavor will supply an additional ingot of green iron in the coming season.
 * The southern port of Vezak will supply an additional crystal mana to each visiting ship.
@@ -75,7 +75,7 @@ The Empire is technically at peace with three of the nearby orc nations - althou
 ### Thule
 The northern orcs have declined to recognise the recently appointed Ambassador to the Thule, Juha the Cavespider. Their emissary in Void, Rak Who-Speaks-For-The-Dragons-United has suggested that while the Thule will continue to deal with the "respected Varushkan warlock", they are not prepared to recognise his title until such time as the Empire either builds an appropriate Embassy somewhere in northern Varushka, or amends the title such that it is appointed by the Varushkans and not by the Imperial Senate.
 The Dragons have not, at this time, withdrawn their offer to participate in the [[Northern trade network]], nor their interest in acquiring the remnants of the [[Runeforge]] beneath Gildenheim, but their mild dissatisfaction over the matter of the Ambassador is obvious.
-### The [[Great [[Forest]] Orcs]]
+### The [[Great Forest Orcs]]
 The orcs of the Great Forest, and their human allies, are still in [[Therunin]]. The situation is not substantially changed from where it was last season, save that the orcs and the Empire are now actively involved in discussion of a treaty. For the time being, they show no signs of moving, but that could change at any moment.
 ## OOC Note
 As always, these opportunities are significantly more volatile than most. The decisions of Imperial citizens during the coming summit have the potential to significantly alter relations between nations; we will reiterate the exact state of play when Downtime opens after the event.

@@ -13,7 +13,7 @@ stub
 You've all fools and [[Briar]]-brains! This is another sop to them bloody mummers in The Mountains, or I'm no brewer. It's [[Folly]] to pass this thing. Them that pay the piper will call the tune.
 Walter Brewer, [[Senator]] for [[Upwold]]
 ## Overview
-Because of the great Costs involved in creating a structure using [[Mithril]], [[Weirwood]], or [[White granite]], most Commissions are built to provide important practical benefits. A folly is the [[General]] term for any [[Commission]] that is explicitly designed ''not'' to provide any apparent benefits.
+Because of the great Costs involved in creating a structure using [[Mithril]], [[Weirwood]], or [[White granite]], most Commissions are built to provide important practical benefits. A folly is the [[General]] term for any Commission that is explicitly designed ''not'' to provide any apparent benefits.
 Most follies are straightforWard endeavours, statues created to celebrate some great accomplishments  of a nation, or more cynically the reputation of one of it's senators. They are ideal to create suitable monuments to memorialise those who have died in battle.
 ## Senate Commissions
 The [[Imperial Senate]] may pass a motion of Commission for the construction of a folly. The senate must select a Territory, and a Region within that territory, where the folly will be constructed.

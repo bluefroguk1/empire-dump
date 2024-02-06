@@ -39,7 +39,7 @@ In Winter 384YE, the [[Eternal]] [[Sung]] offered to help the Empire construct a
 Tempest Jade Mine / Rank 2
 The canyon of Procella Viridis in Cinion was only discovered three years before the Grendel invasion, uncovered by landslides resulting from a freak thunderstorm. The tempest jade here was worked by ushabti and then polished by master artisans seeking perfection of their craft. Further landslides have led to the loss of one end of the box canyon and its resources, though enough remains to provide a decent quantity of the material for those seeking its use.
 ## Solen's Garden
-[[Iridescent gloaming]] [[Forest]] / Rank 3
+[[Iridescent gloaming]] Forest / Rank 3
 Amidst the ruined Spire of Solen's Doubt, lingering magical energies have encouraged a growth of trees and foliage more common to the once well-tended lower slopes. Growing lazily through the maze of broken white marble, they have provided a haven for iridescent butterflies, in numbers rarely seen within the Empire. The feeling of solitude and loneliness in the abandoned Spire during the day is overwhelming; the many-hued beauty of the night garden is breathtaking. The Grendel appear to be giving the part of Apstrus around Solen's Doubt a wide berth, and the civil service believe the Forest can be safely operated as long as the new owner is discreet.
 ## Damakan Bladeworks
 Business / Rank 4

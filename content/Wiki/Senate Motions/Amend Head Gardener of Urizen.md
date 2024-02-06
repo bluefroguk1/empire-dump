@@ -22,4 +22,4 @@ The High Gardener of [[Urizen]] will be elected annually by the Urizen National 
 * The title would have been available for [[Appointment]] again during the Autumn Equinox 382YE, had the [[Druj]] not burnt it down after the Winter Solstice 381YE.
 ### Constitution
 As the title previously had tenure, the current title holder will continue in the role until a year has passed since the amendment, barring [[Revocation]]. The title will next be available to appoint in Autumn 382YE.
-While the Civilian Commissioners were unable to [[Commission]] anything appointed by the [[Imperial Synod]], the [[Imperial Senate]] can amend those titles as they see fit.
+While the Civilian Commissioners were unable to Commission anything appointed by the [[Imperial Synod]], the [[Imperial Senate]] can amend those titles as they see fit.

@@ -1,73 +1,76 @@
 ---
-revision_id: 105703
-revision_date: 2023-09-18 12:58:27+00:00
-tags: ['Recent-History', 'History']
-draft: False
+IgnoreLinking: true
 Title: Recent history
-aliases: ['Recent_history']
-IgnoreLinking: True
+aliases:
+- Recent_history
+draft: false
+revision_date: 2023-09-18 12:58:27+00:00
+revision_id: 105703
+tags:
+- Recent-History
+- History
 ---
 
 ## Overview
-The following are summaries of the [[History|history]] of [[The Empire|the Empire]] since the death of [[Empress Britta]] in 376 YE.
-A list of the seasons when each [[Imperial Title|Imperial title]] is elected can be found in the [[Election schedule]]. 
-To just see the name of the current character holding a particular title then please refer to the [[Current Imperial titles]] page.
+The following are summaries of the history of the Empire since the death of Empress Britta in 376 YE.
+A list of the seasons when each Imperial title is elected can be found in the Election schedule. 
+To just see the name of the current character holding a particular title then please refer to the Current Imperial titles page.
 ## 385
-### [[Winter]] Solstice
+### Winter Solstice
 * 385YE Winter Solstice interlude
-### [[Autumn]] Equinox
-* 385YE Autumn Equinox [[Imperial Elections|Imperial elections]]
-* 385YE Autumn Equinox [[Senate]] sessions
-* 385YE Autumn Equinox [[Synod]] judgements
-* 385YE Autumn Equinox [[Conclave]] sessions
-* 385YE Autumn Equinox [[Winds of Fortune|winds of fortune]]
-* 385YE Autumn Equinox winds of [[War|war]]
-* 385YE Autumn Equinox [[Event schedule|event schedule]]
+### Autumn Equinox
+* 385YE Autumn Equinox Imperial elections
+* 385YE Autumn Equinox Senate sessions
+* 385YE Autumn Equinox Synod judgements
+* 385YE Autumn Equinox Conclave sessions
+* 385YE Autumn Equinox winds of fortune
+* 385YE Autumn Equinox winds of war
+* 385YE Autumn Equinox event schedule
 * 385YE Autumn Equinox interlude
-### [[Summer]] Solstice
-* 385YE Summer Solstice [[Imperial Elections|Imperial elections]]
+### Summer Solstice
+* 385YE Summer Solstice Imperial elections
 * 385YE Summer Solstice Senate sessions
 * 385YE Summer Solstice Synod judgements
 * 385YE Summer Solstice Conclave sessions
-* 385YE Summer Solstice [[Winds of Fortune|winds of fortune]]
-* 385YE Summer Solstice winds of [[War|war]]
+* 385YE Summer Solstice winds of fortune
+* 385YE Summer Solstice winds of war
 * 385YE Summer Solstice event schedule
 * 385YE Summer Solstice interlude
-### [[Spring]] Equinox
-* 385YE Spring Equinox [[Imperial Elections|Imperial elections]]
+### Spring Equinox
+* 385YE Spring Equinox Imperial elections
 * 385YE Spring Equinox Senate sessions
 * 385YE Spring Equinox Synod judgements
 * 385YE Spring Equinox Conclave sessions
-* 385YE Spring Equinox [[Winds of Fortune|winds of fortune]]
-* 385YE Spring Equinox winds of [[War|war]]
+* 385YE Spring Equinox winds of fortune
+* 385YE Spring Equinox winds of war
 * 385YE Spring Equinox event schedule
 * 385YE Spring Equinox interlude
 ## 384
 ### Winter Solstice
-* 384YE Winter Solstice [[Imperial Elections|Imperial elections]]
+* 384YE Winter Solstice Imperial elections
 * 384YE Winter Solstice Senate sessions
 * 384YE Winter Solstice Synod judgements
 * 384YE Winter Solstice Conclave sessions
-* 384YE Winter Solstice [[Winds of Fortune|winds of fortune]]
-* 384YE Winter Solstice winds of [[War|war]]
+* 384YE Winter Solstice winds of fortune
+* 384YE Winter Solstice winds of war
 * 384YE Winter Solstice event schedule
 * 384YE Winter Solstice interlude
 ### Autumn Equinox
-* 384YE Autumn Equinox [[Imperial Elections|Imperial elections]]
+* 384YE Autumn Equinox Imperial elections
 * 384YE Autumn Equinox Senate sessions
 * 384YE Autumn Equinox Synod judgements
 * 384YE Autumn Equinox Conclave sessions
-* 384YE Autumn Equinox [[Winds of Fortune|winds of fortune]]
-* 384YE Autumn Equinox winds of [[War|war]]
+* 384YE Autumn Equinox winds of fortune
+* 384YE Autumn Equinox winds of war
 * 384YE Autumn Equinox event schedule
 * 384YE Autumn Equinox interlude
 ### Summer Solstice
-* 384YE Summer Solstice [[Imperial Elections|Imperial elections]]
+* 384YE Summer Solstice Imperial elections
 * 384YE Summer Solstice Senate sessions
 * 384YE Summer Solstice Synod judgements
 * 384YE Summer Solstice Conclave sessions
-* 384YE Summer Solstice [[Winds of Fortune|winds of fortune]]
-* 384YE Summer Solstice winds of [[War|war]]
+* 384YE Summer Solstice winds of fortune
+* 384YE Summer Solstice winds of war
 * 384YE Summer Solstice event schedule
 * 384YE Summer Solstice interlude
 ### Spring Equinox

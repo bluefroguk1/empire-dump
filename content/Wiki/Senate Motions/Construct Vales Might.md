@@ -12,7 +12,7 @@ revision_id: 86474
 ---
 
 __NOTOC__
-I, the [[Civilian Commissioner]] of [[Wintermark]], [[Commission]] the construction of Vales Might, a [[Sinecure]] in Woodheath, [[Hahnmark]] to produce crystal mana. Approved by the Civilian Commissioner of Wintermark
+I, the [[Civilian Commissioner]] of [[Wintermark]], Commission the construction of Vales Might, a [[Sinecure]] in Woodheath, [[Hahnmark]] to produce crystal mana. Approved by the Civilian Commissioner of Wintermark
 ### Overview
 * A Sinecure that produces mana crystals in Woodheath, Hahnmark
 * This motion was approved by the Civilian Commissioner of Wintermark using the legal power to commission constructions delegated to them by the Senate

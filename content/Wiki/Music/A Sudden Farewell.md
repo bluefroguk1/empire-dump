@@ -62,7 +62,7 @@ But the dance will continue
 With other [[Heroes]].
 Verse 5 (Navarr)
 Then let us make our rest,
-And lie in the [[Forest]],
+And lie in the Forest,
 And let us show our trust,
 In those who follow.
 Let this be a lesson,

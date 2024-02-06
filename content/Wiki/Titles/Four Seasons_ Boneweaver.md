@@ -14,7 +14,7 @@ revision_id: 106158
 ## Overview
 The Four Season's [[Boneweaver]] is an [[Imperial Title]] authorised by the [[Imperial Senate]] in Autumn 381YE. The Boneweaver oversees the Weavers' Market in [[Skarsind]] , built on the Ruins of the Four-Seasons Market of Estermark.
 ### Responsibilities
-The Four Seasons Boneweaver is expected to ensure the Weavers' Market continues to serve weavers and reavers alike, providing a place for them to trade their Wares. As custodian of the [[Ministry]] they would also be the responsible for dealing with any threats to the Market, as well as resolving any [[Opportunity]] that arises.
+The Four Seasons Boneweaver is expected to ensure the Weavers' Market continues to serve weavers and reavers alike, providing a place for them to trade their Wares. As custodian of the [[Ministry]] they would also be the responsible for dealing with any threats to the Market, as well as resolving any Opportunity that arises.
 ## Powers
 ### Reavers' Mana
 Mana Crystals

@@ -28,6 +28,6 @@ Names as following: [[Legacy of Thorns]] poison: ‘Legionnaire’s Stare’ ; S
 * [[The Blade]]-[[Venom]] ''Legionnaire's Stare'' has been made available to anyone who has mastered the [[Legacy]] of Thorns.
 * Several of these potions have been subject to [[Interdiction]] by the [[Imperial Conclave]].
 ** The entire Double-sided Blade. This refers to the potions known as "Two-bladed Knife" in Imperial lore.
-** The Potion of Oakenshield. Oakenshield is the name the [[Great [[Forest]] Orcs]] give to Weakening Sun. It is not clear why this potion has been interdicted seperately to the Two-bladed Knife.
+** The Potion of Oakenshield. Oakenshield is the name the [[Great Forest Orcs]] give to Weakening Sun. It is not clear why this potion has been interdicted seperately to the Two-bladed Knife.
 ## Constitution
 * The [[Speaker for the Senate]] notes that this is  the second motion that was seconded by [[Proxy]] [[Senator]] Kallavesa during the Autumn Equinox senate sessions. The matter has been handed to the Magistrates to investigate. Anyone with information relating to the case is enCouraged to speak to a Magistrate.

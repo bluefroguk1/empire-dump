@@ -11,7 +11,7 @@ revision_id: 78009
 ---
 
 ## Overview
-Perhaps unsurprisingly, the Freeborn have a relaxed attitude to those with [[Lineage]], with two notable exceptions.
+Perhaps unsurprisingly, the Freeborn have a relaxed attitude to those with Lineage, with two notable exceptions.
 ## [[Cambion]]
 Cambions have a special place in Freeborn society, a tradition that dates back to the murky prehistory of the Freeborn. According to legend, a particularly clever cambion (whose origin is usually tied to the teller in some way) convinced the founders to sign a cleverly worded trade agreement. This binding oath is allegedly what has kept the Freeborn together as a people. This story has created a superstition that the blood of a cambion (usually a thumbprint) upon a document of trade will bring good fortune to the signatories. As a result, Freeborn cambion often study to become scriveners.
 ## [[Merrow]]

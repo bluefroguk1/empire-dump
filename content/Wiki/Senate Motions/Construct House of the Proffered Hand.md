@@ -12,7 +12,7 @@ revision_id: 85687
 ---
 
 __NOTOC__
-Motion: to [[Commission]] the House of the Preferred Hand ([[Liao]] [[Sinecure]]). [[Cost]]: 10 [[White granite]], 20 crowns (self funded.) Territory: Winterbourne, [[Astolat]]. Appointed by [[Dawn]] National [[Assembly]] for life.''Proposed by [[Semmerholm]], seconded by the Conscience.''
+Motion: to Commission the House of the Preferred Hand ([[Liao]] [[Sinecure]]). [[Cost]]: 10 [[White granite]], 20 crowns (self funded.) Territory: Winterbourne, [[Astolat]]. Appointed by [[Dawn]] National [[Assembly]] for life.''Proposed by [[Semmerholm]], seconded by the Conscience.''
 ## Overview
 * Creates a Sinecure in Astolat
 * Passed

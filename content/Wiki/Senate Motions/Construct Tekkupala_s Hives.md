@@ -12,7 +12,7 @@ revision_id: 104923
 ---
 
 __NOTOC__
-To [[Commission]] a [[Sinecure]] in Wittal, [[Kallavesa]]; Tekkupala's Hives. This sinecure will produce unique drugs and be built with the permission of the Keeper of the Bones Hives of [[Varushka]] whose bees will build the hives of Kallavesa. The sinecure will be held by the Tender of Tekkupala's Hives, appointed by the Senators of [[Wintermark]], as a national title. 
+To Commission a [[Sinecure]] in Wittal, [[Kallavesa]]; Tekkupala's Hives. This sinecure will produce unique drugs and be built with the permission of the Keeper of the Bones Hives of [[Varushka]] whose bees will build the hives of Kallavesa. The sinecure will be held by the Tender of Tekkupala's Hives, appointed by the Senators of [[Wintermark]], as a national title. 
 ## Overview
 * Constructs a sinecure in Kallavesa as per the [[Thousands or more]] wind of fortune
 * Passed

@@ -14,7 +14,7 @@ revision_id: 85642
 __NOTOC__
 Announcement by [[Imperial Master of Works]] to improve [[Fortification]] in [[Sarvos]].''Raised by the Imperial Master of Works.''
 ## Overview
-* This [[Commission]] increases the size of the Fortification Our Lady of [[Pride]] in Sarvos.
+* This Commission increases the size of the Fortification Our Lady of [[Pride]] in Sarvos.
 * The improvements will benefit from vigilant citizens as long as [[Materials]] are provided before the Winter Solstice.
 * Announcement.
 ## Date
@@ -26,7 +26,7 @@ Announcement by [[Imperial Master of Works]] to improve [[Fortification]] in [[S
 * One year to complete.
 ## PrOgress
 * 30 wains of white granite and 7 thrones 4 crowns provided by  Gancio after the Autumn Equinox 382YE.
-* 20 wains of white granite and 40 crowns effectively provided due to the Silent [[Sentinel]] [[Opportunity]].
+* 20 wains of white granite and 40 crowns effectively provided due to the Silent [[Sentinel]] Opportunity.
 * 25 wains of white granite provided by Landon of Longridge after the Spring Equinox 383YE.
 * A further 6 Thrones, 2 Crowns provided by Imperatrix Lisabetta after the Spring Eqinox 383YE.
 * 25 wains of white granite provided by Lieselotte van [[Holberg]] after Summer Solstice 383YE.

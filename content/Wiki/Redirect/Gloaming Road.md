@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Gloaming Road
-aliases: ['Gloaming_Road']
-draft: False
+aliases:
+- Gloaming_Road
+draft: false
 revision_date: 2020-08-05 10:51:42+00:00
 revision_id: 80414
 ---
 
-#REDIRECT [[Overseer of the Gloaming Road]]
+#REDIRECT Overseer of the Gloaming Road

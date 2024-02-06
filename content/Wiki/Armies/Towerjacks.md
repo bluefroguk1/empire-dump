@@ -25,5 +25,5 @@ TBC
 ## Composition
 TBC
 ## Army Quality : Engineer
-The soldiers of the Towerjacks were originally raised to take advantage of their expertise in siege tactics. Following an [[Opportunity]] in Spring 384YE, and the Towerjacks having returned to Holberg in triumph through the Holmauer Gate, they are [[The Empire]]'s only engineer army.
+The soldiers of the Towerjacks were originally raised to take advantage of their expertise in siege tactics. Following an Opportunity in Spring 384YE, and the Towerjacks having returned to Holberg in triumph through the Holmauer Gate, they are [[The Empire]]'s only engineer army.
 RecentElections|General_of_the_Towerjacks|the title of General of the Towerjacks

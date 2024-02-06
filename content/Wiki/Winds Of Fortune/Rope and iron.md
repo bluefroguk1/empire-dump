@@ -38,7 +38,7 @@ Senate BuildingSaturday6:00pm8:30pm
 Military CouncilSaturday10:00pm11:30pm
 ## Timing
 The delegates have instructed the civil service to arrange a short formal meeting on the Friday evening of the summit - to allow all parties to meet and to exchange terms. This will take place in the Senate starting at 9:00pm. The Senate is in session at 10:00pm so the formal meeting will end fifteen minutes before that time to allow the room to be cleared and prepared for the [[Senate session]].
-Formal negotiations will begin in the Senate at 6:00pm on the Saturday and continue until 8:30pm. There will then be a short break to allow the delegates to eat before the summit resumes at 10:00pm in the Military Council Tent. It is scheduled to last until 11:30pm on the Saturday night - to give members of the Imperial Senate an [[Opportunity]] to study what has been agreed before the final Senate session on Sunday.
+Formal negotiations will begin in the Senate at 6:00pm on the Saturday and continue until 8:30pm. There will then be a short break to allow the delegates to eat before the summit resumes at 10:00pm in the Military Council Tent. It is scheduled to last until 11:30pm on the Saturday night - to give members of the Imperial Senate an Opportunity to study what has been agreed before the final Senate session on Sunday.
 The civil service ask all citizens to take note that as the Senate building will now be in use at this time, the 7:00pm Bourse [[Public auction]] which is normally held in the Senate building will take place in the Military Council tent.
 The signatory nations... reject the practice of slavery, outlaw it amongst our citizens, and affirm that we will work toWards the abolition of slavery across the world. 
 ## Other Negotiations

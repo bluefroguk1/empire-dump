@@ -12,7 +12,7 @@ revision_id: 102678
 ---
 
 __NOTOC__
-A motion to construct the [[Temeschwar]] University Department of Architecture. Location: Hanuri, Temeschwar. [[Cost]]: 60 wains of [[White granite]], 30 wains of [[Weirwood]], 180 crowns, 6 months. Effect: creates [[Imperial Title]] "[[Master of Rings]]". Imperial Title: Master of Rings. [[Appointment]]: Annually, League [[Tally of the Votes]]. Removal: National League Asssembly/[[General]] [[Assembly]]/Assembly of Nine. Powers: One civilian build [[Commission]] a season, and access to a white granite, [[Mithril]], weirwood [[Ministry]]. Responsibility: To use their power to generate as much wealth as possible for the merchant-princes of Temschwar, and for [[The League]], as possible.
+A motion to construct the [[Temeschwar]] University Department of Architecture. Location: Hanuri, Temeschwar. [[Cost]]: 60 wains of [[White granite]], 30 wains of [[Weirwood]], 180 crowns, 6 months. Effect: creates [[Imperial Title]] "[[Master of Rings]]". Imperial Title: Master of Rings. [[Appointment]]: Annually, League [[Tally of the Votes]]. Removal: National League Asssembly/[[General]] [[Assembly]]/Assembly of Nine. Powers: One civilian build Commission a season, and access to a white granite, [[Mithril]], weirwood [[Ministry]]. Responsibility: To use their power to generate as much wealth as possible for the merchant-princes of Temschwar, and for [[The League]], as possible.
 ## Overview
 *Construct the Department of Architecture as detailed in the [[Back in the same place]] wind of fortune
 * Passed

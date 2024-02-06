@@ -10,7 +10,7 @@ tags:
 
 [[War]] is a furnace that forges only blood and tears. Fueled by wealth, it consumes it utterly. The only thing it creates is destitution.
 ## Overview
-[[Mithril]] is a highly precious lightweight, durable metal particularly valued in making armour and weapons for the Imperial Armies. It is one of the key [[Materials]] used by the Senate to raise and resupply armies or to [[Commission]] new buildings and is a vital component of many opportunities.
+[[Mithril]] is a highly precious lightweight, durable metal particularly valued in making armour and weapons for the Imperial Armies. It is one of the key [[Materials]] used by the Senate to raise and resupply armies or to Commission new buildings and is a vital component of many opportunities.
 Mithril is bought and sold in Imperial wains. These weigh about 500kg, with a volume of half a cubic metre. Due to the vast weight, trading is done in Bourse Certificates provided by the civil service.
 ## Bourse Certificate
 Mithril is too bulky to easily transport to [[Anvil]]. To help facilitate trade across [[The Empire]], the [[Imperial Civil Service]] provide Bourse certificates for every wain. Citizens can trade these certificates safe in the knowledge that they can be exchanged for a wain of mithril when the need arises.
@@ -35,7 +35,7 @@ There are few places in the Empire that produce mithril. A mithril seat can be a
 Elections for mithril seats are held at the Autumn Equinox each year.
 #lst:Archive:Bourse_Seats|mithril
 ### Recent History
-The [[Great Pits of Ennerlund]] were lost when [[Holberg]] was overrun and the mine - and its bounty of mithril - served the [[Druj]] instead. When the Empire began its triumphant liberation of Holberg, the [[Barbarian]] orcs destroyed the pumps and collapsed the pits during the Winter Solstice 378YE. 
+The [[Great Pits of Ennerlund]] were lost when [[Holberg]] was overrun and the mine - and its bounty of mithril - served the [[Druj]] instead. When the Empire began its triumphant liberation of Holberg, the Barbarian orcs destroyed the pumps and collapsed the pits during the Winter Solstice 378YE. 
 Work restoring the Great Pits of Ennerlund began in late Spring 379YE ... and almost immediately halted. The Druj destruction of the Great Pits had been a calculated act, and one with a tragic and horrific consequence. Following dozens of reports of the [[Unquiet dead]] haunting the pits, the Dawnish priest Ozren de Orzel of [[Dawn]] was dispatched by the [[Imperial Synod]] to exorcise the cleansing of the haunting spirits from the mines as work could not continue until the ghosts were laid to rest.  With the ghosts dealt with, it still took several seasons to restore the pits to working order. 
 The [[Legacy]] was lost to the [[Grendel]] in Summer 379YE. 
 The [[Pride]] of Ikka's Tears was discovered in Winter 379YE by chance by a civil servant exploring the Face of Ikka. The Senate paid to develop the Mine and also to commission a ministry to enCourage human miners to work the rich mines of Gulhule in [[Skarsind]], for the benefit of the [[Imperial Orcs]]. 

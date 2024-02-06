@@ -26,4 +26,4 @@ Bright-Threads Brass works. [[Hahnmark]]. Valasmark. [[Sinecure]] – orichalcum
 ## PrOgress
 CommissionProgress|Bright-Threads_Brass_Works
 ## Outcome
-* There are certain necessary details missing from this [[Commission]]. The civil service are waiting on the title and the method of [[Appointment]]
+* There are certain necessary details missing from this Commission. The civil service are waiting on the title and the method of [[Appointment]]

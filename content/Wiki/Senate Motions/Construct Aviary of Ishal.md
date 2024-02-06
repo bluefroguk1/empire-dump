@@ -14,12 +14,12 @@ revision_id: 85483
 __NOTOC__
 To rebuild the Aviary - Ishal which is in Skymark. To create the [[Imperial Title]] of of the [[Raven Seer]] to be appointed by unanimous decision by [[Wintermark]] Senators. Self funded by Wintermark citizens.''Proposed by [[Kallavesa]], seconded by [[Hahnmark]]''
 ## Overview
-* This motion takes advantage of the [[Opportunity]] to rebuild the Aviary of Ishal.
+* This motion takes advantage of the Opportunity to rebuild the Aviary of Ishal.
 * Passed
 ## Date
 * Summer 383YE
 ## Costs
-* This [[Commission]] uses non-standard costs.
+* This Commission uses non-standard costs.
 * 20 wains of [[Weirwood]]
 * 10 wains of [[White granite]]
 * 60 crowns

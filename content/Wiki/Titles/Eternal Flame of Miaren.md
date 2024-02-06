@@ -14,7 +14,7 @@ revision_id: 96796
 ## Overview
 [[Eternal Flame of Miaren]] is a [[Navarr]] [[Imperial Title]] created following an announcement in Winter 380YE by the [[Civilian Commissioner]]. [[The Chamber]] of the Flame was completed shortly before the 381YE Spring Equinox. The position of [[Eternal]] Flame is a [[Sinecure]] in [[Miaren]], requiring minimal responsibility but offering a regular income of crystal mana. 
 ## Responsibilities
-The Eternal Flame has no particular responsibilities; they simply receive a bounty of mana crystals from the Chamber of the Flame. If the Chamber itself were to be threatened in any way, it would be the responsibility of the Eternal Flame of Miaren to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Eternal Flame has no particular responsibilities; they simply receive a bounty of mana crystals from the Chamber of the Flame. If the Chamber itself were to be threatened in any way, it would be the responsibility of the Eternal Flame of Miaren to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
 The Eternal Flame has custodianship of a sinecure and receives an income of 9 crystal mana each season.

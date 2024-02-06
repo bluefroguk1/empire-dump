@@ -15,7 +15,7 @@ __NOTOC__
 To construct the Cinderpath Exchange in Mareholm, [[Casinea]]. This is a [[White granite]] [[Ministry]] and creates the title ‘Cinderpath [[Benefactor]]’, to be appointed by vote of the [[Congregation]] leaders of [[Highguard]] once a year. This will be self-funded.
 ''Proposed by [[Bastion]], Seconded by [[Miekarova]]''
 ## Overview
-* [[Commission]] a Ministry in Mareholm, Casinea that draws on an [[Opportunity]] presented by the benefactors of Highguard
+* Commission a Ministry in Mareholm, Casinea that draws on an Opportunity presented by the benefactors of Highguard
 * This announcement follows on from a previous, failed motion
 * Failed
 ## Date

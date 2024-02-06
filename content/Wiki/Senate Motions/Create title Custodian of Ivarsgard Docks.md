@@ -12,7 +12,7 @@ revision_id: 85693
 ---
 
 __NOTOC__
-To designate an area of Ivarsgard docks on [[The Semmerlak]] as a [[Herb]] [[Ministry]] ([[Cerulean Mazzarine]]). Requiring no construction. This will take advantage of an offer by the Bedelaar Huisbaas Vak Eck. This will create the title of ‘[[Custodian of Ivarsgard Docks]]’. This will be appointed by the Varushkan [[Forest]] owners as an annual [[Appointment]].''Proposed by [[Karsk]], seconded by the [[Dean of the Academy]].''
+To designate an area of Ivarsgard docks on [[The Semmerlak]] as a Herb [[Ministry]] ([[Cerulean Mazzarine]]). Requiring no construction. This will take advantage of an offer by the Bedelaar Huisbaas Vak Eck. This will create the title of ‘[[Custodian of Ivarsgard Docks]]’. This will be appointed by the Varushkan Forest owners as an annual [[Appointment]].''Proposed by [[Karsk]], seconded by the [[Dean of the Academy]].''
 ## Overview
 * Passed
 ## Date

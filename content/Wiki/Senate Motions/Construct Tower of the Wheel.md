@@ -14,7 +14,7 @@ revision_id: 89484
 __NOTOC__
 Announcement: Using the power of the Arcane [[Arcane Architect]], I shall construct a [[Sinecure]] in [[Tassato]]. It will produce mana from the realms of spring, autumn, winter, and night.''Announced by the Arcane [[Architect]].''
 ## Overview
-* This [[Commission]] comes as an [[Opportunity]] based on designs made by Richard of [[Holberg]] for a Sinecure in Tassato called the ''Tower of the Wheel
+* This Commission comes as an Opportunity based on designs made by Richard of [[Holberg]] for a Sinecure in Tassato called the ''Tower of the Wheel
 * Announcement.
 ## Date
 * Autumn 382YE

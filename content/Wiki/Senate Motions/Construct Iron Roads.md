@@ -12,10 +12,10 @@ revision_id: 94621
 ---
 
 __NOTOC__
-To build the Iron Roads across [[Varushka]]. [[Cost]] 200 WG, 400 Cr, 1 year to complete, one [[Commission]] to Senate.
+To build the Iron Roads across [[Varushka]]. [[Cost]] 200 WG, 400 Cr, 1 year to complete, one Commission to Senate.
 ''Proposed by [[Ossium]], seconded by [[Miekarova]]''
 ## Outcome
-* Construct the Iron Roads, taking advantage of the [[Opportunity]] presented by skilled Varushkan Roadbuilders
+* Construct the Iron Roads, taking advantage of the Opportunity presented by skilled Varushkan Roadbuilders
 * Passed at 100 thrones
 ## Date
 * Autumn 383YE

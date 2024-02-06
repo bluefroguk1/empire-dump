@@ -12,7 +12,7 @@ tags:
 
 Of course it was a lie you fool. Bruised apples have black cores. Stop yammering about virtue! It's a long list but unless you buggers added an eighth while I was eating lunch, [[Honesty]] ain't on it. It's an address - she can say what she sodding likes and that ain't a crime. Those with wits and a care to use them will decide for themselves what to believe.
 ## Overview
-A [[Senate address]] is an [[Opportunity]] for an individual to make a presentation to the [[Imperial Senate]] at a [[Senate session]]. Only a handful of Imperial Titles confer the right to address the Senate, but they traditionally include [[The Throne]] and the [[Master of the Imperial Mint]].
+A [[Senate address]] is an Opportunity for an individual to make a presentation to the [[Imperial Senate]] at a [[Senate session]]. Only a handful of Imperial Titles confer the right to address the Senate, but they traditionally include [[The Throne]] and the [[Master of the Imperial Mint]].
 The Senate may create [[New Imperial titles]] with this power if they wish; this is most appropriate where the holder of the title does not need to attend regular Senate sessions but may need to report regularly to the Senate.
 It is also possible to confer the right to make an address on a named citizen regardless of any [[Imperial Title]] held. This is usually expressed as an invitation for the individual to address the Senate.
 ## Limitations

@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: League hearth magic
-aliases: ['League_hearth_magic']
-draft: False
+aliases:
+- League_hearth_magic
+draft: false
 revision_date: 2012-08-30 15:34:07+00:00
 revision_id: 9445
 ---
 
-#REDIRECT [[The League hearth magic]]
+#REDIRECT The League hearth magic

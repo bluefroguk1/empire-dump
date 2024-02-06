@@ -12,7 +12,7 @@ revision_id: 85558
 ---
 
 __NOTOC__
-AMend the position of [[Master of the Koboldi]], to include the power to announce one [[Commission]] each season. The commissions must include [[Folly]], [[Fortification]], [[Ministry]], [[Great work]], [[Sinecure]], [[Runeforge]], College of [[College of Magic]].
+AMend the position of [[Master of the Koboldi]], to include the power to announce one Commission each season. The commissions must include [[Folly]], [[Fortification]], [[Ministry]], [[Great work]], [[Sinecure]], [[Runeforge]], College of [[College of Magic]].
 Administrative Motion 
 ### Overview
 * This motion refers to the powers of the ''Master of the Koboldi'' associated with the College of Engineering and Architecture.

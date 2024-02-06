@@ -15,12 +15,12 @@ __NOTOC__
  [[Senate motion]] to build Hylje floating hall on Rikkivesi, creating the position of Mediator of the Hyljehal. To be appointed by [[Wintermark]] Senators with consideration that the Hylje ask for a [[Suaq]] Mediator in good standing. This is a highly effective mana [[Ministry]], requires [[Weirwood]], and would show our thanks to the Hylje for their [[Assistance]] in the [[War]] with the [[Jotun]].
 ''Proposed by [[Hahnmark]], seconded by [[Kallavesa]]''
 ## Overview
-* Relates to the [[Opportunity]] to construct a floating hall on the lake of Rikkivesi, Skymark.
+* Relates to the Opportunity to construct a floating hall on the lake of Rikkivesi, Skymark.
 * Passed
 ## Date
 * Spring 383YE
 ## [[Cost]]
-* The [[Commission]] uses non-standard costs.
+* The Commission uses non-standard costs.
 * 12 wains of weirwood
 * 24 crowns in labour costs
 * 3 months to construct

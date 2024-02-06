@@ -19,7 +19,7 @@ That there be constructed a mana [[Ministry]] in [[Sarvos]], to take advantage o
 ## Date
 * Winter 381YE
 ## [[Cost]]
-* Taking advantage of this [[Opportunity]]
+* Taking advantage of this Opportunity
 * 12 [[Mithril]]
 * 24 crowns 
 * Three months to complete

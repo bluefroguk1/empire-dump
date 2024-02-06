@@ -14,7 +14,7 @@ revision_id: 101097
 This title lost its bounty of mana when the [[Druj]] destroyed the Tower of the Fall. 
 ## Overview
 The [[Keeper of the Tower of the Fall]] was an [[Urizen]] [[Imperial Title]] created following an announcement in Autumn 378YE by the [[Crystal [[Architect]] of the Spires]]. The position of Custodian was a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana.
-During the Spring Equinox 380YE, a plague of crystal-eating [[Vermin]] saw the Senate [[Commission]] [[White granite]] Wards to help protect the Tower, which had the unexpected outcome of adding additional production to the sinecure.
+During the Spring Equinox 380YE, a plague of crystal-eating [[Vermin]] saw the Senate Commission [[White granite]] Wards to help protect the Tower, which had the unexpected outcome of adding additional production to the sinecure.
 During the 381YE Druj invasion of [[Zenith]], the Tower of the Fall was destroyed by orc invaders.
 ## Responsibilities
 The Custodian was technically responsible for maintaining the Tower of the Fall; in practice though the day-to-day running and repair of the waterfall and pool lay in the hands of the civil service. The Keeper simply received a bounty of crystal mana from the Tower of the Fall in Zenith. 

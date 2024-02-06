@@ -14,7 +14,7 @@ revision_id: 86023
 To improve the [[Sinecure]] of Feverwater Lake, additionally to provide the [[Dredgemaster of Feverwater]] with the ability to approve one research request per season.Proposed by [[Miaren]], Seconded by [[Hercynia]]
 ## Overview
 * The Sinecure dedicated to the dredging of lake Feverwater in [[Therunin]] is to be improved
-* The Dredgemaster of Feverwater gains the ability to [[Commission]] one piece of [[Historical research]] each season.
+* The Dredgemaster of Feverwater gains the ability to Commission one piece of [[Historical research]] each season.
 ## Date
 * Spring 379YE
 ## Campaign Outcome

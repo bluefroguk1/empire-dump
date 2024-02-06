@@ -12,7 +12,7 @@ revision_id: 106336
 ---
 
 ## Overview
-The [[Crystal [[Architect]] of the Spires]] is an [[Imperial Title]] appointed by the Senators of [[Urizen]], Empowered to [[Commission]] structures that produce valuable crystal mana. The title was created at the Spring Equinox summit of 379YE, and was one of the titles aMended in Spring 380YE following the need to restrict the number of projects commissioned each season.
+The [[Crystal [[Architect]] of the Spires]] is an [[Imperial Title]] appointed by the Senators of [[Urizen]], Empowered to Commission structures that produce valuable crystal mana. The title was created at the Spring Equinox summit of 379YE, and was one of the titles aMended in Spring 380YE following the need to restrict the number of projects commissioned each season.
 As of the end of the Autumn Equinox 381YE, the Crystal Architect has commissioned three Sinecures: the Caves of [[The Claw]] in [[Morrow]], and the Tower of the Fall and the Storm Vault in [[Zenith]].
 ==Responsibilities== 
 The Crystal Architect is responsible for overseeing the creation of mana sinecures in Urizen. They can only authorise construction in [[Urizen Territories]], and they can only authorise the construction of structures that provide mana - not votes of any sort.

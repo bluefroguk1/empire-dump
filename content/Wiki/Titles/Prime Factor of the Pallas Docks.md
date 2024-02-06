@@ -15,7 +15,7 @@ revision_id: 102974
 Constructed by order of the [[Imperial Senate]], work was completed on this set of dedicated docks shortly before the Spring Equinox 381YE.
 The [[Prime Factor of the [[Pallas]] Docks]] oversees a [[Ministry]] that allows the purchase of [[Weirwood]] from the [[Principalities of Jarm]].
 ## Responsibilities
-The Prime Factor of the Pallas Docks is expected to ensure that the Magician-Prince of Pӓrnau Principality in Eastern Jarm continues to trade weirwood to [[The Empire]]. If the Pallas Docks were ever directly threatened, the Prime Factor would be responsible for dealing with those threats - but also for making decisions about any [[Opportunity]] related to the docks. The continued operation of the docks, and thus the ministry, requires that relations between the Empire and Jarm remain cordial - the Prime-factor has a vested interest in ensuring friendship between the two nations continues.
+The Prime Factor of the Pallas Docks is expected to ensure that the Magician-Prince of Pӓrnau Principality in Eastern Jarm continues to trade weirwood to [[The Empire]]. If the Pallas Docks were ever directly threatened, the Prime Factor would be responsible for dealing with those threats - but also for making decisions about any Opportunity related to the docks. The continued operation of the docks, and thus the ministry, requires that relations between the Empire and Jarm remain cordial - the Prime-factor has a vested interest in ensuring friendship between the two nations continues.
 ## Powers
 Total money spentProduction
 260 crowns7 wains of weirwood

@@ -15,7 +15,7 @@ A [[Senate motion]] forbidding the use of the Senate building for any further sy
 While the damage was slowly restored, relations with the orcs were damaged for decades afterWards. Those who had organized the invitations accused the survivors of instigating the riot - but their detractors pointed out that it just couldn't have been possible for the Visitors to have caused such devastation ''unless they had come prepared for it''.
 Possibly as a result of the turmoil, it would be another eighteen years before the final Symposium of the second century would be called.
 ## Overview
-At recent summits, the Tideborn [[Chapter]] have been advancing the idea that the [[Imperial Synod]] should host a [https://en.wikipedia.org/wiki/Symposium Symposium], an [[Opportunity]] for the priests of [[The Empire]] to discuss matters of Virtue and the soul. There has not been a symposium in many years - but the timing seems particularly apt now that [[The Throne]] is once again occupied.
+At recent summits, the Tideborn [[Chapter]] have been advancing the idea that the [[Imperial Synod]] should host a [https://en.wikipedia.org/wiki/Symposium Symposium], an Opportunity for the priests of [[The Empire]] to discuss matters of Virtue and the soul. There has not been a symposium in many years - but the timing seems particularly apt now that [[The Throne]] is once again occupied.
 ## Significance
 The civil service have drafted a schedule to a traditional format, to facilitate the decisions the Imperial Synod will need to consider if the symposium is to happen. The proposal is to hold the Symposium at the Autumn summit, but the first decision that the Synod will have to make is whether to authorize the discussion at all. 
 ### Authorization

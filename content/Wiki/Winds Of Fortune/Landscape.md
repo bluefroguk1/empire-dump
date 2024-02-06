@@ -26,12 +26,12 @@ During the Summer Solstice 385YE the Generals of the Military Council voted for 
 With the battle won and the area secured, the excitable heralds of the Bronze Artisan have been assisting the Civil Service in their assessment of the area making full use of the power of the Day [[Realm]] blanketing the Empire. And, as the heralds promised, some of the reWards look very promising indeed if the Empire is able to afford to develop this new, accessible mineral wealth.
 ## The Red Depths
 The Red Depths
-[[Commission]] Type: Special (Bourse Seat)
+Commission Type: Special (Bourse Seat)
 Location: Serra Damata, [[Kahraman]]
 [[Cost]]: 170 or 50 thrones and one season
 Effect: Creates the Bourse position of Master of the Red Depths
 Upkeep: 10 thrones
-Time Limit: The [[Opportunity]] is lost at the end of the Summer Solstice 386YE
+Time Limit: The Opportunity is lost at the end of the Summer Solstice 386YE
 Special: This commission costs 120 thrones less as a national position appointed by [[Tally of the Votes]]
 Master of the Red Depths
 Type: Imperial or National Bourse position

@@ -15,7 +15,7 @@ revision_id: 74536
 Tune by Kathryn Wheeler, lyrics by Kathryn Wheeler and Jude Reid
 Sheet [[Music]] is available [http://www.northshield.co.uk/KitsTunes/The CThe_Culloch_Boar.pdf here]
 High upon the Culloch fell
-In [[Forest]] thick and black as hell
+In Forest thick and black as hell
 Dwells a boar with eyes aglow
 To its lair none dares to go
 One cold winter, hard the ground

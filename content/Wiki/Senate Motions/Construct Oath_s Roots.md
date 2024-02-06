@@ -12,7 +12,7 @@ revision_id: 85501
 ---
 
 __NOTOC__
-To [[Commission]] the Oath’s Roots - A weirwo''Proposed by [[Kahraman]], seconded by [[Therunin]]''
+To Commission the Oath’s Roots - A weirwo''Proposed by [[Kahraman]], seconded by [[Therunin]]''
 ## Overview
 * Would have established a [[Weirwood]] Bourse seat in [[Liathaven]] called "Oath's Roots"
 * Withdrawn

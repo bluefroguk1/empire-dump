@@ -15,7 +15,7 @@ To request funds to begin production of the Iron Helm army of VarushkaProposed b
 ### Overview
 * Passed in principle
 * Passed at 150 Thrones
-* This followed on from a previous motion to [[Commission]] the raising of the army
+* This followed on from a previous motion to Commission the raising of the army
 ### Date
 * Winter 379YE
 ### PrOgress

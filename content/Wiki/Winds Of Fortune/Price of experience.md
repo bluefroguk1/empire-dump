@@ -19,7 +19,7 @@ A rumble passed through the circle, but nobody interrupted.
 One of the councillors spoke, her voice flat.
 "The orcs of the Imperial tribe do not want us. They are not of our tribe. It is known."
 The chieftain nodded. It was known.
-"They require us to submit to their tribal spirit. They require us to abandon the [[Forest]]. They require us to embrace the ancestors of the Imperial people."
+"They require us to submit to their tribal spirit. They require us to abandon the Forest. They require us to embrace the ancestors of the Imperial people."
 An angry rumble now, a susurration of whispers.
 "They will give us a year, and then they will no longer offer us sanctuary from the [[Druj]]."
 He spat as he named the tribe of tyrants, the people of the scorpion. Many Of The Warriors outside the circle did the same, as did a few of the elders.
@@ -43,7 +43,7 @@ The chief of the Great Forest orcs is young, but is adVised by a council made up
 Much of this information comes second-hand, from brokers in Therunin who have had limited contact with the orcs. They say that there is a growing sense of frustration among the people of the Great Forest - a sense that they were offered sanctuary and are now being treated like unwanted guests. It is hard to say where this bad feeling may lead.
 The orcs of the Great Forest have firmly rebuffed attempts to inTroduce them to [[The Way]]. They have their own religion, it seems, and while they are not interested in discussing it, those Therunin Navarr who have dealt directly with them have managed to glean a few details. Like many orcs, they hold their ancestors in particular reverence. At the same time they also seem to revere or even worship invisible spirits that they believe live in the forest and protect them from the Howling Abyss. They refuse to talk about these spirits, but they claim they are the "children" of the Great Forest - the single woodland they claim once stretched across the entire area now occupied by The Empire, as far north as the borders of [[Otkodov]].
 ### The Briars
-As well as orcs, the Great Forest nation is accompanied by perhaps a hundred and fifty humans of obvious [[Briar]] [[Lineage]] who are not Imperial citizens. There is little doubt that these briars are representatives of the anarchists of Dourfell Keep in the Barrens - descendants of the murderous heretics who attempted to claim the Barrens as an independent briar "kingdom" during the reign of [[Emperor Ahraz]]. With Druj domination of the Barrens all but complete, it is speculated that they are the only surviving members of the cult. Regardless, it is unlikely that they are friends to The Empire and their presence among the Great Forest orcs may be cause for concern.
+As well as orcs, the Great Forest nation is accompanied by perhaps a hundred and fifty humans of obvious [[Briar]] Lineage who are not Imperial citizens. There is little doubt that these briars are representatives of the anarchists of Dourfell Keep in the Barrens - descendants of the murderous heretics who attempted to claim the Barrens as an independent briar "kingdom" during the reign of [[Emperor Ahraz]]. With Druj domination of the Barrens all but complete, it is speculated that they are the only surviving members of the cult. Regardless, it is unlikely that they are friends to The Empire and their presence among the Great Forest orcs may be cause for concern.
 ### Complications
 The situation in Therunin appears to be moving towards some sort of crisis.
 ### Supporting the army

@@ -12,7 +12,7 @@ revision_id: 86063
 ---
 
 __NOTOC__
-To build a mana [[Ministry]] in [[Temeschwar]] as part of the [[Opportunity]] offered by the Jarmish, self funded. Position holder to be appointed by the Senators of [[The League]].''Proposed by Temeschwar, seconded by [[Miaren]].''
+To build a mana [[Ministry]] in [[Temeschwar]] as part of the Opportunity offered by the Jarmish, self funded. Position holder to be appointed by the Senators of [[The League]].''Proposed by Temeschwar, seconded by [[Miaren]].''
 ## Overview
 * This motion was to build a Ministry in Temeschwar to oversee purchase and sale of crystal mana.
 * Passed

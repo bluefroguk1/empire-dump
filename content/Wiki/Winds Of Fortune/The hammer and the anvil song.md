@@ -35,7 +35,7 @@ When they arrive at Anvil, a week before the Winter Solstice, they are apparentl
 * They will be at The Hub from 18:30-19:30 on Friday
 [[Wintermark]] Runesmith Leofraed the Deft proposes an exchange of crafts between citizens as a demonstration of [[The Empire]]'s Pride in its crafters. They claim that although the Empire readily recognises the skill of its artisans, especially those of a warlike mien, those who labour to create fine crafts and beautiful art sometimes fail to get the fair acknowledgement they deserve. As such they are calling for Imperial citizens who take pride in their crafting abilities to join an exchange of creations over the coming season. At the Spring Equinox, each participant who provides a piece of art, craft, or similar endeavour will in turn receive another participant's creation, and a token of [[Recognition]] from Leofraed themselves. The runesmith hopes to meet with anyone interested in taking part or learning more about the exchange on the Friday of the Summit at the Hub. They'll be there from half-past six until half past seven. There's no need to bring anything to this meeting - it's as much for Leofraed to explain the details and gauge interest as anything else.
 Game Information: Leofraed is looking to arrange an exchange of physical objects - not ribboned items necessarily but examples of arts and crafts made by players themselves in-character.
-## An Auction of [[Opportunity]]
+## An Auction of Opportunity
 *[[Basileus Flint]] offers a chance for Imperials to play a game of cunning and Curses during the Spring Equinox
 * Invitations to the game are strictly limited, but the [[Eternal]] plans to make three of them available during the Winter Solstice
 * A herald named Brazen is hoping to meet representatives of Anvil's auction houses to discuss the sale of the invitations
@@ -59,9 +59,9 @@ Robin Counter reminds anyone interested in securing the foci or the rituals that
 During the Winter Solstice, the Empire's Weirwood Bourse seats are available for appointment. There are seven such seats under Imperial control at the moment; six of them are Imperial in nature and one belongs to the [[Navarr]] nation.
 ### Imperial Auction
 * The Public Auction takes place at three in the afternoon on Saturday at the Senate Building
-The six Imperial seats - [[Canterspire Circle]], the [[Great [[Forest]] at Reikos]], the [[Golden Trees of Seren]], the [[Heartwood of the Great Vale]], the [[Hunt of Alderei the Fair]], and the [[Weirwater Vales]] - will be auctioned. Any Imperial citizen can hold such a title, if they can raise sufficient capital. (OOC Note: Each seat has a page on the wiki that includes details of how much they were auctioned for during previous events).
+The six Imperial seats - [[Canterspire Circle]], the [[Great Forest at Reikos]], the [[Golden Trees of Seren]], the [[Heartwood of the Great Vale]], the [[Hunt of Alderei the Fair]], and the [[Weirwater Vales]] - will be auctioned. Any Imperial citizen can hold such a title, if they can raise sufficient capital. (OOC Note: Each seat has a page on the wiki that includes details of how much they were auctioned for during previous events).
 In addition to the weirwood seats, the [[Prime Factor of the [[Pallas]] Docks]] (a [[Ministry]] that imports weirwood from the [[Principalities of Jarm]]) is also due to be auctioned to the highest bidder.
-Both [[Bearer of an Imperial Wayleave]] titles - special Imperial Titles that allow the holder to [[Commission]] a [[Sinecure]], Ministry, or [[Great work]] before the end of the Solstice - will be offered for auction.
+Both [[Bearer of an Imperial Wayleave]] titles - special Imperial Titles that allow the holder to Commission a [[Sinecure]], Ministry, or [[Great work]] before the end of the Solstice - will be offered for auction.
 Finally, the public auction will also see the [[Prosperity]] dose of True True Liao auctioned, with all funds raised going to the [[Imperial Synod]] virtue fund.
 ### [[Tally of the Votes]]
 * The tally of the votes begins on Saturday morning and closes on Saturday afternoon

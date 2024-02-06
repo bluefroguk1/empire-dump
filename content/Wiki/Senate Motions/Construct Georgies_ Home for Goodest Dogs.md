@@ -12,7 +12,7 @@ revision_id: 85563
 ---
 
 __NOTOC__
-That the Senate [[Commission]] the construction of a business [[Sinecure]] in [[Holberg]] to be known as "Georgies Home for Goodest Dogs". This shall be assigned annually by [[The League]] Senators.''Proposed by [[Tassato]], Seconded by [[Morrow]]''
+That the Senate Commission the construction of a business [[Sinecure]] in [[Holberg]] to be known as "Georgies Home for Goodest Dogs". This shall be assigned annually by [[The League]] Senators.''Proposed by [[Tassato]], Seconded by [[Morrow]]''
 ## Overview
 * Commission a Sinecure in Holberg
 * Passed

@@ -12,7 +12,7 @@ revision_id: 86361
 ---
 
 __NOTOC__
-To [[Commission]] a [[Fortification]] in Lestasny, [[Karsk]].
+To Commission a [[Fortification]] in Lestasny, [[Karsk]].
 Self Funded
 Proposed by Karsk, Seconded by [[Miekarova]]
 ### Overview

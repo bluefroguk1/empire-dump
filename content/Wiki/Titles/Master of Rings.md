@@ -13,11 +13,11 @@ revision_id: 104669
 ---
 
 ## Overview
-The [[Master of Rings]] is an [[Imperial Title]] aWarded to a citizen of [[The League]]. The Department of Architecture was Commissioned by the [[Imperial Senate]] during the Winter Solstice 384YE following an [[Opportunity]] created by an [[Appraisal]].
+The [[Master of Rings]] is an [[Imperial Title]] aWarded to a citizen of [[The League]]. The Department of Architecture was Commissioned by the [[Imperial Senate]] during the Winter Solstice 384YE following an Opportunity created by an [[Appraisal]].
 ## Responsibilities
 The Master of Rings is responsible for using their power to generate as much wealth as possible for the merchant-princes of [[Temeschwar]], and for the League, as possible. If the Temeschwar University Department of Architecture were to be threatened, it would be the responsibility of the Master to face those threats; likewise should any Opportunity related to the Department arise they would decide how to respond.
 ## Powers
-### [[Commission]]
+### Commission
 Once during each summit, the Master of Rings can Commission the construction of a [[College of Magic]], [[Embassy]], [[Fane]], [[Folly]], [[Great work]], [[Ministry]], [[Runeforge]], or [[Sinecure]]. This project does ''not'' count against the limited number of commissions the Senate can begin each season - all the work of pLanning and construction is undertaken by the Department of Architecture. The [[Materials]] and money required for construction must be provided by the Master or their agents.
 If the Master of Rings announces the commission of a sinecure or ministry then an Imperial Title to oversee the commission is automatically created. The location and size of the commission and the method of [[Appointment]] and tenure of any associated title are all part of the necessary details and may be included in the announcement made by the Master or deterMined later by them.
 The Master of Rings cannot use their power of announcement to alter an existing Commission. The Master of Rings does not have the power of concedence so whilst they can Commission a fane it would still be the decision of the Imperial Senate whether to cede it to an [[Eternal]].

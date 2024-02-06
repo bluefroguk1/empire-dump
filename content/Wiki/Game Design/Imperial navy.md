@@ -21,14 +21,14 @@ As with soldiers in an Imperial army, sailors who are part of an Imperial navy a
 Each Imperial navy is commanded by an admiral. While admirals are chosen by Senators, once appointed the admiral has sole authority to order the navy to move or attack as they choose.
 ## Navy Size
 To allow players to make sensible and meaningful comments about the capability of their armies, each navy has a fighting strength (usually 5000). This number represents the effective fighting force of the navy in terms of both ships and combat-capable personnel - equivalent to 5000 raw recruits. The civil service uses complex Day [[Day magic]] to quantify the effective fighting force of both armies and navies, providing this IC information to the Imperial admiral who commands the navy. This is an assessment of the impact the navy will have during an engagement; it takes into account warships, deck-mounted weapons and other equipment, marines, battle-trained sailors, and the ease with which the ships communicate with each other. The civil service only provide their assessment of the fighting strength of a navy to the admiral who controls it.
-[[Barbarian]] navies are usually larger than Imperial navies, but tend to lack cohesive communications or command structures meaning that in practice their fighting strength is usually similar. 
+Barbarian navies are usually larger than Imperial navies, but tend to lack cohesive communications or command structures meaning that in practice their fighting strength is usually similar. 
 As a navy takes Casualties its fighting strength drops. An navy whose fighting strength falls below 1,000 is destroyed as the remaining vessels sink with all lives lost.
 ### Large Navy
 A large navy has a maximum fighting strength of 7,500. A large navy still counts as only a single campaign navy. A large navy disBands if its fighting strength falls below 1,500.
 ### Special Quality
 At present the Empire lacks the expertise in constructing warships to be able to create navies with special qualities. The Empire lacks the experienced shipwrights and associated expertise to create specialized warships like those possessed by the [[Grendel]], the Asaveans, or the [[Sarcophan Delves]].
 ## Senate Commissions
-The [[Imperial Senate]] can pass a motion to [[Commission]] a new Imperial navy, or to resupply an existing navy.
+The [[Imperial Senate]] can pass a motion to Commission a new Imperial navy, or to resupply an existing navy.
 ### Costs
 * [[Materials]]: 200 wains of [[Weirwood]] and 75 thrones
 * Time: 1 year to construct

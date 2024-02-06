@@ -15,7 +15,7 @@ __NOTOC__
  Upgrade of Reumah’s Rest, the fort in [[Necropolis]].
 ''Announced by the [[Imperial Master of Works]], Marley of Treen''
 ## Outcome
-* This [[Commission]] increases the strength of the [[Fortification]] Reumah's Rest in Necropolis
+* This Commission increases the strength of the [[Fortification]] Reumah's Rest in Necropolis
 * Announcement
 ## Date
 * Autumn 383YE

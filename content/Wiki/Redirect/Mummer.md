@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Mummer
-draft: False
+draft: false
 revision_date: 2022-04-09 22:52:21+00:00
 revision_id: 88337
 ---
 
-#REDIRECT [[The Marches magical traditions#Mummers]]
+#REDIRECT The Marches magical traditions#Mummers

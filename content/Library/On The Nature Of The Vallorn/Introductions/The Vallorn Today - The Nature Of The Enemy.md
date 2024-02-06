@@ -8,7 +8,7 @@ A [[Vallorn]] is a geographical feature, an area of land with particular traits.
 
 Larger corrupted creatures within a Vallom miasma are known as vallomspawn. Vallorspawn not only include the corruption of living creatures but also the bodies of those who have fallen in battle in the area. If an individual takes a grievous amount of daMage that would render them terminal and is not removed from the area then the [[Spring magic]] will hold them there, on the brink of death, their bodies puppeted by plantlife that will grow through them. Their soul will be trapped, unable to enter the Labyrinth or attempt to cross the Great Abyss.
 
-There are seven active Vallorn sites in the Empire and beyond its borders. Those within or near our lands are in [[Hercynia]], [[Therunin]], [[Liathaven]] and [[Brocéliande]]. Those in foreign and [[Barbarian]] lands are in [[Otkodov]], [[The Mallum]] and [[Axos]]. There was once a Vallorn within [[Miaren]], which through a variety of factors (including a casting of "[[Wither the Seed]]' upon the well populated and defensible territory) was defeated, [[Navarr]]'s greatest victory to date.
+There are seven active Vallorn sites in the Empire and beyond its borders. Those within or near our lands are in [[Hercynia]], [[Therunin]], [[Liathaven]] and [[Brocéliande]]. Those in foreign and Barbarian lands are in [[Otkodov]], [[The Mallum]] and [[Axos]]. There was once a Vallorn within [[Miaren]], which through a variety of factors (including a casting of "[[Wither the Seed]]' upon the well populated and defensible territory) was defeated, [[Navarr]]'s greatest victory to date.
 
 **The Vallorn Miasma**
 Miasma within The the Vallorn is caused by Spring [[Magic]] affecting the air and the

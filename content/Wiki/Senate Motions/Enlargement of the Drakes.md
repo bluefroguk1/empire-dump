@@ -12,9 +12,9 @@ revision_id: 94611
 ---
 
 __NOTOC__
-To [[Commission]] the enlargement of the Imperial Marcher army the [[Drakes]].''Proposed by [[Mitwold]], seconded by [[Mournwold]].''
+To Commission the enlargement of the Imperial Marcher army the [[Drakes]].''Proposed by [[Mitwold]], seconded by [[Mournwold]].''
 ## Overview
-* To enlarge the Drakes army, in line with the [[Opportunity]] presented by the recent proposal.
+* To enlarge the Drakes army, in line with the Opportunity presented by the recent proposal.
 * Passed at 0 Thrones
 ## Date
 * Winter 382YE

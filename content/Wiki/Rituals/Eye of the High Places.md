@@ -16,7 +16,7 @@ Season|Day|14
 ### Performing the Ritual
 Casting time|2 The ritual must be performed with a map of the target territory.
 ### Effects
-At the completion of the ritual the contributors receive iMages that reveal information about all significant effects on the Territory, or on Regions or campaign armies within that territory. The ritual is not limited to Magical effects; significant mundane [[Events]] such as plagues, [[Forest]] fires or monstrous rampages may also be divined by the [[Magic]]. The ritual does not divine small-scale Enchantments such as [[Rivers of Gold]]. 
+At the completion of the ritual the contributors receive iMages that reveal information about all significant effects on the Territory, or on Regions or campaign armies within that territory. The ritual is not limited to Magical effects; significant mundane [[Events]] such as plagues, Forest fires or monstrous rampages may also be divined by the [[Magic]]. The ritual does not divine small-scale Enchantments such as [[Rivers of Gold]]. 
 When it exaMines a significant effect, it may provide any of the following information that is relevant to that effect.
 * the [[Realm]] and magnitude of the effect, especially if it is magical in nature.
 * what the effect does, and some details of how it does it.

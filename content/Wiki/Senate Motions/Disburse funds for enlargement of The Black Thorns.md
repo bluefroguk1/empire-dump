@@ -17,7 +17,7 @@ Proposed by [[Therunin]], Seconded by [[Miaren]]
 ### Overview
 * Passed in principle
 * Passed at 283 thrones
-* This motion followed on from a previous motion to take advantage of the [[Opportunity]] to enlarge the [[Black Thorns]]
+* This motion followed on from a previous motion to take advantage of the Opportunity to enlarge the [[Black Thorns]]
 ### Date
 * Autumn 380YE
 ### PrOgress

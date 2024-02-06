@@ -20,7 +20,7 @@ Casting time|10 Imperial Reduction
 ### Effects
 The territory is scoured with terrible thunderstorms; torrential rain; frozen hail or dreadful blizzards as appropriate to the area and the season. 
 The income from all Farms and businesses in the territory is halved over the coming season. 
-This will have a significant effect on a foreign or [[Barbarian]] territory, damaging their agriculture and industry and reducing their capacity to field troops and feed their people.
+This will have a significant effect on a foreign or Barbarian territory, damaging their agriculture and industry and reducing their capacity to field troops and feed their people.
 Season Duration
 ### Options
 Ritual Substitution|tempest jade|ingots

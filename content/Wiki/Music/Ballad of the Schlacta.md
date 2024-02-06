@@ -26,7 +26,7 @@ Dawnish lads, just pissed their pretty tights
 “Had too much”, oh, I called out to the tavern
 “Only schlacta drink right through the night”
 One got up, and waved his dagger at me
-“You!” he said, “I [[Challenge]] to a fight”
+“You!” he said, “I Challenge to a fight”
 Thrown outside, oh, he landed in a snowdrift
 With some luck, he’ll make it through the night
 Mead we had, and mead we kept on drinking

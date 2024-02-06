@@ -12,7 +12,7 @@ tags:
 
 I've heard what [[General]] Igund suggests and I have a counter proposal; I Warn you now, it involves less [[Heroism]] and fewer dead soldiers. Nobody wins a [[War]] by dying. You win a war by making the other bastards die in such numbers that they run back across The Mountains with their scaly tails between their legs.
 ## Overview
-A [[Council address]] is an [[Opportunity]] for an individual to speak to the [[Imperial Military Council]] during a [[Council session]]. Only a handful of Imperial Titles confer the right to address the Military Council, .
+A [[Council address]] is an Opportunity for an individual to speak to the [[Imperial Military Council]] during a [[Council session]]. Only a handful of Imperial Titles confer the right to address the Military Council, .
 The Senate may create [[New Imperial titles]] with this power if they wish; this is most appropriate where the holder of the title does not attend Military Council meetings, but has responsibilities that require them to report to the Military Council.
 ## Procedure
 ### Raising an address

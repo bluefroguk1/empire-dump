@@ -16,7 +16,7 @@ Construct a mana [[Sinecure]] in Pakaanan's Pass, [[Skarsind]]
 Approved by the [[Civilian Commissioner]] of the [[Imperial Orcs]]
 ### Overview
 * A Sinecure in Pakaanan's Pass, Skarsind
-* This motion was approved by the Civilian Commissioner of the Imperial Orcs using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This motion was approved by the Civilian Commissioner of the Imperial Orcs using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Autumn 380YE
 ### [[Cost]]

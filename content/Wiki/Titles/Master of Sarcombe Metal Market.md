@@ -13,7 +13,7 @@ revision_id: 106147
 
 ## Overview
 The [[Master of Sarcombe Metal Market]] is an [[Imperial Title]]  aWarded to a Marcher citizen. It is a national position appointed by unanimous decision of the Marcher Senators.
-The Sarcombe Metal Market was established as part of a wider scheme to revitalise the [[Market Town]] and the [[Prosperity]] of the [[Mournwold]]. In particular, given its location, it is possible that if [[Liathaven]] were returned to Imperial control there would be additional opportunities to trade metal with the inhabitants of the south-western [[Forest]].
+The Sarcombe Metal Market was established as part of a wider scheme to revitalise the [[Market Town]] and the [[Prosperity]] of the [[Mournwold]]. In particular, given its location, it is possible that if [[Liathaven]] were returned to Imperial control there would be additional opportunities to trade metal with the inhabitants of the south-western Forest.
 ## Responsibilities
 The Master of Sarcombe Metal Market gets first choice on the [[Materials]] that pass through the great hardwood doors, and as a consequence is expected to ensure that all materials are safely stored for the market. if anything threatened the vault, or by extension the market town of Sarcombe, they would be expected to deal with the problem.
 ## Powers

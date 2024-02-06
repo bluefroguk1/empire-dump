@@ -14,7 +14,7 @@ revision_id: 85643
 __NOTOC__
 Announcement by bearer of an Imperial Orc Wayleave, Palerictus Krunk. To build a [[Sinecure]] in the east of [[Skarsind]] for the betterment of the spring ritualists within the nation, to create the position [[Farmer of Eastern Spring Farm]].''Imperial Wayleave by Palerictus Krunk''
 ## Overview
-* [[Commission]] a Sinecure in Skarsind
+* Commission a Sinecure in Skarsind
 * Announcement.
 ## Date
 * Autumn 382YE

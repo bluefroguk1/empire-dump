@@ -30,7 +30,7 @@ Now it was Lotta's turn to get angry with her friend. "Britta is dead Singur, re
 ## Overview
 Wintermark has weathered a great deal in 379YE; several vicious Curses, for a start. A long battle with the Thule over the Silver Peaks which ended in stalemate, and then a peace treaty which [[Cost]] them the Stonefield Ice Caves. Then came the relinquishment of [[Skarsind]] - a deed done with the best of intentions that lead to nothing but trouble that came with that. 
 Now, Skarsind belongs to the [[Imperial Orcs]], and the war with the [[Jotun]] has begun. Although the western barbarians have not invaded the north-west yet, it seems inevitable that they will do so.
-Over the long, harsh winter, tempers that have been held in check begin to boil over. A heady mix of [[Pride]] and anger has created a grim [[Opportunity]].
+Over the long, harsh winter, tempers that have been held in check begin to boil over. A heady mix of [[Pride]] and anger has created a grim Opportunity.
 ## Significance
 Wintermark has lost a great deal in the last year; but the possibility exists to take some of it back.
 ### [[Heroism]]

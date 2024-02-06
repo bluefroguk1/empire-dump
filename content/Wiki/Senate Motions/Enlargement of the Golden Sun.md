@@ -12,7 +12,7 @@ revision_id: 94612
 ---
 
 __NOTOC__
-Dispersal of funds for the Enlargement of the [[Enlargement of the Golden Sun]]. This is a limited time [[Opportunity]] to [[Commission]] with a saving of 50 wains of [[Mithril]] and 100 crowns compared to standard enlargement Costs.''Proposed by [[Weirwater]], seconded by [[Tassato]].''
+Dispersal of funds for the Enlargement of the [[Enlargement of the Golden Sun]]. This is a limited time Opportunity to Commission with a saving of 50 wains of [[Mithril]] and 100 crowns compared to standard enlargement Costs.''Proposed by [[Weirwater]], seconded by [[Tassato]].''
 ## Overview
 * To enlarge the [[Golden Sun]] army, in line with the Opportunity presented by the recent proposal.
 * Passed at 0 Thrones

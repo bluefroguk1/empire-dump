@@ -29,7 +29,7 @@ Members of the Senate have the right to speak in the Senate, to partake in the d
 Ambassadors are usually appointed by the Imperial Senate - they are expected to take the lead in diplomatic relations with the foreign power or entity and all official ambassadors have the right to negotiate a treaty. A Senator must use a [[Senate motion]] to submit the treaty for ratification by the Senate - but ratification only requires a single senate motion, regardless of how many legal changes are required to ratify the treaty. 
 #lst:Archive:Current_Imperial_titles|[[Ambassador]]
 ### AdVisors and Consuls
-The Imperial Senate has delegated a number of powers to individual titles giving them the ability to employ legal powers normally reserved for the Senate such as the power to instruct the department for [[Historical research]] or order a [[Commission]]. Some of these positions incorporate the responsibility to provide the Senate with advice and council on a specific subject.
+The Imperial Senate has delegated a number of powers to individual titles giving them the ability to employ legal powers normally reserved for the Senate such as the power to instruct the department for [[Historical research]] or order a Commission. Some of these positions incorporate the responsibility to provide the Senate with advice and council on a specific subject.
 #lst:Archive:Current_Imperial_titles|Senate_Advisor
 ## [[Imperial Synod]]
 ### The [[Assembly]] of the Nine

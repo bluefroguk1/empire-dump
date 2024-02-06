@@ -12,10 +12,10 @@ revision_id: 102992
 ---
 
 __NOTOC__
- To [[Commission]] and authorise the disbursement of funds for the Swords of Nearweald in [[Ossium]]
+ To Commission and authorise the disbursement of funds for the Swords of Nearweald in [[Ossium]]
 ## Overview
 * Commissions a fortified barracks in Ossium.
-* The [[Opportunity]] is detailed in the [[Thousands or more]] Wind of Fortune
+* The Opportunity is detailed in the [[Thousands or more]] Wind of Fortune
 * Passed at 150 Thrones
 ## Date
 * Autumn 384YE

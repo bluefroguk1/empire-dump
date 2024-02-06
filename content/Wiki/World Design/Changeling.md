@@ -12,7 +12,7 @@ __TOC__
 ## Overview
 Changelings are touched by the [[Realm]] of Summer, a realm of beauty and strength whose Eternals are potent symbols of might and majesty. They are proud, confident, individualistic people who ''know'' they are the best of the best and were born to excel at anything they turn their hands to.
 Changelings prefer roles where they can take the lead or stand out. They are especially appropriate to military and political leaders, but they also make great champions and representatives for groups. [[Bands]] of changelings work well, they can regard themselves as amongst their peers and be confident of the group's abilities as a result.
-The [[Changeling]] [[Lineage]] is intended to appeal to players who want to create proud characters who enjoy being the centre of attention. They are particularly suited to [[Heroes]]: characters who lead from the front, whether bold champions who bestride [[The Battlefield]] or charismatic orators taking the floor of the senate.
+The [[Changeling]] Lineage is intended to appeal to players who want to create proud characters who enjoy being the centre of attention. They are particularly suited to [[Heroes]]: characters who lead from the front, whether bold champions who bestride [[The Battlefield]] or charismatic orators taking the floor of the senate.
 ### Sobriquets
 Other terms for changelings, both within [[The Empire]] and in other parts of the world, include: Elf, Fae, Feyling, Knife-ears, the Proud.
 ## What they are not

@@ -21,7 +21,7 @@ There is some archaeological evidence that the Imperial (and pre-Imperial Freebo
 The funding of guards in Kahraman has ensured that despite problems with raiders, the custodian continues to receive 22 wains of Mithril every season
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of Mithril which is theirs to do with as they will. If the Great Mine of Briante were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Great Mine of Briante, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of Mithril which is theirs to do with as they will. If the Great Mine of Briante were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Great Mine of Briante, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Great Mine of Briante comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

@@ -23,7 +23,7 @@ Cut Them Down
 * Attacking order
 * Casualties inflicted by this army are increased by three tenths
 * Casualties suffered by this army are increased by a fifth
-The army takes every [[Opportunity]] to engage with the enemy to try and cut them down. They may claim some territory, but this is secondary to their goal of slaughtering as many of the enemy as possible. This emphasis on engaging the enemy means that the army loses more troops itself; but the commitment to Fighting and preparations it takes mean that it suffers comparatively less than the opponents it engages.
+The army takes every Opportunity to engage with the enemy to try and cut them down. They may claim some territory, but this is secondary to their goal of slaughtering as many of the enemy as possible. This emphasis on engaging the enemy means that the army loses more troops itself; but the commitment to Fighting and preparations it takes mean that it suffers comparatively less than the opponents it engages.
 ### Effects
 This ritual enchants a campaign army, filling the soldiers with a passionate fervour to see their enemies defeated. The army loses any existing quality and gains the ''Relentless'' quality for the duration. For the duration the general can issue the order ''cut them down'' when attacking.
 While the enchantment persists, the general responsible for the army experiences a roleplaying effect: ''you are filled with confidence and assertiveness, and are driven both to take responsibility for others and to “get things done”. Anyone who stands between you and your goals should be dealt with swiftly and without mercy.''

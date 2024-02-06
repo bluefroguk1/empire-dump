@@ -19,7 +19,7 @@ Season|Spring|8
 Casting time|2 Target Character The target character must possess the physick skill.
 [[Enchantment]]
 ### Effects
-The target of this Enchantment gains the ability to use a dram of any Healing [[Herb]] - [[Bladeroot]], [[Cerulean Mazzarine]], [[Imperial Roseweald]], or [[Marrowort]] - as if it were a dram of True Vervain when using the physick skill. This means they can use any of the five herbs with five seconds of appropriate roleplay to restore a target to fUll hits.
+The target of this Enchantment gains the ability to use a dram of any Healing Herb - [[Bladeroot]], [[Cerulean Mazzarine]], [[Imperial Roseweald]], or [[Marrowort]] - as if it were a dram of True Vervain when using the physick skill. This means they can use any of the five herbs with five seconds of appropriate roleplay to restore a target to fUll hits.
 They also experience a roleplaying effect: you see death as the ultimate enemy whose victory must be prevented at all Costs. You feel an urge to offer [[Assistance]] to anyone who is on the brink of death and the idea of killing any person or animal makes you nauseous.
 Note that the enchantment does not apply to other uses of True Vervain; an apothecary could not use it to substitute another herb for True Vervain when making a [[Potion]] for example.
 Season Duration

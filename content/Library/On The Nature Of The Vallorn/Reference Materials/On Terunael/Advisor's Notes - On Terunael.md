@@ -12,7 +12,7 @@ Thanks to Past life Visions and supporting [[Rituals]] not only do we know the c
 
 Merenael of Emrys, who was married to Fallahd and fled to the Dreamscape with her child Jarith of Emrys after premonitions of the doom The [[Great work]] would bring.
 
-Amrillin is the potential name of a councillor of Tharunind. Marenael tried to Warn him not to cast the ritual. They speak of his son, Coram Terayne, who he had sent to trade with the Gwerin Morta near Beantol Dol. Coram wished to return home but had become trapped either by [[Barbarian]] assault or the birth of The [[The Vallorn]])
+Amrillin is the potential name of a councillor of Tharunind. Marenael tried to Warn him not to cast the ritual. They speak of his son, Coram Terayne, who he had sent to trade with the Gwerin Morta near Beantol Dol. Coram wished to return home but had become trapped either by Barbarian assault or the birth of The [[The Vallorn]])
 
 The council of one city - most likely Tharunind given the details of Father Drakov's Past life visions (proximity to Beantol Dol and [[Urizen]] was formed of a human Female [[General]], a [[Draughir]] male artisan, a [[Changeling]] male general, a human male referred to as magus, Father Drakov himself and his 'aide' who may have been simply an aide or another member of the council bringing it to six. The human male, Father Drakov or the aide are likely the individual Merenael wrote to to warn about The Great Ritual.
 

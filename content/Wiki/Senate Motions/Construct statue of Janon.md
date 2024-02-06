@@ -18,7 +18,7 @@ No [[Imperial Title]] to be created
 Approved by the [[Civilian Commissioner]] of [[The League]]
 ### Overview
 * A folly of the [[Eternal]] Janon in Hanuri in Temeschwar
-* This motion was approved by the Civilian Commissioner of The League using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This motion was approved by the Civilian Commissioner of The League using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Summer 380YE
 ### [[Cost]]

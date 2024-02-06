@@ -12,7 +12,7 @@ revision_id: 107317
 ---
 
 ## Overview
-The Prelate of Adelmar's Shrine is an [[Imperial Title]] appointed by the [[Assembly]] of [[Ambition]]. [[The Academy]] of Arms was Commissioned by the [[Imperial Senate]] during the Spring Equinox 385YE as part of an [[Opportunity]] to create a place of PilgriPilgrimage.
+The Prelate of Adelmar's Shrine is an [[Imperial Title]] appointed by the [[Assembly]] of [[Ambition]]. [[The Academy]] of Arms was Commissioned by the [[Imperial Senate]] during the Spring Equinox 385YE as part of an Opportunity to create a place of PilgriPilgrimage.
 ## Responsibilities
 The Prelate of Adelmar's Shrine has a responsibility to protect the pilgrims who Visit the Academy. In addition if the Academy of Arms were to be threatened in any way, it would be the responsibility of the Prelate to deal with those threats.
 ## Powers

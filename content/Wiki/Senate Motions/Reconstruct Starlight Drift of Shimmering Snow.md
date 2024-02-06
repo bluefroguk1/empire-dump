@@ -12,7 +12,7 @@ revision_id: 104695
 ---
 
 __NOTOC__
-[[Commission]] mana [[Sinecure]]. Endsmeet, [[Zenith]]. Starlight Drift of Shimmer Snow. Title - [[Custodian of the Starlight Drift]]. 6 [[Mithril]]. 7 thrones.
+Commission mana [[Sinecure]]. Endsmeet, [[Zenith]]. Starlight Drift of Shimmer Snow. Title - [[Custodian of the Starlight Drift]]. 6 [[Mithril]]. 7 thrones.
 ## Overview
 * Constructs a mana sinecure in Occursion as detailed in the [[Write your own ending]] wind of fortune.
 * Announcement by the [[Legion Engineer]]

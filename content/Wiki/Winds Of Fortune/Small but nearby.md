@@ -38,7 +38,7 @@ This Wind of Fortune only covers the local nations. Developments involving the g
 * The Citadels of Axos are signatories to the Liberty pact; they have placed sanctions on trade with slaving nations
 * The [[Ambassador to Axos]] is ''Tarquinius Ankarien'' of [[Urizen]]
 There is still much upheaval in the Citadels of Axos as the Grand Ilarchs work to enCourage their people to focus their efforts in trade and commerce with the Empire and the [[Sarcophan Delves]]. 
-Following an [[Opportunity]] which was presented last season the [[General]] [[Assembly]] of the [[Imperial Synod]] passed a [[Mandate]], presented by Maximillian Ankarien. Over the last season, members of the prognosticators office have worked hard to analyze the opportunities that The Empire could capitalise on to encourage trade with Axos. More details on these opportunities can be found here. 
+Following an Opportunity which was presented last season the [[General]] [[Assembly]] of the [[Imperial Synod]] passed a [[Mandate]], presented by Maximillian Ankarien. Over the last season, members of the prognosticators office have worked hard to analyze the opportunities that The Empire could capitalise on to encourage trade with Axos. More details on these opportunities can be found here. 
 The Axou, as signatories of the Liberty Pact, have been invited to the upcoming meeting. Unfortunately, their delegate has not turned up. You can learn more about this situation here.
 ### Tunnels of Kaban
 * An Ilarch has come forWard to claim descent from Kaban

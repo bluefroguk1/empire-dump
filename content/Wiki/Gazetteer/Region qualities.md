@@ -13,12 +13,12 @@ tags:
 Stub
 ## Overview
 Each Region in a Territory may have one or more qualities that describe key aspects or features, which may have important economic, strategic or Magical considerations. 
-Some negative qualities have specific methods that [[The Empire]] can use to remove them. Without that, it is not possible to create, remove or change the quality of a region without an [[Opportunity]] or an [[Appraisal]] - they reflect the essential nature of the land.
+Some negative qualities have specific methods that [[The Empire]] can use to remove them. Without that, it is not possible to create, remove or change the quality of a region without an Opportunity or an [[Appraisal]] - they reflect the essential nature of the land.
 ## Geographic Qualities
 These qualities occur frequently and represent simple aspects of physical geography.
 ### Coastal
 A ''coastal'' region does not simply border the sea or other large body of water, but has a sufficiently accessible shoreline to allow the construction of a [[Shipyard]]. Such regions are also, by consequence, vulnerable to attacks by navies. Coastal regions can be found in places such as the sprawling islands of Free Landing, the smooth and fertile foothills of Naris, and the storm-riddled clay slurries of North Fens.
-### [[Forest]]
+### Forest
 A ''forested'' region features large amounts of distinctive, often dense woodland. Whether the great stands of ancient oaks in Goldglades, the dense pine forests of Solvihill or the once-tainted vegetation of Westwood, the presence of large forests allows for casting of [[Rituals]] such as [[Forge the Wooden Fastness]] and enables an Imperial guerilla army to execute a ''hit and run'' order if the Empire controls the region.
 ### Hills
 A ''hills'' region is mountainous, home to sharp inclines, rough escarpments or similar forms of difficult terrain. Although this does not limit the ability of armies to traverse the territory, it has important implications for strategic [[Magic]] such as [[Frozen Citadel of Cathan Canae]], and enables an Imperial guerilla army to execute a ''hit and run'' order if the Empire controls the region. Examples include the cave-filled slopes of Altis, the magnificent peaks of Kalpamark, and the rugged valleys of Braydon's Jasse.
@@ -46,7 +46,7 @@ A region might become ''poisoned'' through the working of foul magics, tainting 
 ### Ruined
 The cruel reality of [[War]] can leave a once-Prosperous region with little but ''ruins''. Such regions often bear a melancholy air, with the echoes of past glories fading with the further passage of time.
 ### Under-developed
-''Under-developed'' regions lack critical infrastructure. There are few roads or bridges over important rivers, and those that do exist are in poor condition or completely ruined. While the area may have natural resources, little has been done to develop them and there are few prosperous farms or businesses in the region. The presence of each under-developed region adds one-fifth to the Costs of any [[Commission]] in the territory. At present, only the region of Bittershore in [[Ossium]] has this quality.
+''Under-developed'' regions lack critical infrastructure. There are few roads or bridges over important rivers, and those that do exist are in poor condition or completely ruined. While the area may have natural resources, little has been done to develop them and there are few prosperous farms or businesses in the region. The presence of each under-developed region adds one-fifth to the Costs of any Commission in the territory. At present, only the region of Bittershore in [[Ossium]] has this quality.
 ### Under Threat
 Regions that are ''under threat'' are threatened by insurgent forces that are hostile to the controlling power. These partisans engage in acts of sabotage or carry out attacks designed to underMine whoever rules the area. If the region is attacked by a force aligned with the partisans, then the attackers are considered to have a beachhead - that is they do not suffer the usual penalties for supply lines. The regions of Drownbark Forest, Echofell and the Webwood in Ossium are currently under threat from Druj insurgents.
 ### Underpopulated

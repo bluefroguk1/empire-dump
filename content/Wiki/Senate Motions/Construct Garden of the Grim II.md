@@ -12,7 +12,7 @@ revision_id: 86472
 ---
 
 __NOTOC__
-To raise a [[Herb]] [[Sinecure]] in [[Miekarova]] to be called the "Gardens of the Grim", with the title of the sinecure to be "The [[Grim Gardener]]".
+To raise a Herb [[Sinecure]] in [[Miekarova]] to be called the "Gardens of the Grim", with the title of the sinecure to be "The [[Grim Gardener]]".
 [[Appointment]] of the title holder to be done by the Senators of [[Varushka]]
 Self Funded
 Proposed by Miekarova, Seconded by [[Volodmartz]]
@@ -20,6 +20,6 @@ Proposed by Miekarova, Seconded by [[Volodmartz]]
 * A Sinecure in Miekarova
 * Passed
 * This followed a previous, failed motion to construct the sinecure
-* This [[Commission]] was announced after the maximum number of commissions had been authorised, but was announced in case one of the previous commissions had been subject to the synod's [[Veto]]. The veto was not employed and so this commission was not authorised
+* This Commission was announced after the maximum number of commissions had been authorised, but was announced in case one of the previous commissions had been subject to the synod's [[Veto]]. The veto was not employed and so this commission was not authorised
 ### Date
 * Winter 380YE

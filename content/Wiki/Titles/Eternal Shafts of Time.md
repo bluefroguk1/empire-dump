@@ -21,14 +21,14 @@ Control of the Shafts is assigned to whichever Varushkan candidate receives the 
 Prior to the start of 385YE, the Eternal Shafts of Time produced only 27 wains of mithril each season. With the completion of the Iron Roads in Karov, however, improved access meant they were capable of producing 29 wains of mithril each season.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of Mithril which is theirs to do with as they will. If the Eternal Shafts of Time were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Eternal Shafts of Time, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of Mithril which is theirs to do with as they will. If the Eternal Shafts of Time were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Eternal Shafts of Time, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Eternal Shafts of Time comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.
 ### Bounty of Mithril
 The Seat has control of a source of Mithril and receives Bourse certificates to represent that control. They can dispense this resource as they choose. Production is 29 Imperial wains of mithril every season.
 ### [[Appointment]]
-As with all mithril Bourse seats, the holder of the title is determined during the Autumn Equinox. Control of the Shafts is assigned to whichever Varushkan candidate receives the most support from Varushkan owners of Mine and [[Forest]] resources. Votes are recorded in private in conjunction with the civil servants who support the Bourse.
+As with all mithril Bourse seats, the holder of the title is determined during the Autumn Equinox. Control of the Shafts is assigned to whichever Varushkan candidate receives the most support from Varushkan owners of Mine and Forest resources. Votes are recorded in private in conjunction with the civil servants who support the Bourse.
 Custodianship of the Eternal Shafts of Time is retained for a year, or until the citizen holding the seat dies, or steps down. 
 An Imperial Bourse seat cannot be revoked by the [[Imperial Synod]]. 
 RecentElections|[[Eternal_Shafts_of_Time]]

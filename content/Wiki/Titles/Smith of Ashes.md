@@ -14,7 +14,7 @@ revision_id: 90141
 ## Overview
 [[Smith of Ashes]] is an Imperial Orc [[Imperial Title]] created following an announcement during the Summer Solstice 383YE by the Imperial Orc Wayleave. The construction was completed shortly before the 383YE Autumn Equinox. The position of Smith of Ashes is a [[Sinecure]] in [[Skarsind]], requiring minimal responsibility but offering a regular income of crystal mana. 
 ## Responsibilities
-The Smith of Ashes has no particular responsibilities; they simply receive a bounty of mana crystals from the forge known as the Fire at the Foot of [[The Mountain]]. If the forge itself were to be threatened in any way, it would be the responsibility of the Smith to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Smith of Ashes has no particular responsibilities; they simply receive a bounty of mana crystals from the forge known as the Fire at the Foot of [[The Mountain]]. If the forge itself were to be threatened in any way, it would be the responsibility of the Smith to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
 The Smith of Ashes has custodianship of a sinecure and receives an income of 9 crystal mana each season.

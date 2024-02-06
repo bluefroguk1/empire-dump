@@ -14,7 +14,7 @@ revision_id: 86730
 __NOTOC__
 Proposal to increase the size of the Navarri army of the [[Black Thorns]] to that of a large armyProposed by [[Therunin]], Seconded by [[Karsk]]
 ### Overview
-* This motion was to take advantage of the [[Opportunity]] presented during the retaking of [[Liathaven]]
+* This motion was to take advantage of the Opportunity presented during the retaking of [[Liathaven]]
 * Passed in principle
 * Passed at 200 thrones
 ### Date

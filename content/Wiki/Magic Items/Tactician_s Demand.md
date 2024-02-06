@@ -21,7 +21,7 @@ Rods
 The general tightened the straps of his Battlesmith's Panoply. 
 "The swords and the serpent." he mused, putting aside the Runesticks and taking up his great bearskin cloak. He was a runesmith, steeped in the craft, but a general by acclamation. Wise in The Ways of war, rather than one who led the charge. A [[Kallavesi]]. Axe and rod his tools only: his soldiers were his weapons.
 He'd cast the omens, and they were not good. [[Loyalty]] to Empress and Empire steeled him for battle. If his band did not hit hard, then others would face harder odds.
-He stepped out of his tent, and turned to the warriors who gathered outside. They had fought through [[Forest]] and mountain together, and he knew he could rely on them.
+He stepped out of his tent, and turned to the warriors who gathered outside. They had fought through Forest and mountain together, and he knew he could rely on them.
 "All around [[Skarsind]], in glades just like this one, are [[Bands]] like us. Our armies are marching, with the Empress at their head, but it is us and those like us who hold the balance." 
 He looked around: [[Heroes]] from all nations selected for a critical strike. 
 "Once more, we [[Fight]]. This is a war, and [[The Empire]]’s fate is in your hands.  You have already won great victories, inSpired tales which will pass into legend. Those legends will become songs, living forever, a part of our history.

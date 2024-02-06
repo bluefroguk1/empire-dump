@@ -67,5 +67,5 @@ If the League passes this mandate it will automatically incorporate the effects 
 Any of these opportunities that are not taken during the Autumn Equinox will be lost.
 ## Resolution
 Gunnbrand Ironwill of the Wintermark Assembly has been charged by his peers to encourage the warriors of the Mark to Fight the Jotun with respect. The armies of Wintermark will change their strategies over the next four seasons.
-Likewise, the Freeborn Assembly embraced the [[Opportunity]] to encourage the capture and ransoming of their foes. Gonzalo i [[Riqueza]] , the named priest, has provided the appropriate amount of liao and so the quality of the Red Wind Corsairs will be permanently enhanced.
+Likewise, the Freeborn Assembly embraced the Opportunity to encourage the capture and ransoming of their foes. Gonzalo i [[Riqueza]] , the named priest, has provided the appropriate amount of liao and so the quality of the Red Wind Corsairs will be permanently enhanced.
 .

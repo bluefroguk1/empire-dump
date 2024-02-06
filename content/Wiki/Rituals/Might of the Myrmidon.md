@@ -18,7 +18,7 @@ Casting time|2 Target Character
 [[Enchantment]] 
 ### Effects
 The target of this ritual gains remarkable martial prowess. They gain the [[Skills]] weapon master, shield, thrown, cleaving strike, mortal blow and mighty strikedown 
-In addition, the target experiences a powerful Roleplaying effect; they feel a strong urge to seek out powerful, famous and dangerous enemies and defeat them in contests of arms. They feel uncomfortable attacking from ambush or with stealth and feel much prefer to [[Challenge]] their target openly before they attack. 
+In addition, the target experiences a powerful Roleplaying effect; they feel a strong urge to seek out powerful, famous and dangerous enemies and defeat them in contests of arms. They feel uncomfortable attacking from ambush or with stealth and feel much prefer to Challenge their target openly before they attack. 
 While under this enchantment they may respond to any roleplaying effect that would make them afraid, weary, make them doubt their abilities or coerce them into following another by loudly declaring a challenge against the source of the effect and confidently moving to attack it or engage with it. 
 Season Duration
 ### Additional Targets

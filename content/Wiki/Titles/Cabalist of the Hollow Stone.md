@@ -11,7 +11,7 @@ revision_id: 103144
 ---
 
 ## Overview
-The [[Cabalist of the Hollow Stone]] is an [[Imperial Title]] created by the Senate in Winter 383YE to oversee Marshstand Skerry following the conquest of [[Ossium]]. The position of Cabalist is an unusual [[Sinecure]], producing crystal mana and ''[[Vis]]'' each season. The skerry is in the murky marshlands of the Drownbark [[Forest]], in Ossium.
+The [[Cabalist of the Hollow Stone]] is an [[Imperial Title]] created by the Senate in Winter 383YE to oversee Marshstand Skerry following the conquest of [[Ossium]]. The position of Cabalist is an unusual [[Sinecure]], producing crystal mana and ''[[Vis]]'' each season. The skerry is in the murky marshlands of the Drownbark Forest, in Ossium.
 ## Responsibilities
 The Cabalist has no particular responsibilities; they simply receive crystal mana and vis produced in Marshstand Skerry. If the skerry were to be threatened in any way, it would be the responsibility of the Cabalist to deal with those threats. 
 ## Powers

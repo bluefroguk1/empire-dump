@@ -32,7 +32,7 @@ As with any Freeborn, Kohan usually dress as extravagantly as possible. What rea
 A kohan band may cultivate a uniform look to their [[Costume]] - Generally through the use of colour. A given band is likely to pick one or two shades and enCourage its members to wear clothing in these colours, leaving it up to the individual to deterMine the exact cut and style.
 Some kohan take valuable trinkets from particularly impressive fallen enemies, generally pieces of jewelry. The more striking these items are, the more opportunities they give to tell stories about how they were acquired.
 ### Children
-Children are an [[Opportunity]] for parents to show off their wealth, dressing their offspring in traditional Freeborn styles.
+Children are an Opportunity for parents to show off their wealth, dressing their offspring in traditional Freeborn styles.
 ## Accessories
 ### Jewellery
 Jewellery is commonly used either as part of the clothes themselves or to frame the face or hands to draw attention to them. Veils are fashionable for people of any gender who wish to appear mysterious and alluring.

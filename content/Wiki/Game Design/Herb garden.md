@@ -12,7 +12,7 @@ revision_id: 97238
 ---
 
 ## Definition
-A [[Herb garden]] represents an area of land where herbs grow. A [[Herb]] garden can be of almost any size - it could be a tiny personal garden in an [[Urizen]] [[Spire]], meticulously tended and cared for, or it could be a vast [[Forest]] in [[Wintermark]] or [[Varushka]] that a character scours in search of wild herbs.
+A [[Herb garden]] represents an area of land where herbs grow. A Herb garden can be of almost any size - it could be a tiny personal garden in an [[Urizen]] [[Spire]], meticulously tended and cared for, or it could be a vast Forest in [[Wintermark]] or [[Varushka]] that a character scours in search of wild herbs.
 ## Production
 A Herb garden produces 6 doses of true vervain, 2 doses of [[Cerulean Mazzarine]], 2 doses of [[Bladeroot]], 2 doses of [[Imperial Roseweald]], and 2 doses of [[Marrowort]].
 ## Downtime Options

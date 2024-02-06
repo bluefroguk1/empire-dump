@@ -36,9 +36,9 @@ We've added a line to both [[Farm]] and busniess resources to make it clearer th
 ## Regalia
 * 11/12/2023
 We have added a section on the [[New Imperial titles]] page which explains how the [[Imperial Senate]] can add regalia to a title. 
-## [[Ossium]] [[Opportunity]]
+## [[Ossium]] Opportunity
 * 31/08/2023
-We've made a slight alteration to the [[Culling the threat]] wind of fortune in the section about creating a permanent magical fortress in the Drownbark [[Forest]]. We've made it clear that the "no upkeep" element of the permanent magical fortress is part of the Opportunity, and not a standard part of making a magical fortress permanent. The precise mechanics of creating a permanent magical fortress would be determined on case by case basis.
+We've made a slight alteration to the [[Culling the threat]] wind of fortune in the section about creating a permanent magical fortress in the Drownbark Forest. We've made it clear that the "no upkeep" element of the permanent magical fortress is part of the Opportunity, and not a standard part of making a magical fortress permanent. The precise mechanics of creating a permanent magical fortress would be determined on case by case basis.
 ## [[Appraisal]]
 * 08/08/2023
 Now the Imperial Senate can perform ''two'' appraisals each season, we've added a note to the power as to how the Imperial Auditor will proceed if both name the same researcher.
@@ -87,7 +87,7 @@ We've explicitly added a note that the ritual targeting ability of an army with 
 We've decided to remove the ''Haunted'' army quality. There are no armies with this quality, and after extensive discussion we don't believe we would ever allow any future army to have it, either as a quality or an enchantment.
 ## Farm Diversification
 * 31/05/2023
-Updated the diversification section on the Farm page to make it clearer that "[[Herb]]" means one of the standard five magical herbs. Any opportunity that grants "herbs" will always mean the herbs gathered from a standard [[Herb garden]] unless it explicitly says otherwise.
+Updated the diversification section on the Farm page to make it clearer that "Herb" means one of the standard five magical herbs. Any opportunity that grants "herbs" will always mean the herbs gathered from a standard [[Herb garden]] unless it explicitly says otherwise.
 ## Wolves of Winter
 * 26/05/2023
 The magnitude of the ritual ''Wolves of Winter'' has been increased in line with our recent changes to [[Rituals]] that effect the downtime campaign. The ritual is not in [[Imperial lore]], but the database has been adjusted to reflect this change.
@@ -108,7 +108,7 @@ We've changed the year of the formation of The the Commonwealth from 120YE to 10
 Appointment of a Throne is constitutional vote. We've made it more explicit that the Assembly of the Nine, as well as the General Assembly, can [[Veto]] the election of The Throne. We've also added that one of the first things every Throne does is ratify their own appointment.
 ## Marsh Commissions
 * 19/04/2023
-We've added a note to the [[Commission]] page to indicate that the problem of building on marshes has become permanent.
+We've added a note to the Commission page to indicate that the problem of building on marshes has become permanent.
 ## Dreams in [[The Witch]] House]]
 * 14/04/2023
 We've added a note to [[Dreams in the Witch House]] inviting players to e-mail us before the event with information about territories they intend to scry so that we are more likely to have a response ready.
@@ -158,7 +158,7 @@ We've added a note to the Knight-protector [[Imperial Title]] about what happens
 ## [[Vital Strength of the Earth]]
 * 09/03/2023
 We've corrected an error in Vital Strength of the Earth which had the increased magnitude for additional targets at 5, rather than 24.
-## [[Lineage]] in Play
+## Lineage in Play
 * 08/03/2023
 We added some material about gaining (and losing) lineage after character creation. There's a section on the lineage page, and sections on each of the individual lineage pages in the ''Imperial (lineage)'' sections.
 ## Liao and PLV
@@ -259,7 +259,7 @@ We've amended the rules to make clear that you can only raise an army in a terri
 We've updated the performance section of the Consecration skill to make it clearer that "letting a referee know in advance" means "during an event" rather than "prior to the event."
 ## [[Challenge the Iron Duke]]
 * 14/07/2022
-We've added a paragraph to the out-of-character section of [[Challenge]] the Iron Duke to help players better manage their expectation of the kind of challenge or boon the ritual might provide.
+We've added a paragraph to the out-of-character section of Challenge the Iron Duke to help players better manage their expectation of the kind of challenge or boon the ritual might provide.
 ## Abrogation
 * 13/07/2022
 We've updated the abrogation power of the Senate to make it clearer that when a Commission is abrogated the exact effects depend on the nature of the structure affected, but generally result in the loss of any production following the summit where the motion is passed.

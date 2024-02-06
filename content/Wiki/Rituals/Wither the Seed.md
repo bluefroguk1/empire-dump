@@ -22,7 +22,7 @@ Over the next thirty years, the fertility of the target territory undergoes a ma
 [[Vallorn]] and vallornspawn in the target territory tend to become slothful and quiescent for the duration; they are not harmed, but they rarely expand beyond their borders unless provoked. 
 The ritual has no real effect on resources, even Farms, but over time the population of people and animals in the area will drop dramatically.
 The curse has lingering effects on creatures who have spent a lot of time in the area making conception more difficult if not impossible without Magical [[Assistance]].
-Over time this will have a significant effect on a foreign or [[Barbarian]] region, damaging their agriculture and industry and reducing their capacity to field troops and feed their people.
+Over time this will have a significant effect on a foreign or Barbarian region, damaging their agriculture and industry and reducing their capacity to field troops and feed their people.
 The effects last for around thirty years.
 ### Removing the Curse
 The curse can be removed by certain powerful creatures or items with powers associated with fertility (most likely the [[Eternal]] Yaw'nagrah) although such assistance is unlikely to come cheaply. It could also be removed by an extremely powerful ritual, probably from the Spring [[Realm]] that restores fertility but such an effect is likely to approach magnitude 200, and potentially higher if it is to remove lingering effects.

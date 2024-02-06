@@ -11,7 +11,7 @@ revision_date: 2022-02-02 18:01:49+00:00
 revision_id: 86664
 ---
 
-To [[Commission]] a [[Ministry]] in [[Skarsind]], Mines of Gulhule, to enable the [[Imperial Orcs]] to purchase ingots. 
+To Commission a [[Ministry]] in [[Skarsind]], Mines of Gulhule, to enable the [[Imperial Orcs]] to purchase ingots. 
 This will be a large sized ministry. 
 Motion is Self-funded.
 Proposed by [[Feroz]], Seconded by Skarsind 
@@ -21,7 +21,7 @@ Proposed by [[Feroz]], Seconded by Skarsind
 ### Date
 * Winter 379YE.
 ### [[Cost]]
-* This is a response to an [[Opportunity]] to develop the mines of Gulhule.
+* This is a response to an Opportunity to develop the mines of Gulhule.
 * The [[Senator]] has not yet specified which of the three options will be taken:
 ** 6 wains of [[Mithril]] and 12 crowns labour costs, plus an additional 12 crown outlay, will provide a ministry, allowing the purchase of green iron and orichalcum.
 ** 8 wains of mithril and 16 crowns labour costs, plus an additional 16 crown outlay, will provide a more advanced ministry that allowed the controller to purchase green iron, orichalcum, and tempest jade.

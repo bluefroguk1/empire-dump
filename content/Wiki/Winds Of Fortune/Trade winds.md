@@ -32,7 +32,7 @@ He touched her arm - now was not the time - and kept his smile fixed. He had alr
 The functionary interrupted him.
 "Oh I am so very apologetic, but I am afraid that we cannot perform the inspection here. You must go to the South-Eastern docks where the inspection will happen. It will not take more than an hour or so - our inspectors are very adept at finding pests - and while there will be a small charge for their time they are *very* professional."
 Gregory could feel himself getting angry.
-"I am expecting to meet with the traders of the House of the White [[Forest]] to discuss the purchase of dragonbone, I can't ..."
+"I am expecting to meet with the traders of the House of the White Forest to discuss the purchase of dragonbone, I can't ..."
 Again the functionary stopped him mid-sentence.
 "Ah, that is a terrible shame. I am afraid that the House of the White Forest have unfortunately been investigated on charges of espionage, and Lord-Magister Trescher has temporarily suspended their permission to trade with Imperial captains whose good character cannot be absolutely vouchsafed. I am dreadfully, awfully sorry."
 Gregory kept himself under control with a supreme effort of will, remembering the good advice of his Da about throwing the first punch.
@@ -62,4 +62,4 @@ The government - and indeed the people - are furious with The Empire. Imperial t
 Hopefully the construction of an embassy may go some way towards mollifying them.
 ### Dubhtraig
 Not everything that happens at sea involves trade. The Empire's closest maritime neighbours, the [[Grendel]], live just across the [[Bay of Catazar]] to the South and many Imperial citizens choose to raid their ships and their coastal settlements.
-Recent reports however suggest that the warships of the Salt Lords are being gathered in force, patrolling the waters of the Southern bay and actively seeking out Imperial ships to harass and where possible destroy. Engaging with Grendel ships is more dangerous than normal as a result - captains who engage the [[Barbarian]] orcs are finding it harder to make a profit. When the holds of the ships you raid are not stuffed full of trade goods but of heavily armed marines, you can end up spending more than you make...
+Recent reports however suggest that the warships of the Salt Lords are being gathered in force, patrolling the waters of the Southern bay and actively seeking out Imperial ships to harass and where possible destroy. Engaging with Grendel ships is more dangerous than normal as a result - captains who engage the Barbarian orcs are finding it harder to make a profit. When the holds of the ships you raid are not stuffed full of trade goods but of heavily armed marines, you can end up spending more than you make...

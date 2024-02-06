@@ -12,7 +12,7 @@ revision_id: 105777
 ---
 
 __NOTOC__
-[[Commission]] the Triosk Metal Exchange in Triosk, [[Volodmartz]]. Creating the title: Merchant-Boyar of the Eagle and Stag Exchange, appointed by [[Tally of the Votes]] by Varushkan [[Mine]] and [[Forest]] owners. Responsibilities as defined by the [[Opportunity]].
+Commission the Triosk Metal Exchange in Triosk, [[Volodmartz]]. Creating the title: Merchant-Boyar of the Eagle and Stag Exchange, appointed by [[Tally of the Votes]] by Varushkan [[Mine]] and Forest owners. Responsibilities as defined by the Opportunity.
 ## Overview
 * Constructs a [[Ministry]] seat in Volodmartz as per the [[Deep forests and dark hills]] wind of fortune
 * Passed

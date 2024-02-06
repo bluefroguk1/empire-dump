@@ -19,7 +19,7 @@ to construct a mana [[Sinecure]] called Autumn’s Boon. Sinecure to be build in
 ## Date
 * Summer 382YE
 ## [[Cost]]
-* The [[Commission]] uses standard costs.
+* The Commission uses standard costs.
 * The motion does not specify the size of the sinecure; this is a necessary detail that is up to the [[Senator]] to deterMine.
 ## PrOgress
 * 12 wains of [[Mithril]] and 24 crowns provided by Tyr Brennan after the Summer Solstice 382YE.

@@ -12,7 +12,7 @@ revision_id: 86765
 ---
 
 __NOTOC__
-To assign the Great [[Forest]] of Peythat as an [[Imperial Bourse]] Seat''Proposed by [[Bastion]], Seconded by [[Necropolis]]'' 
+To assign the Great Forest of Peythat as an [[Imperial Bourse]] Seat''Proposed by [[Bastion]], Seconded by [[Necropolis]]'' 
 ### Overview
 * This motion was to allocate the [[Great Forest at Reikos]] bourse seat in [[Reikos]] as an Imperial position.
 * Passed

@@ -18,7 +18,7 @@ Papiria narrowed her serpentine eyes in the gloom. She ground her teeth.
 "How will this look, Healer Escius? Do you think it will look good?"
 Escius seemed taken aback. 
 "I'm not sure I..." he started to say but she cut him off.
-"My tenure here has been wracked with problems, and now a dozen patients have just ''vanished''. People will talk. They will say I am not fit for my duty. They will [[Challenge]] my authority. They will try to ''replace'' me. After all I have done for them! After all I have ''sacrificed.''"
+"My tenure here has been wracked with problems, and now a dozen patients have just ''vanished''. People will talk. They will say I am not fit for my duty. They will Challenge my authority. They will try to ''replace'' me. After all I have done for them! After all I have ''sacrificed.''"
 She stepped closer to the startled healer. He backed away, nervous, looking around for some sign of help.
 "Who put you up to this Escius!" Papiria hissed his name, stressing every sibilant. She had stopped blinking. "That smug, soUlless [[Merrow]]. You are in league with him. Admit it!"
 Escius was frightened now. Papiria stepped forWard again, and he stepped back again, and then his back was to the cold wall of her office, and yet she was still coming. She stopped just short of touching him. His skin crawled.
@@ -30,7 +30,7 @@ Before Escius could answer, she jammed the silver letter opener from her desk in
 She grabbed her winter cloak, then, and stepped towards the balcony. She opened [[The Door]] ''What a beautiful night'', she thought absently. 
 On the threshold, the last Arbiter of the [[Spire]] of Twisting Shadows paused. She looked back at Escius. She doubted he could hear her, but she spoke to him one last time.
 "He told me that things ''end''."
-And with that she stepped out onto the balcony, high above the mist shrouded [[Forest]] valley, and was gone.
+And with that she stepped out onto the balcony, high above the mist shrouded Forest valley, and was gone.
 ## Overview
 During the Spring Equinox, a riot engulfed the Spire of Twisting Shadows in [[Zenith]], in the isolated forest foothills of Lustri. The spire was a place of treatment and succour to those who have had their minds and spirits daMaged by exposure to powerful [[Magic]] - especially for those who have been seriously damaged by misguided contact with potent astronomantic tulpa.
 The [[Urizen]] made a brave effort to contain the problem - specifically to round up certain especially dangerous individuals who had been kept safe within its walls. Unfortunately, their efforts were not entirely successful. Some of the most fundamentally damaged, tragic patients escaped [[Into the woods]] below the tower. The Spire was damaged, but the staff were able to restore a semblance of order.

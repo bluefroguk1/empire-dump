@@ -20,7 +20,7 @@ Construct an [[Embassy]] for the Asavean Empire in [[Sarvos]].Proposed by Sarvos
 ### [[Cost]]
 * 20 [[White granite]]
 * 20 [[Weirwood]]
-* Special: Note that this is not the standard cost for an embassy [[Commission]].
+* Special: Note that this is not the standard cost for an embassy Commission.
 ### PrOgress
 * 20 wains of white granite and weirwood supplied by Mirislav, [[Senator]] for Sarvos after Spring Equinox 378.
 ### Campaign Outcome

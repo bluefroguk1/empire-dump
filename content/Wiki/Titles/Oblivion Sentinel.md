@@ -12,7 +12,7 @@ revision_id: 105103
 ---
 
 ## Overview
-The [[Oblivion Sentinel]] is an [[Imperial Title]] aWarded to a citizen of [[Urizen]]. Construction of the [[Mithril]] Sculptures was passed by the [[Imperial Senate]] during the Summer Solstice 385YE following an [[Opportunity]] presented by the Night [[Eternal]] [[Sung]]. 
+The [[Oblivion Sentinel]] is an [[Imperial Title]] aWarded to a citizen of [[Urizen]]. Construction of the [[Mithril]] Sculptures was passed by the [[Imperial Senate]] during the Summer Solstice 385YE following an Opportunity presented by the Night [[Eternal]] [[Sung]]. 
 ## Responsibilities
 The Oblivion [[Sentinel]] is responsible for maintaining a watch over the [[Black Plateau]] and deal with any threats associated with it, at the very least this means taking charge of any quests or skirmishes involving the broken ones attracted to Screed, but could also involve more esoteric threats. In addition if the mithril sculptures were to be threatened in any way, it would be the responsibility of the Oblivion Sentinel to deal with those threats.
 ## Powers

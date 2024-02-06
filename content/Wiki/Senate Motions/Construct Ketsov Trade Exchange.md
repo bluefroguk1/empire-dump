@@ -12,10 +12,10 @@ revision_id: 85531
 ---
 
 __NOTOC__
- An announcement by [[Bearer of an Imperial Wayleave]], Irina Vasileva Dukov. To build a trading exchange in the town of Ketsov in [[Ossium]]. This [[Ministry]] will allow the purchase of Magical weapons and armour, taking advantage of the [[Opportunity]] provided by the people of Ketsov. This will create the title of [[Burgher of Ketsov]] - a Varushkan National Bourse position appointed annually by vote of Varushkan [[Mine]] and [[Forest]] owners.
+ An announcement by [[Bearer of an Imperial Wayleave]], Irina Vasileva Dukov. To build a trading exchange in the town of Ketsov in [[Ossium]]. This [[Ministry]] will allow the purchase of Magical weapons and armour, taking advantage of the Opportunity provided by the people of Ketsov. This will create the title of [[Burgher of Ketsov]] - a Varushkan National Bourse position appointed annually by vote of Varushkan [[Mine]] and Forest owners.
 ''Announced by bearer of an Imperial Wayleave''
 ## Overview
-* [[Commission]] a Ministry in Ghalath Fields, Ossium that draws on an Opportunity presented by the Ketsov
+* Commission a Ministry in Ghalath Fields, Ossium that draws on an Opportunity presented by the Ketsov
 * Announcement
 ## Date
 * Spring 383YE

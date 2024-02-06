@@ -23,7 +23,7 @@ for gone are the houses and gone are the halls
 gone are the ancients at Terunael's fall
 Chorus
 through the dark places, through this long night
-through the dark [[Forest]], we bear this light
+through the dark Forest, we bear this light
 for though all around us, The [[The Vallorn]] do swarm
 through our blood and our oaths, [[The Empire]] was born
 [[Highguard]]

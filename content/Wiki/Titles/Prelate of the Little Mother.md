@@ -14,7 +14,7 @@ revision_id: 102867
 ## Overview
 The [[Prelate of the Little Mother]] is an [[Imperial Title]] which was originally created in 15YE. The position of Prelate is a [[Sinecure]], requiring minimal responsibility but offering a regular income of [[Liao]], and additional votes in the [[Imperial Synod]].
 ## Responsibilities
-The Prelate oversees the Basilica of [[The Little Mother]] in [[Bastion]] that houses [[The Tomb]] of the exemplar of [[Prosperity]]. If the basilica or the tomb were to be threatened, it would be the responsibility of the Prelate to face those threats; likewise should any [[Opportunity]] related to the shrine arise they would decide how to respond.
+The Prelate oversees the Basilica of [[The Little Mother]] in [[Bastion]] that houses [[The Tomb]] of the exemplar of [[Prosperity]]. If the basilica or the tomb were to be threatened, it would be the responsibility of the Prelate to face those threats; likewise should any Opportunity related to the shrine arise they would decide how to respond.
 ## [[Appointment]]
 The Prelate is a virtue position which is appointed by [[Judgement]] of the Prosperity [[Assembly]]. 
 The Prelate has Tenure and serves until they die or step down. They can be revoked by the [[General]] Assembly, the Assembly of Prosperity, and the Assembly of the Nine.

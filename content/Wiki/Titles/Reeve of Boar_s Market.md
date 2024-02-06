@@ -14,7 +14,7 @@ revision_id: 98675
 
 __NOTOC__
 ## Overview
-The Reeve of Boar's Market is an [[Imperial Title]] aWarded to a citizen of [[Dawn]]. The Boar's Hollow Market-fayre was Commissioned by the [[Imperial Senate]] during the Autumn Equinox 384YE following a [[Opportunity]] created by the Prosperous citizens of [[The Empire]].
+The Reeve of Boar's Market is an [[Imperial Title]] aWarded to a citizen of [[Dawn]]. The Boar's Hollow Market-fayre was Commissioned by the [[Imperial Senate]] during the Autumn Equinox 384YE following a Opportunity created by the Prosperous citizens of [[The Empire]].
 ## Responsibilities
 The Reeve of Boar's Market is responsible for working with the Seneschals and Retainers of Dawn's noble houses, and working to ensure the [[Prosperity]] of the nation by helping them to get their hands on [[Weirwood]], [[White granite]], [[Mithril]], and even [[Ilium]]. If the market-fayre were to be threatened, it would be the responsibility of the Reeve to face those threats; likewise should any Opportunity related to the market-fayre arise they would decide how to respond.
 White Granite

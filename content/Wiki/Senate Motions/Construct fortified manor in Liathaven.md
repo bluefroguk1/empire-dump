@@ -25,5 +25,5 @@ To build a Fortified Manor at Beacon Point in [[Liathaven]], with a view to futu
 ### Campaign Outcome
 * When completed, a fortified manor house will provide a place of refuge for local citizens. 
 * This should protect the people of Beacon Point from the worst effects of raiding by the [[Jotun]] as well as the attacks of bandits in the southern mountains.
-* The fortified [[Steading]] was a casualty of the Jotun invasion of Liathaven in late 379YE.
+* The fortified Steading was a casualty of the Jotun invasion of Liathaven in late 379YE.
 __NOTOC__

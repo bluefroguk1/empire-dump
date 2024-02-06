@@ -43,7 +43,7 @@ Oh my friend, you have learned nothing
 Good Varushkans keep on stuffing
 For the vodka vat takes almost anything
 And ends all suff'ring...
-In the [[Forest]] we find berries
+In the Forest we find berries
 A good reason to care is
 Nothing to do with the taste or smell
 Okay, you can dye clothes up

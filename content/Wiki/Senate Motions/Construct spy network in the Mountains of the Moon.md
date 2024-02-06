@@ -27,7 +27,7 @@ Proposed by [[Casinea]], seconded by [[Redoubt]]. Passed.
 * Upkeep: 2 Thrones per season.
 ### PrOgress
 * 10 wains of weirwood and 20 crowns provided by Nira of Cantiarch's Hold after Winter Solstice 381YE.
-* Due to the [[Grendel]] and [[Druj]] occupation of Zenith and [[Spiral]] no progress was made on this [[Commission]] after the Winter Solstice 381YE.
+* Due to the [[Grendel]] and [[Druj]] occupation of Zenith and [[Spiral]] no progress was made on this Commission after the Winter Solstice 381YE.
 * With the conquest of Ossuary in Spiral, [[The Empire]] now has access to the target territory again and if nothing changes work will be completed shortly before the Summer Solstice.
 ### Campaign Outcome
 * A spy network will be constructed in the territory known as the Mountains of the Moon.

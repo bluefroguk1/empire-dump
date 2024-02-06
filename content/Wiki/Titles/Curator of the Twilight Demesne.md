@@ -14,7 +14,7 @@ revision_id: 92546
 ## Overview
 The [[Curator of the Twilight Demesne]] is an Imperial Orc [[Imperial Title]] created following an announcement during the Spring Equinox 384YE by Palerictus Ka'bal, [[Legion Engineer]]. The construction was completed shortly before the 384YE Summer Solstice.
 ## Responsibilities
-The Curator of the Twilight Demesne has no particular responsibilities; they simply receive a bounty of mana crystals from the Twilight Demesne. If the [[Sinecure]] itself were to be threatened in any way, it would be the responsibility of the Curator to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Curator of the Twilight Demesne has no particular responsibilities; they simply receive a bounty of mana crystals from the Twilight Demesne. If the [[Sinecure]] itself were to be threatened in any way, it would be the responsibility of the Curator to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 ## Powers
 ### Bounty of Mana
 The Curator of the Twilight Demesne has custodianship of a sinecure and receives an income of 9 crystal mana each season.

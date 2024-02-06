@@ -23,5 +23,5 @@ The Great Wyrm is a very large constellation and is only invoked by confident or
 ### Tulpas of The Great Wyrm
 The Great Wyrm manifests thoughforms either as streamer-like, ephemeral snake-like beings that flutter through the air, or as humanoids, scaled in shimmering rainbows. The Feather-Snake of Brass Coast legend and the Mirrorman of [[The League]] are all known tulpas of the Great Wyrm. The [[Suaq]] believe the shimmering curtains of light that sometimes light the northern night are an aspect of the Wyrm too.
 ### [[Alignment]]
-The Great Wyrm transforms everything it touches and that includes ritualists. Mostly these transformations are mental; opinions shift, attitudes alter. There are rumours, however, of a Highborn ritualist who, after invoking the Great Wyrm in a large ritual, found himself abruptly manifesting [[Lineage]].
+The Great Wyrm transforms everything it touches and that includes ritualists. Mostly these transformations are mental; opinions shift, attitudes alter. There are rumours, however, of a Highborn ritualist who, after invoking the Great Wyrm in a large ritual, found himself abruptly manifesting Lineage.
 Category:Constellation

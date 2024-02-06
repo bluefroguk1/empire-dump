@@ -46,7 +46,7 @@ Hallow is used to create an aura on an item, such as a weapon, implement, shield
 ### Hallowing of the [[Steward]]
 * ''You feel a desire to serve your cause without concern for your own reward.''
 ### Hallowing of the Banner
-* ''You feel an urge to [[Challenge]] detractors who criticise the object of your loyalty.''
+* ''You feel an urge to Challenge detractors who criticise the object of your loyalty.''
 ### Hallowing of Bolstering Bill
 * ''You feel driven to protect those you love from all harm regardless of the cost to yourself or others.''
 ### Hallowing of the Silverlark's Tears

@@ -13,7 +13,7 @@ revision_id: 84213
 
 ## Overview
 [[Grey Pilgrim]] is the name adopted by the devout Highborn who over the course of 381YE chose to join the [[Navarr]] walking the trods. Spurred to action by claims that The [[The Vallorn]] traps the souls of those who fall under its influence, they seek to free those souls that have been caught, unable to move on to the Labyrinth or cross the Abyss.
-As the nascent PilgriPilgrimage was beginning the Highborn seized the [[Opportunity]] to enCourage the pilgrims to also spread [[The Way]] across [[The Empire]]. By rooting out heresy and blasphemy as they walked the lands; and by proselytising the faith to foreigners they can save more souls than just those trapped by the [[Vallorn]]. 
+As the nascent PilgriPilgrimage was beginning the Highborn seized the Opportunity to enCourage the pilgrims to also spread [[The Way]] across [[The Empire]]. By rooting out heresy and blasphemy as they walked the lands; and by proselytising the faith to foreigners they can save more souls than just those trapped by the [[Vallorn]]. 
 The desperate need to weaken The the vallorn by walking the trods defines the physical nature of the [[Pilgrimage]], but it has become a spiritual [[Crusade]], aiming to renew The Way throughout the Empire.
 ## History
 The idea for the pilgrimage began with a [[Judgement]] passed by the Navarr National [[Assembly]] in Winter 381YE. Raewyn [[Eternal]] urged the [[Imperial Synod]] to inform the faithful that "when someone falls in the vallorn miasma, they do not die. The terrible vallorn keeps them on the brink of death and puppets their bodies, trapping their souls, unable to move on to the Labyrinth or cross the Abyss." Galvanised by this new discovery, in the following season various Assemblies passed statements of principle urging citizens to do what they could to support the Navarr in their battle with The the vallorn.
@@ -25,7 +25,7 @@ Guided by these three mandates, the new Pilgrimage is now in fUll flow, with slo
 ## Playing a Grey Pilgrim
 The key reason to create a grey pilgrim is to adopt one or more of the four goals of the pilgrimage. Each of these can give,
 ### Defeat the Vallorn
-The Vallorn is the fundamental reason for the pilgrimage. It has existed for centuries, a threat older even than The Empire itself. Dedicating yourself to pushing back The Vallorn and freeing those who have been trapped by it is a great [[Challenge]] for any Highborn character, one that is likely to take a lifetime to complete. 
+The Vallorn is the fundamental reason for the pilgrimage. It has existed for centuries, a threat older even than The Empire itself. Dedicating yourself to pushing back The Vallorn and freeing those who have been trapped by it is a great Challenge for any Highborn character, one that is likely to take a lifetime to complete. 
 The Navarr were Fighting The Vallorn before they joined The Empire, so finding ways to support them in their battle is a great place to start. Walking the trods is vital to weaken the vallorn, but the key discoveries and decisions are made at [[Anvil]] - anything you can do there to focus The Empire's energies against the vallorn could be effective. 
 ### Oppose Heresy and Idolatry
 The pernicious influence of eternals makes idolatry a constant risk in the Empire. Likewise, despite the best efforts of the Synod, false virtues like Hatred, Vengeance, and Peace still exist in some parts of the Empire. Your pilgrim might be deterMined to root out these evils and oppose them as best you can.

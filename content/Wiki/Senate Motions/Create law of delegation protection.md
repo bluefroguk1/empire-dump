@@ -11,7 +11,7 @@ revision_date: 2022-01-24 16:39:52+00:00
 revision_id: 85920
 ---
 
-Any delegations from [[Barbarian]] nations who arrive on the field at [[Anvil]] under a flag of peace should have protection under the law and shall be protected as citizens for the duration of their Visit to [[The Empire]]. ''Proposed by [[Miaren]], seconded by [[Segura]].''
+Any delegations from Barbarian nations who arrive on the field at [[Anvil]] under a flag of peace should have protection under the law and shall be protected as citizens for the duration of their Visit to [[The Empire]]. ''Proposed by [[Miaren]], seconded by [[Segura]].''
 ### Overview
 * Creating a law to offer protection to barbarian delegations
 ### Date

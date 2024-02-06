@@ -15,7 +15,7 @@ __NOTOC__
 We ask permission to build the Salt Guard, Menno van Ritsjhof’s pLanned [[Fortification]] in Siroc, and for a disbursement of funds for the construction.
 ''Proposed by [[Madruga]], seconded by [[Feroz]].''
 ## Overview
-* [[Commission]] a unique Fortification in Madruga as part of an [[Opportunity]] presented by the famed [[Architect]] Menno van Ritsjhof.
+* Commission a unique Fortification in Madruga as part of an Opportunity presented by the famed [[Architect]] Menno van Ritsjhof.
 * Passed at 80 Thrones
 ## Date
 * Summer 382YE

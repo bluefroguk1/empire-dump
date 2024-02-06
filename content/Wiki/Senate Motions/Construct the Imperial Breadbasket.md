@@ -12,11 +12,11 @@ revision_id: 86736
 ---
 
 __NOTOC__
-To [[Commission]] the [[Great work]] “The Imperial Breadbasket” across Marcher territories.
+To Commission the [[Great work]] “The Imperial Breadbasket” across Marcher territories.
 To create a network of granaries, barns and see stocks to help prevent starvation in the face of blight, harsh weathers or similar disastrous occurrences.
 Proposed by [[Bregasland]], Seconded by [[Upwold]]
 ### Overview
-* This motion was to take advantage of the [[Opportunity]] presented to help prepare a 'safety net' to the Imperial armies.
+* This motion was to take advantage of the Opportunity presented to help prepare a 'safety net' to the Imperial armies.
 * Passed in principle
 * Passed at 400 thrones
 ### Date

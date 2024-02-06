@@ -11,7 +11,7 @@ revision_id: 104636
 ## Overview
 The Briars are infused by the [[Realm]] of Spring, a fecund realm of exuberant natural forces whose green Eternals care only for life and not at all for humankind. The briars are filled with primal energy: direct, uncomplicated and prone to outbursts of destructive rage.
 Briars are most comfortable in military roles, although their primal nature can make them powerful in the Conclave. Some prosper in the Synod where their direct approach to the Imperial Faith often gives them spiritual [[Insight]]. They often find the Bourse confusing and become easily frustrated by the complexities of the Senate. 
-The [[Briar]] [[Lineage]] is intended to appeal to players who want to play something primal or Visceral, with a strong urge to straightforWardness and physicality. They also offer opportunities to play characters who are highly critical of the complexities and shortcomings of civilised society. Briars will allow characters to play with some themes of discrimination as well; this lineage is presented as suspect by many groups within the setting.
+The [[Briar]] Lineage is intended to appeal to players who want to play something primal or Visceral, with a strong urge to straightforWardness and physicality. They also offer opportunities to play characters who are highly critical of the complexities and shortcomings of civilised society. Briars will allow characters to play with some themes of discrimination as well; this lineage is presented as suspect by many groups within the setting.
 ===Sobriquets=== 
 Other terms for briar, both within [[The Empire]] and in other parts of the world, include: Leshy, Barkbleeder (derogatory), Spriggan, Cicatrix, Greenscar, the twisted
 ## What they are not

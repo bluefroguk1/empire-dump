@@ -14,8 +14,8 @@ revision_id: 86065
 __NOTOC__
 to develop the Eye of Serenael to produce additional mana and herbs by constructing Seren’s Whispering Garden.''Proposed by [[Miaren]], seconded by [[Therunin]].''
 ## Overview
-* This motion was to build a [[Great work]] in Miaren to improve the production of Mana sites and [[Herb]] gardens.
-* This takes advantage of an [[Opportunity]] to exploit the Eye of Serenael. 
+* This motion was to build a [[Great work]] in Miaren to improve the production of Mana sites and Herb gardens.
+* This takes advantage of an Opportunity to exploit the Eye of Serenael. 
 * Passed in principle
 ## Date
 * Winter 381YE
@@ -26,7 +26,7 @@ to develop the Eye of Serenael to produce additional mana and herbs by construct
 * Six months to complete
 ## PrOgress
 ### Autumn Equinox 382YE
-* This [[Commission]] has lapsed
+* This Commission has lapsed
 ### Outcome
 * Will create a great work in Miaren.
 * Once complete it would safely channel the [[Magic]] of the Eye of Serenael - and potentially several of the smaller [[Regio]] - throughout Miaren. 

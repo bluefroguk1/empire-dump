@@ -15,7 +15,7 @@ revision_id: 106090
 The [[Custodian of the Concordium Dock]] is an [[Imperial Title]] that involves oversight of a [[Ministry]] allowing the purchase of [[White granite]] from the [[Sarcophan Delves]]. The title is also known as ''Die Bewaarder van het Vandersaar dok'' (which translates roughly as ''the Custodian of the Vandersaar Dock'' in Imperial)
 Constructed by order of the [[Imperial Senate]], work was completed on this set of dedicated docks shortly before the Autumn Equinox 381YE.
 ## Responsibilities
-The Custodian is expected to ensure that Bedelaar Huisbaas Vandersaar of the Delves continues to trade white granite to [[The Empire]]. If the Concordium Dock were ever directly threatened, they would be responsible for dealing with those threats - but also for making decisions about any [[Opportunity]] related to the dock. The continued operation of the dock, and thus the ministry, requires that relations between the Empire and the Sarcophan Delves remain cordial - ''die Bewaarder'' has a vested interest in ensuring friendship between the two nations continues.
+The Custodian is expected to ensure that Bedelaar Huisbaas Vandersaar of the Delves continues to trade white granite to [[The Empire]]. If the Concordium Dock were ever directly threatened, they would be responsible for dealing with those threats - but also for making decisions about any Opportunity related to the dock. The continued operation of the dock, and thus the ministry, requires that relations between the Empire and the Sarcophan Delves remain cordial - ''die Bewaarder'' has a vested interest in ensuring friendship between the two nations continues.
 ## Powers
 ### Ministry
 White Granite

@@ -14,7 +14,7 @@ revision_id: 86104
 ---
 
 Citizens of [[The Empire]],
-As the Imperial [[Warmage]], you may expect me to be concerned with the direct application of strategic [[Magic]] to the [[War]] effort. But the capability to perform ritual magic is pointless if the [[Cost]] of casting it - in mana, but also in lives, [[Opportunity]] and blood - is greater than we can pay. 
+As the Imperial [[Warmage]], you may expect me to be concerned with the direct application of strategic [[Magic]] to the [[War]] effort. But the capability to perform ritual magic is pointless if the [[Cost]] of casting it - in mana, but also in lives, Opportunity and blood - is greater than we can pay. 
 The Empire currently faces three great Challenges today, and I do not speak of the [[Jotun]], the [[Grendel]] or the [[Druj]]. The challenges we face are internal: The threat to the unity of our faith. The threat to the trust that holds our nations together. The threat to the stability of our economy.
 It is the economy that I must talk to you about first. We all know that things have been difficult recently. The Empire is at war on three fronts, and the effects of those wars have been felt by many of us. The costs of strategic magic have far exceeded the ability of the Senate and Grandmasters to pay for them, but the [[Prosperity]] and [[Loyalty]] that individual mages and covens have shown in shouldering the burden of strategic magic has always been inspiring.
 This Summit, with the strategic mana fund severely reduced, not only were the fortresses that secure our borders funded through their efforts, but also a number of Enchantments upon our armies. I am writing today in part to thank each of them for their efforts, whether they gave a single crystal or many.

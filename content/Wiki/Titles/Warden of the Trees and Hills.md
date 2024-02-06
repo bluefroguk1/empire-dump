@@ -15,7 +15,7 @@ revision_id: 106156
 ## Overview
 The [[Warden of the Trees and Hills]] is an [[Imperial Title]] awarded to a Varushkan citizen. Commissioned by the [[Imperial Senate]] in Autumn 383YE in response to an influx of refugees from newly [[Liberated]] [[Ossium]]. While the post was initially created to help find homes (and jobs) for former [[Druj]] slaves escorted to [[Karsk]] by the [[Thule]], the remit also in theory grants a certain degree of responsibility to protect the [[Prosperity]] of the Territory as a whole. The Senate did not specify where precisely to build it - Ivarsgard, Kosti, Moresvah, and Veresk were all mooted - and after some consultation with the people of Karsk the Civil Service decided to lay the foundations in Ivarsgard.
 ## Responsibilities
-The [[Warden]] is responsible for overseeing the merchant hall built to organise the influx of refugees from Ossium. With those newcomers settled, the Warden is also responsible for keeping the prosperity of Karsk as a whole, and charged with mediating any disputes between [[Mine]] and [[Forest]] owners in the territory. If the Warden's Hall itself was ever directly threatened, the Warden would be responsible for dealing with those threats
+The [[Warden]] is responsible for overseeing the merchant hall built to organise the influx of refugees from Ossium. With those newcomers settled, the Warden is also responsible for keeping the prosperity of Karsk as a whole, and charged with mediating any disputes between [[Mine]] and Forest owners in the territory. If the Warden's Hall itself was ever directly threatened, the Warden would be responsible for dealing with those threats
 ## Powers
 ### [[Ministry]]
 Metals

@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Free Companies
-aliases: ['Free_Companies']
-draft: False
+aliases:
+- Free_Companies
+draft: false
 revision_date: 2012-09-02 23:47:36+00:00
 revision_id: 11102
 ---
 
-#REDIRECT [[Free Company]]
+#REDIRECT Free Company

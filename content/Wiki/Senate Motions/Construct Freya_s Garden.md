@@ -14,7 +14,7 @@ revision_id: 85588
 __NOTOC__
 To construct a [[Great work]] in [[Hahnmark]], that provides herbs to [[Heal]] [[The Empire]], to be named Freya's Garden.''Imperial Wayleave by Tyr Brennan''
 ## Overview
-* [[Commission]] a Great work in Hahnmark
+* Commission a Great work in Hahnmark
 * Announcement.
 ## Date
 * Winter 382YE

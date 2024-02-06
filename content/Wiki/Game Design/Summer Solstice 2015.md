@@ -55,5 +55,5 @@ The following traders have booked for the event.
 * [http://www.tallowsfx.com Tallows] Beautiful weapons and shields that are perfect for Empire.
 * [http://www.velvetglove.pwp.blueyonder.co.uk/ Velvet Glove Costumes] Costumes, make-up, prosthetics, jewellery with more to come!
 * [http://www.whiteroseapparel.com/index.htm White Rose Apparel] Beautiful armour.
-* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and [[Commission]] work.
+* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and Commission work.
 * Wanderlust Couture

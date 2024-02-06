@@ -8,7 +8,7 @@ revision_date: 2022-03-16 22:20:53+00:00
 revision_id: 87476
 ---
 
-Artisans use rare metals and natural [[Materials]] to create Magical Items. Small amounts of these precious materials are produced by personal resources controlled by players and provided to them at the start of every Profound Decisions Empire event that they attend. If you choose a [[Mine]] or a [[Forest]] for your personal resource then you must choose one of the eight standard materials for your resource to produce. 
+Artisans use rare metals and natural [[Materials]] to create Magical Items. Small amounts of these precious materials are produced by personal resources controlled by players and provided to them at the start of every Profound Decisions Empire event that they attend. If you choose a [[Mine]] or a Forest for your personal resource then you must choose one of the eight standard materials for your resource to produce. 
 ## Metals
 A Mine produces twelve units of one of these four metals. Mines can be diversified to produce small amounts of the other three metals.
 ### Orichalcum

@@ -12,7 +12,7 @@ revision_id: 85710
 ---
 
 __NOTOC__
-To build the [[Shipyard]] in Siroc pursuant to the [[Opportunity]] presented by the Mistress of the Glass Paradour.''Proposed by [[Feroz]], seconded by [[Temeschwar]].''
+To build the [[Shipyard]] in Siroc pursuant to the Opportunity presented by the Mistress of the Glass Paradour.''Proposed by [[Feroz]], seconded by [[Temeschwar]].''
 ## Overview
 * This motion would have taken advantage of an Opportunity presented to the [[Mistress of the Glass Parador]] by the defiant citizens of Siroc.
 * Passed in principle. 

@@ -19,7 +19,7 @@ Mage Armour
 * Effect: You gain four additional points of personal mana.
 * Materials: Crafting twilight pauldrons requires five ingots of tempest jade, three ingots of weltsilver,  five measures of beggar's lye, three measures of dragonbone, and fifteen measures of iridescent gloaming,   and. It takes one month to make one of these items.
 It had, he reflected, been a perfectly normal meeting of the Senate. It seemed now to be quite a trivial matter. How should [[Magic]] be best used in the Empire's campaigns? The [[Senator]] for [[Casinea]] had been going on and on about the importance of ritual magic in a support role. 
-He'd been speaking for the front-line battle-mage. In his old green robe, as usual. Nothing showy, nothing over-decorated. Just a plain green robe. Like a [[Barbarian]] might wear, they said, when they thought he wasn't listening. 
+He'd been speaking for the front-line battle-mage. In his old green robe, as usual. Nothing showy, nothing over-decorated. Just a plain green robe. Like a Barbarian might wear, they said, when they thought he wasn't listening. 
 ***''And hand raised to the Net of Heavens, and pull down the power...''***
 The smoke had been choking, he remembered.  Maybe some beggarwood had got in to the pile outside? Then, of course, the messenger had pushed his way in and suddenly a simple debate became a tumult. She'd called for silence, and he'd read the message. When she asked: "Who's with us?", he'd clasped his hands in agreement to what had become a unanimous decision. After a short pause for effect, of course.
 ***''And turn, and swing, and drive the orc away...''***

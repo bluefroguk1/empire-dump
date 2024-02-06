@@ -12,7 +12,7 @@ revision_id: 105781
 ---
 
 __NOTOC__
-[[Commission]] a business [[Sinecure]], The Garrison of [[The League]], in Hanuri in [[Temeschwar]]. Appointed by League Generals annually. 
+Commission a business [[Sinecure]], The Garrison of [[The League]], in Hanuri in [[Temeschwar]]. Appointed by League Generals annually. 
 ## Overview
 * Constructs a sinecure in Temeschwar
 * Announcement by the [[Chair of the Wolf]]

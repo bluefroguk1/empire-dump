@@ -13,4 +13,4 @@ revision_id: 89343
 ---
 
 ## Overview
-The [[Forest of Ulnak]] is the northernmost territory of [[The Mallum]]. [[The Empire]] knows very little about it - what they do know was provided by the [[Great [[Forest]] Orcs]].
+The [[Forest of Ulnak]] is the northernmost territory of [[The Mallum]]. [[The Empire]] knows very little about it - what they do know was provided by the [[Great Forest Orcs]].

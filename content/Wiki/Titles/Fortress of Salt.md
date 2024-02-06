@@ -21,7 +21,7 @@ As with the [[Eternal Shafts of Time]], ownership of the Fortress was hotly cont
 Following the Autumn Equinox 384YE, the activities of dreadful heralds in the Forests of Metri threatened to cut the Fortress of Salt off from the rest of the Empire. Demands for higher wages from guards escorting caravans through the haunted woods contributed to a reticence among wagoneers to Visit the Fortress, increasing the amount of money the Senate needed to spend on upkeep of the Bourse seat to 12 Thrones each season.
 ## The Bourse Seat
 ### Responsibilities
-The Seat has no particular responsibilities; they simply receive a bounty of Mithril which is theirs to do with as they will. If the Fortress of Salt were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular [[Opportunity]] were to arise related to the Fortress of Salt, the Seat would expect to be consulted as to how that opportunity might be resolved.
+The Seat has no particular responsibilities; they simply receive a bounty of Mithril which is theirs to do with as they will. If the Fortress of Salt were to be threatened in any way, it would be the responsibility of the Seat to deal with those threats. Likewise, if any particular Opportunity were to arise related to the Fortress of Salt, the Seat would expect to be consulted as to how that opportunity might be resolved.
 ### Powers
 ### Seat on the Bourse
 Custodianship of the Fortress of Salt comes with a seat on the Imperial Bourse. For the most part, this Seat comes with no additional responsibilities. It is an Imperial title that grants the right to participate on the rare occasion when the Imperial Bourse as a body is required to make a decision.

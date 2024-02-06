@@ -11,7 +11,7 @@ revision_id: 85234
 ---
 
 =[[Costume]] Design for Larp=
-Getting the right costume can be a crucial part of developing your character - not all of us have the luxury of Commissioning a complete outfit from scratch, and assembling a new look from a mix of old and new kit can be a real [[Challenge]]. Here's how I Generally go about designing and assembling costume, using my work-in-prOgress Marcher Musician as an example as I go.
+Getting the right costume can be a crucial part of developing your character - not all of us have the luxury of Commissioning a complete outfit from scratch, and assembling a new look from a mix of old and new kit can be a real Challenge. Here's how I Generally go about designing and assembling costume, using my work-in-prOgress Marcher Musician as an example as I go.
 ## Part 1 - Design and PLanning
 ### What sort of person is my character going to be?
 Here's where you try and get a basic idea of the person you're going to portray. Are they rich or poor? Practical or fanciful? What do they like and dislike? What elements of the brief am I going to pick up on here?

@@ -67,5 +67,5 @@ The following traders have booked for the event.
 * [http://www.tallowsfx.com Tallows] Beautiful weapons and shields that are perfect for Empire.
 * [https://www.facebook.com/TwistedFlaxKit?fref=ts Twisted Flax]
 * [http://www.whiteroseapparel.com/index.htm White Rose Apparel] Beautiful armour.
-* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and [[Commission]] work.
+* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and Commission work.
 * Wanderlust Couture

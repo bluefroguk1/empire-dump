@@ -13,7 +13,7 @@ revision_id: 106126
 ---
 
 ## Overview
-The ports of the town Kostjyas Respite were refurbished by an announcement from Kostjya of the Wulfen Reavers, [[Bearer of an Imperial Wayleave]]. during the Autumn Equinox 384YE, following an [[Opportunity]] presented during the Winter Solstice of 383YE. Construction was completed shortly before the Spring Equinox 385YE.
+The ports of the town Kostjyas Respite were refurbished by an announcement from Kostjya of the Wulfen Reavers, [[Bearer of an Imperial Wayleave]]. during the Autumn Equinox 384YE, following an Opportunity presented during the Winter Solstice of 383YE. Construction was completed shortly before the Spring Equinox 385YE.
 ## Responsibilities
 The [[Merchant Boyar of the Bittershore]] is responsible for ensuring good relations with those who use the docks in Kostjyas Respite. If the docks  were to be threatened in any way, it would be the responsibility of the Merchant Boyar to deal with those threats. Likewise, if any particular Opportunity were to arise related to the docks, the Merchant Boyar would expect to be consulted as to how that opportunity might be resolved.
 ## Powers

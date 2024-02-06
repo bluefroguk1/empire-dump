@@ -16,7 +16,7 @@ Based on Over the Misty Mountains Cold, as featured in the Hobbit films.
 Words by Brian Tollady.
 Listen to Brian's rendition [https://youtu.be/C0YrpzFYMMo here]
 1st Legion Fights on northern mountain cold,
-In [[Forest]] deep, marsh or the fold,
+In Forest deep, marsh or the fold,
 Been Wintersun, since time begun,
 We march to [[War]], brave soldiers bold,
 Orcs stand clad in ancient plate and mail,

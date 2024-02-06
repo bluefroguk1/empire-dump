@@ -22,7 +22,7 @@ __NOTOC__
 ## Outcome
 * The powers of the Imperial Magus were amended to include Precedence (but see also Constitution below).
 ### Constitution
-This motion was the subject of extensive additional [[Scrutiny]] by the Constitutional Court, but in the end they decided not to [[Challenge]] it. One of the concerns is that it provides the Imperial Magus with a form of precedence that may not be in keeping with the spirit of the Imperial Conclave, where members are broadly considered to have equal status.
+This motion was the subject of extensive additional [[Scrutiny]] by the Constitutional Court, but in the end they decided not to Challenge it. One of the concerns is that it provides the Imperial Magus with a form of precedence that may not be in keeping with the spirit of the Imperial Conclave, where members are broadly considered to have equal status.
 ### OOC Information
 Profound Decisions are pLanning to carry out a complete review of the operation of the Imperial Conclave over winter, with the intention to make changes so that Conclave sessions are quicker and the decisions they make have more impact. With the ever-increasing number of participants attending Empire, we want to create an approach that scales, so that we can provide a better game for 2500+ players. We haven't decided what changes we will make yet, but it is possible that this motion might end up being overturned, or being reinterpreted in a way that attempts to remain true to the spirit but changes the mechanisms whereby it works.
 You are welcome to [mailto:matt@profounddecisions.co.uk email feedback about the Conclave] to us, but please bear in mind that we no work will begin until after the September event is concluded.

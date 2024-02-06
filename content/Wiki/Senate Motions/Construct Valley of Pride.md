@@ -12,12 +12,12 @@ revision_id: 86717
 ---
 
 __NOTOC__
-To construct 'The Valley of [[Pride]]' a [[Herb]] [[Sinecure]] in Wood Heath, [[Hahnmark]], using twelve wains of [[Weirwood]].
+To construct 'The Valley of [[Pride]]' a Herb [[Sinecure]] in Wood Heath, [[Hahnmark]], using twelve wains of [[Weirwood]].
 This will create the title '[[Herbalist of the Hearth]]'.
 Approved by the [[Civilian Commissioner]] of [[Wintermark]]
 ### Overview
 * A Sinecure in Hahnmark
-* This motion was approved by the Civilian Commissioner of Wintermark using the legal power to [[Commission]] constructions delegated to them by the Senate.
+* This motion was approved by the Civilian Commissioner of Wintermark using the legal power to Commission constructions delegated to them by the Senate.
 ### Date
 * Summer 380YE
 ### [[Cost]]

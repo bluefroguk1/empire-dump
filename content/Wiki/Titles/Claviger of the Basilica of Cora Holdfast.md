@@ -15,7 +15,7 @@ revision_id: 102837
 The [[Claviger of the Basilica of Cora Holdfast]] is an [[Imperial Title]] created by the [[Imperial Senate]] in Summer 381YE. The position of claviger is a [[Sinecure]], requiring minimal responsibility but offering a regular income of [[Liao]], and additional votes in the [[Imperial Synod]].
 The title is a little bit of a mouthful; informally the holder is sometimes being referred to as ''Cora's Claviger''.
 ## Responsibilities
-The Claviger oversees the Basilica of [[Cora Holdfast]] in [[Reikos]] that houses [[The Tomb]] of the exemplar of [[Loyalty]]. If the basilica or the tomb were to be threatened, it would be the responsibility of the Claviger to face those threats; likewise should any [[Opportunity]] related to the shrine arise they would decide how to respond.
+The Claviger oversees the Basilica of [[Cora Holdfast]] in [[Reikos]] that houses [[The Tomb]] of the exemplar of [[Loyalty]]. If the basilica or the tomb were to be threatened, it would be the responsibility of the Claviger to face those threats; likewise should any Opportunity related to the shrine arise they would decide how to respond.
 ## Powers
 ### Bounty of Liao
 The sinecure provides nine measures of Liao to the Claviger each season, to be used as they see fit.

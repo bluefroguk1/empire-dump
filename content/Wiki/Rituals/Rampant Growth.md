@@ -16,7 +16,7 @@ revision_id: 84952
 ## Rules
 Season|Spring|10
 ### Performing the Ritual
-Casting time|2 Target Resource|[[Forest]]
+Casting time|2 Target Resource|Forest
 [[Enchantment]]
 ### Effects
 At the start of the next event the target Forest provides 77 rings and six drams of herbs (two drams of True Vervain and one dram each of [[Bladeroot]], [[Imperial Roseweald]], [[Marrowort]] and [[Cerulean Mazzarine]]). This is in addition to the [[Materials]] it would normally provide.  

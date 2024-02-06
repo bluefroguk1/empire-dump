@@ -11,7 +11,7 @@ revision_date: 2022-02-02 09:23:46+00:00
 revision_id: 86502
 ---
 
-To [[Commission]] an Imperial Varushkan Army, the [[Iron Helms]], to [[Muster]] in [[Karsk]], the Broken BarrowProposed by [[Karov]], seconded by [[Necropolis]]. 
+To Commission an Imperial Varushkan Army, the [[Iron Helms]], to [[Muster]] in [[Karsk]], the Broken BarrowProposed by [[Karov]], seconded by [[Necropolis]]. 
 ### Overview
 * Permits the Varushkans to begin raising a new [[Imperial army]] in Karsk.
 * No prOgress can be made on the raising of this army until work begins to [[Rebuild the roads of Karsk]]; that [[Great work]] must be completed before the army can be completed.
@@ -22,7 +22,7 @@ To [[Commission]] an Imperial Varushkan Army, the [[Iron Helms]], to [[Muster]] 
 * [[Materials]]: 160 wains of [[Mithril]] and 40 Thrones
 * Time: 1 year to raise
 * Upkeep: 50 Thrones per season
-* This is the result of an [[Opportunity]] detailed here
+* This is the result of an Opportunity detailed here
 ### Progress
 * 40 wains of mithril provided by Maximov Goraniv Strascovich after Winter Solstice 379YE.
 * 40 wains of mithril provided by Maximov Goraniv Strascovich after Spring Equinox 380YE.

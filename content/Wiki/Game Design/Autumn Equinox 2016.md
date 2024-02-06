@@ -78,5 +78,5 @@ The following traders have booked for the event.
 * [www.quiverstock.co.uk Quiverstock] Archery supplies.
 * [http://www.velvetglove.pwp.blueyonder.co.uk/ Velvet Glove Costumes] Costumes, make-up, prosthetics, jewellery with more to come!
 * [http://www.whiteroseapparel.com/index.htm White Rose Apparel] Beautiful armour.
-* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and [[Commission]] work
+* [https://www.facebook.com/WinterforgeArmouries Winterforge Armouries] Bespoke LRP weapons, Leather, props and Commission work
 * Wanderlust Couture

@@ -12,7 +12,7 @@ revision_id: 94629
 ---
 
 __NOTOC__
- To [[Commission]] a [[Spy network]] in [[Skallahn]] — the [[Jotun]] territory west of [[Sermersuaq]] and [[Kallavesa]].
+ To Commission a [[Spy network]] in [[Skallahn]] — the [[Jotun]] territory west of [[Sermersuaq]] and [[Kallavesa]].
 ''Announced by the [[Imperial Spymaster]], Cayleb of Felix’s Watch''
 ## Overview
 * Commissions a Spy network in the Jotun territory of Skallahn

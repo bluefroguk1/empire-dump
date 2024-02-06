@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Yeomen of the Marches
-aliases: ['Yeomen_of_the_Marches']
-draft: False
+aliases:
+- Yeomen_of_the_Marches
+draft: false
 revision_date: 2012-08-28 12:36:18+00:00
 revision_id: 8470
 ---
 
-#REDIRECT [[Yeoman of the Marches]]
+#REDIRECT Yeoman of the Marches

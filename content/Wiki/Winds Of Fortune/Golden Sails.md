@@ -46,4 +46,4 @@ As with other diplomatic delegations, the Grendel are protected by the law of de
 While there has not been time for the civil service in Feroz to do more than a cursory examination of the Grendel navy through a spyglass, it is likely that this navy represents a fighting force roughly equivalent to an [[Imperial army]]. It is not clear how many land troops it has available to - whether it is transporting a land-based force or not. Ritual scrying should be able to deterMine this information.
 If it came to a fight, then an Imperial army should be able to hold the navy off. Without an [[Imperial navy]] to support, however, even the corsair vessels of the Brass Coast are of limited effectiveness against this significant maritime threat.
 ## Resolution
-The Grendel [[Ambassador]] Cartok and his entourage was received at Anvil, where a peace treaty was discussed. They returned to Feroz without incident ,and the [[Barbarian]] fleet then sailed south.
+The Grendel [[Ambassador]] Cartok and his entourage was received at Anvil, where a peace treaty was discussed. They returned to Feroz without incident ,and the Barbarian fleet then sailed south.

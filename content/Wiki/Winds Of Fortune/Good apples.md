@@ -38,7 +38,7 @@ The friars of Hay plan to make representation to the nation at the coming Autumn
 ### Good Walder's Stand
 * Creating a suitable [[Folly]] would allow the [[Appointment]] of a custodian who could harvest the apples
 * The folly would require 5 wains of [[White granite]] and 10 crowns
-The friars propose to create a simple shrine on the hill. If someone was appointed to keep the shrine, they could clear the undergrowth, tend the grave, and see to any pilgrims that might be coming by. Such a work would require a [[Commission]] as a Folly and need five wains of white granite and ten crowns but a single [[Senate motion]] could commission the shrine and create the title of ''Keeper of Good Walder's Grave''.
+The friars propose to create a simple shrine on the hill. If someone was appointed to keep the shrine, they could clear the undergrowth, tend the grave, and see to any pilgrims that might be coming by. Such a work would require a Commission as a Folly and need five wains of white granite and ten crowns but a single [[Senate motion]] could commission the shrine and create the title of ''Keeper of Good Walder's Grave''.
 The Keeper need receive no official stipend for their elbow-grease, but if the friars are right, and there is something special about those apples, then whatever it is would be the Keeper's to do with as they will.
 ### Good Walder's Orchard
 * A larger commission would provide votes and [[Liao]] in addition to the apples

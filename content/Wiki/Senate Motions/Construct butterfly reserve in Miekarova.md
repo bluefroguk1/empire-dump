@@ -16,7 +16,7 @@ To use The Wayleaf to construct a butterfly reserve in the Forests of [[Miekarov
 Announced by Julianna of Phoenix Reach, [[Urizen]]
 ### Overview
 * A Sinecure that produces 20 measures of [[Iridescent gloaming]] in Miekarova
-* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to [[Commission]] constructions delegated to them by the Senate
+* This sinecure was announced by a holder of an Imperial Wayleave, using the legal power to Commission constructions delegated to them by the Senate
 ### Date
 * Spring 381YE
 ### [[Cost]]

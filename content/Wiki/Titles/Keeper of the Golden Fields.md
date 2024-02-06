@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Overview
-The [[Keeper of the Golden Fields]] is an [[Imperial Title]] created by a [[Commission]] announced by the Marcher [[Civilian Commissioner]] in Autumn 380YE. The position is a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana. 
+The [[Keeper of the Golden Fields]] is an [[Imperial Title]] created by a Commission announced by the Marcher [[Civilian Commissioner]] in Autumn 380YE. The position is a [[Sinecure]], requiring minimal responsibility but offering a regular income of crystal mana. 
 ## Responsibilities
 The Keeper of the Golden Fields has no particular responsibilities, but there is some expectation that the mana gathered from the Silent Giant will be used to help the [[War]] effort - or at least employed in the protection of [[Mitwold]]. The Keeper receives a seasonal bounty of crystal mana gathered from the area around the standing stone, and if the Silent Giant were to be threatened in any way, it would be the responsibility of the Keeper to deal with those threats.
 ## Powers

@@ -85,7 +85,7 @@ Their yeofolk have customarily served with the [[Bounders]] from inception and t
 They often come accompanied by the roaming bar known as the ''Black Rat'' - named after the first patron of its cider.
 ### House Kinahan
 * Location: Tower March
-* Livery: [[Forest]] green, walnut, and carrot orange
+* Livery: Forest green, walnut, and carrot orange
 * Motto: Through the mud and the blood to the green fields beyond
 * Symbol: Rearing Yale
 * Steward: Rantalot Kinahan
@@ -166,7 +166,7 @@ The daily work of the monks consists of tending their lands, distributing herbs 
 * Steward: Gideon of Graven Rock
 Across the marshes of Bregasland, The Lanterns of the Black Vigil can be seen cutting through the dark as they patrol the fens and guard against encroaching threats.
 Unlike many houses of the Marches, the Black Vigil’s ancestry does not trace back to Dawn. Its founding members come from [[Kallavesa]], [[Tassato]] and the heart of Bregasland itself. They are warriors, brewers, mummers - vagabonds all.
-Each, in their own way, were without guidance before being brought together by Gideon of Graven Rock and given purpose in hunting monsters across the shadowed recesses of the world. A kinship grew, and now through the fog and the fens of Bregasland they come, each member equipped with a lantern to always be a light in dark places. The lanterns' importance and what it represents is proudly displayed on their livery. The Black Vigil believes that ‘monster is a state of mind', so for those who behave monstrously, be they beast, [[Barbarian]] or Imperial, the hunt is on. 
+Each, in their own way, were without guidance before being brought together by Gideon of Graven Rock and given purpose in hunting monsters across the shadowed recesses of the world. A kinship grew, and now through the fog and the fens of Bregasland they come, each member equipped with a lantern to always be a light in dark places. The lanterns' importance and what it represents is proudly displayed on their livery. The Black Vigil believes that ‘monster is a state of mind', so for those who behave monstrously, be they beast, Barbarian or Imperial, the hunt is on. 
 As highly skilled fighters The Black Vigil frequently offer their services as mercenaries, guards and enforcers, to any with coin who may require their aid. The Vigil values respect highly, and for those who have earned their respect they will drink, [[Fight]], and share in revelry with until their lanterns burn out.
 With their lanterns lit, shadows will fall, and all debts will be fulfilled.
 ### House Elver
@@ -199,7 +199,7 @@ House Wheelwright claims links to House Fenner, due to an aunt marrying into Hou
 * Colours: grey and red 
 * Symbol:  Prancing Cockerel 
 * Leader: Abbott Thomas Arch 
-Copperhill Monastery is dedicated to the virtue of Pride though all virtues are practiced here. The abbey located between two hills in the Greensward in a region with a long tradition of copper mining. The monks have a tradition of taking in people with [[Lineage]] who have nowhere else to go, and a result the population of Copperhill are mostly lineaged. With the war in the Mourn, Copperhill was destroyed but they are working to rebuild and to restore the Pride and Prosperity of the Greensward.
+Copperhill Monastery is dedicated to the virtue of Pride though all virtues are practiced here. The abbey located between two hills in the Greensward in a region with a long tradition of copper mining. The monks have a tradition of taking in people with Lineage who have nowhere else to go, and a result the population of Copperhill are mostly lineaged. With the war in the Mourn, Copperhill was destroyed but they are working to rebuild and to restore the Pride and Prosperity of the Greensward.
 ### House Drayton
 * Location: Freemoor and Graven March
 * Livery: Black (for the peat), crimson (for the herbs)
@@ -239,7 +239,7 @@ Most of the surviving members of the Coppice were born after the Jotun conquest 
 House Stone's earliest records start at the beginning of the Empire, when the First Empress came to the Marches. Fighting for union in the civil war, the house went from building mills to breaking skulls. Upon the eventual victory, the House stood depleted, and so began a tradition of taking in odd ducks by accepting members divested of their original households. After a period of rebuilding in their lands in Upwold, their Prosperity was again cut short, this time by a sickness that claimed many of the household around 74YE, and the remaining members took House Stone south into Ore Hills in the Mourn. It was here that they built their first "rock farm", with farmers working alongside miners to exploit the natural resources of the hills, as a way to assuage internal conflict over voting rights.  The loss of the Mournwold saw most of House Stone's people falling to the Jotun's blades.
 The current steward of House Stone, Blayk Stone, succeeded her brother Dunstan in the summer of 381, and since then has been rebuilding the house for the third time. Today the rock farming tradition continues, even if only half the rock farmers can legally vote, spearheaded by the House Stone Rock Farm, the official central holding of the House. Loyalty is considered one of the more important virtues for the House as a whole, while the traditions are often focused on the soil and stone, drawing on its connections as if worried it is going to fly away.
 ## Towns and Circles
-The market towns are prosperous, but their businesses give them little [[Opportunity]] to wield political power directly. Likewise, each Landskeeper circle has its own agenda, often tied to the protection or Prosperity of a single region but again they have no direct say on who will lead the territories of the Marches.
+The market towns are prosperous, but their businesses give them little Opportunity to wield political power directly. Likewise, each Landskeeper circle has its own agenda, often tied to the protection or Prosperity of a single region but again they have no direct say on who will lead the territories of the Marches.
 ### Market Towns
 ### Punters' Knoll
 * Location: Ottermire, Bregasland

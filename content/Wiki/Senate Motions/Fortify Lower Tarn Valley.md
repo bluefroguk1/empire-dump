@@ -12,7 +12,7 @@ revision_id: 86135
 ---
 
 __NOTOC__
-To accept the offer of the [[Great [[Forest]] Orcs]] to construct a [[Fortification]] in the Lower Tarn Valley.''Proposed by [[Redoubt]], Seconded by [[Segura]].''
+To accept the offer of the [[Great Forest Orcs]] to construct a [[Fortification]] in the Lower Tarn Valley.''Proposed by [[Redoubt]], Seconded by [[Segura]].''
 ## Overview
 * This motion accepts the offer of the Great Forest Orcs to undertake the creation of a new fortification, in the Lower Tarn Valley in [[Therunin]].
 * This is the result of an offer by the orcs of the Great Forest.
@@ -20,7 +20,7 @@ To accept the offer of the [[Great [[Forest]] Orcs]] to construct a [[Fortificat
 ## Date
 * Autumn 381YE
 ## [[Cost]]
-* As the result of an [[Opportunity]], non-standard costs apply.
+* As the result of an Opportunity, non-standard costs apply.
 * 80 wains of [[Weirwood]]
 * 20 thrones
 * Time: One Year
@@ -28,7 +28,7 @@ To accept the offer of the [[Great [[Forest]] Orcs]] to construct a [[Fortificat
 * Upkeep: There is no upkeep while the Great Great Forest orcs command the garrison. If this were to change the standard upkeep cost of 10 Thrones would apply.
 ## PrOgress
 * 10 wains of Weirwood received from Cybi Farkas after the Winter Solstice 381YE.
-* So far insufficient weirwood for a season of work has been provided so no progress has been made toWard completing the [[Commission]].
+* So far insufficient weirwood for a season of work has been provided so no progress has been made toWard completing the Commission.
 * This commission lapsed at the end of the Autumn Equinox 382YE.
 ## Campaign Outcome
 * This will build a new rank one fortification in the Lower Tarn Valley, called ''The Holt of [[The Oak]]''.

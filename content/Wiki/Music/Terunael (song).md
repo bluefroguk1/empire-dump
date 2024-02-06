@@ -20,7 +20,7 @@ If I had you now as I had once before  [Am Bm Gsus Am]
 All the lords in [[The Empire]] could not save Terunael.  [Am Bm Gsus D]
 O Ternuael, I am sorry to see
 Such a woeful destruction of adorned city
-For it stood in the [[Forest]] for many's the long day
+For it stood in the Forest for many's the long day
 Till the days The [[The Vallorn]] came and stole it away.
 O Terunael, you shine where you stand
 And the more I think on you the more I think long

@@ -16,7 +16,7 @@ Bows
 * Effect:You gain one additional hero point.
 * [[Materials]]: Crafting a Vowkeeper requires nine ingots of green iron and five measures of [[Ambergelt]]. It takes one month to make one of these items.
 The gruff Holberger wasn't much to look at; a rheumy old [[Bravo]] with a red-veined nose and a moustache you could lose a cat in.  Paunch hung in a roll over his worn belt, and the battered pipe jutting from the corner of his mouth emitted clouds of fumes at seemingly random intervals.  This, this, was Albrecht Heynes?  The deadliest shot ever to come out of [[Holberg]]?  The hero of the Graf's Gate massacre?
-"According to my information, Signeur Bartelli, this is the man you want by your side if you are pLanning an expedition into [[Barbarian]] territory."
+"According to my information, Signeur Bartelli, this is the man you want by your side if you are pLanning an expedition into Barbarian territory."
 "Your sources had better be right, Martellus" put in the young man sourly as he adjusted his finery, "If this is a waste of my time they'll be trying to find you a new cicisbeo position come the morning."
 Albrecht wiped the beer foam from his moustache as the two Guilders sat down at his table, uninvited.  He belched loudly into the younger one's face and then grinned at his rat-faced companion, "Tell me the particulars, I'll name a price.  You don't like the price you can go bugger yourself with a splintered broom-handle, because I don't negotiate."
 The young arse began to splutter about who he was and why he couldn't be talked to like that; all the usual palaver.  Albrecht reached over and casually slapped him.

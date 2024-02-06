@@ -19,7 +19,7 @@ Casting time|2 The area to be [[Enchanted]] with this Ward must be clEarly appar
 ### Effects
 This ritual targets a building or well defined, walled area. It must be performed inside that location.
 At the completion, the area is warded against heralds of the Eternals. Such a creature approaching the boundary is always aware that the area is warded; if it enters it is immediately weakened for as long as it remains in the area. Even creatures that are larger-than-human-sized will be weakened by the power Of The Ward if they enter it.
-The ward creates a powerful roleplaying effect: mortals within the warded area feel cold and miserable, unless they are actively warming themselves. Those who sleep within the ward experience nightmares of being trapped within a cave whilst an unknown lurking evil sits brooding outside, waiting for the cold or hunger to drive them from safety. These effects are particularly pronounced for those with strong [[Lineage]].
+The ward creates a powerful roleplaying effect: mortals within the warded area feel cold and miserable, unless they are actively warming themselves. Those who sleep within the ward experience nightmares of being trapped within a cave whilst an unknown lurking evil sits brooding outside, waiting for the cold or hunger to drive them from safety. These effects are particularly pronounced for those with strong Lineage.
 When used inside a building, the ward protects the entire structure. Any openings in the structure - doors and windows especially - must be clearly marked with [[Runes]] or symbols of warding. The building must be a reasonably permanent structure, preferably of wood or stone; the ritual will not work on a tent or other entirely similar structure.
 Warding an Area|Heralds
 Season Duration

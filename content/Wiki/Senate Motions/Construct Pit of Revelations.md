@@ -15,7 +15,7 @@ __NOTOC__
  Announcement by [[Proxy]] of a bearer of an Imperial Orc Wayleave, Skywise Laika. [[Marshal of the Pit of Revelations]], a mana [[Sinecure]], using 10 wains, to be built in southwest Skogei.
 ''Announced by bearer of the Imperial Orc Wayleave''
 ## Overview
-* [[Commission]] a Sinecure in Skogei Glens, [[Skarsind]]
+* Commission a Sinecure in Skogei Glens, [[Skarsind]]
 * Announcement
 ## Date
 * Spring 383YE

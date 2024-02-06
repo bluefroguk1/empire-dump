@@ -14,7 +14,7 @@ revision_id: 103876
 
 Audio|link=https://www.youtube.com/watch?v=_B8ubb82LtU
 ## Three Long Years
-Soldiers of the [[Pride]]! We return to [[The Barrens]] once more. Let us carve our way south through the [[Druj]] to give us the [[Opportunity]] to support anywhere on the front we are needed. We assault CarMine Fields and seek to push through and rendezvous with Imperial Forces in Hope's Rest. Should we encounter less resistance than expected, then we assault Bitter Strand.
+Soldiers of the [[Pride]]! We return to [[The Barrens]] once more. Let us carve our way south through the [[Druj]] to give us the Opportunity to support anywhere on the front we are needed. We assault CarMine Fields and seek to push through and rendezvous with Imperial Forces in Hope's Rest. Should we encounter less resistance than expected, then we assault Bitter Strand.
 We [[March On]] the Carmine Fields to drive a causeway south that we may honour our [[Loyalty]] to the people in [[Zenith]]. Let us push through the fields - a steady conquest toWards our later goals.
 Glorious Citizens of [[Dawn]], the time has finally come back into The Barrens. We go in song and virtue, in [[Glory]] and Love. We go to [[Fight]] the Druj and drive them before us. Break them under our Grinding Advance. We try to punch through them to open a route to the south to connect Dawn to the south of [[The Empire]]. Allowing Dawn to join the [[Eastern Sky]] in Zenith to liberate it for [[Urizen]].
 Audio|link=https://youtu.be/_B8ubb82LtU
@@ -44,7 +44,7 @@ Thanks to the [[Mandate]] enacted by Tobias Field, during the Summer Solstice an
 * A major conjunction has been identified in the Barrens
 During the Summer Solstice, it seems that there is a major conjunction connecting the [[Sentinel Gate]] to the vicinity of Dourfell Keep in the Barrens. Details are light at the moment, but it appears it will allow access to a Night [[Regio]] that, with some preparation, the Empire might be able to manipulate to perform some powerful enchantments or curses that could affect the Barrens. Perhaps more significantly, there is also an opportunity to secure the Imperial presence in the Barrens - whether the Empire's armies intend to remain or not - and possibly even to [[Mend]] some broken fences and cement an alliance aimed at liberating the Barrens from the Druj once and for all.
 ### Key Objective
-* If the [[Great [[Forest]] Orcs]] conduct a ceremony of reconciliation with the Dawnish generals at Hope's Rest the orcs will begin to forgive them for the conquest of the Barrens
+* If the [[Great Forest Orcs]] conduct a ceremony of reconciliation with the Dawnish generals at Hope's Rest the orcs will begin to forgive them for the conquest of the Barrens
 * If successful, the Spears of the Pines, the Great Forest Orcs military force of a thousand strength will Fight alongside any [[Imperial army]] liberating the Barrens
 * If successful, the Great Forest Orcs will guide Imperial army moving through the Forest of Peytaht, allowing them to travel into or out of the Barrens safely
 * If attempted, the Great Forest Orcs will establish a free [[Spy network]] in the Barrens for the Empire to use for the coming year

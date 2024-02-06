@@ -12,7 +12,7 @@ revision_id: 94371
 ---
 
 ## Menos
-Menos, the [[Urizen Egregore]], amost always appears to have [[Lineage]]. Its often that of a golden skinned individual with a calm and polite demeanour. It plays the role of observer, commentating on the [[Events]] around it and loving the interplay of conversation with intelligent and educated individuals from all walks of life.
+Menos, the [[Urizen Egregore]], amost always appears to have Lineage. Its often that of a golden skinned individual with a calm and polite demeanour. It plays the role of observer, commentating on the [[Events]] around it and loving the interplay of conversation with intelligent and educated individuals from all walks of life.
 The [[Urizen]] egregore has taken two hosts
 ### Current Hosts
 ### Agatha

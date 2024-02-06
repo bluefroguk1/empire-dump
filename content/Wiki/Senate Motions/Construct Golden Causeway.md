@@ -14,7 +14,7 @@ revision_id: 98459
 __NOTOC__
 To construct the Golden Causeway across [[The Semmerlak]]. This construction has no upkeep.''Proposed by [[Astolat]], seconded by [[Weirwater]].''
 ## Overivew
-* To take advantage of an [[Opportunity]] afforded to [[The Empire]] by the Lady of The Semmerlak; a Magical golden causeway allowing passage to [[Druj]] lands.
+* To take advantage of an Opportunity afforded to [[The Empire]] by the Lady of The Semmerlak; a Magical golden causeway allowing passage to [[Druj]] lands.
 * Passed at 220 Thrones.
 ## Date
 * Spring 382YE

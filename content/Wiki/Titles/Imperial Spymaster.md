@@ -18,7 +18,7 @@ The [[Imperial Spymaster]] is an [[Imperial Title]] appointed by the Senate. The
 The Imperial Spymaster is responsible for the creation and deCommission of Imperial Spy networks, including coordinating their use. They are expected to liaise and report to both the Senate and the Military Council on matters pertaining to Imperial spy networks.
 ## Powers
 ### Construct Spy Networks
-The Imperial Spymaster can [[Commission]] a single [[Spy network]] each season. To use their power of commission, the Spymaster must make an announcement in the [[Imperial Senate]]. No voting is possible by the Senate at this point, as the power had been delegated to the Spymaster.
+The Imperial Spymaster can Commission a single [[Spy network]] each season. To use their power of commission, the Spymaster must make an announcement in the [[Imperial Senate]]. No voting is possible by the Senate at this point, as the power had been delegated to the Spymaster.
 The [[Imperial Synod]], or [[The Throne]], may choose to exercise their [[Veto]] over the Spymaster's announcement.
 ### Deconstruct Spy Networks
 The Imperial Spymaster can decommission a single Spy network each season. To use their power, the Spymaster must make an announcement in the Imperial Senate. No voting is possible by the Senate at this point, as the power had been delegated to the Spymaster.

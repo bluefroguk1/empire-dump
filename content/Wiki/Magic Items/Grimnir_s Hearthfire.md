@@ -11,7 +11,7 @@ revision_id: 50211
 ---
 
 ## Description
-This short ashen wand is polished and coloured, then wound around with weltsilver strands. It is a powerful aid to a battlefield magician, allowing them to more quickly restore those who have taken serious wounds.  As the name implies, this wand is closely associated with the Grimnir, the dedicated Healers of [[Wintermark]]. It is rare for a Grimnir to [[Commission]] such an item themselves. More often, grateful Thanes or Warriors will present them as gifts to a Grimnir who has saved their lives. Traditionally the weltsilver for the wand will be smelted in a fire begun from the embers of the hearth in the intended Grimnir's hall, to strengthen the eventual bond between magician and wand. 
+This short ashen wand is polished and coloured, then wound around with weltsilver strands. It is a powerful aid to a battlefield magician, allowing them to more quickly restore those who have taken serious wounds.  As the name implies, this wand is closely associated with the Grimnir, the dedicated Healers of [[Wintermark]]. It is rare for a Grimnir to Commission such an item themselves. More often, grateful Thanes or Warriors will present them as gifts to a Grimnir who has saved their lives. Traditionally the weltsilver for the wand will be smelted in a fire begun from the embers of the hearth in the intended Grimnir's hall, to strengthen the eventual bond between magician and wand. 
 In [[The Marches]], the wand is known as ''Fletcher's Bane'' as it is often used to treat individuals who have been repeatedly hit by arrows. Indeed, the wands themselves are sometimes made of old arrow-shafts with [[Rhyv]], the rune of blood, repeated over the entire surface. 
 ## Rules
 Wands

@@ -15,7 +15,7 @@ __NOTOC__
 To construct a theatre in [[Temeschwar]] to celebrate the [[Pride]] of the city.
 Proposed by Temeschwar, Seconded by [[Semmerholm]]
 ### Overview
-* A [[Great work]] in Temeschwar to take advantage of the [[Opportunity]] that presented itself during the recent period of inspiration
+* A [[Great work]] in Temeschwar to take advantage of the Opportunity that presented itself during the recent period of inspiration
 * Passed
 ### Date
 * Winter 380YE

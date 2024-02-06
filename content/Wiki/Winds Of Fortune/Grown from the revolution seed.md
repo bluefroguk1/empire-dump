@@ -15,7 +15,7 @@ revision_id: 95745
 "By the paragons!" The pen dropped from Senzio's hand. He stared owlishly down at what he'd written, mouth slightly open. 
 "What?" Astibar moved across, leant over to see what his friend had written. He'd been head-down over the documents for over an hour, pen scratching away as he attempted to break the code. Several of the pages had needed to be soaked in a bath of special salts to remove the bloodstains that make parts of them unreadable. They were still drying - Senzio had idly tried to see if he could work out what one of the less daMaged pages held... and it looked like he'd been successful.
 "It's... we need to contact the [[Voice of Liberty]]. No, we need to tell the Senate. This is bigger than we expected, bigger than any of us guessed...."
-Despite himself Astibar rolled his eyes a little. His friend had started out on the cheap stages of [[Sarvos]], and never passed up an [[Opportunity]] to be overly dramatic. It was one of his least endearing qualities. 
+Despite himself Astibar rolled his eyes a little. His friend had started out on the cheap stages of [[Sarvos]], and never passed up an Opportunity to be overly dramatic. It was one of his least endearing qualities. 
 "Well go on then, don't leave me in suspense."
 "The Noble Lady of the Sea. She's not a person at all. Not some glorified merchant-prince..."
 "Come on Senzio! Stop milking it! This isn't Patrico Sarvosa's counting house and you aren't Doctor Sentirsibene."

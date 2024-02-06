@@ -28,7 +28,7 @@ All things at their core are unknown.
 It is the outcast who rules.
 
 It is the star of ill omen
-Yet it is the star of [[Opportunity]].
+Yet it is the star of Opportunity.
 The hunter shuns the [[Red star]].
 It is inconstant; it is not to be followed.
 The red star will lead you to the abode of horrors.
@@ -81,7 +81,7 @@ Let any who lays hand upon them without permission be struck with sickness.
 Let any who takes these words from their resting placebe torn apart by chains of green iron and their shrieking soul hurled into the Abyss to be unmade.
 
 ### The First Coming of the Vermin of the South
-In days long ago, the people lived on the plains north of the mountains. They lived the in the Forests south of the mountains. Yet the old scrolls say that a human people came to the [[Forest]] south of the mountains. They came from far beyond the lands of our people, lands known only to She of the Bright Orb.
+In days long ago, the people lived on the plains north of the mountains. They lived the in the Forests south of the mountains. Yet the old scrolls say that a human people came to the Forest south of the mountains. They came from far beyond the lands of our people, lands known only to She of the Bright Orb.
 
 They spread through the forests. Sometimes these human people met with the true people. Sometimes the two peoples contended for land, or wealth, or slaves. Sometimes they traded for land, or wealth, or slaves. They had their own strange ways, and honoured human spirits, but they were careful, and clever, and wise enough not to raise the ire of the Five Who Sit Upon The Mountain Thrones.
 
@@ -126,7 +126,7 @@ The Vermin of the far south came again, in the time immediately after the fall o
 
 They came cautiously; their hubris leavened with fear. They came again through Hahlerm to Sarthas and there they stopped.
 
-They threw up their own arc of spears and shields. They resisted the traps the people laid for them. And as Spring turned to Summer they began to build. A tower of enduring [[White granite]] and precious [[Mithril]], a symbol of their [[Challenge]] to the Dragons.
+They threw up their own arc of spears and shields. They resisted the traps the people laid for them. And as Spring turned to Summer they began to build. A tower of enduring [[White granite]] and precious [[Mithril]], a symbol of their Challenge to the Dragons.
 
 And again the voice of the Five spoke. "We shall wait." they said. We shall allow these creatures to come into our land. We will allow them to believe that they are strong. We will allow them to show us their weakness."
 

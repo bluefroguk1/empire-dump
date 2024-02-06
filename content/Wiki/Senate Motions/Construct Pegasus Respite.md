@@ -29,4 +29,4 @@ The House of the Proffered Hand will have a former slave rehabilitation wing on 
 ## PrOgress
 CommissionProgress|Pegasus_Respite
 ## Campaign Outcome
-* Once completed this [[Commission]] will be overseen by the title Medical Officer of the Pegasus Respite.
+* Once completed this Commission will be overseen by the title Medical Officer of the Pegasus Respite.

@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Marches history
-aliases: ['Marches_history']
-draft: False
+aliases:
+- Marches_history
+draft: false
 revision_date: 2012-08-30 15:36:33+00:00
 revision_id: 9461
 ---
 
-#REDIRECT [[The Marches history]]
+#REDIRECT The Marches history

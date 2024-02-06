@@ -15,7 +15,7 @@ __NOTOC__
 To disburse funds for the Enlargement of the [[Enlargement of the Golden Sun]].
 ''Proposed by [[Astolat]], seconded by [[Tassato]]''
 ## Overview
-* This followed on from a previous motion to enlarge the [[Golden Sun]] as a result of an [[Opportunity]]
+* This followed on from a previous motion to enlarge the [[Golden Sun]] as a result of an Opportunity
 * Passed at 125 thrones
 ## Date
 * Spring 383YE

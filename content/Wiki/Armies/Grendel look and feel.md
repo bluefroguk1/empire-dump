@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 The [[Grendel]] prize discipline and order in battle. Most Grendel who take the field are professional soldiers, career professionals who are well trained and well paid, they expect to be given orders and to follow them closely. The ideal of fidelity is drummed into Grendel soldiers - that martial strength is accomplished by working together, by showing [[Loyalty]] to those you serve, those you [[Fight]] alongside and those who fight for you.
-Most Grendel prefer to remain onboard their ships, but elite units of soldiers will fight on land, alongside the much more numerous [[Barbarian]] forces of the Broken Shore who make up the bulk of the Grendel armies. Where possible we will try to field Grendel Warriors together, especially if they have similar [[Costume]], and then inter-space the line with [[Bands]] of regular barbarians.
+Most Grendel prefer to remain onboard their ships, but elite units of soldiers will fight on land, alongside the much more numerous Barbarian forces of the Broken Shore who make up the bulk of the Grendel armies. Where possible we will try to field Grendel Warriors together, especially if they have similar [[Costume]], and then inter-space the line with [[Bands]] of regular barbarians.
 As with any barbarian role, PD will provide simple costume that you can use when monstering the Grendel. The following page provide an overview of how you can improve upon the basic barbarian breastplate and soft kit available.
 ## Breakdown
 ### Colour

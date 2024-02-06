@@ -14,7 +14,7 @@ revision_id: 85566
 __NOTOC__
 To aMend the title of quartermaster [[General]] to include a mana [[Ministry]] to be built in [[Casinea]].''Proposed by [[Skarsind]], seconded by [[Karov]]''
 ## Overview
-* [[Commission]] a Ministry in Casinea to allow the purchase of mana.
+* Commission a Ministry in Casinea to allow the purchase of mana.
 * To be given over to the custodianship of the [[Quartermaster General of the Imperial Armies]].
 * Passed
 ## Date

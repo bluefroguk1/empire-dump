@@ -12,7 +12,7 @@ revision_id: 98583
 ---
 
 __NOTOC__
-  Motion to give the [[Holberg]] [[Guild]] of Engineers the permission to expand their premises. This will create the [[Imperial Title]] "[[Chair of the Wolf]]". It will have the power to announce a [[Commission]] that takes place entirely in [[The League]]. This commission can be either a [[Great work]], [[Ministry]], [[Sinecure]], or [[Folly]]. This will be a League national position appointed by [[Tally of the Votes]].
+  Motion to give the [[Holberg]] [[Guild]] of Engineers the permission to expand their premises. This will create the [[Imperial Title]] "[[Chair of the Wolf]]". It will have the power to announce a Commission that takes place entirely in [[The League]]. This commission can be either a [[Great work]], [[Ministry]], [[Sinecure]], or [[Folly]]. This will be a League national position appointed by [[Tally of the Votes]].
 ## Overview
 * The motion gives permission to the Holberg Guild of Engineers to expand their premises, as detailed in the [[A health to the company]] wind of fortune.
 * It also creates the Chair of the Wolf Imperial Title in The League.

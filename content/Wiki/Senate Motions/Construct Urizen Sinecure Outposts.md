@@ -16,7 +16,7 @@ To construct outposts and Wards upon [[Urizen]] Mana Sinecures to resolve the es
 To be self funded at a [[Cost]] of 2 [[White granite]] for the outposts and an additional 4 crowns per mana [[Sinecure]].
 Proposed by [[Morrow]], Seconded by [[Kallavesa]] 
 ### Overview
-* The [[Commission]] of a series of preventative measures to protect mana Sinecure production within Urizen.
+* The Commission of a series of preventative measures to protect mana Sinecure production within Urizen.
 * Passed in Principle.
 ### Date
 * Spring 380YE

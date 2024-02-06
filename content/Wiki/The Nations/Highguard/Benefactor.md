@@ -9,7 +9,7 @@ revision_date: 2023-05-26 22:51:18+00:00
 revision_id: 101093
 ---
 
-Had you not returned with a map of a shorter, safer, path through the Great [[Forest]] they would have called me a fool for funding your expedition as I did. Yet you are alive and have triumphed. I will ensure that this map will make us both rich and your [[Ambition]] and [[Courage]] are justly reWarded.
+Had you not returned with a map of a shorter, safer, path through the Great Forest they would have called me a fool for funding your expedition as I did. Yet you are alive and have triumphed. I will ensure that this map will make us both rich and your [[Ambition]] and [[Courage]] are justly reWarded.
 ## Overview
 Benefactors operate a wide range of entrepreneurial endeavours, whether this is a business that operates solely in the field, such as a place to eat, or through more infrastructure-based trade through downtime resources, such as Mines. For most benefactors, wealth is not an end in itself but a means to fund and support the projects that truly interest the [[Benefactor]], a principle that even extends to the [[Imperial Bourse]]. A benefactor may take a less advantageous trade if it means that they have the resources they need for their desired project, though a benefactor that beggars themself may be seen as lacking [[Prosperity]] and [[Wisdom]] and not to be taken seriously.
 Benefactors are not moneylenders, they do not lend money and charge interest. Instead they invest in people and projects, providing money to help fund something in the hope that all the participants can gain as a result. The Highborn believe that this is a more ethical way for those who have money to employ it, since the benefactor takes the risk alongside the people they choose to invest in.

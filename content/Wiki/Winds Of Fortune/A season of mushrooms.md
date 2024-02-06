@@ -44,7 +44,7 @@ They have arrived just in time to help prevent the tide of green Magic overwhelm
 But there is at least one very positive thing about this sorcerous "invasion". Between The Captains fighting to protect the legacy of Highguard, the survivors motivated by the power of Courage, and the rampaging power of Llofir, many of the Druj miasma pillars have been located and destroyed. 
 While some surely remain active, their [[Aura]] has been greatly curtailed, reduced to zones of terror a few scant miles across. Many of these sites are now buried under supernatural forests or partially sunken in magical marshes - quiescent for now but potentially creating enclaves appealing to certain threats that might creep into Reikos that do not fear death.
 OOC Note: You are free to roleplay that if you have been in Reikos this season you have helped to destroy some of the Druj fear pillars, especially if you are one of the dozen characters who have lead their Military units to Reikos, or have accompanied Lucifer, Son of Cyrus.
-### The New [[Forest]] at Tamarbode
+### The New Forest at Tamarbode
 Zellah and Jebediah crept silently through the wild undergrowth. Both had thick scarves covering their noses and mouths. They had learnt that as long as they kept moving, the spores would not settle on their leather armour, or eat away at the straps of their gear. If they stood still for more than a few minutes though...
 From up ahead there came an eerie creaking noise. Zellah held up her hand. They froze in place.
 With a couple of curt gestures, Jebediah silently asked "What that noise?"
@@ -81,7 +81,7 @@ Dinah raised an eyebrow. "Without even having had a proper look at it? This is a
 "Behind my Vigilance, sister."
 The two glared at each other in silence.
 ### Regarding Previous Opportunities
-The [[Opportunity]] to rebuild [[The Garden]] of High Chalcis has not been impacted by the burst of Spring magic - quite the contrary. The apothecaries of Peakedge Song are keen to see what new medicinal plants the spreading wave of magic and decade of Druj domination might reveal. Likewise, the opportunity to construct a [[Fortification]] at Broken Ride is if anything of even more interest to the Vigilant as it would also be in a position to keep a watch over whatever is happening in Tamarbode.
+The Opportunity to rebuild [[The Garden]] of High Chalcis has not been impacted by the burst of Spring magic - quite the contrary. The apothecaries of Peakedge Song are keen to see what new medicinal plants the spreading wave of magic and decade of Druj domination might reveal. Likewise, the opportunity to construct a [[Fortification]] at Broken Ride is if anything of even more interest to the Vigilant as it would also be in a position to keep a watch over whatever is happening in Tamarbode.
 At this time, the Civil Service are uncertain what effect this magical wave may have had on the supply situation but it seems clear that the sudden cleansing of the Druj corruption from Reikos will have gone some way toward helping it to support a fourth Highborn army - assuming that the bounteous new life can be properly harnessed in the service of humanity.
 ### Further Reading
 There's a lot going on in Reikos this season. You may also want to look at some of the following sections:

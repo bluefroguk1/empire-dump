@@ -81,9 +81,9 @@ If the statement is in favour of trading with the Grendel then every owner of a 
 * The Sarcophan Delves remain interested in securing for themselves the free trade enjoyed by the signatories to the Liberty Pact
 * The [[Ambassador to the Sarcophan Delves]] is Thalia of Netherwatch of Urizen
 Visiting traders Sarcophan Delves continue to eagerly ply their goods to merchants, though with so many other nations receiving preferential treatment in Imperial ports their enthusiasm is beginning to wane. The offer of opening a new port to Imperial fleet captains in return for free trade however is still very much on the table, and ''Bedelaar Huisbaas Annike'' awaits word on a treaty from the Ambassador to the Sarcophan Delves.
-### The Vandersaar [[Opportunity]]
+### The Vandersaar Opportunity
 Alivetti Market
-[[Commission]] Type: [[Ministry]]
+Commission Type: [[Ministry]]
 Location: Cigno, Sarvos
 [[Cost]]: 10 [[Weirwood]], 20 crowns, three months to complete
 Effect: Creates the position of Trademaster of Alivetti Market who could purchase measures and ingots

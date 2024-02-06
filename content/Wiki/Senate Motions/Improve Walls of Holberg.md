@@ -12,7 +12,7 @@ revision_id: 96806
 ---
 
 __NOTOC__
-A motion to [[Commission]] [[Fortification]] of the walls of [[Holberg]]. Funded by citizens of Holberg.
+A motion to Commission [[Fortification]] of the walls of [[Holberg]]. Funded by citizens of Holberg.
 ## Overview
 * Commissions the expansion of the Walls of Holberg
 * Further details On the Walls, and what the expansion means, can be found here

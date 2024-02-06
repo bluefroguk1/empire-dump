@@ -12,7 +12,7 @@ revision_id: 86350
 ---
 
 __NOTOC__
-To create a self funded [[Herb]] [[Sinecure]] in [[Miekarova]] to be named The Gardens of the Grim, with the title ‘[[Grim Gardener]]’. These gardens will also serve as the [[Courage]] artefact ‘The Chains of Chernebog’ and the title will be elected by the Varushkan Senators.
+To create a self funded Herb [[Sinecure]] in [[Miekarova]] to be named The Gardens of the Grim, with the title ‘[[Grim Gardener]]’. These gardens will also serve as the [[Courage]] artefact ‘The Chains of Chernebog’ and the title will be elected by the Varushkan Senators.
 Proposed by Miekarova, Seconded by [[Karov]]
 ### Overview
 * A Sinecure in Miekarova

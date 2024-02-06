@@ -51,7 +51,7 @@ Most of the Imperial nations will use music or noise to inSpire [[Courage]] on [
 * Varushka  - Varushkans often sing morale-boosting Marching songs, and can be accompanied on the battlefield by drums but typically forget about any kind of structured music once the fighting starts.
 * [[Wintermark]]  - A Wintermark battle line will have orators, drummers, singers, or pipers gathered around the Banner of each group and they play a large role in keeping morale up. See [[Wintermark Military Concerns]] for more detail.
 * Orcs - big drums, chanting, horns
-### [[Barbarian]] music
+### Barbarian music
 These songs have been written or adapted by members of our Skirmish Team to be sung during skirmishes and battles as the fearsome enemies of the Empire!
 * [[Jotun]] - [[When the Ancestors Call]] - sung on the march to battle
 * Jotun - [[Song for the Kirkja]] - a rallying call for [[Heroes]]

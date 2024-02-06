@@ -30,7 +30,7 @@ Sometimes you are so angry, you can't be upset. Escon, my ginger tom has been fo
 
 **The Dolmen**
 
-The other stone of note found at this time was a Dolmen. It seems curious to have a Dolmen in the heart of the [[Forest]], since most of the Dolmens we have found have been in [[The Marches]], seemingly linked heavily to their Hearth Magics.
+The other stone of note found at this time was a Dolmen. It seems curious to have a Dolmen in the heart of the Forest, since most of the Dolmens we have found have been in [[The Marches]], seemingly linked heavily to their Hearth Magics.
 
 I am honestly unsure what happened to it. It seemed pretty out of place in Ruins of the college and military academies. I think records have proposals to knock it down and build the steadings. There are records about having it moved to the Marches, but the results are inconclusive.
 

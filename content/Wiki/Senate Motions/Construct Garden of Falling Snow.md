@@ -11,7 +11,7 @@ revision_date: 2022-01-30 16:22:09+00:00
 revision_id: 86241
 ---
 
-To create at no [[Cost]] to the senate [[The Garden]] of Falling Snow, a [[Herb garden]] in [[Wintermark]] - [[Hahnmark]], Position of "[[Gatekeeper of Falling Snow]]" to be appointed by unianimous vote of Wintermark's Senators, [[Herb]] gardens are great. Can we move to a vote please?''Proposed by Hahnmark, seconded by [[Sermersuaq]]''
+To create at no [[Cost]] to the senate [[The Garden]] of Falling Snow, a [[Herb garden]] in [[Wintermark]] - [[Hahnmark]], Position of "[[Gatekeeper of Falling Snow]]" to be appointed by unianimous vote of Wintermark's Senators, Herb gardens are great. Can we move to a vote please?''Proposed by Hahnmark, seconded by [[Sermersuaq]]''
 ### Overview
 * A [[Sinecure]] in Hahnmark which provides additional herbs.
 * The holder of the sinecure will be appoitned by unanimous decision of the Wintermark senators.

@@ -1,11 +1,13 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Title: Cantina El Burrito
-aliases: ['Cantina_El_Burrito']
-draft: False
+aliases:
+- Cantina_El_Burrito
+draft: false
 revision_date: 2022-04-19 11:26:59+00:00
 revision_id: 88807
-tags: ['Game-Design']
+tags:
+- Game-Design
 ---
 
 __NOTOC__

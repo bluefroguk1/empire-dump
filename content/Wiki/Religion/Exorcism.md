@@ -33,5 +33,5 @@ The strength of the ceremony determines whether it can overcome a resilient spir
 ## True True Liao
 * True Liao can be used in place of Liao to perform the exorcism ceremony
 You can use true liao in place of normal liao to perform an exorcism ceremony. In this case, the exorcism is automatically powerful enough to banish any spirit, possession, or haunting presence, even when wielded by a single priest.
-Theory suggests that a ghost with anchors that is subjected to a true liao exorcism will find it extremely difficult to reform, and is likely to be greatly weakened, but there has been little [[Opportunity]] for experimentation to prove this one way or another.
+Theory suggests that a ghost with anchors that is subjected to a true liao exorcism will find it extremely difficult to reform, and is likely to be greatly weakened, but there has been little Opportunity for experimentation to prove this one way or another.
 Ceremonial [[Skills]] further reading

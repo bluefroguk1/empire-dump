@@ -25,7 +25,7 @@ Remember that persons who consent to do so can [[Fight]] each other without fear
 * Malsanguino: Willfully preventing someone from receiving medical attention with the intention of causing them harm. 
 Note that malsanguino does not apply where somebody simply refuses to provide medical attention.
 * Slavery: Unlawfully holding the power of life and liberty over any person. The direct purchase and sale of slaves is also illegal but this does not encompass the repatriation or ransoming of Imperial citizens.
-It is [[Worth]] noting that orcs were redefined as people when they became a nation of [[The Empire]]. Whether a person is a citizen or not is irrelevant, so it is also illegal to enslave [[Barbarian]] orcs. In Winter 382 the constitution was aMended as part of the Liberty Pact to define hylje and daeva as people.
+It is [[Worth]] noting that orcs were redefined as people when they became a nation of [[The Empire]]. Whether a person is a citizen or not is irrelevant, so it is also illegal to enslave Barbarian orcs. In Winter 382 the constitution was aMended as part of the Liberty Pact to define hylje and daeva as people.
 A note on piracy: Although there is currently no crime specifically relating to acts of piracy, in practice this activity falls under the crimes of assault, theft, criminal daMage, murder and so on. Be aWare that acts of piracy committed against foreigners by imperial citizens will be investigated as criminal acts.  
 ## Crimes of Property
 * Theft: Dishonestly appropriating property belonging to another with the intention of permanently depriving the other of it. The burden is on the accused to satisfy the magistrate as to their intention to return the property. 

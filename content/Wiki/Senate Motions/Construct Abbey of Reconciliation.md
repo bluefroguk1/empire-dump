@@ -12,7 +12,7 @@ revision_id: 104920
 ---
 
 __NOTOC__
-To construct the Abbey of Reconciliation, a 10 [[Weirwood]] [[Herb]] [[Sinecure]] in [[Necropolis]] and part of the Network of the Proffered Hand. Elected by the Highborn National [[Assembly]]. Revocable by the Highborn, [[General]], and Assembly of the Nine. To be overseen by the [[Abbess of Reconciliation]] with the responsibility to: support ex-slaves and refugees; bring them into [[The Way]]; and provide them [[Opportunity]] to work and recover in [[The Empire]]. 
+To construct the Abbey of Reconciliation, a 10 [[Weirwood]] Herb [[Sinecure]] in [[Necropolis]] and part of the Network of the Proffered Hand. Elected by the Highborn National [[Assembly]]. Revocable by the Highborn, [[General]], and Assembly of the Nine. To be overseen by the [[Abbess of Reconciliation]] with the responsibility to: support ex-slaves and refugees; bring them into [[The Way]]; and provide them Opportunity to work and recover in [[The Empire]]. 
 ## Overview
 * Constructs a Sinecure in Necropolis
 * Passed

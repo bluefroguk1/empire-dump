@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: True
+IgnoreLinking: true
 Tags: None
 Title: Oil of Blackthorn
-aliases: ['Oil_of_Blackthorn']
-draft: False
+aliases:
+- Oil_of_Blackthorn
+draft: false
 revision_date: 2023-05-13 14:35:03+00:00
 revision_id: 100708
 ---
 
-#REDIRECT [[Legacy of Thorns#Oil of Blackthorn]]
+#REDIRECT Legacy of Thorns#Oil of Blackthorn

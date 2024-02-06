@@ -12,7 +12,7 @@ revision_id: 86768
 ---
 
 __NOTOC__
-To [[Commission]] a [[Great work]] in [[Holberg]], restoring the Holmauer and building the [[Opportunity]] of a Park, Costing 
+To Commission a [[Great work]] in [[Holberg]], restoring the Holmauer and building the Opportunity of a Park, Costing 
 60 wains of [[Weirwood]]
 40 wains of [[White granite]]
 25 Thrones

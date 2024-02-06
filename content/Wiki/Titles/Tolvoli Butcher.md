@@ -13,7 +13,7 @@ revision_id: 104913
 ---
 
 ## Overview
-The [[Tolvoli Butcher]] was created when the [[Imperial Senate]] voted to construct the Tolvoli Slaughterhouse. during the Summer Solstice 385YE, following an [[Opportunity]] presented that season. Construction was completed shortly before the Autumn Equinox 385YE.
+The [[Tolvoli Butcher]] was created when the [[Imperial Senate]] voted to construct the Tolvoli Slaughterhouse. during the Summer Solstice 385YE, following an Opportunity presented that season. Construction was completed shortly before the Autumn Equinox 385YE.
 ## Responsibilities
 The Tolvoli Butcher is responsible for ensuring that the dubik near Tolvoli do not become a problem. If the slaughterhouse were to be threatened in any way, it would be the responsibility of the Butcher to deal with those threats. Likewise, if any particular Opportunity were to arise related to the slaughterhouse, the Butcher would expect to be consulted as to how that opportunity might be resolved.
 ## Powers

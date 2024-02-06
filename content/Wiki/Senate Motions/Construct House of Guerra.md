@@ -12,7 +12,7 @@ revision_id: 94614
 ---
 
 __NOTOC__
-To [[Commission]] a [[Great work]] in [[Madruga]], Brass Coast, to take advantage of a special [[Opportunity]] to construct a [[Ministry]] to allow purchase of [[Liao]]. To create the position of [[Hand of Guerra]], a national title in [[The Brass Coast]]. Appointed yEarly by the Brass Coast National [[Assembly]]. Revocable by National and [[General]] Assembly. [[Cost]] 20 [[White granite]], 40 Crowns. Self-funded.''Proposed by Madruga, seconded by [[Kahraman]].''
+To Commission a [[Great work]] in [[Madruga]], Brass Coast, to take advantage of a special Opportunity to construct a [[Ministry]] to allow purchase of [[Liao]]. To create the position of [[Hand of Guerra]], a national title in [[The Brass Coast]]. Appointed yEarly by the Brass Coast National [[Assembly]]. Revocable by National and [[General]] Assembly. [[Cost]] 20 [[White granite]], 40 Crowns. Self-funded.''Proposed by Madruga, seconded by [[Kahraman]].''
 ## Overview
 * This commission is the result of an Opportunity to support refugees.
 * Passed. 

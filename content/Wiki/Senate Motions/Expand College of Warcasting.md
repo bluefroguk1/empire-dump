@@ -15,7 +15,7 @@ __NOTOC__
 To aMend the title of Preceptor Of The Warcaster College of [[Skarsind]] to include a [[Ministry]] and to change how it is appointed to the Bourse voting style of the [[Imperial Orcs]]
 ## Overview
 * Commissions changes to the College of Warcasting in Skarsind.
-* The [[Opportunity]] is detailed in the [[Tired of sleeping]] Wind of Fortune.
+* The Opportunity is detailed in the [[Tired of sleeping]] Wind of Fortune.
 * Passed
 ## Date
 * Spring 384YE

@@ -15,7 +15,7 @@ __NOTOC__
 Permission to begin formation of the [[Burning]] Falcons army. To be given either Heroic or True Convictions qualities.
 ''Proposed by [[Madruga]], Seconded by [[Segura]]
 ## Overview
-* This motion was to raise the Burning Falcons taking advantage of an [[Opportunity]] that was presented by the Freeborn
+* This motion was to raise the Burning Falcons taking advantage of an Opportunity that was presented by the Freeborn
 * Failed
 ## Date
 * Spring 383YE

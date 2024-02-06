@@ -12,7 +12,7 @@ revision_id: 85796
 ---
 
 __NOTOC__
-To [[Commission]] a [[Great work]] in Old Ranging in [[Hercynia]] for the production of mana. To be known as ‘Llafndrián’ [[The Blade]] of [[Thorn]]. The [[Spiral]] of this work will include stones to those who had the [[Courage]] to give their lives in the defence of others. Self-funded, priced at 40 wains of [[Mithril]] and 10 thrones. Let this Great Work stand as a reminder that [[The Empire]] stands united, even in the darkest of days. A gesture of goodwill from Achilles of Damokan’s Forge to the [[Navarr]].''Proposed by Hercynia, seconded by [[Miaren]].''
+To Commission a [[Great work]] in Old Ranging in [[Hercynia]] for the production of mana. To be known as ‘Llafndrián’ [[The Blade]] of [[Thorn]]. The [[Spiral]] of this work will include stones to those who had the [[Courage]] to give their lives in the defence of others. Self-funded, priced at 40 wains of [[Mithril]] and 10 thrones. Let this Great Work stand as a reminder that [[The Empire]] stands united, even in the darkest of days. A gesture of goodwill from Achilles of Damokan’s Forge to the [[Navarr]].''Proposed by Hercynia, seconded by [[Miaren]].''
 ## Overview
 * Commissioning a Great work in Hercynia to provide mana to the owners of Mana sites.
 * Passed.

@@ -27,7 +27,7 @@ Description: One of the core axioms of the virtue states that "Wisdom is not alw
 ### The Clarity of Wisdom
 * ''You feel an urge to express your ideas and opinions clEarly and concisely. You find it difficult to tolerate those who ignore the facts.''
 Description: The pilgrim who follows the Path of Wisdom understands the benefits of sharing facts and understanding with others. As well as enabling others to act wisely, helping others gain [[Insight]] may be the most effective way to use the knowledge the pilgrim has gained. However priests often remind the virtuous to "let every word you speak carry meaning; do not use forty when four will do." Effective communication requires simple, short communication of the essential ideas, not rambling or grandstanding. Priests of Wisdom use this aura to remind pilgrims of these ideas, as well as helping those who struggle to find the confidence to speak out about what they know.
-### The [[Challenge]] of Wisdom
+### The Challenge of Wisdom
 * ''You feel an urge to test your knowledge, discarding anything that falls short. A good decision depends on good understanding.''
 Description: Assumptions and inherited knowledge can be dangerous obstacles on the Path of Wisdom. The Path of Wisdom teaches pilgrims to "test what you learn; only fools accept hearsay as tRuth". The Empire is filled with misinformation and falsehoods, often promulgated by people who have not applied critical reasoning to the things they have been told. Priests of Wisdom use this Anointing to encourage pilgrims to exaMine the things they have heard, to try to separate the wheat from the chaff by identifying what is likely to be true from pure fiction.
 Having grey hair doesn't make you wise.

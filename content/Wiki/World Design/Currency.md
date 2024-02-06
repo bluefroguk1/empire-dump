@@ -23,7 +23,7 @@ Historical coins have no value within the Empire as currency, although they stil
 Elsbet Giella di [[Sarvos]].
 My dearest Elsbet, I must write with haste, for G. is even now preparing to present A's plan to the Freeborn and Marcher negotiators. We have the agreement of The Mountains and the Northerners already, but these two are critical, otherwise the agonizing delays of the last six months will all have been for nothing. Everything hangs in the balance, but I am certain he will do it. I implore you to buy all the silver you can afford with all possible speed as soon as this winged messenger reaches you.
 D.
-## Foreign and [[Barbarian]] Currencies
+## Foreign and Barbarian Currencies
 All Imperial services and functions are handled in imperial coins - foreign and barbarian coins are not legal tender within the Empire. Foreign Visitors know this, and rarely bother to bring their own currencies with them - preferring instead wherever possible to draw on caches of Imperial money built up through trade.
 ### OOC Note on Foreign Coinage
 While nations such as [[Faraden]] and the [[Iron Confederacy]] use their own unique coins, Profound Decisions does not produce these coins and they have no value in the Empire. [[Foreign Nations]] know the Empire's dislike for using non-Imperial coins and will generally use rings, crowns and thrones for all transactions within the Empire.

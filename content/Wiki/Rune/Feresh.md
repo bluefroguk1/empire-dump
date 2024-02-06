@@ -15,7 +15,7 @@ Feresh is the monarch with no need of guards, the priest who sways the [[Congreg
 The danger of Feresh is that it does not create, it merely enhances what is already present. If it is marked on someone or something that is flawed, the flaw is magnified along with whatever other qualities are present. It becomes the strength that breaks the thing that is strong.
 Feresh is used along with [[Jotra]], [[Tykonus]] and [[Verys]] to represent [[Glory]] by many Dawnish Magicians and crafters; here it represents Glory as a quality of the spirit. 
 Sometimes referred to as the “Emperor Rune”, some pre-Imperial gold [[Currency]] carried its seal. Many Winterfolk leaders bear Feresh on an amulet or other piece of jewelery, but anyone who aSpires to greatness may look to the rune for inspiration. 
-Feresh is also connected to the Imperial Virtue of [[Pride]], and is said to have a strong affiliation for the [[Changeling]] [[Lineage]].
+Feresh is also connected to the Imperial Virtue of [[Pride]], and is said to have a strong affiliation for the [[Changeling]] Lineage.
 ### Using Feresh in [[Magic]]
 Feresh is evoked with magic that enhances qualities in individuals, or is invoked to provide influence over others. It is also an intensifier, and is sometimes used to add additional power to another magical effect such as when raising a storm. Dawnish [[War]] Witches often evoke Feresh alongside the other Summer [[Runes]] when performing the [[Empower]] incantation.
 ### Crafting with Feresh

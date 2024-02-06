@@ -15,7 +15,7 @@ __NOTOC__
 That the Senate grants permission to Construct a Trade Hub to [[Construct a Trade Hub to Axos]] in [[Necropolis]]. This will trade [[Liao]] for mana. This [[Ministry]] will be assigned by the [[Loyalty]] [[Assembly]]. 
 Proposed by [[Tassato]], Seconded by [[Sarvos]].
 ### Overview
-* This motion is to [[Commission]] the construction of a trade hub to purchase mana and other [[Materials]] for liao from [[Axos]].
+* This motion is to Commission the construction of a trade hub to purchase mana and other [[Materials]] for liao from [[Axos]].
 * Passed
 ### Date
 * Summer 381YE

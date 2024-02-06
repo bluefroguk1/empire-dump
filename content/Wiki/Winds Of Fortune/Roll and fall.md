@@ -12,7 +12,7 @@ revision_date: 2022-08-06 10:24:41+00:00
 revision_id: 94350
 ---
 
-"So you see this a great [[Opportunity]] to engage in ''mercantile practices.''" 
+"So you see this a great Opportunity to engage in ''mercantile practices.''" 
 Hugh realised that even when the [[Grendel]] were trying to be pleasant and offer an actually good deal they couldn't help but use euphemisms. "Right, so you want us to go to [[Spiral]], what for?"
 "Spiral first yes. But then east, across The Mountains."
 "Into [[Axos]]?" Hugh worried that he was a little too drunk to be talking to a Grendel. The orc smiled broadly, revealing the red gemstones set into several of her teeth.

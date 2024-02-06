@@ -12,7 +12,7 @@ revision_id: 86476
 ---
 
 __NOTOC__
-I, the [[Civilian Commissioner]] of the [[Imperial Orcs]] [[Commission]] the construction of the Home of the Broken Shield, a communal home for those Imperial Orcs of the Broken Shield. Approved by the Civilian Commissioner of the Imperial Orcs
+I, the [[Civilian Commissioner]] of the [[Imperial Orcs]] Commission the construction of the Home of the Broken Shield, a communal home for those Imperial Orcs of the Broken Shield. Approved by the Civilian Commissioner of the Imperial Orcs
 ### Overview
 * A [[Sinecure]] that produces herbs in Skogei's Glen, [[Skarsind]]
 * This motion was announced by the Civilian Commissioner of The Imperial Orcs using the legal power to commission constructions delegated to them by the Senate

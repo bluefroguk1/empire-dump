@@ -14,7 +14,7 @@ revision_id: 104932
 ## Overview
 The ''[[Weigher of Worth]]'' is an [[Imperial Title]] aWarded to an Imperial Orc citizen. The [[Sinecure]] was announced in Summer 381YE, by Azzam i Zaydan i Requeza, using an Imperial Wayleave. It brings with it custodianship of a Sinecure located in The Mountains of eastern Gildermark, called the Halls of [[Worth]]. The halls provide a bounty of crystal mana.
 ## Responsibilities
-The Weigher of Worth is expected to use the crystal mana they receive to seek out new items of Worth, and to deliver them into the right hands.To aid with this they receive a bounty of crystal mana from the Halls of Worth. If the Halls themselves were to be threatened in any way, it would be the responsibility of the Weigher to deal with those threats  - but also to deal with any [[Opportunity]] to expand the sinecure, or to make any decisions about its operation.
+The Weigher of Worth is expected to use the crystal mana they receive to seek out new items of Worth, and to deliver them into the right hands.To aid with this they receive a bounty of crystal mana from the Halls of Worth. If the Halls themselves were to be threatened in any way, it would be the responsibility of the Weigher to deal with those threats  - but also to deal with any Opportunity to expand the sinecure, or to make any decisions about its operation.
 The Weigher of Worth is also charged with helping organise the [[Anvil]] [[Night of Worth]] celebration that takes place each year during the Spring Equinox.
 ## Powers
 ### Oathwright's Bounty

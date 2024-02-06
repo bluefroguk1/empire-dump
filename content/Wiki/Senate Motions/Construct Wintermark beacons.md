@@ -14,7 +14,7 @@ revision_id: 85628
 __NOTOC__
 To build the beacons and watchtowers of [[Kallavesa]] and [[Hahnmark]]. [[Materials]] and Costs provided in fUll by Tyr Brenna of Hendall Hearth.''Proposed by Hahnmark, seconded by Kallavesa.''
 ## Overview
-* [[Commission]] a series of watchtowers and beacons in Kallavesa and Hahnmark.
+* Commission a series of watchtowers and beacons in Kallavesa and Hahnmark.
 * Result of civil service proposal.
 * Passed in principle.
 ## Date

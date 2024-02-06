@@ -12,7 +12,7 @@ revision_id: 102750
 ---
 
 ## Overview
-The [[Banner-bearer of Atkonaroq]] is an [[Imperial Title]] aWarded to a citizen of [[Wintermark]]. The Hall of the Hunters was announced by ''Groza'', the [[Legion Engineer]] during the Spring Equinox 385YE as part of an [[Opportunity]] to deal with the monsters loose in [[Sermersuaq]].
+The [[Banner-bearer of Atkonaroq]] is an [[Imperial Title]] aWarded to a citizen of [[Wintermark]]. The Hall of the Hunters was announced by ''Groza'', the [[Legion Engineer]] during the Spring Equinox 385YE as part of an Opportunity to deal with the monsters loose in [[Sermersuaq]].
 ## Responsibilities
 The Banner-bearer of Atkonaroq has a responsibility to ensure that the [[Heroes]] who come to the Hall are adequately proVisioned to brave the dangers of the [[Suaq]] wastes. In addition if the Hall were to be threatened in any way, it would be the responsibility of the Banner-bearer to deal with those threats.
 ## Powers

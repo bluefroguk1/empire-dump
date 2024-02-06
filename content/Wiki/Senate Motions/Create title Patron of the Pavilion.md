@@ -14,10 +14,10 @@ revision_id: 94624
 __NOTOC__
 Create [[Imperial Title]] ‘[[Patron of the Pavilion]]’, a [[Sinecure]] with an income of 10 [[Liao]] and 20 votes in the Synod. 
 Elected by [[Appointment]] of [[The League]] National [[Assembly]]. Privately funded by the benefactors of [[Highguard]].
-No civilian [[Commission]] required.
+No civilian Commission required.
 ''Proposed by [[Necropolis]], seconded by [[Holberg]].''
 ## Outcome
-* Create a new Imperial title following the [[Opportunity]] presented by the [[Curse]] on Homauer Park.
+* Create a new Imperial title following the Opportunity presented by the [[Curse]] on Homauer Park.
 * Passed
 ## Date
 * Autumn 383YE
