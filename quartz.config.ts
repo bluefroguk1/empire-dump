@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🗃️ Empire Dump",
+    pageTitle: "🗃️ Empire Data Dump 🗃️",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
