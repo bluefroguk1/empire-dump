@@ -13,7 +13,7 @@ revision_id: 85906
 ---
 
 ## Overview
-* Request for funds to provide mana toWards the performance of strategic [[Rituals]].
+* Request for funds to provide mana toWards the performance of strategic Rituals.
 ## PrOgress
 * 95 Thrones disbursed to Ariadne of the Auric Horizon, [[Proxy]] [[Senator]] for [[Morrow]] during the Autumn Equinox 378YE
 * 25 Thrones disbursed to Probus, Senator for [[Redoubt]] during Spring Equinox 378YE

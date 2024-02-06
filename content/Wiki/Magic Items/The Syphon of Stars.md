@@ -19,5 +19,5 @@ Finally - and this use causes some cautious magicians to look askance at any cov
 Paraphernalia
 * Effect: Once per day when the coven performs a ritual, all members of the coven who have not mastered that ritual gain an additional effective rank in the appropriate lore for purposes of performing that ritual, subject to the normal rules for effective skill.
 * Materials: Crafting the Syphon of Stars requires eleven ingots of tempest jade, nine measures of dragonbone, five measures of [[Ambergelt]], five ingots of weltsilver, five measures of beggar's lye, five measures of [[Iridescent gloaming]], five ingots of orichalcum and five ingots of green iron. It takes one month to make one of these items.
-[[Rules reminder]]
-The normal rules mean that each contributor must posses at least one innate skill rank of the appropriate [[Realm]] lore. The additional rank does not grant any additional mastered [[Rituals]], and a character's total effective rank can never be more than three times their innate skill (the number of ranks of the appropriate Realm Lore they have gained by spending experience points).
+Rules reminder
+The normal rules mean that each contributor must posses at least one innate skill rank of the appropriate [[Realm]] lore. The additional rank does not grant any additional mastered Rituals, and a character's total effective rank can never be more than three times their innate skill (the number of ranks of the appropriate Realm Lore they have gained by spending experience points).

@@ -11,7 +11,7 @@ revision_id: 106858
 ---
 
 ## Heroic [[Heroic skills]]
-*You must purchase the ''hero'' skill before you can take any other heroic [[Skills]]
+*You must purchase the ''hero'' skill before you can take any other heroic Skills
 *You cannot use heroic weapon skills with [[Mage]] implements
 You must purchase one or more hero points before you can purchase any of the Heroic heroic skills listed in this section. These skills (and some items that can be gained in play) allow you to expend hero points to achieve game effects.
 If you have a hero point from any source then you may expend it at any time to act as a source of spiritual strength to allow you to overcome or resist a Roleplaying effect that your character is subject to.

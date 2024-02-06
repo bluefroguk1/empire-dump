@@ -16,7 +16,7 @@ revision_id: 107301
 *Most [[Magic Items]] are made by artisans
 *You must be bonded to these items to use them
 *You can only be bonded to one item of each form at once
-*Most [[Magic]] items last up to four [[Events]]
+*Most [[Magic]] items last up to four Events
 Almost all Magic items require you to be bonded to them to use them. Magicians can cast [[Create Bond]] to bond a character to an item, or an artisan can bond a character to any item that they know how to make. A bond lasts as long as the magic of an item endures, or until a magician breaks the bond using the Create Bond spell.
 Personal Magic items fall into one of three forms: weapons, armour, and talismans. You can only ever be bonded to one weapon, one suit of armour, and one talisman at any one time.
 ''E.g. Your character is bonded to a [[Shieldbreaker]] weapon. You cannot become bonded to a Giant's Maul two-handed axe because both of these items are weapons.''
@@ -31,7 +31,7 @@ Artisans can use Ilium to make a permanent artefact version of any magic item th
 ## Personal Magic Items
 *There are three types of magic item a character can be bonded to
 *You can only be bonded to one of each form at once
-*Many personal Magic Items require you to have one or more [[Skills]] to bond to it
+*Many personal Magic Items require you to have one or more Skills to bond to it
 Characters may bond to three different types of personal items. You may only be bonded to one item of each form: weapons, armour, and talismans.
 Each magic item has its own page on the wiki, but there is a summary of the magic items by category, linked on the right. The summary includes the name and [[Basic]] effect of the item. There is also a complete summary of all magic items available.
 ### Weapons
@@ -80,7 +80,7 @@ Standards
 *You must be wearing or actively using a talisman to use its magical abilities
 Talismans cover several different groups of magical items, including shields, ritual foci, ceremonial regalia, jewellery, and tools. Jewellery, regalia, and foci must be worn to use their magical abilities; shields and tools must be held in the hand to use their abilities.
 Jewellery must be a phys-rep of an item that is worn. It may take the form of actual jewellery such as an amulet, ring, bracelet, or circlet. It may also take the form of any other small item intended to be worn, such as an embroidered favour, decorative braid, and the like. As much as possible the item should look distinctive and decorative.
-Foci are items such as rings and masks that help focus energies in [[Rituals]]. They can only be used by magicians.
+Foci are items such as rings and masks that help focus energies in Rituals. They can only be used by magicians.
 Some tools are used by physicks, some by apothecaries, and some by artisans. You must have the appropriate skill to use a tool to be able to bond to it.
 ### Magic Standards
 A magic standard is a specific type of talisman. The phys-rep must be a banner or standard that is carried in the hand: it cannot be a back-banner or tabard. The banner pole must be at least 60" long, and the standard must be six square feet or more in area and at least one foot in any dimension (for example a 24" by 36" banner, or a 12" wide, 72" long pennant). You can include decorative additions to banners that are close to the minimum size to make them meet the requirements.

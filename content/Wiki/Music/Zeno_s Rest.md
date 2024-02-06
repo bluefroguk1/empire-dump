@@ -13,7 +13,7 @@ revision_id: 63223
 ---
 
 Words and melody by Claire Sheridan. A recording of the song can be found [https://soundcloud.com/herecosyouare-1/zenos-rest here].
-Composed by Nicassia of Phoenix Reach following [[Events]] in Autumn 381YE.
+Composed by Nicassia of Phoenix Reach following Events in Autumn 381YE.
 There is a place where hope will never die,
 The Onyx Path for us is open wide,
 Whatever we embrace,

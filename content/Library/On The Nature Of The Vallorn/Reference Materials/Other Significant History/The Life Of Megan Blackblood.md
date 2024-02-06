@@ -22,7 +22,7 @@ Landskeeper Bran was increasingly dissatisfied with his life in the [[Mournwold]
 
 In 131YE, Megan and Bran of Alderley were caught up in a campaign against [[Druj]] insurgents in the Dawnish territory of Weirwater. Fighting under the banner of the Shadow Wasp, the Druj invaded Weirwater with a flotilla of great rafts launched across [[The Semmerlak]]. The Druj were lead by a powerful ghulai and her coven, who wielded the power of [[Spring magic]] against the Imperial defenders.
 
-As a Navarr who had studied with vates, accompanied by a small band of Navarr Thorns and a Marcher master of Spring [[Magic]], Megan's group quickly found themselves as special advisors to the Dawnish forces there. The Navarr scouts provided valuable [[Assistance]], and the magic wielded by Bran of Alderley was especially effective at countering the use of [[Venom]] against the Dawnish knights. Despite initial victories, the Shadow Wasp were slowly pushed back eastward, trapped between the Imperial forces and the lake shore.
+As a Navarr who had studied with vates, accompanied by a small band of Navarr Thorns and a Marcher master of Spring [[Magic]], Megan's group quickly found themselves as special advisors to the Dawnish forces there. The Navarr scouts provided valuable Assistance, and the magic wielded by Bran of Alderley was especially effective at countering the use of [[Venom]] against the Dawnish knights. Despite initial victories, the Shadow Wasp were slowly pushed back eastward, trapped between the Imperial forces and the lake shore.
 
 As the Druj fell back it was clear they pLanned to take to their rafts and flee.
 

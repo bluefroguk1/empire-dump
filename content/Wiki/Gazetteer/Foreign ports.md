@@ -76,7 +76,7 @@ Volkavaar (Commonwealth)Ambergelt012234455667788
 Artisan's Oil222333445566778
 Bladeroot000000112233445
 Weltsilver001234455667788
-Zemeh (The [[Sumaah]] Republic)Dragonbone012344556677889
+Zemeh (The Sumaah Republic)Dragonbone012344556677889
 Imperial Roseweald00000224466881010
 Liao333334455667788
 Orichalcum012344556677889

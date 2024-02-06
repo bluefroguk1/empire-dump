@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Event information
 aliases:
-- Event_information
+  - Event_information
 draft: false
 revision_date: 2024-01-31 14:19:33+00:00
 revision_id: 107431

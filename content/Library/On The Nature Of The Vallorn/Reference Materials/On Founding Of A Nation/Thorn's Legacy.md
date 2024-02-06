@@ -2,7 +2,7 @@
 {}
 ---
 
-During the [[Anvil]] Vate Hunt of Spring 380YE the [[Heroes]] of [[Navarr]] journeyed to Fever's Wake in [[Therunin]]. There, within a Winter [[Regio]], they found a stone egg encased in a solid container that could only be breached by casting six specific [[Rituals]], one for each of the realms. The egg itself Empowers someone who is bound to it in the arts of [[Spring magic]], it is also Hallowed with an [[Aura]] of [[Ambition]], the ambition to connect all of The [[The Vallorn]] hearts together using the trods.
+During the [[Anvil]] Vate Hunt of Spring 380YE the [[Heroes]] of [[Navarr]] journeyed to Fever's Wake in [[Therunin]]. There, within a Winter [[Regio]], they found a stone egg encased in a solid container that could only be breached by casting six specific Rituals, one for each of the realms. The egg itself Empowers someone who is bound to it in the arts of [[Spring magic]], it is also Hallowed with an [[Aura]] of [[Ambition]], the ambition to connect all of The [[The Vallorn]] hearts together using the trods.
 
 More interesting still is the Vision received when the ritual [[Skein of Years]] was cast on the egg. Below is the ritual first witnessed by Bledri [[Eternal]], then the Eternal [[Family]] coven and finally thanks to an [[Arcane projection]] "Witness to the End" was shown to gathered Navarri heroes at the Songs and Stories Circle in Anvil.
 

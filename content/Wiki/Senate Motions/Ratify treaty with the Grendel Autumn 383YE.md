@@ -22,7 +22,7 @@ To accept the peace treaty with the [[Grendel]].
 ## Treaty
 Civil service records indicate the following points were agreed in the treaty with the Grendel.
 * There will be peace between [[The Empire]] and the Grendel for two years, to be renegotiated in eighteen months during the Spring Equinox 385YE
-* The Grendel will not trade with the [[Druj]], nor offer them any other material [[Assistance]] in their military engagement against the Empire, 
+* The Grendel will not trade with the [[Druj]], nor offer them any other material Assistance in their military engagement against the Empire, 
 * The Grendel will release Imperial slaves, one for each day that the treaty is upheld, with the first lot two weeks after the treaty then each month after that.
 * The Empire cede the Regions of Afarjasse and Morajasse in [[Feroz]], and Ankra, Cinion and Ateri in [[Spiral]] to the Grendel
 * The Empire will not build any Shipyards or navies in the [[Bay of Catazar]] for the duration of the treaty

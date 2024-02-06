@@ -25,4 +25,4 @@ Proposed by Karsk, Seconded by [[Hahnmark]]
 * 10 wains of [[White granite]], 10 wains of [[Weirwood]], and 5 thrones provided by Maarit Akkova Cendro after Spring Equinox 380YE.
 ### Campaign Outcome
 * The majority of the [[Basic]] construction work on the new vale of Ivarsgard is now complete. 
-* The civil service will be investigating what [[Assistance]] it can offer to the exiles of Ivarsgard who wish to return to their rejuvenated vale.
+* The civil service will be investigating what Assistance it can offer to the exiles of Ivarsgard who wish to return to their rejuvenated vale.

@@ -15,7 +15,7 @@ revision_id: 29141
 Words and tune by Dhiamara Coulson. [https://soundcloud.com/thecynicalselfadoration/[[Urizen]]-1-voices tune]
 A story song, by Salviana of Endsmeet [[Spire]]
 [[Voices Call]] in mountains high
-To [[Rituals]] it's time to cry
+To Rituals it's time to cry
 Be Wary now
 Be wary thee
 The consequences of your dreams.

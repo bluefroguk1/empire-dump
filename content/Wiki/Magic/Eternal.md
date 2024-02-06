@@ -168,4 +168,4 @@ Anchor|Eternals of Night
 |Secrets, rumour, art
 |}
 #anchor|1 Prior to 384YE Ylenwe used the name Ylenrith and was strongly associated with purity.
-#anchor|2 In 382YE, two other eternals of the Night Night realm - [[Murit]] the Shaper and [[Soghter]], Changer of The Ways - were unified into Azoth with the [[Assistance]] of Imperial magicians.
+#anchor|2 In 382YE, two other eternals of the Night Night realm - [[Murit]] the Shaper and [[Soghter]], Changer of The Ways - were unified into Azoth with the Assistance of Imperial magicians.

@@ -89,7 +89,7 @@ Now the spire boasts the twin pronged aretes of Wisdom and [[Prosperity]] with t
 *Apothegm: ''We bring the peaceful light, To the chaos of the dark ocean''
 *Arbiter: Captain Marinus
 The spire formed as a result of a dramatic rescue from sea for the lone survivor; Captain Neptune. When rescued he couldn’t tell anyone what had happened or how he survived, all he could say was that seen a “Great Serpent”. He and other captains decided to set up the Serpents Rest, named after the mysterious creature he saw, as a sanctuary for those feeling lost or seeking safety. It wasn’t long before Serpents Rest became a spire dedicated to Fleets and the sea. The spire itself was originally a docking area and warehouse in Cargo and in time some of the space was converted into private lodgings or expanded to accommodate guests.
-Although the magically inclined members of Serpents Rest have no specific focus, they typically prefer the realms of Spring, Autumn, and Day due to the [[Rituals]] in [[Imperial lore]] that can support fleets. 
+Although the magically inclined members of Serpents Rest have no specific focus, they typically prefer the realms of Spring, Autumn, and Day due to the Rituals in [[Imperial lore]] that can support fleets. 
 ### Temple of the Prismatic Eye
 *Purpose: Temple
 *Region: Ventosi
@@ -104,7 +104,7 @@ Those spires still in Spiral must contend with both the presence of the Grendel 
 *Region: Apulus
 *Arbiter: Letho Southshore.
 [[The Academy]] of the Southern Shore is a prominent teaching institution aimed towards young magicians of Urizen. Its students range in ages from the youngest children to young imperial citizens, who spend time at the Academy in order to refine their arete. The spire itself is built on the slopes overlooking Apulus. The spire has been known to take in refugees, sometimes those of other nations who arrive from the seas.
-The Academy specialises in the magic of the Night [[Realm]], though all ritual arts are studied there. Teachers encourage students to pursue religious and martial [[Skills]] if desired. The academy is well known for an unusual pedagogy which emphases the use of the ritual Cast Off [[The Chain]] of Memory. Through the use of this ritual the students and the teachers of the Academy seek to remove “distracting” experiences that cause them to suffer a loss of poise or divert attention from their Arete. 
+The Academy specialises in the magic of the Night [[Realm]], though all ritual arts are studied there. Teachers encourage students to pursue religious and martial Skills if desired. The academy is well known for an unusual pedagogy which emphases the use of the ritual Cast Off [[The Chain]] of Memory. Through the use of this ritual the students and the teachers of the Academy seek to remove “distracting” experiences that cause them to suffer a loss of poise or divert attention from their Arete. 
 The spire has also become well-known, particularly within Anvil for its unconventional approach to the tradition of astromancy, notably calling on the constellation of [[The Oak]] as The Palm. For this reason a Palm Tree has become a more identifiable symbol of the Spire (especially in Anvil) than the official Sigil. 
 The Spire closed its public doors following the awakening of the [[Black Plateau]] and lost many of its students. In the wake of this tragedy members of the Spire first travelled to Anvil, since this fateful step The Academy has slowly been returning to strength.
 ### The Great Library of Ankarien
@@ -191,5 +191,5 @@ Some other questions to consider include:
 Things to avoid include:
 * Too much [https://en.wikipedia.org/wiki/Worldbuilding worldbuilding] detail — this represents information other characters may know about your spire. It's not a place to define elements of the game world
 * Lists of character names — this isn't a place for getting your name on the wiki 
-* Too much emphasis on the past — while it's useful to have a few lines of history, what matters in Empire is what your spire does on the field at [[Events]]
+* Too much emphasis on the past — while it's useful to have a few lines of history, what matters in Empire is what your spire does on the field at Events
 It's possible to update the information on this page over time (for example if your arbiter changes) with an e-mail to [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk].

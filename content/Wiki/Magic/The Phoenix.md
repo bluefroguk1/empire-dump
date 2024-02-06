@@ -21,7 +21,7 @@ Another more immediate phenomenon was observed in the wake of the Summer Solstic
 The Phoenix is the transformation of the self through learning, [[Wisdom]] and understanding; unlike The Great [[The Great Wyrm]], which is elemental change, the Phoenix is the rebirth of the soul through understanding and education – the awakening of enlightenment.
 In some cultures the legend of the bird’s fiery death and rebirth is seen as a metaphor for the transit of souls through the Labyrinth – in others, the fiery end is seen as the strife and toil required to better oneself. Nothing [[Worth]] learning should be cheap or easy.
 ### Using The Phoenix in Ritual
-The Phoenix stands for knowledge revealed and the betterment of all thereby. It is the enemy of ignorance and secrets, the flame that burns superstition and misunderstanding away. It has considerable application in [[Rituals]] designed to counter or destroy other rituals especially those which cloud or obscure; it is also efficacious when used to raise morale or counter fear and despair.
+The Phoenix stands for knowledge revealed and the betterment of all thereby. It is the enemy of ignorance and secrets, the flame that burns superstition and misunderstanding away. It has considerable application in Rituals designed to counter or destroy other rituals especially those which cloud or obscure; it is also efficacious when used to raise morale or counter fear and despair.
 ### Tulpas of The Phoenix
 The thoughtforms of the Phoenix are always vivid in colour and vigorous in movement; enthusiastic, energetic, rousing and fUll of fire. Red Jack Firestarter in [[The Marches]], the Flame-Haired Woman in [[Dawn]] and the Chimneysweep in [[The League]] are all known tulpas of the Phoenix.
 # Name

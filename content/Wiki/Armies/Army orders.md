@@ -10,7 +10,7 @@ revision_id: 103474
 ---
 
 ## Overview
-A military campaign is not a single battle: a campaign is a prolonged period of Warfare that takes place over the whole territory in the three months between [[Events]]. Each [[General]] can issue a single set of orders for the army they control. The orders should describe a broad strategic plan representing what the general would like the army to achieve on campaign in a territory over the Downtime before the next event. 
+A military campaign is not a single battle: a campaign is a prolonged period of Warfare that takes place over the whole territory in the three months between Events. Each [[General]] can issue a single set of orders for the army they control. The orders should describe a broad strategic plan representing what the general would like the army to achieve on campaign in a territory over the Downtime before the next event. 
 If a set of orders turns out to break one of the rules - for example moving to a territory the army can't reach, or using an order they don't have access to - then Profound Decisions will e-mail the player after the event with a set of options to choose from that fulfills as much of the original order as possible.
 ## Movement
 Generals may issue orders to attack or defend any territory their army can reach. To keep things as simple as possible, an army is assumed to move to any territory that the general issues orders to attack or defend before any Fighting takes place. In effect, an army can slip away at the start of a season before the campaign begins.

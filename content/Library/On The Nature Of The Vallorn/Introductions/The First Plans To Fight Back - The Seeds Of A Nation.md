@@ -153,7 +153,7 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > not probable. It is more likely that she had several Spring covens who she
 > had taught and they used [[Spring rituals]] to create forests or to control the trees.
 > 
-> These [[Rituals]] are unfortunately lost and do not seem to be in [[Imperial lore]],
+> These Rituals are unfortunately lost and do not seem to be in [[Imperial lore]],
 > but there are many who are cautious about using Spring magic for anything
 > other than its restorative properties that could possibly bring about the
 > creation of a second Vallorn. My personal view is that this is driven by fear
@@ -196,6 +196,6 @@ upon that likely took a lifetime (perhaps it is this that has lead to the tales 
 > 
 > **[[A Historical Treaties On The Life Of Navarr]], Compiled by Morfran Ravenswatch, 172YE**
 
-The final fates of Navarr and Thorn are currently unknown, [[What we do]] know
+The final fates of Navarr and Thorn are currently unknown, What we do know
 is that their legacy lives on today in the people of Navarr, in the extension
 the end Trod network the vile and the plans to join all The the Vallorn hearts and finally bring of an to cancer at the heart of our Empire.

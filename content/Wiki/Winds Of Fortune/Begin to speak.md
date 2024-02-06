@@ -80,7 +80,7 @@ Let the Spring Archmage bring their minions to the ''Stormwood'' in the Bleaks, 
 There is one more requirement. Siaka does not care who takes up the challenge, whether it is the Spring Archmage or his proxy or whoever. However the person who travels to the Barrens must bear the Staff of Spring - the Archmage's staff of office - with them. This herald is clear that Siakha will not negotiate - on this or any other demands that the ''Empress of Sharks'' makes.
 Neither meeting will be a parley. The ''Salt-born Devourer'' is clear that any creature who attempts to speak with her ''must'' accept that violence is her preferred form of communication. The civil service adVises all magicians attending Conclave to be aware that Siakha has attacked the Spring Archmage during a meeting before and that it must be considered highly likely that she will do so again. As if to make this very point, once it has ascertained that the watching citizens have understood the message, the creature proceeds to attempt to murder as many of them as possible, inflicting horrific injuries with its pole-arm before it is finally brought down.
 Examination of the [[Sentinel Gate]] indicates that there is a conjunction that can be used to reach the Stormwood, in the Bleaks during the coming summit. Further details are available below.
-### [[Accessibility]]
+### Accessibility
 Please be aware that combat is highly likely in the Hall of Worlds during this encounter.
 Conjunction Link|384YE_Summer_Solstice_winds_of_war#Large_Conjunctions
 ### Stormwood (Conjunction)
@@ -105,6 +105,6 @@ These meetings are taking place in a number of places; in the Hall of Worlds, in
 |-
 | Saturday || 22:00 || Tharim || Winter || Parley; Chamber reached via the Hall of Worlds
 |-
-| Saturday || 23:30 || Siakha || Spring || Definitely not a parley; dependant on previous [[Events]]; Hall of worlds
+| Saturday || 23:30 || Siakha || Spring || Definitely not a parley; dependant on previous Events; Hall of worlds
 |-
 |}

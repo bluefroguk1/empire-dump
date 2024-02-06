@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Winter Solstice 2016
 aliases:
-- Winter_Solstice_2016
+  - Winter_Solstice_2016
 draft: false
 revision_date: 2022-01-29 15:24:20+00:00
 revision_id: 86180

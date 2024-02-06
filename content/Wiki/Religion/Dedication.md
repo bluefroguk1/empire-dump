@@ -18,7 +18,7 @@ In addition to dedicating a pilgrim's soul, there is another use, an older use f
 There are other methods for achieving the right meditative state, but they are significantly more expensive, time consuming, and less reliable than the use of liao.
 ## Performance
 * Requires a dose of liao and at least ten seconds appropriate roleplaying
-* Requires the presence and [[Assistance]] of a referee
+* Requires the presence and Assistance of a referee
 * Requires a willing target who understands what is happening
 Dedicating a character uses a dose of liao. Performing the ceremony requires at least ten seconds of appropriate roleplaying and target must be close enough to touch throughout. The target must be willing. If they are unwilling or unaWare of the virtue to which they are being dedicated, the ceremony fails. 
 You can only dedicate someone to the virtue to which you yourself are dedicated. No known [[Magic]] item allows one to circumvent this restriction (the musical instruments do not allow one to dedicate someone to a different virtue).
@@ -26,13 +26,13 @@ You can only dedicate someone to the virtue to which you yourself are dedicated.
 * The ceremony dedicates the target to your virtue
 * A character can only be dedicated to a single virtue at any one time
 * May be used to replace an existing Dedication
-* Being dedicated allows a priest to use their [[Skills]] to create Roleplaying effect auras of the virtue they are dedicated to
+* Being dedicated allows a priest to use their Skills to create Roleplaying effect auras of the virtue they are dedicated to
 * Being dedicated deterMines which Synod [[Assembly]] a character belongs to if they have a [[Congregation]] resource
 * The [[Insight]] ceremony reveals details of dedication
 * Orcs cannot be dedicated
 Dedicating a character creates a permanent spiritual link between their soul and your virtue. They become dedicated to the same virtue that you are dedicated to. This link can be seen by anyone who uses the Insight skill on the target.
 Dedication determines which spiritual auras a character can create using Anointing, [[Consecration]] and [[Hallow]]. A character cannot create a virtue [[Aura]] unless they are dedicated to the virtue. The strength of a dedication determines how hard it is to remove or replace.
-Dedication also has an influence on the political structure of the Synod. The Synod is split into eight Virtue assemblies, one for each virtue and one for the Way for those priests who do not prioritise a single virtue. A character who owns a Congregation may vote in various assemblies of the Synod, including the relevant assembly for their virtue. Prior to the changes made by the [[Imperial Senate]] in Spring 384YE, dedication determined which Virtue assembly a priest belonged to. Now, while dedication determines a priest's initial assembly, their Virtue assembly membership can be changed through preaching between [[Events]].
+Dedication also has an influence on the political structure of the Synod. The Synod is split into eight Virtue assemblies, one for each virtue and one for the Way for those priests who do not prioritise a single virtue. A character who owns a Congregation may vote in various assemblies of the Synod, including the relevant assembly for their virtue. Prior to the changes made by the [[Imperial Senate]] in Spring 384YE, dedication determined which Virtue assembly a priest belonged to. Now, while dedication determines a priest's initial assembly, their Virtue assembly membership can be changed through preaching between Events.
 Although orcs are subject to the effects of auras created using Liao - they cannot be dedicated to the virtues by a human using Liao.
 ## Removal
 * Dedication is permanent until removed or replaced.

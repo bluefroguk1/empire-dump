@@ -14,7 +14,7 @@ revision_id: 95738
 
 Audio|link=https://youtu.be/TCxtDCwF220
 ## Overview
-As the Autumn Equinox Dawns, the great and the good of [[The Empire]] come to [[Anvil]]. Noble houses and Marcher Households, Highborn chapters and Urizeni spires, [[Navarr]] steadings and Stridings and more - they all gather to debate recent [[Events]] and plan for the future. Congregations of the influential and the wealthy attract others as well - those with goods to sell, secrets to trade, or business of their own to arrange.
+As the Autumn Equinox Dawns, the great and the good of [[The Empire]] come to [[Anvil]]. Noble houses and Marcher Households, Highborn chapters and Urizeni spires, [[Navarr]] steadings and Stridings and more - they all gather to debate recent Events and plan for the future. Congregations of the influential and the wealthy attract others as well - those with goods to sell, secrets to trade, or business of their own to arrange.
 ## Accursèd Curios
 * Members of the Alders-Baart [[Family]] are making their way to Anvil from the [[Sarcophan Delves]]
 * They bear a number of Cursed items which they hope to sell to Imperial collectors
@@ -89,7 +89,7 @@ Those on the road to Anvil may be becoming used to the sight of a small group in
 ''Evander of Kaban'' has enCouraged anyone interested in buying wares the group have previously sold in Anvil to come along and restock - and has also dropped heavy hints about a "business opportunity" that is "both rare and exciting" and which should appeal even to those who would not usually have a need to buy apothecarial concoctions. He intends to open up shop outside the Forge from 15:30 on Saturday afternoon.
 ## Guardians of Winter
 * Some members of the Wintergard [[Chapter]] intend to visit [[Highguard]] to talk about suspicious events at Syrene's [[Wisdom]]
-* They may be looking for [[Assistance]] to perform one or more Inquisitions
+* They may be looking for Assistance to perform one or more Inquisitions
 * The group is expected to arrive around 8pm on Friday
 The town of Syrene, just down the road from Anvil in Syrwatch was recently hit by a major flood - in the middle of the Great Drought no less. While the town has been the focus of efforts by the [[Silver Chalice]] to help those injured or displaced by waters tainted with [[Winter magic]], there have been a few other inexplicable events. Members of the Wintergard Chapter - Vigilant Sentinels who watch over the peculiar Pool of Syrene - have indicated that they are intending to come to Anvil during the Autumn Equinox.
 The Highborn are looking for assistance as they make inquiries into a peculiar report from within Syrene's Wisdom - the [[Mine]] that was the epicentre of the recent flood. Apparently, there is a story of people where there should not have been people and they are deeply concerned this may relate to the flood. They will be visiting the Highguard encampment at eight o'clock on Friday evening, and are keen to speak with anyone who can help them with their enquiries - and potentially to any inquisitors who might be prepared to help them resolve the matter through the Synod. 
@@ -102,9 +102,9 @@ The Ketzov are a former subject clan of the [[Druj]] from [[Ossium]]. Recently e
 However, things have not gone smoothly: visitors arriving in poor weather have been subjected to interrogations at the gate - with some being turned away entirely! Other visitors have stated that they have been ejected with barely a nod to hospitality. It hasn't escaped notice that often these victims of poor civility have been [[Draughir]] - which has worsened attitudes towards the Ketzov - and the prospects of a successful Market at the Mir Mozga.
 With unfortunate tensions growing between the Ketzov and their new neighbours in Karsk, the prognosticators have identified a conjunction of [[The Sentinel]] Gate that will allow a small number of people to visit their vale at half-past-eight on Friday night. Perhaps the [[Burgher of Ketsov]] might be able to get to the bottom of their odd behaviour?
 ## Confusion in Calvos (Conjunction)
-[[Accessibility]]
+Accessibility
 This encounter is not intended to feature fighting and is classed ''combat unlikely or contained''. This is an opportunity for [[Sutannir]] and Freeborn performers, including those who do not fight, to pass through the [[Sentinel]] Gate for a mixture of investigation and performance. It will take place in a fixed spot on the field a short distance from the Sentinel Gate, and will take place on flat ground, with players being welcome to bring seating with them.
-* The people of Calvos in [[Madruga]] tell of [[Sumaah]] visitors acting strangely
+* The people of Calvos in [[Madruga]] tell of Sumaah visitors acting strangely
 * A group of sutannir and performers may be able to investigate, and lift the spirits of locals
 * Civil Service prognosticators have identified a conjunction to the area for 50 people, at 11pm on Friday night.
 Shortly after the Summer Solstice a sect of Sumaah Präster announced that they would be travelling to Calvos, Madruga to participate in the upcoming Festival of [[Zemress]]. Their aim was to gather tales of [[The Blade]] of the Isles, and - more importantly - those who had been inspired by her legacy. Locals say that they arrived safely before the upcoming Equinox, but have been acting strangely, expressing confusion over the most [[Basic]] points of virtue. After such anticipation, their presence threatens to put a dampener on the festivities.

@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Rules
+IgnoreLinking: true
+tags:
+  - Rules
 Title: Rules update 2013
 aliases:
-- Rules_update_2013
+  - Rules_update_2013
 draft: false
 revision_date: 2015-01-23 17:45:31+00:00
 revision_id: 32766

@@ -11,7 +11,7 @@ revision_id: 106623
 ---
 
 It should come as little surprise that the [[Philtres of the High Peaks]] were first codified by the [[Urizen]], but the original recipes themselves date back to the time of Terunael. The Urizen refined and developed them over the course of several centuries, improving their potency and efficiency, and by the time they joined [[The Empire]] the preparations were in the form they exist today.
-These Potions restore personal mana. They will not give a character personal mana if they do not already possess it, and they will not raise personal mana above the maximum set by [[Skills]] and crafted items.
+These Potions restore personal mana. They will not give a character personal mana if they do not already possess it, and they will not raise personal mana above the maximum set by Skills and crafted items.
 ## Mageblood
 This thick red liquid Visibly contains finely-chopped particulate and has a slightly salty taste; all factors that contribute to its common name. The fact that the philtre has proved to be most popular with Magicians who focus on Healing spells has only helped to reinforce this naming convention, to the point where the original Urizen name - ''The Philtre of Celestial Excellence'' has fallen out of use except among the most traditionally minded.
 * Form: Philtre.

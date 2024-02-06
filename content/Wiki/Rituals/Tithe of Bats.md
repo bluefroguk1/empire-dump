@@ -18,7 +18,7 @@ Performing this ritual takes at least 2 minutes of roleplaying. This ritual targ
 ### Effects
 When the ritual is performed, the ritualists put twenty measures of [[Iridescent gloaming]] and/or Dragonbone in an opaque container. At the completion the contents disappear, presented to the Night [[Eternal]] [[Sadogua]], who is always hungry for these tasty [[Materials]].
 It will take at least an hour for anything to happen, potentially longer. After this time, when the box is opened, it will contain four pieces of crystal fire. Each crystal can be used as part of a Night ritual as if it were up to three crystals of mana. The entire crystal is consumed regardless of how much is needed, but it can be passed among multiple Magicians who are contributing to the ritual if desired. 
-The crystal has no use in [[Spellcasting]], or in the [[Rituals]] of other realms.
+The crystal has no use in [[Spellcasting]], or in the Rituals of other realms.
 ### Additional Targets
 The ritual can affect additional measures. Each additional ten measures included in the ritual increases the magnitude by 4, and provides an additional two pieces of crystal fire. Additional measures must be placed in the same container but need not be the same type of material.
 ## Description

@@ -65,5 +65,5 @@ Felipa looked at Saulo and he back to her.
 The merchant pushed the item wrapped in lace slowly and purposefully across the table. Felipa smiled and picked it up. 
 "I guess i will be doing the trading, you have a house guest to look after"
 Saulo opened his mouth to argue, but he knew she was the better trader... and he the better cook.
-Felipa i Manola i [[Guerra]] is pLanning on bringing this curio to Anvil to see if anyone would like to purchase it. It has not been investigated and she guarantees that no [[Rituals]] nor spells have been cast on it. To investigate the item they would either have to have purchased it already or people would have to pay for the privilege.
+Felipa i Manola i [[Guerra]] is pLanning on bringing this curio to Anvil to see if anyone would like to purchase it. It has not been investigated and she guarantees that no Rituals nor spells have been cast on it. To investigate the item they would either have to have purchased it already or people would have to pay for the privilege.
 All freeborn know that to get a good profit you need to work hard, so it is unlikely that Felipa will let the curio go to the first seller for an easy sale.

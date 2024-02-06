@@ -27,4 +27,4 @@ To permit the [[Commonwealth]] to build a schloss on the island east of Siroc - 
 ## PrOgress
 *12 thrones 4 crowns, 40 wains of white granite, and 10 wains of weirwood provided by Militärattache Ludkhannah Schöningen after Winter Solstice 383YE
 ## Outcome
-* Now complete the Lyceum receives a permanent improvement in the speed with which it can codify [[Rituals]] designed to enchant an army.
+* Now complete the Lyceum receives a permanent improvement in the speed with which it can codify Rituals designed to enchant an army.

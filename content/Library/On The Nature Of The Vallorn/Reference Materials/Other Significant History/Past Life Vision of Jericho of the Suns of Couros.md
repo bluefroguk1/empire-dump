@@ -9,13 +9,13 @@
 
 Jericho was selected as a Visionary by the winner of the Virtuous Auction at the Spring 380 YE summit.
 
-The visionary gave his permission for these notes to be made public. The [[Testimony]] was presented by the visionary with some [[Assistance]] from his guide.
+The visionary gave his permission for these notes to be made public. The [[Testimony]] was presented by the visionary with some Assistance from his guide.
 
 The visionary came to in a dark, gloomy Forest with a little light. There was what looked like a wall of creepers, vines and Thorns crossing the area of the forest they were in, and [[On the other side]] of the wall was a man dressed like someone from [[Navarr]]. He gave his name as Prys and addressed the visionary as Envis or Envallis, his wife, who was a [[Thorn]] and also six months pregnant. He also mentioned that they were of the Firstdance [[Striding]], and one of them said that the paths had changed.
 
 They had apparently come into the forest, which was in the heart of The [[The Vallorn]], to find a stone obelisk that was there - it looked like four small towers joined at the base, made of a whitish stone, covered in [[Runes]] and designs and what appeared to be blood (the visionary touched it and some of it came away on their hand).
 
-Prys cast [[Detect Magic]] on the stone obelisk, and said that it contained several new [[Rituals]], including one called Hold The Line, and another with a name that started with Dark or Black. As they exaMined the obelisk, the visionary heard noises around them in the forest. The visionary said that as a Thorn, they would defend against whatever was out in the forest, and [[Fight]] so that Prys could fall back and bring news of the stone to their people. Prys asked, "What about the baby?", and the visionary said that the baby would come again, they would come again and see each other again.
+Prys cast [[Detect Magic]] on the stone obelisk, and said that it contained several new Rituals, including one called Hold The Line, and another with a name that started with Dark or Black. As they exaMined the obelisk, the visionary heard noises around them in the forest. The visionary said that as a Thorn, they would defend against whatever was out in the forest, and [[Fight]] so that Prys could fall back and bring news of the stone to their people. Prys asked, "What about the baby?", and the visionary said that the baby would come again, they would come again and see each other again.
 
 The vision ended shortly after this conversation, but before it did, the visionary heard a woman's voice saying, "I wanted to give you these before you go, because I'm not going to see you again."
 

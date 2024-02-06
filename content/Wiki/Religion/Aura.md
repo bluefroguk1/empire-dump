@@ -69,14 +69,14 @@ All auras created with true liao are always durable.
 * A spontaneous aura is not the result of a religious skill
 * Spontaneous auras are poorly understood
 * Any kind of aura can arise spontaneously
-While the majority of auras are created by [[Religious skills]], and a few are created by [[Rituals]], there is a third category of aura which arise spontaneously. These auras are 
+While the majority of auras are created by [[Religious skills]], and a few are created by Rituals, there is a third category of aura which arise spontaneously. These auras are 
 unpredictable in appearance and effect and while the cause is often apparent, the mechanism is not. It is usually clear why the aura has arisen, but nobody knows how they happen. Spontaneous auras are usually durable but they follow all the normal rules for auras, so they can be replaced by another aura of equal or higher strength.
 The most common reasons for spontaneous auras to arise are:
 * someone passionately exemplifying a spiritual force through their actions (often leading to a spontaneous personal or item aura)
 * an area is the site of powerful emotions over a period of time (usually leading to a spontaneous location aura)
 * the presence or activities of a ghost (which can give rise to any kind of spontaneous aura)
 * the presence or activities of an [[Eternal]]
-Spontaneous auras are the purview of plot; it's not possible for players to force a spontaneous aura to manifest. They often resemble auras created with religious [[Skills]], but while the wording of a spontaneous aura may resemble an existing Anointing, hallowing, or Consecration, they very rarely match them directly.
+Spontaneous auras are the purview of plot; it's not possible for players to force a spontaneous aura to manifest. They often resemble auras created with religious Skills, but while the wording of a spontaneous aura may resemble an existing Anointing, hallowing, or Consecration, they very rarely match them directly.
 ## Orcs
 * Orcs are affected by auras - just like any other character
 Although orcs cannot use liao, they still have souls, and are still affected by auras no matter how they are created.

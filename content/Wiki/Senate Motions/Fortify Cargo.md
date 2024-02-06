@@ -32,4 +32,4 @@ __NOTOC__
 * 16 wains of White Granite and 32 crowns effectively provided due to the Silent [[Sentinel]] Opportunity.
 ## Campaign Outcome
 * The time to construct this Fortification has been significantly reduced by the aid of Jarmish Magicians; no further reduction in time to construct is possible.
-* When complete, the Axos-designed fortification will inflict half again as many casualties presuming that the Axou are free to offer their [[Assistance]] to the garrison.
+* When complete, the Axos-designed fortification will inflict half again as many casualties presuming that the Axou are free to offer their Assistance to the garrison.

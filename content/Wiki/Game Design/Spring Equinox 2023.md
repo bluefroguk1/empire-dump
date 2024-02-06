@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Spring Equinox 2023
 aliases:
-- Spring_Equinox_2023
+  - Spring_Equinox_2023
 draft: false
 revision_date: 2023-06-04 12:27:01+00:00
 revision_id: 101669

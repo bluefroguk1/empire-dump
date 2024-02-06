@@ -16,7 +16,7 @@ revision_id: 105555
 ## Rules
 Season|Day|210 
 ### Performing the Ritual
-Casting time|10 Unlike many [[Rituals]], it is not possible to use the power of the Imperial [[Regio]] to reduce the casting time of this [[Enchantment]].
+Casting time|10 Unlike many Rituals, it is not possible to use the power of the Imperial [[Regio]] to reduce the casting time of this [[Enchantment]].
 Target Empire
 enchantment
 ### Effects

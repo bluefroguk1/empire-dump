@@ -21,7 +21,7 @@ The third took the bottle of cider, and took a larger swig. She put the bottle d
 "You think we'll die then?" 
 "Everyone dies Alaw - what matters is the manner of your going not the day."
 ## Overview
-The [[Black Thorns]] [[Fight]] to liberate [[Liathaven]]. The remaining resistance fighters and survivors of the Jotun purge - many of whom have survived thanks to the [[Assistance]] of the [[Heroes]] of [[The Empire]] - flock to their banner.
+The [[Black Thorns]] [[Fight]] to liberate [[Liathaven]]. The remaining resistance fighters and survivors of the Jotun purge - many of whom have survived thanks to the Assistance of the [[Heroes]] of [[The Empire]] - flock to their banner.
 But the fight for Liathaven has only begun. While there are no major orc forces in the south, there is no news from West Ranging, Liath Ring, or Liaven's Glen in the north. There are major Jotun forces in [[Kahraman]] and the [[Mournwold]] to the east, and unknown numbers of orcs in [[Hordalant]] to the west.
 The Black Thorns are fighting alone, and at any moment the Jotun might send forces east or west (or north out of the Lasambrian hills) to crush them.
 It may be time for desperate measures.

@@ -17,7 +17,7 @@ Season|Autumn|14
 Casting time|2 Target Character The target character must have the artisan skill.
 [[Enchantment]]
 ### Effects
-The target, who must possess the artisan skill, can craft a single item overnight. They must know how to make the item, and must have all the required [[Materials]]. An item crafted in this way will last for a year (until the start of the Profound Decisions Empire event four [[Events]] from now).
+The target, who must possess the artisan skill, can craft a single item overnight. They must know how to make the item, and must have all the required [[Materials]]. An item crafted in this way will last for a year (until the start of the Profound Decisions Empire event four Events from now).
 After making the item, the artisan experiences a Roleplaying effect: they are tired and drained, exhausted by a night of supernaturally enhanced work; this condition persists for at least an hour unless removed in some fashion.
 Day Duration
 ### OOC Elements

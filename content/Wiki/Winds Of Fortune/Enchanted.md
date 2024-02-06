@@ -32,8 +32,8 @@ The desiccated near-desert is growing slowly, but it ''is'' growing. Alerted by 
 ### Help is Needed
 * Freeborn Hakima ask for Imperial magicians to bring Spring-infused rain to Madruga to help slow the spread of the blight
 * The Conclave could choose an order to take charge of investigating the situation
-* Several Eternals might also be able to offer [[Assistance]]
-The local hakima don't have the resources to do the kind of magic that is needed; they need a territory-wide [[Enchantment]] (or [[Curse]]) of Spring magic that will bring rains, or raise waters. Obviously [[Foam and Spittle of the Furious Sea]] will work, as will [[Thunderous Deluge]] but both [[Rituals]] have dreadful side effects. More useful perhaps would be Regrow the Land's Heart, which infuses a territory with magical waters specifically intended to [[Heal]] the land and the soil. 
+* Several Eternals might also be able to offer Assistance
+The local hakima don't have the resources to do the kind of magic that is needed; they need a territory-wide [[Enchantment]] (or [[Curse]]) of Spring magic that will bring rains, or raise waters. Obviously [[Foam and Spittle of the Furious Sea]] will work, as will [[Thunderous Deluge]] but both Rituals have dreadful side effects. More useful perhaps would be Regrow the Land's Heart, which infuses a territory with magical waters specifically intended to [[Heal]] the land and the soil. 
 The hakima of the Great Grasses also ask that the Conclave consider asking one of the orders to get involved, to find out what is going on and how to put a stop to it before it gets worse. A suitably worded [[Declaration]] of [[Concord]] could ask the magicians of a specific order to come to Madruga to explore the phenomenon and hopefUlly find a solution that so far evades the Hakima. This will be most successful if a single order is chosen; the potential advantage comes as much from the organisation that an order can bring to bear as anything else. Asking all Imperial magicians, or magicians from multiple orders, to work together will reduce their effectiveness in combatting this problem.
 There is also talk of perhaps asking [[Ossegrahn]] if that [[Eternal]] can offer aid, or knows more about what is going on; other Hakima wonder if the eternals of the Winter [[Realm]] might have some idea of what is happening in Madruga. Regardless it seems clear that whatever ''is'' going on is a problem for the Imperial Conclave.
 "Yeah but how do you know they're not [[Vallorn]]?" Elwood asked, nervously.
@@ -49,7 +49,7 @@ Following the daring expedition into Brocéliande a number of people emerged fro
 It's quickly ascertained that these are "simply" fruit - there are no extractable magical essences within them. [[Distillation of Diverse Parts]] simply destroys the fruit leaving only Worthless mashed pulp behind.
 The fruit can be consumed like... well like any other fruit. This unleashes their magic in just the same way that a [[Potion]] provides its benefits to the one who eats it. OOC Note: All the normal rules for consuming a potion apply. But that's not the only way they might be used...
 ### Cultivation
- This section has been superceded by [[Events]] in Spring 385YE
+ This section has been superceded by Events in Spring 385YE
 * A Forest can be prepared to grow chaos fruit; it requires five different fruit and the ritual [[Rampant Growth]]
 * Any forest that has been prepared in this manner will produce a single chaos fruit but will produce two less measures every season
 * Due to the nature of the chaos fruits this option will only be available until the end of the Spring Equinox 385YE

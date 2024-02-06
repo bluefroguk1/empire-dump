@@ -22,7 +22,7 @@ Shem had half-hoped that Bitter Mary would let it go at that but the crowd was h
 Shem smiled. "Not so much. But as you ask, I do have an idea. I reckon we'll catch more flies with honey than vinegar. Lets go and sit down inside where it's Warm and I'll tell you about it."
 ## Overview
 In response to the news that the long standing bequests to the font have run dry, a group of enterprising League merchants have come up with some novel ideas for how the power of the Conclave might be preserved. Coincidentally the ''hylje'' who dwell in the Rikkivesi have offered a somewhat similar proposal to improve cooperation with the people of [[Wintermark]].
-At the same time the Landskeepers of [[The Marches]] have responded relatively positively to the decision of the [[Imperial Conclave]] to keep [[Rivers Run Red]] and similar [[Rituals]] interdicted, at least for the time being,. They have several proposals, including one that would allow Marcher yeomen to produce mana from their Farms if they chose.
+At the same time the Landskeepers of [[The Marches]] have responded relatively positively to the decision of the [[Imperial Conclave]] to keep [[Rivers Run Red]] and similar Rituals interdicted, at least for the time being,. They have several proposals, including one that would allow Marcher yeomen to produce mana from their Farms if they chose.
 ## Old Stones
 * League motions propose supporting the Grandmasters with a convenient source of additional crystal mana
 * If the Senate completed the project, each [[Grandmaster]]'s [[Ministry]] would be updated to provide more mana for the same price

@@ -11,7 +11,7 @@ revision_id: 104629
 ---
 
 ## Description
-The Kingfisher's Promise is a useful talisman useful to the ritualists who special in [[Rituals]] of the Autumn. The schema was purchased from the [[Eternal]] [[Estavus]] as part of her offer to the mediators of [[Wintermark]]. Originally known as the ''Ring of Flame'' the focus was renamed when the schema was passed to Sulkavaris to be added to Runesmith's Law.
+The Kingfisher's Promise is a useful talisman useful to the ritualists who special in Rituals of the Autumn. The schema was purchased from the [[Eternal]] [[Estavus]] as part of her offer to the mediators of [[Wintermark]]. Originally known as the ''Ring of Flame'' the focus was renamed when the schema was passed to Sulkavaris to be added to Runesmith's Law.
 ## Rules
 Foci
 * Effect: Once per day you may use this ring to gain one additional rank of Autumn lore for the purposes of performing a single ritual, subject to the normal rules for effective skill.

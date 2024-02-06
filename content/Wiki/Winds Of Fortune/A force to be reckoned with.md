@@ -25,7 +25,7 @@ Annike nodded impatiently. "Yes, yes. Ten nations, one of them not even human. I
 "Then I'd say they are... arrogant. Not arrogant so much as unable to compromise. It's as if they don't even think about it. That's what I mean by arrogant - they struggle with the idea that they need to cede ground to [[Make a deal]]. They are convinced they are the centre of the world, worse even than the Asaveans I think."
 Annike pursed her lips.
 "They have more reason than the Asaveans to be proud," she said coolly. "Their star is on the ascendant and that of the Republic very much in decline. Go on."
-"They're unpredictable too, especially in matters of religion and politics. With the [[Sumaah]] you know where you stand but with the Empire? In the same breath they berate you for your lack of virtue they'll try to argue that you should give them your goods cheaply because of [[Prosperity]]. It can be exasperating."
+"They're unpredictable too, especially in matters of religion and politics. With the Sumaah you know where you stand but with the Empire? In the same breath they berate you for your lack of virtue they'll try to argue that you should give them your goods cheaply because of [[Prosperity]]. It can be exasperating."
 Annike laughed mirthlessly.
 "Instead of telling me who they are ''not'' like, tell me who they ''are'' like."
 "I think they are closest in character to the [[Commonwealth]] or perhaps the Principalities - there is a wilfulness about them. An unquenchable ambition. They love politics, for all that they might pretend not to. They are not shy about wielding power. I think that we are lucky, in a way, that they are so unfocused."

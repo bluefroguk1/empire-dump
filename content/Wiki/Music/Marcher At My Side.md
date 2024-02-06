@@ -56,7 +56,7 @@ Chorus
 Tom Drake's, with a Marcher at my side") 
 4.Once I was a trapper 
 CUlling [[Vermin]] on the [[Farm]] 
-But I yearn to use my bow [[Skills]] 
+But I yearn to use my bow Skills 
 To do a greater harm 
 So now I've left the copses 
 Where the fox and deer abide 

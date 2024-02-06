@@ -1,12 +1,13 @@
 ---
 IgnoreLinking: false
-Tags:
-- The-Brass-Coast
-- History
 Title: Guerra
 draft: false
 revision_date: 2023-12-29 17:58:49+00:00
 revision_id: 106616
+tags:
+- The-Brass-Coast
+- History
+- None
 ---
 
 ## Overview

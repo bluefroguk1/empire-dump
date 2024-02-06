@@ -11,7 +11,7 @@ revision_id: 47997
 ---
 
 ## Description
-The covenstone known as [[The Fields of Glory]] draws upon the [[Realm]] of Summer to [[Empower]] a coven with additional capacity for performing [[Rituals]], drawing upon the bonds created between members of the coven.
+The covenstone known as [[The Fields of Glory]] draws upon the [[Realm]] of Summer to [[Empower]] a coven with additional capacity for performing Rituals, drawing upon the bonds created between members of the coven.
 TextCovenstone
 ## Rules
 Paraphernalia

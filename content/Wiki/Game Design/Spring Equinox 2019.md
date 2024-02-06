@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Spring Equinox 2019
 aliases:
-- Spring_Equinox_2019
+  - Spring_Equinox_2019
 draft: false
 revision_date: 2022-01-29 15:28:01+00:00
 revision_id: 86193

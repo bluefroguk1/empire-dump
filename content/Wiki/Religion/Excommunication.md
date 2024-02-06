@@ -18,7 +18,7 @@ Within [[The Empire]], there are legal ramifications to the use of Excommunicati
 Being subject to this ceremony severs a person from connection to spiritual power, but does not in itself prevent them participating in the Imperial Synod - it is the possession of a [[Congregation]] that assures access to the Synod. Indeed, they can still be dedicated to a virtue, even if they cannot employ the ceremonies of a priest.
 ## Performance
 * Requires a dose of liao and at least ten seconds appropriate roleplaying
-* Requires the presence and [[Assistance]] of a referee
+* Requires the presence and Assistance of a referee
 * Creates an Excommunication
 * The target must be present for the ceremony and close enough to touch by one of the priests.
 Excommunicating a character uses a dose of Liao. Performing an Excommunication requires at least ten seconds of appropriate roleplaying. 
@@ -31,7 +31,7 @@ The target need not be willing, but must be present and close enough to be touch
 The target of excommunication cannot use any [[Religious skills]]; cannot access [[Magic]] items that would allow them to perform a priest skill; cannot use true Liao to receive a past life vision; and cannot serve as a guide priest on a past life vision. Furthermore, they do not dream (or do not remember their dreams), although they can still have magical dreams such as those provided by Sift the Dreamscape's Sands or [[Dreamscape of the Endless Hunt]]. 
 In addition, they suffer a persistent Roleplaying effect: they feel uneasy, and have a sense of being disconnected from the world. 
 The strength of the excommunication deterMines how difficult it is to replace or remove the effect. The presence and strength of an excommunication effect is visible using the Insight ceremony. 
-The target may still be subject to priest [[Skills]], such as Testimony, Dedication and [[Anointing]], as normal. An excommunication does not remove existing dedication, testimonies, or other Auras.
+The target may still be subject to priest Skills, such as Testimony, Dedication and [[Anointing]], as normal. An excommunication does not remove existing dedication, testimonies, or other Auras.
 As with any [[Aura]], you can only be under the effect of one excommunication at once. An existing excommunication can only be replaced by one with a higher strength.
 ## Removal
 * Excommunication is permanent unless removed.

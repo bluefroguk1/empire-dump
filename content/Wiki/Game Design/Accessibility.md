@@ -1,8 +1,8 @@
 ---
-IgnoreLinking: false
-Tags:
-- Accessibility
-- The-Game
+IgnoreLinking: true
+tags:
+  - Accessibility
+  - The-Game
 Title: Accessibility
 draft: false
 revision_date: 2024-01-31 14:26:32+00:00

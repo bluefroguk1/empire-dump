@@ -21,7 +21,7 @@ Casting time|10 Imperial Reduction
 Over the next thirty years, the fertility of the target territory undergoes a marked decline. Fewer and fewer animals and people are born there, and while plants are not as seriously affected, they tend to produce less blossom and thus less fruit. Cereal crops become sparser, and less fruitful, which may lead to increasing hunger or even faMine.
 [[Vallorn]] and vallornspawn in the target territory tend to become slothful and quiescent for the duration; they are not harmed, but they rarely expand beyond their borders unless provoked. 
 The ritual has no real effect on resources, even Farms, but over time the population of people and animals in the area will drop dramatically.
-The curse has lingering effects on creatures who have spent a lot of time in the area making conception more difficult if not impossible without Magical [[Assistance]].
+The curse has lingering effects on creatures who have spent a lot of time in the area making conception more difficult if not impossible without Magical Assistance.
 Over time this will have a significant effect on a foreign or Barbarian region, damaging their agriculture and industry and reducing their capacity to field troops and feed their people.
 The effects last for around thirty years.
 ### Removing the Curse

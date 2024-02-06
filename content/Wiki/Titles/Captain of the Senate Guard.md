@@ -17,7 +17,7 @@ In Winter 381YE, The [[Imperial Senate]] voted to aMend the powers of [[The Capt
 ==Responsibilities== 
 The Captain is expected to protect the Senate and public gallery whenever the senate is in session. The Captain does not have any official legal jurisdiction or powers, but the magistrates recognize the Captain's right to treat the Imperial Senate and public gallery as if they were their camp for purposes of the unwelcome Visitor defence while the Senate is in session.
 Unwelcome Visitor
-There is a traditional defence to an assault charge which applies where unwelcome visitors who refuse to leave your camp are cut down, removed from camp and then provided with sufficient medical [[Assistance]] to avoid permanent injury. One who is accused of assault but wishes to claim this defence should plead not guilty if it goes to trial. However, if the magistrate decides that the accused’s behaviour was unreasonable they will be found guilty.
+There is a traditional defence to an assault charge which applies where unwelcome visitors who refuse to leave your camp are cut down, removed from camp and then provided with sufficient medical Assistance to avoid permanent injury. One who is accused of assault but wishes to claim this defence should plead not guilty if it goes to trial. However, if the magistrate decides that the accused’s behaviour was unreasonable they will be found guilty.
 ## Powers
 ### Stipend
 The Captain of the Senate Guard receives a stipend of 5 Thrones each season, with the intent to be used to reimburse the volunteers who guard the Senate when it is in session.

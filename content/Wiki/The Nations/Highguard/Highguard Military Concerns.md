@@ -12,7 +12,7 @@ revision_id: 107181
 ---
 
 ## Overview
-[[Highguard]] has a military heritage of which it is justly proud. Most Highborn serve with one of the three Highborn armies as part of their “coming-of-age”. This service is considered necessary to the formation of Highborn character and maintains the connection between the people of today and their Warrior ancestry. Most [[Skills]] can be put to use in a military context, although those serving as medics, quartermasters and ancillary troops do not earn as much respect as their more warlike colleagues.
+[[Highguard]] has a military heritage of which it is justly proud. Most Highborn serve with one of the three Highborn armies as part of their “coming-of-age”. This service is considered necessary to the formation of Highborn character and maintains the connection between the people of today and their Warrior ancestry. Most Skills can be put to use in a military context, although those serving as medics, quartermasters and ancillary troops do not earn as much respect as their more warlike colleagues.
 ## Guardians
 Most Highborn return to their [[Chapter]] after leaving the army. The most skilled soldiers become part of the elite guards that protect the chapter against barbarians and other threats. These warriors, called guardians, train daily with their comrades learning to [[Fight]] as a unit in close formation. Chapters outfit their guardians with weapons and armour and most provide a surcoat adorned with the chapter’s heraldic device, usually in [[Black and white]] or similarly contrasting colours. Some groups of guardians choose to specialise, training to become cataphracts or [[Unconquered]], in line with the oldest martial traditions of the Highborn.
 ## Cataphracts

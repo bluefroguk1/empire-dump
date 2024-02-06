@@ -2,7 +2,7 @@
 {}
 ---
 
-"History is written by the victors" is a common turn of phrase that in many ways is true. We feel the ramifications of [[Emperor Nicovar]] and similar individuals attempts to audit history to this day. It is only through attempting to keep bias out of reports and/or sharing multiple viewpoints that we will paint a broader and more accurate depiction of noteWorthy [[Events]] going forWard.
+"History is written by the victors" is a common turn of phrase that in many ways is true. We feel the ramifications of [[Emperor Nicovar]] and similar individuals attempts to audit history to this day. It is only through attempting to keep bias out of reports and/or sharing multiple viewpoints that we will paint a broader and more accurate depiction of noteWorthy Events going forWard.
 
 Owing to my position as [[Advisor on the Vallorn]] my viewpoint on the reclamation of Westwood is decidedly focused on my oaths and as such I would find it difficult to write an unbiased point of view. I do however believe it [[Worth]] sharing my views to ensure they are not lost to time and that the campaign isn't noted as a complete victory.
 
@@ -12,7 +12,7 @@ Sian [[Eternal]].
 
 In the winter of 381YE [[The Vallorn]] of [[Liathaven]] began to stir If nothing was done by the Spring Equinox then the [[Vallorn]] would have expanded to consume West Ranging. That expansion would have seen its growth spent and it was theorised it would then return to its fitful slumber. If The the vallorn had been allowed to claim West Ranging then it would have become entrenched there and removing it would have become as difficult as removing it from Liath's Heart. This would have also swallowed the northern end of the Paths of Lan Thúven, most likely rendering them useless.
 
-The alternative was for a significant force of Imperial soldiers to engage the vallorn to push it back. The amount of force required was discerned through the casting of divination [[Rituals]], namely [[Eyes of the Sun and Moon]], the [[Eye of the High Places]], and Dreams in [[The Witch]] House]] by ritualists in [[Anvil]]. Scouts and spies working with the Liathaven [[Spy network]] also helped give some idea of the strength of The the vallorn's expansion.
+The alternative was for a significant force of Imperial soldiers to engage the vallorn to push it back. The amount of force required was discerned through the casting of divination Rituals, namely [[Eyes of the Sun and Moon]], the [[Eye of the High Places]], and Dreams in [[The Witch]] House]] by ritualists in [[Anvil]]. Scouts and spies working with the Liathaven [[Spy network]] also helped give some idea of the strength of The the vallorn's expansion.
 
 There was no chance to strike against Liath's Heart - the core of the vallorn will always be where it is strongest. It wasn't weakened enough yet to be attacked. But if [[The Empire]] could absorb the strength of The the vallorn as it pushed into West Ranging, if they stopped the expansion then that would drain the Forest enough that the [[Navarr]] could sally forth to strike into the Westwood. If that was successful then they could permanently clear the vallorn from the entire Region.
 

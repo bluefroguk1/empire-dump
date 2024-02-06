@@ -15,5 +15,5 @@ An [[Icon of the Watchful]] allows a priest to perform ceremonies as if they wer
 The icon is equally valuable to a priest who is dedicated to one of the other six virtues as it is to a priest who is dedicated to none of them. It allows them to perform ceremonies such as [[Anointing]], [[Consecration]], and [[Hallow]], and create [[Auras of Vigilance]] in place of the auras they would otherwise have access to. It also allows a priest to cooperate with priests dedicated to Vigilance who are not part of their sect. 
 ## Rules
 Icons
-* Effect: You may perform ceremonial [[Skills]] other than [[Dedication]] as if you were dedicated to the virtue of Vigilance.
+* Effect: You may perform ceremonial Skills other than [[Dedication]] as if you were dedicated to the virtue of Vigilance.
 * [[Materials]]: Crafting an Icon of the Watchful requires 5 measures of [[Iridescent gloaming]], 7 ingots of weltsilver, and 9 measures of dragonbone; It takes 1 month to make one of these items.

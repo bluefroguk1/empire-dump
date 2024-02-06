@@ -13,7 +13,7 @@ revision_id: 99161
 ---
 
 ## Overview
-The [[Ambassador to the [[Sumaah]] Republic]] is an [[Imperial Title]]. It is an Imperial position appointed by the [[Imperial Senate]]. 
+The [[Ambassador to the Sumaah Republic]] is an [[Imperial Title]]. It is an Imperial position appointed by the [[Imperial Senate]]. 
 After a false start in Winter 378YE, the Senate eventually Commissioned an [[Embassy]] for the [[Sumaah Republic]] in Spring 379YE. The project was been dogged by problems, and not completed until shortly before the Spring equinox 380YE. This delay exacerbated the growing fury of the Sumaah Republic toWards [[The Empire]], which culminated in a [[Declaration]] of [[War]] by the Republic in late 379YE.
 That declaration was rescinded during the Summer Solstice 382YE, but at the same time the Sumaah declared themselves the custodians of [[The Way]] and denounced Imperial claims to authority over the religion.
 WingedMessenger|address=Oxtitocszin, Censor of wood, metal and stone, of the High House of [[Pride]], Sumaah Republic

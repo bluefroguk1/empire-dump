@@ -32,7 +32,7 @@ As she settled her broad-brimmed hat more firmly on her head, and walked out acr
 Audio|link=https://www.youtube.com/watch?v=w8aRgj61X54
 ## Overview
 * [[The Empire]] has been hit with a terrible drought
-* A Magical conjunction causes [[Rituals]] dealing with rain, water, and storms gain additional power
+* A Magical conjunction causes Rituals dealing with rain, water, and storms gain additional power
 Summer follows spring, and in 384YE that summer is one of the hottest on record. At first it is glorious - long warm days and balmy nights - but as the season rolls on it becomes worse. The sun beats down mercilessly from cloudless skies across the Empire. Water levels drop, the rivers run sluggishly, and the soil is parched. There is no rain - between the Spring Equinox and the Summer Solstice three months without rain. This spells catastrophe for the farmers of the Empire - their crops and animals begin to die as the Summer becomes hotter and hotter.
 Yet as the Summer Solstice draws near, it is as if the heavens themselves take mercy on the Empire. The stars don't move, but something clicks into place. [[The Wanderer]] slips into place between [[The Fountain]], [[The Stallion]], and The Lock, creating a powerful astronomantic conjunction. The first rains in three months fall in the week before the Summer Solstice, but they may be too little, too late. They might even end up doing even more daMage to the harvest, if they are heavy enough. Indeed, there is every chance that the harvests this year will be among some of the worst in the last hundred years. 
 Yet the stars seem to offer ''some'' hope... albeit at a [[Cost]]...

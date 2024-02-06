@@ -31,7 +31,7 @@ The spear also stands as a symbol of Vigilance, especially among the [[Navarr]] 
 Among the people of [[Wintermark]] Vigilance is represented by the loud jay and by the goose. The goose is also used as a symbol of the virtue in Varushka, alongside the wise spider. The spider also serves as a symbol of Vigilance among some covert sects in Urizen, specifically as the astronomantic constellation of the same name. The law of the Spider - ''things are watched by a hidden eye'' - is both a statement of the need to be constantly alert for danger and a reminder that others are always watching. Some magicians use the rune of Revelation, [[Ophis]], as a symbol of vigilance.
 ## Further Reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Vigilance here.
-* You can learn about the [[Skills]] that priests can use to safeguard the virtue of Vigilance here.
+* You can learn about the Skills that priests can use to safeguard the virtue of Vigilance here.
 ### The Seven Virtues
 * [[Ambition]]
 * [[Courage]]

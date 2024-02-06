@@ -20,7 +20,7 @@ During the Spring Equinox 381YE the Senate voted to remove the High Exorcist's s
 The High Exorcist is expected to advise the Military Council on the use of religious ceremonies on the battlefield, and to co-ordinate volunteers using liao against malign auras and spiritual enemies.
 ## Powers
 ### Right of Address
-The High Exorcist has the right to make a address to the [[Imperial Military Council]] once per summit. This is intended to allow them to advise the Military Council on spiritual matters, to offer [[Assistance]] or to ask for assistance in helping the priests of [[The Way]] to better support Imperial forces. To use this power, the High Exorcist informs the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].
+The High Exorcist has the right to make a address to the [[Imperial Military Council]] once per summit. This is intended to allow them to advise the Military Council on spiritual matters, to offer Assistance or to ask for assistance in helping the priests of [[The Way]] to better support Imperial forces. To use this power, the High Exorcist informs the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].
 ### Stipend
 The High Exorcist receives a stipend of 8 Thrones each season from the [[Imperial treasury]].
 ## [[Appointment]]

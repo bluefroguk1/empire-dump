@@ -14,7 +14,7 @@ revision_id: 86112
 __NOTOC__
 The senate accepts the ceasefire proposed by the [[Sumaah Republic]] and welcomes a diplomatic delegation.Proposed by [[Karsk]], seconded by [[Hercynia]].
 ### Overview
-* While [[The Empire]] is not formally at [[War]] with the [[Sumaah]] Republic, the Republic considers itself at war with the Empire.
+* While [[The Empire]] is not formally at [[War]] with the Sumaah Republic, the Republic considers itself at war with the Empire.
 * This motion recognises the Sumaah request for a ceasefire and welcomes a formal diplomatic envoy from the Republic.
 * Passed
 ### Date

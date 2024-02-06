@@ -1,12 +1,12 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
-- Children
-- The-Game
+IgnoreLinking: true
+tags:
+  - Events
+  - Children
+  - The-Game
 Title: Carer ticket
 aliases:
-- Carer_ticket
+  - Carer_ticket
 draft: false
 revision_date: 2024-01-31 14:23:42+00:00
 revision_id: 107433

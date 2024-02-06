@@ -20,7 +20,7 @@ This ritual targets a crafted item (almost invariably an item that has been made
 At some point after the ritual has been completed, a number of phials of heart's blood will appear in the place of the crafted item. The number of vials gained depends on the quality and amount of [[Magic]] remaining in the items sacrificed.
 If the ritual is used to sacrifice an artefact, blood is received as if the item were a newly minted, standard version of its type (that is, one with a year remaining before it expires). [[The Thrice-cursed Court]] are not required to destroy any artefacts sent to them.
 Vials of blood gained during this ritual are [[Vis]], and can be used in the performance of [[Winter magic]] in place of crystal mana. Each vial of blood can be used as part of a Winter ritual as if it were up to three crystals of mana. Once a vial is opened, all the blood is consumed in a single ritual but can be split between multiple casters if needed due to the limits of ritual lores.
-The blood has no use in [[Spellcasting]], or in the [[Rituals]] of other realms.
+The blood has no use in [[Spellcasting]], or in the Rituals of other realms.
 ### Additional Targets
 This ritual can affect additional crafted items. Every additional item increases the magnitude by 2. Additional items must be present throughout.
 ## Description

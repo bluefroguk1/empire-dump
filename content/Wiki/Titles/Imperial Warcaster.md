@@ -15,7 +15,7 @@ revision_id: 97801
 ## Overview
 The [[Imperial Warcaster]] is an [[Imperial Title]] in the Military Council created by the [[Imperial Senate]] during the Summer Solstice 384YE.
 ## Responsibilities
-The Warcaster is responsible for coordinating the arrangement of Magical [[Assistance]] for the armies of [[The Empire]]. The holder of the title is also expected to use their powers to liaise between the Conclave and the Council.
+The Warcaster is responsible for coordinating the arrangement of Magical Assistance for the armies of [[The Empire]]. The holder of the title is also expected to use their powers to liaise between the Conclave and the Council.
 ## Powers
 ### Addressing the Military Council
 The Warcaster has the right to make a address to the Military Council once per summit. To use this power, the Warcaster must inform the [[Herald of the Council]] that they wish to make an address, which will then be added to the agenda for the next [[Council session]].

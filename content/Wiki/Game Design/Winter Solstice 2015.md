@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Winter Solstice 2015
 aliases:
-- Winter_Solstice_2015
+  - Winter_Solstice_2015
 draft: false
 revision_date: 2022-01-29 15:23:12+00:00
 revision_id: 86176

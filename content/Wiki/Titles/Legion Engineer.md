@@ -29,6 +29,6 @@ The Legion Engineer can only commission a sinecure, ministry, spy network, or gr
 Unlike a [[Civilian Commissioner]], the Engineer is not prohibited from using their power to commission anything that provides [[Liao]] or votes in the Imperial Synod. However, the appointment of such a title is still subject to the normal constitutional restrictions.
 They not required to build their commission in their own nation and may use any method of appointment (for example, through the Bourse, the Conclave, Military Council, or Synod). The civil service are on hand to offer legal advice or support to the Engineer just as they are to a [[Senator]], and they may wish to submit their commission for [[Scrutiny]] before it is announced to ensure there are no problems with their design.
 ## Selection
-As a national position, it is appointed by vote of Imperial Orc [[Military unit]] captains with the [[Assistance]] of the Bourse civil servants. The position is appointed annually at the Autumn Equinox.
+As a national position, it is appointed by vote of Imperial Orc [[Military unit]] captains with the Assistance of the Bourse civil servants. The position is appointed annually at the Autumn Equinox.
 Only an Imperial Orc character may hold this title. They do not receive a seat on the Bourse. As a title in the Bourse, they cannot be revoked by the Imperial Synod.
 RecentElections|[[Legion_Engineer]]

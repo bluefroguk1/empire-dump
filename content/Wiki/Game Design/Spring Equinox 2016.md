@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Spring Equinox 2016
 aliases:
-- Spring_Equinox_2016
+  - Spring_Equinox_2016
 draft: false
 revision_date: 2022-01-29 15:24:30+00:00
 revision_id: 86181

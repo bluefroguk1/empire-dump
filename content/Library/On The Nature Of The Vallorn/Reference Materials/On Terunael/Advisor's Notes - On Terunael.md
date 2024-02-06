@@ -8,7 +8,7 @@ The cities of Terunael worked together but had differing outlooks, each settleme
 
 Governed by [[Mage]] councils (practitioners of [[Magic]], artisans and the leaders of their armies) the cities thrived and made many great developments both magical and mundane. The gold sun of Emrys, the heating within their Mines and the curious tapping of magical energies in Ghita's Veils all speak to their magical acumen and the fact they taught the Axou building techniques such as aqueducts tells us that they were skilled Architects.
 
-Thanks to Past life Visions and supporting [[Rituals]] not only do we know the cities were run by councils we also know additional details on some of the noteWorthy individuals at the time of the fall.
+Thanks to Past life Visions and supporting Rituals not only do we know the cities were run by councils we also know additional details on some of the noteWorthy individuals at the time of the fall.
 
 Merenael of Emrys, who was married to Fallahd and fled to the Dreamscape with her child Jarith of Emrys after premonitions of the doom The [[Great work]] would bring.
 

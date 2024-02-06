@@ -128,7 +128,7 @@ OOC note: Once a living character or monster reaches the end of their Death Coun
 * You can only ever do this once - only a living character who is terminal can be affected
 * You cannot raise as a husk if you are executed
 * You cannot talk or communicate other than a moan and must either attack the nearest living thing or feast on a nearby corpse
-* You have all the hits your character had in life but no use of hero points, magical or priest [[Skills]], nor the ability to use magical items
+* You have all the hits your character had in life but no use of hero points, magical or priest Skills, nor the ability to use magical items
 * You are automatically killed by any successful CLEAVE or IMPALE call that is not stopped by armour
 * Any character in a sect bonded to a [[Litany of the Labyrinth]] will not rise as a Winter husk
 * The Gift of [[Kaela]] will not prevent a character becoming a husk unless they are a captive of the Druj

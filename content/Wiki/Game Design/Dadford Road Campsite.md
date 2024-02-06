@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
-- The-Game
+IgnoreLinking: true
+tags:
+  - Events
+  - The-Game
 Title: Dadford Road Campsite
 aliases:
-- Dadford_Road_Campsite
+  - Dadford_Road_Campsite
 draft: false
 revision_date: 2023-08-07 09:03:12+00:00
 revision_id: 104553

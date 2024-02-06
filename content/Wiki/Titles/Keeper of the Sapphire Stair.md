@@ -28,7 +28,7 @@ As a sinecure, the Keeper of the Sapphire Stair provided an income drawn from th
 The holder of the Sinecure receives 20 Crowns in income each season.
 ### The Red Rock
 The Keeper of the Sapphire stair is responsible for the mural that covers the Red Rock - a naturally occurring flat area of stone that rests in the hills above the lock and is Visible to travellers passing along the river. They may change the mural if they wish - provided they are prepared to pay the money to employ a team of artists. Altering or replacing the Red Rock Mural Costs 5 Thrones.
-To use this power, the Keeper should ensure they have 5 Thrones in their inventory, and e-mail [mailto:plot@profounddecisions.co.uk plot] with the description of their new mural between [[Events]]. The text should be no more than 200 words, and may be edited before being published on the wiki.
+To use this power, the Keeper should ensure they have 5 Thrones in their inventory, and e-mail [mailto:plot@profounddecisions.co.uk plot] with the description of their new mural between Events. The text should be no more than 200 words, and may be edited before being published on the wiki.
 ==Appointment== 
 The Keeper of the Sapphire Stair is appointed by unanimous decision of the senators of The League. If a unanimous decision cannot be reached, the title may be appointed by the [[Imperial Senate]] instead. 
 The title can be held by a citizen of the League. The Keeper has Tenure, and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]], the League National Assembly, and by the Assembly of the Nine.

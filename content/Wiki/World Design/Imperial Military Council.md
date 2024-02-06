@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Overview
-The Military Council is the gathering of Imperial Generals and admirals. Individually, the generals have responsibility for the orders given to the [[Imperial army]] under their command, while the admirals provide the orders for the navies. Collectively, the Council has the power to deterMine what use will be made of the major [[Conjunctions]] of the [[Sentinel Gate]]. The Council also meets regularly during [[Events]] to allow generals an Opportunity to share strategic information and receive formal presentations from other citizens, and wield the legal powers of the Council.
+The Military Council is the gathering of Imperial Generals and admirals. Individually, the generals have responsibility for the orders given to the [[Imperial army]] under their command, while the admirals provide the orders for the navies. Collectively, the Council has the power to deterMine what use will be made of the major [[Conjunctions]] of the [[Sentinel Gate]]. The Council also meets regularly during Events to allow generals an Opportunity to share strategic information and receive formal presentations from other citizens, and wield the legal powers of the Council.
 While each [[General]] is a member of the Military Council, there is an implicit tension between their responsibility to the nation they represent and the perceived needs of [[The Empire]] as a whole. Throughout the history of the Empire, the strength of the Military Council has waxed and waned. When the Council is dominant, the goals of the nations take second place to grand strategies. When the nations are dominant, their goals take precedence over the "good of the Empire".
 __TOC__
 ## Role within the Empire

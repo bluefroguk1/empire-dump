@@ -13,7 +13,7 @@ revision_id: 85929
 
 Dispersement of funds to purchase resources to assist in strategic castings.''Proposed by [[Morrow]], seconded by [[Sarvos]]''
 ## Overview
-* A request for funds with which to buy [[Materials]] for [[Rituals]] with military applications.
+* A request for funds with which to buy [[Materials]] for Rituals with military applications.
 ## Date
 * Winter 378YE
 ## [[Cost]]

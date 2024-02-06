@@ -33,11 +33,11 @@ Two ritual texts and ten fleets were acquired as loot in addition to the weapons
 ## The Liberty Pact
 *All members of the Liberty Pact enjoy free trade with each other
 *The [[Ambassador to the Commonwealth]] is Lucia Sanguineo Rezia di [[Tassato]] of [[The League]]
-*The [[Ambassador to the [[Sumaah]] Republic]] is Accalon of Felix's Watch of [[Highguard]]
+*The [[Ambassador to the Sumaah Republic]] is Accalon of Felix's Watch of [[Highguard]]
 *The [[Ambassador to Axos]] is currently Tarquinius Ankarien of Urizen
 The might of the signatory nations of the Liberty Pact was made manifest with the utter shattering of the international slave trade in Rachensgrab. The previous season, in Chalonsio, the Empire, the Sumaah, and The the Commonwealth demonstrated their commitment to ending the abhorrent practice of slavery. Closer to home The Empire has secured significant change in both [[Thule]] and [[Faraden]] society. There is talk that the [[Iron Confederacy]] may be moving towards a serf system following pressure from their neighbours to the north (although some question whether this is really any different to slavery when one gets right down to it). Clearly the might of the Liberty Pact is in its ascendancy. 
 But what comes next? In the wake of Chalonsio, the Sumaah are keen to strike directly at their old enemies in Nemoria. The Commonwealth are busy accomodating thousands of people freed from the markets of Rachensgrab, but they are also increasing pressure in Lantir. While the Citadels of [[Axos]] are thriving, they have time to consider their own Ambitions which might not align entirely with their larger neighbours. Asavea and Jarm have not renounced slavery; the evil still exists in the world. Yet there is a world of difference between smashing an independent organisation such as the Slave Lords - no matter how influential they might be - and facing the might of another great power the equal of The Empire.
-### Commonwealth [[Rituals]]
+### Commonwealth Rituals
 * The Commonwealth has provided five ritual texts to the [[Imperial Conclave]]
 As per their previous agreement, the Commonwealth has prepared ritual texts for the Imperial Conclave. As requested in a pair of Declarations of [[Endowment]]  raised by Skywise Gralka and Fausta during the Summer Solstice, they will be presented to the Grandmasters of the [[Rod and Shield]], [[Unfettered Mind]], [[Celestial Arch]], and [[Golden Pyramid]] at the start of the [[Conclave session]] on Friday evening.
 ### Axou Narcotics

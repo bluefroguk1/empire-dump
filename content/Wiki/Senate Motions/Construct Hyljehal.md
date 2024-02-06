@@ -12,7 +12,7 @@ revision_id: 85516
 ---
 
 __NOTOC__
- [[Senate motion]] to build Hylje floating hall on Rikkivesi, creating the position of Mediator of the Hyljehal. To be appointed by [[Wintermark]] Senators with consideration that the Hylje ask for a [[Suaq]] Mediator in good standing. This is a highly effective mana [[Ministry]], requires [[Weirwood]], and would show our thanks to the Hylje for their [[Assistance]] in the [[War]] with the [[Jotun]].
+ [[Senate motion]] to build Hylje floating hall on Rikkivesi, creating the position of Mediator of the Hyljehal. To be appointed by [[Wintermark]] Senators with consideration that the Hylje ask for a [[Suaq]] Mediator in good standing. This is a highly effective mana [[Ministry]], requires [[Weirwood]], and would show our thanks to the Hylje for their Assistance in the [[War]] with the [[Jotun]].
 ''Proposed by [[Hahnmark]], seconded by [[Kallavesa]]''
 ## Overview
 * Relates to the Opportunity to construct a floating hall on the lake of Rikkivesi, Skymark.

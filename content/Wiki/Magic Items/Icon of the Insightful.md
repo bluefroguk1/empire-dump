@@ -15,5 +15,5 @@ An [[Icon of the Insightful]] is also known as an ''Icon of the Measured'', ''Ic
 The icon is equally valuable to a priest who is dedicated to one of the other six virtues as it is to a priest who is dedicated to none of them. It allows them to perform ceremonies such as [[Anointing]], [[Consecration]], and [[Hallow]], and create [[Auras of Wisdom]] in place of the auras they would otherwise have access to. It also allows a priest to cooperate with priests dedicated to Wisdom who are not part of their sect.
 ## Rules
 Icons
-* Effect: You may perform ceremonial [[Skills]] other than [[Dedication]] as if you were dedicated to the virtue of Wisdom.
+* Effect: You may perform ceremonial Skills other than [[Dedication]] as if you were dedicated to the virtue of Wisdom.
 * [[Materials]]: Crafting an Icon of the Insightful requires 5 measures of [[Iridescent gloaming]], 7 measures of beggar's lye, and 9 measures of dragonbone; It takes 1 month to make one of these items.

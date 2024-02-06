@@ -79,13 +79,13 @@ The more resources are devoted to constructing a great work, the greater the ret
 | 97
 |-
 |}
-In addition to the wains required, it costs 3 crowns per wain to pay for labour and [[Skills]] to complete the construction.
+In addition to the wains required, it costs 3 crowns per wain to pay for labour and Skills to complete the construction.
 The table shows some standard costs and benefits for a range of great works. For example a greak work created by the Senate using 56 wains of mithril could produce 45 mana crystals each season. There is no upper limit on how many wains can be used to construct a great work; provided at least 40 wains are used, then any amount can be spent to build it.
 ## Limitations
 It is not possible to create a great work which creates [[Ilium]], [[Liao]] or synod votes, mithril, [[Weirwood]], or [[White granite]], without a relevant Opportunity.
 It is not possible to create a great work which is linked to Military units. If the Senate wishes to spend significant sums to increase the military effectiveness of [[The Empire]] then they must do it by raising armies or constructing fortifications.
 It is not possible to create a great work that affects Congregations or Fleets.
-Great works are not affected by [[Rituals]] that target personal resources. A ritual that increases the production of a green iron mine will not affect a great work that provides green iron nor one that benefits green iron mines.
+Great works are not affected by Rituals that target personal resources. A ritual that increases the production of a green iron mine will not affect a great work that provides green iron nor one that benefits green iron mines.
 Only members of a nation may benefit from a great work - a vast series of forges throughout [[Hahnmark]] might provide a bonus to all [[Wintermark]] mines based in the territory - but Wintermark characters dwelling in other territories - and characters from other nations would not benefit from the great work.
 ## Responsibility
 The [[Senator]] for a territory is expected to be responsible for any problems that might beset the structures represented by a great work. For example, if [[Grendel]] Corsairs are raiding the [[Madruga]] Shipyards, then the Empire will expect the Madruga senator to deal with the problem.

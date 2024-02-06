@@ -1,6 +1,7 @@
 ---
-IgnoreLinking: false
-Tags: None
+IgnoreLinking: true
+tags:
+  - None
 Title: Sumaah
 draft: false
 revision_date: 2016-04-21 18:43:07+00:00

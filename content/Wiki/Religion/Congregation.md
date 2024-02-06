@@ -15,7 +15,7 @@ A congregation entitles the owner to ten votes and the ability to raise a [[Judg
 The owner can use their votes on each judgement in every [[Assembly]] they are a member of. By default every congregation owner is a member of the [[General]] Assembly as well as the National national assembly for their nation.
 If your character is dedicated to a virtue then by default they will be a member of that Virtue Virtue Assembly. If they are not dedicated then they will be a member of the Assembly of [[The Way]]. This can be changed by preaching.
 Demand for Liao
-Only two nations - [[The Empire]] and the [[Sumaah Republic]] - produce Liao in any great quantity, and the [[Sumaah]] are loathe to allow too much of it to fall into the hands of heathens and heretics. There is a significant demand for the spiritual substance in a number of places, however. The temple of the Seven Virtues in Nemoria means that the novelty-seeking Asaveans are even more interested in acquiring the drug than usual. Several nations make use of the liao in their own spiritual rites - the [[Faraden]] and the Axou in particular. Others look to exploit the mild narcotic properties of Liao, or to trade on its exotic reputation - merchants from the [[Sarcophan Delves]] in particular are keen to buy crates of the purple substance to sell to select markets abroad.
+Only two nations - [[The Empire]] and the [[Sumaah Republic]] - produce Liao in any great quantity, and the Sumaah are loathe to allow too much of it to fall into the hands of heathens and heretics. There is a significant demand for the spiritual substance in a number of places, however. The temple of the Seven Virtues in Nemoria means that the novelty-seeking Asaveans are even more interested in acquiring the drug than usual. Several nations make use of the liao in their own spiritual rites - the [[Faraden]] and the Axou in particular. Others look to exploit the mild narcotic properties of Liao, or to trade on its exotic reputation - merchants from the [[Sarcophan Delves]] in particular are keen to buy crates of the purple substance to sell to select markets abroad.
 Yet the Empire's stock of Liao is carefUlly regulated, distributed to congregations based on their size. With a few exceptions, the Liao that is so much in demand must be purchased directly from Imperial priests. At the moment, any Imperial citizen who leads a congregation can sell their liao for a crown each dose, either to entrepreneurial Imperial traders or directly to foreign merchants. This Opportunity, however, remains dependent on the shifting relationships between the Empire and [[Foreign Nations]].
 ## Downtime Options
 It is possible to sell the liao produced by a congregation. You receive one crown for each dose of liao that you sell in this way.
@@ -29,7 +29,7 @@ To upgrade a Congregation requires Imperial Wains of white granite equal to the 
 A congregation cannot be diversified.
 ## National Implications
 Senators in [[Highguard]] are chosen by the Highborn National Assembly on the basis of who gets the least votes against them. This vote is a normal Synod vote - but only Highborn characters with a congregation personal resource can vote.
-## [[Rituals]]
+## Rituals
 The table below shows a list of the rituals in both [[Imperial lore]] and [[Urizen]] lore which can affect the production of a congregation.
 {| class="wikitable sortable"
 ! Ritual

@@ -17,7 +17,7 @@ Season|Summer|22
 Casting time|2 Target Character
 [[Enchantment]] 
 ### Effects
-The target can use either stay with me or get it together a total of three times each day, without needing to know the [[Skills]] or spend any hero points. The target can choose which skill to use each time they use the ability, up to a maximum of three total uses in any given day.
+The target can use either stay with me or get it together a total of three times each day, without needing to know the Skills or spend any hero points. The target can choose which skill to use each time they use the ability, up to a maximum of three total uses in any given day.
 In addition, when exposed to any roleplaying effect that might cause them to be humble before, or deferential toWards, another person they can instead respond with lordly confidence and noble [[Pride]]. 
 The target also experiences a Roleplaying effect: You feel a drive to take charge, get things done and assume responsibility for others; you have a strong sense of ''noblesse oblige''. This effect is exceptionally pronounced for characters of the [[Changeling]] Lineage.
 Season Duration

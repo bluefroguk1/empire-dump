@@ -15,7 +15,7 @@ To allow EdWard Watcher and Lucifier son of Cyrus on behalf of [[The Empire]] to
 ''Proposed by [[Casinea]], seconded by [[Morrow]].''
 ### Overview
 * [[Historical research]].
-* This was related to [[Events]] that took place during a [[Past life vision]].
+* This was related to Events that took place during a [[Past life vision]].
 * Passed in principle, with 4 votes against. No thrones allocated.
 ### Date
 * Passed Spring 277YE (Event Two 2013).

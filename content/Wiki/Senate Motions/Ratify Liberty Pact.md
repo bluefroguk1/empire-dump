@@ -53,7 +53,7 @@ Any signatory may declare that they are withdrawing from the pact at any time an
 We, the undersigned nations, commit to the above, and consider ourselves from this point ongoing member of the International Liberty Pact.
 Katya of Kantor, Grand Illarch, [[Axos]]
 [[General]] Elsbeth, General Council of the [[Commonwealth]]
-Timov, Priest Representative of the Republic of [[Sumaah]]
+Timov, Priest Representative of the Republic of Sumaah
 Eska Crowspeaker, The Empire
 Ianthe of Suns of Couros, The Empire
 -->

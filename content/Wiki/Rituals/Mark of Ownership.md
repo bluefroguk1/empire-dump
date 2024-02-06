@@ -18,7 +18,7 @@ Casting time|2 This ritual targets an object which must be bonded to a character
 ### Effects
 This ritual places an enduring Magical mark on the item containing the name and face of the character that the item is bonded to.  A [[Detect Magic]] spell cast on the item reveals that it is the 'property' of that character in addition to other information. 
 If an item is bonded to more than one person, the mark can identify it as belonging to a banner, coven or sect, or a member of that band, at the discretion of the ritualist.
-[[Rituals]] and effects that obscure information about bonds or Auras, such as [[Masque of the Blinded Weaver]], will obscure the ''[[Mark of Ownership]]'' from lower-magnitude divinations.
+Rituals and effects that obscure information about bonds or Auras, such as [[Masque of the Blinded Weaver]], will obscure the ''[[Mark of Ownership]]'' from lower-magnitude divinations.
 An item may be under multiple ''mark of ownership'' effects, in which case they are revealed in the order in which they were created.
 The ''mark of ownership'' lasts as long as the object retains its magical qualities and is capable of being bonded to a character.
 ## Description

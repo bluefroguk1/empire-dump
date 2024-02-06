@@ -11,7 +11,7 @@ revision_date: 2022-02-03 19:13:00+00:00
 revision_id: 86800
 ---
 
-To appoint an Imperial Citizen to the position of [[Ambassador to the [[Sumaah]] Republic]]
+To appoint an Imperial Citizen to the position of [[Ambassador to the Sumaah Republic]]
 Administrative Motion 
 ### Overview
 * First [[Appointment]] of the [[Ambassador]] to the [[Sumaah Republic]]

@@ -38,7 +38,7 @@ Best known for the town of Culwich, and for the fisherfolk that live in villages
 * Quality: Forest
 One the least settled regions in Dawn, the rolling hills of Weirmoor are largely covered by an old and tangled forest. In the north and south, well maintained roads link Weirwater with Delev and [[Astolat]], but the heart of the region is wild and untamed. There are said to be trees in Weirmoor that were old before the Dawnish ever came to the [[Bay of Catazar]]. The local Dawnish nobles prefer the forest primaeval - Weirmoor is prime hunting ground and not only for game. Forest lions roam here, along with occasional packs of dire wolves or bears, and the occasional wyvern. The handful of noble houses in Weirmoor have a reputation for standoffishness, and several have a grim reputation.
 ### Wickmoor
-The eerie Weirwater Vales stand in Wickmoor, between the extensive estates of the feuding House deCourney and House Seerkan. Their presence gives the entire region a reputation for strange [[Events]], usually blamed on whatever it is that haunts the weirwood trees.
+The eerie Weirwater Vales stand in Wickmoor, between the extensive estates of the feuding House deCourney and House Seerkan. Their presence gives the entire region a reputation for strange Events, usually blamed on whatever it is that haunts the weirwood trees.
 Senate Elections|Senator_for_Weirwater|Territory=Weirwater|Season=Summer
 ## OOC Notes
 * Every region of Weirwater is under the control of the Dawnish (and by extension, the Empire) making this a staunchly Imperial territory.

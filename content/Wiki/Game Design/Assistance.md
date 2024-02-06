@@ -1,7 +1,7 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Assistance
 draft: false
 revision_date: 2016-03-17 02:59:04+00:00

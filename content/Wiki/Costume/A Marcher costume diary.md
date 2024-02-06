@@ -19,7 +19,7 @@ One of the fun things I liked about [[The Marches]] brief is its practicality - 
 ### What IC and OOC practical considerations do I need to take into account?
 Most outfits need a pouch to carry your IC money; it's helpful to have another pouch or a hidden pocket to keep your OOC essentials, such as OOC money and spirit gum for running makeup repairs.  You can set yourself a budget here if you like...!
 I'm considering using facial prosthetics for this character, so the neckholes are going to have to be reasonably wide to accomodate potential horns, and I might need to consider lacing down the front. I'll tuck the skirts up when it's muddy.
-I also really, really hate getting cold at [[Events]], so I want lots of layers that I can pile on at night.
+I also really, really hate getting cold at Events, so I want lots of layers that I can pile on at night.
 ### What iMages from the media appeal to me that might help me with my design?
 Have a look at the internet - it's fUll of pictures from films and TV that might help you get an idea of how you might want your outfit to look. You don't have to copy them, but forming a mini "mood board" can help you get an idea of what you might like your costume to look like. 
 The look of Marian in the recent Robin Hood film, Lady Stark in Game of Thrones and Eowyn in Lord of The Rings all appeal to me - that slightly worn, grimy practicality was something I really wanted to get across in my costume. I also like the layers of the toning colours in these costumes - while I'm not going to copy any of them exactly, I like the colour palette and the [[General]] style. 

@@ -24,7 +24,7 @@ In Urizen the most important lesson is this – that a single individual can cha
 ## What the citizens of Urizen are not
 * Pacifists or procrastinators. They are reasonable people, but are quite prepared to [[Fight]] to get what they want – they're just likely to consider for a moment if violence is the best course of action before they attack.
 * Asian or East Asian. Urizen draws inspiration from high elves, [https://en.wikipedia.org/wiki/Classical_Greece classical Greece], and societies of wizards, but not directly from Asia or East Asia.
-* Unarmed combatants. When the Urizen think of martial [[Skills]], they think of weapons. Wrestling or even touching your enemies is a distasteful idea. Much better to keep them at bay and overwhelm them with your consummate weapon skills than let them get close to you.
+* Unarmed combatants. When the Urizen think of martial Skills, they think of weapons. Wrestling or even touching your enemies is a distasteful idea. Much better to keep them at bay and overwhelm them with your consummate weapon skills than let them get close to you.
 Urizen Links
 pdf
 __NOTOC__

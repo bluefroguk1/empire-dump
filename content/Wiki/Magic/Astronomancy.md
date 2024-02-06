@@ -14,7 +14,7 @@ revision_id: 97929
 The constellations have been known since time immemorial – they figure, largely unchanged from their present forms, on some of the oldest buildings and artifacts in the world. Many Magicians – especially those of [[Urizen]] – believe them to be a map or chart of the powers of the world reflected above – as if the sky were a great dark lake and reflected on its surface was the means to understand, control and manipulate the forces of nature. 
 At its core, [[Astronomancy]] is a [[Magical tradition]] that involves identifying patterns in the stars associated with fundamental magical and natural laws, and drawing power from them to fuel ritual [[Magic]]. These patterns - the constellations - are held by many astronomancers to be the same tools the Creator used to forge Creation. Like the [[Runes]] and the narrative principles of [[Dramaturgy]], Astronomancy is a means of placing magic in context and understanding it. 
 ## Invocation and Command
-The stars are handles – physical ways to grab the force of magic. Nobody in [[The Empire]] imagines [[The Stork]] is an actual stork. That arrangement of stars you can see in the sky is [[The Way]] it is to represent one of the primal powers of creation; by using that iMagery and incorporating it into your [[Rituals]], you are tapping into that primal power and associating your ritual with it. 
+The stars are handles – physical ways to grab the force of magic. Nobody in [[The Empire]] imagines [[The Stork]] is an actual stork. That arrangement of stars you can see in the sky is [[The Way]] it is to represent one of the primal powers of creation; by using that iMagery and incorporating it into your Rituals, you are tapping into that primal power and associating your ritual with it. 
 Astronomancers believe that the sky is limitless, and so are the powers it represents; the constellations known and codified by the Empire are merely the tip of the iceberg. Every star is part of a constellation and every constellation is a representation of a cosmic principle, a natural force or a universal power. The codified ones are simply those whose meaning and purpose is clEarly understood; there exist many more to discover, comprehend and codify. Every astronomancer dreams of naming a new constellation and adding them to the great catalogue. 
 Using the constellations the easy way, an astronomancer can draw the design on an implement or artifact, arrange things or people to recreate the design below (such as standing your ritualists in the shape of [[The Fountain]] or [[The Chain]]) or simply invoke them during a ritual to shine favourably or unfavourably upon the outcome or a specified target. By naming propitious stars to someone you could bless or [[Curse]] them. 
 [[As above, so below]]; As below; so above.
@@ -48,7 +48,7 @@ There are eighteen constellations recognised by Imperial astronomancers, from wh
 |-
 ||[[The Great Wyrm]]||Things change and transform||Magic, grand transformation
 |-
-||The Key||Things are revealed||scrying, opening, [[Skills]]
+||The Key||Things are revealed||scrying, opening, Skills
 |-
 ||The Lock||Things can be hidden||Wards, defence, concealment
 |-

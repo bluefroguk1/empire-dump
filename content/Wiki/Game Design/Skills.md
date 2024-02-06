@@ -1,7 +1,7 @@
 ---
-IgnoreLinking: false
-Tags:
-- Rules
+IgnoreLinking: true
+tags:
+  - Rules
 Title: Skills
 draft: false
 revision_date: 2021-07-02 09:06:27+00:00

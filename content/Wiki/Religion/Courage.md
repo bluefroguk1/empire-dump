@@ -32,7 +32,7 @@ In Wintermark, courage is often signified by a jackdaw, while in [[Varushka]] th
 Those who take a less martial approach to the virtue use the Blue Rose as a symbol, in honour of Gilda Ashwine. During the Spring flower festival celebrated by the [[Urizen]] by contrast, crimson and scarlet blossoms are associated with this virtue, perhaps representing shed blood.
 ## Further Reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Courage here.
-* You can learn about the [[Skills]] that priests can use to support the virtue of Courage here.
+* You can learn about the Skills that priests can use to support the virtue of Courage here.
 ### The Seven Virtues
 * [[Ambition]]
 * Courage

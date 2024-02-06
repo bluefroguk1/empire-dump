@@ -11,11 +11,11 @@ tags:
 ## Overview
 By Hallowing an object, the priest creates a potent item [[Aura]] drawn from their virtue. Item auras produce a roleplaying effect which can influence [[The Way]] the character with the item acts, but they do ''not'' act as a source of spiritual strength so they cannot be used to overcome other roleplaying effects.
 An item may only have one aura on it at once, so creating a new aura automatically replaces any existing standard aura. A strong aura is more difficult to remove. Characters with the same virtue can cooperate to create a strong hallowing or to remove or replace an existing one.
-The [[Hallow]] ceremony is not the only way that an object may acquire an influential Aura. There are many stories of an item used in a significant, dramatic way acquiring a spontaneous Aura associated with spiritual power - although such [[Events]] are hardly common. Some Curses and dangerous spirits have the ability to create effects similar in effect to a hallowing, especially on items central to the nature of the malediction or ghost.
+The [[Hallow]] ceremony is not the only way that an object may acquire an influential Aura. There are many stories of an item used in a significant, dramatic way acquiring a spontaneous Aura associated with spiritual power - although such Events are hardly common. Some Curses and dangerous spirits have the ability to create effects similar in effect to a hallowing, especially on items central to the nature of the malediction or ghost.
 Aura Links
 ## Performance
 * Requires a dose of [[Liao]] and at least ten seconds appropriate roleplaying
-* Requires the presence and [[Assistance]] of a referee
+* Requires the presence and Assistance of a referee
 * It is not possible to use hallow to create an aura on large immobile objects.
 * The priest must choose which aura they are creating during the ceremony
 Hallowing an item uses a dose of Liao. Performing the ceremony requires at least ten seconds of appropriate roleplaying and the item must be close enough to touch throughout.
@@ -46,4 +46,4 @@ If a bonded magic item is reforged, any hallowing present is removed.
 * A true item aura allows the use of one additional dose of Liao when performing a ceremony
 You can use true liao in place of normal liao to hallow an item. This will create a true aura, it can only be replaced or removed using true liao or something of similar power. An artefact ''cannot'' be hallowed except by using true liao to create a true aura.
 A true aura on an item allows the character carrying the item to make use of one additional dose of liao whenever they perform a ceremony, allowing them to create effects with greater strength. 
-Ceremonial [[Skills]] further reading
+Ceremonial Skills further reading

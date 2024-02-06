@@ -53,7 +53,7 @@ You can review the details of the Kruidenkenner warehouses here.
 ### Investment
 * The ''Kruidenkenner'' are exploring the opportunity to invest in Imperial Herb markets.
 * The Senate could [[Expand the Kruidenkenner Magazjin]] at Crown's Quay and secure additional opportunities for the [[High Herbalist of Sybella]], [[Master of the Clearing House]], [[Vizier of the Incarnadine Satchel]], and Kruidenkenner Trademaster
-Ockje Duisenberg is interested in seeing the ''Kruidenkenner'' enter into loose partnership with the High Herbalist of Sybella, the Master of the Clearing House in [[Tassato]], and the Vizier of the Incarnadine Satchel in [[Feroz]]. In each case, the ''Kruidenkenner'' would provide additional herbs at bargain prices. In return, they would need some [[Assistance]] in expanding their premises at Crown's Quay.
+Ockje Duisenberg is interested in seeing the ''Kruidenkenner'' enter into loose partnership with the High Herbalist of Sybella, the Master of the Clearing House in [[Tassato]], and the Vizier of the Incarnadine Satchel in [[Feroz]]. In each case, the ''Kruidenkenner'' would provide additional herbs at bargain prices. In return, they would need some Assistance in expanding their premises at Crown's Quay.
 Purchase PriceHerbs
 7 Crowns16 random herbs
 17 Crowns33 random herbs

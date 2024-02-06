@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Summer Solstice 2023
 aliases:
-- Summer_Solstice_2023
+  - Summer_Solstice_2023
 draft: false
 revision_date: 2023-07-19 09:59:58+00:00
 revision_id: 103374

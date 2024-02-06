@@ -13,10 +13,10 @@ Through this ceremony, a priest can place powerful, enduring marks on a living s
 [[The Way]] teaches that these marks can affect a person's passage through the Labyrinth, and even potentially influence their next life after they are reborn. Some priests disagree with this assessment, however, pointing out that there are few if any reliable reports of children born already bearing the marks of past-life [[Testimony]]; surely if the marks were truly indelible, everyone would have them?
 Testimony is sometimes used as part of funerary rites - it is believed that even if the soul is not present, it may still have an effect on the subject's passage through the Labyrinth if performed within a day of the dead person's demise.
 This ceremony is not the only source of spiritual marks; certain pacts and oaths are also believed to create marks on the soul of those who enter into agreements with ''dark powers''. Both those who deal with The Sovereigns of [[Varushka]], and those who participate in the idolatrous worship of Eternals are said to spontaneously manifest marks similar to those produced by testimony.
-Testimony does not literally write words on the [[Aura]], or soul, of the target. Rather it seems to create a symbol, or an aura, that is interpreted by the priest using Insight. A testimony placed by a [[Sumaah]] priest is comprehensible to an Imperial priest and vice versa.
+Testimony does not literally write words on the [[Aura]], or soul, of the target. Rather it seems to create a symbol, or an aura, that is interpreted by the priest using Insight. A testimony placed by a Sumaah priest is comprehensible to an Imperial priest and vice versa.
 ## Performance
 * Requires a dose of [[Liao]] and at least ten seconds appropriate roleplaying
-* Requires the presence and [[Assistance]] of a referee
+* Requires the presence and Assistance of a referee
 * The target must be close enough to touch.
 * The priest must audibly announce the words of the Testimony with appropriate roleplaying
 Performing a Testimony uses a dose of Liao and requires at least ten seconds of appropriate roleplaying. Your roleplaying should include the words of your Testimony.
@@ -43,4 +43,4 @@ It is not possible to replace an existing testimony with this skill.
 * True liao can be used to erase all the spiritual marks from a target's soul or aura.
 It is possible to use true Liao to create a true testimony. The testimony is exceptionally vivid - it is more prominent than any other testimony and the fact that it has been performed with true Liao is evident to anyone using the Insight ceremony. Some priests theorize that a true liao testimony will continue to follow the target through all their subsequent lives (in one form or another), but there is no reliable proof for this conjecture not least because true liao testimony is incredibly rare.
 You can also use true liao to remove ''all'' spiritual marks from a target's soul or aura. If true liao were used to perform a ceremony on an orc or human, this would also remove any spontaneous spiritual marks or marks that were not created using the testimony skill.
-Ceremonial [[Skills]] further reading
+Ceremonial Skills further reading

@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Spring Equinox 2015
 aliases:
-- Spring_Equinox_2015
+  - Spring_Equinox_2015
 draft: false
 revision_date: 2022-01-29 15:23:29+00:00
 revision_id: 86177

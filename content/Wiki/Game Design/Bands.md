@@ -10,7 +10,7 @@ revision_id: 92618
 
 ## Overview
 In Empire it is possible for characters to formalize their [[Loyalty]] to each other by creating a band. [[Bands]] draw on the Hearth [[Hearth magic]] of 
-oaths combined with magical bonds created by magicians to allow members to use certain [[Skills]], [[Rituals]] and items more effectively on each other. For instance ritualists who are part of the same coven (a type of band) can combine their skills to perform more powerful rituals.
+oaths combined with magical bonds created by magicians to allow members to use certain Skills, Rituals and items more effectively on each other. For instance ritualists who are part of the same coven (a type of band) can combine their skills to perform more powerful rituals.
 Bands are intended to build on the characterisation of the group concept that you have created for your characters. They are there to recognize and support the choice to act as part of a Dawnish [[Noble House]], a League [[Guild]] or a Freeborn [[Family]]. Players creating characters together are enCouraged to use the potential abilities of bands to add depth and character to their group concept.
 ## The Role of Bands
 We encourage players coming to Empire to attend as part of a band with their friends. Bands can help to add depth and enjoyment to characterization, making all the characters feel more real and be more fun to play. The band can have its own identity and history and gives characters a way to belong to something that is bigger than they are, yet is still something they can create a history and background for. Bands give OOC friends good IC reasons to roleplay together and good groups are great for helping new players get involved in a game. 

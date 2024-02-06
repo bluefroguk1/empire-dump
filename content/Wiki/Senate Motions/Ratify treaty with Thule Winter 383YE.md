@@ -32,7 +32,7 @@ While fighting alongside The Empire, any territories captured from the Jotun in 
 Any Empire citizens, either in Sermersuaq or fighting as Jotun thralls that are captured by the Thule in their campaign will be returned to The Empire.
 Any Jotun orcs or Warriors, who are not Imperial citizens, will be offered a choice. Either accept becoming a Thule thrall or accept death.
 The Thule will ensure Empire settlements and populations will not be targeted.
-The Empire agrees that the Thule can use [[Rituals]], such as [[Rivers of Life]], to protect their people in Sermersuaq.
+The Empire agrees that the Thule can use Rituals, such as [[Rivers of Life]], to protect their people in Sermersuaq.
 The Empire agrees not to use powerful rituals of slaughter in Sermersuaq during the campaign.
 In exchange for the military alliance the Empire will cede lands to the Thule.
 The regions of the Webwood in Ossium and Miechernya in Miekarova.

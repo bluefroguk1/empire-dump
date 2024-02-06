@@ -34,7 +34,7 @@ During their Spring festival, the [[Urizen]] represent Wisdom with white or silv
  Wisdom is not short hand for ‘action I’d like you to take’, and foolishness is not synonymous with ‘outcome I wish you had not provoked'
 ## Further reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Wisdom here.
-* You can learn about the [[Skills]] that priests can use to enlighten others to the virtue of Wisdom here.
+* You can learn about the Skills that priests can use to enlighten others to the virtue of Wisdom here.
 ### The Seven Virtues
 * [[Ambition]]
 * [[Courage]]

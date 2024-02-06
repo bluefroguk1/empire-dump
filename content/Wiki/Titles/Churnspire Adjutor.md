@@ -30,7 +30,7 @@ Staff of Storms
 Mask of the Geyser
 * Form: Talisman. Takes the form of a ritual focus. You must be wearing this item or holding it in hand to use its magical properties.
 * Requirement: You must have the magician skill to bond to this item.
-* Effect: Gain 3 ranks for the [[Golden Ramparts]] and [[From the Mouths of Babes]] [[Rituals]], subject to the normal rules for effective skill. When contributing to a performance of these rituals, you may choose to substitute  orichalcum or tempest jade for crystal mana. Every 2 measures of appropriate materials spent counts as 1 crystal mana, up to the normal limit deterMined by your effective rank of Summer lore. 
+* Effect: Gain 3 ranks for the [[Golden Ramparts]] and [[From the Mouths of Babes]] Rituals, subject to the normal rules for effective skill. When contributing to a performance of these rituals, you may choose to substitute  orichalcum or tempest jade for crystal mana. Every 2 measures of appropriate materials spent counts as 1 crystal mana, up to the normal limit deterMined by your effective rank of Summer lore. 
 ### Regalia of the Adjutor
 The Churnspire Adjutor receives a set of regalia from the ''Golden Magician'' in the form of the Tempestuous Orb, the Staff of Storms, and the Mask of the Geyser. The regalia is imbued by Meraud just before each Summer Solstice. The regalia is legally the property of the Churnspire Adjutor. If the Adjutor were to step down or be revoked then the items should be given to the new Adjutor with all appropriate haste.
 ## [[Appointment]]

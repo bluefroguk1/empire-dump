@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Autumn Equinox 2023
 aliases:
-- Autumn_Equinox_2023
+  - Autumn_Equinox_2023
 draft: false
 revision_date: 2023-09-03 18:37:13+00:00
 revision_id: 105383

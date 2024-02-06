@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Winter Solstice 2022
 aliases:
-- Winter_Solstice_2022
+  - Winter_Solstice_2022
 draft: false
 revision_date: 2023-03-29 21:53:24+00:00
 revision_id: 98485

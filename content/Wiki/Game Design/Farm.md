@@ -24,7 +24,7 @@ A farm can be diversified to sacrifice income for resources or herbs. To diversi
 A Marcher farm owner in a Marcher territory has a special diversification option as long as the [[Imperial Conclave]] continues to interdict the [[Rivers Run Red]] ritual. With the aid of the Landskeepers, they can raise menhirs that will allow their farm to produce a small amount of crystal mana.  They will lose 30 rings of income as a result, but the farm will produce one mana crystal for each level of this diversification. It costs one throne each time they diversify in this way. The landskeepers have made it clear that this help will be withdrawn if the Conclave remove the [[Interdiction]]. If this happens, the option to build new stones would disappear, although any menhirs already built - any diversification that was complete - would be unaffected.
 ## National Implications
 Senators in [[The Marches]] are chosen by the SteSteward who controls the most land; this is represented by the farm personal resource. A Marcher character who has been operating a farm personal resource in a Marcher territory has 10 votes towards the election of the [[Steward]] for the territory. If the farm is upgraded - then the character who operates that farm contributes 2 additional votes for each upgrade.
-## [[Rituals]]
+## Rituals
 The table below shows a list of the rituals in [[Imperial lore]] which can affect the production of a farm.
 {| class="wikitable sortable"
 ! Ritual

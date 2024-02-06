@@ -18,7 +18,7 @@ Casting time|2
 [[Enchantment]]
 ### Effects
 This ritual allows the coven that casts it to perform one additional ritual on the day after it is performed.
-Performing ''[[Twist of Moebius]]'' always counts as a use of the coven bond and counts toWards the number of [[Rituals]] the coven can perform that day. 
+Performing ''[[Twist of Moebius]]'' always counts as a use of the coven bond and counts toWards the number of Rituals the coven can perform that day. 
 The ritual counts as an Enchantment on the coven (or the coven bond itself) rather than the individual ritualists.
 The effect of the enchantment takes effect immediately and lasts until the additional ritual is performed, or until the sun has risen twice, whichever comes first.
 ## Description

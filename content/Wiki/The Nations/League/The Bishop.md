@@ -17,7 +17,7 @@ When the Bishop resolves his dilemma, he offers strength to others. His righteou
 Although he is spiritual, he is also rational - his mind is often changed, or his central dilemma resolved, through good advice, investigation or discovery of a previously-unknown fact.
 He is also the spirit of the [[Family]], and often appears in the role of an older relative. Bonds between people that are founded on trust and respect are part of his domain.
 Upright, strong and constant, he can be trapped by his own rigidity, and his sense of honour may become his undoing. In street theatre he is often pompous, but even then his heart is usually in the right place - he believes what he preaches even as he is made to look foolish because of the air of self-importance he gives himself.
-Magical Associations: He is most used in [[Rituals]] that deal with [[Magic]] that strengthens, supports or reveals. He can be used to represent the Synod, faith or rationality. He is associated with the virtues of [[Vigilance]], [[Wisdom]], [[Loyalty]] and [[Pride]].
+Magical Associations: He is most used in Rituals that deal with [[Magic]] that strengthens, supports or reveals. He can be used to represent the Synod, faith or rationality. He is associated with the virtues of [[Vigilance]], [[Wisdom]], [[Loyalty]] and [[Pride]].
 Realms: The bishop is associated with summer (strength, majesty) and day (reason, discovery).
 Identities: As one of the personae, The the bishop usually appears named after one of the four rivers. Her name influences her character, which in turn influences the magical role she plays.
 * ''Scorrero'' – used for magic that divines or uncovers facts

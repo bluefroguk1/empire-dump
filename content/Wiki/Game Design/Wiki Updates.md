@@ -62,7 +62,7 @@ We have replaced the old rules for inspirational tombs with some new rules for i
 We have removed references to getting a traumatic wound if you travel back too late through [[The Sentinel]] gate. Implementation of this rule was always spotty at best and it violated some of our core design principles in [[The Way]] it confused in-character and out-of-character objectives. We don't want players to return through the gate late, because it plays havoc with the schedule that everyone, players and ourselves, are relying on. Most participants implicitly appreciate this and make the best effort possible to return to [[Anvil]] before the gate begins to close. Traumatic wounds are intended to lead to further roleplaying for the participants who receive them, they are not meant to punish participants for taking the wrong action. Empire tries as hard as possible to avoid mixing in-character and out-of-character consequences in that way.
 ## FIRST AID
 * 01/07/2023
-We've changed the MAN DOWN call to FIRST AID. We've made this change for two reasons, one is that we and many of our players are no longer comfortable with such a clearly gendered call. The other reason is that over the years, a few players have developed a bad habit of using the call in-character when someone gets wounded. We've replaced the call with FIRST AID - a clear call asking for the first aid team to provide [[Assistance]].
+We've changed the MAN DOWN call to FIRST AID. We've made this change for two reasons, one is that we and many of our players are no longer comfortable with such a clearly gendered call. The other reason is that over the years, a few players have developed a bad habit of using the call in-character when someone gets wounded. We've replaced the call with FIRST AID - a clear call asking for the first aid team to provide Assistance.
 We understand that many of participants will continue to use MAN DOWN in emergency situations, precisely because it is the instinctive thing to shout in an emergency. That is absolutely fine, and everyone should treat the call ''exactly'' as if they had called FIRST AID. We expect it to take some years to drop the old call in favour of the new one and we would much rather participants shouted either call quickly than pause to think. The hobby has been using the man down call for decades and we do not want to compromise safety while we transition away from its use at Empire.
 ## Searching
 * 29/06/2023
@@ -90,7 +90,7 @@ We've decided to remove the ''Haunted'' army quality. There are no armies with t
 Updated the diversification section on the Farm page to make it clearer that "Herb" means one of the standard five magical herbs. Any opportunity that grants "herbs" will always mean the herbs gathered from a standard [[Herb garden]] unless it explicitly says otherwise.
 ## Wolves of Winter
 * 26/05/2023
-The magnitude of the ritual ''Wolves of Winter'' has been increased in line with our recent changes to [[Rituals]] that effect the downtime campaign. The ritual is not in [[Imperial lore]], but the database has been adjusted to reflect this change.
+The magnitude of the ritual ''Wolves of Winter'' has been increased in line with our recent changes to Rituals that effect the downtime campaign. The ritual is not in [[Imperial lore]], but the database has been adjusted to reflect this change.
 ## [[Whispers through the Black Gate]]
 * 20/05/2023
 We've added a note to the special liao option on the Whispers through the Black Gate ritual to make it explicit that the option is not available to orc casters.
@@ -142,7 +142,7 @@ We've clarified the VENOM call to make it explicit that if you are dying and hav
 The effects of [[Fan the Flame of New Life]] have been significantly changed, and we've removed the Midwife's Recourse ritual from the game. Discussion of and explanation for these changes can be found on the Rules update 2023page. We also added a medicine section to the [[Technology]] page, and a section on the [[Healing in Empire]] page.
 ## COVID Safety
 * 14/03/2023
-We have updated the Entry requirements and the rules for COVID safety for our [[Events]] in 2023.
+We have updated the Entry requirements and the rules for COVID safety for our Events in 2023.
 ## Bow Safety
 * 14/03/2023
 We have overhauled the rules for Bow safety at Empire. Please make sure you read and understand the new rules if you use a bow or crossbow at any point at the events.
@@ -202,7 +202,7 @@ We've made extensive changes to the [[Imperial Conclave]]. This touches on the w
 As part of the updates to the Imperial Conclave, we've removed the power of the Advisor on [[The Vallorn]] to raise a free [[Declaration]] of [[Interdiction]].
 ## Unstoppable and Pretending to be Dead
 * 19/01/2023
-We've edited the rules for Unstoppable. We haven't change the rules, but we've tried to make the intent behind the skill use clearer. We've also rolled in some points from the [[Rules FAQ]] as having information about a skill in two places can be unhelpful.
+We've edited the rules for Unstoppable. We haven't change the rules, but we've tried to make the intent behind the skill use clearer. We've also rolled in some points from the Rules FAQ as having information about a skill in two places can be unhelpful.
 At the same time, we've made the rule about pretending to be dead or dying more prominent by moving it to the section of the rules dealing with dying.
 ## Operating Portals
 * 11/01/2023
@@ -346,7 +346,7 @@ We have added a new wiki page devoted to the Sutannir, archetypal Freeborn pries
 ## [[Public auction]]
 * 24/02/2022
 We've significantly reduced the scale and scope of the public auctions carried out by civil servants at events. From now on, the auction will be restricted to lots of bourse resources, the bourse seats themselves, and a dose of true liao. A more detailed explanation of the changes and reasoning are presented here.
-## [[Sanctioned events]]
+## Sanctioned events
 * 07/02/2022
 We've made several edits to our Sanctioned events page, splitting some of the information onto a separate Sanctioned event advice page aimed at organisers. The main changes are around the definitions of sanctioned event styles, and the rule that all Sanctioned sanctioned events take place in the same chronological order in-character that they do out-of-character.
 ## Downtime Roleplaying and Coronavirus
@@ -381,7 +381,7 @@ We've updated the [[Segura]] page to include the presence of the Iron Qanat; thi
 We've made some edits to streamline the Battle Safety section on the Event safety page.
 ## Heroic [[Heroic skills]]
 * 22/10/2021
-We've added a line to the Heroic [[Skills]] overview reiterating that skills such as cleaving strike, mortal blow or mighty strikedown cannot be used with mage implements.
+We've added a line to the Heroic Skills overview reiterating that skills such as cleaving strike, mortal blow or mighty strikedown cannot be used with mage implements.
 ## Illegal Orders
 * 22/10/2021
 We've added a short section to the General page about [[Army orders]] that are in-character illegal and how they are handled.

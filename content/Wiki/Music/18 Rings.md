@@ -62,4 +62,4 @@ To [[Mine]] for metals rare,
 Since bandits hit my caravan
 I’ve nothing left to spare.
 (Chorus and so on)
-''Infinitely open to reinterpretation and updating with current [[Events]].''
+''Infinitely open to reinterpretation and updating with current Events.''

@@ -18,10 +18,10 @@ ThreeColIconImage|file=Emma+Tom.jpg|link=Playing the game
 This section tells you how to play the game - providing the rules and guidelines for creating your character as well as roleplaying the character at an event. 
 ## Combat
 ThreeColIconImage|file=JotunMarch.jpg|link=Combat
-All player-characters are able to [[Fight]] in Empire if they choose. The combat rules explain what to do in skirmishes and battles and how to use your [[Skills]].
+All player-characters are able to [[Fight]] in Empire if they choose. The combat rules explain what to do in skirmishes and battles and how to use your Skills.
 ## Safety
 ThreeColIconImage|file=Orc prisoner.jpg|link=Safety_overview
-Safety is important to ensure that [[Events]] are as safe as possible. Everyone must make sure that they understand these rules even if they do not intend to fight.
+Safety is important to ensure that Events are as safe as possible. Everyone must make sure that they understand these rules even if they do not intend to fight.
 ## Groups
 ThreeColIconImage|file=FreebornFamily.jpg|link=Groups
 Players creating characters together can create a concept for a group to link those characters together. There are special rules some types of groups, called [[Bands]] in Empire.

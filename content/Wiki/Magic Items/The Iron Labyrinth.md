@@ -11,7 +11,7 @@ revision_id: 48002
 ---
 
 ## Description
-The covenstone known as [[The Iron Labyrinth]] draws upon the [[Realm]] of Autumn to [[Empower]] a coven with additional capacity for performing [[Rituals]], drawing upon the bonds created between members of the coven.
+The covenstone known as [[The Iron Labyrinth]] draws upon the [[Realm]] of Autumn to [[Empower]] a coven with additional capacity for performing Rituals, drawing upon the bonds created between members of the coven.
 These items are usually finely crafted to appear like a miniature city crafted of gleaming metal and often exhibit [[Queros]], rune of plots and [[Hirmok]], rune of dominion.
 TextCovenstone
 ## Rules

@@ -12,7 +12,7 @@ tags:
 ''[[Vis]]'' (sometimes called ''quintessence'', ''grym'', or ''[[Realm]] mana'') is a substance not found naturally in the mortal world. Scholars agree that it serves a similar purpose for inhabitants of the Realms as mana crystals do for mortal Magicians.
 Vis is an Old Asavean word meaning "''power or force''" and is recognisable in all modern nations. Traditional, educated magicians pronounce it "''weeeez''" while iconoclastic, younger magicians tend to pronounce it "''viz''" to the exasperation of the first group.
 The practice of referring to vis as "quintessence" comes from extremely old texts, and the context has long since been forgotten. In Roget's "''The Five Quintessences''", that [[Urizen]] scholar tries to claim that it proves that fire crystals and prismatic ink are the same substance - but this has been largely discredited due to there being absolutely no evidence to support his wild claims.
-The easiest way to acquire vis is to deal with an [[Eternal]] of the appropriate realm. Over the centuries, various [[Rituals]] have been created to allow commerce between mortal magicians and an eternal - the rituals Before [[The Throne]] of Estavus]] and [[Tribute to the Thrice-Cursed Court]] are examples which exist in [[Imperial lore]].
+The easiest way to acquire vis is to deal with an [[Eternal]] of the appropriate realm. Over the centuries, various Rituals have been created to allow commerce between mortal magicians and an eternal - the rituals Before [[The Throne]] of Estavus]] and [[Tribute to the Thrice-Cursed Court]] are examples which exist in [[Imperial lore]].
 ## Forms
 There are six commonly-known forms of vis, each of which hails from a different realm.
 ### Prismatic Ink

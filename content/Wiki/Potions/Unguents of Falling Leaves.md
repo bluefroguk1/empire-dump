@@ -34,7 +34,7 @@ Also referred to in the original Druj notes as ''Gamemaster's Patina'', this pot
 The resultant pigment has a rich, deep colour but appears deceptively mundane. Smeared on the skin of the hands, face, or chest it sharpens the mind and brings an enhanced awareness of the users abilities - as well as encouraging them to employ those talents to "prove" their superiority over their friends and rivals. The salve is absorbed surprisingly quickly but can leave a faint green-blue reside that is resistant to washing - it is theorised that over time a magician who uses this preparation extensively will be left with permanently stained skin. 
 * Form: Salve.
 * Description: This thick blue-green paste has a rough, coarse texture. Rubbed between finger and thumb, it smears easily and releases a strong smell of vinegar and copper.
-* Roleplaying Effects: You feel an urge to test your [[Skills]] against others. It is easy to become contrary and stubborn, to try and force people into competing with you. Only the competition matters - winning or losing is irrelevant.
+* Roleplaying Effects: You feel an urge to test your Skills against others. It is easy to become contrary and stubborn, to try and force people into competing with you. Only the competition matters - winning or losing is irrelevant.
 * Mechanical Effects: If you possess the Autumn Lore skill then you gain three additional ranks to the next Autumn ritual that you perform within ten minutes, subject to the normal rules for effective skill. This is a tonic; the effect of any other tonic you have drunk immediately ends.
 * Recipe: Three drams each of Cerulean Mazzarine and Marrowort, one dram of True Vervain, one crystalized mana, and one ring of [[Ilium]].
 PotionTable|Unguents of Falling Leaves

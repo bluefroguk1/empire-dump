@@ -26,7 +26,7 @@ The orc delegation was - perhaps unconsciously - split into two groups, for all 
 "Patience, child of the Black Wind. We are travelling in their territory, it is right that they are suspicious. I would be suspicious too if they came to the Great Forest and demanded to speak with the elders of my clan. The human senate will still be there even if we are delayed an hour or so, and we achieve nothing if we cannot prove good intent."
 There was muttering from both factions. Their human companion spoke in an undertone, and the two leaders turned to converse privately with the [[Briar]].
 The Navarr vate shut her mouth. The brand raised an eyebrow. Fallavel began patiently explaining the situation again.
-"These orcs are from the barrens ... they wish your [[Assistance]] to travel to Anvil. They are invited ..."
+"These orcs are from the barrens ... they wish your Assistance to travel to Anvil. They are invited ..."
 ## Overview
 In distant [[Brocéliande]], in the Boar's Dell, a band of orcs has emerged without warning from The Barrens. They have come under a flag of truce, and claim to represent the two great clans of the independent orc nation to the east of [[The Empire]]. A combination of factors have enCouraged them to send envoys to Anvil - the main one apparently being the decision taken by the Imperial Senate at the Spring Equinox to recognise them as having the status of foreigners, rather than barbarians.
 They are not a united force - the delegation is led by a shaman of the Great Forest clan, and a warrior of the Black Wind clan and there appear to be some internal tensions. They are accompanied also by a human with strong briar Lineage who appears to be either a Navarr or one of the mysterious denizens of Dourfell Keep.

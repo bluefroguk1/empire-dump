@@ -62,7 +62,7 @@ Although every magician may vote, only the [[Grandmaster]] of a [[Conclave order
 Each [[Archmage]] represents [[The Empire]] to the various inhabitants of their appropriate [[Realm]]. To [[Empower]] them to carry out their work, each archmage may choose to send a short missive to a single named [[Eternal]] of their realm each summit.
 #lst:Archive:Current_Imperial_Titles|Archmage
 ### College Masters
-Each of these titles has control of an Imperial [[College of Magic]] granting them the ability to direct the Empire's magicians to create new [[Rituals]].
+Each of these titles has control of an Imperial [[College of Magic]] granting them the ability to direct the Empire's magicians to create new Rituals.
 #lst:Archive:Current_Imperial_Titles|Dean
 ### Agents of the Conclave
 The [[Imperial Necromancer]] has control of the Imperial [[Regio]] for the second half of the hour when it is possible to cast [[Whispers through the Black Gate]], on each day of each summit. The Imperial Necromancer may choose which covens may use the regio in this time, and the order in which they may use it. 

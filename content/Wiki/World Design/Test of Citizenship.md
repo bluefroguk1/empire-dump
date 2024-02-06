@@ -14,7 +14,7 @@ revision_id: 98703
 ## Overview
 The [[Test of Citizenship]] is an Imperial test administered by members of [[The Academy]]. A child who passes the test becomes a fUll citizen of [[The Empire]] and confers on them all the benefits and responsibilities of such. It consists of a short spoken examination with the Chancellor of the Academy (or the Vice-Chancellor in their absence) to ensure that the young citizen has enough knowledge of  their nation, the Empire and its laws and customs to make an effective citizen.
 ### OOC
-The test is designed to ensure that young role-players have sufficient confidence and understanding of the rules to begin role-playing more independently. Preparing and passing the test is intended to be an enjoyable Challenge for young players attending [[Events]].
+The test is designed to ensure that young role-players have sufficient confidence and understanding of the rules to begin role-playing more independently. Preparing and passing the test is intended to be an enjoyable Challenge for young players attending Events.
 As with the [[Test of Arms]], it is also an Opportunity for us to make sure the parent or guardian is happy with their child becoming more involved in the game.
 ## Requirements
 The Test is fairly informal and should not be a source of stress or nervousness. An Academy staff member asks a variety of questions and based on the responses, judges whether the candidate is ready to become a citizen. There is no lower age limit, although most graduates are around 11 or older. The Test can be sat as many times as the candidate wishes but only one attempt per event.

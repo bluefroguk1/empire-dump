@@ -26,7 +26,7 @@ This ritual can affect additional characters from the same banner. Each addition
 ### Option
 Ritual Substitution|[[Ambergelt]]|measures
 ## Description
-This old ritual is believed to be a remnant of Ushka [[Magic]], although the [[Navarr]] and the [[Suaq]] claim that their people have used similar [[Rituals]] since time immemorial. It fills a target with the unyielding vigour of a massive tree - an oak, ancient pine or similar long-lived plant.
+This old ritual is believed to be a remnant of Ushka [[Magic]], although the [[Navarr]] and the [[Suaq]] claim that their people have used similar Rituals since time immemorial. It fills a target with the unyielding vigour of a massive tree - an oak, ancient pine or similar long-lived plant.
 Some suspicious people see the effect that the ritual has on some briars and assume that they run the risk of becoming briars themselves when exposed to this ritual, but there are no recorded cases of this happening.
 ## Common Elements
 An obvious component commonly part of the ritual is ambergelt, although amber and pine resin are equally common. As with many rituals that create an Enchantment, the casters may symbolically give gifts to the target and branches from old trees, amber jewelry and favours or tokens that bear iMages of oak-leaves, acorns or similar plants. Some Dawnish Weaver cabals gird the targets in light or medium armour made of leather or hide while Landskeepers often crown their targets with leaves to show their connection to and mastery over natural forces.

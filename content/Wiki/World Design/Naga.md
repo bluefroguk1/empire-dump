@@ -11,7 +11,7 @@ revision_id: 98159
 __TOC__
 ## Overview
 The [[Naga]] are touched by the [[Realm]] of Night, a realm of shape-changing Wyrms and winged serpents. They are subtle, secretive and intuitive individuals whose passion and fervour for life drives them to seek new Challenges and new experiences.
-Naga are drawn to roles that allow their passion to shine through, or that give them opportunities to explore mysteries or uncover secrets. They are often drawn to the Conclave and Synod. Alternatively, they may set themselves up as information brokers, relishing the chance to influence [[Events]] from behind the scenes, or simply hoarding scandalous secrets for their own amusement.
+Naga are drawn to roles that allow their passion to shine through, or that give them opportunities to explore mysteries or uncover secrets. They are often drawn to the Conclave and Synod. Alternatively, they may set themselves up as information brokers, relishing the chance to influence Events from behind the scenes, or simply hoarding scandalous secrets for their own amusement.
 The naga Lineage is intended to appeal to players who want to be subtle and manipulative, as well as those who want to be a little mysterious. The naga suits a number of concepts: fanatical priests, mysterious wizards, Fighters who enjoy fighting, artists and performers of all types. The concept plays with iMages of the snake as wise and subtle, but subverts the idea that snakes are “cold-blooded”.
 ### Sobriquets
 Other terms for naga, both within [[The Empire]] and in other parts of the world, include: Skinks, Snakes, Lamia, the Scaled

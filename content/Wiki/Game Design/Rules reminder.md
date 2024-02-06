@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Rules
+IgnoreLinking: true
+tags:
+  - Rules
 Title: Rules reminder
 aliases:
-- Rules_reminder
+  - Rules_reminder
 draft: false
 revision_date: 2024-01-05 12:13:14+00:00
 revision_id: 106843

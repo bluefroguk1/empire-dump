@@ -17,7 +17,7 @@ revision_id: 105516
 The Order of the [[Celestial Arch]] holds the following to be true:
 * Both politics and [[Magic]] are the art of the judicious application of power
 * Magicians, by nature of their knowledge, discipline, perception and power are prepared for leadership
-* Negotiation with Eternals and diplomacy with foreign powers are comparable [[Skills]], and of comparable importance to [[The Empire]]
+* Negotiation with Eternals and diplomacy with foreign powers are comparable Skills, and of comparable importance to [[The Empire]]
 The Order of the Celestial Arch therefore exists to:
 * Ensure that major political decisions receive the benefit and [[Insight]] of Conclave Mages
 * EnCourage those in positions of leadership and authority to hone their skill through study of magic
@@ -31,7 +31,7 @@ The Grandmasters of the Celestial Arch try to wield magic and politics with equa
 As magicians interested in political, as well as magical, power the Celestial Arch often see the advantage of strategies that will garner political favours, either within the Conclave or with other Imperial bodies. While their main interest usually lies with the Senate, they see the value of encouraging the Military Council, Synod or Bourse to feel indebted to the Conclave - which means they may find themselves ready allies in the [[Rod and Shield]], Sevenfold Path or [[Golden Pyramid]] as a consequence.
 ## [[Conclave vault]]
 Each summit, the Conclave vault of the Celestial Arch garners a pro rata share of the Font based on the precedence of the orders at the previous summit; a portion of [[Ilium]] based on their position among the orders as deterMined by precedence; and additional [[Materials]] due to outstanding bequests.
-* Two ingots of Tempest jade from the [[Guild]] of the Golden Signets in [[Sarvos]] in [[Recognition]] for the order's [[Assistance]] in removing a [[Declaration]] of [[Sorcery]] from the serving [[Senator]] of the territory during the reign of [[Empress Teleri]].
+* Two ingots of Tempest jade from the [[Guild]] of the Golden Signets in [[Sarvos]] in [[Recognition]] for the order's Assistance in removing a [[Declaration]] of [[Sorcery]] from the serving [[Senator]] of the territory during the reign of [[Empress Teleri]].
 * Three measures of Dragonbone come from the Steading of Rhys' Seat in [[Miaren]]. The original reason of the bequest was lost during the reign of [[Emperor Nicovar]], but the bequest has been steady since 27YE and is apparently connected to the order's role in helping destroy The [[The Vallorn]] that once dominated the territory. 
 * Three measures of [[Iridescent gloaming]] come from Brokenfountain Citadel and the [[Spire]] of the Frozen Watcher in [[Redoubt]] dating back to 330YE when Enchantress Geraint de Blorhbeau, as [[Grandmaster]], negotiated an end to the feud between the two rival spires.
 * 3 wains of [[Mithril]] each season from [[Faraden]] merchants and wizards grateful for the Conclave's role in ending the iridescent gloaming blight in their country. The mithril was endowed on the order in Summer 383YE. 

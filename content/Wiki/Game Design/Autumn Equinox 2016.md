@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Autumn Equinox 2016
 aliases:
-- Autumn_Equinox_2016
+  - Autumn_Equinox_2016
 draft: false
 revision_date: 2022-01-29 15:24:54+00:00
 revision_id: 86183

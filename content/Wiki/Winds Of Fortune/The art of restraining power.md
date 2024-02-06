@@ -16,7 +16,7 @@ revision_id: 86093
 No country can act wisely simultaneously in every part of the globe at every moment of time.
 Whatever must happen ultimately should happen immediately.
 ## A Crack in the Ice
-* [[Sumaah]] remains at [[War]] with [[The Empire]]; the port of Zemeh remains closed.
+* Sumaah remains at [[War]] with [[The Empire]]; the port of Zemeh remains closed.
 The changes to Doctrine authored by Bonewall Rek and Bonewall Cole have been successfUlly communicated to the pilgrims of [[The Way]] around the known world. During the Summer Solstice, an [[Inquisition]] by priests from the [[Sumaah Republic]] Visited [[Anvil]]. With the aid of the Highborn of Felix's Watch, the inquisition took place without any obvious problems. The Sumaah priests then returned to city of Timoj to present their findings to the ''präster'' of the Republic.
 __TOC__
 A month ago, the Sumaah republic formally recognised the virtue of Bonewall Rek and Bonewall Cole. The Sumaah have not as of yet embraced the new doctrines. The Sumaah Council of Eight has however extended a formal invitation to the two [[Imperial Orcs]] to come to Timoj and speak before the assemblies of the Way, and the House of the People

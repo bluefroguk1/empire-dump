@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- FAQ
-- Lineage
+IgnoreLinking: true
+tags:
+  - FAQ
+  - Lineage
 Title: Lineage and species FAQ
 aliases:
-- Lineage_and_species_FAQ
+  - Lineage_and_species_FAQ
 draft: false
 revision_date: 2023-03-23 17:34:29+00:00
 revision_id: 98441

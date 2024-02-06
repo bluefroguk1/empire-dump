@@ -32,7 +32,7 @@ For obvious reasons [[The Throne]] is a common symbol associated with ambition -
 During the Spring festival celebrated in Urizen, Ambition is represented by a purple flower.
 ## Further Reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Ambition here.
-* You can learn about the [[Skills]] that priests can use to spread the virtue of Ambition here.
+* You can learn about the Skills that priests can use to spread the virtue of Ambition here.
 ### The Seven Virtues
 * Ambition
 * [[Courage]]

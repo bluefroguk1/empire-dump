@@ -19,7 +19,7 @@ The [[Polemarch of Highwatch]] is an [[Imperial Title]] appointed by the Senate,
 The Polemarch has no particular responsibilities, they simply receive an income of useful items from the heralds of Zakalwe. If Highwatch Citadel were ever to come under threat, it would be the responsibility of the Polemarch to deal with this threat.
 ## Powers
 ### Infusions of Day
-Each season the Polemarch receives 3 doses of Effulgent Primessence, provided by the heralds of Zakalwe. These Potions can be used by practitioners of [[Day magic]] to enhance their ability to perform [[Rituals]].
+Each season the Polemarch receives 3 doses of Effulgent Primessence, provided by the heralds of Zakalwe. These Potions can be used by practitioners of [[Day magic]] to enhance their ability to perform Rituals.
 These potions are not produced in the Citadel, they are provided by the heralds of Zakalwe. If relations with the Master Strategist were to decline severely, these heralds would depart and the Polemarch would no longer receive their income.
 ### PEarls of Manush
 Each season, the [[General]] of Day provides the Polemarch with a single ''Pearl of Manush''. 

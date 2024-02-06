@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- Rules
-- Game-Design
+IgnoreLinking: true
+tags:
+  - Rules
+  - Game-Design
 Title: Rules update 2015
 aliases:
-- Rules_update_2015
+  - Rules_update_2015
 draft: false
 revision_date: 2019-10-04 12:11:22+00:00
 revision_id: 77775

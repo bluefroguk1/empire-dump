@@ -18,7 +18,7 @@ tags:
 There are six [[Basic]] weapon categories in Empire. Any character can wield a dagger or a one‑handed weapon but they must purchase the Weapon Master skill to use anything larger. Weapon categories are also important for Enchantments.
 One-handed spears, polearms, and pikes require you to use a set grip when fighting with the weapon. These grips are set for a combination of safety and play balance. You don’t have to carry the weapon like this when you are not fighting, but you must use the Mandated grip throughout any fight where you use the weapon.
 All weapons in Empire must be a phys-rep of an actual weapon - an object commonly used in battle. LRP-safe versions of common household objects like pans or gardening tools like shovels cannot be used as weapons.
-All weapons, bows, arrows, shields and armour, must be checked by a member of the Profound Decisions Weapon checking team before they are used at our [[Events]]. They check every item to ensure that the design, construction and condition of it is suitable for use at our events. If they are not satisfied that an item is safe for use then you must secure the item in the OOC area and may not use it at the event.
+All weapons, bows, arrows, shields and armour, must be checked by a member of the Profound Decisions Weapon checking team before they are used at our Events. They check every item to ensure that the design, construction and condition of it is suitable for use at our events. If they are not satisfied that an item is safe for use then you must secure the item in the OOC area and may not use it at the event.
 ### Daggers
 *Must be between 8” and 24” long
 Any character may use a dagger in combat provided it is between 8” and 24” long. The only difference between a dagger and a one-handed weapon is that you cannot use a dagger with any [[Heroic skills]] or with enchantments suitable for one-handed weapons.
@@ -53,7 +53,7 @@ A one-handed spear must have a thrust-safe tip and can only be used for thrustin
 *Offensive spells can only be delivered using an implement
 *Must be a safe phys-rep of a wand, rod or staff
 *Should not look like a weapon
-*Cannot be used with heroic [[Skills]]
+*Cannot be used with heroic Skills
 An implement is a Magical tool that allows a magician to deliver an offensive spell. All offensive spells require an implement to be used. You cannot use an implement to deliver a regular spell such as [[Mend]] or [[Heal]].
 All implements must be weapon-safe phys-reps. They may appear to be made of any material, and should be decorated and shaped to make it as clear as possible that they are magical implements and ''not weapons''. The ideal phys-rep is a suitably arcane looking rod, staff or wand. You may use a quarterstaff, but you cannot use a spear or anything that is clEarly a phys-rep of a weapon.
 A character can cause a point of daMage with an implement, but they cannot be used with the heroic skills cleaving strike, mortal blow or mighty strikedown.
@@ -109,7 +109,7 @@ If you are standing still or walking slowly then you may hold a shield out and p
 *The phys-rep must be a piece of armour, leather clothing or similar does not count
 *Armour that covers the torso and another location provides extra global hits
 *Some armour protects from CLEAVE or IMPALE
-*Magicians cannot cast spells or perform [[Rituals]] while wearing armour
+*Magicians cannot cast spells or perform Rituals while wearing armour
 Armour protects the wearer by increasing their global hits if it covers the majority of the torso and at least one other location. Complete coverage of the front of the torso is considered sufficient. Valid locations are the head (with a helm), the arms, the legs, or you may cover half of your arms and legs.
 E.g. A mail vest covers your torso but does not cover another location. If you wear it with a helm them it would count. A fUll-length mail hauberk covers the torso, thighs and upper arms so it would always count.
 Medium armour protects a character against CLEAVE, while heavy armour protects them against CLEAVE and IMPALE. You are only protected if the blow strikes the armour phys-rep; if it hits an unprotected part of the body then you are affected normally. Your armour continues to protect you in this way even if the hits it provides have been lost.

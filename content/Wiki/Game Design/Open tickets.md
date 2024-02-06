@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Open tickets
 aliases:
-- Open_tickets
+  - Open_tickets
 draft: false
 revision_date: 2022-11-06 17:08:21+00:00
 revision_id: 96573

@@ -11,7 +11,7 @@ revision_date: 2022-01-23 15:26:47+00:00
 revision_id: 85866
 ---
 
-Respond to a request for funding to add two [[Rituals]] to the body of [[Imperial lore]].''Proposed by [[Feroz]], seconded by [[Morrow]].''
+Respond to a request for funding to add two Rituals to the body of [[Imperial lore]].''Proposed by [[Feroz]], seconded by [[Morrow]].''
 ### Overview
 * A request for funds to be used by the [[Dean of the Lyceum]] to add two rituals to the body of Imperial Lore.
 * Passed at 20 Thrones

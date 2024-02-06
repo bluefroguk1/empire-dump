@@ -19,6 +19,6 @@ The ''Shield of the Last Navigator'' - or more properly the ''Shield of Edion'' 
 As the Shield of Edion suggests, it is common for a Virtuous Ward to be hallowed. Popular hallows reflect the fact that the item is intended to be carried on a battlefield by a warpriest, one who expects to [[Fight]] toe-to-toe with the enemies of the faithful.
 ## Rules
 * Form: Shield (Talisman). This item is also regalia. You cannot make a Virtuous Ward that is a buckler.
-* Requirement: You must have the dedication and shield [[Skills]] to bond to this item. 
+* Requirement: You must have the dedication and shield Skills to bond to this item. 
 * Effect: When another character makes you the target of a spell, ritual, heroic skill, or chirurgeon's skill that restores a number of hits you regain 2 additional hits. You do not gain additional healing from any effect you use on yourself, nor from any use of Potions or herbs.
 * [[Materials]]: Crafting a Virtuous Ward requires requires twelve ingots of weltsilver, eleven ingots of [[Ambergelt]], seven ingots of green iron, and fifteen measures of dragonbone. It takes one month to make one of these items.

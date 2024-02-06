@@ -15,7 +15,7 @@ To appoint Ambassadors to [[Foreign Nations]] to pursue trade in bulk raw [[Mate
 ''Proposed by [[Tassato]], seconded by [[Temeschwar]].''
 ### Overview
 * Appoint ambassadors to foreign nations to pursue trade in bulk raw materials. 
-* Ambassadors to be appointed to the Principalities of Jarm, the Asavean Archipelago, Faraden, The the Commonwealth and the [[Sumaah]] Republic. 
+* Ambassadors to be appointed to the Principalities of Jarm, the Asavean Archipelago, Faraden, The the Commonwealth and the Sumaah Republic. 
 ### Date
 * Passed unanimously Spring 377 (Event Two 2013).
 ### [[Cost]]

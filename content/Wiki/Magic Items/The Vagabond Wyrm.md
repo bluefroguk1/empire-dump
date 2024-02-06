@@ -11,7 +11,7 @@ revision_id: 32429
 ---
 
 ## Description
-[[The Vagabond Wyrm]], a more powerful version of [[The Flickering Flame]], draws upon the [[Realm]] of Night to [[Empower]] a coven with additional capacity for performing [[Rituals]], tugging upon the bonds created between members of the coven. 
+[[The Vagabond Wyrm]], a more powerful version of [[The Flickering Flame]], draws upon the [[Realm]] of Night to [[Empower]] a coven with additional capacity for performing Rituals, tugging upon the bonds created between members of the coven. 
 TextCovenstone
 ## Rules
 Paraphernalia

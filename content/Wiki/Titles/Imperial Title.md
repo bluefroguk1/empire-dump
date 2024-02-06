@@ -31,5 +31,5 @@ If your character is the holder of an Imperial Title then you are welcome to ema
 ## Further Reading
 *[[New Imperial titles]] - explaining the powers of the Senate to create new titles
 *Titles by Season - listing the titles which are reappointed each season
-*Recent history - includes historical lists of Appointments to titles at previous [[Events]]
+*Recent history - includes historical lists of Appointments to titles at previous Events
 *[[Current Imperial titles]] - A list of all current titles and their incumbents

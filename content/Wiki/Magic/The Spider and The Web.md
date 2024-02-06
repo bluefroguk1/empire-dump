@@ -17,7 +17,7 @@ Things are Watched by a Hidden Eye.
 ### The Constellation
 The Spider is a small cluster of five stars just off the fourth star in the [[Spiral]] of the Web. It appears to have two ‘arms’ reaching out toWards the Web whilst a small triangular ‘body’ points outwards.
 ### Symbolism
-The Spider stands off from the Web; quick to react to [[Events]] in it but separate from it. It represents unknown forces; those that watch the affairs of the world and interfere when they see fit. The Spider stands for things outside the Imperial sphere of influence; Eternals, foreigners, Magical powers, great mysteries, those things that stand beyond the ken of mortal being.
+The Spider stands off from the Web; quick to react to Events in it but separate from it. It represents unknown forces; those that watch the affairs of the world and interfere when they see fit. The Spider stands for things outside the Imperial sphere of influence; Eternals, foreigners, Magical powers, great mysteries, those things that stand beyond the ken of mortal being.
 The Spider also represents the manipulator; they who place their thumb upon the scales of fate. 
 ### Invoking the Spider in [[Magic]]
 Invoking the Spider can be a dangerous business for ritualists since the constellation is often seen to represent the eternals. Varushkan ritualists often use the Spider to represent the doings of sovereigns in their magic. The Spider, though, can be used to represent any hidden hand or unseen force; whether to steer it or to ward against it.

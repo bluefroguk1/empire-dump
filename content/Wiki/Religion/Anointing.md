@@ -37,4 +37,4 @@ A strong aura is more difficult to remove - it can only be replaced or removed b
 ## True True Liao
 * True liao can be used in place of liao to perform the anointing ceremony
 You can use true Liao in place of normal Liao to perform an anointing ceremony. This will create a true aura which can only be removed using true liao and is durable - it will last at least as long as the character is alive and perhaps even longer than that. 
-Ceremonial [[Skills]] further reading
+Ceremonial Skills further reading

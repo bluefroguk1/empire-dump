@@ -20,7 +20,7 @@ A Mine can be upgraded using [[Mithril]] obtained from the Bourse. Each time a M
 To upgrade a mine requires Imperial wains of mithril equal to the level the mine is being upgraded to. So the first upgrade of a starting level 1 mine Costs 2 Imperial wains of mithril, from 2 to 3 costs 3 Imperial wains, etc.
 ## Diversification
 A mine can be diversified to sacrifice production of one material for another. To diversify a mine costs one throne. Each time a mine diversifies, the owner chooses a different resource from the list for mines; the mine produces 2 ingots of the new material at the expense of 2 less of the original material. 
-## [[Rituals]]
+## Rituals
 The table below shows a list of the rituals in both [[Imperial lore]] and [[Urizen]] lore which can affect the production of a business.
 {| class="wikitable sortable"
 ! Ritual

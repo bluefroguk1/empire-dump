@@ -16,10 +16,10 @@ tags:
 ## The Manifesto
 The Order of the [[Golden Pyramid]] holds the following to be true:
 * [[Magic]] is a commodity like any other and its practitioners should not be subjected to any undue expectation or requirement
-* The talents of [[The Empire]]'s artisans are no less a valuable magical resource than [[Spellcasting]] and [[Rituals]]
+* The talents of [[The Empire]]'s artisans are no less a valuable magical resource than [[Spellcasting]] and Rituals
 * Magic has the power to strengthen by enriching and prospering
 The Order of the Golden Pyramid therefore exists to:
-* Stand up for those magicians who are pressured to use their [[Skills]] for free, like a servant or slave
+* Stand up for those magicians who are pressured to use their Skills for free, like a servant or slave
 * Support the application of magical resources in matters of economic gain that inevitably bring [[Prosperity]] to the Empire as a whole
 * Stand up for the artisans and promote their interests across the Empire
 ## Symbol

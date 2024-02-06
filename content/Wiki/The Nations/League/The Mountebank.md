@@ -17,7 +17,7 @@ The Mountebank is used in stories and [[Magic]] that subverts and underMines exp
 She never acknowledges her own limitations, though can be quick to exploit the Weaknesses of others. A merciless seductor and an inveterant rake, she remains a likeble rogue, even when committing the most deceitful acts.  
 There is a dark side to The the Mountebank - she is wild and unconstrained. She says and does things that shock others, and she urges other characters to embrace riot and revellry when they should look to their duties and loyalties.
 In street theatre, the Mountebank is a hero, a wily counterpart to The Captain who succeeds through his wits and his cleverness.
-Magical Associations: She is most used in [[Rituals]] that deal with transformation and deception, but she also works with magic that unleashes primal forces, grants strength or enCourages destructive behaviour. She is associated with the virtues of [[Ambition]] and [[Courage]].
+Magical Associations: She is most used in Rituals that deal with transformation and deception, but she also works with magic that unleashes primal forces, grants strength or enCourages destructive behaviour. She is associated with the virtues of [[Ambition]] and [[Courage]].
 Realms: The The mountebank is associated with spring (destruction, chaos, blood) and night (transformation, disguise, concealment).
 Identities: As one of the personae, the mountebank usually appears named after one of the four rivers. Her name influences her character, which in turn influences the magical role she plays.
 * ''Scorrero'' – used for magic that grants Health or that deals with positive or relaxed emotions

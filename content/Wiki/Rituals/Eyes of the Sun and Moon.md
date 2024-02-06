@@ -24,7 +24,7 @@ Strength is estimated in thousands using the terms low (between 0 and 333); mid 
 Each contributor receives the same Vision. These visions are not symbolic, but clEarly detailed within the limitations of the spell. 
 If the territory is under an effect that obscures information such as [[Drawing the Penumbral Veil]], the ritual can only penetrate it if it has been performed with a magnitude at least equal to that of the shroud. Otherwise only the presence, [[Realm]], and magnitude of the concealing effect are revealed. Likewise, if one or more military forces in the area are under an obscuring effect, the ritual will reveal the presence, realm, and magnitude of that effect, but no other information about that target - including whether it is a fortification or an army. The ritual reveals information about other forces in the area as normal.
 ### Additional Magnitude
-You may increase the magnitude of the ritual in order to pierce more powerful [[Rituals]] of concealment.
+You may increase the magnitude of the ritual in order to pierce more powerful Rituals of concealment.
 ### OOC Elements
 The result of this spell may be delivered in the form of a written vision. If this is the case, the contributors can study their vision as long as they like, but cannot discuss it or make notes until they have handed the slip back to a referee; at that point they are free to roleplay however they like - they may play through the process of receiving the vision, or act as if they have been in waking trance and the vision has already passed. All information divined by this ritual is correct at the time of casting.
 ## Description

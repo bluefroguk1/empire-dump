@@ -103,7 +103,7 @@ The Gilded Horn has always been politically active, but since the death of Britt
 ### Camorra Barossa
 * Motto: Steel guard my body, Virtue guard my soul
 The Camorra Barossa, better known as the Crimson Foxes, are an old Family from Tassato Regario, with roots going back pre-Empire. Members are all part of the Barossa line by birth, marriage or adoption.
-Many of the camorra have been noted actors and playwrights and commonly have a love of [[Dramaturgy]], both for [[Rituals]] and entertainment. They only have limited involvement in League politics, but are closely allied to the [[Empress Lisabetta]].
+Many of the camorra have been noted actors and playwrights and commonly have a love of [[Dramaturgy]], both for Rituals and entertainment. They only have limited involvement in League politics, but are closely allied to the [[Empress Lisabetta]].
 Since the Interregnum, members of the camorra have served in numerous imperial positions, but are probably most well known for their martial and Bourse interests. The Family regularly sends soldiers to support the armies and have given the League two generals, in addition to numerous exploits via the [[Sentinel Gate]]. Enemies of the camorra are quick to joke about the tragic litany of deaths in battle they have endured, but the Foxes point with pride to the victories those deaths have won. One such death was [[Nicolo Barossa]], the exemplar of Prosperity, who was the first [[Master of the Imperial Mint]] after the death of Britta and one of several members of the Family to sit on the Bourse since.
 ### Jolly Jackdaw Cartel
 * Motto: On laughter, we soar! 

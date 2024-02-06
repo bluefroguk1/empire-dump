@@ -23,7 +23,7 @@ The [[Ambassador]] tried to catch her breath, but did not take her eyes off the 
 "You should have thought of that, madame Ambassador, before you agreed to spy on the Empire." The assassin's voice likewise was light, unconcerned, as if they were discussing minor matters over a glass of wine.
 "The venom is in your blood too, assassin. When my guards break down that door you will not draw two further breaths ..."
 The assassin shrugged, one-shouldered. He was breathing heavily, two nasty gashes in his chest from her twin blades turning the front of  of his white shirt a deep, angry crimson.
-"It does not matter to you, Madame, because by then you will be far beyond the help of even your peoples' famed apothecary [[Skills]]."
+"It does not matter to you, Madame, because by then you will be far beyond the help of even your peoples' famed apothecary Skills."
 He shifted slightly,and she moved almost at the same time to place one of the pillars of her great canopied bed between them. The assassin had a crossbow on his back, but if he tried to ready it she would strike fast enough to kill him and he knew it.
 "My Signeura told me a story when I was young," said the assassin suddenly, out of nowhere. "Perhaps you have heard it? It concerns a scorpion who wished to cross the river Gancio, and a frog who served as his ferryman. Perhaps you are familiar with it?" 
 The Ambassador made an impatient gesture.

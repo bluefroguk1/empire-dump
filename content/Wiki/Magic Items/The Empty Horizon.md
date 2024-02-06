@@ -11,7 +11,7 @@ revision_id: 47999
 ---
 
 ## Description
-The covenstone known as [[The Empty Horizon]] draws upon the [[Realm]] of Day to [[Empower]] a coven with additional capacity for performing [[Rituals]], drawing upon the bonds created between members of the coven.
+The covenstone known as [[The Empty Horizon]] draws upon the [[Realm]] of Day to [[Empower]] a coven with additional capacity for performing Rituals, drawing upon the bonds created between members of the coven.
 TextCovenstone
 ## Rules
 Paraphernalia

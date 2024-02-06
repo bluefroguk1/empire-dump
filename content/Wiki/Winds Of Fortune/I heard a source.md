@@ -12,7 +12,7 @@ revision_date: 2022-04-05 17:33:07+00:00
 revision_id: 88046
 ---
 
-"RegretfUlly therefore I must inform you that due to recent [[Events]], no occupant of the City of Gold and Lead is available to accept the invitation from the Autumn [[Archmage]] at this time. I have been tasked to convey this message and to underline that no insult is meant by this declination. Instead the [[Eternal]] Bazaar hopes that the Archmage will be gratified on the basis of these excellents offers which I now convey to you."
+"RegretfUlly therefore I must inform you that due to recent Events, no occupant of the City of Gold and Lead is available to accept the invitation from the Autumn [[Archmage]] at this time. I have been tasked to convey this message and to underline that no insult is meant by this declination. Instead the [[Eternal]] Bazaar hopes that the Archmage will be gratified on the basis of these excellents offers which I now convey to you."
 The creature paused, obviously waiting for some response, perhaps an indication that it should continue, perhaps something more. Robin Wordsmith could only stare and scratch his head. He wasn't at all sure what to make of this, in fact he was fairly sure he wasn't supposed to make anything of this. That would be someone else's job - he should probably just focus on writing important things down. Having decided on that course of action, he felt it best to start at the start.
 "Tha's not from t'City of Gold and Lead then?" he asked. Best to clear up that point first he figured.
 "Not". The creature stopped despite the fact that this was clEarly not a sentence. It seemed to think for a moment and then said "Yet".

@@ -18,7 +18,7 @@ Casting time|2 This ritual targets an opaque container.
 ### Effects
 When the ritual is performed, the ritualists put five ingots or measures of special [[Materials]] in an opaque container. At the completion the contents disappear, presented to the factotum of [[Estavus]], an Autumn [[Eternal]] who is always hungry for raw materials from the mortal [[Realm]].
 It will take at least an hour for anything to happen, potentially longer. After this time, when the box is opened, it will contain a single pouch of ashes from the fire-mountain Shikal. Each pouch of ash can be used as part of an Autumn ritual as if it were up to three crystals of mana. All the ashes in a pouch are consumed regardless of how much is needed, but the pouch can be passed among multiple Magicians who are contributing to the ritual if desired.
-The ashes have no use in [[Spellcasting]], or in the [[Rituals]] of other realms.
+The ashes have no use in [[Spellcasting]], or in the Rituals of other realms.
 ### Additional targets
 The ritual can affect additional ingots. Each additional five ingots included in the ritual increases the magnitude by 2, and provides an additional pouch of Warm ashes. Additional ingots must be placed in the same container but need not be the same type of material.
 ## Description

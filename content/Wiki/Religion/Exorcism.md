@@ -16,7 +16,7 @@ Some spirits are capable of forming (or co-opting) a body to allow them to physi
 Exorcism does not affect Auras, such as those created by [[Anointing]] or [[Hallow]], nor will it remove a mark on an [[Aura]] such as those created by [[Testimony]] or [[Excommunication]].
 ## Performance
 * Requires a dose of liao and at least ten seconds appropriate roleplaying
-* Requires the presence and [[Assistance]] of a referee if performed on an object
+* Requires the presence and Assistance of a referee if performed on an object
 * Can be used on an unwilling target
 * Must overcome the strength of the malign spirit
 Performing an Exorcism uses a dose of liao. Performing the ceremony requires at least ten seconds of appropriate roleplaying and the target must be close enough to touch throughout.
@@ -34,4 +34,4 @@ The strength of the ceremony determines whether it can overcome a resilient spir
 * True Liao can be used in place of Liao to perform the exorcism ceremony
 You can use true liao in place of normal liao to perform an exorcism ceremony. In this case, the exorcism is automatically powerful enough to banish any spirit, possession, or haunting presence, even when wielded by a single priest.
 Theory suggests that a ghost with anchors that is subjected to a true liao exorcism will find it extremely difficult to reform, and is likely to be greatly weakened, but there has been little Opportunity for experimentation to prove this one way or another.
-Ceremonial [[Skills]] further reading
+Ceremonial Skills further reading

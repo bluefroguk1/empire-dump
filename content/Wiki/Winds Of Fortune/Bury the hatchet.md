@@ -38,7 +38,7 @@ In each case, the eternals have specified the topics about which they or their r
 ### Meraud
 * Meraud will attend a formal parley in the Hall of Worlds at eight-o-clock Friday evening
 The Summer Enchanter, Meraud, the Golden Magician, has let it be known that he has received a plenipotentiary from Archmage Solomon. He has been invited to discuss a certain ritual, and is more than happy to talk about that and perhaps even a few other things related to it, but cautions that this is not a [[General]] free-or-all chance to demand favours from the ''Lord of the Lake'' - he is not some desperate buffoon eager to trade trinkets for the approval of the Conclave after all! 
-The herald who delivers the message - a slim creature marked with eerie magical sigils that seemed to move freely across their emerald green skin - mentions also that after more serious matters have been discussed, Meraud also wishes to speak with certain individuals and requests that the Archmage arrange for them to be there. He would like to talk with '' Enchantress Vandale'', of House Vandale, on the matter of a gift. He would also like to speak to Carlos [[Guerra]] and to the leaders of the ''Eternal [[Family]]'', and the ''Concordium of [[Pallas]]'', who made the [[Hakima]]'s [[Rituals]] a reality. The herald gives no further details as to what this might be concerning.
+The herald who delivers the message - a slim creature marked with eerie magical sigils that seemed to move freely across their emerald green skin - mentions also that after more serious matters have been discussed, Meraud also wishes to speak with certain individuals and requests that the Archmage arrange for them to be there. He would like to talk with '' Enchantress Vandale'', of House Vandale, on the matter of a gift. He would also like to speak to Carlos [[Guerra]] and to the leaders of the ''Eternal [[Family]]'', and the ''Concordium of [[Pallas]]'', who made the [[Hakima]]'s Rituals a reality. The herald gives no further details as to what this might be concerning.
 All things being equal, Meraud expects the parley to commence at around eight-o-clock on Friday evening.
 ### Whisper Gallery
 * The Whisper Gallery will send emissaries to a formal parley in the Hall of Worlds at half-past-ten on Friday
@@ -80,7 +80,7 @@ As a parting aside, the herald also mentions to the civil servants that if anyon
 ## Timetable
 {| class="wikitable"
 |-
-! Day !! Time !! Eternal !! Realm !! Formal Parley !! [[Accessibility]]
+! Day !! Time !! Eternal !! Realm !! Formal Parley !! Accessibility
 |-
 | Friday|| 20:00 || Meraud || Summer || Yes || Takes place in Hall of Worlds
 |-

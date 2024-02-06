@@ -56,7 +56,7 @@ We know that Emperor Nicovar was exacting in his destruction of information, wha
 
 There is a lot that we do not know about the [[Mountains of the Moon]] and the people of Tsark that perhaps could be learned through diplomatic effort. It may prove difficult due to their inSular nature however. I cannot help but wonder what caused them to be closed off. This is of particular interest to me as the trail of Terunael refugees from Kaban leads through Axos and into The Mountains.
 
-### THE [[Assistance]] OF OTHER ETERNALS
+### THE Assistance OF OTHER ETERNALS
 
 Beyond the use of Swim Leviathan's Depths and speaking with Ylenrith about Abraxus Stones there are other eternals we could seek information from.
 

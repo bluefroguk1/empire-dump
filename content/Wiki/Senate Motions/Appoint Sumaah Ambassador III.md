@@ -12,7 +12,7 @@ revision_id: 86348
 ---
 
 __NOTOC__
-Motion to appoint an [[Ambassador]] to the [[Ambassador to the [[Sumaah]] Republic]]
+Motion to appoint an [[Ambassador]] to the [[Ambassador to the Sumaah Republic]]
 Proposed by [[Karov]], Seconded by [[Kallavesa]]
 ### Overview
 * This motion appoints a citizen to the position of Ambassador to the [[Sumaah Republic]] and to have the power to deal with the Sumaah Republic on behalf of [[The Empire]].

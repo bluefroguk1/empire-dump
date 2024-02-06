@@ -21,7 +21,7 @@ in the territory the trods will fray once more.
 Another avenue to explore in defeating The the Vallorn is the aid of Eternals. It has
 been proven that a boon from Surut can be especially effective against
 vallornspawn (and any other nearby vegetation) and [[Llofir]] has previously
-offered his [[Assistance]] (though he was placed under Enmity before this could
+offered his Assistance (though he was placed under Enmity before this could
 be investigated further) The Winter [[Eternal]], [[Kaela]], has also voiced dislike of
 the existence of the Vallorn as it has no end. In opposition to this is the hand
 of Yaw'nagrah - she has repeatedly tampered with The the Vallorn, creating new
@@ -99,7 +99,7 @@ as a Husk.
 magic to envenom their enemies.
 
 *[[Singing Stones]]* - While the people of Navarr have only discovered one of these
-stones its ability to bind multiple covens together to cast anti-Vallorn [[Rituals]] is
+stones its ability to bind multiple covens together to cast anti-Vallorn Rituals is
 priceless.
 
 **Rituals of Use in Fighting the Vallorn**

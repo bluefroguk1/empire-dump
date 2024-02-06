@@ -29,7 +29,7 @@ Description: The threats that beset the Empire are wily and cunning, and few wil
 Description: This aura encourages pilgrims to try to address the source of the dangers that threaten them, rather than directing their efforts against the most visible or immediate threat. The Vigilant understand the importance of rooting out a threat to ensure that it is completely destroyed. This aura is popular with some [[Urizen]] priests who draw parallels with the [[Net of the Heavens]], arguing that the Aura drives pilgrims to find the pivotal node, the most effective point to act against the danger.
 ### The Preparations of Vigilance
 * ''You feel a need to prepare for the threats that are to come. You feel an urge to call out the complacency of those who are blind to the dangers.''
-Description: Many priests of the Path of Vigilance use this Anointing as a call to arms, especially for those who they feel have become complacent and are unready for the dangers that may come. Other Vigilant groups or sects may use this Anointing more regularly to encourage regular drilling and practicing of [[Skills]].
+Description: Many priests of the Path of Vigilance use this Anointing as a call to arms, especially for those who they feel have become complacent and are unready for the dangers that may come. Other Vigilant groups or sects may use this Anointing more regularly to encourage regular drilling and practicing of Skills.
 You don't own it unless you can defend it.
 ## [[Consecration]]
 Consecration is the ceremony used to create an Aura on a clEarly defined location. There is only one Aura for each virtue, and all priests create the same one when they use this skill.

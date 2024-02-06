@@ -29,7 +29,7 @@ There was a scraping sound, as chairs were pushed back from the second table. Tw
 "You know the name of the Troupe of the Seventh Seal, of course? You know our performances are... Spellbinding?"
 "What a coincidence..." said the first as the pair pulled back their cloaks, and each drew short sword and rod.
 The second added: "Not Bravos, but 'braggarts'. Though we can match words with deeds: can you and yours...?"
-The "[[Fight]]" was short. Two of the Sarvan Troupe had hardly drawn before they were slammed back to the wall. The one called Mikael was stuck fast to the floor, unable to offer any [[Assistance]] to his father, last in the fight.
+The "[[Fight]]" was short. Two of the Sarvan Troupe had hardly drawn before they were slammed back to the wall. The one called Mikael was stuck fast to the floor, unable to offer any Assistance to his father, last in the fight.
 In a final flurry, one of the Tassato mountebanks swiveled with a flourish, swept his rod round in a languid arc, and touched the other on the chest. The Empowered fighter stabbed in low octave, and the Sarvan actor in The the Mountebank's mask fell to the floor, grunting in pain, as his left leg collapsed under him.
 "As I said. You will kneel..."
 The occupants of the third table had paused in their carousing to watch the scuffle. A man in parti-coloured green-and-blue of utter flamboyance stood, and swept a generous bow:

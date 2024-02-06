@@ -40,7 +40,7 @@ Lisabetta's soul was exaMined with the rite of [[Insight]] before and after the 
 
 Livia's soul was also examined with the rite of Insight before and after the vision. Both before and after the vision, her soul had a [[Dedication]] to [[Wisdom]] with the strength of seven priests, and a testimony of "Teacher" with the strength of seven priests.
 
-The coven of the [[Spire]] of Auric Horizon also performed divination [[Rituals]] on Lisabetta after the vision to gain information about her past life and corroborate the vision.
+The coven of the [[Spire]] of Auric Horizon also performed divination Rituals on Lisabetta after the vision to gain information about her past life and corroborate the vision.
 
 The Day divination ritual indicated that the vision happened 300 to 400 years ago, and showed a [[Merrow]] woman seeing Lisabetta as she is now, reflected in a mirror. She builds a delicate machine part with a crystal in it. Earl Nimue de Gavim (possibly "de Gauvain") contemplates it.
 

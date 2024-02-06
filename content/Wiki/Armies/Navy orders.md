@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 Each admiral can issue a single set of orders for the navy they control. The orders should describe a broad strategic plan representing what the admiral would like the navy to achieve on campaign in a territory over the Downtime before the next event.
-A military campaign is not a single battle, a campaign is a prolonged period of Warfare that takes place over the whole territory in the three months between [[Events]].
+A military campaign is not a single battle, a campaign is a prolonged period of Warfare that takes place over the whole territory in the three months between Events.
 ## Movement
 * A navy can only move to a territory containing a Region with the coastal keyword
 Admirals may issue orders to attack or defend any territory their navy can reach. A navy can only operate in sight of land, so it may only move to territories that include one or more regions with the coastal keyword. It is not possible to move a navy out onto the open oceans far away from land.

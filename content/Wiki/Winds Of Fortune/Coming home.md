@@ -49,7 +49,7 @@ During the Autumn Equinox 381YE, GunnBrand Ironwill was sent by the National [[A
 We do not compromise even with ourselves. The mantle of the hero is not easily shrugged on and off again, it is a quality of the soul that endures beyond life. We send X with 50 doses of liao to remind all the people of Wintermark of the path that we all walk.
 If the Wintermark Assembly passes this mandate then the effect of the current mandate will become ''permanent'' for the foreseeable future. Any Wintermark army that fights the Jotun will gain 10% more victory points but inflict 20% less casualties. The change of tactics that ensures this reduction of casualties will be apparent to everyone present in the territory where the campaign takes place. This represents the warriors of Wintermark choosing to fight the Jotun as equals in honour.
 In addition, the warriors of Wintermark will look to their history for lessons on how to comport themselves. As a result, whoever is [[General]] of the [[Fist of the Mountains]] and the [[Green Shield]] will receive a single opportunity at the following summit to update the quality of their army to better reflect the heroic [[Legacy]] of the three peoples of Wintermark.
-## [[Accessibility]]
+## Accessibility
 Accessibility guidance for the conjunction is available below. Please be aware that this information may contain possible spoilers.
 CategoryStatus
 Combat Unlikely or Contained

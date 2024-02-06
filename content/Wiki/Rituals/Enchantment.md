@@ -12,7 +12,7 @@ revision_id: 100484
 ## Overview
 An [[Enchantment]] is a persistent, beneficial Magical effect, usually produced by a ritual, or less commonly by an [[Eternal]]. 
 ## Targeting
-*Formulaic [[Rituals]] that create enchantments must be cast on a target
+*Formulaic Rituals that create enchantments must be cast on a target
 *A target can only ever be under a single enchantment at once
 Any given target may only be under a single enchantment. If a new enchantment is created on a target, it completely removes the Earlier enchantment. Most rituals can only be cast on one type of target; this will be specified in the ritual description.
 A ritual Enchantment commonly targets:
@@ -30,7 +30,7 @@ For example, [[Bound by Common Cause]] affects an [[Imperial army]]. To cast it,
 *Season duration enchantments last until the start of the next Empire event
 The majority of enchantments are either 'encounter' - a duration that lasts for a single quest, skirmish or battle or 'season' - expiring at the start of the next Empire event that Profound Decisions runs.
 * Encounter Rituals that last for an encounter expire after the end of the next quest, skirmish, or battle the character goes on. They automatically expire at the end of the current event if they have not been used beforehand. Occasionally a quest may not involve any combat and our team will specify that the quest has not expended the use of any encounter enchantments. If a ref informs you that a quest did not expend your encounter duration rituals, (and only if directly informed by a referee), then they were not expended, even if used during that quest.
-* Season Rituals that last for a season expires immediately ''before'' the start of the next Empire event run by Profound Decisions. This means that the target could also be benefit at any [[Sanctioned events]] that take place before the next event, if the event organizers allowed. Any season or encounter rituals that are cast at player [[Events]] will end before the start of the next Profound Decisions Empire event.
+* Season Rituals that last for a season expires immediately ''before'' the start of the next Empire event run by Profound Decisions. This means that the target could also be benefit at any Sanctioned events that take place before the next event, if the event organizers allowed. Any season or encounter rituals that are cast at player Events will end before the start of the next Profound Decisions Empire event.
 It is possible to make an enchantment permanent through the use of [[Ilium]].
 ## Identifying Enchantments
 *[[Detect Magic]] can detect the presence, [[Realm]], and magnitude of an enchantment on a target

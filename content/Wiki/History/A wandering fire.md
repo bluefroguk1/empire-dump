@@ -54,7 +54,7 @@ As ever, the Wintermark armies fought in a manner that encourages heroism rather
 The Jotun have been driven entirely out of Sermersuaq, and The Empire now controls two additional rank two fortifications - Olgafsdottirshal in Tanikipari and the Fortress of Kalant in Stark. 
 ## Lions and Song (Battle)
 Request for VolunteersThis event, we are seeking a group of volunteers to help monster for the Saturday battle who would not normally participate in playing and monstering battles. In this battle, they would be playing Thule warlocks, and you can find out more about the request on the Winds of [[War]] page.
-* A desperate plea for [[Assistance]] has been received from Rak Who-Speaks-For-The-Dragons-Undivided
+* A desperate plea for Assistance has been received from Rak Who-Speaks-For-The-Dragons-Undivided
 * The Thule have outlawed slavery and released all their slaves to forestall any arguments against offering them aid on this basis
 * A major conjunction has been identified to ''Jaelwif's Mound'' in Tanikipari, Sermersuaq
 Shortly before the summit begins, several members of the civil service and the [[Ambassador to Otkodov]] receive hastily written winged messengers containing a plea for help from the Thule. It appears that the Jotun have gained the assistance of [[Hayaak]] and are intent on unleashing a warhost of heralds in service to Hayaak, the Gryphon-King of the Summer against the Thule in Sermersuaq. Scores of warlocks, the dragons most prized servants, will be slaughtered if the Jotun succeed, mauling the Thule armies.
@@ -80,7 +80,7 @@ If either of the pair make it back alive they will regroup in Skallahn and look 
 ### Rescue the Thule Warlocks
 * Rescue a group of Thule Warlocks
 * Treat their injuries before moving them to safety
-A group of Thule warlocks were performing [[Rituals]] at the regio, casting Summer enchantments on the Dragon's champions when the Jotun's advanced scouts arrived. They have been taken prisoner by the Jotun, and some of them have been badly wounded in the fighting. If the Empire has the time and the inclination, they may be able to mount a rescue to recover the prisoners and help them make their way to safety. Any rescue party will need to include some skilled surgeons - the Thule will need their wounds binding before they can flee. The Empire would need to escort them to the edge of the battlefield near the [[Sentinel]] Gate for them to get safely away.
+A group of Thule warlocks were performing Rituals at the regio, casting Summer enchantments on the Dragon's champions when the Jotun's advanced scouts arrived. They have been taken prisoner by the Jotun, and some of them have been badly wounded in the fighting. If the Empire has the time and the inclination, they may be able to mount a rescue to recover the prisoners and help them make their way to safety. Any rescue party will need to include some skilled surgeons - the Thule will need their wounds binding before they can flee. The Empire would need to escort them to the edge of the battlefield near the [[Sentinel]] Gate for them to get safely away.
 ## To Find Again (Conjunction)
 * There is a conjunction to Avointaivas in Stark that presents an opportunity to recover a lost relic of Wintermark
 * The Mystics of Ishal have tasked the ''Champion of Wintermark'' with arranging a group to recover the lost relic

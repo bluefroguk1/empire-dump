@@ -12,7 +12,7 @@ revision_id: 97405
 
 This page is about the [[Declaration]] by the [[Imperial Conclave]]. For details of [[Imperial lore]] and the ritual list see [[Formulaic ritual]].
 ## Overview
-[[Rituals]] that are part of Imperial lore are widely available to any Imperial citizen. Any Imperial magician can learn to master a Formulaic ritual that is part of Imperial lore, making the ritual significantly easier and cheaper to cast. New rituals are added to Imperial lore by this Declaration. It instructs the Civil Service to arrange for a specific ritual text to be duplicated and disseminated to magicians across [[The Empire]], adding it to the body of Imperial lore that is available to every citizen.
+Rituals that are part of Imperial lore are widely available to any Imperial citizen. Any Imperial magician can learn to master a Formulaic ritual that is part of Imperial lore, making the ritual significantly easier and cheaper to cast. New rituals are added to Imperial lore by this Declaration. It instructs the Civil Service to arrange for a specific ritual text to be duplicated and disseminated to magicians across [[The Empire]], adding it to the body of Imperial lore that is available to every citizen.
 Once a ritual is added to Imperial lore it is currently impossible to remove it. The best the Conclave can do is to declare performance of the ritual to be illegal with the Declaration of [[Interdiction]]. The Civil Service once proposed the [[Imperial Senate]] grant the Conclave the power to remove a ritual from Imperial lore, but they declined to take up the option.
 The [[Dean of the Lyceum]] is Empowered to raise a Declaration of Imperial lore to the agenda once each summit.
 ## Necessary Details

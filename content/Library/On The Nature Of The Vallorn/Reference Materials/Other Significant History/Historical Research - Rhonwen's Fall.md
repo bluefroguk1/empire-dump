@@ -12,7 +12,7 @@ I have tried to annotate where possible, although after my recent ordeals I apol
 
 **Rhonwen and The [[The Vallorn]]**
 
-In the Early years of [[The Empire]], with the [[Assistance]] of their new allies, the [[Navarr]] launched a major offensive into the territory surrounding the Terunael city known as Seren. A combination of the (relative) peace wrought by the nations that would become the Empire, followed by their unification, had allows the trods to expand more than at any time since their initial creation. Increased security and the protection of the [[Imperial Law]] allowed the Navarr Stridings to travel the trods in greater numbers than ever before in their history.
+In the Early years of [[The Empire]], with the Assistance of their new allies, the [[Navarr]] launched a major offensive into the territory surrounding the Terunael city known as Seren. A combination of the (relative) peace wrought by the nations that would become the Empire, followed by their unification, had allows the trods to expand more than at any time since their initial creation. Increased security and the protection of the [[Imperial Law]] allowed the Navarr Stridings to travel the trods in greater numbers than ever before in their history.
 
 The time being right, the Navarr engaged on one of their most ambitious projects to date. Specifically, the attempt to reclaim an entire territory from the [[Vallorn]]. The central city of Seren was chosen because of its location. Since the [[Trod]] network was completed, Seren had benefitted the most from the slow leeching of The the vallorn's power and was judged to be ripe for liberation.
 

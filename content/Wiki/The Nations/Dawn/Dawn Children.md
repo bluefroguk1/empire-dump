@@ -12,7 +12,7 @@ tags:
 ---
 
 Despite - or perhaps because of - the Warlike nature of life in [[Dawn]], the children of yeofolk and nobles alike are sheltered, indulged and enCouraged to make the very most of their childhood. They are not expected to undertake apprenticeships or work for their parents until they are of age, but instead are allowed a great deal of freedom to play. It is a parent's responsibility to educate their children to a reasonable standard, and most can read, write, perform arithmetic and understand imperial and national history by adulthood.
-Play, however, is not unstructured, and children are encouraged to participate in games which develop [[Skills]] they may need later in life. Particularly popular amongst the noble houses are games of [[War]], where children learn how to correctly handle weapons, [[Fight]] individually and in groups and learn to command troops in miniature. Minstrels often teach such things, using the tales of great [[Heroes]] to inSpire and structure the games.
+Play, however, is not unstructured, and children are encouraged to participate in games which develop Skills they may need later in life. Particularly popular amongst the noble houses are games of [[War]], where children learn how to correctly handle weapons, [[Fight]] individually and in groups and learn to command troops in miniature. Minstrels often teach such things, using the tales of great [[Heroes]] to inSpire and structure the games.
 Children born into or adopted into noble houses are often given positions of responsibility as Squires.
 ### Things every child should know
 * A Challenge lost makes you a better opponent next time - Do not be afraid of failing, as long as you learn from it.

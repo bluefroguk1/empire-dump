@@ -11,7 +11,7 @@ revision_id: 83287
 ---
 
 ## Overview
-Magical traditions are methods and approaches that magicians in the world of Empire use to perform their [[Magic]]. A tradition represents a shared set of guidelines that magicians can use to add additional significance to their [[Rituals]], not a prescriptive list of elements that must be included or your ritual will fail. The different traditions represent different ways of performing magic and while they are primarily useful for ritual magic, they have applications in [[Spellcasting]] as well as crafting items.
+Magical traditions are methods and approaches that magicians in the world of Empire use to perform their [[Magic]]. A tradition represents a shared set of guidelines that magicians can use to add additional significance to their Rituals, not a prescriptive list of elements that must be included or your ritual will fail. The different traditions represent different ways of performing magic and while they are primarily useful for ritual magic, they have applications in [[Spellcasting]] as well as crafting items.
 The most proMinent Magical traditions in [[The Empire]] are [[Astronomancy]], [[Blood magic]], [[Dramaturgy]], rune magic, and [[Music of the spheres]].
 ## Traditions in the Empire
 The prominent magical traditions represent different frameworks, common ideas that magicians have shared that help them to wield magic. It is very common for a coven of magicians to use the established motifs and themes when working their Magic; while some magicians develop their own unique approach to Magic, using different symbols and words of power, most employ the tradition or traditions they were trained with. 

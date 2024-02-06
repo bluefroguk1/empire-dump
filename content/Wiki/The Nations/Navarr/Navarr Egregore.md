@@ -25,5 +25,5 @@ Tal and Rhiannon have a strong friendship, even though they have spent little ti
 ### Avery (she/her)
 Hercynian born Avery was embodied by the Egregore spirit, Liaven, after she Branded herself to the Nation in 381YE. 
 Branded with the mark of the Three Mothers on her cheek; a constellation that represents consequences and the [[Ties that Bind]] families, clans and communities; she works to strengthen the Navarr from within, while not forgetting the mistakes of the past. 
-Avery is skilled in Spring [[Spring magic]] and can often be found working with the Navarri Vates and will leap at any Opportunity to be part of the casting of "[[The Dance of Navarr and Thorn]]". When not casting [[Rituals]], Avery enCourages every Navarri citizen to find their way in the Great Dance, and together they will strengthen the Nation as a whole.
+Avery is skilled in Spring [[Spring magic]] and can often be found working with the Navarri Vates and will leap at any Opportunity to be part of the casting of "[[The Dance of Navarr and Thorn]]". When not casting Rituals, Avery enCourages every Navarri citizen to find their way in the Great Dance, and together they will strengthen the Nation as a whole.
 ### Darrach (they/them)

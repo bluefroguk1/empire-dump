@@ -28,7 +28,7 @@ A mana site can be upgraded using [[Mithril]] obtained from the Bourse. The firs
 To upgrade a mana site requires Imperial wains of mithril equal to the level the mana site is being upgraded to. So the first upgrade of a starting level 1 mana site Costs 2 Imperial wains of mithril, from 2 to 3 costs 3 Imperial wains, etc.
 ## Diversification
 A mana site cannot be diversified.
-## [[Rituals]]
+## Rituals
 The table below shows a list of the rituals in both [[Imperial lore]] and [[Urizen]] lore which can affect the production of a mana site.
 {| class="wikitable sortable"
 ! Ritual

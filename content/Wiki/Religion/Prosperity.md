@@ -33,7 +33,7 @@ In [[Wintermark]] Prosperity is symbolised by the magpie, while in [[Varushka]] 
 During their Spring festival, the [[Urizen]] use yellow or golden flowers to represent Prosperity.
 ## Further Reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Prosperity here.
-* You can learn about the [[Skills]] that priests can use to support the virtue of Prosperity here.
+* You can learn about the Skills that priests can use to support the virtue of Prosperity here.
 ### The Seven Virtues
 * [[Ambition]]
 * [[Courage]]

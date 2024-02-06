@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- Crew
-- Game-Design
+IgnoreLinking: true
+tags:
+  - Crew
+  - Game-Design
 Title: What we do
 aliases:
-- What_we_do
+  - What_we_do
 draft: false
 revision_date: 2023-12-29 18:03:59+00:00
 revision_id: 106658

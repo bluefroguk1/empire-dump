@@ -26,7 +26,7 @@ If their aura is not concealed then they must inform you of their species (human
 You cannot normally perform a quick insight on an object.
 ## Performing a Thorough Insight
 * Requires a dose of liao and and at least ten seconds of appropriate roleplaying
-* Requires the presence and [[Assistance]] of a referee
+* Requires the presence and Assistance of a referee
 * The target must be within 20 feet
 * Reveals information about the Aura of the target
 * Orcs can be the subject of a thorough insight
@@ -49,4 +49,4 @@ While priests can cooperate to perform an insight ceremony, there are no benefit
 ## True True Liao
 * There is no benefit to using true liao to perform the insight ceremony.
 While true liao can be used in the place of Liao to perform an insight ceremony, it provides no additional information. 
-Ceremonial [[Skills]] further reading
+Ceremonial Skills further reading

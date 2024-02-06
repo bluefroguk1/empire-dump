@@ -20,7 +20,7 @@ The Order of the [[Silver Chalice]] holds the following to be true:
 *Healing magic has vast amounts of raw potential, but is complemented by the precise nature of physical healing
 *The strength of the Empire relies on its citizens, thus by keeping citizens healthy, we strengthen the Empire
 The Order of the Silver Chalice therefore exists to:
-*Utilise the immensely practical applications of healing magic for the good of the empire, promote understanding of healing magic and research new healing [[Rituals]] and spells
+*Utilise the immensely practical applications of healing magic for the good of the empire, promote understanding of healing magic and research new healing Rituals and spells
 *Ensure that conclave is reminded of the value of life, and that it makes decisions with that value in mind 
 *Work with healers, physicks and apothecaries across the empire, including bodies that represent such individuals, such as the [[Anvil]] Hospital
 *Look into supporting long term efforts to aid the infrastructure (and foundations) of The Empire

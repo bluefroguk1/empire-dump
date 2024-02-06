@@ -11,7 +11,7 @@ revision_id: 95289
 ## [[Eternal]] of Summer
 ### Sobriquets
 [[Barien]] is called the ''Iron Duke''. 
-He is sometimes called the ''[[Seneschal]] of the Road'', the ''Lord of the [[Crossroads]]'', ''Knight of the Long Road'', the ''Host of Hosts'' or the ''Traveller''. He is the ''Master of Challenges'', the ''Keeper of the Revels'' and the ''Reeve of the Summer Lands''. A common name among the Winterfolk, the [[Jotun]] and the people of the [[Commonwealth]] is ''Barien Dragonforge'', referring to his hidden forge rather than his role as master of challenges - he accepts this title with mild good humour. The [[Sumaah]] and Asaveans alike both call him ''Iron-Staff''. 
+He is sometimes called the ''[[Seneschal]] of the Road'', the ''Lord of the [[Crossroads]]'', ''Knight of the Long Road'', the ''Host of Hosts'' or the ''Traveller''. He is the ''Master of Challenges'', the ''Keeper of the Revels'' and the ''Reeve of the Summer Lands''. A common name among the Winterfolk, the [[Jotun]] and the people of the [[Commonwealth]] is ''Barien Dragonforge'', referring to his hidden forge rather than his role as master of challenges - he accepts this title with mild good humour. The Sumaah and Asaveans alike both call him ''Iron-Staff''. 
 It is unwise to call him the ''Lame'', ''Half-hand'' or ''Maimed Lord'' to his face.
 ### Appearance
 The Iron Duke appears as a man of average height and build. His ears are pointed and his skin is covered with coiling silver and grey marks. The Duke is lame - he favours his right leg, and sometimes leans on his iron-bound staff for support. He makes no secret of the fact that his lameness is a "natural" condition, rather than the result of any injury.

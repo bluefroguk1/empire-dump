@@ -33,5 +33,5 @@ The appointment, replacement, or removal Of The WarMage is made by the [[Declara
 The Warmage serves until they are replaced by another magician using the Declaration of Candidacy. As a title in the Conclave, they cannot be revoked. 
 RecentElections|Warmage
 ## History
-The Warmage was originally responsible for "''helping to arrange magical [[Assistance]] for the armies of the Empire''". During the Summer Solstice 384YE, however, the [[Imperial Senate]] aMended the title to remove this responsibility. At the same time they created the title of [[Imperial Warcaster]] to oversee such [[Rituals]].
+The Warmage was originally responsible for "''helping to arrange magical Assistance for the armies of the Empire''". During the Summer Solstice 384YE, however, the [[Imperial Senate]] aMended the title to remove this responsibility. At the same time they created the title of [[Imperial Warcaster]] to oversee such Rituals.
 Military Council Further Reading

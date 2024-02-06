@@ -64,5 +64,5 @@ Hallow is used to create an aura on an item, such as a weapon, implement, shield
 * ''You are driven to rebuke the envious; those who condemn the deserving for their prosperity demonstrate their unworthiness.''
 ### Hallowing of Giovanni's Retort
 * ''You are driven to defend prosperity and expose the self interest of those who take the just rewards of others.''
-Commentary: The idea that hard work should be its own reward, or that people should be denied their just rewards in the name of some spurious "greater good", deny Prosperity. The Prosperous may choose to share the rewards of their hard work with the deserving, but they should never be coerced into doing so. Altruism - the idea that someone should do something without expectation or reward, or give away their [[Skills]] or possessions - can be seen as little more than theft.
+Commentary: The idea that hard work should be its own reward, or that people should be denied their just rewards in the name of some spurious "greater good", deny Prosperity. The Prosperous may choose to share the rewards of their hard work with the deserving, but they should never be coerced into doing so. Altruism - the idea that someone should do something without expectation or reward, or give away their Skills or possessions - can be seen as little more than theft.
 Auras further reading

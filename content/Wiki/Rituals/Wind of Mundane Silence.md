@@ -18,7 +18,7 @@ Casting time|10 The ritual can only be performed in a [[Regio]]. It cannot be pe
 ### Effects
 At the completion of the ritual, the target Regio is destroyed.
 ## Description
-This ritual ends a Regio permanently. In theory, a regio might be recreated, but there is no guarantee of this. The circumstances that caused the destroyed Regio to form will need to recur, and it will take about the same amount of time. A lonely graveyard might eventually generate another Winter Regio, but it is likely to take as many decades as the original Regio took to form, perhaps longer; there is a theory that [[Events]] that helped [[Empower]] the original regio do not influence the formation of a later regio.
+This ritual ends a Regio permanently. In theory, a regio might be recreated, but there is no guarantee of this. The circumstances that caused the destroyed Regio to form will need to recur, and it will take about the same amount of time. A lonely graveyard might eventually generate another Winter Regio, but it is likely to take as many decades as the original Regio took to form, perhaps longer; there is a theory that Events that helped [[Empower]] the original regio do not influence the formation of a later regio.
 To all intents and purposes, the regio is gone forever.
 Any portal attached to the regio is also destroyed; this usually means that any chamber or hidden [[Realm]] associated with the regio is also destroyed.
 The Magical practice of using this ritual to target the Imperial Regio at [[Anvil]] is interdicted.

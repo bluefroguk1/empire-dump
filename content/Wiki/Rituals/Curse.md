@@ -11,7 +11,7 @@ revision_id: 106241
 ---
 
 ## Overview
-A [[Curse]] is a persistent, harmful Magical effect. [[Imperial lore]] contains many [[Rituals]] that create curses. Most are not illegal although their use is overseen by the [[Imperial Conclave]]. Many Eternals have been known to curse those who cross them, but curses can also be caused by malign magical creatures and sometimes just by exposure to magical forces that have run amok.
+A [[Curse]] is a persistent, harmful Magical effect. [[Imperial lore]] contains many Rituals that create curses. Most are not illegal although their use is overseen by the [[Imperial Conclave]]. Many Eternals have been known to curse those who cross them, but curses can also be caused by malign magical creatures and sometimes just by exposure to magical forces that have run amok.
 A target may be under any number of different curses at once.
 ## Pronouncement of Doom
 *Many ritual curses are delivered using a pronouncement of doom
@@ -29,7 +29,7 @@ Being subject to [[Weakness]] does not prevent someone from delivering a pronoun
 *Most curses last for a year or until they are removed
 *It is easier to create a curse using ritual [[Magic]] than to remove it
 Removing a curse is a significant indicating; rituals to remove a curse effect will almost always be many magnitudes higher than the magnitude of the ritual that created the curse. In most cases, a specific ritual or a minimum magnitude will be named. Each curse is unique, and the method of removing it also tends to be unique - there is no generic ''remove curse'' ritual in Empire.
-Some curses can also be removed by the intervention of a powerful creature or item. Like rituals there is no single [[Eternal]] with the power to remove any curse, rather specific creatures or items have the ability to remove a specific curse. For example, the ability of the Eternal Yaw'nagrah to restore fertility may allow her to remove a curse of infertility, but is likely to be of little use against a [[Curse of Decrepitude]]. Powerful creatures almost invariably require quests or favours in return for removing a curse, and gaining their [[Assistance]] or access to a powerful item are likely to involve difficult quests.
+Some curses can also be removed by the intervention of a powerful creature or item. Like rituals there is no single [[Eternal]] with the power to remove any curse, rather specific creatures or items have the ability to remove a specific curse. For example, the ability of the Eternal Yaw'nagrah to restore fertility may allow her to remove a curse of infertility, but is likely to be of little use against a [[Curse of Decrepitude]]. Powerful creatures almost invariably require quests or favours in return for removing a curse, and gaining their Assistance or access to a powerful item are likely to involve difficult quests.
 It is possible to make a curse permanent through the use of [[Ilium]].
 ## Identification
 *[[Detect Magic]] can identify the presence of a curse

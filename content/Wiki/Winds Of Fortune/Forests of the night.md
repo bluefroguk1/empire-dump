@@ -28,7 +28,7 @@ The fat man raised his impressive eyebrows. "In [[The Empire]]? It's not a myste
 "It has attracted attention of course, and something has happened that ''is'' a mystery, and a secret. I am surprised you are unaWare."
 He growled, low in his throat, and made himself a little larger. "Oh is that why you've interrupted me then? To be smug? Honestly, I can get that at home whenever I want."
 The feathered figure did not respond, but he could see its lips quirked into a smile. So very, very irritating.
-"Look closely, you can see the echoes of the future rippling back along the river, shaping the [[Events]] that are their cause before they happen."
+"Look closely, you can see the echoes of the future rippling back along the river, shaping the Events that are their cause before they happen."
 He flared his nostrils, and tried very hard indeed not to snarl. He tightened his grip on his implement. Then something caught his eye. He crouched again, touching the surface of the water.
 "Oh." he said to nobody in particular. "Oh that's ... unexpected."
 "The wheel turns," said the figure opposite. "The river flows, and the time for things that were cleft to cleave together has come round again. Another Opportunity to study an enigma, one more important than any Magical ritual."

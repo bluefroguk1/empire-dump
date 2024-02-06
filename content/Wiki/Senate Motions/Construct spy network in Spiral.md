@@ -15,7 +15,7 @@ stub
 __NOTOC__
  I hereby Commission a [[Spy network]] in [[Spiral]], to be constructed at the [[Spire]] of Oblivion's Edge using ten [[Mithril]]. This spy network will be ceded to the Night [[Eternal]] [[Sung]], and incurs no ongoing [[Cost]] to the budget.
 ## Overview
-* Commissions a unique Spy network in Spiral, created with [[Assistance]] of the Eternal Sung.
+* Commissions a unique Spy network in Spiral, created with Assistance of the Eternal Sung.
 * The Opportunity to create this network is detailed in the [[The Net of the Realms]] wind of fortune. 
 * During [[Scrutiny]] the Constitutional Court spotted a potential problem with this commission, and have raised an Administrative motion to be deLiberated by the Senate during the Summer Solstice.
 * Announcement

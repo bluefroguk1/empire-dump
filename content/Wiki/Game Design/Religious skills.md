@@ -12,7 +12,7 @@ revision_id: 97903
 ---
 
 ## Overview
-[[Religious skills]] allow characters to invoke and influence spiritual forces. In [[The Empire]], religious power comes from following [[The Way]], the official faith of the Empire. Characters who practice these [[Skills]] are often referred to as ''priests''.
+[[Religious skills]] allow characters to invoke and influence spiritual forces. In [[The Empire]], religious power comes from following [[The Way]], the official faith of the Empire. Characters who practice these Skills are often referred to as ''priests''.
 Every religious skill requires a dose of [[Liao]] to use. Liao is provided to everyone with a [[Congregation]], which is a personal resource. Unlike a magician, a priest does not receive any innate power to use their religious skills. If you intend to make use of your ceremonies, it is well [[Worth]] considering choosing a congregation for your character's personal resource.
 A starting congregation resource produces five doses of liao per event, and also allows a character to participate in the business of the [[Imperial Synod]] - the political body that guides the Empire on spiritual matters.
 The Seven Virtues

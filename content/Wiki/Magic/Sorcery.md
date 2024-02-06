@@ -22,7 +22,7 @@ It is ''not'' possible to name a group, such as a coven or sodality, and declare
 ## Resolution
 ### Sorcery
 * All the named individuals are declared to be sorcerers at the end of that [[Conclave session]]
-* A sorcerer is prohibited from casting any [[Rituals]]
+* A sorcerer is prohibited from casting any Rituals
 * They cannot carry or use magical items and [[Materials]] whose primary purpose is to aid the performance of rituals
 * They cannot deal with eternals or heralds
 If this declaration is made, the resolution comes into effect at the end of the Conclave session. The sorcerer is subject to three prohibitions:

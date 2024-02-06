@@ -57,7 +57,7 @@ The three unique [[Magic Items]] that the koboldi will trade with the Summer Arc
 ### Mountainheart Stone
 * Description: A fist-sized multi-faceted orb of crystal, usually deep red in colour.
 * Form: Paraphernalia. Takes the form of a piece of ritual paraphernalia. The item must be present in the ritual to use its magical properties.
-* Effect: Twice per day the coven may perform a Summer ritual that does not count towards their daily limit of [[Rituals]] performed.
+* Effect: Twice per day the coven may perform a Summer ritual that does not count towards their daily limit of Rituals performed.
 * Roleplaying Effect: When this covenstone is used, each contributor feels an urge to acquire beautiful and valuable things - fine clothes and jewels, masterwork weapons and armour, expensive food and drink. The effect fades over the course of the hour following the ritual.
 ### Deepglimmer
 * Description: A large gemstone, usually a dark colour such as cobalt blue or deep purple, often set into a ring or amulet.
@@ -140,7 +140,7 @@ The remains of the runeforge, coupled with the enthusiasm of the koboldi, and th
 ### Oathwright's Warskirt
 * Description: This leather skirt and sturdy belt can be hung with small items of Worth. It helps an orc magician to survive in the thick of battle, as well as reminding them of the importance of words, promises, and oaths.
 * Form: Armour. Takes the form of a suit of [[Mage]] armour. You must be wearing this armour to use its magical properties.
-* Requirement: You must have both the magician and battle mage [[Skills]] to bond to this item.
+* Requirement: You must have both the magician and battle mage Skills to bond to this item.
 * Effect: You gain one additional rank of endurance. If you are an orc, you gain an additional rank of endurance.
 * Roleplaying Effect: You are aware of the need to choose your words carefully, and take promises very seriously.
 ### Mask of the Dragon

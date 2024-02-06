@@ -82,7 +82,7 @@ Now that Freeborn citizens can choose their [[Tribe]], now more than ever we sho
 ## There is Pride in Sanctuary
 * A hostelry dedicated to helping those seeking sanctuary in the Empire could be built in [[Madruga]]
 One statement of principle that on the surface appears to buck the trend for focusing purely on internal national mattes was raised by Constanza i Kalamar i [[Guerra]] and upheld with a greater majority by the Freeborn national assembly. Not only did it call on the people of the Brass Coast to take Pride in the ties that bind them together, it urged them to support those who find themselves in need of family - albeit in typically Freeborn manner it suggested that helping refugees was as much an investment in the nation as an altruistic act.
-During the Autumn Equinox last year there was some discussion of creating a sanctuary specifically designed to serve as a base of operations for Imperial citizens dedicated to offering [[Assistance]] to those seeking a new home in the Empire. The statement of Constanza i Kalamar i Guerra comes at an opportune time, when the difficulties faced by newcomers to the Empire are all too clear. 
+During the Autumn Equinox last year there was some discussion of creating a sanctuary specifically designed to serve as a base of operations for Imperial citizens dedicated to offering Assistance to those seeking a new home in the Empire. The statement of Constanza i Kalamar i Guerra comes at an opportune time, when the difficulties faced by newcomers to the Empire are all too clear. 
 ### The House of Guerra
 Total Money SpentProduction
 7 Crowns6 [[Liao]]

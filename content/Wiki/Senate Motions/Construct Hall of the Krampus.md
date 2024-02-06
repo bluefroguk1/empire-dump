@@ -15,7 +15,7 @@ __NOTOC__
 To construct a hall for the Krampus in [[Skarsind]].
 Proposed by Skarsind, Seconded by [[Karsk]]
 ### Overview
-* A [[Folly]] built for the Krampus, following recent [[Events]], in Skarsind
+* A [[Folly]] built for the Krampus, following recent Events, in Skarsind
 * Passed
 ### Date
 * Winter 380YE

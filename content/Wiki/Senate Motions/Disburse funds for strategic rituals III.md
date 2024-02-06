@@ -13,7 +13,7 @@ revision_id: 86245
 
 Disbursement of funds for strategic military [[Magic]].''Proposed by [[Morrow]], seconded by [[Weirwater]]''
 ## Overview
-* A request for funds with which to buy [[Materials]] for [[Rituals]] with military applications.
+* A request for funds with which to buy [[Materials]] for Rituals with military applications.
 ## Date
 * Summer 379YE
 ## [[Cost]]

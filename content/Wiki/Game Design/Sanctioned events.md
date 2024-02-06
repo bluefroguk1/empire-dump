@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
-- Rules
+IgnoreLinking: true
+tags:
+  - Events
+  - Rules
 Title: Sanctioned events
 aliases:
-- Sanctioned_events
+  - Sanctioned_events
 draft: false
 revision_date: 2023-12-09 22:22:02+00:00
 revision_id: 106344

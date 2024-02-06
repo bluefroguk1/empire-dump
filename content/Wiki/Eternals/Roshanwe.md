@@ -23,7 +23,7 @@ She has served as a patron for Magicians of the order of the [[Sevenfold Path]] 
 She is closely associated with the rune [[Sular]].
 ### Boons
 Roshanwe despises secrets, especially those that are kept for malicious or spiteful reasons. However, she considers the quest for wisdom and knowledge to be more important than the possession of that knowledge; as such she is loathe to answer important questions, instead preferring to lead others to uncover the truth themselves. The ritual [[Combing the Beach]] allows magicians to secure [[Insight]] from the eternal for their own investigations, for example.
-While Roshanwe is not herself especially interested in foreign trade, she is known to offer aid to mariners of all stripes and may be evoked during the performance of [[Rituals]] such as Sular's Promise.
+While Roshanwe is not herself especially interested in foreign trade, she is known to offer aid to mariners of all stripes and may be evoked during the performance of Rituals such as Sular's Promise.
 "I understand the urgency, I truly do, but I will not, cannot, tell you the name you seek. If I do that, I would deny you the chance to discover the truth, which goes far beyond the syllables of a name - and what is a name, truly?
 "Didn't the prophets put it best when they said 'Wisdom is not always knowing the answer; wisdom is finding the right question'? Or do you contest the truth behind 'test what you learn; only fools accept hearsay as truth'?
 "Ah, would you not call them prophets, those who went before you? That is interesting ... what word would you use,? I wonder, why does the word 'prophet' make you uncomfortable? Please, sit, and let us discuss your reasoning..."

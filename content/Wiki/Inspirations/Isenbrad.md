@@ -12,7 +12,7 @@ revision_id: 106665
 ## Virtue
 [[Isenbrad]] was recognised as a paragon of [[Wisdom]].
 ## Biography
-Isenbrad of the [[Steinr]] was a smith known for excellent [[Judgement]] and good counsel. While there are plenty of stories about his deeds, especially in the northern Empire, very few actual facts have ever been confirmed. The most common story involves a miracle attributed to him. At some point the smith quested with a companion named Godric, opposing a terrible troll kingdom. Upon loss of their weapons, he turned his legendary [[Skills]] to shaping weapons of unmenlting ice from the walls of a cave beneath Runegrott. After he and his companions had been victorious, he carved the secrets of his art upOn the Walls of the ice cave using the [[Runes]].
+Isenbrad of the [[Steinr]] was a smith known for excellent [[Judgement]] and good counsel. While there are plenty of stories about his deeds, especially in the northern Empire, very few actual facts have ever been confirmed. The most common story involves a miracle attributed to him. At some point the smith quested with a companion named Godric, opposing a terrible troll kingdom. Upon loss of their weapons, he turned his legendary Skills to shaping weapons of unmenlting ice from the walls of a cave beneath Runegrott. After he and his companions had been victorious, he carved the secrets of his art upOn the Walls of the ice cave using the [[Runes]].
 One thing that is known for certain is that, after his death, he was laid to rest in the swamps of [[Kallavesa]]; he is perhaps one of the most  famous Steinr [[Heroes]] to rest beneath the Sovevann.
 ## Signs
 The [[Assembly]] of Wisdom cited the following signs as demonstration of Isenbrad's paragonhood.

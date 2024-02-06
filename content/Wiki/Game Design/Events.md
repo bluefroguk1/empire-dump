@@ -1,8 +1,8 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
-- The-Game
+IgnoreLinking: true
+tags:
+  - Events
+  - The-Game
 Title: Events
 draft: false
 revision_date: 2024-01-03 14:14:35+00:00

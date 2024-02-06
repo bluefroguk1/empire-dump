@@ -24,7 +24,7 @@ They seem to sing softly in a lyrical way if you listen closely which is quite d
 
 The stones have four angled columns joined at the bottom and I would summarise that a bowl would be placed on the top of the stones for blood to be collected and then run down. Probably a bowl of bronze with holes to allow the blood to flow.
 
-What happened to these stones since, I don't know. One was sold at a Bourse auction, but it seemed to have no properties that would be of use, the records say that it allowed two [[Rituals]] long lost to [[Imperial lore]]. It was bought by the Keeper of the [[Thimble]] at the time, but after the destruction of his [[Striding]] in [[Liathaven]] no mention since has been had.
+What happened to these stones since, I don't know. One was sold at a Bourse auction, but it seemed to have no properties that would be of use, the records say that it allowed two Rituals long lost to [[Imperial lore]]. It was bought by the Keeper of the [[Thimble]] at the time, but after the destruction of his [[Striding]] in [[Liathaven]] no mention since has been had.
 
 Sometimes you are so angry, you can't be upset. Escon, my ginger tom has been found dead. I named him after the Egregore himself. When I say found dead, something has nailed him to a tree and cut out his tongue. I hope that this research is [[Worth]] it, I don't get paid enough for this. I know that the guards will help keep me safe, but I can't help but be scared.
 

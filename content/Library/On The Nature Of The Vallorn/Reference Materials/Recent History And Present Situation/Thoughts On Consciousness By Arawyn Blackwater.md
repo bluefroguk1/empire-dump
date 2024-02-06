@@ -14,13 +14,13 @@ The Volodny use different methods, creating new bodies to inhabit each time the 
 
 As a result, both are forced to dispose of unwanted memories. There are stories about them not being able to remember inconsequential details but instead to keep the important things protected. I assume the same happens with heralds and other creatures of the realms. As undying creatures, Eternals must surely suffer the same problems that mortal beings do - they can only accumulate so many memories.
 
-I assume that this is why items such a [[Kaela]]'s book of the dead occurs or maybe even [[Phaleron]]'s library.. I would have thought that although this is important in the powerful realms, in realms such as Summer key [[Events]] are repeated with ceremony so they are constantly reminded, and I doubt in the chaos of Spring any of those creatures even care.
+I assume that this is why items such a [[Kaela]]'s book of the dead occurs or maybe even [[Phaleron]]'s library.. I would have thought that although this is important in the powerful realms, in realms such as Summer key Events are repeated with ceremony so they are constantly reminded, and I doubt in the chaos of Spring any of those creatures even care.
 
 However, it is important to note that creatures of the realms do not have a soul.
 
 We believe that even when someone becomes a creature such as a herald, that their spirit stays to inform and [[Empower]] the herald, keeping the memories and personality, but their soul goes to the labyrinth. It is important to note that in this case then it is the soul that is changes by experience. People do change and their nature changes, so that must be due to their soul. This would make sense because although liou can change someone's nature temporarily you cannot do it with magic, for the soul is protected in a way the spirit is not.
 
-So your personality is part of your soul, not part of your spirit which is a reflection and storage of memories. This explains how [[Rituals]] like [[Whispers through the Black Gate]] work. When someone dies what remains, for a brief time, is their spirit. The accumulation of memories and the resulting views and attitudes that that created. Magic can contact this memory, for a period of time.
+So your personality is part of your soul, not part of your spirit which is a reflection and storage of memories. This explains how Rituals like [[Whispers through the Black Gate]] work. When someone dies what remains, for a brief time, is their spirit. The accumulation of memories and the resulting views and attitudes that that created. Magic can contact this memory, for a period of time.
 
 If there was terrible emotional trauma it can also cause a ghost to remain. When there is violent trauma, it can be so overwhelming that it breaks apart the essential link between the spirit and the soul. Basically, the person's personality falls to pieces, they die, but their spirit (their memories and personality) remains, burned into the world, as a ghost.
 

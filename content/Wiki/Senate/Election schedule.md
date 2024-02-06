@@ -111,7 +111,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title]] wi
 * [[Ambassador to Faraden]]
 * [[Ambassador to Otkodov]]
 * [[Ambassador to the Commonwealth]]
-* [[Ambassador to the [[Sumaah]] Republic]]
+* [[Ambassador to the Sumaah Republic]]
 * [[Crystal [[Architect]] of the Spires]]
 * [[Imperial Spymaster]]
 * General of [[Isaella]]'s Dance

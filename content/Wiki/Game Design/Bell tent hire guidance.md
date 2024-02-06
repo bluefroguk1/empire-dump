@@ -11,7 +11,7 @@ revision_id: 100791
 ---
 
 ## Overview
-A number of people now hire bell tents from Tent Hire companies for [[Events]]. These are hired from various companies who come to site and put up the tents and return to site and remove them after the event. This document is some guidance for hirers, camp pLanners and the hire companies.
+A number of people now hire bell tents from Tent Hire companies for Events. These are hired from various companies who come to site and put up the tents and return to site and remove them after the event. This document is some guidance for hirers, camp pLanners and the hire companies.
 ## The Hirers
 If you are hiring a tent from a tent rental company you are responsible for making sure the rental company knows the requirements for putting up tents on our site and them being in the correct location.
 You need to supply information to the hire company for the camp planner to be able to identify your tent on the map when the rental company arrive onsite. This could include a map reference, a group and character name and any other Out of Character/In Character details. More information is better!

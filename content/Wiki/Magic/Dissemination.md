@@ -9,7 +9,7 @@ revision_id: 97398
 ---
 
 ## Overview
-While [[Rituals]] that are part of [[Imperial lore]] are available to any Imperial citizen, there are circumstances where a magician might wish to share one of these rituals with someone else, or they may simply desire a ritual text for their own personal library. Doing so invariably requires the creation of a ritual text, which can be handed over to the target.
+While Rituals that are part of [[Imperial lore]] are available to any Imperial citizen, there are circumstances where a magician might wish to share one of these rituals with someone else, or they may simply desire a ritual text for their own personal library. Doing so invariably requires the creation of a ritual text, which can be handed over to the target.
 While titles such as the [[Dean of the Lyceum]] and the [[Master of Ice and Darkness]] have the ability to guide their respective [[College of Magic]] to create a ritual text, it is rarely [[Worth]] recreating such an object from "scratch" - it is time consuming and potentially expensive. Instead, the Conclave can instruct the Civil Service to create a ritual text for an existing ritual that is part of Imperial lore.
 ## Necessary Details
 * The [[Declaration]] must explicitly name a single ritual that is part of Imperial Lore and the citizen or group who is to receive the copy of the ritual text

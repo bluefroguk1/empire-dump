@@ -11,7 +11,7 @@ revision_id: 97695
 ---
 
 ## Surgical [[Surgical skills]]
-*You cannot use any surgical [[Skills]] on yourself
+*You cannot use any surgical Skills on yourself
 *Surgical skills require both hands free and your attention on your patient
 ## Chirurgeon
 *1-point skill

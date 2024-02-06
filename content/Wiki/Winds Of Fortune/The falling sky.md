@@ -27,7 +27,7 @@ Each nation has their own agenda, and the waters of international diplomacy can 
 * Axos is boycotting the meeting of the Liberty Pact that was pLanned for this summit
 * The Commonwealth have proposed that the meeting be postponed to the summer
 *The [[Ambassador to the Commonwealth]] is Lucia Sanguineo Rezia di [[Tassato]] of [[The League]]
-*The [[Ambassador to the [[Sumaah]] Republic]] is currently Accalon of Felix's Watch of [[Highguard]]
+*The [[Ambassador to the Sumaah Republic]] is currently Accalon of Felix's Watch of [[Highguard]]
 *The [[Ambassador to Axos]] is Fintan Nighthaven of [[Navarr]]
 *All members of the Liberty Pact enjoy free trade with each other
 There was due to a meeting of the four signatories of the Liberty Pact at the forthcoming summit. While the treaty does not contain any proVisions for regular meetings, there is an informal arrangement that those who have joined the Pact will meet at [[Anvil]] at the Spring Solstice to discuss matters arising. However it seems that serious problems have arisen. The Axos have sent word that they intend to boycott the meeting - moreover they refuse to send official delegates to the Empire until the current diplomatic conflict is resolved.

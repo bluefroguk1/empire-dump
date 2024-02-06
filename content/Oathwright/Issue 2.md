@@ -77,7 +77,7 @@ The crown was stolen and given to the distant southern nation [[Sumaah Republic]
 To minimise the damage to its reputation the group is seeking a Synod statement that asserts that the culprit is no longer a member of the guild.
 
 The Empress has asked The League group she founded, The House of the Seven Mirrors, to get the
-crown back from [[Sumaah]]. Horsa, Thane of the Renwyrd in [[Wintermark]], gave the Throne a Sumaah religious icon to help in the diplomatic mission.
+crown back from Sumaah. Horsa, Thane of the Renwyrd in [[Wintermark]], gave the Throne a Sumaah religious icon to help in the diplomatic mission.
 
 # From first principles
 **By Bridget Eastville Senator for Mitwold, The Marches**

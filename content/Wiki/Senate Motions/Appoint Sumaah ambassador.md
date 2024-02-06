@@ -11,7 +11,7 @@ revision_date: 2022-02-02 09:23:06+00:00
 revision_id: 86498
 ---
 
-To assign an [[Ambassador]] to the [[Sumaah]] RepublicProposed by [[Miaren]], seconded by [[Zenith]] 
+To assign an [[Ambassador]] to the Sumaah RepublicProposed by [[Miaren]], seconded by [[Zenith]] 
 ### Overview
 * This motion was to choose a citizen to appoint as [[Ambassador to the Sumaah Republic]].
 * This motion was raised at the last [[Senate session]] of the summit so, following the method for elections within the Senate, the elections took place at the first senate session of the Winter Solstice 379YE.

@@ -14,7 +14,7 @@ revision_id: 93291
 __NOTOC__
 To abrogate the Moonwater Hall in [[Upwold]].
 ### Overview
-*  Abrogates the [[Faraden]] trade hub in Upwold, Commissioned in Summer 381YE and built with the [[Assistance]] of the Faraden merchant families. 
+*  Abrogates the [[Faraden]] trade hub in Upwold, Commissioned in Summer 381YE and built with the Assistance of the Faraden merchant families. 
 * The trade hub provided the benefits of a [[Great work]] in Upwold, adding additional income to Farms and businesses.
 * Passed
 ### Date

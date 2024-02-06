@@ -12,7 +12,7 @@ revision_id: 85512
 ---
 
 __NOTOC__
-To appoint an [[Ambassador to the [[Sumaah]] Republic]].
+To appoint an [[Ambassador to the Sumaah Republic]].
 ''Proposed by [[Necropolis]], seconded by [[Holberg]]''
 ## Overview
 * This motion was to elect an [[Ambassador]] to the [[Sumaah Republic]]

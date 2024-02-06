@@ -23,7 +23,7 @@ Civil service records indicate the following points were agreed in the treaty wi
 There will be peace between [[The Empire]] and those Grendel residing in, or operating from, [[Spiral]] for a period of three years, this is to be renegotiated after two years; should either side wish to end the contract at this two year period - a break clause of 50 [[Mithril]] will be paid by the party that wishes to enact the break clause.
 Spiral will remain uncontested territory. No imperial forces will enter the territory without leaving from Salt Lord Kaliact.
 No Grendel forces will move through Spiral into Imperial land, as understood of 384 Winter, no forces directly under the control of Salt Lord Kaliact, or any of her people, will attack Imperial territory as per above.
-Salt Lord Kaliact, and all who dwell within, or operate from, the territory of Spiral, shall not trade with the [[Druj]] nor offer them any material [[Assistance]] in their campaign against the Empire, without Imperial leave.
+Salt Lord Kaliact, and all who dwell within, or operate from, the territory of Spiral, shall not trade with the [[Druj]] nor offer them any material Assistance in their campaign against the Empire, without Imperial leave.
 No party involved in this treaty will engage in raiding against the other party.
 Any altercations between citizens of either parties shall be dealt with in the first instance by the representatives of the parties rather than be considered an automatic breach of the treaty.
 The north mareave trading consortium will offer improved rates on several resources for the duration of this treaty.

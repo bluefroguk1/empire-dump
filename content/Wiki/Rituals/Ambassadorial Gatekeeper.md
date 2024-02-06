@@ -16,7 +16,7 @@ Season|Autumn|10
 ### Performing the Ritual
 Casting time|2 Target Character
 ### Effects
-This ritual allows a single target to accompany one of the contributors through a portal. The target can enter the portal alongside one of the contributors, but can leave through it without requiring their [[Assistance]] provided they do so before the next sunrise
+This ritual allows a single target to accompany one of the contributors through a portal. The target can enter the portal alongside one of the contributors, but can leave through it without requiring their Assistance provided they do so before the next sunrise
 The ritual must be performed at a portal; at the completion at least one of the contributors must accompany the target character (or characters) through that portal. There is no additional mana [[Cost]] to operate the portal.
 Note that as with [[Operate Portal]], it is not possible for anyone to carry a living creature who is dying or terminal, or otherwise incapacitated, through the portal unless they are also a target of the ritual.
 ### Additional Targets

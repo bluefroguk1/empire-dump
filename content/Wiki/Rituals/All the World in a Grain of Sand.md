@@ -19,7 +19,7 @@ curse
 ### Effects
 This ritual creates a Curse that is delivered to a target with a pronouncement of doom: one contributor is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head. 
 While under the curse, the target experiences a powerful roleplaying effect; their mind has been exposed to an enormous, revelatory and thoroughly terrifying tRuth that they cannot bear. They are plagued with madness; they may hallucinate, talk to themselves, become paranoid or obsessed with uncovering and recording trivial, confusing details. They may embrace their madness seeking more and more information, or flee from it and hide in their own minds.
-While under the effect the target loses access to the ability to cast mastered [[Rituals]]; they contribute to all rituals as if they had not mastered them (this includes losing the ability to employ any options that require you to have mastered the ritual).
+While under the effect the target loses access to the ability to cast mastered Rituals; they contribute to all rituals as if they had not mastered them (this includes losing the ability to employ any options that require you to have mastered the ritual).
 Year Duration
 ### Removing the Curse
 The Curse can be removed by certain powerful creatures or items. It can also be alleviated by powerful rituals that remove curses of madness or personal disintegration such as Transmogrification of the Soul's Echo.

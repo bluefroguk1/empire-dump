@@ -12,7 +12,7 @@ tags:
 
 ## Overview
 The [[Wintermark]] look is rugged and practical but strives to express the wearer's individuality. Each of the three traditions - [[Kallavesi]], [[Steinr]], and [[Suaq]] - has their own style of dress and way of expressing this unique personality. Sometimes minor elements of one tradition's style will be used by another, especially where a character has embraced an [[Archetype]] more often associated with a different tradition (for example, the runesmith Magical path is strongly associated with the Steinr, and Suaq or Kallavesi  magicians who embrace it often include elements of a more Steinr style in their day-to-day garb). Regardless of these accents, it is Generally a matter of [[Pride]] for the people of Wintermark to demonstrate the style of their chosen tradition as strongly as possible.
-Winterfolk art tends to be intricate and detailed. Stone, metal and wood are carved with [[Runes]], so crafters can show off their [[Skills]].  The people of Wintermark use bright scarlet for things like banners because they can be seen for miles through snow and atop mountainsides.
+Winterfolk art tends to be intricate and detailed. Stone, metal and wood are carved with [[Runes]], so crafters can show off their Skills.  The people of Wintermark use bright scarlet for things like banners because they can be seen for miles through snow and atop mountainsides.
 ## [[General]] Breakdown
 Feel: Iron, hard, firm, strong, unmoving, earnest, well-crafted, perfectionist (Steinr), practical (Suaq), dreamer (Kallavesi), individual, heroic.
 The look of Wintermark is much more varied than that of some other nations due to the presence of the three traditions. Regardless of which tradition someone follows, however, certain traditional elements remain widespread through the entire nation. The differences between the three traditions are expressed in [[The Way]] they add to and adorn this [[Basic]] style.
@@ -33,7 +33,7 @@ Kallavesi warriors favour leather and fur armour (both light and medium). When t
 For weapons Kallavesi favour axes (especially long axes), staves, and fishing spears (often two-handed spears). Many carry an all-purpose gutting knife as a practical tool and for dispatching fallen opponents. 
 Kallavesi warriors rarely make use of shields. When they do they favour small wicker bucklers over the bulkier round- or tear-drop shields favoured by the Steinr.
 ### Kallavesi Images
-This gallery  contains images of Kallavesi characters taken from Empire [[Events]].
+This gallery  contains images of Kallavesi characters taken from Empire Events.
 ## Steinr
 * Influences: Saxons, Rohirrim, Tolkien’s Dwarves, Beowulf (2005), the Nords of Skyrim.
 * Materials: Metals, furs, leather, stone, woollen cloth; richer fabrics may be appropriate for high status Thanes.

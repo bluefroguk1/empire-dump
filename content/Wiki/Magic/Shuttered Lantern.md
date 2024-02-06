@@ -34,5 +34,5 @@ They occasionally find themselves [[Strange allies]] of the [[Unfettered Mind]] 
 ## [[Conclave vault]]
 Each summit, the Conclave vault of the Shuttered Lantern garners a pro rata share of the Font based on the precedence of the orders at the previous summit; a portion of [[Ilium]] based on their position among the orders as determined by precedence; and additional [[Materials]] due to outstanding bequests.
 *Three ingots of Weltsilver were pledged from the vale of Plovdiv in [[Karov]] in 201YE. These ingots are still being delivered despite reports that local veins having run dry. There is some speculation that the ingots in fact come from somewhere other than the inhabitants of the vale itself.
-*Three ingots of Tempest jade come from the Highborn [[Chapter]] of Jessica's Stand for a combination of information offered and [[Rituals]] performed during the reign of [[Emperor Frederick]].
+*Three ingots of Tempest jade come from the Highborn [[Chapter]] of Jessica's Stand for a combination of information offered and Rituals performed during the reign of [[Emperor Frederick]].
 Grandmaster|Grandmaster_of_the_Order_of_the_Shuttered_Lantern

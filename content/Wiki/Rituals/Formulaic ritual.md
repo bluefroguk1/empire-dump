@@ -13,7 +13,7 @@ revision_id: 61468
 ---
 
 ## Overview
-Formulaic [[Rituals]] are rituals whose techniques and practices have been successfUlly refined to make the ritual as efficient and easy to cast as possible. Formulaic rituals are highly focussed - the caster gives up flexibility to gain reliability and efficiency. In addition Magicians can learn to master formulaic rituals, making them even easier to cast.
+Formulaic Rituals are rituals whose techniques and practices have been successfUlly refined to make the ritual as efficient and easy to cast as possible. Formulaic rituals are highly focussed - the caster gives up flexibility to gain reliability and efficiency. In addition Magicians can learn to master formulaic rituals, making them even easier to cast.
 There is a large body of formulaic rituals that have been promulgated throughout [[The Empire]] by the [[Imperial Conclave]] called [[Imperial lore]]. These Rituals are not the only Formulaic rituals in existence, but they are so well known that they can be attempted by anyone powerful enough to do so.
 Players interested in creating a new [[Formulaic ritual]] should make sure they read through the information on [[Ritual Theory]].
 Ritual Summaries

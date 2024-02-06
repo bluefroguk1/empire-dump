@@ -27,7 +27,7 @@ Total Money SpentProduction
 90 Crowns48 crystal mana
 125 Crowns60 crystal mana
 ### Funding the Conclave
-The Bursar has the ability to spend money to buy mana crystals. They can spend money each season as if they controlled a [[Ministry]]. Money spent in this manner is used to buy directly from other Imperial citizens who have access to crystal mana, with the [[Assistance]] of several civil servants. The mana is provided to the Bursar at the start of the next summit. 
+The Bursar has the ability to spend money to buy mana crystals. They can spend money each season as if they controlled a [[Ministry]]. Money spent in this manner is used to buy directly from other Imperial citizens who have access to crystal mana, with the Assistance of several civil servants. The mana is provided to the Bursar at the start of the next summit. 
 The Bursar is the sole [[Arbiter]] of how this mana is to be used, within the remit of their responsibilities. 
 ## [[Appointment]]
 The appointment, replacement, or removal of the Bursar is made by the Declaration of [[Candidacy]] as part of a [[Conclave session]]. A candidate can be presented for the post of Bursar only once a season.

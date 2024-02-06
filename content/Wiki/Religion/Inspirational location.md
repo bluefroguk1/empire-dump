@@ -61,6 +61,6 @@ ZoriaWisdomMieKarovaAn ancient maze in Mieriada, said to have been once the home
 A sacred site is a location that was already significant in some way that has been consecrated with true liao without dedicating it to an exemplar or paragon.
 LocationVirtueDetailsNotes
 [[Kallavesa]] MarshPrideKallavesaFollowing a unique opportunity a grove at the heart of the Kallavesa Marshes was consecrated in the name of the heroes who sleep beneath them.
-Walls of HolbergWisdomHolbergAn opportunity arose to consecrate a gallery atop the Walls of Holberg that apparently lead to several miraculous [[Events]] there.
+Walls of HolbergWisdomHolbergAn opportunity arose to consecrate a gallery atop the Walls of Holberg that apparently lead to several miraculous Events there.
 Three WatchersLoyaltyMorrowWhen the three great statues commemorating the Highborn defence of [[Urizen]] against the [[Druj]] were created, the accompanying opportunity allowed a powerful consecration to be created
 Synod Further Reading

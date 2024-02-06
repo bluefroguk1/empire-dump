@@ -12,7 +12,7 @@ revision_id: 105228
 
 This page represents the now-defunct army quality of the [[Citadel Guard]], which has since been superseded by [[Highest discipline]] 
 ## Overview
-This was the improved quality the [[Urizen]] Citadel Guard developed as a consequence of the [[Unmade trove]]. It cycled through five options over the course of five [[Events]], then came back to the start. Once set in motion, the cycle couldn't be interrupted and continued to run forever (in theory). The cycle was begun during the Winter Solstice 379YE, appropriately enough with the technique of the Bond of Tears.
+This was the improved quality the [[Urizen]] Citadel Guard developed as a consequence of the [[Unmade trove]]. It cycled through five options over the course of five Events, then came back to the start. Once set in motion, the cycle couldn't be interrupted and continued to run forever (in theory). The cycle was begun during the Winter Solstice 379YE, appropriately enough with the technique of the Bond of Tears.
 The power originally cycled through all six realms, but during the Autumn Equinox 382YE the [[Eternal]] [[Sadogua]] "ate" the Night stage of the sequence as part of a boon offered to [[General]] Nicassia, permanently removing it from the sequence.
 This quality incorporated all the benefits of the [[Magic]] quality.
 ## Cyclic Resonance
@@ -22,7 +22,7 @@ In each case, the General used the power of the appropriate [[Realm]] by issuing
 In some cases, these techniques exceeded what was achievable with ritual magic alone. This was primarily due to the skill and experience of the combat magicians and ritualists who accompanied the army. They did not represent a single incidence of magic use but rather the careful and synchronised use of many magical effects over an entire season.
 A word of caution – no other army in the world possessed mastery of cyclic resonance. Unexpected interactions between the five techniques and the power of enchantments, Curses, or even the actions of other armies, were a constant consideration.
 ## Benefits
-The magicians and artisans of the Citadel Guard provided a constant benefit to the force, allowing it to help with the targetting of [[Rituals]] and to take the arcane consolidation order. In addition, the powerful benefits of [[Cyclic magic]] meant that one additional technique was available to them each event. These techniques followed each other in strict rotation; each technique allowed the army the option of issuing a unique order that season.
+The magicians and artisans of the Citadel Guard provided a constant benefit to the force, allowing it to help with the targetting of Rituals and to take the arcane consolidation order. In addition, the powerful benefits of [[Cyclic magic]] meant that one additional technique was available to them each event. These techniques followed each other in strict rotation; each technique allowed the army the option of issuing a unique order that season.
 ### Magic
 * Rituals that target a Territory may be performed using the general of the Citadal Guard as a focus
 * Can use the ''Arcane Consolidation'' order when defending

@@ -89,7 +89,7 @@ They have been rebuilding ever since, and the survivors of the Daintree have ban
 Chapter colours: Burgundy and black with some white
 Chapter symbol: A hand holding a red lightning bolt which splits into four bolts
 Chapter Virtues: Loyalty
-The chapter that would become Storm's Fury came into existence around the same time as many of the original chapters who left the city of Pharos. They initially built their stronghold in Syrwatch but the resulting [[Events]] after the assassination of Permion the Lawmaker led to one of the high-ranking chapter members attempting a coup, as they pLanned to side with the patrician forces against the chapters. 
+The chapter that would become Storm's Fury came into existence around the same time as many of the original chapters who left the city of Pharos. They initially built their stronghold in Syrwatch but the resulting Events after the assassination of Permion the Lawmaker led to one of the high-ranking chapter members attempting a coup, as they pLanned to side with the patrician forces against the chapters. 
 The other high ranking members of the chapter, including the exarch, killed the one responsible for the coup and the chapter members who sided with him. Any chapter members that were tricked or forced into helping the coup were allowed to rejoin the ranks. That stormy battle was when Storm’s Fury was born: the shouts of the chapter loyalists could be heard over the sound of the roaring thunder, and their armour shining brightly in the lightning. 
 As a result of the coup the chapter’s name, beliefs, structure, and doctrine were changed, and Loyalty became the most important virtue to the chapter. Even to this day potential initiates are judged on their views on Loyalty. When the majority of the eastern Regions were controlled by the patrician forces after the assassination of the Lawmaker the chapter abandoned their home and headed for Greatwood to join with other chapters. The choice was motivated by loyalty to the chapters of Highguard after the attempted coup. Details regarding the chapter which Storm’s Fury originated from have for the majority been deliberately lost (including the chapter name) in an attempt to forget who they were before becoming strengthened by lightning. 
 The chapter now resides in Casinea. They attend the Anvil summits as often as possible; members sometimes take on extra roles and responsibilities if some members cannot make the summits. 
@@ -98,7 +98,7 @@ The chapter welcomes anyone who is interested in becoming a chapter initiate as 
 ### The Cenotaph
 Chapter colours: Blue and White
 Chapter symbol: Mausoleum with a black keyhole in the centre
-The Cenotaph is based within the city of Necropolis itself and is primarily a chapter of Stewards of the dead. The chapter was originally founded after the death of [[Emperor Barabbas]], whose body was never found, and was dedicated to finding him and recording his story. The Cenotaph’s remit has now widened to collecting the stories of those Worthy of being counted [[Heroes]] as well as helping the [[Unquiet dead]] move on to the Labyrinth. Many members of the Cenotaph are skilled in priestly [[Skills]] such as [[Exorcism]] or investigation magic. 
+The Cenotaph is based within the city of Necropolis itself and is primarily a chapter of Stewards of the dead. The chapter was originally founded after the death of [[Emperor Barabbas]], whose body was never found, and was dedicated to finding him and recording his story. The Cenotaph’s remit has now widened to collecting the stories of those Worthy of being counted [[Heroes]] as well as helping the [[Unquiet dead]] move on to the Labyrinth. Many members of the Cenotaph are skilled in priestly Skills such as [[Exorcism]] or investigation magic. 
 The chapter is more outgoing than most based in the Necropolis and as such is often first port of call when someone at Anvil wants a loved one to be buried in the Necropolis.  
 The more military minded members of the chapter tend toward following the unconquered style of fighting and most of the chapter do their military service in the [[Seventh Wave]] as scouts, combat exorcists, and magisters. 
 ### Chantry of the Silver Skull
@@ -121,7 +121,7 @@ Chapter symbol: A white raven's skull with the flame of Ambition on its forehead
 Chapter Virtues: Ambition
 An old chapter based in Sanctuary Sands in a chapterhouse atop the cliffs, Raven's Watch is a chapter dedicated to Ambition. 
 The chapter had been in decline for many years until it was recently revitalised by new blood: assorted refugees from settlements in Reikos joined up with the Raven's Watch, making a new start for themselves and the chapter.
-Raven's Watch specialises in Winter [[Realm]] magic, offering [[Rituals]] to the local area and to others in Anvil. 
+Raven's Watch specialises in Winter [[Realm]] magic, offering Rituals to the local area and to others in Anvil. 
 Their warriors support the groups of other Highborn chapterhouses on the field and their priests and traders do what they can to assist the Highborn and the Empire politically and economically.
 ### The [[Silent Tide]]
 Chapter colours: Blue and White

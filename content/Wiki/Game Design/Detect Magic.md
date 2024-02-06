@@ -12,7 +12,7 @@ revision_id: 106688
 ---
 
 ## Description
-This simple divination is invariably the first one that a magician learns to cast. Every magician is able to cast it; along with [[Operate Portal]] and [[Create Bond]], it represents a shared suite of powers common to everyone who works [[Magic]]. Being able to perceive magical Auras is a key part of learning to cast spells and perform [[Rituals]]. Once an apprentice magician masters the ability to attune their perceptions to magic, the spell allows them to perform a number of simple functions relating to magical energies.
+This simple divination is invariably the first one that a magician learns to cast. Every magician is able to cast it; along with [[Operate Portal]] and [[Create Bond]], it represents a shared suite of powers common to everyone who works [[Magic]]. Being able to perceive magical Auras is a key part of learning to cast spells and perform Rituals. Once an apprentice magician masters the ability to attune their perceptions to magic, the spell allows them to perform a number of simple functions relating to magical energies.
 While many magicians think of magical auras in terms of Visual effects, the experience of detecting magic is highly personal. Some magicians, especially those who have studied the [[Music of the spheres]], interpret magical effects in terms of musical notes. Magicians with [[Naga]] Lineages in particular are known for their discerning senses and report feeling, smelling or even tasting magical auras through the use of this spell.
 [[Detect Magic]] is versatile but does not provide in-depth information about a magical effect. Where complex magical effects are concerned, the [[Bright Lantern of Ophis]] is much more effective at divining details of a magical effect. 
 For all its versatility, a magical investigator can rapidly deplete their store of personal mana. Anyone who wants to specialise in this kind of divination may want to invest in a [[Seer]]'s Probe which allows the wielder to cast extra Detect detect magic spells in a day (and, as a bonus, grants access to [[Voice for the Dead]] as well).
@@ -20,7 +20,7 @@ Finally, it is [[Worth]] noting that perception of magical auras is not restrict
 ## Casting
 Regular Spell|1
 ## Effects
-This flexible spell can be used to perform a number of separate tasks, but only one may be used each time the spell is cast. Each of these uses requires the [[Assistance]] of a Referee.
+This flexible spell can be used to perform a number of separate tasks, but only one may be used each time the spell is cast. Each of these uses requires the Assistance of a Referee.
 ### Divination
 By casting the spell on a single target that is close enough to touch, you can deterMine the name of any specific rituals or ceremonies that could be used to discover more information about it. This effect only reveals the name of rituals that are in [[Imperial lore]]. Certain rituals ([[Ties that Bind]], [[Hand of the Maker]], the [[Insight]] ceremony) will almost always provide information and are only mentioned if there is explicit extra information to be uncovered. 
 Divination will also name other ways of gathering information. For example, it will reveal whether there is information to be gathered about an item using the Insight ceremony, or whether an [[Arcane projection]] in a certain [[Realm]] and of a certain magnitude might be used to learn more about an effect.

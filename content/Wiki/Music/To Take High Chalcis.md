@@ -41,7 +41,7 @@ All the way to take High Chalcis
 All the way to  take High Chalcis
 All the way to  take  High Chalcis
 All the way…
-Flags they were raised, and [[Rituals]] started,
+Flags they were raised, and Rituals started,
 Mages all focused, soldiers kept foes at bay,
 [[Wintermark]], [[Highguard]], [[Varushka]], [[Navarr]] and Urizen,
 Did Virtuous work in those cursed lands, All the way...

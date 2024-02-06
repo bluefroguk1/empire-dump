@@ -16,7 +16,7 @@ Season|Night|12
 ### Performing the Ritual
 Casting time|2 This ritual targets a willing individual who must be present throughout. If they are unwilling or unaWare of the [[General]] nature of the ritual, their mind remains closed and the ritual fails.
 ### Effects
-The target of this ritual forgets all [[Rituals]] they currently have mastered. Their ritual slots are now empty and they can now learn rituals in those slots via the usual means. The target cannot pick and choose which rituals they lose – all rituals are lost. 
+The target of this ritual forgets all Rituals they currently have mastered. Their ritual slots are now empty and they can now learn rituals in those slots via the usual means. The target cannot pick and choose which rituals they lose – all rituals are lost. 
 At the completion of the ritual the target experiences a roleplaying effect: ''you feel a great sense of release, as if a weight has been lifted off your shoulders. You feel [[Liberated]], freed from unnecessary constraints. The idea of mastering rituals feels like a denial of Opportunity and possibility – there are so many Rituals, why master just a handful of them?'' 
 This roleplaying effect persists for at least ten minutes, and may last longer at the discretion of the target.
 ## Description

@@ -1,9 +1,9 @@
 ---
-IgnoreLinking: false
-Tags:
-- Rules
-- Rituals
-- Magic
+IgnoreLinking: true
+tags:
+  - Rules
+  - Rituals
+  - Magic
 Title: Rituals
 draft: false
 revision_date: 2023-06-26 13:48:17+00:00

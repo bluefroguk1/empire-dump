@@ -48,7 +48,7 @@ As of Spring 384YE, the commonly known correspondents, by nation, are:
 * [[Commonwealth]] - Militärattache Ludkhannah Schöningen, die Stahlhalle, Volkavaar, Commonwealth
 * [[Principalities of Jarm]] - Lord-[[Magister]] Anton Trescher of the Hidden Hook, Who attends at the House of Princes, In the City of Jarm, Principalities of Jarm
 * Sarcophan Delves - Bedelaar Huisbaas Annike, The Tower of Crows, Sarcophan, Sarcophan Delves 
-* [[Sumaah Republic]] - Oxtitocszin, Censor of wood, metal and stone, of the High House of [[Pride]], [[Sumaah]] Republic
+* [[Sumaah Republic]] - Oxtitocszin, Censor of wood, metal and stone, of the High House of [[Pride]], Sumaah Republic
 * [[Axos]] - Ilarch Maxatios, The Towers of Kantor, Axos
 * [[Faraden]] - Mistress Singua Karadragha, Advisor on Imperial Trade to the Liege of the Five Winds, The Court of the Five Winds, Faraden
 * [[Iron Confederacy]] - Baroness Katerine Lavasse of Meore, Tour Lavasse, Chaubrette, Iron Confederacy

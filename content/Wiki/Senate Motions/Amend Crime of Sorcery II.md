@@ -16,7 +16,7 @@ To extend the proVisions of [[Sorcery]] to proscribe the use, ownership, or poss
 Ritual Staves
 Foci
 Coven Stones
-Crystaline mana, [[Vis]] and anything of similar properties to cast [[Rituals]]
+Crystaline mana, [[Vis]] and anything of similar properties to cast Rituals
 Items that have passed from a [[Realm]] into [[The Empire]]
 Potions whose primary purpose is to aid or enhance the performance of rituals
 Proscribed items are to be placed in the vaults of the Conclave for use by the will of the Conclave.

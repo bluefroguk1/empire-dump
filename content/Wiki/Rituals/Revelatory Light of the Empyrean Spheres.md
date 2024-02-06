@@ -40,4 +40,4 @@ The old woman with glared down at the young boy, poking him with one bony finger
 "Well, apprentice, have you?
 "No, mistress", he kept his eyes downcast.
 "No.", she said with finality, "Pray that you never do."  
-She took the book of [[Rituals]] from his hands and placed it back in its place upon the high shelf by memory, for her milky eyes saw nothing, "Pray that you never do..."
+She took the book of Rituals from his hands and placed it back in its place upon the high shelf by memory, for her milky eyes saw nothing, "Pray that you never do..."

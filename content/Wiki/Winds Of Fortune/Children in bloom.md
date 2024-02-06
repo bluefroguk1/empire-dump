@@ -46,7 +46,7 @@ While there are plenty of examples of odd plants and flowers across the Empire, 
 ### Field and Forest
 * For a season following the Spring Equinox there is no [[Cost]] to diversify a [[Farm]] or forest
 Following the Spring Equinox, there will be no cost to diversify a farm to produce herbs or forest resources, or to diversify a Forest to produce different natural [[Materials]]. Normally, diversification costs 1 Throne but until the close of Downtime, it will instead be free. It's still only possible to diversify a personal resource ''once'' following the event.
-This benefit even expands to the unique option for Marcher farms to gain the [[Assistance]] of the Landskeepers to construct a mana-focusing menhir on their land.
+This benefit even expands to the unique option for Marcher farms to gain the Assistance of the Landskeepers to construct a mana-focusing menhir on their land.
 ### Buying the Farm
 * Anyone can exchange their personal resource for a farm without the normal 2 crown fee
 * Characters with an upgraded resource can exchange it for a farm with the same number of upgrades for 2 crowns

@@ -66,11 +66,11 @@ If any signatory is deterMined by vote to have broken the terms of the pact, the
 6. Exit
 Any signatory may declare that they are withdrawing from the pact at any time and for any reason.
 8. Military Aid
-Members of the Liberty Pact understand that the pact creates no obligation or expectation of military aid be rendered to a fellow signatory, no matter what conflict ensues. However no signatory to the pact will provide meaningful military [[Assistance]] to any nation that finds itself at [[War]] with a signatory of the pact.
+Members of the Liberty Pact understand that the pact creates no obligation or expectation of military aid be rendered to a fellow signatory, no matter what conflict ensues. However no signatory to the pact will provide meaningful military Assistance to any nation that finds itself at [[War]] with a signatory of the pact.
 ### Affirmation
 We, the undersigned nations, commit to the above, and consider ourselves from this point ongoing member of the International Liberty Pact.
 Katya of Kantor, Grand Illarch, Axos
 General Elsbeth, General Council of The the Commonwealth
-Timov, Priest Representative of the Republic of [[Sumaah]]
+Timov, Priest Representative of the Republic of Sumaah
 Eska Crowspeaker, The Empire
 Ianthe of Suns of Couros, The Empire

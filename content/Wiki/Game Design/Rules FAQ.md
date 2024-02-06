@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- Rules
-- FAQ
+IgnoreLinking: true
+tags:
+  - Rules
+  - FAQ
 Title: Rules FAQ
 aliases:
-- Rules_FAQ
+  - Rules_FAQ
 draft: false
 revision_date: 2023-01-19 14:37:53+00:00
 revision_id: 96920

@@ -18,7 +18,7 @@ Casting time|2 Target Character The target character must have the Winter lore s
 During the ritual the target must be cut with an edged weapon, sufficient to cause the loss of 1 hit.
 [[Enchantment]]
 ### Effects
-When the ritual is complete they gain an Enchantment that grants them one additional effective rank of Winter lore for purposes of performing [[Rituals]], subject to the normal rules for effective skill. 
+When the ritual is complete they gain an Enchantment that grants them one additional effective rank of Winter lore for purposes of performing Rituals, subject to the normal rules for effective skill. 
 They gain two effective ranks (total) of the appropriate ritual lore if they are contributing to the performance of any ritual that delivers a [[Curse]]. The ritual does not need to be part of Winter lore, but the normal rules for effective skill still apply. 
 They also experience a Roleplaying effect: You are painfUlly aWare of the dangers that threaten you and those you care about. You feel an urge to prepare for those dangers, and to ensure that you have sufficient resources to overcome them.
 If the target is a [[Draughir]], the roleplaying effect is especially pronounced  A draughir may also choose to temporarily add to or increase physical trappings of their Lineage. These changes are temporary and do not last more than a few hours after the enchantment ends.

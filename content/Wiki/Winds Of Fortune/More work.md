@@ -31,7 +31,7 @@ Her prince slid her eyes sideways, amused.
 Maria looked away and muttered under her breath.
 "I didn't catch that," said the Prince, amused.
 "''[[The Chalice]] Inverted''," said Maria grudgingly. "It's very good!"
-Her prince laughed. "I'm sure it is. But giving the Synod a bit of a polish wouldn't be the end of the world and it wouldn't mean we were turning into [[Sumaah]]. The constitution is pretty clear that the Synod is ''supposed'' to poke its nose into things, and take steps when it needs to stop people being silly."
+Her prince laughed. "I'm sure it is. But giving the Synod a bit of a polish wouldn't be the end of the world and it wouldn't mean we were turning into Sumaah. The constitution is pretty clear that the Synod is ''supposed'' to poke its nose into things, and take steps when it needs to stop people being silly."
 She nodded her head firmly, her mind made up.
 "No, Bishop Jago is an angry arse, like one of those one o'clock drunks pissing into the river. That doesn't mean his words are entirely without sense, but one traps more wasps with jam than marmalade, as the Marchers say."
 "It's something like that yes," said Maria tactfully.

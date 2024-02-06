@@ -12,7 +12,7 @@ revision_id: 94620
 ---
 
 __NOTOC__
-To create the House Bourné School of Couture in [[Sarvos]]. This would create the position of the [[Mirrored Maschieri]]. This [[Folly]] will create the Opportunity to see Sarvos rebuilt as the City of Masks. The folly will be funded in its entirety by the Looking Glass and Prosperous citizens of Sarvos, with [[Assistance]] from the Highborn Benefactors.''Proposed by Sarvos, seconded by [[Weirwater]].''
+To create the House Bourné School of Couture in [[Sarvos]]. This would create the position of the [[Mirrored Maschieri]]. This [[Folly]] will create the Opportunity to see Sarvos rebuilt as the City of Masks. The folly will be funded in its entirety by the Looking Glass and Prosperous citizens of Sarvos, with Assistance from the Highborn Benefactors.''Proposed by Sarvos, seconded by [[Weirwater]].''
 ## Outcome
 * Construct a Folly in Sarvos drawing on the opportunity presented by the House Bourné.
 * Passed

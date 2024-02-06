@@ -103,7 +103,7 @@ A General who orders a forced march pushes their troops to move swiftly - but al
 Desperate Reinforcement
 * Can move as far as the General wishes this season. It must still stop moving when it enters a hostile territory.
 * The ability of this army to defend territory is decreased by one fifth.
-Sometimes a situation is desperate, but additional troops may turn the tide of battle. In such cases, the general pushes their troops to move as quickly as possible, to ensure that a faltering garrison receives last minute [[Assistance]], or a failing position is reinforced just before it collapses. When time is of the essence, the general can risk exhausting some of their troops to ensure they arrive in time to support their allies.
+Sometimes a situation is desperate, but additional troops may turn the tide of battle. In such cases, the general pushes their troops to move as quickly as possible, to ensure that a faltering garrison receives last minute Assistance, or a failing position is reinforced just before it collapses. When time is of the essence, the general can risk exhausting some of their troops to ensure they arrive in time to support their allies.
 ## Foraging
 * Can use the ''plunder'' order when attacking
 * Other Descriptors: Looter, Scavenger, Snaffler, Raider, Maggots (derogatory)
@@ -214,7 +214,7 @@ Final Stand
 * Every enemy victory point causes 100 additional casualties to this army until the army disbands.
 Sometimes a general needs to hold a position regardless of cost. A final stand trades Imperial lives for every inch of ground that would otherwise be lost. The order is rarely used; even if the army is not wiped out, it will almost certainly be severely weakened. When an attacking force must not be allowed to gain territory or establish a beachhead, it is incredibly effective.
 ## Magic
-* [[Rituals]] that target a Territory may be performed using the general of this army as a focus
+* Rituals that target a Territory may be performed using the general of this army as a focus
 * Can use the ''arcane consolidation'' order when defending
 * Other Descriptors: Arcane, Necromantia, Occult, Sorcerous
 A ''magic'' army contains many magicians, and soldiers trained to Fight alongside magicians and help with the targeting of powerful rituals. If they are defending a territory then they can provide a bounty of crystal mana to their general for use in creating helpful Enchantments. Rumours suggest that the native defenders of [[Karsk]] who have been assisting the Varushkan generals during their Fight against the [[Thule]] also possess this quality. Several Thule armies possess similar sorcerous powers. The Axou and the Jarmish also field several armies with this quality.
@@ -234,7 +234,7 @@ A mercenary army is versatile, but can only employ each type of specialist troop
 ## Physick
 * Can use the ''tend the fallen'' order when defending
 * Other Descriptors: Apothecary, Grimnir, Healer, Herbalist, Hospitaller, Support
-A ''physick''  army contains a large number of battle-field hardened healers of various traditions, and soldiers adept at fighting alongside them. The force excels at using medical [[Skills]], establishing mobile field hospitals, and applying principles of triage to save those who can be saved. The [[Valiant Pegasus]] of Highguard has the physick quality. The newly reformed Wintermark [[Bloodcloaks]], also possess this quality, as did the original Bloodcloaks who were lost to the Thule during the reign of [[Empress Brannan]]. 
+A ''physick''  army contains a large number of battle-field hardened healers of various traditions, and soldiers adept at fighting alongside them. The force excels at using medical Skills, establishing mobile field hospitals, and applying principles of triage to save those who can be saved. The [[Valiant Pegasus]] of Highguard has the physick quality. The newly reformed Wintermark [[Bloodcloaks]], also possess this quality, as did the original Bloodcloaks who were lost to the Thule during the reign of [[Empress Brannan]]. 
 Tend the Fallen
 * All casualties suffered by this army are reduced by a fifth.
 * All casualties suffered by allied armies in the same territory who are taking defensive orders are reduced by a tenth.

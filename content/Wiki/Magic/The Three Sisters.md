@@ -21,7 +21,7 @@ Sometimes known as the Three Sorrows, the Three Sisters stand for [[Family]] and
 Knowing as they do all sorrows, it stands within their power in legend to grant surcease from sorrow by gifting it to another; though in the tale their gifts always carry a sting in the tale.
 In [[Navarr]], [[Wintermark]] and [[Varushka]] they are called the Three Mothers, rather than the Three Sisters.
 ### Invoking the Three Sisters in Ritual
-The Three Sisters stand for regret, for sorrow and for consequences; they are a popular choice for cursing with, bringing down the sorrows of The Three Sisters on an opponent is seen as less inherently dangerous than invoking [[The Wanderer]] or [[The Drowned Man]]. They can also stand for the [[Ties that Bind]] families, clans and communities together; [[Rituals]] to affect a specific bloodline or group may benefit from invoking their name.
+The Three Sisters stand for regret, for sorrow and for consequences; they are a popular choice for cursing with, bringing down the sorrows of The Three Sisters on an opponent is seen as less inherently dangerous than invoking [[The Wanderer]] or [[The Drowned Man]]. They can also stand for the [[Ties that Bind]] families, clans and communities together; Rituals to affect a specific bloodline or group may benefit from invoking their name.
 ### Tulpas of The Three Sisters
 Tulpas of the Sisters almost always take the form of one of The Three Sisters themselves; a veiled young woman sighing sorrowfUlly, a middle-aged woman weeping tears of blood or a night-veiled old woman silent and deadly. BeWare Tenebrae.
 ### [[Alignment]]

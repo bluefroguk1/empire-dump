@@ -50,7 +50,7 @@ The silk is spun from the cocoons of the iridescent butterfly, a [[Gorgeous]] in
 Iridescent gloaming is produced from the remnants of the cocoons which are ground down to produce a thick waxy substance. Iridescent gloaming has an almost magical quality that allows it to take on different colours in the hands of a skilled artisan and is noted for its use in creating exquisite embroidery, or as a colour wash for leather. Its peculiar magical properties make it a common component in items that use [[Magic]] or produce magical effects.
 The iridescent butterfly is used as a symbol by many Dawnish weaver cabals, and a bottle of Iridescent gloaming is usually stamped with a butterfly symbol.
 ## [[Ilium]]
-Sometimes called ''star metal'', Ilium is a rare mineral that falls from the sky. It has magical properties that mean it is very much in demand by ritualists, crafters and even some apothecaries. It is most valuable because it can greatly extend the duration of many [[Rituals]] and it can be used to create artefacts.
+Sometimes called ''star metal'', Ilium is a rare mineral that falls from the sky. It has magical properties that mean it is very much in demand by ritualists, crafters and even some apothecaries. It is most valuable because it can greatly extend the duration of many Rituals and it can be used to create artefacts.
 Ilium is not produced by mines or forests. Rather, it is allocated via campaign resources.
 ## Common Metals
 Copper and iron are common throughout the Empire and frequently alloyed with other metals to make weapons and armour. Alloys of these metals like bronze, brass and steel are hard and tough; they make equally effective weapons and armour that commonly count as heavy armour in Empire.

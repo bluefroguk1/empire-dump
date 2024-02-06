@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Summer Solstice 2017
 aliases:
-- Summer_Solstice_2017
+  - Summer_Solstice_2017
 draft: false
 revision_date: 2022-01-29 15:25:51+00:00
 revision_id: 86186

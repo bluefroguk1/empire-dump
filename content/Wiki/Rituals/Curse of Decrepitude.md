@@ -22,7 +22,7 @@ While under the curse, the target experiences a powerful Roleplaying effect; the
 In addition, while under the Curse the target is under the effect of [[Weakness]]. This weakness cannot be removed by any means as long as the Curse remains in effect. Any resources used to try and remove the weakness are consumed without effect.
 Year Duration
 ### Removing the Curse
-The curse can be removed by certain powerful creatures or items. It can also be alleviated by powerful [[Rituals]] that remove curses of physical debilitation such as the "white stone" produced by [[Amalgamation of Silver and Gold]].
+The curse can be removed by certain powerful creatures or items. It can also be alleviated by powerful Rituals that remove curses of physical debilitation such as the "white stone" produced by [[Amalgamation of Silver and Gold]].
 ### OOC Elements
 A [[Briar]] can use their natural vitality to throw off the exhaustion that comes from physical exertion, but all the other effects apply as normal.
 ## Description

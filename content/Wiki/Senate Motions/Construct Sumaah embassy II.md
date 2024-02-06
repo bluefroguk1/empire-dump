@@ -28,5 +28,5 @@ To grant permission to construct an [[Embassy]] for the Sumah Republic.Proposed 
 * 5 wains of weirwood, 5 wains of white granite and 10 thrones supplied by Cyrus, son of Felix after the Winter Equinox 379YE.
 ### Campaign Outcome
 * Follows the defeat of a similar vote in Winter 378YE.
-* When the embassy is complete it will automatically create the [[Imperial Title]] of [[Ambassador to the [[Sumaah]] Republic]].
+* When the embassy is complete it will automatically create the [[Imperial Title]] of [[Ambassador to the Sumaah Republic]].
 __NOTOC__

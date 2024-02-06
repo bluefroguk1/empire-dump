@@ -20,7 +20,7 @@ In addition, each order has a ''vault'' - a rather grandiose terms that refers t
 * Any mana collected duing those Conclave sessions is then put in the cache to make the new Font for the next summit
 The Font refers to the large pool of crystal mana available to the Conclave at each summit. During each summit, the conclave can use a Declaration of Endowment to disburse an amount of this crystal mana to a named individual.
 Anything that is left over once the summit has ended is then distributed between the various orders (via the grandmaster) based on the Principle of Precedence. Civil servants divide the mana between the orders based on all the Magicians counted in total as belonging to that order. This calculation is based on the number of characters with the correct [[Arcane Mark]] who were alive and present at the end of the previous summit. An order which is twice the size of another receives twice as much mana, for example. DiVisions are rounded down and any resources that are not allocated as a result remain part of the Font.
-Any mana that has been collected during Conclave sessions under the Principle of Proportions is then placed into the supply to form the Font for the next summit. On occasion mana may also be added to the Font due to ongoing [[Events]] in [[The Empire]].
+Any mana that has been collected during Conclave sessions under the Principle of Proportions is then placed into the supply to form the Font for the next summit. On occasion mana may also be added to the Font due to ongoing Events in [[The Empire]].
 Crystal mana can also be added to an order's share by the grandmaster's power to fund their order; from mana expended during the election of a grandmaster, and from bequests.
 Precedence OrderIlium
 First3 rings

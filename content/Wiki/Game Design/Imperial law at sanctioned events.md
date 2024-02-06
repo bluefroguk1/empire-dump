@@ -1,11 +1,11 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
-- The-Law
+IgnoreLinking: true
+tags:
+  - Events
+  - The-Law
 Title: Imperial law at sanctioned events
 aliases:
-- Imperial_law_at_sanctioned_events
+  - Imperial_law_at_sanctioned_events
 draft: false
 revision_date: 2023-12-09 22:24:57+00:00
 revision_id: 106346

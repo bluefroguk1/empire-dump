@@ -17,7 +17,7 @@ The definitions of the crimes are brief, but this reflects the laws of the setti
 * Murder: Unlawful assault or other action against a person with intent to kill and which results in someone’s death. 
 * Manslaughter: Unlawful assault or other action against a person which results in someone’s death. 
 * Assault: UnlawfUlly striking a person. 
-There is a traditional defence to an assault charge which applies where unwelcome Visitors who refuse to leave your camp are cut down, removed from camp and then provided with sufficient medical [[Assistance]] to avoid permanent injury. One who is accused of assault but wishes to claim this defence should plead not guilty if it goes to trial. However, if the magistrate decides that the accused’s behaviour was unreasonable they will be found guilty.
+There is a traditional defence to an assault charge which applies where unwelcome Visitors who refuse to leave your camp are cut down, removed from camp and then provided with sufficient medical Assistance to avoid permanent injury. One who is accused of assault but wishes to claim this defence should plead not guilty if it goes to trial. However, if the magistrate decides that the accused’s behaviour was unreasonable they will be found guilty.
 Remember that persons who consent to do so can [[Fight]] each other without fear of legal [[Sanction]], provided that nobody is seriously hurt and they are not causing a public order issue.
 * Mayhem: Unlawfully maiming or mutilating a person. 
 * Poisoning: InTroducing or applying a poisonous substance or effect to a person which causes them harm. 

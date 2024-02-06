@@ -23,7 +23,7 @@ In addition, circumstances conSpire to cause the character to lose their valuabl
 The additional production provided by an [[Enchantment]] such as [[Rivers of Gold]] or [[Rampant Growth]], a character's [[Basic]] income of [[18 Rings]], and the production of campaign resources is not affected by this Curse.
 Year Duration
 ### Removing the Curse
-The curse can be removed by certain powerful creatures or items. It can also be alleviated by powerful [[Rituals]] that improve fate and chance.
+The curse can be removed by certain powerful creatures or items. It can also be alleviated by powerful Rituals that improve fate and chance.
 ## Description
 This horrible Curse slowly erodes the wealth of the target. Their resources fail them, their clothes become threadbare, and they are constantly aware of the vagaries of fate that may rob them of their security, prosperity and comfort. They can receive temporary respite from the curse through the use of enchantments that enhance their resources, but slowly and inexorably they are paupered unless they are very lucky.
 Some targets have attempted to argue that this curse is tantamount to theft, and have ritualists prosecuted accordingly. Magistrates will not treat this as theft, however, because it technically does not steal from the target; it makes it harder for them to acquire new wealth, it only peripherally daMages wealth they have already got. The recourse of the target is to the [[Imperial Conclave]], not the judiciary.

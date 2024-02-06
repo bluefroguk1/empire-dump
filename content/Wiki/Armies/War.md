@@ -9,7 +9,7 @@ tags:
 ---
 
 ## Overview
-The Generals and admirals of the [[Imperial Military Council]] oversee the military campaigns on behalf of [[The Empire]]. Working with the Civil Service they give orders to the Imperial armies for the months between [[Events]] to direct the ongoing military campaigns against the enemies of the Empire.
+The Generals and admirals of the [[Imperial Military Council]] oversee the military campaigns on behalf of [[The Empire]]. Working with the Civil Service they give orders to the Imperial armies for the months between Events to direct the ongoing military campaigns against the enemies of the Empire.
 A ''campaign'' refers to a clash of forces in a territory when one or more of the armies or navies there attacks. Campaigns stretch over three months and encompass multiple encounters between the Imperial forces and the Barbarian enemies. Each commander issues a single set of orders to deterMine the strategy their army or navy will pursue during the campaign. The orders create a narrative for the campaign; they communicate the aims of the Imperial forces and shape the results of success (or failure) at each stage of the campaign.
 ## Campaign
 * A campaign takes place if one or more opposing armies or navies attacks another
@@ -29,7 +29,7 @@ The text for the orders is important - we use it to determine the narrative of t
 Admirals and generals must provide the Herald of the Council with a signed copy of their orders. They can submit their orders at any time. Traditionally they are written and sealed on the last day but there is no legal requirement for this - as long as the orders are received by the Herald before the end of the summit.
 The civil service uses the signed orders to make suitable arrangements and instructions for all the necessary logistical support, as well as ensuring that the correct orders are communicated to the army. Any attempt to change the orders once they are officially given to the Herald invariably leads to chaos and confusion which harms the army's effectiveness.
 ### Barbarian Orders
-The orders for the barbarian armies are submitted by members of the military campaign plot team. The Barbarian generals have access to [[Magic]] and [[Rituals]] - similar to those employed by the players - so the team also decide which rituals to use to strengthen their armies and to scry the Imperial forces. All these decisions are done blind; the people submitting them do not have any knowledge of the orders submitted or rituals performed by the players.
+The orders for the barbarian armies are submitted by members of the military campaign plot team. The Barbarian generals have access to [[Magic]] and Rituals - similar to those employed by the players - so the team also decide which rituals to use to strengthen their armies and to scry the Imperial forces. All these decisions are done blind; the people submitting them do not have any knowledge of the orders submitted or rituals performed by the players.
 ## Outcome
 * The side with the largest fighting strength wins
 The outcome of a campaign is found by comparing the total military strength of both sides in the territory. The military strength of each force is adjusted based on the orders their General or admiral has submitted for them. Even though individual armies and navies are given specific orders, the outcome of the entire campaign as a whole is determined by all the forces on both sides. The side with the higher military strength wins.

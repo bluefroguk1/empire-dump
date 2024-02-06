@@ -16,7 +16,7 @@ Season|Day|14
 ### Performing the Ritual
 Casting time|2 The ritual must be performed with a map of the target territory.
 ### Effects
-At the completion of the ritual the contributors receive iMages that reveal information about all significant effects on the Territory, or on Regions or campaign armies within that territory. The ritual is not limited to Magical effects; significant mundane [[Events]] such as plagues, Forest fires or monstrous rampages may also be divined by the [[Magic]]. The ritual does not divine small-scale Enchantments such as [[Rivers of Gold]]. 
+At the completion of the ritual the contributors receive iMages that reveal information about all significant effects on the Territory, or on Regions or campaign armies within that territory. The ritual is not limited to Magical effects; significant mundane Events such as plagues, Forest fires or monstrous rampages may also be divined by the [[Magic]]. The ritual does not divine small-scale Enchantments such as [[Rivers of Gold]]. 
 When it exaMines a significant effect, it may provide any of the following information that is relevant to that effect.
 * the [[Realm]] and magnitude of the effect, especially if it is magical in nature.
 * what the effect does, and some details of how it does it.
@@ -26,7 +26,7 @@ Each contributor receives the same Vision. These visions are not symbolic, and G
 If the target territory is under an effect that obscures information such as [[Drawing the Penumbral Veil]], this spell can only penetrate it if it has been performed with a magnitude at least equal to that of the [[Enchantment]]. Otherwise only the presence, realm and magnitude of the obscuring effect are revealed.
 if something within the territory that would otherwise be divined with this ritual is obscured with such an effect, the presence, realm and magnitude of the obscuring effect is revealed but no other information about that effect. Information about other effects in the territory is revealed normally.
 ### Additional Magnitude
-You may increase the magnitude of the ritual in order to pierce more powerful [[Rituals]] of concealment.
+You may increase the magnitude of the ritual in order to pierce more powerful Rituals of concealment.
 ### OOC Elements
 The result of this ritual may be delivered in the form of a written vision, acquired from GOD. In this case, the contributors can study their vision as long as they like, but cannot discuss it or make notes until they have handed the slip back to a referee; at that point they are free to roleplay however they like - they may play through the process of receiving the vision, or act as if they have been in waking trance and the vision has already passed. All information divined by this ritual is correct at the time of casting.
 Letting a referee know at least an hour in advance that you plan to perform this ritual and what the target territory will be will make it easier to ensure that the information is ready and will prevent delays.

@@ -18,7 +18,7 @@ This motion has been offered to civil service [[Scrutiny]].
 [[The Garden]] will be in the Region of Grovesyard, [[Miaren]], by the hospital Aurelie's Rest.
 The rules of the contest will be set by the proposer as so:
 10 vs 10 Dawnish vs Navarr.
-All [[Skills]]. Until one team remains standing, any additional rules may be decided mutually by both teams.Proposed by [[Weirwater]], seconded by [[Sarvos]] 
+All Skills. Until one team remains standing, any additional rules may be decided mutually by both teams.Proposed by [[Weirwater]], seconded by [[Sarvos]] 
 ### Overview
 * A sinecure in Grovesyard, Miaren which provides herbs
 * Passed

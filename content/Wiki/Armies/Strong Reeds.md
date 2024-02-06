@@ -14,7 +14,7 @@ revision_id: 96983
 
 Army Page
 ### Overview
-Initially raised from the people of [[Bregasland]], there is still a strong territorial bias in the soldiers of this army. The [[Strong Reeds]] is notorious for the dour, stubborn nature of the soldiers who serve under its banner. The Strong Reeds have a long history of resisting [[Jotun]] aggression against the marshes, and have several times in their history fought alongside the [[Wintermark]] armies in [[Kallavesa]].  In recent years they have embraced much older, secretive stratagems, relying on [[Skills]] honed by years in the fens to perfect the art of scattering into a territory and lay low in appropriate Territory.
+Initially raised from the people of [[Bregasland]], there is still a strong territorial bias in the soldiers of this army. The [[Strong Reeds]] is notorious for the dour, stubborn nature of the soldiers who serve under its banner. The Strong Reeds have a long history of resisting [[Jotun]] aggression against the marshes, and have several times in their history fought alongside the [[Wintermark]] armies in [[Kallavesa]].  In recent years they have embraced much older, secretive stratagems, relying on Skills honed by years in the fens to perfect the art of scattering into a territory and lay low in appropriate Territory.
 The second Marcher [[General]] leads the Strong Reeds army, and is appointed (or re-appointed) at the Winter solstice each year.
 ### History
 TBC

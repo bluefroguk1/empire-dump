@@ -11,7 +11,7 @@ revision_id: 54900
 ---
 
 ## Description
-The covenstone known as [[The Flickering Flame]] draws upon the [[Realm]] of Night to [[Empower]] a coven with additional capacity for performing [[Rituals]], drawing upon the bonds created between members of the coven. 
+The covenstone known as [[The Flickering Flame]] draws upon the [[Realm]] of Night to [[Empower]] a coven with additional capacity for performing Rituals, drawing upon the bonds created between members of the coven. 
 These are often crafted to resemble a flaming torch that can be held aloft during ceremonies, some are actually lit during a ritual. Others contain a lightstone to give the effect of light coming from within, ebbing and flowing, revealing and disappearing. Each of the [[Runes]] associated with Night are equally likely to be incorporated into such an item.
 TextCovenstone
 ## Rules

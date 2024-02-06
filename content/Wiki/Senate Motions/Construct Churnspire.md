@@ -14,7 +14,7 @@ revision_id: 94594
 __NOTOC__
  I propose that a motion that a [[Folly]] be built in Peregro and then ceded to [[Meraud]]. This tower will be taller than Pakaanan's Pass as per designed by Megaris of GlowSpire. It will create the position of [[Churnspire Adjutor]], an Urizeni national position elected by the Mages of [[Urizen]]. The position would receive regalia from Meraud and a regular gift of mana.
 ## Overview
-* Commissions the construction of the ''Churnspire'', a Magical tower in Peregro, in [[Morrow]], with the [[Assistance]] of the [[Eternal]] Meraud.
+* Commissions the construction of the ''Churnspire'', a Magical tower in Peregro, in [[Morrow]], with the Assistance of the [[Eternal]] Meraud.
 * Details of the Opportunity can be found in the  [[The Net of the Realms]] wind of fortune.
 * Passed at 100 Thrones
 ## Date

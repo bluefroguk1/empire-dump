@@ -26,7 +26,7 @@ It is also possible for the Senate to pass a motion to upgrade a Ministry, incre
 * Labour: 3 crowns per wain
 * Upkeep: None
 The more resources are devoted to constructing a ministry, the more resources can be purchased each downtime. Under normal circumstances, the material required will be the one associated with upgrading an equivalent personal resource. For example, at least 12 wains of [[Mithril]] is required to create a ministry that allows the purchase of mana crystals.
-In addition to the wains required, it costs 3 crowns per wain to pay for labour and [[Skills]] to complete the construction.
+In addition to the wains required, it costs 3 crowns per wain to pay for labour and Skills to complete the construction.
 ### 12 Wains
 {| class="wikitable"
 |-
@@ -118,7 +118,7 @@ The tables shows some standard purchase costs for a range of different sized min
 ## Limitations
 It is not possible to create a ministry which allows the purchase of [[Ilium]], Liao, Mithril, [[Weirwood]], or [[White granite]] without a suitable Opportunity.
 Although a ministry produces items like a personal resource, it cannot be upgraded or diversified in the same way a personal resource can. The only options available are what Materials to buy. A ministry that produces liao will not come with an option to sell that liao in downtime, a ministry that produces green iron cannot be paid to produce more in [[The Way]] a green iron [[Mine]] could.
-Ministries are not affected by [[Rituals]] that target a personal resource. A ritual that increases the production of a green iron mine will not affect a ministry that produces green iron.
+Ministries are not affected by Rituals that target a personal resource. A ritual that increases the production of a green iron mine will not affect a ministry that produces green iron.
 ## Responsibility
 Any citizen who is granted a ministry is expected to be responsible for any problems that might beset the resources represented by the ministry. For example, if bandit raiders are threatening the mines overseen by the [[Dhomiro of the Cinnabar Hills]], then [[The Empire]] will expect that citizen to deal with the problem.
 #lst:Archive:All_Commissions|ministries

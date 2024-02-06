@@ -33,7 +33,7 @@ In [[Wintermark]], the eagle, the heron, and the swan all symbolise Pride. The e
 During their Spring festival, the Urizen represent the virtue of Pride with pink blossoms.
 ## Further Reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Pride here.
-* You can learn about the [[Skills]] that priests can use to inspire the virtue of Pride here.
+* You can learn about the Skills that priests can use to inspire the virtue of Pride here.
 ### The Seven Virtues
 * [[Ambition]]
 * [[Courage]]

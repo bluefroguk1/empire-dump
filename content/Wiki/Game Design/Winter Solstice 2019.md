@@ -1,10 +1,10 @@
 ---
-IgnoreLinking: false
-Tags:
-- Events
+IgnoreLinking: true
+tags:
+  - Events
 Title: Winter Solstice 2019
 aliases:
-- Winter_Solstice_2019
+  - Winter_Solstice_2019
 draft: false
 revision_date: 2022-01-29 15:27:33+00:00
 revision_id: 86192

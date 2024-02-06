@@ -17,7 +17,7 @@ Season|Summer|20
 Casting time|2 Target Character The target character must possess the Summer Lore skill.
 [[Enchantment]] 
 ### Effects
-The target gains one effective rank of the Summer lore skill for purposes of performing [[Rituals]], subject to the normal rules for effective skill. 
+The target gains one effective rank of the Summer lore skill for purposes of performing Rituals, subject to the normal rules for effective skill. 
 They gain two effective ranks (total) to the appropriate ritual lore if they are contributing to the performance of ''any'' ritual of magnitude 100 or greater. The ritual does not need to be part of Summer lore, but the normal rules for effective skill still apply. The additional power ''cannot'' be used if another effect such as a Chain of [[Aesh]] is used to reduce the magnitude of a ritual below 100.
 While the enchantment lasts the target experiences a Roleplaying effect: You feel supremely confident in your abilities; it is hard to imagine that you could fail at something you set your mind to. When others disrespect you, ignore your opinions, or suggest you might fail,  it is hard for you to remain calm.
 If the target is a [[Changeling]], the roleplaying effect is especially pronounced. A changeling may also choose to temporarily add to or increase physical trappings of their Lineage. These changes are temporary and do not last more than a few hours after the enchantment ends.

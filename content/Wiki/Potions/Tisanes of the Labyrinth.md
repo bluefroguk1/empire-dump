@@ -11,9 +11,9 @@ revision_date: 2023-05-12 20:44:40+00:00
 revision_id: 100682
 ---
 
-These preparations are of special interest to the priests of [[The Way]]. Each of these preparations uses [[Liao]], and consequently those apothecaries who master them usually require the [[Assistance]] of someone with access to that comparatively rare preparation, Under normal circumstances this means a priest with a [[Congregation]] as a Resource.
+These preparations are of special interest to the priests of [[The Way]]. Each of these preparations uses [[Liao]], and consequently those apothecaries who master them usually require the Assistance of someone with access to that comparatively rare preparation, Under normal circumstances this means a priest with a [[Congregation]] as a Resource.
 ## Usher's Decoction
-Consuming this sweet, pale orange preparation allows a character to enhance their ability to perform priest [[Skills]]. 
+Consuming this sweet, pale orange preparation allows a character to enhance their ability to perform priest Skills. 
 The dreams that come after a use of Usher's Decoction are troubling to some theological scholars. While many of these dreams seem to be little more than night-time fancies, albeit very vivid ones, there is some circumstantial evidence that the dreamer is actually experiencing one of the dreams originally dreamt by a past life. Priests have reported dreams that made sense only in the context of someone else's life.
 * Form: Liquid
 * Description: When this pale orange liquid catches the light it seems to glow. It has a light, spicy scent. A tiny droplet of this thin fluid on your tongue reveals it to taste faintly of cherries.

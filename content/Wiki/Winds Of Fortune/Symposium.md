@@ -10,7 +10,7 @@ revision_date: 2022-02-03 08:27:26+00:00
 revision_id: 86693
 ---
 
-After the disastrous [[Events]] of the [[Symposium]] of [[Ambition]] in 176YE, it was clear to all that in future the question of which [[Foreign Nations]] to ''invite'' should be a matter for [[Judgement]] of the Synod. Uninvited guests would remain a detail for Symposiarch to rule on, but formal invitations would no longer be sent out without a fUll consideration of the possible consequences.
+After the disastrous Events of the [[Symposium]] of [[Ambition]] in 176YE, it was clear to all that in future the question of which [[Foreign Nations]] to ''invite'' should be a matter for [[Judgement]] of the Synod. Uninvited guests would remain a detail for Symposiarch to rule on, but formal invitations would no longer be sent out without a fUll consideration of the possible consequences.
 A [[Senate motion]] forbidding the use of the Senate building for any further symposiums was unfortunate, but not entirely unexpected given the scale of the daMage caused to the historic building in the resulting melee.
 While the damage was slowly restored, relations with the orcs were damaged for decades afterWards. Those who had organized the invitations accused the survivors of instigating the riot - but their detractors pointed out that it just couldn't have been possible for the Visitors to have caused such devastation ''unless they had come prepared for it''.
 Possibly as a result of the turmoil, it would be another eighteen years before the final Symposium of the second century would be called.

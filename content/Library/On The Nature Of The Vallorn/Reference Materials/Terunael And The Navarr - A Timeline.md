@@ -22,7 +22,7 @@ These nations grew in size and power through constant warfare with their neighbo
 **YEAR ZERO**
 While many scholars disagree on how long passed between the fall of Terunael and the rise of the Empire we know today most evidence seems to support the fact that the Time of Chaos and Pre-Imperial time periods spans centuries (and not thousands of years as some romanticised tales declare)
 
-It is in what is known as Year Zero that with an eye to the conflict between the human nations and the risks posed by the orcs, the [[First Empress]] began her [[Crusade]] in Highguard. She gathered around a small group of like-minded individuals from various nations and with their [[Assistance]], and with the aid of the Navarr, she brought together the leaders of humanity to discuss the barbarian threat. Her Vision and charisma - and the hard work of her allies - convinced many of them to recognise the value of an Empire. The people of Urizen declined to join, but sufficient folk from [[The Brass Coast]], [[The League]], Dawn, Highguard, Navarr, [[Varushka]], [[Wintermark]] and The Marches accepted the proposal to allow them to form the Empire.
+It is in what is known as Year Zero that with an eye to the conflict between the human nations and the risks posed by the orcs, the [[First Empress]] began her [[Crusade]] in Highguard. She gathered around a small group of like-minded individuals from various nations and with their Assistance, and with the aid of the Navarr, she brought together the leaders of humanity to discuss the barbarian threat. Her Vision and charisma - and the hard work of her allies - convinced many of them to recognise the value of an Empire. The people of Urizen declined to join, but sufficient folk from [[The Brass Coast]], [[The League]], Dawn, Highguard, Navarr, [[Varushka]], [[Wintermark]] and The Marches accepted the proposal to allow them to form the Empire.
 
 *(22 YE - 34 YE) Reign of [[Emperor Giovanni]], "the Peacemaker"*
 After the death of the First Empress, Emperor Giovanni of [[Tassato]] was chosen by the Senate to
@@ -31,7 +31,7 @@ a military leader like his predecessor. He set about ensuring the Empire had the
 
 *(27 YE) Reclamation of [[Miaren]]*
 After fifteen years or so of active preparation, some of which spearheaded by the vate Rhonwen (see later documents on Rhonwen's Fall), the Navarr destroyed the [[Vallorn]] of Miaren with a
-combination of military might and potent [[Rituals]]. The city of Seren was recovered and became a center for investigation of both vallorn and the history of Terunael for the next hundred years.
+combination of military might and potent Rituals. The city of Seren was recovered and became a center for investigation of both vallorn and the history of Terunael for the next hundred years.
 
 *(36 YE - 69 YE) Reign of [[Empress Richilde]], "the Sun Queen"*
 
@@ -51,7 +51,7 @@ This Navarr Empress was deeply involved in the business of the Synod, and it was
 *(200 YE - 209 YE) Reign of [[Emperor Nicovar]] "the Mad"*
 The first reversals in The Empire's fortune occurred during the reign of Emperor Nicovar. Initially a brilliant administrator, Nicovar expanded the role of the civil service in support of The Empire. However, a decade of attempting to micromanage every element of The Empire, as well as a reliance on the [[Magic]] of Day to gather and interpret ever greater amounts of information, eventually caused him to descend into madness.
 
-The [[Draughir]] Emperor became increasingly unstable, perceiving patterns in [[Events]] that appeared paranoid to others. His unpopular policies divided the Senate and the Synod, and there were rumbles of civil [[War]]. He began to demand extreme amounts of record keeping and it became clear that he was not in his right mind.
+The [[Draughir]] Emperor became increasingly unstable, perceiving patterns in Events that appeared paranoid to others. His unpopular policies divided the Senate and the Synod, and there were rumbles of civil [[War]]. He began to demand extreme amounts of record keeping and it became clear that he was not in his right mind.
 
 Things came to a head in 209 when Emperor Nicovar sent his troops to burn down the Empire's libraries. There was a revolt, which culminated in the destruction of the central repository of records in Highguard and several key spires in Urizen. The mad emperor was executed by [[The Captain]] of his own guard, the Navarr [[Thorn]] [[Isaella]]. Despite appeals for clemency from the Synod, Isaella took fUll responsibility. She was convicted as a traitor, but at the same
 time was both lauded as an exemplar of [[Courage]] and duty, and a hero of the Empire.

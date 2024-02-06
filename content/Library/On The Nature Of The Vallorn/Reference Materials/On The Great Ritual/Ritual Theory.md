@@ -4,7 +4,7 @@
 
 **Resonance and Dissonance**
 
-Ritual [[Magic]] is not limitless in scope and there are a number of fundamental laws that are common to all the realms, and certain limits that it cannot easily overcome. In addition to this, each of the six have strengths and Weaknesses, referred to as resonance and dissonance. Where a [[Realm]] is resonant with a theme, [[Rituals]] that produce that outcome are easier to cast using that realm than any other. For example, the Spring Realm is resonant with Healing magic, so rituals that [[Heal]] the wounded are easier to perform using the Spring realm than any other realm.
+Ritual [[Magic]] is not limitless in scope and there are a number of fundamental laws that are common to all the realms, and certain limits that it cannot easily overcome. In addition to this, each of the six have strengths and Weaknesses, referred to as resonance and dissonance. Where a [[Realm]] is resonant with a theme, Rituals that produce that outcome are easier to cast using that realm than any other. For example, the Spring Realm is resonant with Healing magic, so rituals that [[Heal]] the wounded are easier to perform using the Spring realm than any other realm.
 
 Where a realm is dissonant with a theme, then it is much harder to create a ritual effect that produces that outcome, if it is even possible. For example, the Autumn Autumn realm is dissonant with healing magic, it can repair broken items and daMaged buildings, but it has almost no ability at all to heal the wounded.
 

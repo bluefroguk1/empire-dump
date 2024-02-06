@@ -20,7 +20,7 @@ It is possible to obtain a higher yield from a herb garden. You may spend 6 crow
 ## Upgrades
 A herb garden can be upgraded using [[Weirwood]] obtained from the Bourse. Each time a Herb garden is upgraded, the owner chooses a single herb from the list. The herb garden produces 2 additional doses of that herb from then on.
 To upgrade a Herb garden requires Imperial wains of weirwood equal to the level the Herb garden is being upgraded to. So the first upgrade of a starting level 1 Herb garden Costs 2 Imperial wains of weirwood, from 2 to 3 costs 3 Imperial wains, etc.
-## [[Rituals]]
+## Rituals
 The table below shows a list of the rituals in [[Imperial lore]] which can affect the production of a herb garden.
 {| class="wikitable sortable"
 ! Ritual

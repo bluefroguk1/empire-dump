@@ -23,7 +23,7 @@ To achieve this sound, look at Music that fuses Celtic folk styles with African 
 * [[Caution for the Dawnish Youth]] - Cautionary song popular for expressing the Navarr World view
 ### A musical tradition
 Music has a practical use in Navarr society.  Music plays a proMinent part to create social harmony and to invoke the powers from beyond. It is used for work songs and for teaching.  
-Social [[Rituals]] are often performed to music, such as courtship rituals where one lead, supported by their chorus, makes their case, and the other lead, supported by their own chorus, questions them. 
+Social Rituals are often performed to music, such as courtship rituals where one lead, supported by their chorus, makes their case, and the other lead, supported by their own chorus, questions them. 
 Blood Rituals often rely on percussion support to evoke the feel of the pumping heart and helps focus the arts of the Vates.
 ### One for the kids
 * [[All the Pretty Ponies]] - lUllaby remembering extinct Horses, very easy.

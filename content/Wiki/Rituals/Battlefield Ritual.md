@@ -12,7 +12,7 @@ revision_id: 99373
 ---
 
 ## Overview
-[[Rituals]] require a referee to be present when they are cast, but finding a referee who is free on a battlefield can be extremely difficult to do. This significantly impacts on the effectiveness of several rituals which are explicitly designed to be cast in battle. To make it easier for players to perform these rituals, there is a special set of rules that apply to these battlefield rituals, allowing them to be cast without a ref.
+Rituals require a referee to be present when they are cast, but finding a referee who is free on a battlefield can be extremely difficult to do. This significantly impacts on the effectiveness of several rituals which are explicitly designed to be cast in battle. To make it easier for players to perform these rituals, there is a special set of rules that apply to these battlefield rituals, allowing them to be cast without a ref.
 ## Rules
 *On [[The Battlefield]], you may cast certain rituals without the presence of a referee
 *Be sure you understand the effects and limitations of the ritual

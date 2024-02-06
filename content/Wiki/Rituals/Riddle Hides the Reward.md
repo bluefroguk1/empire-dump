@@ -22,7 +22,7 @@ Any magician who contributed to the performance of the ritual can use the ''crea
 ### Duration
 The effect of this shroud lasts for a year or until all affected bonds have been cut.
 ### Additional Magnitude
-The higher the magnitude the harder it is to remove the effect with [[Rituals]] such as ''[[Black Iron Blade]]'' or ''[[Piercing Light of Revelation]]''.
+The higher the magnitude the harder it is to remove the effect with Rituals such as ''[[Black Iron Blade]]'' or ''[[Piercing Light of Revelation]]''.
 ### Removing the Shroud
 The Winter ritual Black Iron Blade can be used to break the bonds affected by this shroud, and a sufficiently powerful Piercing Light of Revelation will remove the effect of the shroud from an item or character without severing any bonds,  if it is of sufficient magnitude. The bond is also dissolved if the target magical item is destroyed with [[Words of Ending]]. As always, the bond does not break if the character involved dies.
 ## Description

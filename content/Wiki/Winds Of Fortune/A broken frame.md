@@ -140,7 +140,7 @@ MISSING:
 * A sack of ingots from the Benedicta Market office
 Note: The following restrictions apply for both players and monsters participating in these encounters:
 * It is not possible to use bows or crossbows in these encounters for safety reasons, please do not bring them.
-[[Accessibility]]: These encounters will:
+Accessibility: These encounters will:
 * be run in a darkened space
 * involve large obstacles to move around and to block sight lines, but not require climbing or crawling
 * involve combat

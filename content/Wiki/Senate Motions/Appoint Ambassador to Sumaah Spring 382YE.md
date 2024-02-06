@@ -14,7 +14,7 @@ revision_id: 85789
 __NOTOC__
 To appoint the Suumah [[Ambassador]].''Proposed by [[Miekarova]], seconded by [[Karsk]].''
 ## Overview
-* To appoint the [[Ambassador to the [[Sumaah]] Republic]]
+* To appoint the [[Ambassador to the Sumaah Republic]]
 * Passed
 * Election held Sunday 2pm Senate
 ## Date

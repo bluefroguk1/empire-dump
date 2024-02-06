@@ -44,7 +44,7 @@ While they're not involved in espionage, the emissaries from the Pride assembly 
 ## Liberty Pact
 Diplomats
 Ambassador to the CommonwealthLucia Sanguineo Rezia di Tassato of the League
-Ambassador to the [[Sumaah]] RepublicAccalon of Felix's Watch of [[Highguard]]
+Ambassador to the Sumaah RepublicAccalon of Felix's Watch of [[Highguard]]
 Ambassador to AxosFintan Nighthaven of Navarr
 Voice of LibertyEska Crowspeaker of [[Wintermark]]
 * The Liberty Pact will meet twice at the upcoming summit - 22:00 on Friday and 19:00 on Saturday

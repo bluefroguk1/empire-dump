@@ -37,7 +37,7 @@ Some [[Urizen]] point to the astronomantic constellations of The Chain and [[The
 It is more shameful to distrust your friends than to be deceived by them.
 ## Further Reading
 * You can learn about the various spiritual Roleplaying effects created by priests dedicated to Loyalty here.
-* You can learn about the [[Skills]] that priests can use to support the virtue of Loyalty here.
+* You can learn about the Skills that priests can use to support the virtue of Loyalty here.
 ### The Seven Virtues
 * [[Ambition]]
 * [[Courage]]

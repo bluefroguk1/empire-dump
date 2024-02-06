@@ -101,7 +101,7 @@ The Eagle and Stag Exchange
 Type: National position
 Appointment: Annual appointment; Tally of the Votes by Varushkan mine and forest owners
 Powers: Can purchase from the Mines of the Mountains Ministry. Can upgrade a level one Mine in Volodmartz the season they are appointed
-Responsibilities: Protect the town of Triosk, and the Triosk Metal Exchange. Offer [[Assistance]], guidance, and mediation to the Mine-owners of Volodmartz in particular, and the northern mountains in [[General]]; seek opportunities to build the Prosperity of Volomartz
+Responsibilities: Protect the town of Triosk, and the Triosk Metal Exchange. Offer Assistance, guidance, and mediation to the Mine-owners of Volodmartz in particular, and the northern mountains in [[General]]; seek opportunities to build the Prosperity of Volomartz
 Wealth of the Mountains
 7 crowns3 ingots each of green iron, orichalcum, tempest jade and weltsilver
 17 crowns6 ingots each of green iron, orichalcum, tempest jade and weltsilver

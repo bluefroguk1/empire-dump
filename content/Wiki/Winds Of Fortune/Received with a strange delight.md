@@ -14,7 +14,7 @@ revision_id: 96786
 
 Audio|link=https://youtu.be/zVdr2PGuDAc
 ## Overview
-The movers and shakers of [[The Empire]] gather at [[Anvil]] for the Summer Solstice. ArchMages and Cardinals, Generals and Senators, they all come together to discuss recent [[Events]] and plan for the future. Such gatherings of the rich and powerful draw others as well - those with goods to sell, secrets to trade, or business of their own to arrange.
+The movers and shakers of [[The Empire]] gather at [[Anvil]] for the Summer Solstice. ArchMages and Cardinals, Generals and Senators, they all come together to discuss recent Events and plan for the future. Such gatherings of the rich and powerful draw others as well - those with goods to sell, secrets to trade, or business of their own to arrange.
 ## Syrup and Smoke
 * Alexander of [[Axos]], a narcotic trader from Axos, is attending the summit but keeping a lower profile than previously
 * Nain of Gamul's Gate is among several people concerned about the proliferation of untested narcotics and medicines flooding into the Empire

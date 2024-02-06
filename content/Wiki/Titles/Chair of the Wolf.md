@@ -13,7 +13,7 @@ revision_id: 100437
 ---
 
 ## Overview
-The [[Chair of the Wolf]] is the impressive sounding [[Imperial Title]] granted to whichever League citizen is appointed to oversee the prestigious College of Engineering in [[Holberg]]. This important centre of learning is where many of [[The Empire]]'s finest Architects are trained and the faculty includes a large number of ambitious students, all of whom need practical opportunities to master their [[Skills]].
+The [[Chair of the Wolf]] is the impressive sounding [[Imperial Title]] granted to whichever League citizen is appointed to oversee the prestigious College of Engineering in [[Holberg]]. This important centre of learning is where many of [[The Empire]]'s finest Architects are trained and the faculty includes a large number of ambitious students, all of whom need practical opportunities to master their Skills.
 The title was established by the [[Imperial Senate]] during the Autumn Equinox 384YE in response to a Challenge from the masters of the College. If the Empire was successful in creating four great Commissions in a single year, one in each of [[The League]] cities, then they would endorse the Chair of the Wolf by providing all the necessary support needed for the title holder to create one new Commission in the League each season.
 There was some discussion on how the legal powers of the Chair of the Wolf might work, but in the end the Imperial Senate were content to go further than the College had originally proposed and granted the title holder the ability to announce new commissions in the Senate.
 ## Responsibilities

@@ -50,7 +50,7 @@ Fortifications are one of the first priorities of the civil service after the ar
 ## Military units
 Some wealthy or powerful citizens maintain their own independent Military unit. These units can be attached to a fortification to increase its effective strength. This is done by the orders of the military unit’s commander (submitted using the personal resource downtime system).
 The experienced and capable troops in a military unit provide an advantage out of proportion to their numbers. A starting military unit adds the equivalent of 100 soldiers to the strength of any fortification they support.
-## [[Rituals]]
+## Rituals
 The table below shows a list of the rituals in both [[Imperial lore]] and [[Urizen]] lore which can an affect a fortification.
 {| class="wikitable sortable"
 ! Ritual

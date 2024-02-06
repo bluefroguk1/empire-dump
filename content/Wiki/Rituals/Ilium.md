@@ -15,7 +15,7 @@ Ilium is a rare Mineral that falls from the sky. In any given year very little i
 Sometimes called ''star metal'', ilium is a pale, dUll metal that when polished up looks quite a lot like platinum. It is always cool to the touch, and is almost impervious to heat – it is difficult and time consuming to work. However, artisans who work with Ilium are prepared to put in the extra effort because this exceptionally valuable material allows them to extend the lifespan of their crafted items indefinitely and create artefacts.
 Ritual Magicians also have a use of Ilium. It can be used to give a ritual [[Enchantment]] or [[Curse]] a permanent duration. It can also be used by apothecaries in the preparation of the valuable Elixir of Exalted Puissance and Elixir of Empyrean Art.
 Unlike other [[Materials]], Ilium is not produced by mines or Forests. Imperial ilium is allocated through campaign resources, most of which are assigned to the [[Imperial Bourse]]. Occasionally a small deposit of ilium will be found by a lucky NPC [[Mine]] owner, diver, fisherman or Farmer. 
-## Using ilium in [[Rituals]]
+## Using ilium in Rituals
 *Ritualists can use Ilium to make some enchantments and curses permanent
 *A permanent rituals requires at least three rings for every level of magnitude of the ritual
 To make the effect of a [[Formulaic ritual]] permanent requires a number of rings of ilium equal to three times its magnitude, with a minimum of ten rings. It is not possible to make a spontaneous ritual effect permanent using ilium.
@@ -24,7 +24,7 @@ Only enchantments and curses with a duration of season or year can be made perma
 Some other rituals can also incorporate ilium to get additional effects such as Distill the Serpent's Stone; such cases are specifically mentioned in the ritual description.
 ### Roleplaying Effects
 *You cannot use [[Religious skills]] to remove the roleplaying effects of a permanent ritual
-Some rituals such as [[Chamber of Pallas]] and The Conspirator's Cloak create Auras that can be removed with ceremonial [[Skills]]. If such a ritual is made permanent, the effects ''cannot'' then be removed with the ceremonies such as [[Anointing]] or [[Consecration]], and will overcome even a strong [[Aura]] created using such skills. In theory, a dose of true [[Liao]] could be used to remove or supplant such an aura. However, the relative rarity and high value of True true liao to [[The Way]] means that to date there is no definitive proof one way or another.
+Some rituals such as [[Chamber of Pallas]] and The Conspirator's Cloak create Auras that can be removed with ceremonial Skills. If such a ritual is made permanent, the effects ''cannot'' then be removed with the ceremonies such as [[Anointing]] or [[Consecration]], and will overcome even a strong [[Aura]] created using such skills. In theory, a dose of true [[Liao]] could be used to remove or supplant such an aura. However, the relative rarity and high value of True true liao to [[The Way]] means that to date there is no definitive proof one way or another.
 ### Removing a Permanent Effect
 *Permanent enchantments are not replaced by a new enchantment, the new enchantment fails
 *Permanent rituals can still be removed by other methods
@@ -41,7 +41,7 @@ The ilium must be imbued into the item at the same time it is crafted; it is not
 ### Roleplaying Effects
 *All artefacts created by artisans have roleplaying effects on the user
 *You cannot use Hallowing to remove the roleplaying effects from an artefact
-Every artefact has a name, which appears on the item ribbon. Artefacts also exert strong influence over their wielders in the form of Roleplaying effects. Over time these roleplaying effects may become more pronounced, or subtly shift, based on the significant [[Events]] in which the item is involved. This is a permanent part of the item and cannot be removed with a ceremony of hallowing. 
+Every artefact has a name, which appears on the item ribbon. Artefacts also exert strong influence over their wielders in the form of Roleplaying effects. Over time these roleplaying effects may become more pronounced, or subtly shift, based on the significant Events in which the item is involved. This is a permanent part of the item and cannot be removed with a ceremony of hallowing. 
 The creator can attempt to give an artefact a unique name when they craft the item. They may also try to imbue the item with roleplaying effects that they would like, however artefacts seem to have a life of their own and some artisans even claim the item chooses its own name. When you create an artefact you should [mailto:plot@profounddecisions.co.uk e-mail Profound Decisions] with details of the item, the name and the roleplaying effect that you would like. We will pick a name and roleplaying effects for the item based on the information you provide. We are most likely to change comedic names or effects that are inappropriate for the setting.
 The best roleplaying effects reflect the nature of the artisan, or the purpose for which it is intended. For example, ''Guntherm's Hammer'' is an artefact greathammer crafted for the [[Steinr]] [[Emperor Guntherm]] which shares the magical qualities of a Captain's Command weapon but fills the wielder with a strong desire to kill any [[Imperial Orcs]] standing on Imperial soil.
 ### Destroying an Artefact

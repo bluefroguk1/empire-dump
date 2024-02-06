@@ -18,6 +18,6 @@ Children who have a solid grounding in [[The Way]] are often given a purple ribb
 * Know the Seven Virtues. Try to be as virtuous as possible and inSpire the same in those around you.
 * Learn about the [[Paragons and Exemplars]]. Study their lives and follow their example, you may yet become one!
 * Be vigilant! Look for signs of corruption and report them to a trusted adult, so that they can take appropriate action.
-* Practice makes perfect. Look for opportunities to perfect your arguments by trying them out on people, Challenge your friends to races or competitions, never pass up the chance to test yourself and hone your [[Skills]].
+* Practice makes perfect. Look for opportunities to perfect your arguments by trying them out on people, Challenge your friends to races or competitions, never pass up the chance to test yourself and hone your Skills.
 * If you don’t understand something, ask. It’s the only way you’ll learn. It’s an adult’s job to be able to explain things.
 Highguard Links

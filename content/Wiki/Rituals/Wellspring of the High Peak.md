@@ -20,7 +20,7 @@ Casting time|2 This ritual targets an opaque container that contains fresh, pure
 ### Effects
 When the ritual is performed, the ritualists put ten measures of [[Ambergelt]] in an opaque container that also contains fresh, pure water. At the completion the ambergelt disappears, presented to the [[Eternal]] [[Ossegrahn]].
 It may take up to an hour for anything to happen, potentially longer. After this time, when the box is opened, it will contain two pieces of vital honey. Each piece can be used as part of a Spring ritual as if it were up to three crystals of mana. The entire piece is consumed regardless of how much is needed, but it can be passed among multiple Magicians who are contributing to the ritual if desired. 
-Vital honey has no use in [[Spellcasting]], or in the [[Rituals]] of other realms.
+Vital honey has no use in [[Spellcasting]], or in the Rituals of other realms.
 ### Additional Targets
 The ritual can affect additional measures in the same container. Each additional ten measures included in the ritual increases the magnitude by 4, and provides an additional two pieces of vital honey.
 ## Assurance

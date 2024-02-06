@@ -14,7 +14,7 @@ revision_id: 107197
 
 ## Description
 Occasionally known as a ''[[Squire]]'s ReWard'' in [[Dawn]], these items normally take the form of either a sturdy bracer crafted from an alloy of green iron, or occasionally a pectoral of the same material. They are usually decorated with simple orichalcum inlays. Powerful noble houses in Dawn keep a set of these bracelets on hand at tournaments, calling them ''Tourney Trinkets'', and lend them to those who wish to participate in martial contests but lack training. On several occasions, such participants have won the day and been rewarded with the bracelets as their prize.
-In [[Highguard]], there is a quiet trade in these bracelets as gifts for more timid youngsters when they are sent off to do their military service. Those who struggled with martial [[Skills]] during their childhood occasionally find worried relatives slipping them this talisman. It is sometimes considered a little shameful to be found relying on such items, but sensible soldiers know that an actual, physical shield is a better protection on [[The Battlefield]] than the Virtue of [[Courage]] alone.
+In [[Highguard]], there is a quiet trade in these bracelets as gifts for more timid youngsters when they are sent off to do their military service. Those who struggled with martial Skills during their childhood occasionally find worried relatives slipping them this talisman. It is sometimes considered a little shameful to be found relying on such items, but sensible soldiers know that an actual, physical shield is a better protection on [[The Battlefield]] than the Virtue of [[Courage]] alone.
 ## Rules
 Jewellery
 * Effect: You gain the shield skill.

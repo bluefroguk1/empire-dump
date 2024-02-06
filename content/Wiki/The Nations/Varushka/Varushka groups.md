@@ -114,7 +114,7 @@ The people of the Wolves Hearth are fierce, principled, and militant. Their bond
 ### Cabals
 ### Cabal Lyktan
 Cabal Lyktan is a coven that call on the brilliance of Day and the golden light of Autumn that shines from [[The Lantern]] that is Cabal Lyktan - “Lyktan” meaning “Lantern” in one of the Sumaash dialects. Ritualists from across Varushka came together to found the cabal in 376YE, with an aim to support the nation and the Empire. 
-Cabal members from more than fifteen vales from across every territory of Varushka travel to Anvil each summit to perform Curses and [[Rituals]]. Ritualists with training in the realms of Day and Autumn are welcomed into the cabal with support and true Varushkan hospitality.
+Cabal members from more than fifteen vales from across every territory of Varushka travel to Anvil each summit to perform Curses and Rituals. Ritualists with training in the realms of Day and Autumn are welcomed into the cabal with support and true Varushkan hospitality.
 ### Heirs of Pakaanan
 The Heirs of Pakaanan were formed at the beginning of 383YE, when a small group of volhovs, wardens and wise ones united over a desire to seek out knowledge and protect Varushka, beginning with a magical ward over the camp’s hearth at Anvil.
 The Heirs is a diverse coven, representing traditions and practices from across Varushka. They have a range of interests and opinions, involving themselves in other people’s business as they see fit, but united by common aims. Membership interests range from Conclave, to Synod, to Senate. Despite Pakaanan’s membership of the [[Rod and Shield]], the coven as a whole is apolitical, although individual members might not be.
@@ -190,5 +190,5 @@ Some other questions to consider include:
 Things to avoid include:
 * Too much [https://en.wikipedia.org/wiki/Worldbuilding worldbuilding] detail — this represents information other characters may know about your house. It's not a place to define elements of the game world
 * Lists of character names — this isn't a place for getting your name on the wiki 
-* Too much emphasis on the past — while it's useful to have a few lines of history, what matters in Empire is what your house does on the field at [[Events]]
+* Too much emphasis on the past — while it's useful to have a few lines of history, what matters in Empire is what your house does on the field at Events
 It's possible to update the information on this page over time (for example if your boyar changes) with an e-mail to [mailto:plot@profounddecisions.co.uk plot@profounddecisions.co.uk].

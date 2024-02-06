@@ -47,7 +47,7 @@ Like all orcs however, the Mournwold thralls still feel an ''urge'' to fight, or
 ## Magic
 The orc thralls have very few magicians among their number. They overwhelmingly focus their magic on Healing, with only a handful capable of Purifying sickness and poison, restoring crippled limbs, or Mending broken tools.
 There are a few ritual magicians among the Mournwold thralls, but their capabilities are unclear. Practicing ritual Magic is seen as a Worthy endeavour for a thrall, on par with farming, but most of those thralls who served as personal spellcasters to Jotun jarls retreated alongside their masters. Those few covens of thralls who remained are believed to be practitioners primarily of Spring and [[Autumn rituals]] of use to farmers and miners. Their magical abilities are constrained by their limited access to crystal mana and relatively small numbers, but it is well known that the thralls are just as capable of, and enthusiastic about, enchanting their farms as their human neighbours. 
-There are a handful of specialist magicians among them who combine the use of [[Rituals]] such as [[Fan the Flame of New Life]] with training in the physick's art. These healers are well respected, and often serve as community leaders.
+There are a handful of specialist magicians among them who combine the use of Rituals such as [[Fan the Flame of New Life]] with training in the physick's art. These healers are well respected, and often serve as community leaders.
 ## Mournwold Thralls in Play
 * The Mournwold thralls are not available to player characters.
 Any Imperial character is free to create stories of interactions with the Mournwold thralls if they wish, as long as they bear certain considerations in mind.

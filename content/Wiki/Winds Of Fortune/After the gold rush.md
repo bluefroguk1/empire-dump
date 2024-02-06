@@ -34,11 +34,11 @@ The silent auction will have a number of items available, laid out to inspect ne
 ## The Enigma
 * ''Something'' has made its home in the other side of a Night [[Regio]] in [[Miaren]]
 * It has requested company, and is willing to offer rewards for new experiences
-In a quiet Forest, not far from the Ruins of Seren, there is a small night regio. It has been there for some time, the vates of the Stridings nearby will occasionally use it for the casting of [[Rituals]], or use the flowers that grow there for their tattoos.
+In a quiet Forest, not far from the Ruins of Seren, there is a small night regio. It has been there for some time, the vates of the Stridings nearby will occasionally use it for the casting of Rituals, or use the flowers that grow there for their tattoos.
 OOC NOTE
 This encounter will have low lighting, if you need to bring something to read by then it is entirely fine but please bring it yourself
 Something has changed in the last three months though, since the surge of [[Night magic]] that spread across [[The Empire]], something new has made its home in a chamber [[On the other side]] of the regio. It has sent through small ''tendrils'' of itself, to ask the people it encounters to come to it. To speak, sing and perform for it. To provide it with things that are old, and new. Things that can excite the senses, things that can dUll them such that it can experience everything again.
-It will only be able to journey to [[The Chamber]] with [[Assistance]] from one of the ''tendrils'', and the journey will require going through the Hall of Worlds. The chamber will be opened at 11:15 in the morning on Saturday, and each Visit will last roughly ten minutes, for no more than five people.
+It will only be able to journey to [[The Chamber]] with Assistance from one of the ''tendrils'', and the journey will require going through the Hall of Worlds. The chamber will be opened at 11:15 in the morning on Saturday, and each Visit will last roughly ten minutes, for no more than five people.
 ## The Invite
 * A herald of Malleas, secretary of [[Callidus]], is visiting Anvil to host an open auction for an invite to a game hosted by [[Prospero]] at the Autumn Equinox
 * Marquis Joueur is expected to arrive in the Hall of Worlds at 7 o'clock on Friday

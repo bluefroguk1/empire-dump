@@ -23,7 +23,7 @@ It is also possible for the Senate to pass a motion to upgrade a sinecure, incre
 * Labour: 3 crowns per wain
 * Upkeep: None
 The more resources are devoted to constructing a Sinecure, the greater the return. Under normal circumstances, the material required will be the one associated with upgrading an equivalent personal resource. For example, at least 10 wains of [[Mithril]] is required to create a Sinecure that produces mana crystals.
-In addition to the wains required, it costs 3 crowns per wain to pay for labour and [[Skills]] to complete the construction.
+In addition to the wains required, it costs 3 crowns per wain to pay for labour and Skills to complete the construction.
 {| class="wikitable"
 |-
 ! Wains
@@ -94,7 +94,7 @@ The table shows some standard costs and benefits for a range of sinecures. For e
 ## Limitations
 It is not possible to create a sinecure which mimics the effects of a [[Fleet]] or [[Military unit]], nor is it possible to create a sinecure which creates mithril, [[Ilium]], [[Weirwood]], or [[White granite]].
 A sinecure is very similar to a personal resource such as a [[Farm]] or [[Mine]] in that it provides a set amount of resources to the character who holds the position at the start of each event. Unlike a personal resource, however, you don't need to attend the previous event to get the benefits. Also, the sinecure cannot be upgraded or diversified by its holder (only by [[Senate motion]]) and there are no decisions to be made about what the position provides or how it does so. A sinecure that produces liao will not come with an option to sell that liao in downtime, a sinecure that produces green iron cannot be paid to produce more in [[The Way]] a green iron mine could.
-Sinecures are not affected by [[Rituals]] that target a personal resource. A ritual that increases the production of a green iron mine will not affect a sinecure that produces green iron.
+Sinecures are not affected by Rituals that target a personal resource. A ritual that increases the production of a green iron mine will not affect a sinecure that produces green iron.
 A sinecure that produces herbs will normally produce equal quantities of all herbs. It is possible to create a sinecure that produces a single Herb, provided it is one that is commonly found in the area. As part of the necessary details, the [[Senator]] can indicate what herbs they would like but the final decision about production is made by the game team.
 ## Synod Votes
 Any sinecure that produces liao also provides votes in the Imperial Synod. The flavour for such a sinecure almost invariably includes a group of faithful lay followers of the Way of some sort. The civil service evaluates this in the same way they would a Congregation and assigns liao and votes in the Imperial Synod on that basis.

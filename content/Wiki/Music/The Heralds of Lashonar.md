@@ -10,7 +10,7 @@ revision_date: 2016-10-05 10:57:46+00:00
 revision_id: 47479
 ---
 
-Following the of the 380YE Autumn Equniox, and the [[Events]] that preceded it, Lady Tamain Sepulchre composed this song to assist in pushing back against the insidious heralds of [[Lashonar]].
+Following the of the 380YE Autumn Equniox, and the Events that preceded it, Lady Tamain Sepulchre composed this song to assist in pushing back against the insidious heralds of [[Lashonar]].
 This has been adapted by Tegwen Hammersley from Eileen Óg/The [[Pride]] of Petravore, the original tune can be found [https://www.youtube.com/watch?v=gqGwm0CC0Wo here].
 A recording of this song will be uploaded as soon as possible
 Dawnish knights, and Yeofolk and Weavers, 

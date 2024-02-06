@@ -13,7 +13,7 @@ This is our page on the [[Sanctions]] we may impose if we deterMine our conduct 
 *Reporting a conduct problem
 ## Overview
 If we are satisfied that a person's behaviour violates our Conduct rules, our conduct team will decide what course of action is appropriate to take. This page outlines the sanctions the conduct team can impose, as well as a range of additional restrictions we may put in place if we issue a formal Warning.
-We may also issue cautions, formal warnings or bans for cheating or for non-payment of ticket fees. (Reports about cheating are investigated and dealt with by [[The Empire]] Referee team rather than the conduct team. Issues such as non-payment, drug abuse at [[Events]], or breaches of terms and conditions are dealt with by the Profound Decisions management team.)
+We may also issue cautions, formal warnings or bans for cheating or for non-payment of ticket fees. (Reports about cheating are investigated and dealt with by [[The Empire]] Referee team rather than the conduct team. Issues such as non-payment, drug abuse at Events, or breaches of terms and conditions are dealt with by the Profound Decisions management team.)
 All details of any sanctions issued by Profound Decisions are subject to our rules for confidentiality.
 __TOC__
 ## Cautions, Warnings and Bans

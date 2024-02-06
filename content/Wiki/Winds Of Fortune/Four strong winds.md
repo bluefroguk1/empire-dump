@@ -50,7 +50,7 @@ The Parador of Dust would function just like the Cinderpath Exchange, it would a
 Obviously, as with similar proposed commissions such as the Cinderpath Exchange or the Iron Roundtower in [[Varushka]], construction of the Parador of Dust would have a negative impact on the amount of mithril being offered for sale on the [[Public auction]] at Anvil each summit.
 We the Freeborn of Segura will not yield our home. We look to the future and the many fruits it shall yield. We summon an architect of great virtue to spearhead the repair and prosperous rejuvenation of Segura. Prosperity provides.
 ## Segura
-* An architect has answered the Freeborn National Assembly's call for [[Assistance]]
+* An architect has answered the Freeborn National Assembly's call for Assistance
 Angelina i Duarte i Riqueza is an architect who trained with the renowned Cassia i Remoraz i Erigo - the same woman who helped restore the Towers of Anduz after the liberation of Segura. Angelina has returned to her family in the town of Anozel, and has immediately begun drafting up plans and suggestions for ways to harness the potential of Segura. These plans include the fortifying of Burnish. She also has a plan to reignite the [[Zemress]] islanders interest in the building of the Iron Qanat.
 Obviously, Angelina is concerned about the presence of the Lasambrian Jotun - as are all the citizens of Segura. The recent unanimous decision of the [[Imperial Senate]] ''not'' to cede Segura to the orcs, however, has filled her with confidence that [[The Empire]] will soon drive the barbarians back again. She clEarly agrees with the national Assembly that the Freeborn should be looking to the future, not fearing the present.
 ### The Zeinodin Caravanserai

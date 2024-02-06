@@ -22,7 +22,7 @@ Year Duration
 ### Additional Targets
 This ritual can affect additional ''willing'' characters. Every additional character increases the magnitude by 3. Additional characters must be present throughout, and all must verbally assent to the performance of the ritual.
 ### Option
-This ritual can be made permanent much more effectively than similar [[Rituals]]. It Costs only a single ring of [[Ilium]] for each participant. Sufficient ilium to make the ritual permanent for all targets must be employed, and each target must demonstrate that they know the curse is being made permanent.
+This ritual can be made permanent much more effectively than similar Rituals. It Costs only a single ring of [[Ilium]] for each participant. Sufficient ilium to make the ritual permanent for all targets must be employed, and each target must demonstrate that they know the curse is being made permanent.
 ### Removing the Curse
 Removing this curse prematurely is extremely difficult, as ''all'' living targets must be present. Should all the targets be present, they can remove the curse from themselves by agreeing to do so in the presence of a referee. If all the living targets are not present, or are not consenting, the Curse can sometimes be ended prematurely by a powerful [[Eternal]] of the Winter [[Realm]], but they are loathe to do so without significant inducement.
 ## Description
