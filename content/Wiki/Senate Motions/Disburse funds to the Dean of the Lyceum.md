@@ -1,23 +1,26 @@
 ---
-IgnoreLinking: False
-Tags: ['Senate-Motion', '378YE-Spring']
+IgnoreLinking: false
+Tags:
+- Senate-Motion
+- 378YE-Spring
 Title: Disburse funds to the Dean of the Lyceum
-aliases: ['Disburse_funds_to_the_Dean_of_the_Lyceum']
-draft: False
+aliases:
+- Disburse_funds_to_the_Dean_of_the_Lyceum
+draft: false
 revision_date: 2022-01-23 15:26:47+00:00
 revision_id: 85866
 ---
 
-Respond to a request for funding to add two [[Rituals|rituals]] to the body of [[Imperial lore|Imperial Lore]].''Proposed by [[Feroz]], seconded by [[Morrow]].''
+Respond to a request for funding to add two [[Rituals]] to the body of [[Imperial lore]].''Proposed by [[Feroz]], seconded by [[Morrow]].''
 ### Overview
-* A request for funds to be used by the [[Dean of the Lyceum]] to add two [[Rituals|rituals]] to the body of [[Imperial lore|Imperial Lore]].
+* A request for funds to be used by the [[Dean of the Lyceum]] to add two rituals to the body of Imperial Lore.
 * Passed at 20 Thrones
 ### Date
-* [[Spring]] 378YE
-### Progress
-* Funds disbursed to Sallur I Mnajdra I [[Guerra]], [[Senator]] for [[Feroz]]
-### [[Campaign outcome|Campaign Outcome]]
-* The [[Rituals|rituals]] The Cuckoo's Egg and [[Clad in Golden Raiment]] were added to the body of [[Imperial lore|Imperial Lore]] in accordance with the decision of the [[Imperial Conclave]].
+* Spring 378YE
+### PrOgress
+* Funds disbursed to Sallur I Mnajdra I [[Guerra]], [[Senator]] for Feroz
+### Campaign Outcome
+* The rituals The Cuckoo's Egg and [[Clad in Golden Raiment]] were added to the body of Imperial Lore in accordance with the decision of the [[Imperial Conclave]].
 ### Voting
 {| class="wikitable"
 |-

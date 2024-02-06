@@ -1,11 +1,12 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: false
 Tags: None
 Title: Night rituals
-aliases: ['Night_rituals']
-draft: False
+aliases:
+- Night_rituals
+draft: false
 revision_date: 2020-11-18 13:10:49+00:00
 revision_id: 82087
 ---
 
-#Redirect[[:Category:Night Ritual]]
+#Redirect:Category:Night Ritual

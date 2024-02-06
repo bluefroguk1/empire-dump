@@ -1,9 +1,11 @@
 ---
-IgnoreLinking: False
-Tags: ['Music']
+IgnoreLinking: false
+Tags:
+- Music
 Title: The Lion and the Unicorn
-aliases: ['The_Lion_and_the_Unicorn']
-draft: False
+aliases:
+- The_Lion_and_the_Unicorn
+draft: false
 revision_date: 2015-01-22 22:32:45+00:00
 revision_id: 32490
 ---
@@ -28,7 +30,7 @@ And spittle dripped from her mighty jaws
 She thought that she'd devour him raw
 Among the leaves so green o
 The unicorn cried 'Don't eat me
-Although in truth I'd honoured be
+Although in tRuth I'd honoured be
 I know a more fitting meal for thee
 Among the leaves so green o'
 Chorus:
@@ -47,12 +49,12 @@ With meats all roasted and displayed
 Among the leaves so green o
 But as she sprang and feasted there
 Around her neck the hunter's snare
-Pulled her high up in the air
+PUlled her high up in the air
 Among the leaves so green o
 Chorus:
 The lion roared in rage and spite
 The hunter's snare it held her tight
-And there she hung both [[Day|day]] and [[Night|night]]
+And there she hung both day and night
 Among the leaves so green o
 The lion pleaded all in vain
 The unicorn went home again

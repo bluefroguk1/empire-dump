@@ -1,27 +1,31 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Varushka-Music', 'Varushka']
+IgnoreLinking: false
+Tags:
+- Music
+- Varushka-Music
+- Varushka
 Title: The Beast of Volgadurn
-aliases: ['The_Beast_of_Volgadurn']
-draft: False
+aliases:
+- The_Beast_of_Volgadurn
+draft: false
 revision_date: 2012-07-24 10:13:43+00:00
 revision_id: 2997
 ---
 
-By Chris Edwards
+By Chris EdWards
 --------------------------
 From my father’s hold with iron cold
 I swore I’d not return
 ‘Til I’d felt the breath and seen the death
-Of [[The Beast of Volgadurn|the beast of Volgadurn]]
+Of [[The Beast of Volgadurn]]
 Though furs I lacked, its spoor I tracked
 Through snowfields cold and stern
 To the child it took by the blood-stained brook
-Oh, [[The Beast of Volgadurn|the beast of Volgadurn]]
+Oh, the beast of Volgadurn
 ‘Twas the high-woods trail that I tried to scale
 Where first it sought to turn
 In my pursuit I stopped to shoot
-At [[The Beast of Volgadurn|the beast of Volgadurn]]
+At the beast of Volgadurn
 The arrow flew, the shot was true
 Hot blood fell like to burn
 It whined and fled, and crimson bled
@@ -29,8 +33,8 @@ Straight back to Volgadurn
 To my father’s hold with iron cold
 I rushed with grave concern
 I found him dead from my arrow-head
-[[The Beast of Volgadurn]]
-When [[Winter]]’s chills come scour these hills
+The Beast of Volgadurn
+When Winter’s chills come scour these hills
 My blood begins to churn
 For my fur is won, my father’s son
-Is [[The Beast of Volgadurn|the Beast of Volgadurn]]…
+Is the Beast of Volgadurn…

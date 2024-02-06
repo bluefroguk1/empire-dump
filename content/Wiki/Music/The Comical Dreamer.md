@@ -1,18 +1,22 @@
 ---
-IgnoreLinking: False
-Tags: ['Urizen', 'Urizen-Music', 'Music']
+IgnoreLinking: false
+Tags:
+- Urizen
+- Urizen-Music
+- Music
 Title: The Comical Dreamer
-aliases: ['The_Comical_Dreamer']
-draft: False
+aliases:
+- The_Comical_Dreamer
+draft: false
 revision_date: 2016-06-04 17:29:35+00:00
 revision_id: 44819
 ---
 
 Trad.
-Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/images/e/ec/[[The Comical Dreamer|The_Comical_Dreamer]].pdf PDF]
+Manuscript by Aneurin Redman-White [http://www.profounddecisions.co.uk/mediawiki-public/iMages/e/ec/[[The_Comical_Dreamer]].pdf PDF]
 [[The Comical Dreamer]]
 ''Traditional Urizeni
-Last [[Night|night]] a dream came into my head
+Last night a dream came into my head
 Thou wert a fine white loaf of bread.
 Then if may butter I could be
 How I would spread
@@ -27,19 +31,19 @@ Thou wert my dear, a honeycomb;
 And had I been a pretty bee
 How I would suck
 Oh! How I would creep, creep into thee.
-A vision, too, I had of old
+A Vision, too, I had of old
 That thou a mortar wert of gold
 Then could I but the pestle be
 How I would pound
 Oh! How I would pound my spice in thee.	
 Once joy in dreaming did I meet,
-Thou wert a bowl of brandy sweet.
+Thou wert a bowl of Brandy sweet.
 Oh! could I then the ladle be
 How would I pour
 O! how would I pour out joys from thee.
 Another time by charm divine
 I dreamt thou wert an orchard fine
-Then could I but thy farmer be
+Then could I but thy Farmer be
 How I would plant
 Oh! how I would plant my fruit in thee.
 Soon after whims came in my pate

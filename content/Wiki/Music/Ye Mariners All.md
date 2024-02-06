@@ -1,15 +1,19 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Marches-Music', 'The-Marches']
+IgnoreLinking: false
+Tags:
+- Music
+- Marches-Music
+- The-Marches
 Title: Ye Mariners All
-aliases: ['Ye_Mariners_All']
-draft: False
+aliases:
+- Ye_Mariners_All
+draft: false
 revision_date: 2012-07-24 10:09:55+00:00
 revision_id: 2992
 ---
 
 http://m.youtube.com/watch?v=rOwoltyeliM
-[[Ye Mariners All|Ye mariners all]], as ye pass by
+[[Ye Mariners All]], as ye pass by
 Come in and drink if you are dry
 Come spend, me lads, your money brisk
 And pop your nose in a jug of this

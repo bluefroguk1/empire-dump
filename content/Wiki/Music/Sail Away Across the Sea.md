@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'The-Brass-Coast', 'Brass-Coast-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- The-Brass-Coast
+- Brass-Coast-Music
 Title: Sail Away Across the Sea
-aliases: ['Sail_Away_Across_the_Sea']
-draft: False
+aliases:
+- Sail_Away_Across_the_Sea
+draft: false
 revision_date: 2012-09-12 10:38:46+00:00
 revision_id: 11764
 ---

@@ -8,4 +8,4 @@ revision_date: 2014-04-11 13:52:49+00:00
 revision_id: 23927
 ---
 
-#REDIRECT [[Invite an Archmage to address Senate]]
+#REDIRECT [[Invite an [[Archmage]] to address Senate]]

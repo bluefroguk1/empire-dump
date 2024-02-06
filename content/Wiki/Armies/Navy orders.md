@@ -1,34 +1,36 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: false
 Title: Navy orders
-aliases: ['Navy_orders']
-draft: False
+aliases:
+- Navy_orders
+draft: false
 revision_date: 2023-05-09 12:43:13+00:00
 revision_id: 100486
-tags: ['Military']
+tags:
+- Military
 ---
 
 ## Overview
-Each admiral can issue a single set of orders for the navy they control. The orders should describe a broad strategic plan representing what the admiral would like the navy to achieve on campaign in a [[Territory|territory]] over the [[Downtime]] before the next event.
-A military campaign is not a single battle, a campaign is a prolonged period of warfare that takes place over the whole territory in the three months between [[Events|events]].
+Each admiral can issue a single set of orders for the navy they control. The orders should describe a broad strategic plan representing what the admiral would like the navy to achieve on campaign in a territory over the Downtime before the next event.
+A military campaign is not a single battle, a campaign is a prolonged period of Warfare that takes place over the whole territory in the three months between [[Events]].
 ## Movement
-* A navy can only move to a territory containing a region with the coastal keyword
+* A navy can only move to a territory containing a Region with the coastal keyword
 Admirals may issue orders to attack or defend any territory their navy can reach. A navy can only operate in sight of land, so it may only move to territories that include one or more regions with the coastal keyword. It is not possible to move a navy out onto the open oceans far away from land.
-To keep things as simple as possible, a navy is assumed to move to any territory that the [[General|general]] issues orders to attack or defend before any fighting takes place. In effect a navy can slip away at the start of a season before the campaign begins.
-Imperial navies can move three territories in a season for example, an army in [[Madruga]] may be ordered to defend [[Redoubt]] - it [[Will|will]] pass through [[Sarvos]] and [[Necropolis]] before reaching [[Redoubt]] where it [[Will|will]] join any campaign that takes place. Navies can move freely through territories they do not control, they do not need to stop unless they encounter an enemy navy with offensive maritime orders in the territory they are attempting to pass through. In this case, both navies cease moving and a military campaign takes place between the two navies.
+To keep things as simple as possible, a navy is assumed to move to any territory that the [[General]] issues orders to attack or defend before any Fighting takes place. In effect a navy can slip away at the start of a season before the campaign begins.
+Imperial navies can move three territories in a season for example, an army in [[Madruga]] may be ordered to defend [[Redoubt]] - it will pass through [[Sarvos]] and [[Necropolis]] before reaching Redoubt where it will join any campaign that takes place. Navies can move freely through territories they do not control, they do not need to stop unless they encounter an enemy navy with offensive maritime orders in the territory they are attempting to pass through. In this case, both navies cease moving and a military campaign takes place between the two navies.
 Note that the elite [[Fleet]] resources controlled by players do not move like this. Fleets can cross the open oceans and may traverse Imperial waters swiftly and quickly - so they can be freely assigned to an [[Imperial navy]] or sent overseas to trade with [[Foreign ports]].
 There is no "move order" for a navy, even if a navy moves to a safe Imperial territory to resupply, it is assumed that it would defend the territory it has moved to if that territory were attacked.
 ## Transporting Armies
 It is possible for a navy to transport an army from one territory to another. Embarking and disembarking on a navy takes time; each stage is equivalent to moving a territory. This means that a normal army that embarks and disembarks in the same season can move one territory - either before or after their naval passage. Embarking and disembarking does not affect the navy's movement.
-Transportation on a navy is dangerous - if the navy is attacked and takes damage while transporting an army, then the army cannot take part in the ensuing campaign, but it automatically suffers the same [[Casualties|casualties]] that the navy endures.
-A navy may only transport a single army in a season. Both the admiral of the navy and the [[General|general]] of the army to be transported should submit appropriate orders.
+Transportation on a navy is dangerous - if the navy is attacked and takes daMage while transporting an army, then the army cannot take part in the ensuing campaign, but it automatically suffers the same casualties that the navy endures.
+A navy may only transport a single army in a season. Both the admiral of the navy and the general of the army to be transported should submit appropriate orders.
 ## Naval Campaigns
-Under normal circumstances, a campaign in a territory involves all opposing armies present. If both navies and armies are present in a territory, it is possible for two campaigns to take place, a naval campaign and a separate land campaign. Navies present in the territory may participate in the land campaign, the naval campaign or both - depending on the orders submitted. A navy that takes part in both campaigns [[Will|will]] take [[Casualties|casualties]] from both campaigns.
+Under normal circumstances, a campaign in a territory involves all opposing armies present. If both navies and armies are present in a territory, it is possible for two campaigns to take place, a naval campaign and a separate land campaign. Navies present in the territory may participate in the land campaign, the naval campaign or both - depending on the orders submitted. A navy that takes part in both campaigns will take casualties from both campaigns.
 ## Offensive Maritime Orders
 * All maritime orders cause the navy to intercept any opposing navy that is attempting to move past them
 * Maritime orders cause a naval campaign to take place in the territory if there are any opposing navies
-* The winning force [[Will|will]] inflict extra casualties on the losing force
-Maritime offensive orders cause a navy to attack opposing navies that are present in the territory. If an opposing navy attempts to move through the territorial waters during that season they [[Will|will]] be forced to stop and be engaged by the navy with offensive maritime orders.
+* The winning force will inflict extra casualties on the losing force
+Maritime offensive orders cause a navy to attack opposing navies that are present in the territory. If an opposing navy attempts to move through the territorial waters during that season they will be forced to stop and be engaged by the navy with offensive maritime orders.
 These orders initiate a maritime campaign in the territory if there is an opposing navy present. If there is no navy present in the territory during the campaign, then the navy has no effect.
 Maritime campaigns are fought to sink and destroy the enemy navy, not for control of territory. There is no territory to capture at sea, so there is no calculation of victory points in a maritime campaign.
 ### Naval Engagement
@@ -40,12 +42,12 @@ A naval engagement is less effective against opposing navies on defend the coast
 ### Harry Shipping
 * Most effective against navies with naval support, defend the coast or shore offensive orders
 * Least effective against navies with naval engagement orders
-If there are opposing navies present in the territory, the admiral may order their [[Fleet|fleet]] to harry their shipping. The navy will disperse throughout the territory attempting to hunt down and sink enemy vessels operating in the area. This order is only effective if there is an opposing navy present in the territory at any time during the season, otherwise the navy has no effect that season.
+If there are opposing navies present in the territory, the admiral may order their fleet to harry their shipping. The navy will disperse throughout the territory attempting to hunt down and sink enemy vessels operating in the area. This order is only effective if there is an opposing navy present in the territory at any time during the season, otherwise the navy has no effect that season.
 Harry shipping is particularly effective against opposing navies on naval support, defend the coast, or shore offensive orders. The casualties inflicted on opposing navies with these orders are ''increased'' by three tenths.
 Harry shipping is less effective against opposing navies on naval engagement orders. The casualties inflicted on opposing navies with this order are ''decreased'' by three tenths.
 ## Offensive Coastal Orders
-* An [[Imperial navy]] can attack any region that has the coastal keyword
-A navy can attack any region that has the coastal keyword, provided it can reach the territory. Imperial navies can attack a region even if it is not adjacent to an existing region controlled by [[The Empire|the Empire]], but in this case it is twice as difficult to take the region.
+* An Imperial navy can attack any region that has the coastal keyword
+A navy can attack any region that has the coastal keyword, provided it can reach the territory. Imperial navies can attack a region even if it is not adjacent to an existing region controlled by [[The Empire]], but in this case it is twice as difficult to take the region.
 ### Shore Offensive
 * Vulnerable to opposing navies with offensive maritime orders
 Regardless of whether the navy directly assaults coastal towns and ports, or attempt to sneak marines ashore on empty beaches, a shore offensive is always a risky strategy. If the navy is attacked by opposing forces then they will suffer grievous casualties in the assault.
@@ -60,8 +62,8 @@ If the defenders are victorious - if their side has a higher military strength t
 * Helps achieve victory in a land campaign, but does not inflict or suffer casualties in that campaign
 * Most vulnerable to navies with harry shipping orders
 * Least vulnerable to navies with naval engagement orders
-If there are other [[Imperial armies]] present in the territory, the admiral may order a navy to provide them with support. The navy will not initiate a campaign by providing naval support, and does not directly engage the enemy, but it will provide highly effective support to land based armies in the territory, granting them improved logistics and supply lines.
-A force on naval support orders contributes its full strength to determine the scale of victory of any land campaign that takes place in the territory. The navy does not take or cause any casualties from this campaign.
+If there are other Imperial armies present in the territory, the admiral may order a navy to provide them with support. The navy will not initiate a campaign by providing naval support, and does not directly engage the enemy, but it will provide highly effective support to land based armies in the territory, granting them improved logistics and supply lines.
+A force on naval support orders contributes its fUll strength to deterMine the scale of victory of any land campaign that takes place in the territory. The navy does not take or cause any casualties from this campaign.
 If the navy is attacked by an opposing navy with offensive maritime orders then it will also participate in the ensuing sea campaign.
 If there are attacks on all friendly regions with the coastal keyword by opposing forces then this order reverts to ''defend the coast''.
 ### Defend the Coast
@@ -73,10 +75,10 @@ If there are opposing armies attacking coastal regions in the territory, then th
 If the navy is attacked by an opposing navy with offensive maritime orders then it will also participate in the ensuing sea campaign.
 If there are no attacks on regions with the coastal keyword then this order reverts to ''naval support''.
 ### Put to Port
-* Orders the navy to put port, tying up vessels at wharfs and quays at a friendly [[Shipyard|shipyard]]
+* Orders the navy to put port, tying up vessels at wharfs and quays at a friendly [[Shipyard]]
 * The navy cannot be attacked by opposing navies and does not participate in any military campaigns
-* Natural resupply is increased by 20% while a navy is in port at a [[Shipyard|shipyard]]
-If there is an unoccupied [[Shipyard]] controlled by an ally in a territory, then an admiral may order their navy to put to port. If the vessels reach the port unimpeded then they can dock safely and take no further part in any military campaigns taking place that season. They cannot defend the area and do not take casualties from any opposing navies on offensive maritime orders while they remain in port.
-Natural resupply increases by 20% while a navy is in port. If the region containing a [[Shipyard|shipyard]] is conquered by an enemy army or navy while a navy is in port, then all the vessels are scuppered and the navy is automatically destroyed.
-Only one navy may occupy a [[Shipyard|shipyard]] at a time. If two navies attempt to put into a port, the berths will be occupied by the first navy to reach it. A navy remains in port until it issues new orders in a following season. If a navy cannot reach the safety of a port then this order reverts to ''defend the coast'' if possible.
+* Natural resupply is increased by 20% while a navy is in port at a shipyard
+If there is an unoccupied Shipyard controlled by an ally in a territory, then an admiral may order their navy to put to port. If the vessels reach the port unimpeded then they can dock safely and take no further part in any military campaigns taking place that season. They cannot defend the area and do not take casualties from any opposing navies on offensive maritime orders while they remain in port.
+Natural resupply increases by 20% while a navy is in port. If the region containing a shipyard is conquered by an enemy army or navy while a navy is in port, then all the vessels are scuppered and the navy is automatically destroyed.
+Only one navy may occupy a shipyard at a time. If two navies attempt to put into a port, the berths will be occupied by the first navy to reach it. A navy remains in port until it issues new orders in a following season. If a navy cannot reach the safety of a port then this order reverts to ''defend the coast'' if possible.
 [[War]] Further Reading

@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'League-Music', 'The-League']
+IgnoreLinking: false
+Tags:
+- Music
+- League-Music
+- The-League
 Title: Treggajoran Wartha
-aliases: ['Treggajoran_Wartha']
-draft: False
+aliases:
+- Treggajoran_Wartha
+draft: false
 revision_date: 2012-07-31 19:56:23+00:00
 revision_id: 3612
 ---
@@ -25,9 +29,9 @@ Jenny took turns walking out along the water
 Cumes on Jenny Jo Jenny Jinny Jan
 Jenny took turns Jenny Jo Jenny Jinny Jan
 Walking out along the water
-Showed each [[The Ring|the ring]] the other one had bought her
+Showed each [[The Ring]] the other one had bought her
 Cumes on Jenny Jo Jenny Jinny Jan
-Showed each [[The Ring|the ring]] Jenny Jo Jenny Jinny Jan
+Showed each the ring Jenny Jo Jenny Jinny Jan
 The other one had bought her
 Buy a bigger ring each one he thought he ought to
 Cumes on Jenny Jo Jenny Jinny Jan
@@ -45,7 +49,7 @@ Poor little man he wished he'd never caught her
 Cumes on Jenny Jo Jenny Jinny Jan
 Poor little man Jenny Jo Jenny Jinny Jan
 Wished he'd never caught her
-Down in the town of [[Treggajoran Wartha]]
+Down in the town of Treggajoran Wartha
 Cumes on Jenny Jo Jenny Jinny Jan
 Johnny Bucca lived Jenny Jo Jenny Jinny Jan
 Lived with his lovely daughter

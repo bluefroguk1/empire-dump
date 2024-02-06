@@ -1,9 +1,12 @@
 ---
-IgnoreLinking: False
-Tags: ['Senate-Motion', '378YE-Spring']
+IgnoreLinking: false
+Tags:
+- Senate-Motion
+- 378YE-Spring
 Title: Construct a Marcher graveyard in Holberg
-aliases: ['Construct_a_Marcher_graveyard_in_Holberg']
-draft: False
+aliases:
+- Construct_a_Marcher_graveyard_in_Holberg
+draft: false
 revision_date: 2022-01-23 15:30:37+00:00
 revision_id: 85877
 ---
@@ -14,10 +17,10 @@ To build in Holburg a cemetery for the Marchers raised as husks.
 * A Marcher graveyard involves importing soil from [[The Marches]] and planting Marcher apple trees.
 * No funds were requested
 ### Date
-* [[Spring]] Equinox 378YE
+* Spring Equinox 378YE
 ### [[Cost]]
 * None
-### Progress
+### PrOgress
 * Completed. The graveyard was quickly completed in Holfried.
 ### Production
 * None

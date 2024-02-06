@@ -1,9 +1,15 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Highguard', 'The-Brass-Coast', 'Brass-Coast-Music', 'Highguard-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- Highguard
+- The-Brass-Coast
+- Brass-Coast-Music
+- Highguard-Music
 Title: Farewell Farewell
-aliases: ['Farewell_Farewell']
-draft: False
+aliases:
+- Farewell_Farewell
+draft: false
 revision_date: 2013-04-12 15:13:17+00:00
 revision_id: 20015
 ---

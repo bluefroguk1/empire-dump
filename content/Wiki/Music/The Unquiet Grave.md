@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Marches-Music', 'The-Marches']
+IgnoreLinking: false
+Tags:
+- Music
+- Marches-Music
+- The-Marches
 Title: The Unquiet Grave
-aliases: ['The_Unquiet_Grave']
-draft: False
+aliases:
+- The_Unquiet_Grave
+draft: false
 revision_date: 2012-10-24 13:55:40+00:00
 revision_id: 12300
 ---
@@ -18,7 +22,7 @@ As I lay dreaming in my bed
 I heard my true love speak
 My bones are lying far from home
 And there I cannot sleep
-When all the fighting it was done 
+When all the Fighting it was done 
 They laid me with the dead
 To  rest uneasy in the poor soil, 
 Cold in my stony bed

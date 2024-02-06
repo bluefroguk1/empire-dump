@@ -8,4 +8,4 @@ revision_date: 2023-07-26 13:38:26+00:00
 revision_id: 103940
 ---
 
-#REDIRECT [[Cast Off The Chain of Memory]]
+#REDIRECT [[Cast Off [[The Chain]] of Memory]]

@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Navarr-Music', 'Navarr']
+IgnoreLinking: false
+Tags:
+- Music
+- Navarr-Music
+- Navarr
 Title: Navarr (song)
-aliases: ['Navarr_(song)']
-draft: False
+aliases:
+- Navarr_(song)
+draft: false
 revision_date: 2012-09-01 13:33:33+00:00
 revision_id: 10077
 ---
@@ -19,14 +23,14 @@ I can see your hearts... [G Dm]
 Sorrow breaks a braver man apart... [F G]
 I send sorrow to the Vallarn enemy...  [Dm G]
 For it is no use to me... [Dm G]
-Keep your sorrow from [[The Way|the way]]... [F Dm]
-We [[Will|will]] return... [G]
+Keep your sorrow from [[The Way]]... [F Dm]
+We will return... [G]
 When the dance... [Dm]
 When the journey is ended... [G Dm]
 Chuiris cros I lar an bhothair dom [Dm G Dm]
 Lamh na gcarad in am a ghatair dom [Dm G Dm]
 Feach doimhin isteach id shuile gorm [F G Dm] 
-[[Navarr]] [[Navarr]] [C G Dm]
+[[Navarr]] Navarr [C G Dm]
 Translation:
 Would you search me out
 Would you recognize me
@@ -36,11 +40,11 @@ I can see your hearts...
 Sorrow breaks a braver man apart... 
 I send sorrow to the Vallarn enemy... 
 For it is no use to me... 
-Keep your sorrow from [[The Way|the way]]... 
-We [[Will|will]] return... 
+Keep your sorrow from the way... 
+We will return... 
 When the dance... 
 When the journey is ended...
-You placed a sign on the road to [[Guide|guide]] me
+You placed a sign on the road to guide me
 A hand of friendship in a time of need
 I look deep into your blue eyes
-[[Navarr]] [[Navarr]]
+Navarr Navarr

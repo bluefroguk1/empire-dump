@@ -62,12 +62,12 @@ To just see the name of the current character holding a particular title then pl
 * 384YE Autumn Equinox event schedule
 * 384YE Autumn Equinox interlude
 ### Summer Solstice
-* 384YE Summer Solstice Imperial elections
+* 384YE Summer Solstice [[Imperial Elections|Imperial elections]]
 * 384YE Summer Solstice Senate sessions
 * 384YE Summer Solstice Synod judgements
 * 384YE Summer Solstice Conclave sessions
-* 384YE Summer Solstice winds of fortune
-* 384YE Summer Solstice winds of war
+* 384YE Summer Solstice [[Winds of Fortune|winds of fortune]]
+* 384YE Summer Solstice winds of [[War|war]]
 * 384YE Summer Solstice event schedule
 * 384YE Summer Solstice interlude
 ### Spring Equinox

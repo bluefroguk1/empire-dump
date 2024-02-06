@@ -118,7 +118,7 @@ The [http://www.profounddecisions.co.uk/account/recruitment promotional discount
 The website has now been updated to allow players of all ages to book on to the event. Anyone who is attending the event must have their own account, regardless of age. Once you have created an account and entered your birth date then the [http://www.profounddecisions.co.uk/event/Tickets ticket prices] will be updated to reflect your age and booking options.
 ## About the Site
 ### Do I need a tent?
-Yes. Profound Decisions events are camping based and players are expected to provide their own tents to sleep in. Some players choose to use a nearby hostel - but the majority of players camp on site.
+Yes. Profound Decisions [[Events|events]] are camping based and players are expected to provide their own tents to sleep in. Some players choose to use a nearby hostel - but the majority of players camp on site.
 Camping is a choice between the IC (In character) and OOC (Out of character) fields. Any tent is suitable for the OOC field but camping on the IC field needs to be done in a canvas tent of an appropriate style for the game.
 ### Are there toilets and showers on site?
 PD provides toilets, wash basins and showers, as well as standpipes for access to clean, drinkable water, on site.

@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Marches-Music', 'The-Marches']
+IgnoreLinking: false
+Tags:
+- Music
+- Marches-Music
+- The-Marches
 Title: Tom A_Bedlam_s song
-aliases: ["Tom_A'Bedlam's_song"]
-draft: False
+aliases:
+- Tom_A'Bedlam's_song
+draft: false
 revision_date: 2022-06-07 16:46:17+00:00
 revision_id: 91518
 ---
@@ -22,7 +26,7 @@ Abroad to beg your bacon.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom [[Will|will]] injure nothing.
+Poor Tom will injure nothing.
 Of thirty bare years have I
 Twice twenty been enraged,
 And of forty been three times fifteen
@@ -34,7 +38,7 @@ With wholesome hunger plenty.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom [[Will|will]] injure nothing.
+Poor Tom will injure nothing.
 With a thought I took for Maudlin
 And a cruse of cockle pottage,
 With a thing thus tall, skie blesse you all,
@@ -46,19 +50,19 @@ Me found and stript me naked.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom [[Will|will]] injure nothing.
+Poor Tom will injure nothing.
 When I short have shorne my sowre face
 And swigged my horny barrel,
 In an oaken inn I pound my skin
 As a suit of gilt apparel.
 The moon's my constant 'panion,
-And the lowly owl my morrowe,
+And the lowly owl my Morrowe,
 The flaming Drake and the Nightcrow make
-Me [[Music|music]] to my sorrow.
+Me [[Music]] to my sorrow.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom [[Will|will]] injure nothing.
+Poor Tom will injure nothing.
 The [[Bravo]], [[Druj]] and [[Grendel]]
 Are none of Tom's companions.
 The punk I skorne and the cut purse sworne
@@ -70,10 +74,10 @@ Do what the panther dare not.
 While I doe sing "any foode, any feeding,
 Feedinge, drinke or clothing,"
 Sweet Cit'zens all, be not afraid,
-Poor Tom [[Will|will]] injure nothing.
+Poor Tom will injure nothing.
 With a host of furious fancies
 Whereof I am commander,
-With a [[Burning|burning]] spear and a [[Horse|horse]] of air,
+With a [[Burning]] spear and a [[Horse]] of air,
 To the wilderness I wander.
 By a knight of ghostes and shadowes
 I summon'd am to tourney

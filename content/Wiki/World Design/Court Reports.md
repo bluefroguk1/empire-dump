@@ -1,18 +1,21 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: false
 Title: Court Reports
-aliases: ['Court_Reports']
-draft: False
+aliases:
+- Court_Reports
+draft: false
 revision_date: 2023-08-31 20:09:32+00:00
 revision_id: 105233
-tags: ['The-Law', 'The-Empire']
+tags:
+- The-Law
+- The-Empire
 ---
 
-This page links to the [[Court Reports|court reports]] for [[Anvil]] in recent years. These [[Will|will]] be updated with new [[Court Reports|court reports]] as time goes on. However, for the most recent court report please refer to IC publications that carry them or see the militia noticeboard in the Hub.
-*[[Anvil]] Court Report for [[Spring]] 385
-*[[Anvil]] Court Report for [[Winter]] 384
-*[[Anvil]] Court Report for [[Autumn]] 384
-*[[Anvil]] Court Report for [[Summer]] 384
+This page links to the [[Court Reports]] for [[Anvil]] in recent years. These will be updated with new court reports as time goes on. However, for the most recent court report please refer to IC publications that carry them or see the militia noticeboard in the Hub.
+*Anvil Court Report for Spring 385
+*Anvil Court Report for Winter 384
+*Anvil Court Report for Autumn 384
+*Anvil Court Report for Summer 384
 *Anvil Court Report for Spring 384
 *Anvil Court Report for Winter 383
 *Anvil Court Report for Autumn 383

@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Marches-Music', 'The-Marches']
+IgnoreLinking: false
+Tags:
+- Music
+- Marches-Music
+- The-Marches
 Title: Gallant Archer
-aliases: ['Gallant_Archer']
-draft: False
+aliases:
+- Gallant_Archer
+draft: false
 revision_date: 2019-06-26 11:57:17+00:00
 revision_id: 74529
 ---
@@ -11,17 +15,17 @@ revision_id: 74529
 Tune trad. Scottish Athole Gathering. Lyrics by Daisy Abbott, Jude Reid, and Kath Wheeler.
 IC written by Jennet of Mourn.
 Chorus:
-Who [[Will|will]] go with [[Gallant Archer|gallant Archer]]?
-Who [[Will|will]] go with Sweet [[Will]]'s men?
+Who will go with [[Gallant Archer]]?
+Who will go with Sweet Will's men?
 He's the flower of the Bregas
 And the darling of the fen
 See the white rose in his bonnet
-See his [[Banner|banner]] proudly sway
+See his banner proudly sway
 His good sword he now has drawn it
 And has flung the sheath away
 Fighting in the woods of Chalcis
 Orcs and monsters all were killed
-Highborn, [[Freeborn]] all to safety
+Highborn, Freeborn all to safety
 Marchers last to leave the field
 A sudden rush from Orcish forces
 Loud and clear retreat did sound
@@ -41,12 +45,12 @@ Every faithful Marcher followed
 Strong as steady as the tide
 Returned into the field of battle
 Stoutly marching side by side
-Ever watchful, ever onward
+Ever watchful, ever onWard
 Generals, Captains, brave Yeomen,
 Scoured the dark and faced the danger
-To bring the Cullachs home again!
+To bring the CUllachs home again!
 Chorus
-Of the three that [[Day|day]] were rescued
+Of the three that day were rescued
 Two were wounded mighty sore
 And one did give his life for Empire
 Birchland did rise up no more

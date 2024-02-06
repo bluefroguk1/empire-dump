@@ -74,7 +74,7 @@ All [[Traders|traders]] who attend our [[Events|events]] are required to comply 
 * [http://ravenswoodleather.com/index.php?p=home Ravenswood Leather Items] America site. Non-historical leather items.
 * [https://m.facebook.com/[[Groups|groups]]/144021344780/?ref=share McSkelly Leathers] Producers of top quality bespoke works
 ### Pewter and Cast Goods
-* [https://www.bespokepewter.com Bespoke Pewter] Empire Specific and general medieval pewter badges and dress accessories.
+* [https://www.bespokepewter.com Bespoke Pewter] Empire Specific and [[General|general]] medieval pewter badges and dress accessories.
 * [http://www.lionheartreplicas.co.uk/ Lionheart Replicas] Pewter goods.
 * [http://www.pewterreplicas.co.uk/ Pewter Replicas] Pewter badges, household items and livery collars.
 ### Tents and Camping Accessories

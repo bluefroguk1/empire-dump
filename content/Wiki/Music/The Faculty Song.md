@@ -1,9 +1,11 @@
 ---
-IgnoreLinking: False
-Tags: ['Music']
+IgnoreLinking: false
+Tags:
+- Music
 Title: The Faculty Song
-aliases: ['The_Faculty_Song']
-draft: False
+aliases:
+- The_Faculty_Song
+draft: false
 revision_date: 2014-06-10 10:38:28+00:00
 revision_id: 26770
 ---
@@ -15,7 +17,7 @@ When we learn, we're wiser.
 When we learn, we're braver.
 When we learn, we're vigilant too.
 When we learn, we're ambitious.
-When we learn, we're prosperous.
+When we learn, we're Prosperous.
 When we learn, we're loyal and proud too.
 Verse 1
 This is our Academy,
@@ -23,7 +25,7 @@ We are taught by the faculty.
 With Mr Harrow, who teaches us field craft.
 Sasha is the secretary,
 Spiritual studies are run by Emme,
-And the Chancellor does [[Magic|magic]] with his hat.
+And the Chancellor does [[Magic]] with his hat.
 Chorus
 Verse 2
 This is our Academy.

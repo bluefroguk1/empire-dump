@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Urizen', 'Urizen-Music', 'Music']
+IgnoreLinking: false
+Tags:
+- Urizen
+- Urizen-Music
+- Music
 Title: Captain Decius_ Song
-aliases: ["Captain_Decius'_Song"]
-draft: False
+aliases:
+- Captain_Decius'_Song
+draft: false
 revision_date: 2016-02-26 12:50:24+00:00
 revision_id: 41821
 ---
@@ -25,12 +29,12 @@ Until he met his end.
 His [[Loyalty]] sustained us,
 His face in battle grim,
 He took such grievous injuries,
-Our [[Chirurgeon|chirurgeon]]’s sustained him!
+Our chirurgeon’s sustained him!
 Bandaged Captain Decius,
 Always quick to smile,
 He counselled with humility,
 He went the extra mile.
-Now inside the [[Spire]],
+Now inside the Spire,
 There sits an empty chair,
 For Courageous Captain Decius,
 No longer sits there.

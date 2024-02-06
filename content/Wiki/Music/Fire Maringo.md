@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'The-Brass-Coast', 'Brass-Coast-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- The-Brass-Coast
+- Brass-Coast-Music
 Title: Fire Maringo
-aliases: ['Fire_Maringo']
-draft: False
+aliases:
+- Fire_Maringo
+draft: false
 revision_date: 2016-04-27 09:41:48+00:00
 revision_id: 43863
 ---

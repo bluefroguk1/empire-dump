@@ -8,4 +8,4 @@ revision_date: 2012-08-30 15:38:01+00:00
 revision_id: 9475
 ---
 
-#REDIRECT [[The Marches lineage and species attitudes]]
+#REDIRECT [[The Marches [[Lineage|lineage]] and species attitudes]]

@@ -46,7 +46,7 @@ In [[General|general]] the sort of things that it is appropriate for players to 
 * You must support divination [[Rituals|rituals]] like [[Hand of the Maker]] or [[An Echo of Life Remains]] correctly if they are cast
 * You cannot support any territory wide divination [[Rituals|rituals]] such as Eyes of the High Places
 ### Optional [[Rituals]]
-* [[Clear Lens of the Eternal River]]
+* [[Clear Lens of the [[Eternal]] River]]
 * [[Shadowed Glass of Sung]]
 * [[Signs and Portents]]
 ### Mandatory [[Rituals]]
@@ -58,7 +58,7 @@ In [[General|general]] the sort of things that it is appropriate for players to 
 * [[Ties that Bind]]
 * [[Wisdom of the Balanced Blade]]
 ### Invalid Rituals
-* [[Dreams in the Witch House]]
+* [[Dreams in [[The Witch|the Witch]] House]]
 * [[Eye of the High Places]]
 * [[Eyes of the Sun and Moon]]
 Empire includes a number of divination rituals such as [[Signs and Portents]], Shadowed Glass of [[Sung]] and [[Clear Lens of the Eternal River]] which players can perform to gain cryptic information. If you wish to support these rituals to enhance your event, then you must submit any responses to them as part of your plot sanctioning document. If you don't want to support these rituals, you should let players know that they won't gain any useful information by casting them at your event.

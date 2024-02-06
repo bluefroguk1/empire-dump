@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Dawn-Music', 'Dawn']
+IgnoreLinking: false
+Tags:
+- Music
+- Dawn-Music
+- Dawn
 Title: Though Philomena Lost Her Love
-aliases: ['Though_Philomena_Lost_Her_Love']
-draft: False
+aliases:
+- Though_Philomena_Lost_Her_Love
+draft: false
 revision_date: 2012-08-07 20:07:51+00:00
 revision_id: 5267
 ---

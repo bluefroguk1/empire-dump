@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Dawn-Music', 'Dawn']
+IgnoreLinking: false
+Tags:
+- Music
+- Dawn-Music
+- Dawn
 Title: April is in my mistress_ face
-aliases: ["April_is_in_my_mistress'_face"]
-draft: False
+aliases:
+- April_is_in_my_mistress'_face
+draft: false
 revision_date: 2012-07-31 14:20:36+00:00
 revision_id: 3583
 ---

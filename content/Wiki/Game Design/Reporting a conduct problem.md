@@ -113,5 +113,5 @@ Access to Conduct Data
 If you make a report to our conduct team, they will share key details with each other as part of their standard process, so that they can determine an agreed response. Details of cases may be shared with key personnel who need to know those details for event and community safety and to support the conduct team to carry out their roles. The list of people with potential access to conduct information is listed opposite.
 We will not share any details of your report with anyone else unless we are legally compelled to do so. We will not take steps to investigate a report if you have asked us not to. We won't approach any individual you name as part of any investigation you've agreed we can undertake. 
 Under our [[Terms and conditions|terms and conditions]] for [[Sanctioned events|sanctioned events]], organisers are not permitted to accept bookings from individuals who are banned from Profound Decisions events. If an individual receives a ban and we discover that they have booked to attend any sanctioned event, we will inform the sanctioned event organiser.
-We do not disclose details of sanctions with other game systems, beyond the situations outlined above. 
+We do not disclose details of [[Sanctions|sanctions]] with other game systems, beyond the situations outlined above. 
 Conduct Further Reading

@@ -1,15 +1,18 @@
 ---
-IgnoreLinking: False
-Tags: ['The-Brass-Coast', 'Maps']
+IgnoreLinking: false
+Tags:
+- The-Brass-Coast
+- Maps
 Title: Brass Coast Maps
-aliases: ['Brass_Coast_Maps']
-draft: False
+aliases:
+- Brass_Coast_Maps
+draft: false
 revision_date: 2014-04-04 13:25:42+00:00
 revision_id: 23582
 ---
 
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-brasscoast.jpg
-640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Brass-coast-regions.png
+640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Brass-coast-Regions.png
 640px|center|link=http://www.profounddecisions.co.uk/empire-wiki/File:Nation-brasscoast-texture.jpg
 ### See Also
 * [[Feroz]]

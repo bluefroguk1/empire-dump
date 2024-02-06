@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Navarr-Music', 'Navarr']
+IgnoreLinking: false
+Tags:
+- Music
+- Navarr-Music
+- Navarr
 Title: Run Thorns Run
-aliases: ['Run_Thorns_Run']
-draft: False
+aliases:
+- Run_Thorns_Run
+draft: false
 revision_date: 2014-06-03 09:15:35+00:00
 revision_id: 26702
 ---
@@ -13,11 +17,11 @@ Lyrics and Melody adapted by Joshua Binks.
 Call
 Sally Brown, she’s the gal for me, Thorns
 Response
-Run Thorns, [[Run Thorns Run|run Thorns run]].
-[[Calls]]
+Run Thorns, [[Run Thorns Run]].
+Calls
 Sally Brown, she’s the gal for me, Thorns
 Down to [[The Marches]] to see Sally Brown, Thorns
-Down to [[The Marches]] to see Sally Brown, Thorns
+Down to The Marches to see Sally Brown, Thorns
 Oh, there's forty leagues or more to go, Thorns
 Oh, forty leagues or more to go, Thorns
 She's lovely up above, and she's lovely down below, Thorns

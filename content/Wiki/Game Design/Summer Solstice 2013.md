@@ -82,7 +82,7 @@ Metalwork - located next to Skian Mhor.
 ### [http://www.saxonviolence.com/index.php Saxon Violence]
 A wide range of weapons suitable for Empire.
 ### [http://www.skianmhor.co.uk Skian Mhor]
-Latex Weapons and props. Costume, armour, leatherwork, chainmail, tents and all types of LRP supplies and essentials.
+Latex Weapons and props. [[Costume]], armour, leatherwork, chainmail, tents and all types of LRP supplies and essentials.
 ### [http://www.tallowsfx.com Tallows]
 Beautiful weapons and shields that are perfect for Empire.
 ### [http://www.velvetglove.pwp.blueyonder.co.uk/ Velvet Glove Costumes]

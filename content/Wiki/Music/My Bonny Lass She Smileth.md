@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Dawn-Music', 'Dawn']
+IgnoreLinking: false
+Tags:
+- Music
+- Dawn-Music
+- Dawn
 Title: My Bonny Lass She Smileth
-aliases: ['My_Bonny_Lass_She_Smileth']
-draft: False
+aliases:
+- My_Bonny_Lass_She_Smileth
+draft: false
 revision_date: 2012-08-07 20:06:00+00:00
 revision_id: 5265
 ---

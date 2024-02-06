@@ -1,45 +1,49 @@
 ---
-IgnoreLinking: False
-Tags: ['Dawn', 'Title', 'Synod']
+IgnoreLinking: false
+Tags:
+- Dawn
+- Title
+- Synod
 Title: Voice of the Twin Roses
-aliases: ['Voice_of_the_Twin_Roses']
-draft: False
+aliases:
+- Voice_of_the_Twin_Roses
+draft: false
 revision_date: 2023-11-07 12:56:11+00:00
 revision_id: 106055
 ---
 
 ## Overview
-The construction of the Arbor of the Twin Roses was commissioned by [[The Senate|the Senate]] during the [[Winter]] Solstice 383YE and completed shortly before the [[Spring]] Equinox 384YE.
+The construction of the Arbor of the Twin Roses was Commissioned by the Senate during the Winter Solstice 383YE and completed shortly before the Spring Equinox 384YE.
 ## Responsibilities
-The [[Voice of the Twin Roses]] is responsible for gathering and immortalising tales of true Love and true [[Glory]] not only across [[Dawn]] but in the wider Empire. They are also responsible for investigating stories of the spiritual powers of Love and [[Glory]] and demonstrating how these two ideals inspire, and in turn arise from, Virtue.
+The [[Voice of the Twin Roses]] is responsible for gathering and immortalising tales of true Love and true [[Glory]] not only across [[Dawn]] but in the wider Empire. They are also responsible for investigating stories of the spiritual powers of Love and Glory and demonstrating how these two ideals inSpire, and in turn arise from, Virtue.
 ## Powers
 ### A Portion of [[Liao]]
-The [[Sinecure|sinecure]] provides 9 measures of [[Liao]] to the Voice each season, to be used as they see fit. 
-### Voice in [[The Synod|the Synod]]
-The Voice may sit in the [[Imperial Synod]], and possesses 18 votes in [[Synod]] affairs (or an additional 18 votes if they already have a [[Congregation]]). They may use these votes in any [[Assembly|assembly]] for which they are eligible. 
+The [[Sinecure]] provides 9 measures of Liao to the Voice each season, to be used as they see fit. 
+### Voice in the Synod
+The Voice may sit in the [[Imperial Synod]], and possesses 18 votes in Synod affairs (or an additional 18 votes if they already have a [[Congregation]]). They may use these votes in any [[Assembly]] for which they are eligible. 
 ## [[Appointment]]
-The [[Voice of the Twin Roses]] is a national position appointed by the Synod. It is elected by [[Judgement]] of the [[National Assembly]] of [[Dawn]] each year during the Spring Equinox.
-The title can be held by any citizen of [[Dawn]]. They can be revoked by the [[General]] [[Assembly]], the [[Dawn]] National [[Assembly]], and by the [[Assembly of the Nine]].
+The Voice of the Twin Roses is a national position appointed by the Synod. It is elected by [[Judgement]] of the National Assembly of Dawn each year during the Spring Equinox.
+The title can be held by any citizen of Dawn. They can be revoked by the [[General]] Assembly, the Dawn National Assembly, and by the Assembly of the Nine.
 ## Arbor of the Twin Roses
-The Arbor of the Twin Roses is located in Auvanne within sight of Endric's Hill to honour of the [[Troubadour|troubadour]] and exemplar [[Elayne Silverlark]]. Elayne is famous throughout [[The Empire|the Empire]] for spreading tales of romance and [[Adventure|adventure]] as well as stories of [[Glory|glory]] and [[Heroism|heroism]]. Her stories were not solely those of the knights and witches of [[Dawn]], however - according to legend she both took tales of her homeland to other nations and brought new stories of the glorious deeds of people in other nations to her countryfolk.
-The structure consists of an extensive and beautiful garden surrounding two towers - one for [[Glory]] and one for Love - of fine [[White granite]]. These towers serve as repositories for tales, stories, and songs celebrating [[Glory|glory]] and love, and provide quarters for any [[Troubadour|troubadour]] who wish to visit.
-Following the Spring Equinox, the architects installed a beautiful white marble plaque naming the citizens who helped pay for the construction of the Arbor. Each name is etched into the stone and then the writing illuminated with inlaid [[Orichalcum|orichalcum]]. The whole thing is embellished with beautiful roses carved into the marble, all around the edges of the tablet.
+The Arbor of the Twin Roses is located in Auvanne within sight of Endric's Hill to honour of the [[Troubadour]] and exemplar [[Elayne Silverlark]]. Elayne is famous throughout [[The Empire]] for spreading tales of romance and adventure as well as stories of glory and [[Heroism]]. Her stories were not solely those of the knights and witches of Dawn, however - according to legend she both took tales of her homeland to other nations and brought new stories of the glorious deeds of people in other nations to her countryfolk.
+The structure consists of an extensive and beautiful garden surrounding two towers - one for Glory and one for Love - of fine [[White granite]]. These towers serve as repositories for tales, stories, and songs celebrating glory and love, and provide quarters for any troubadour who wish to Visit.
+Following the Spring Equinox, the Architects installed a beautiful white marble plaque naming the citizens who helped pay for the construction of the Arbor. Each name is etched into the stone and then the writing Illuminated with inlaid orichalcum. The whole thing is embellished with beautiful roses carved into the marble, all around the edges of the tablet.
 ### Tales of the Twin Roses
-The [[Voice of the Twin Roses]] is able to submit a single tale depicting true Love or true Glory to the towers each season.
+The Voice of the Twin Roses is able to submit a single tale depicting true Love or true Glory to the towers each season.
 Lord Bryce & Lady Vivienne, or Love Defying Reason
 He was a lord of Griffinsong,
 She Lady d'Acier;
 And in a single grave they lie, 
-Dead on a single [[Day|day]].
-He was a knight to [[Summer]] sworn,
+Dead on a single day.
+He was a knight to Summer sworn,
 She fought with breath and voice;
-In [[Pride]] and glory equal matched,
+In [[Pride]] and Glory equal matched,
 In love each other's choice.
 Beneath unfriendly stars he went
 To face an unknown foe:
 "This is my home, my [[Astolat]],
-It needs me; I [[Will|will]] go."
-For to the Harps of [[Astolat]],
+It needs me; I will go."
+For to the Harps of Astolat,
 That summer breezes play,
 Had heralds come to break and burn,
 From out the [[Realm]] of Day.
@@ -47,7 +51,7 @@ The Cold Sun shines but cruelly,
 To destroy its only goal:
 Fuelled by a freezing Hatred
 For all things that stir the soul.
-And there in peaceful [[Astolat]],
+And there in peaceful Astolat,
 Upon that summer day,
 The Cold Sun burned him to the bone,
 And left him where he lay.
@@ -64,7 +68,7 @@ Of laughter, beauty, art -
 Love is the first and strangest
 Of passions of the heart.
 Love has no purpose but itself.
-Love [[Will|will]] not answer "Why?"
+Love will not answer "Why?"
 Love does not care to fade with time,
 Nor with mere death to die.
 As True Love overpowers death,
@@ -72,11 +76,11 @@ Know even as we mourn
 So too the Cold Sun pales to naught 
 Against the blaze of Dawn
 The Tale of Yulia and the Heart of Ser Claudia Lovelorn
-Once upon a time, upon the misty moors of [[Weirwater]], there lived a young [[Draughir|draughir]] enchantress of much [[Ambition]]. She loved her Nation. She loved Winter. And she loved her pack.
-In [[Anvil]] town, she met Yulia Kasimiova Voronov, [[Senator]] for [[Miekarova]] and a fiery Varushkan [[Throne]] candidate, who was also lit with the fire of [[Ambition]]. They began a dance of courtship that would continue for the next few years.
-Then, she was Enchantress Claudia and she was heir apparent of House Remys. She was dedicated deeply to the learning and application of [[Winter magic]]. She even rose up to create the position of [[Imperial Necromancer]] – someone who could advise on matters beyond the Labyrinth, [[Guide|guide]] Imperial citizens in matters regarding [[Whispers through the Black Gate|Whispers Through the Black Gate]].
-But there in lay dangers of the soul. The Eater of Love, a heinous construct that roamed from within the Labyrinth reached into the [[Anvil]] [[Regio|regio]] during the [[Autumn]] of 384 and struck at the Lady Claudia and her [[Family|family]]. In its wanton greed, it clawed at their souls, and stole the Love from their hearts. They could no longer feel Love, and were told that they would have to learn how to construct and nourish it again.
-Sadly during the same summit, the Heart knew no rest. There was a great conjunction, that led the armed assembled of [[Anvil]] through the [[Sentinel Gate]]. Yulia, Courageous as she was, joined her nation upon the field – marching to [[Zenith]], to stop the hateful [[Druj]] from enacting shroud [[Magic|magic]] upon [[The Empire|the Empire]].
-Yulia returned back through [[The Sentinel|the Sentinel]] [[Gate]], but mortally wounded. She came to the Glory Square to wish her darling farewell. There would be no grand Test for them to prove their love to House Remys. But their Love would be remembered. So in that moment, clasping hands in the Glory Square, Claudia went from Lady to Ser – she sundered her Nobility in order to marry Yulia and be bound together in troth and soul. They were married by the [[Earl]] of Fools, under the [[Witness|witness]] of all of Dawn. And in the moment of vows, now Ser Claudia felt that Love return to her heart as her darling Yulia slipped into the Labyrinth. The Love in her heart that all believed lost to the Eater of Love. To regain that which was lost, Claudia made a sacrifice, for the most Wintry of Loves.
-She loves her Nation. She knew the [[Cost]]. She loves her pack. Know that great deeds are [[Eternal|eternal]].
-RecentElections|Voice_of_the_Twin_Roses
+Once upon a time, upon the misty moors of [[Weirwater]], there lived a young [[Draughir]] enchantress of much [[Ambition]]. She loved her Nation. She loved Winter. And she loved her pack.
+In [[Anvil]] town, she met Yulia Kasimiova Voronov, [[Senator]] for [[Miekarova]] and a fiery Varushkan Throne candidate, who was also lit with the fire of Ambition. They began a dance of courtship that would continue for the next few years.
+Then, she was Enchantress Claudia and she was heir apparent of House Remys. She was dedicated deeply to the learning and application of [[Winter magic]]. She even rose up to create the position of [[Imperial Necromancer]] – someone who could advise on matters beyond the Labyrinth, guide Imperial citizens in matters regarding [[Whispers through the Black Gate]].
+But there in lay dangers of the soul. The Eater of Love, a heinous construct that roamed from within the Labyrinth reached into the Anvil [[Regio]] during the Autumn of 384 and struck at the Lady Claudia and her [[Family]]. In its wanton greed, it clawed at their souls, and stole the Love from their hearts. They could no longer feel Love, and were told that they would have to learn how to construct and nourish it again.
+Sadly during the same summit, the Heart knew no rest. There was a great conjunction, that led the armed assembled of Anvil through the [[Sentinel Gate]]. Yulia, Courageous as she was, joined her nation upon the field – marching to [[Zenith]], to stop the hateful [[Druj]] from enacting shroud [[Magic]] upon the Empire.
+Yulia returned back through [[The Sentinel]] Gate, but mortally wounded. She came to the Glory Square to wish her darling farewell. There would be no grand Test for them to prove their love to House Remys. But their Love would be remembered. So in that moment, clasping hands in the Glory Square, Claudia went from Lady to Ser – she sundered her Nobility in order to marry Yulia and be bound together in troth and soul. They were married by the [[Earl]] of Fools, under the witness of all of Dawn. And in the moment of vows, now Ser Claudia felt that Love return to her heart as her darling Yulia slipped into the Labyrinth. The Love in her heart that all believed lost to the Eater of Love. To regain that which was lost, Claudia made a sacrifice, for the most Wintry of Loves.
+She loves her Nation. She knew the [[Cost]]. She loves her pack. Know that great deeds are [[Eternal]].
+RecentElections|[[Voice_of_the_Twin_Roses]]

@@ -97,6 +97,6 @@ We're aware that the new rules don’t prioritise realism, but that is not one o
 ### IC Explanation
 These changes are primarily abstract in nature, but if players want to be able to discuss in-character why polyurethane plate counts as heavy now when it didn't then we suggest you put it down to recent improvements in [[Mithril|mithril]] smithing that have made [[Mithril|mithril]] armour almost as good as steel armour. The dreadnought skill represents the small advantage that a character can aquire by becoming strong enough to wear the thickest, heaviest armour.
 ### Adjustment
-Because of this rules change, we are allowing players to attatch a Medium Armour ribbon to a Heavy Armour physrep for the next four events. This is intended to ensure that no-one gets blindsided by their physrep now counting as something different.
+Because of this rules change, we are allowing players to attatch a Medium Armour ribbon to a Heavy Armour physrep for the next four [[Events|events]]. This is intended to ensure that no-one gets blindsided by their physrep now counting as something different.
 Most people will be able to drop a skill they no longer want using the website and the existing skill retraining mechanics, but if you wish to immediately drop a skill that is directly impacted by this rules change and can't use that option then please [mailto:admin@profounddecisions.co.uk email admin@profounddecisions.co.uk] and they will remove the skill for you.
 Rules Updates

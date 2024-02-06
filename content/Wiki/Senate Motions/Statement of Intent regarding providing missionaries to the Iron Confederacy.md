@@ -1,9 +1,12 @@
 ---
-IgnoreLinking: False
-Tags: ['Senate-Motion', '380YE-Autumn']
+IgnoreLinking: false
+Tags:
+- Senate-Motion
+- 380YE-Autumn
 Title: Statement of Intent regarding providing missionaries to the Iron Confederacy
-aliases: ['Statement_of_Intent_regarding_providing_missionaries_to_the_Iron_Confederacy']
-draft: False
+aliases:
+- Statement_of_Intent_regarding_providing_missionaries_to_the_Iron_Confederacy
+draft: false
 revision_date: 2022-02-02 12:17:47+00:00
 revision_id: 86563
 ---
@@ -14,4 +17,4 @@ Proposed by [[Segura]], Seconded by [[Kallavesa]]
 ### Overview
 * Passed
 ### Date
-* [[Autumn]] 380YE
+* Autumn 380YE

@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Navarr-Music', 'Navarr']
+IgnoreLinking: false
+Tags:
+- Music
+- Navarr-Music
+- Navarr
 Title: On the Wall
-aliases: ['On_the_Wall']
-draft: False
+aliases:
+- On_the_Wall
+draft: false
 revision_date: 2023-03-25 08:19:18+00:00
 revision_id: 98453
 ---
@@ -22,7 +26,7 @@ Verse 2
 Once more, the spawn hath come
 Our hearts won’t be undone
 On the west wall
-We’re fighting free
+We’re Fighting free
 On the west wall
 [[Heroes]] we.
 Chorus
@@ -45,7 +49,7 @@ We’ll show these beasts no fear
 On the west wall
 We’re fighting free
 On the west wall
-[[Heroes]] we.
+Heroes we.
 Chorus
 Reprise verse
 'Cause on the west wall
@@ -55,7 +59,7 @@ You and me.
 Instrumental
 Verse 4
 And if my sword should fall
-Then who’ll be next [[On the Wall|on the wall]].
+Then who’ll be next [[On the Wall]].
 'Cause on the west wall
 We are free
 On the west wall
@@ -71,4 +75,4 @@ One call
 One beat
 One heart 
 One time
-[[On the Wall|On the wall]]
+On the wall

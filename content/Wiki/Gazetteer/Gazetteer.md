@@ -1,14 +1,16 @@
 ---
-IgnoreLinking: False
-Tags: ['Gazetteer', 'The-Empire']
+IgnoreLinking: false
+Tags:
+- Gazetteer
+- The-Empire
 Title: Gazetteer
-draft: False
+draft: false
 revision_date: 2024-01-13 16:08:13+00:00
 revision_id: 107143
 ---
 
 ## OOC Tactical Map
-## National Information and [[Maps]]
+## National Information and Maps
 ### [[The Brass Coast]]
 * [[Feroz]]
 * [[Kahraman]]
@@ -66,11 +68,11 @@ See: [[Varushka Maps]]
 * [[Hahnmark]]
 * [[Kallavesa]]
 * [[Sermersuaq]]
-See: [[Wintermark Maps]]
+See: Wintermark Maps
 Wondering how some of these places are usually pronounced? Try the [[Pronunciation guide]].
-## IC [[Maps]]
+## IC Maps
 A selection of IC tactical and decorative maps can be found at Maps
-480x335px|link=http://www.profounddecisions.co.uk/mediawiki-public/images/0/0d/EmpireDetailedMap.png
+480x335px|link=http://www.profounddecisions.co.uk/mediawiki-public/iMages/0/0d/EmpireDetailedMap.png
 ## Further Afield
 [[Bay of Catazar]]
 [[The seven seas]]

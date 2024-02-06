@@ -1,9 +1,12 @@
 ---
-IgnoreLinking: False
-Tags: ['Senate-Motion', '378YE-Spring']
+IgnoreLinking: false
+Tags:
+- Senate-Motion
+- 378YE-Spring
 Title: Contact the Lasambrian orcs
-aliases: ['Contact_the_Lasambrian_orcs']
-draft: False
+aliases:
+- Contact_the_Lasambrian_orcs
+draft: false
 revision_date: 2022-01-23 15:28:45+00:00
 revision_id: 85871
 ---
@@ -12,8 +15,8 @@ revision_id: 85871
 ### Overview
 * Open diplomatic relations with the Lasambrian orcs.
 ### Date
-* [[Spring]] Equinox 378YE
-### [[Campaign outcome|Campaign Outcome]]
+* Spring Equinox 378YE
+### Campaign Outcome
 * Attempts were made to send Winged Messengers to the Lasambrian orcs.
 ### Voting
 {| class="wikitable"

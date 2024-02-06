@@ -1,9 +1,12 @@
 ---
-IgnoreLinking: False
-Tags: ['Senate-Motion', '380YE-Spring']
+IgnoreLinking: false
+Tags:
+- Senate-Motion
+- 380YE-Spring
 Title: Disburse funds for Iron Helms II
-aliases: ['Disburse_funds_for_Iron_Helms_II']
-draft: False
+aliases:
+- Disburse_funds_for_Iron_Helms_II
+draft: false
 revision_date: 2022-02-03 19:10:45+00:00
 revision_id: 86781
 ---
@@ -13,8 +16,8 @@ To request funds to begin production of the Iron Helm army of VarushkaProposed b
 ### Overview
 * Passed in principle
 * Passed at 250 Thrones
-* This followed on from a previous motion to fund the army commissioned by [[The Senate|the Senate]] [[Autumn]] 379YE
+* This followed on from a previous motion to fund the army Commissioned by the Senate Autumn 379YE
 ### Date
-* [[Spring]] 380YE
-### Progress
-* 250 Thrones disbursed to [[Senator]] [[Karsk]]
+* Spring 380YE
+### PrOgress
+* 250 Thrones disbursed to [[Senator]] Karsk

@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Navarr-Music', 'Navarr']
+IgnoreLinking: false
+Tags:
+- Music
+- Navarr-Music
+- Navarr
 Title: We will go Home (Across the Mountains)
-aliases: ['We_will_go_Home_(Across_the_Mountains)']
-draft: False
+aliases:
+- We_will_go_Home_(Across_the_Mountains)
+draft: false
 revision_date: 2014-06-10 14:24:14+00:00
 revision_id: 26775
 ---
@@ -13,12 +17,12 @@ New lyrics by Michael Barley
 Verse 1
 Land of bear and land of eagle.
 Land that gave us birth and blessing.
-Land that called us ever homewards.
-We [[Will|will]] go home across the mountains.
+Land that called us ever homeWards.
+We will go home across The Mountains.
 Chorus
-We [[Will|will]] go home, we [[Will|will]] go home,
-We [[Will|will]] go home across the mountains.
-We [[Will|will]] go home, we will go home,
+We will go home, we will go home,
+We will go home across the mountains.
+We will go home, we will go home,
 We will go home across the mountains.
 Verse 2
 Land of [[Thorn]], and land of [[Navarr]].

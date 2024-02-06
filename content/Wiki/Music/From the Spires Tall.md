@@ -1,22 +1,26 @@
 ---
-IgnoreLinking: False
-Tags: ['Urizen', 'Urizen-Music', 'Music']
+IgnoreLinking: false
+Tags:
+- Urizen
+- Urizen-Music
+- Music
 Title: From the Spires Tall
-aliases: ['From_the_Spires_Tall']
-draft: False
+aliases:
+- From_the_Spires_Tall
+draft: false
 revision_date: 2013-08-08 15:04:50+00:00
 revision_id: 21560
 ---
 
 March out bravely,
-[[From the Spires Tall|From the Spires tall]],
+From the [[From the Spires Tall]],
 Armour shod, sure of foot,
 Warriors all,
-[[The Empire]] [[Calls|calls]] us now,
-Out we march to [[War|war]],
+[[The Empire]] calls us now,
+Out we march to [[War]],
 Poise in ev’ry movement made,
 A silent roar.
-Heed the [[General|general]]’s shout,
+Heed the [[General]]’s shout,
 Move at his command,
 Shield and rod, wand and staff,
 Sword at hand.
@@ -25,7 +29,7 @@ Move and hold the line,
 Weapons swift, eyes aflame,
 Banners high.
 March then* home again,
-To the [[Spires]] tall,
+To the Spires tall,
 Armour shod, victorious,
 Warriors all.
- *Can be [[Sung|sung]] as “now” if on the return
+ *Can be [[Sung]] as “now” if on the return

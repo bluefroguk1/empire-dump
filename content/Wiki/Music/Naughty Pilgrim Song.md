@@ -1,14 +1,18 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Highguard', 'Highguard-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- Highguard
+- Highguard-Music
 Title: Naughty Pilgrim Song
-aliases: ['Naughty_Pilgrim_Song']
-draft: False
+aliases:
+- Naughty_Pilgrim_Song
+draft: false
 revision_date: 2012-11-28 15:29:42+00:00
 revision_id: 12745
 ---
 
-By [[The Empire|the Empire]] [[Music|music]] team
+By [[The Empire]] [[Music]] team
 ----------
 For many nights I tossed and turned
 And paced the chilly floor
@@ -22,23 +26,23 @@ Than endless ma...
 My eye fell on a Dawnish knight
 Who looked so big and strong
 He sang me songs of courtly love
-At my window all [[Night|night]] long
-He took me in the gardens fair
+At my window all night long
+He took me in The Gardens fair
 He rode me to the hunt
 But his sword, alas, was much to small
 To fill my empty...
 ...scabbard
-To the [[Wintermark|wintermark]] I went
-To find a man so warm
+To the [[Wintermark]] I went
+To find a man so Warm
 He gave me furs and skins to feel
-And stroked me till the [[Dawn|dawn]]
-Sagas he did tell to me, oh, how the [[Glory|glory]] lingers
+And stroked me till the [[Dawn]]
+Sagas he did tell to me, oh, how the [[Glory]] lingers
 But his tongue was frozen hard
 Too cold for...
 ...telling riddles
 The marcher folk, so it's been spoke
 Are strong in leg and back
-I found a lovely farmer's boy
+I found a lovely Farmer's boy
 With ripe plums in his sack
 His mighty hoe, it swung so low
 Milk white was his complexion
@@ -46,18 +50,18 @@ The problem, see, was just that he
 Could not get an...
 ...arrangement
 A Brass Coast bed, so it's been said
-Is full of fire and passion
-So a [[Freeborn|freeborn]] man became my plan
+Is fUll of fire and passion
+So a freeborn man became my plan
 To get my sausage ration
 I searched the nation up and down
 To the city of Siroc
 But every single man I found
 Had such a tiny...
 ...purse
-I went one [[Day|day]] across the bay
+I went one day across the bay
 To find a merchant wealthy
 I tracked one down in [[Holberg]] town
-Whose purse was full and healthy
+Whose purse was full and Healthy
 In wine and song we dallied long
 In games of chance and luck
 But when I said "it's time for bed"
@@ -65,15 +69,15 @@ He was too drunk to...
 ...get his boots off
 I found a lusty woodcutter
 In the cold Varushkan snow
-He kissed me in the mountains high
+He kissed me in The Mountains high
 And also down below
 In his strong arms I plied my charms
 While hail and sleet fell thick
-But no [[Magic|magic]] spell that I could tell
+But no [[Magic]] spell that I could tell
 Could raise his flaccid...
-...[[Banner|banner]]
-I found among the [[Navarr]] tribes,
-A man with [[Painted|painted]] skin
+...banner
+I found among the [[Navarr]] Tribes,
+A man with [[Painted]] skin
 So proud and bold, his hair like gold
 I thought my luck was in
 All night and day we naked lay
@@ -101,7 +105,7 @@ So I was back to...
 ...embroidery
 With a heart like stone I wandered home
 And found my Chaptermaster
-I told him how my [[Pilgrimage|pilgrimage]] 
+I told him how my PilgriPilgrimage 
 Had ended in disaster
 His eyes grew bright - we cuddled tight
 Until our strength was flagging

@@ -1,16 +1,20 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Highguard', 'Highguard-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- Highguard
+- Highguard-Music
 Title: Hymn to Vigilance
-aliases: ['Hymn_to_Vigilance']
-draft: False
+aliases:
+- Hymn_to_Vigilance
+draft: false
 revision_date: 2017-07-26 11:47:56+00:00
 revision_id: 54620
 ---
 
 Original tune Akk Fader. Very quiet recording of original [https://www.youtube.com/watch?v=LUlBT_VWSeI&list=PL9STuhamGVYyzHKJQcl16ka8GlF8glg77&index=1 here].
 I arm myself with sword and shield
-To take [[The Battlefield|the battlefield]]
+To take [[The Battlefield]]
 And daily armed with faith I go
 To face a subtler foe
 An empire pure and whole 

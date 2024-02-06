@@ -1,9 +1,12 @@
 ---
-IgnoreLinking: False
-Tags: ['378YE-Winter', 'Failed-Senate-Motion']
+IgnoreLinking: false
+Tags:
+- 378YE-Winter
+- Failed-Senate-Motion
 Title: Raise Dawnish army
-aliases: ['Raise_Dawnish_army']
-draft: False
+aliases:
+- Raise_Dawnish_army
+draft: false
 revision_date: 2022-01-24 16:52:25+00:00
 revision_id: 85950
 ---
@@ -12,11 +15,11 @@ To raise a fourth Dawnish Army in [[Astolat]].''Proposed by [[Semmerholm]], seco
 ### Overview
 * The motion was defeated
 ### Date
-* [[Autumn]] 378YE
+* Autumn 378YE
 ### Costs
-* [[Materials]]: 250 [[Mithril|mithril]]. (Standard costs).
+* [[Materials]]: 250 [[Mithril]]. (Standard costs).
 * Time: 1 year to construct
 * Upkeep: 50 Thrones per season.
-### [[Campaign outcome|Campaign Outcome]]
-* This would have begun the creation of a Dawnish [[Imperial army]] in [[Astolat]].
+### Campaign Outcome
+* This would have begun the creation of a Dawnish [[Imperial army]] in Astolat.
 __NOTOC__

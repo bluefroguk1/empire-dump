@@ -1,25 +1,29 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Dawn-Music', 'Dawn']
+IgnoreLinking: false
+Tags:
+- Music
+- Dawn-Music
+- Dawn
 Title: Tanner_s Hill
-aliases: ["Tanner's_Hill"]
-draft: False
+aliases:
+- Tanner's_Hill
+draft: false
 revision_date: 2013-08-19 19:11:54+00:00
 revision_id: 21582
 ---
 
 Lyrics by Amelia Crowley, [[Music]] Jude Reid
-The full notation for the song is below, and the same version in a different layout is available [http://www.profounddecisions.co.uk/mediawiki-public/images/f/fc/Tanner%27s_Hill.pdf here]. 
-On a [[Winter|winter]]'s evening when all were cold and still
+The fUll notation for the song is below, and the same version in a different layout is available [http://www.profounddecisions.co.uk/mediawiki-public/iMages/f/fc/Tanner%27s_Hill.pdf here]. 
+On a winter's evening when all were cold and still
 There came a goodman walking up the road to Tanner's Hill
 On a winter's evening without no wind nor rain
 A man went up to Tanner's hill, a bard came down again
-Once go for [[Wisdom|wisdom]]
+Once go for [[Wisdom]]
 Twice go for fame
 But them as go to Tanner's Hill, they'll not come down the same
 Mild and misty springtime when all were fine and fair
 A bard climbed up to Tanner's Hill to get a breath of air
-Mild and misty springtime with birdsong on the brain
+Mild and misty springtime with Birdsong on the brain
 A bard climbed up to Tanner's Hill - a knight went home again
 When the ravens circle
 When the sky's aflame
@@ -31,7 +35,7 @@ A knight went up to Tanner's Hill and mad came down again
 Some say it's the old ones
 Some say it's the fey
 But them as go to Tanner's Hill, they'll not come down the same
-At the end of [[Autumn]] as the leaves lay dead and still
+At the end of Autumn as the leaves lay dead and still
 There came a madman walking up the road to Tanner's Hill
 At the end of Autumn when the year were on the wane
 A madman climbed to Tanner's Hill and ne'er came down again

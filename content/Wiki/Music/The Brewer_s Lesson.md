@@ -1,15 +1,19 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Varushka-Music', 'Varushka']
+IgnoreLinking: false
+Tags:
+- Music
+- Varushka-Music
+- Varushka
 Title: The Brewer_s Lesson
-aliases: ["The_Brewer's_Lesson"]
-draft: False
+aliases:
+- The_Brewer's_Lesson
+draft: false
 revision_date: 2015-09-18 18:28:10+00:00
 revision_id: 39000
 ---
 
 by Stephanie Heath and Anna Clifford-Tait
-Recording here: [http://www.profounddecisions.co.uk/mediawiki-public/images/[[Music|music]]/steph/Brewers%20Lesson.m4a Brewers Lesson]
+Recording here: [http://www.profounddecisions.co.uk/mediawiki-public/iMages/[[Music]]/steph/Brewers%20Lesson.m4a Brewers Lesson]
 What you need to understand is
 How very cold our land is
 A beercoat here is not a luxury
@@ -39,7 +43,7 @@ Oh my friend, you have learned nothing
 Good Varushkans keep on stuffing
 For the vodka vat takes almost anything
 And ends all suff'ring...
-In the [[Forest|forest]] we find berries
+In the [[Forest]] we find berries
 A good reason to care is
 Nothing to do with the taste or smell
 Okay, you can dye clothes up
@@ -51,11 +55,11 @@ But let's not be so hasty
 This one looks a bit too small and sour
 I bet that if we squish it,
 Leave it lying where we'll mish it
-Eventually it [[Will|will]] be more fun
+Eventually it will be more fun
 Still looks like pish it...
 So animal or veg-e-tab-le,
 Nice or not to taste
-We'll make it into something that [[Will|will]] get you 
+We'll make it into something that will get you 
 off your face
 I hope you've learned your lesson
 Cos it's time to start the session

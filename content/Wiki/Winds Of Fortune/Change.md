@@ -50,9 +50,9 @@ It is anyone's guess what all this means.
 For the last six months the [[Ritual|ritual]] Distill the Serpent's Stone has been producing shadow eggs instead. This change to the ritual appears to be permanent - but it appears that the ritual has also become slightly easier to perform. It now no longer requiring ingots and measures of special [[Materials|materials]], "only" a ring of [[Ilium]]. 
 Matt black in colouration, the oval stone is easily broken open in bare hands. Anyone who does so immediately gains a temporary boost to their [[Realm Lore|Realm lore]] skill of 6 effective ranks for purposes of performing a single ritual, provided they already possess at least one innate skill rank of that Lore. These additional ranks do not grant any additional mastered rituals, and a character's total effective rank can never be more than three times their innate skill (the number of ranks of the appropriate [[Realm]] Lore they have gained by spending experience points). 
 At the same time, these shadow eggs appear to have no effect on poisons or curses, and do not allow materials to be transformed. Serpent's stones that have already been distilled keep all their old powers and can be used freely - they do not seem to have undergone any change at all.
-It has also become clear that this ritual is directly connected to the new eternal, [[Azoth]]. What this implies about its original properties - whether it was directly drawing on the power of Murit or Soghter or both - is a matter for speculation.
+It has also become clear that this ritual is directly connected to the new eternal, [[Azoth]]. What this implies about its original properties - whether it was directly drawing on the power of Murit or [[Soghter]] or both - is a matter for speculation.
 ## Further Reading
-* Murit and Soghter
+* [[Murit]] and Soghter
 * Winter Solstice 381YE
 * Autumn Equinox 381YE
 * Summer Solstice 381YE

@@ -1,20 +1,24 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Varushka-Music', 'Varushka']
+IgnoreLinking: false
+Tags:
+- Music
+- Varushka-Music
+- Varushka
 Title: The Walker of the Snow
-aliases: ['The_Walker_of_the_Snow']
-draft: False
+aliases:
+- The_Walker_of_the_Snow
+draft: false
 revision_date: 2012-08-02 20:41:41+00:00
 revision_id: 4063
 ---
 
-[[The Walker of the Snow|THE WALKER OF THE SNOW]]
+[[The Walker of the Snow]]
 SPEED on, speed on, good master! 
 ... The camp lies far away;
 We must cross the haunted valley 
-Before the close of [[Day|day]].
+Before the close of day.
 How the snow-blight came upon me
-I [[Will|will]] tell you as we go,
+I will tell you as we go,
 — The blight of the Shadow-hunter,
 Who walks the midnight snow.
 To the cold December heaven
@@ -41,7 +45,7 @@ And then I sang and shouted,
 Keeping measure as I sped,
 To the harp twang of the snow-shoe 
 As it sprang beneath my tread;
-Not far [[Into the valley|into the valley]]
+Not far [[Into the valley]]
 Had I dipped upon my way,
 When a dusky figure joined me, 
 In a capuchon of gray,
@@ -66,10 +70,10 @@ Before the break of day,
 With my dark hair blanched and whitened
 As the snow in which I lay.
 But they spoke not as they raised me;
-For they knew that in the [[Night|night]] 
+For they knew that in the night 
 I had seen the Shadow-hunter,
 And had withered in his blight.
 [[Mother Varushka]] speed us !
 The sun is falling low,
 — Before us lies the valley
-Of [[The Walker of the Snow|the Walker of the Snow]]
+Of the Walker of the Snow

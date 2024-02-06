@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Navarr-Music', 'Navarr']
+IgnoreLinking: false
+Tags:
+- Music
+- Navarr-Music
+- Navarr
 Title: The Oak (song)
-aliases: ['The_Oak_(song)']
-draft: False
+aliases:
+- The_Oak_(song)
+draft: false
 revision_date: 2013-04-19 15:14:17+00:00
 revision_id: 20153
 ---
@@ -17,12 +21,12 @@ The limbs, the veins, the head and the heart
 The earth, the roots, the leaves and the bark
 Chorus
 Verse 1
-For shelter and shade has [[The Oak|the oak]] tree grown
+For shelter and shade has the oak tree grown
 (The limbs, the veins, the head and the heart)
-The boat and cradle, the [[Hearth and Home|hearth and home]]
+The boat and cradle, the [[Hearth and Home]]
 (The earth, the roots, the leaves and the bark)
 Verse 2
-Tear the leaves and the crops [[Will|will]] fail
+Tear the leaves and the crops will fail
 (The limbs, the veins, the head and the heart)
 Cut the branch and your ships won’t sail
 (The earth, the roots, the leaves and the bark)
@@ -40,7 +44,7 @@ What grows when the black rain burns?
 Chorus
 Instrumental
 Verse 5
-For seven generations [[The Oak|the oak]] trees grow
+For seven generations the oak trees grow
 (The limbs, the veins, the head and the heart)
 The roots reach deep to the rocks and bones
 (The earth, the roots, the leaves and the bark)

@@ -80,5 +80,5 @@ After the battle it will take a short time to get off the battlefield, remove yo
 * Turn your mask inside out and spray it with disinfectant
 * Return any unused [[Herbs|herbs]], mana and potions you haven’t used
 * Return your armour to the correct size pile
-* Return any costume or weapons to the correct rail or pile
+* Return any [[Costume|costume]] or weapons to the correct rail or pile
 Monstering Further Reading

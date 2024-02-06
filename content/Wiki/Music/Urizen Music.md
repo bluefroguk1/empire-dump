@@ -1,23 +1,26 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Urizen-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- Urizen-Music
 Title: Urizen music
-aliases: ['Urizen_music']
-draft: False
+aliases:
+- Urizen_music
+draft: false
 revision_date: 2021-08-06 16:00:54+00:00
 revision_id: 84174
 ---
 
 ## The [[Music]] of [[Urizen]]
 ### Style summary
-The [[Urizen]] musical tradition mirrors their tranquil, philosophical approach to life. More in meditation than performance, traditional [[Urizen]] musicians gather to improvise fluid, shifting melodies and harmonies around a series of repetitive themes, usually choosing a concept such as 'tranquility', 'hope' or 'grief' around which to base their compositions. They favour picked strings, tuned percussion and light, breathy woodwind, though any instrument can be played as part of the soundscape.
+The Urizen musical tradition mirrors their tranquil, philosophical approach to life. More in meditation than performance, traditional Urizen musicians gather to improVise fluid, shifting melodies and harmonies around a series of repetitive themes, usually choosing a concept such as 'tranquility', 'hope' or 'grief' around which to base their compositions. They favour picked strings, tuned percussion and light, breathy woodwind, though any instrument can be played as part of the soundscape.
 Real world inspiration includes gamelan, minimalists such as Phillip Glass and Ludivico Ianoudi, Vangelis and Mike Oldfield, though with acoustic rather than electric instruments.
 ### A musical tradition
-[[Urizen]] does not have a popular concert tradition. However, many Stargazers who are also musicians use musical improvisation and composition to structure their [[Ritual|ritual]] magics; one such major tradition is the [[Silutarian Method]], which utilises the connection between musical modes and the [[Realms|realms]] of [[Magic|magic]].
+Urizen does not have a popular concert tradition. However, many Stargazers who are also musicians use musical improvisation and composition to structure their ritual Magics; one such major tradition is the Silutarian Method, which utilises the connection between musical modes and the realms of [[Magic]].
 ### Further examples
 ### Songs
-Traditionally, [[Urizen]] has not had a significant song tradition of its own, although bards have happily purloined the songs of other nations to sing in bars and around campfires. See [[Music]] for songs known throughout [[The Empire|the Empire]]. 
-[[Children]] still sing songs and nursery rhymes, such as the following: [[Hungry Goat]]
+Traditionally, Urizen has not had a significant song tradition of its own, although bards have happily purloined the songs of other nations to sing in bars and around campfires. See Music for songs known throughout [[The Empire]]. 
+Children still sing songs and nursery rhymes, such as the following: [[Hungry Goat]]
 Very recently, however, there has been a developing vogue for musical settings of Urizen lyric poetry. The pieces are usually repetetive, cyclical and reflective, as befits the Urizen outlook.
 *The [[Stargazer]]'s Song
 *[[Cold, Crisp Air]]
@@ -30,5 +33,5 @@ Performers in Urizen more commonly recite poetry than sing. There is more inform
 * Take any tune and repeat a phrase over and over, allowing others to improvise around it.
 ### Our sources
 Any gamelan, Philip Glass and other minimalists but preferably played on tuned percussion, Michael Nyman, Solaris soundtrack.
-Here is a [https://www.youtube.com/watch?v=Y3nQdlKlsTk&list=PLF41B4424C60DE579&feature=plpp_play_all youtube playlist] of appropriate or inspiring [[Music|music]] for Urizen.
+Here is a [https://www.youtube.com/watch?v=Y3nQdlKlsTk&list=PLF41B4424C60DE579&feature=plpp_play_all youtube playlist] of appropriate or inspiring music for Urizen.
 Urizen Links

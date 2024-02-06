@@ -1,9 +1,13 @@
 ---
-IgnoreLinking: False
-Tags: ['Music', 'Wintermark', 'Wintermark-Music']
+IgnoreLinking: false
+Tags:
+- Music
+- Wintermark
+- Wintermark-Music
 Title: The Snow It Melts the Soonest
-aliases: ['The_Snow_It_Melts_the_Soonest']
-draft: False
+aliases:
+- The_Snow_It_Melts_the_Soonest
+draft: false
 revision_date: 2012-07-24 10:17:13+00:00
 revision_id: 3001
 ---
@@ -21,24 +25,24 @@ She's fain to follow yet
 The snows they melt the soonest
 When the winds begin to sing
 And the swallow flies without a thought
-As long as it is [[Spring|spring]]
-But when spring goes and [[Winter|winter]] blows
+As long as it is spring
+But when spring goes and winter blows
 My love then you'll be fain
-For all your [[Pride|pride]] to follow me
+For all your [[Pride]] to follow me
 Across the raging main
 The snows they melt the soonest
 When the winds begin to sing
-And the bee that flew when [[Summer|summer]] shone
+And the bee that flew when summer shone
 In winter cannot sting
 And I've seen a woman's anger melt
-Between the [[Night|night]] and morn
+Between the night and morn
 So it's surely not a harder thing
 To melt a woman's scorn
 So don't you bid me farewell here
 No farewell I'll receive 
-For you [[Will|will]] lie with me, my lass
+For you will lie with me, my lass
 Then kiss and take your leave
-And I'll wait here till the moorcrock [[Calls|calls]]
+And I'll wait here till the moorcrock calls
 And the martin takes the wing
 For the snow they melt the soonest
 When the winds begin to sing

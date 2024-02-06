@@ -1,51 +1,53 @@
 ---
-IgnoreLinking: False
-Tags: ['Events', 'The-Game']
+IgnoreLinking: false
+Tags:
+- Events
+- The-Game
 Title: Events
-draft: False
+draft: false
 revision_date: 2024-01-03 14:14:35+00:00
 revision_id: 106726
 ---
 
 stub
 ## Overview
-Profound Decisions [[Will|will]] run four Empire [[Events|events]] each year. Although we are keen to give players the freedom to run their own Empire [[Events|events]] if they wish, we believe it is also important for players to know what level of commitment and involvement a game presents. Therefore there [[Will|will]] only ever be four Profound Decisions Empire [[Events|events]] each year.
+Profound Decisions will run four Empire [[Events]] each year. Although we are keen to give players the freedom to run their own Empire events if they wish, we believe it is also important for players to know what level of commitment and involvement a game presents. Therefore there will only ever be four Profound Decisions Empire events each year.
 ## Event Dates in 2024
-OOC details for all our [[Events|events]] in 2024 are below. If you have any questions about the details then please [mailto:admin@profounddecisions.co.uk email us] and we [[Will|will]] endeavour to answer them for you.
+OOC details for all our events in 2024 are below. If you have any questions about the details then please [mailto:admin@profounddecisions.co.uk email us] and we will endeavour to answer them for you.
             Event
             Start
             End
             Location
-            [[Winter]] Solstice 385YE
+            Winter Solstice 385YE
             26th April
             28th April
             [[Dadford Road Campsite]]
-            [[Spring]] Equinox 386YE
+            Spring Equinox 386YE
             14th June
             16th June
-            [[Dadford Road Campsite]]
-            [[Summer]] Solstice 386YE
+            Dadford Road Campsite
+            Summer Solstice 386YE
             26th July
             28th July
-            [[Dadford Road Campsite]]
-            [[Autumn]] Equinox 386YE
+            Dadford Road Campsite
+            Autumn Equinox 386YE
             13th September
             15th September
-            [[Dadford Road Campsite]]
+            Dadford Road Campsite
 ## Time-in and Time-out
 Time in is at 6pm on Friday and 10am on Saturday and Sunday morning. Time-out is at 1am Saturday morning and Sunday morning. The event ends with final time-out at 3pm on Sunday.
 ## Early Arrival
-Although there is no role-playing before time-in on Friday, you are very welcome to arrive early to begin setting up your camp. The bar [[Will|will]] be open on Thursday evening and our caterers [[Will|will]] be aiming to provide hot food. Please enjoy this [[Opportunity|opportunity]] to socialize out-of-character.
-The earliest that you can arrive is 1:00 pm on the Thursday before each event. Please note that the arrival time is two hours later than last year - as we need the additional time to finish site preparations before players arrive. There is an additional charge of £10 for anyone who stays on site on Thursday [[Night|night]] that must be paid on the [[Gate|gate]] in cash only.
+Although there is no role-playing before time-in on Friday, you are very welcome to arrive early to begin setting up your camp. The bar will be open on Thursday evening and our caterers will be aiming to provide hot food. Please enjoy this [[Opportunity]] to socialize out-of-character.
+The earliest that you can arrive is 1:00 pm on the Thursday before each event. Please note that the arrival time is two hours later than last year - as we need the additional time to finish site preparations before players arrive. There is an additional charge of £10 for anyone who stays on site on Thursday night that must be paid on the gate in cash only.
 ## Location
-All our [[Events|events]] in 2023 will be held at our current site next to [[Dadford Road Campsite]], off Dadford Road, near Dadford in Buckinghamshire.
+All our events in 2023 will be held at our current site next to Dadford Road Campsite, off Dadford Road, near Dadford in Buckinghamshire.
 ## Booking and Prices
-[[Online]] booking is available for all Profound Decisions events via our [http://www.profounddecisions.co.uk/ [[Online|online]] account system]. Please create an account, enter your details and choose which events you wish to attend. You can even use the online booking system if you wish to pay by cheque as the system will give you a single booking reference to write on the back of your cheque.
-All our events [[Cost|cost]] £80 if booked well in advance. The price rises after the early booking deadline and then again if you pay on the gate. Please see our [http://www.profounddecisions.co.uk/event/deadlines ticket booking deadlines] for details. Various discounts are available and all discounts are cumulative.
+Online booking is available for all Profound Decisions Events via our [http://www.profounddecisions.co.uk/ online account system]. Please create an account, enter your details and choose which Events you wish to attend. You can even use the online booking system if you wish to pay by cheque as the system will give you a single booking reference to write on the back of your cheque.
+All our Events [[Cost]] £80 if booked well in advance. The price rises after the early booking deadline and then again if you pay on the gate. Please see our [http://www.profounddecisions.co.uk/event/deadlines ticket booking deadlines] for details. Various discounts are available and all discounts are cumulative.
 ### Multi-booking Discounts
 If you book for more than one event simultaneously then you are receive a £5 discount for each additional event that you book. For example, if you book for three events then you are eligible for a discount of £10 from the total price. 
 ### Concessions
-Players are eligible for a discount of £25 off the price of each event if they are eligible for concessions. Anyone who is a full time student, a full time member of the armed services, a pensioner, or receives state benefits as their main income is eligible for the concession on the ticket price. You only have to be eligible at the point where you provide the proof of your eligibility, so students can claim the discount for the year even if their course ends in the Summer.
+Players are eligible for a discount of £25 off the price of each event if they are eligible for concessions. Anyone who is a fUll time student, a full time member of the armed services, a pensioner, or receives state benefits as their main income is eligible for the concession on the ticket price. You only have to be eligible at the point where you provide the proof of your eligibility, so students can claim the discount for the year even if their course ends in the Summer.
 You must provide proof of your eligibility. The best way to do this is to email proof to us at [mailto:admin@profounddecisions.co.uk admin@profounddecisions.co.uk] after you have booked. We can then mark your entire booking as having the concession confirmed. If you don't do this then you will need to bring proof to the event and then queue up in a long queue at GOD before you can play. Please don't do this, it's bad for you and bad for us! Email us a scan of your proof and we will log it to your account.
 ## Payment
 ### Ebanking

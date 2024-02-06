@@ -1,9 +1,15 @@
 ---
-IgnoreLinking: False
-Tags: ['League-Music', 'Dawn-Music', 'Music', 'The-League', 'Dawn']
+IgnoreLinking: false
+Tags:
+- League-Music
+- Dawn-Music
+- Music
+- The-League
+- Dawn
 Title: Elizabethan recorder music
-aliases: ['Elizabethan_recorder_music']
-draft: False
+aliases:
+- Elizabethan_recorder_music
+draft: false
 revision_date: 2015-04-19 16:52:03+00:00
 revision_id: 35210
 ---
@@ -48,4 +54,4 @@ All in a garden green
 200px|thumb|left
 When that I was and a little tiny boy
 200px|thumb|left 
-[http://www.profounddecisions.co.uk/mediawiki-public/images/c/cc/Minuett.pdf Here] is a Minuette and Trio for two recorders.
+[http://www.profounddecisions.co.uk/mediawiki-public/iMages/c/cc/Minuett.pdf Here] is a Minuette and Trio for two recorders.

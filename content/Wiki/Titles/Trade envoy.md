@@ -1,26 +1,30 @@
 ---
-IgnoreLinking: False
-Tags: ['Senate', 'Foreign-Nations', 'Title']
+IgnoreLinking: false
+Tags:
+- Senate
+- Foreign-Nations
+- Title
 Title: Trade envoy
-aliases: ['Trade_envoy']
-draft: False
+aliases:
+- Trade_envoy
+draft: false
 revision_date: 2019-05-17 16:58:12+00:00
 revision_id: 72708
 ---
 
 ## Overview
-[[Trade envoy|Trade Envoy]] is an [[Imperial Title]] with ''responsibility'' for pursuing trade in [[Mithril|mithril]], [[Weirwood|weirwood]], [[White granite|white granite]], and [[Ilium]] with specific [[Foreign Nations|foreign nations]]. The first trade envoys were created by the [[Imperial Senate]] during the [[Spring]] Equinox 377YE.
+[[Trade envoy]] is an [[Imperial Title]] with ''responsibility'' for pursuing trade in [[Mithril]], [[Weirwood]], [[White granite]], and [[Ilium]] with specific [[Foreign Nations]]. The first trade envoys were created by the [[Imperial Senate]] during the Spring Equinox 377YE.
 ==Responsibilities== 
-Each [[Trade envoy|trade envoy]] is responsible for pursuing [[Opportunities|opportunities]] with a specific foreign nation to gain [[Mithril|mithril]], [[Weirwood|weirwood]], [[White granite|white granite]], or [[Ilium|ilium]] for [[The Empire|the Empire]]. While the ambassadors are responsible for representing [[The Empire|the Empire]] to [[Foreign Nations|foreign nations]], the trade envoys are expected to proactively seek opportunities for trade in valuable [[Bourse]] [[Materials|materials]]. It is likely that a [[Trade envoy|trade envoy]] [[Will|will]] need to work closely with an [[Ambassador|ambassador]] in service to this goal.
+Each trade envoy is responsible for pursuing opportunities with a specific foreign nation to gain mithril, weirwood, white granite, or ilium for [[The Empire]]. While the Ambassadors are responsible for representing the Empire to foreign nations, the trade envoys are expected to proactively seek opportunities for trade in valuable Bourse [[Materials]]. It is likely that a trade envoy will need to work closely with an [[Ambassador]] in service to this goal.
 ## Powers
 The trade envoys have no legal powers. The significance with which the title is treated is likely to vary, depending on the culture and politics of the foreign nation with which they communicate.
 ## [[Appointment]]
-Each [[Trade envoy|trade envoy]] is an Imperial position appointed by [[The Senate|the Senate]]. The title can be held by any Imperial citizen. A [[Trade envoy|trade envoy]] has [[Tenure|tenure]], and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]] and by the [[Assembly of the Nine]].
-When they were created, the trade envoys were ceremonial titles appointed by the [[Imperial Senate]]. This decision was challenged by the [[Master of the Imperial Mint]] Guillamo de [[Tassato]] who was successful in arguing that the titles should be auctioned through the [[Imperial Bourse]]. At the point where it was clarified that the titles were Imperial titles, then it was clear that this shift was unconstitutional. [[Appointment by the Senate]] was restored after the [[Autumn]] Equinox 381YE.
+Each trade envoy is an Imperial position appointed by the Senate. The title can be held by any Imperial citizen. A trade envoy has tenure, and serves until they die or step down. They can be revoked by the [[General]] [[Assembly]] and by the Assembly of the Nine.
+When they were created, the trade envoys were ceremonial titles appointed by the Imperial Senate. This decision was Challenged by the [[Master of the Imperial Mint]] Guillamo de [[Tassato]] who was successful in arguing that the titles should be auctioned through the [[Imperial Bourse]]. At the point where it was clarified that the titles were Imperial titles, then it was clear that this shift was unconstitutional. [[Appointment by the Senate]] was restored after the Autumn Equinox 381YE.
 ## Existing Trade Envoys
-Trade envoys were initially created to  the [[Principalities of Jarm]], the [[Asavean Archipelago]], [[Faraden]], the [[Commonwealth]] and the [[Sumaah Republic]]. A sixth trade envoy, to the [[Sarcophan Delves]], was created in [[Winter]] 379YE.
-OOC Note: In the interests of ensuring our records are correct, anyone who currently holds a trade envoy position should e-mail plot@profounddecisions.co.uk with their details.
+Trade envoys were initially created to  the [[Principalities of Jarm]], the [[Asavean Archipelago]], [[Faraden]], the [[Commonwealth]] and the [[Sumaah Republic]]. A sixth Trade envoy, to the [[Sarcophan Delves]], was created in Winter 379YE.
+OOC Note: In the interests of ensuring our records are correct, anyone who currently holds a Trade envoy position should e-mail plot@profounddecisions.co.uk with their details.
 ## Constitution
-Considerable constitutional issues surrounded these posts; there were constitutional problems  with [[The Way|the way]] the titles were created, as it is not possible to create multiple titles with a single [[Senate motion|senate motion]] in this way. In addition, the titles are appointed annually, but as the titles have no legal powers they would normally be appointed with tenure (for life). Finally there was the [[Confusion|confusion]] generated by the Master of the Mint who successfully argued that the titles must be appointed through [[The Bourse|the Bourse]] since they concerned bourse [[Materials|materials]]. In fact, no such constitutional restriction exists, and there is no legal basis in the motions passed for the titles to be appointed by anyone but the [[Senate]]. A motion to abrogate the titles was raised in [[Summer]] 379YE, requested by the Constitutional Court as one of the steps toward creating the [[Imperial Consul]] but the Senate declined to do so.
+Considerable constitutional issues surrounded these posts; there were constitutional problems  with [[The Way]] the titles were created, as it is not possible to create multiple titles with a single [[Senate motion]] in this way. In addition, the titles are appointed annually, but as the titles have no legal powers they would normally be appointed with tenure (for life). Finally there was the confusion generated by the Master of the Mint who successfUlly argued that the titles must be appointed through the Bourse since they concerned bourse materials. In fact, no such constitutional restriction exists, and there is no legal basis in the motions passed for the titles to be appointed by anyone but the Senate. A motion to abrogate the titles was raised in Summer 379YE, requested by the Constitutional Court as one of the steps toWard creating the [[Imperial Consul]] but the Senate declined to do so.
 All the ongoing problems associated with these titles were resolved when their status as Imperial titles appointed by the Senate was clarified during Autumn 381YE.
 Responsibilities Expectation

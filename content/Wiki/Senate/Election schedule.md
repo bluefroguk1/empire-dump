@@ -1,42 +1,45 @@
 ---
-IgnoreLinking: False
+IgnoreLinking: false
 Title: Election schedule
-aliases: ['Election_schedule']
-draft: False
+aliases:
+- Election_schedule
+draft: false
 revision_date: 2023-09-18 19:02:49+00:00
 revision_id: 105759
-tags: ['Elections', 'Senate']
+tags:
+- Elections
+- Senate
 ---
 
 ## Overview
-Most significant Imperial titles are reelected annually on a specific date, for instance an election for the title of [[Senator]] of [[Madruga]] is held every summit at the [[Winter]] Solstice. If the title dies, is revoked or steps down then the title becomes vacant; it is re-elected at the earliest practical [[Opportunity|opportunity]] but an election for the title still takes place at the normal date.
-Some Imperial titles appointed by the [[Imperial Senate]] serve for a year from the summit where they were appointed. Such a title becomes eligible for reappointment at anytime during the summit one year later. The incumbent remains in position until replaced or at the end of the event - whichever comes sooner.  If [[The Senate|the Senate]] wish, they can choose to elect a title to serve for less than a year. This must be explicit in the wording of the [[Senate motion]].  It is not possible to extend the term beyond a year, nor to make it shorter than a single season, nor to restrict the length served of a tenured position.  
+Most significant Imperial Titles are reelected annually on a specific date, for instance an election for the title of [[Senator]] of [[Madruga]] is held every summit at the Winter Solstice. If the title dies, is revoked or steps down then the title becomes vacant; it is re-elected at the Earliest practical [[Opportunity]] but an election for the title still takes place at the normal date.
+Some Imperial titles appointed by the [[Imperial Senate]] serve for a year from the summit where they were appointed. Such a title becomes eligible for reAppointment at anytime during the summit one year later. The incumbent remains in position until replaced or at the end of the event - whichever comes sooner.  If the Senate wish, they can choose to elect a title to serve for less than a year. This must be explicit in the wording of the [[Senate motion]].  It is not possible to extend the term beyond a year, nor to make it shorter than a single season, nor to restrict the length served of a tenured position.  
 The majority of titles appointed by the [[Imperial Conclave]] can be reelected at any time through a [[Declaration]] of [[Candidacy]]. 
-Some Imperial titles have [[Tenure|tenure]]. The title is held until the citizen dies or steps down. 
-The schedule below shows the earliest summit at which each [[Imperial Title|Imperial title]] [[Will|will]] become eligible for reelection. A title may become eligible at any point before this if the title holder dies, steps down or is revoked.
+Some Imperial titles have tenure. The title is held until the citizen dies or steps down. 
+The schedule below shows the earliest summit at which each [[Imperial Title]] will become eligible for reelection. A title may become eligible at any point before this if the title holder dies, steps down or is revoked.
 ## Winter
 ### National Election
-* [[Senator]] for [[Astolat]]
-* [[Senator]] for [[Bregasland]]
-* [[Senator]] for [[Hercynia]]
-* [[Senator]] for [[Kallavesa]]
-* Senator for [[Madruga]]
+* Senator for [[Astolat]]
+* Senator for [[Bregasland]]
+* Senator for [[Hercynia]]
+* Senator for [[Kallavesa]]
+* Senator for Madruga
 * Senator for [[Miekarova]]
 * Senator for [[Necropolis]]
 * Senator for [[Ossium]]
 * Senator for [[Skarsind]]
 * Senator for [[Temeschwar]]
 * Senator for [[Zenith]]
-### [[Senate]] [[Appointment]]
+### Senate [[Appointment]]
 * [[Ambassador to Axos]]
 * [[Ambassador to Jarm]]
 * [[Ambassador to the Grendel]]
 * [[Ambassador to the Iron Confederacy]]
 * [[General]] of the [[Burning Falcon]]
-* [[General]] of the [[Golden Axe]]
-* [[General]] of the [[Green Shield]]
-* [[General]] of the [[Strong Reeds]]
-* [[General]] of the [[Towerjacks]]
+* General of the [[Golden Axe]]
+* General of the [[Green Shield]]
+* General of the [[Strong Reeds]]
+* General of the [[Towerjacks]]
 * General of the [[Winter Sun]]
 * [[Apothecary of Orieb]]
 * [[Cabalist of the Hollow Stone]]
@@ -46,14 +49,14 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Keeper of the Bone Hives
 * [[Keeper of the Breadbasket]]
 * [[Master of Sarcombe Metal Market]]
-* [[Merchant-Boyar of the Stinking Market|Merchant-boyar of the Stinking Market]]
+* [[Merchant-Boyar of the Stinking Market]]
 * [[Tender of the Blood Orchard]]
-### [[Throne]] [[Appointment]]
-* [[Captain of the Throne Guard]]
-### [[Synod]] [[Judgement]]
+### Throne Appointment
+* Captain of [[The Throne]] Guard]]
+### Synod [[Judgement]]
 * [[Cardinal of Prosperity]]
 * [[Cardinal of the Way]]
-* [[Inquisitor]] of [[Courage]]
+* Inquisitor of [[Courage]]
 * Inquisitor of [[Wisdom]]
 * [[Basilisk of the Bourse]]
 * [[High Exorcist]]
@@ -64,23 +67,23 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Voice of the House of Barbs
 * [[Champion of Loyalty]]
 * [[Champion of Pride]]
-### [[Cardinal]] [[Appointment]]
+### [[Cardinal]] Appointment
 * [[Conscience of the Senate]]
 * [[Gatekeeper of Prosperity]]
 * Curator of the Printer's [[Guild]] Museum
-### [[Conclave order|Conclave Order]] Vote
+### [[Conclave order]] Vote
 * [[Celestial Arch]]
 * [[Rod and Shield]]
-### [[Bourse]] Auction
+### Bourse Auction
 * [[Canterspire Circle]]
 * [[Golden Trees of Seren]]
-* [[Great Forest at Reikos]]
+* [[Great [[Forest]] at Reikos]]
 * [[Heartwood of the Great Vale]]
 * [[Hunt of Alderei the Fair]]
 * [[Weirwater Vales]]
 * [[Arbiter of the Rogue Declaration]]
 * First Imperial Wayleave
-* [[Prime Factor of the Pallas Docks]]
+* [[Prime Factor of the [[Pallas]] Docks]]
 * Second Imperial Wayleave
 ### Bourse Vote
 * [[Thimble]]
@@ -95,21 +98,21 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Warden of the Trees and Hills]]
 ### Other
 * [[Knight-protector]] of Winter
-## [[Spring]]
+## Spring
 ### National Election
 * Senator for [[Holberg]]
 * Senator for [[Karsk]]
 * Senator for [[Mournwold]]
 * Senator for [[Reikos]]
 * Senator for [[Segura]]
-* Senator for [[The Barrens|the Barrens]]
-### Senate [[Appointment]]
+* Senator for [[The Barrens]]
+### Senate Appointment
 * [[Advisor on Orc Affairs]]
 * [[Ambassador to Faraden]]
 * [[Ambassador to Otkodov]]
 * [[Ambassador to the Commonwealth]]
-* [[Ambassador to the Sumaah Republic]]
-* [[Crystal Architect of the Spires]]
+* [[Ambassador to the [[Sumaah]] Republic]]
+* [[Crystal [[Architect]] of the Spires]]
 * [[Imperial Spymaster]]
 * General of [[Isaella]]'s Dance
 * General of the [[Bloodcloaks]]
@@ -117,39 +120,39 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * General of the [[Iron Helms]]
 * General of the [[Tusks]]
 * General of the [[Valiant Pegasus]]
-* Butcher of the Meat and Mana Market of [[Temeschwar]]
+* Butcher of the Meat and Mana Market of Temeschwar
 * [[Custodian of the Kennels]]
 * [[Mayor of Caricomare]]
-* [[Steward of the Sarvos Mana Exchange]]
-### Synod [[Judgement]]
+* [[Steward of the [[Sarvos]] Mana Exchange]]
+### Synod Judgement
 * [[Lepidean Librarian]]
 * [[Cardinal of Ambition]]
 * [[Cardinal of Vigilance]]
 * Inquisitor of [[Loyalty]]
-* Inquisitor of [[Pride]]
+* Inquisitor of Pride
 * [[Auditor of Senatorial Accountability]]
-* [[Guardian]] of Britta's Memorial
+* Guardian of Britta's Memorial
 * [[High Bard of the Empire]]
 * [[Voice of the Twin Roses]]
 * [[Champion of Prosperity]]
-### [[Cardinal]] [[Appointment]]
+### Cardinal Appointment
 * [[Gatekeeper of Ambition]]
 * [[Gatekeeper of Vigilance]]
 * [[Imperial Chaplain Consular]]
-### [[Military Council]] Appointment
-* [[Imperial Fleet Master]]
-### [[Conclave order|Conclave Order]] Vote
+### Military Council Appointment
+* [[Imperial [[Fleet]] Master]]
+### Conclave Order Vote
 * [[Golden Pyramid]]
 * [[Sevenfold Path]]
 ### Bourse Auction
 * [[Master of the Imperial Mint]]
 * [[Regario Dossier]]
-* Syrene's [[Wisdom]]
-* [[Arbiter]] of the Rogue [[Declaration]]
+* Syrene's Wisdom
+* [[Arbiter]] of the Rogue Declaration
 * First Imperial Wayleave
-* [[Kruidenkenner Trademaster]]
+* Kruidenkenner Trademaster
 * Second Imperial Wayleave
-* [[Seer of the Spiral Sword]]
+* [[Seer of the [[Spiral]] Sword]]
 ### Bourse Vote
 * [[Cerevado Nets]]
 * [[Gift of the Dwindling Star]]
@@ -159,7 +162,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Bonesetter of Torfast Trading Post]]
 * [[Bursar of the House of Spirits]]
 * [[Custodian of Ivarsgard Docks]]
-* Custodian of the Assayer's [[Guild]]
+* Custodian of the Assayer's Guild
 * [[Marracossa Sendito]]
 * [[Merchant Boyar of the Bittershore]]
 * [[Preceptor of the Skarsind College of Warcasting]]
@@ -168,17 +171,17 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Talon of Kauppahall]]
 * [[Vizier of the Incarnadine Satchel]]
 ### Other
-* [[Knight-protector]] of Spring
-## [[Summer]]
+* Knight-protector of Spring
+## Summer
 ### National Election
 * Senator for [[Bastion]]
 * Senator for [[Karov]]
 * Senator for [[Miaren]]
 * Senator for [[Mitwold]]
 * Senator for [[Redoubt]]
-* Senator for [[Sarvos]]
+* Senator for Sarvos
 * Senator for [[Sermersuaq]]
-* Senator for [[Spiral]]
+* Senator for Spiral
 * Senator for [[Weirwater]]
 ### Senate Appointment
 * [[Imperial Consul]]
@@ -201,11 +204,11 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Keeper of Aurelie's Garden
 * [[Master of the Clearing House]]
 * [[Mediator of Hyljehal]]
-* [[Steward of the Tassato Mana Exchange]]
+* [[Steward of the [[Tassato]] Mana Exchange]]
 * [[Woundbinder of the Mark]]
 ### Throne Appointment
 * Queen's Rose
-### Synod [[Judgement]]
+### Synod Judgement
 * [[Cardinal of Courage]]
 * [[Cardinal of Wisdom]]
 * [[Imperial Inquisitor]]
@@ -218,10 +221,10 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Prelate of Adelmar's Shrine
 * [[Champion of Ambition]]
 * [[Champion of Vigilance]]
-### [[Cardinal]] Appointment
+### Cardinal Appointment
 * [[Gatekeeper of Courage]]
 * [[Gatekeeper of Wisdom]]
-### [[Conclave]] Order Vote
+### Conclave Order Vote
 * [[Unfettered Mind]]
 ### Bourse Auction
 * [[Arratan Gamble]]
@@ -229,7 +232,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Damatian Cliffs]]
 * [[Night Quarry]]
 * [[Sutton Stone Quarries]]
-* [[Arbiter of the Rogue Declaration]]
+* Arbiter of the Rogue Declaration
 * [[Custodian of the Concordium Dock]]
 * First Imperial Wayleave
 * Second Imperial Wayleave
@@ -249,15 +252,15 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Northbound Trademaster]]
 ### Other
 * Keeper of Brock's Toll
-* [[Knight-protector]] of Summer
-## [[Autumn]]
+* Knight-protector of Summer
+## Autumn
 ### National Election
 * Senator for [[Casinea]]
 * Senator for [[Hahnmark]]
 * Senator for [[Kahraman]]
 * Senator for [[Morrow]]
 * Senator for [[Semmerholm]]
-* Senator for [[Tassato]]
+* Senator for Tassato
 * Senator for [[Therunin]]
 * Senator for [[Upwold]]
 * Senator for [[Volodmartz]]
@@ -278,7 +281,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Spear of the Seven]]
 * [[Steward of the Nabarr]]
 * Tender of Tekkupala's Hives
-### Synod [[Judgement]]
+### Synod Judgement
 * [[Cardinal of Loyalty]]
 * [[Cardinal of Pride]]
 * Inquisitor of [[Ambition]]
@@ -292,7 +295,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * Watcher of Ratibor's Torch
 * [[Champion of Courage]]
 * [[Champion of Wisdom]]
-### [[Cardinal]] Appointment
+### Cardinal Appointment
 * [[Gatekeeper of Loyalty]]
 * [[Gatekeeper of Pride]]
 ### Military Council Appointment
@@ -303,17 +306,17 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Legate of the Imperial Auxiliaries]]
 * [[Oblivion Sentinel]]
 * [[Wisdom of the Tenebrous Path]]
-### [[Conclave order|Conclave Order]] Vote
+### Conclave Order Vote
 * [[Shuttered Lantern]]
 * [[Silver Chalice]]
 ### Bourse Auction
 * [[Fortress of Salt]]
-* [[Great Mine of Briante]]
+* [[Great [[Mine]] of Briante]]
 * [[Great Pits of Ennerlund]]
 * [[Legacy]]
 * [[Overseer of the Gloaming Road]]
-* [[Sunless Depths]]
-* [[Arbiter]] of the Rogue [[Declaration]]
+* Sunless Depths
+* Arbiter of the Rogue Declaration
 * [[Delver of the Depths]]
 * [[Elosian Architect]]
 * First Imperial Wayleave
@@ -322,7 +325,7 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 ### Bourse Vote
 * [[Brilliant Star]]
 * [[Eternal Shafts of Time]]
-* [[Pride]] of Ikka's Tears
+* Pride of Ikka's Tears
 * [[Singing Caves]]
 * [[Castellan of Spiral Castle]]
 * [[Bargainer of the Iron Tower]]
@@ -332,4 +335,4 @@ The schedule below shows the earliest summit at which each [[Imperial Title|Impe
 * [[Tolvoli Butcher]]
 ### Other
 * [[Emissary to the Celestial Library]]
-* [[Knight-protector]] of Autumn
+* Knight-protector of Autumn

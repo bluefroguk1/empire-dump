@@ -51,5 +51,5 @@ If you send an email to another character that is an in-character letter then th
 *We ask our NPCs not to send IC communications between events
 You are welcome to send IC communications to [[Egregores|egregores]] and [[Anvil]] civil servants between events but all our staff have been asked not to respond until the next event. They may ''choose'' to bring such IC communications with them to the next event and act on them there.
 [[Rituals]] cannot be performed in [[Downtime|downtime]] so you cannot perform [[Call Winged Messenger]] unless you are at an event.
-Please also appreciate that our crew are all volunteers. While they may choose to respond to questions, Profound Decisions do not expect crew to handle any OOC communications between events. If you need a response, please email Profound Decisions instead.
+Please also appreciate that our crew are all volunteers. While they may choose to respond to questions, Profound Decisions do not expect crew to handle any OOC communications between [[Events|events]]. If you need a response, please email Profound Decisions instead.
 Conduct_Further_Reading
