@@ -12,7 +12,7 @@ revision_id: 102749
 ---
 
 __NOTOC__
-Commission to expand [[The Academy]] of Arms in Siluri. This would create the title "Prelate of Adelmar's Shrine" granting 10 [[Liao]] and 20 Synod votes and allowing one basic [[Military unit]] to be upgraded for free each season.
+Commission to expand [[The Academy]] of Arms in Siluri. This would create the title "Prelate of Adelmar's Shrine" granting 10 [[Liao]] and 20 Synod votes and allowing one [[Basic]] [[Military unit]] to be upgraded for free each season.
 ## Overview
 * Expands the Academy of Arms in [[Redoubt]], as detailed in the [[Build up my body]] wind of fortune
 * Passed

@@ -29,7 +29,7 @@ By casting the spell on a single target that is close enough to touch, you deter
 ### Identify Ritual Performance
 You can use this spell to discern the magnitude and realm of a ritual that is being cast if you are close enough to hear the words of the ritual.
 ### Identify Magical Item
-By casting the spell on a single magic item you can determine its basic abilities. When used in this way it does not reveal the presence of any additional qualities such as the presence of a [[Curse]], [[Hallow]] or hidden roleplaying effect. Using the spell in this way will also detect any enchantments on the target item.
+By casting the spell on a single magic item you can determine its [[Basic]] abilities. When used in this way it does not reveal the presence of any additional qualities such as the presence of a [[Curse]], [[Hallow]] or hidden roleplaying effect. Using the spell in this way will also detect any enchantments on the target item.
 ### Discern [[Arcane Mark]]
 You may cast this spell on a single target to determine if they have an Arcane Mark, and whether than arcane mark is the same as your own (assuming you have one). When cast for this specific purpose, it does not discover any other information about enchantments on the target. This use of Detect detect magic is closely tied to the Right of Challenge of the members of the Conclave orders.
 ### Identify [[Regio]]

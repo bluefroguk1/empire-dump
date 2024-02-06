@@ -11,7 +11,7 @@ revision_id: 104887
 ## Overview
 In a live roleplaying game, the more effort every participant makes with their [[Costume]], the better the game becomes for everybody. By costume we don't just mean your character's clothing, we mean everything your charater has - any weapons and armour, as well as any props or set dressing that you bring to the event. The more convincing these things are, and the less modern items there are Visible in the game, then the more immersive and real the event feels for everyone.
 Empire is a closed world which means you can't just wear whatever you like. There is a look and feel guide for each of the ten nations in Empire that provides canonical descriptions of what the costume for that nation should look like. Empire is an aspirational game, and we ask everyone involved to follow the guide for their nation and try to have the best costume they can.
-We also want Empire to be inclusive however and provide explicit confirmation that all items needed for [[Accessibility]] are fine to use at Empire. We set basic minimum standards for the game that are clear and easily achieved, so that people can attend with confidence.
+We also want Empire to be inclusive however and provide explicit confirmation that all items needed for [[Accessibility]] are fine to use at Empire. We set [[Basic]] minimum standards for the game that are clear and easily achieved, so that people can attend with confidence.
 ## Minimum Standards
 * All participants must wear appropriate costume in the in-character area during time-in
 * Obviously modern garments such as jeans, t-shirts and white trainers must not be on show

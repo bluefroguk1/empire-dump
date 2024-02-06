@@ -13,7 +13,7 @@ tags:
 ## Overview
 The [[Jotun]] value [[Courage]], strength and martial prowess above other attributes. They do not throw their own lives away, nor use the Warriors of their subject nations as disposable troops, but they are invariably looking for a way to increase their honour, with an eye towards becoming ancestors when they die. The only true dishonour, most Jotun recognise is showing fear in the face of the enemy, or striking a Worthy opponent down by treacherous means.
 In battle, [[The Empire]] will usually encounter a mix of elite Jotun warriors and less skilled warriors drawn from the subject clans that are ruled by the Jotun. Where possible, we will try to field groups of Jotun warriors together, especially if they have similar [[Costume]], and then inter-space the line with [[Bands]] of regular barbarians.
-As with any Barbarian role, PD will provide simple costume that you can use when monstering the Jotun. The following page provide an overview of how you can improve upon the basic barbarian breastplate and soft kit available.
+As with any Barbarian role, PD will provide simple costume that you can use when monstering the Jotun. The following page provide an overview of how you can improve upon the [[Basic]] barbarian breastplate and soft kit available.
 ## Colour
 Red is the traditional tribal colour of the Jotun, and warriors will try to wear at least one item that is red whenever possible, so that other Jotun recognize and respect them. The ideal shades are dark or blood red, but brighter reds work well for highlights, accessories or wraps.
 ## Breakdown

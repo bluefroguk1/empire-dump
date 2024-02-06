@@ -30,7 +30,7 @@ They lose their nature, their soul and instead become filled with the nature of 
 
 True Liou is an interesting point here, this must allow you to access a previous spirit of your soul. Your soul has touched many spirits and memories and the true liou allows it to tap into that spirit.If your soul is what affects your personality and actions, then this is unusual. I said previously that magic cannot affect it yet there are rituals that will affect it, such as the [[Chamber of Delights]].
 
-This does not affect your core personality though, you still feel guilt and act in the basic way but with less inhibitions. Inhibitions are not part of your personality. It is like being drunk on nettle wine, it has not changed who you are, merely influenced you in a slight way.
+This does not affect your core personality though, you still feel guilt and act in the [[Basic]] way but with less inhibitions. Inhibitions are not part of your personality. It is like being drunk on nettle wine, it has not changed who you are, merely influenced you in a slight way.
 
 Finally you get husks of the Winter Realm, such as those summoned by the Winter Ritual. This takes bodies and replaces their soul with parts of the winter realm, allowing access to some of their memories but making them be the mindless servants fueled by emptiness and hunger. This is very different to the husks of The [[The Vallorn]] which are plants and moss that are within a terminal corpse, keeping it alive and stopping it from dying - so in this case they have both their spirit and their soul.
 

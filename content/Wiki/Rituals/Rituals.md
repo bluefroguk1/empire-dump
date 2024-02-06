@@ -13,7 +13,7 @@ revision_id: 102699
 ## Overview
 [[Rituals]] are powerful Magical spells that magicians can learn to perform by buying lore in one or more of the six realms. There are many more rituals than spells and most are much more powerful but they take longer to perform and can only be cast using crystal mana.
 Some powerful rituals are too difficult for any one magician to perform alone. Magicians usually form covens to allow them to combine their [[Skills]] to perform the most potent rituals.
-## Basic Rules
+## [[Basic]] Rules
 * Every ritual draws on one of the six realms
 * Every ritual has a [[Cost]] in crystalized mana to perform the ritual
 * A ritualist may only expend mana up to their level of skill

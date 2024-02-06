@@ -20,7 +20,7 @@ A cote is a front fastening overgarment that looks very medieval - often it's wo
 * A pen, soft pencil or chalk 
 * Buttons - pewter if you're feeling fancy, wood if you're feeling understated
 * An iron
-### The Basic Process
+### The [[Basic]] Process
 What we're going to do is draw a simple pattern consisting of two back and two fronts based on your body measurements. We'll then assemble the lining and the outer fabric step by step, with no Visible machine stitching or need for hand finishing except for the bottom hem which you can choose to finish by machine or by hand depending on your preference. There are quite a few steps to the process but none of them is hard, and by taking it a bite at a time even a beginner can make a success of the project.
 ### Making your pattern
 400px|thumb|left|pattern pieces 

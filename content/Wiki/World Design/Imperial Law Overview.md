@@ -11,7 +11,7 @@ tags:
 - The-Empire
 ---
 
-This page is intended to provide an out-of-character summary of the [[Imperial Law]]; it details the basic principles of the law and the key concepts. Most players should be able to get a [[General]] feel for the laws of [[The Empire]] from reviewing this page.
+This page is intended to provide an out-of-character summary of the [[Imperial Law]]; it details the [[Basic]] principles of the law and the key concepts. Most players should be able to get a [[General]] feel for the laws of [[The Empire]] from reviewing this page.
 ## Principles of Imperial law
 The principles of Imperial Law are contained in its constitutional documents. The [[Imperial Constitution]] sets out:
 * the principles underlying the relationship between the Nations and the Empire and the role of the [[Imperial Civil Service]]; 

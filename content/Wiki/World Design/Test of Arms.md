@@ -14,7 +14,7 @@ revision_id: 98704
 ## Overview
 The [[Test of Arms]] is an Imperial test administered by members of [[The Academy]]. A child who passes the test is considered to be competent and safe enough to [[Fight]] on [[The Battlefield]] in defence of [[The Empire]]. It consists of a period of LRP fighting and questions from staff members to asses a child's fighting competency and safety. Like the [[Test of Citizenship]] the Test is administered by the civil servants in The Academy.
 ### OOC
-In order to fight in any battle, skirmish, or quest not specifically run for younger role-players by The Academy, any player under the age of 16 must first pass the Test of Arms. The test provides a basic check whether a young player has the mental and physical maturity to cope with the excitement and risks of the battlefield. We also check that the parent or guardian has a good understanding of what is involved and is happy for their child to participate fUlly.
+In order to fight in any battle, skirmish, or quest not specifically run for younger role-players by The Academy, any player under the age of 16 must first pass the Test of Arms. The test provides a [[Basic]] check whether a young player has the mental and physical maturity to cope with the excitement and risks of the battlefield. We also check that the parent or guardian has a good understanding of what is involved and is happy for their child to participate fUlly.
 ## Requirements
 * The parent or guardian must be present throughout the Test of Arms.
 * The parent or guardian must register with the Academy staff their young players intent to take the test, and the parent/guardians understanding of the risks attending the battlefield. This should be at the beginnning of the event.

@@ -59,7 +59,7 @@ However if a coven attempts to perform a more powerful variant of the ritual to 
 They have prepared a simple table to summarise the effects and show the prOgression.
 ### The Deep
 * The ritual [[Still Waters, Running Deep]] is reduced to magnitude 24/13 at this summit.
-As a result of the lingering traces of Night magic, this powerful personal Enchantment will be easier to cast at the Summer Solstice. The basic magnitude of the ritual will be reduced to 24 plus 13 for each additional target.
+As a result of the lingering traces of Night magic, this powerful personal Enchantment will be easier to cast at the Summer Solstice. The [[Basic]] magnitude of the ritual will be reduced to 24 plus 13 for each additional target.
 Valeria notes that if Ilium is used to make the Enchantment permanent during the course of the summit, then it would require significantly less star metal than usual.
 ### The Stone
 * The magnitude of Distill the Serpent's Stone has increased to 100 for the duration of the Summer Solstice, during which time it will produce up to ''two'' stones

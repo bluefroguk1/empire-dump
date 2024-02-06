@@ -45,7 +45,7 @@ Shirts can be worn on their own as an alternative to a tunic, perhaps with a lea
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH004.html Tunic style shirt]
 ### Legwear
 Marcher leg wear is practical and slim fitting.  Close fitting trousers are practical and easy to come by or make.
-*[http://www.vikingsonline.org.uk/resources/authenticity/basickit/basickit5.html Basic trousers]
+*[http://www.vikingsonline.org.uk/resources/authenticity/basickit/basickit5.html [[Basic]] trousers]
 Hose is also easier to make and wear than you might think and can be very practical for both day to day wear and Fighting:    
 Woollen hose come as split hose, which are two separate legs with or without integral feet, or joined hose which are one piece with a flap at the groin. Split hose should be worn with long braies, which are a mid thigh length, baggy boxer short style garment. Joined hose, and some split hose will tie or 'point' to either a doublet, or to a 'pourpoint' (literally meaning 'for pointing'), which is a waistcoat style top worn in much the same way as modern braces are! Split hose can also be held up by a belt, if they have loops at the tops of the legs.
 Both braies and  split hose are very easy to make from scratch, although joined hose are fairly complex to get the fit right, which is the vital component to stopping them splitting! The other important factor for making hose is to make them stretchy. This can be done by using boiled wool, which is naturally stretchy, or '[http://en.wikipedia.org/wiki/Bias_(textile) cutting on the bias]' to use fabric's natural stretchy-ness.

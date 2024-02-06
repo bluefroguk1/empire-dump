@@ -18,7 +18,7 @@ Folk young and old are always ready to protect their home, [[Family]] and [[The 
 "The most common clothing for the Wintermark is a thigh length tunic over trousers" - most Winterfolk of any gender wear a version of this. Try several layers with varying sleeve and hem lengths.
 Some Winterfolk prefer a longer and fuller tunic or dress. The wealthier may also wear a [[Kirtle]] or very simple form of the bliaut and corsage (see specifics section). More details on this are given later. 
 Trousers are slim but not fitted, and normally wrapped with strips of cloth from ankle to knee.
-The differences between the three subcultures will be expressed in [[The Way]] you adorn the basic costume. More details follow.
+The differences between the three subcultures will be expressed in [[The Way]] you adorn the [[Basic]] costume. More details follow.
 ### [[Suaq]]
 Over their tunics the Suaq wear a hooded coat. In the cold north this would be made of thick animal  pelts, fur side in. In Warmer climates perhaps leather and in the imperial heartland in summer they may choose to wear linen or canvas versions. 
 Base coat colors tend to be pale to blend with the icy [[Landscape]]. Although they may keep them plain for hunting and scouting, at home most choose to paint or embroider their coats with bright sigils - symbols of animals and enemies the warrior has killed. Icewalkers tend to adorn their coats with fetishes in a similar way to [[Kallavesi]] mystics.

@@ -19,7 +19,7 @@ Season|Summer|12
 Casting time|2 Target Resource|[[Mine]]
 [[Enchantment]]
 ### Effects
-At the start of the next event the target Mine provides 100 rings and six ingots of additional [[Materials]], in addition to the materials it would normally provide. The additional materials are always of the same type as the basic mine, regardless of any improvements.  
+At the start of the next event the target Mine provides 100 rings and six ingots of additional [[Materials]], in addition to the materials it would normally provide. The additional materials are always of the same type as the [[Basic]] mine, regardless of any improvements.  
 Downtime buff
 ### Additional Targets
 This ritual can affect additional mines in the same territory. Each additional mine increases the magnitude by 10. The character who controls each mine must be present throughout the ritual.

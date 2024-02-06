@@ -26,5 +26,5 @@ To Commission the [[Great work]] ‘The Iron Qanat’ in Yellow Chase, [[Segura]
 ## PrOgress
 * 50 wains of weirwood and 100 crowns provided by Alexios i Zemress i [[Riqueza]] after Summer Solstice 383YE.
 ## Campaign Outcome
-* The basic Iron Qanat would allow [[The Brass Coast]] to support an additional army or navy. In addition the Red Plains [[Farm]] and the Golden Terraces would immediately be upgraded by a level (assuming they were in Imperial hands)
+* The [[Basic]] Iron Qanat would allow [[The Brass Coast]] to support an additional army or navy. In addition the Red Plains [[Farm]] and the Golden Terraces would immediately be upgraded by a level (assuming they were in Imperial hands)
 * The Iron Qanat has been built in the Sobral Grasses as proposed by the Zemress islanders who provided the Opportunity.

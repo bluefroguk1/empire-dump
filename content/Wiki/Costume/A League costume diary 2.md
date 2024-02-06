@@ -48,7 +48,7 @@ When placing the pattern on the fabric I wanted to make sure the damask pattern 
 200px|thumb|left
 Drafting the sleeves
 This was the most challenging part of the project as it was new ground and pushed my [[Skills]]. I wanted to capture some of the most outrageous moments of Landsknecht/Tudor fashion and aimed far beyond my actual capabilities. What we ended up with was a compromise between my fantasies and practicality. I could happily create an entire article on making sleeves for League dresses but I'll stick to what I did for this entry.
-To start I drafted some basic sleeves and ensured they had a comfortable fit. This was done on paper once more so I could happily cut up and mess around to get the right feel. 
+To start I drafted some [[Basic]] sleeves and ensured they had a comfortable fit. This was done on paper once more so I could happily cut up and mess around to get the right feel. 
 200px|thumb|left
 First step was to take off the tapered edges and create a rectangular core. The tapered edges where then placed together as they would when the sleeve was folded round. There would be no changes made to these tapered parts as they would sit against the bodice and I wanted them to be flat to ease arm movement and serve as a form to aid the puffs.
 200px|thumb|left

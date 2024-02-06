@@ -11,7 +11,7 @@ revision_id: 85218
 ---
 
 ## Varushkan Felt Hat
-This is a traditional European style of hat, simple to make using very basic [[Materials]] and tools. Traditionally it would be made starting with raw woollen fleece. This would be wound around a conical wooden former, wetted with urine and pounded with wooden bats until the wool compressed together to form a cone of felt. Once dried the cone would be dampened and reshaped into any of a variety of styles. ThankfUlly, today we have access to ready-made felt…
+This is a traditional European style of hat, simple to make using very [[Basic]] [[Materials]] and tools. Traditionally it would be made starting with raw woollen fleece. This would be wound around a conical wooden former, wetted with urine and pounded with wooden bats until the wool compressed together to form a cone of felt. Once dried the cone would be dampened and reshaped into any of a variety of styles. ThankfUlly, today we have access to ready-made felt…
 The instructions below give a quicker and less smelly way of achieving the same. You’re welcome to have a go at using the more traditional method though I suggest using a strong detergent solution instead of urine!
 ## Choosing Fabric:
 The hat needs to be made from an unstructured felt rather than a felted woven fabric as it has to be permanently stretched. Ideally you need a heavy-weight felt (at least 4mm) to give you the proper stiffness but most modern craft felt is quite thin. You can get round this by using the felt doubled.

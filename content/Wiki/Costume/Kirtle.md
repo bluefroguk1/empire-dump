@@ -8,7 +8,7 @@ tags:
 - Costume
 ---
 
-The [[Kirtle]] is the basic pUll on, t-shaped gown which was worn throughout northern Europe from the dark ages onWards. [http://iMages.google.com/images?q=medieval+kirtle kirtles] Later kirtles became more fitted and either button or lace up the front. These are often called Cotehardies.
+The [[Kirtle]] is the [[Basic]] pUll on, t-shaped gown which was worn throughout northern Europe from the dark ages onWards. [http://iMages.google.com/images?q=medieval+kirtle kirtles] Later kirtles became more fitted and either button or lace up the front. These are often called Cotehardies.
 Kirtles are usually worn over a lightweight underdress called a shift which can be made by simply adding some panels to a t-tunic to allow for movement. All three of these dresses are straightforward to make either from patterns or from pattern diagrams and are easy to buy from both reenactment and LARP suppliers. Generally these dresses are made from wool, but heavier weights of linen or cotton are also suitable. 
 These dresses can also be worn with the skirt tucked into the belt at the front to display the shift underneath, or show off a fancy lining. 
 *The underdress in this pattern [http://www.habithat.co.uk/product_info.php/products_id/8561 Burda Patterns 7977]

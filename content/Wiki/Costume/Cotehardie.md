@@ -8,7 +8,7 @@ tags:
 - Costume
 ---
 
-The [http://iMages.google.com/images?q=[[Cotehardie]] Cotehardie] developed from the [[Kirtle]] or tunic, a basic pUll on, t-shaped gown. The cotehardie emerged when its precursors became more fitted, adding either button or lace up the front. Cotehardies can also lace up the side, or in the back (showing status as help is required!) and can be as tight or loose as desired.
+The [http://iMages.google.com/images?q=[[Cotehardie]] Cotehardie] developed from the [[Kirtle]] or tunic, a [[Basic]] pUll on, t-shaped gown. The cotehardie emerged when its precursors became more fitted, adding either button or lace up the front. Cotehardies can also lace up the side, or in the back (showing status as help is required!) and can be as tight or loose as desired.
 The cotehardie comes in many lengths - from high on the thigh to floor length. It hangs best when made in heavier fabrics.
 Generally these dresses are made from wool, but heavier weights of linen or cotton are also suitable.
 The cotehardie tends to denote higher status than a simple tunic.

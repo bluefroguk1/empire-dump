@@ -46,7 +46,7 @@ On the other hand, the [[Appraisal]] suggests that the gardens be restored to th
 Specialised Ushabti
 Commission Type: Improvement; [[Ministry]]
 Special: Improves the Gardens of Pallas
-Cost: Additional 4 Thrones on top of basic costs
+Cost: Additional 4 Thrones on top of [[Basic]] costs
 Effect: Allows ''Gardener of Pallas'' to acquire additional herbs
 Additional Herbs
 7 crowns2 True Vervain, 2 Cerulean Mazzarine, 2 Imperial Roseweald, 2 Marrowort, 2 Bladeroot, 6 Random herbs

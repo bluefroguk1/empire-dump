@@ -52,7 +52,7 @@ At the same time, it would help to mitigate the current problems all Wintermark 
 ## The Skarsind Situation
 The situation in Skarsind from the point of view of the Imperial Orcs is summarized here. This section lays out the consequences of the changes from the point of view of Wintermark.
 * Skarsind is now an Imperial Orc territory. This means that any Wintermark character whose personal resource is in Skarsind will lose a third of their production.
-** Any Wintermark character can arrange to take control of a basic resource of any type (most likely in another Territory by going to GOD and paying an administration fee of two crowns. They can sell their existing resource to someone else in the process, or leave it vacant.
+** Any Wintermark character can arrange to take control of a [[Basic]] resource of any type (most likely in another Territory by going to GOD and paying an administration fee of two crowns. They can sell their existing resource to someone else in the process, or leave it vacant.
 ** The Civil Service will auction any upgraded resources abandoned in this way in the public Bourse auction
 ** You ''cannot'' "move" a resource - you are welcome to roleplay as you wish, but any upgrades on your existing resource are lost if you gain a new one in another territory.
 ** Characters whose personal resource is in Skarsind can continue to participate in the [[Appointment]] of the senators of Sermersuaq, Kallavesa, and Hahnmark, but there is nobody to represent them directly.

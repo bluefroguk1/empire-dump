@@ -18,7 +18,7 @@ Season|Night|6
 Casting time|2 Target Resource|Forest
 [[Enchantment]]
 ### Effects
-At the start of the next event, the target Forest produces an additional five measures of material. The additional [[Materials]] are always of the same type as the basic forest, regardless of any improvements. 
+At the start of the next event, the target Forest produces an additional five measures of material. The additional [[Materials]] are always of the same type as the [[Basic]] forest, regardless of any improvements. 
 Downtime buff
 ### Additional Targets
 This ritual can affect additional forests in the same territory. Each additional forest increases the magnitude by 4. The character who controls each forest must be present throughout the ritual.

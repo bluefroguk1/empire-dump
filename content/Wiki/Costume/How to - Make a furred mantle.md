@@ -24,7 +24,7 @@ TIP: often charity shops won't display fur collars or coats, but if you ask they
 ### Total [[Cost]] - about £15-20 for wool. £10 for an old fur coat, or £20 upWards for coyote fur
 First - take a look at this picture:
 File:Semicircle.png‎ 
-This is the basic shape of your cloak, where r=the width of your fabric. If your fabric is very long and you're not, you might want to make your circle a little smaller, but in fact you're as well to do that at the end when you hem it, as you lose quite a bit of length as you go. 60inch wide fabric makes a good cloak for most people, varying from ankle to mid calf length depending on your height. If your fabric has a nice finished edge (selvage) you can position the long flat edge along it, which saves you having to have to hem the front edges. 
+This is the [[Basic]] shape of your cloak, where r=the width of your fabric. If your fabric is very long and you're not, you might want to make your circle a little smaller, but in fact you're as well to do that at the end when you hem it, as you lose quite a bit of length as you go. 60inch wide fabric makes a good cloak for most people, varying from ankle to mid calf length depending on your height. If your fabric has a nice finished edge (selvage) you can position the long flat edge along it, which saves you having to have to hem the front edges. 
 For your head to go through, you'll need to cut another, smaller semicircle as shown:
 File:Semicircle2.png
 Make this hole smaller than you think - 3 inch radius is a good start, and gradually widen it out if that's not enough, but remember when you bind or hem the neck edge it'll get bigger. 

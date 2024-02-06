@@ -11,7 +11,7 @@ revision_id: 100675
 ---
 
 ## Overview
-While any skilled apothecary can prepare medicinal elixirs, the students of the [[Master Medicinal]] learn to make specialist Potions that expand on the basic knowledge shared by all students of herbalism.
+While any skilled apothecary can prepare medicinal elixirs, the students of the [[Master Medicinal]] learn to make specialist Potions that expand on the [[Basic]] knowledge shared by all students of herbalism.
 ## Tranquil Nostrum
 This bitter preparation is valued in situations where soldiers must recover quickly from one battle to prepare for another. It speeds natural Healing processes, as well as soothing troubled souls and making the drinker pleasantly relaxed and disinclined to be active or aggressive.
 In [[The Marches]] it is often called ''Tom Drake's Tea'' after the famous [[General]]. While some herbalists mix a spoonful of honey or sugar with the mixture to counteract the bitter taste, many yeomen prefer to drink it neat, or seasoned with salt. The famous General is said to have commented several times that the taste reminded him that even in victory, [[War]] is a bitter business. His constant companion, Friar (later Abbot) Agnes of Stockland, wrote in her journals that the Tranquil Nostrum also helped subdue and control the black moods to which the general was subject after every major engagement.

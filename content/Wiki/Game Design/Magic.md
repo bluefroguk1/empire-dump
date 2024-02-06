@@ -12,7 +12,7 @@ revision_id: 79207
 ## Overview
 The world of Empire is suffused with [[Magic]]. Powerful magicians who can harness the powers of magic directly are not common, but every citizen of [[The Empire]] is familiar with at least a few pieces of [[Hearth magic]] lore that they can use to make their life easier. Physicks and apothecaries use herbs infused with power to [[Heal]] wounds, cure ills, and make an array of useful Potions, while artisans use rare magical [[Materials]] to produce items of power.
 ## Magicians
-Any character who has purchased the magician skill is able to cast some basic spells and dedicated spellcasters are able to learn many more. If you are playing a magician then you will need to read the rules for [[Spellcasting]].
+Any character who has purchased the magician skill is able to cast some [[Basic]] spells and dedicated spellcasters are able to learn many more. If you are playing a magician then you will need to read the rules for [[Spellcasting]].
 Some magicians also learn how to perform [[Rituals]]. Rituals are much more powerful than spells, but they are far slower to cast and much more expensive. Anyone who has purchased any ritual [[Skills]] will need to read the rules for performing rituals.
 ## Herbs and Potions
 There are five magical herbs in Empire, which a physick can apply to heal wounds and remove a variety of ailments. Apothecaries take a different approach, mixing herbs together to create magical potions that anyone can drink. Anyone who has purchased either skill should read the rules for herbs and potions.

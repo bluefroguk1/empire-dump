@@ -26,7 +26,7 @@ On the last day of an event time in begins at 10 am and ends at 3pm.
 All players must be off site by the evening of the last day. 
 ## GOD and registration
 GOD – the Game Operations Desk – is a central out-of-character place for any queries, and a central PD contact point during events.
-Before you go into play, you should go to GOD pick up your character pack. This includes your character passport – a description of the basic system information about your character – as well as your character's money, ribbons for any special items, and cards for mana crystals, [[Liao]] and herbs.
+Before you go into play, you should go to GOD pick up your character pack. This includes your character passport – a description of the [[Basic]] system information about your character – as well as your character's money, ribbons for any special items, and cards for mana crystals, [[Liao]] and herbs.
 GOD's typical opening hours will be:
 * Thursday: 8pm–10pm
 * Friday: 1pm–4pm and 5pm–1am

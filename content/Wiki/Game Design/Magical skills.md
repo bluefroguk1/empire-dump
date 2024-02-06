@@ -14,7 +14,7 @@ revision_id: 101132
 ## Magician
 *2-point skill
 *You must purchase this skill before you can take any other Magical [[Magical skills]]
-You are able to cast the three basic spells; [[Detect Magic]], [[Operate Portal]] and [[Create Bond]]. You may gain additional spells by purchasing an extra spell.
+You are able to cast the three [[Basic]] spells; [[Detect Magic]], [[Operate Portal]] and [[Create Bond]]. You may gain additional spells by purchasing an extra spell.
 Each spell requires you to expend mana to cast them. The magician skill grants you four personal mana per day. You may purchase extra mana. Your character’s personal mana replenish overnight.
 If you have access to crystalized mana, then you may use these to cast spells instead of your personal mana. Crystalized mana is produced by a [[Mana site]], which is a personal resource. A starting site produces seven crystalized mana per event.
 ## Extra Mana

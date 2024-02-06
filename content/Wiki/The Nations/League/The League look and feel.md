@@ -41,7 +41,7 @@ A [[Bravo]] is usually light armoured if at all. They usually wield a rapier, so
 ## Bishops
 Bishops are priests who involve themselves in the complex politics of the League. They are often wealthy, and dress to demonstrate their wealth and spiritual authority to others. Bold colours and rich fabrics are common, but the clothing is usually cut to leave an onlooker in no doubt that the person they are looking at is a priest of [[The Way]]. Exotic appearing hats and other headgear are extremely common.
 ## Free companies
-The riotously bright uniforms of the free companies mostly comprise two colours, with sleeves and trousers in the main colour, slashed to let the contrasting colour show through. A steel breastplate and helm provides the basic armour.
+The riotously bright uniforms of the free companies mostly comprise two colours, with sleeves and trousers in the main colour, slashed to let the contrasting colour show through. A steel breastplate and helm provides the [[Basic]] armour.
 ## Banners
 An iconic impressive banner makes a bold statement for any free company.
 ## Theatre and masks

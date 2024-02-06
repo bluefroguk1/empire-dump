@@ -52,7 +52,7 @@ Undershirts are best made of a thin and light material, highly gathered to give 
 Use rich embroidered or gold trims. Think about using ribbon for the ties on both clothing for people of any gender.
 Where possible use lacing (again consider ribbon for all genders in Catazarria) and make sure the undershirt shows though at every seam and closure.
 ## Specifics
-### The basic garments by layer
+### The [[Basic]] garments by layer
  The single most important item of costume for the League will be a billowing undershirt - the more volume the better. If you can't make or source a round or square necked one as here, a standard larp shirt/chemise may do - try buying it oversized. Steer clear of shirts with a turned over collar. Women may wish to wear a long underdress/chemise or a shorter shirt tucked  into trousers/hose.
 Tight trousers are the ideal legwear. Hose should be the joined type. If you wear a more modern trouser style try hiding the fly and any belt loops with a wider belt or sash. If the top of your trousers is hidden by other layers and the bottom by boots, thick, plain leggings are a cheap and easy option for legwear.
 (Patterns and tutorials to follow)

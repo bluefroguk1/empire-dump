@@ -18,7 +18,7 @@ Season|Day|8
 Casting time|2 Target Resource|[[Mine]]
 [[Enchantment]]
 ### Effects
-At the start of the next event, the target Mine produces an additional eight ingots of material. The additional [[Materials]] are always of the same type as the basic mine, regardless of any improvements. 
+At the start of the next event, the target Mine produces an additional eight ingots of material. The additional [[Materials]] are always of the same type as the [[Basic]] mine, regardless of any improvements. 
 At the completion of the ritual the owner of the mine experiences a short-lived Roleplaying effect: they can hear gemstones, metal objects and especially items that include large amounts of one of the four materials found in mines 'singing' to them when they are nearby; these items also seem to glow faintly when they handle them. The singing and glow can be almost hypnotic. This effect persists for around ten minutes.
 Downtime buff
 ### Additional Targets

@@ -10,7 +10,7 @@ revision_date: 2022-01-12 15:38:47+00:00
 revision_id: 85215
 ---
 
-This guide to fabrics was created in 2012 by Jude Reid, and as such may be a little out of date. The basic information should still be relevant however.
+This guide to fabrics was created in 2012 by Jude Reid, and as such may be a little out of date. The [[Basic]] information should still be relevant however.
 ## Overview
 When it comes to making your Costumes, there is a baffling array of names and terms to describe fabric. Here is an attempt to help you make sense of it, as well as giving a rough guide to what I've found to be the best use for each textile. 
 All of this is presented merely as a series of suggestions, which you can heed as much or as little as you fancy - you might have more skill or luck with stuff that I've never had any joy with. 

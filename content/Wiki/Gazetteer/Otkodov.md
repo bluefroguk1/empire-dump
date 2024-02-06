@@ -16,7 +16,7 @@ The environment seems more "active" in Otkodov than in [[The Empire]]. Naturally
 ## Recent History
 This information was gathered through the use of a [[Spy network]] constructed by the [[Imperial Senate]] in 377YE. Much of Otkodov remains unknown.
 ## Territories
-Scouts and spies in Otkodov have been able to put together a very basic map of the four territories that compose the northernmost barbarian nation. This information is sketchy at best; more detailed information will require more action by Imperial forces. To date the scouts have compiled information about the major physical features of each territory, and the basic terrain of each Region within that territory.
+Scouts and spies in Otkodov have been able to put together a very [[Basic]] map of the four territories that compose the northernmost barbarian nation. This information is sketchy at best; more detailed information will require more action by Imperial forces. To date the scouts have compiled information about the major physical features of each territory, and the basic terrain of each Region within that territory.
 ### Nithoggir
 Cold plains, broken by rugged hills and the occasional mountain. As with Urdur, volcanic hot springs are common and in some places plumes of black smoke appear to rise naturally from beneath the ground. The northern coast drops away in great sheer cliffs – there is no easy access to the frigid iceberg-haunted sea. Parts of the coast are marked by great cracks of chasms that reach many miles inland and seem to be where much of the population is centred.
 Hecla and Vatnajokul are rugged, hilly terrain. Erawayugot, Isvorthor and Skarlans are cold plains and broken ground.

@@ -21,7 +21,7 @@ If the target has not experienced a past-life vision (such as that caused by tru
 If the subject has experienced a past-life vision within the last few days, they experience a Roleplaying effect that lasts until the next sunrise: ''you become calm and focused, and the experiences of your recent [[Past life vision]] becomes clearer and more immediate.''
 In addition to the roleplaying effect, the target receives a clear sense of the role they played in that vision. They receive an answer to the question "What was my identity during my recent vision?"
 The ritual reveals a name that the target would have called themselves at the point of the vision - "I am Eduard de Vexille", "I am Ivana Ivanova, the Butcher of Delev", "I am Atticus Visius Tarquinius" - regardless of whether that name was verbalised during the course of the vision. It will also provide ''some'' information about their role, or wider identity - for example "I am the [[Earl]] of House Vexille of [[Dawn]]", "I am the boyar of my vale in [[Karsk]]", "I am the guard of the Tarquinius [[Family]] tomb in Asavea"
-In addition the target gains a sense of roughly when the [[Events]] in the past life vision took place. This will be a historical period, like the basic information provided by [[Skein of Years]].
+In addition the target gains a sense of roughly when the [[Events]] in the past life vision took place. This will be a historical period, like the [[Basic]] information provided by [[Skein of Years]].
 This information is provided to the target of the ritual, not the ritualists.
 ### Additional Magnitude
 You may increase the magnitude of the ritual to penetrate shrouds or masks.

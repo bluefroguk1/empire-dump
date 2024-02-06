@@ -14,7 +14,7 @@ revision_id: 85234
 Getting the right costume can be a crucial part of developing your character - not all of us have the luxury of Commissioning a complete outfit from scratch, and assembling a new look from a mix of old and new kit can be a real Challenge. Here's how I Generally go about designing and assembling costume, using my work-in-prOgress Marcher Musician as an example as I go.
 ## Part 1 - Design and PLanning
 ### What sort of person is my character going to be?
-Here's where you try and get a basic idea of the person you're going to portray. Are they rich or poor? Practical or fanciful? What do they like and dislike? What elements of the brief am I going to pick up on here?
+Here's where you try and get a [[Basic]] idea of the person you're going to portray. Are they rich or poor? Practical or fanciful? What do they like and dislike? What elements of the brief am I going to pick up on here?
 One of the fun things I liked about [[The Marches]] brief is its practicality - it's not that the people aren't well off, it's just that they see no reason to squander money on fripperies - in fact, there's a real reverse snobbery that I thought I could pick up on. I want this outfit to be understated and very plain, for the most part, with a few little details that make it stand out. I'm going to use a palette of mostly browns, greys and creams, with a few touches of brass and gold here and there.
 ### What IC and OOC practical considerations do I need to take into account?
 Most outfits need a pouch to carry your IC money; it's helpful to have another pouch or a hidden pocket to keep your OOC essentials, such as OOC money and spirit gum for running makeup repairs.  You can set yourself a budget here if you like...!

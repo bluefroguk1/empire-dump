@@ -20,7 +20,7 @@ curse
 This ritual creates a Curse that is delivered to a target with a pronouncement of doom: one contributors is chosen to deliver the curse, and they must do so within fifteen minutes or it falls on their own head. 
 While under the curse, the target experiences a powerful Roleplaying effect; they find it difficult to hold on to money, and valuables slip out of their grasp. They become increasingly shabby in appearance and often find it physically difficult to hold money or other items of value without dropping them. They have a nagging aWareness of every disaster or misfortune that might [[Ruin]] them, their possessions or their [[Prosperity]].
 In addition, circumstances conSpire to cause the character to lose their valuables; thieves, unfortunate disasters, misplacing a jacket, unexpected bills, holes in the pockets and the like. While under the Curse the target loses three-quarters of any production that would have been provided by a personal Resource, including that provided by a [[Military unit]], and the [[Liao]] provided to a character who controls a [[Congregation]].
-The additional production provided by an [[Enchantment]] such as [[Rivers of Gold]] or [[Rampant Growth]], a character's basic income of [[18 Rings]], and the production of campaign resources is not affected by this Curse.
+The additional production provided by an [[Enchantment]] such as [[Rivers of Gold]] or [[Rampant Growth]], a character's [[Basic]] income of [[18 Rings]], and the production of campaign resources is not affected by this Curse.
 Year Duration
 ### Removing the Curse
 The curse can be removed by certain powerful creatures or items. It can also be alleviated by powerful [[Rituals]] that improve fate and chance.

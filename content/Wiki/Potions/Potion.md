@@ -12,7 +12,7 @@ revision_id: 104295
 
 ## Overview
 It is possible for a skilled apothecary to mix herbs together to create a powerful [[Potion]]. Simple potions produce Healing effects similar to herbs but they can be used by anyone - they do not require a skilled physick to apply them. More potent mixtures are capable of producing effects significantly more powerful than the simple herbs from which they are created.
-Most minor poisons are obsolete within [[The Empire]] due to the presence of Magicians who can remove basic poisons with a simple incantation, and apothecaries who can treat most poisoning with a simple Herb. Those looking to harm their opponents through such means seek out apothecaries who can brew potent, near magical toxins.
+Most minor poisons are obsolete within [[The Empire]] due to the presence of Magicians who can remove [[Basic]] poisons with a simple incantation, and apothecaries who can treat most poisoning with a simple Herb. Those looking to harm their opponents through such means seek out apothecaries who can brew potent, near magical toxins.
 ## Consuming a Potion
 * Any character can use a potion with five seconds of Appropriate roleplaying
 * A potion is wasted if it is not applied in the correct way

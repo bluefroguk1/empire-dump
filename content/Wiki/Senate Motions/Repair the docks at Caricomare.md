@@ -12,7 +12,7 @@ revision_id: 85863
 ---
 
 ## Winter 377YE
-Repair the docks at [[Sarvos]] to basic functionality.Proposed by [[Temeschwar]], seconded by Sarvos.
+Repair the docks at [[Sarvos]] to [[Basic]] functionality.Proposed by [[Temeschwar]], seconded by Sarvos.
 ### Overview
 * Repair the [[Caricomare]] Quays, the Ruined docks in Sarvos
 * Defeated

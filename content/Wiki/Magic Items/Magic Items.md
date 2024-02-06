@@ -33,7 +33,7 @@ Artisans can use Ilium to make a permanent artefact version of any magic item th
 *You can only be bonded to one of each form at once
 *Many personal Magic Items require you to have one or more [[Skills]] to bond to it
 Characters may bond to three different types of personal items. You may only be bonded to one item of each form: weapons, armour, and talismans.
-Each magic item has its own page on the wiki, but there is a summary of the magic items by category, linked on the right. The summary includes the name and basic effect of the item. There is also a complete summary of all magic items available.
+Each magic item has its own page on the wiki, but there is a summary of the magic items by category, linked on the right. The summary includes the name and [[Basic]] effect of the item. There is also a complete summary of all magic items available.
 ### Weapons
 WeaponsSkills Needed to Bond
 Daggers

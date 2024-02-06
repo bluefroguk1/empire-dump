@@ -4,7 +4,7 @@
 
 *Much of the history of Terunael and Early [[Navarr]] is difficult to date precisely, however Imperial scholars continue to work to uncover the tRuths of our past.*
 
-*Presented below is a basic timeline of the Navarri people.*
+*Presented below is a [[Basic]] timeline of the Navarri people.*
 
 **TERUNAEL**
 At its height, the Terunael empire may have lasted for between a hundred and three hundred years. During this period, the orcs were slowly driven out of the heartlands of what is today [[The Empire]]. The Terunael traded and Warred with other human cultures - Imperial scholars believe that the [[Suaq]], the [[Kallavesi]], the Ushka, the [[Feni]], and the [[Urizen]], or their forebears, were all present in some form or another during this time along with several cultures that no longer exist about whom we have only fragmentary records - such as the [[Gwerin Morfa]]. This period ends with the catastrophic Fall, and the creation of The [[The Vallorn]].

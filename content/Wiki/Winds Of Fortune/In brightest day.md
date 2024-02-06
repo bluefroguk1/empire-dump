@@ -12,7 +12,7 @@ revision_date: 2022-02-01 21:22:11+00:00
 revision_id: 86437
 ---
 
-"The thing about art is, right, that when you come down to it it's just paint or a lump of wood or a load of noises, right?" Sierra i Cassava i [[Riqueza]] sucked her bottom lip for a moment thoughtfUlly, brow furrowed as she searched for the right words. "But something transforms the basic material into something else, something spiritual, right? I mean, in human hands - "
+"The thing about art is, right, that when you come down to it it's just paint or a lump of wood or a load of noises, right?" Sierra i Cassava i [[Riqueza]] sucked her bottom lip for a moment thoughtfUlly, brow furrowed as she searched for the right words. "But something transforms the [[Basic]] material into something else, something spiritual, right? I mean, in human hands - "
 "Or orc hands," interjected Blackspear Tak.
 "Yes or orc hands, in people's hands it's like alchemy. It transmutes the ... the ... the ''medium'' and that in turn transforms the spirit of the person who experiences it. Good art does, I mean. Not bad art. Bad art is ... well bad art I guess is ..."
 "Shit." provided Blackspear Tak.

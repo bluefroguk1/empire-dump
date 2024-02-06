@@ -33,7 +33,7 @@ The orders for the barbarian armies are submitted by members of the military cam
 ## Outcome
 * The side with the largest fighting strength wins
 The outcome of a campaign is found by comparing the total military strength of both sides in the territory. The military strength of each force is adjusted based on the orders their General or admiral has submitted for them. Even though individual armies and navies are given specific orders, the outcome of the entire campaign as a whole is determined by all the forces on both sides. The side with the higher military strength wins.
-The basic outcome can be significantly affected by any battles or skirmishes linked to that military campaign that take place at the events.
+The [[Basic]] outcome can be significantly affected by any battles or skirmishes linked to that military campaign that take place at the events.
 ### Attacking Unopposed
 * Territory is gained 50% faster than normal
 Forces that attack a territory that contains no defenders are considered to be attacking unopposed. They do not take any casualties and receive a significant bonus to the attempts to conquer regions in the territory. A single [[Fortification]] in a territory is sufficient to negate this advantage.

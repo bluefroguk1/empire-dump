@@ -9,7 +9,7 @@ revision_id: 98443
 ---
 
 ## Overview
-While the basic [[Technology]] of the game is aimed at a Magical-medieval tone, there are a few things that go beyond the historical equivalents in the setting. This page lays out some of the important elements of common technology in [[The Empire]] that distinguish the setting from historical Europe. Most of these additions are designed to provide in-character explanations for real world technology - to make the setting fit the game better.
+While the [[Basic]] [[Technology]] of the game is aimed at a Magical-medieval tone, there are a few things that go beyond the historical equivalents in the setting. This page lays out some of the important elements of common technology in [[The Empire]] that distinguish the setting from historical Europe. Most of these additions are designed to provide in-character explanations for real world technology - to make the setting fit the game better.
 It is important to note that Empire is ''not'' a game of technological exploration - technological advancement and invention are not themes of the game. This means that you cannot invent binoculars by putting two spyglasses together - this is against the spirit of the game and would fail if you tried it. Substances like gunpowder are not part of our setting and cannot be researched or discovered.
 ## Lightstones
 Lightstone is an uncommon crystalline Mineral mined primarily in the peaks of [[Urizen]], although there are also small deposits in The Mountains of [[Kahraman]], [[Wintermark]], and [[Varushka]]. In its natural state, it is translucent and may be mistaken for a form of tempest jade. When properly cut and polished, however, the unique property of the lightstone is revealed; the stone glows, producing light without heat.
