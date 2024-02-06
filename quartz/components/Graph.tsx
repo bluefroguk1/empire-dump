@@ -36,7 +36,7 @@ const defaultOptions: GraphOptions = {
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
-    removeTags: ['Senate-Motions'],
+    removeTags: ['Senate-Motion'],
   },
   globalGraph: {
     drag: true,
@@ -49,7 +49,7 @@ const defaultOptions: GraphOptions = {
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
-    removeTags: [],
+    removeTags: ['Senate-Motion'],
   },
 }
 
