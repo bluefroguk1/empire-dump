@@ -87,7 +87,7 @@ Buy two skeins of embroidery thread and oversew your eyelets. Not only will you 
 ### Got an extra £5? Make Harry happy by making some headwear
 Buy 1m of nice wool and use the pattern on [http://www.virtue.to/articles/hoodlum.html this page] under the heading "Cynthia's version" to make yourself an open hood. Tie some leftover lining round your head like a headscarf, pop your hood on top and you'll look great. 
 ### Got an extra £20 and want something really useful and special?
-Order yourself a medieval belt in a colour of yOur choice, like one of [http://www.lionheartreplicas.co.uk/shop/index.php?categoryID=89 these]. Tie round waist with the end dangling down and feel brilliant.
+Order yourself a medieval belt in a colour of yOur choice, like one of [http://www.lionheartreplicas.co.uk/shop/[[index]].php?categoryID=89 these]. Tie round waist with the end dangling down and feel brilliant.
 ### Hungry for more?
 Why not use the [[How to - Make a simple tunic]] tutorial to make a shift to go under it - if you get an extra 2m of ikea bomull cotton it makes a great lightweight underlayer and you're still under £30!
 __NOTOC__

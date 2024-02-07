@@ -32,11 +32,11 @@ const defaultOptions: GraphOptions = {
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
-    linkDistance: 30,
+    linkDistance: 50,
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
-    removeTags: ['Senate-Motions'],
+    removeTags: ['Senate-Motion'],
   },
   globalGraph: {
     drag: true,
@@ -45,11 +45,11 @@ const defaultOptions: GraphOptions = {
     scale: 0.9,
     repelForce: 0.5,
     centerForce: 0.3,
-    linkDistance: 30,
+    linkDistance: 50,
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
-    removeTags: [],
+    removeTags: ['Senate-Motion'],
   },
 }
 

@@ -82,7 +82,7 @@ Pull the sleeve lining up so it's poking out of the armhole on the inside. Pinni
 400px|thumb|left|Pin All all the way round
 Now handstitch the sleeve lining to the lining of the body, trying not to catch the outer fabric of either. Your stitches don't need to be too tiny or neat, but secure your thread well and put a few extra stitches in to lock your thread every few inches.
 ### Fasteners
-If you have a buttonhole attachment on your machine, you're laughing for the next bit - just mark your buttonholes at the desired spacing with the button-marks equally spaced [[On the other side]], and away you go. I like to use [http://www.lionheartreplicas.co.uk/shop/index.php?productID=263 these buttons] spaced one inch apart.
+If you have a buttonhole attachment on your machine, you're laughing for the next bit - just mark your buttonholes at the desired spacing with the button-marks equally spaced [[On the other side]], and away you go. I like to use [http://www.lionheartreplicas.co.uk/shop/[[index]].php?productID=263 these buttons] spaced one inch apart.
 You can work your [http://www.personal.utulsa.edu/~marc-carlson/jennifer/buttons/Buttonhole%20page.htm buttonholes by hand, too] - folk in the middle ages didn't seem too fussed about making them all that neat. Or, if that amount of handsewing doesn't appeal, you could use [http://www.venacavadesign.co.uk/Products/Norwegian_Clasps.html Norwegian clasps] like these ones for a different look.
 400px|thumb|left|And here's one I made earlier
 I'm still waiting for the buttons to arrive for the blue velvet one, so photos will have to wait too.

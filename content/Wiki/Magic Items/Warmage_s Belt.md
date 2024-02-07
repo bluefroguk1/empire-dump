@@ -27,5 +27,5 @@ Illyrio sighed and stood up straight, his cheeks flushing a bright red. His emba
 At once, Illyrio felt Empowered – potent and confident. A perfect choice not just for his meeting with the guild, but a marvellous accompaniment to any outfit. He smiled.
 “I trust it meets with your approval.” Illyrio nodded vigorously.
 “The full outfit will be ready in the morning. I expect prompt and full payment.” Illyrio carefully removed the new belt and robe, handing them to the child as Tillita adjusted the mirror impatiently. Illyrio took his cue and with a curt bow left the room, dragging his apprentice behind him.
-Tillita fidgeted with the gold ring adorning her left index finger and motioned to the naga boy.
+Tillita fidgeted with the gold ring adorning her left [[index]] finger and motioned to the naga boy.
 “Please be so kind as to pay a Visit to Master Parati. Wish him good health and inform him of the details of Illyrio's purchase.” The youth nodded and sped off down the stairs, leaving Tillita whistling to herself as she prepared the studio for her next customer. She had never loved her job more.

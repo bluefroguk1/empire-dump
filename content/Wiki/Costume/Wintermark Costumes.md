@@ -123,7 +123,7 @@ http://www.3owls.org/sca/costume/saxon.htm
 * [http://www.dein-larp-shop.de/de/ Dein LARP Store] has a large range of appropriate dresses, trousers and tunics. Note their page has a translate button and they ship to UK.
 * [http://www.lrpstore.com/ LRP Store] sell short and long sleeved tunics.
 * [https://www.facebook.com/groups/customcostumecompany/ Custom Costume Company] Bespoke designs for re-enactors and roleplayers
-* [http://www.larp-fashion.de/shop/index.php LARP Fashion] sells several styles of tunic and some simple trousers and dresses.
+* [http://www.larp-fashion.de/shop/[[index]].php LARP Fashion] sells several styles of tunic and some simple trousers and dresses.
 * [http://www.velvet-glove.co.uk/index.php Velvet Glove] have several plain tunics.
 * [http://www.medievalmerchant.co.uk/ Medieval Merchant] stock tunics and dresses.
 * [http://www.chowsemporium.co.uk/chows/suede-effect-cloaks.html Chow’s Emporium] has tunics.

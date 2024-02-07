@@ -14,7 +14,7 @@ These dresses can also be worn with the skirt tucked into the belt at the front 
 *The underdress in this pattern [http://www.habithat.co.uk/product_info.php/products_id/8561 Burda Patterns 7977]
 *[http://www.habithat.co.uk/product_info.php/products_id/11433 Burda Patterns 7468]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH017.html Reconstructing History 018]
-*[http://www.classhistory.co.uk/Herts%20Fabrics/store/index.php?route=product/product&path=48_49&product_id=344 Authentic Patterns Late Medieval Kirtle]
+*[http://www.classhistory.co.uk/Herts%20Fabrics/store/[[index]].php?route=product/product&path=48_49&product_id=344 Authentic Patterns Late Medieval Kirtle]
 *[http://www.paulmeekins.co.uk/patterns/patternpages/RH002.html Reconstructing History pattern RH002]
 *[http://sallypointer.com/[[Costume]]-textile-pages/make-a-simple-medieval-dress Basic pattern instructions]
 *[http://medievalweddingdresses.ideasforweddings.net/making-medieval-wedding-dresses/basic-kirtle-gown-pattern/ Basic pattern instructions]

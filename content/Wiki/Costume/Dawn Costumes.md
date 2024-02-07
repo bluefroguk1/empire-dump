@@ -95,7 +95,7 @@ For formal occasions, a great way to dress up a Cotehardie is by putting a sidel
 Although not a required part of costume, a headdress, crown or hat can be the finishing touch that pushes a costume from good to fantastic. A crown, either metal or a good substitute, can look fabulously regal on a noble or [[Earl]]. A less formal look which still adds stature and majesty is the Chaperon, which was initially a hood worn sideways on the head and gradually developed into a more structured hat. Hoods are also good, particularly for yeoman characters, with particolouring, dagging and buttons helping to keep the look from sliding towards the Marches.
 For historical women's headgear, looks are virtually limitless. Historical inspiration can be drawn from royalty of the 11th century (crown and veil), through the ever changing noble fashion of Templars, padded roll and veil, through to the elaborate steeple hennins of 15th century France, and the English butterfly headdresses of the same time. Even a simple padded roll, ren-fest style, can look good with a lower status costume.
 Unsuitable hats - Try to avoid any historical looks from the Tudor period and later, as they can look a bit incongruous with medieval fantasy costume. And remember, headwear is for display and not for modesty, so consider rich, bright colours and sparkling whites,  and leave the dull linen Coifs to The Marches.
-* http://www.kats-hats.co.uk/index.shtml
+* http://www.kats-hats.co.uk/[[index]].shtml
 * http://medievalmilliner.blogspot.co.uk/
 * http://thecostumersmanifesto.com/costumeoldsite/history/100pages/chaperons.htm
 * http://www.virtue.to/articles/reticulated.html

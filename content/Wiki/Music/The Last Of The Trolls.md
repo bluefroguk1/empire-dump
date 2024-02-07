@@ -12,7 +12,7 @@ revision_date: 2018-05-15 14:12:56+00:00
 revision_id: 63455
 ---
 
-A story song adapted by Wulfmear Dunwold. Original lyrics are from [https://awoiaf.westeros.org/index.php/The_Last_of_the_Giants The Last of the Giants] in A Storm of Swords by George RR Martin. 
+A story song adapted by Wulfmear Dunwold. Original lyrics are from [https://awoiaf.westeros.org/[[index]].php/The_Last_of_the_Giants The Last of the Giants] in A Storm of Swords by George RR Martin. 
 Oh I am [[The Last Of The Trolls]], my people are gone from the earth,
 The last of the great mountain trolls, who ruled the world at my birth.
 Oh the men have stolen my Forests and glens , stolen my rivers and hills,
