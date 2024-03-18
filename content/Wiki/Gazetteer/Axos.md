@@ -9,7 +9,7 @@ revision_date: 2023-08-05 17:46:31+00:00
 revision_id: 104486
 ---
 
-## InTroduction
+## Introduction
 The [[Axos]] Citadels are located to the south east of [[The Empire]] on the far side of [[Urizen]], and sharing a border with [[Skoura]]. Their name refers to [[The Chain]] of citadels that protrude from the crags that line the coast. A people with an ancient history, the Aneleito Axou, or Merciless Axos, are an allegiance of sorcerous city states each answering to a sorcerer king.  The Citadels have fierce rivalries with each other, but stand together against the barbarians and the Empire. Due to the catastrophic losses they have suffered, they are more given to diplomatic outcomes and solutions. They have developed strong cultural ties with the people of [[The Mountain]] in Skoura, trading with them for ore and stone in exchange for military aid and sorcerous Assistance.
 Never particularly friendly to the Empire, they politely closed their borders against Imperial traders in 207YE. Prior to that there had been a few border skirmishes, but given their closest neighbours were the Urizen, these skirmishes rarely came to anything. In 330 YE, diplomatic overtures from the [[Senator]] for [[Spiral]] were sent into Axos but rebuffed; it is believed that the Urizen were attempting to arrange a joint defence of that beleaguered territory but no records exist one way or another.
 Of particular interest to Imperial citizens are the Axou ports which are open to trade with the Empire.
